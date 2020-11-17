@@ -1,0 +1,1567 @@
+{
+    "id": "tt0185937",
+    "title": "The Blair Witch Project",
+    "originalTitle": "",
+    "fullTitle": "The Blair Witch Project (1999)",
+    "type": "Movie",
+    "year": "1999",
+    "image": "https://imdb-api.com/images/original/MV5BNzQ1NDBlNDItMDAyYS00YTI2LTgwMmYtMzAwMzg4NDFlM2ZmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1999-07-28",
+    "runtimeMins": "81",
+    "runtimeStr": "1h 21mins",
+    "plot": "In search of a local legend, three bold amateur documentarians--director, Heather; cameraman, Josh; sound recorder, Mike--hike into Burkittsville's gloomy Black Hills Forest to find a shadow: the fabled Blair Witch. Now, one long year later--after that fateful October of 1994--there's still no sign of the student filmmakers, apart from the raw footage they left behind. Who knows what truly happened during their creepy five-day journey into the mouth of madness? Was there, indeed, an intangible supernatural presence in the dark woods that led to the team's disappearance? Either way, the missing trio must have seen something. Could the nightmarish myth be real?",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "19 wins & 26 nominations.",
+    "directors": "Daniel Myrick, Eduardo S\u00e1nchez",
+    "directorList": [
+        {
+            "id": "nm0617130",
+            "name": "Daniel Myrick"
+        },
+        {
+            "id": "nm0844896",
+            "name": "Eduardo S\u00e1nchez"
+        }
+    ],
+    "writers": "Daniel Myrick, Eduardo S\u00e1nchez, Heather Donahue",
+    "writerList": [
+        {
+            "id": "nm0617130",
+            "name": "Daniel Myrick"
+        },
+        {
+            "id": "nm0844896",
+            "name": "Eduardo S\u00e1nchez"
+        },
+        {
+            "id": "nm0231946",
+            "name": "Heather Donahue"
+        }
+    ],
+    "stars": "Heather Donahue, Michael C. Williams, Joshua Leonard, Bob Griffin",
+    "starList": [
+        {
+            "id": "nm0231946",
+            "name": "Heather Donahue"
+        },
+        {
+            "id": "nm0931321",
+            "name": "Michael C. Williams"
+        },
+        {
+            "id": "nm0502671",
+            "name": "Joshua Leonard"
+        },
+        {
+            "id": "nm1482809",
+            "name": "Bob Griffin"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0231946",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2ODE1NTcwMV5BMl5BanBnXkFtZTYwNzI4NzY2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Heather Donahue",
+            "asCharacter": "Heather Donahue"
+        },
+        {
+            "id": "nm0502671",
+            "image": "https://imdb-api.com/images/original/MV5BMzQ4MTc5NzY3OF5BMl5BanBnXkFtZTgwODQ5NTc0NjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Joshua Leonard",
+            "asCharacter": "Joshua 'Josh' Leonard"
+        },
+        {
+            "id": "nm0931321",
+            "image": "https://imdb-api.com/images/original/MV5BYTU2MmY4ZDEtODk5YS00MjlmLThjYTktYTg1ZDZiODVhZjlkXkEyXkFqcGdeQXVyOTM3NzM0MTk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael C. Williams",
+            "asCharacter": "Michael 'Mike' Williams (as Michael Williams)"
+        },
+        {
+            "id": "nm1482809",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Griffin",
+            "asCharacter": "Short Fisherman"
+        },
+        {
+            "id": "nm0454865",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim King",
+            "asCharacter": "Interviewee"
+        },
+        {
+            "id": "nm0845172",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sandra S\u00e1nchez",
+            "asCharacter": "Waitress (as Sandra Sanchez)"
+        },
+        {
+            "id": "nm0841781",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ed Swanson",
+            "asCharacter": "Fisherman With Glasses"
+        },
+        {
+            "id": "nm0213986",
+            "image": "https://imdb-api.com/images/original/MV5BYWNkYjQ2M2MtMzVkYS00NzE2LTg0MDMtOWU2Mjk2ZjA1MmE3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio2.0000_AL_.jpg",
+            "name": "Patricia DeCou",
+            "asCharacter": "Mary Brown"
+        },
+        {
+            "id": "nm0556844",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mark Mason",
+            "asCharacter": "Man in Yellow Hat"
+        },
+        {
+            "id": "nm0356492",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Susie Gooch",
+            "asCharacter": "Interviewee with Child (as Jackie Hallex)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0185937",
+        "title": "The Blair Witch Project",
+        "fullTitle": "The Blair Witch Project (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0617130",
+                    "name": "Daniel Myrick",
+                    "description": ""
+                },
+                {
+                    "id": "nm0844896",
+                    "name": "Eduardo S\u00e1nchez",
+                    "description": "(as Eduardo Sanchez)"
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0617130",
+                    "name": "Daniel Myrick",
+                    "description": "(written by) &"
+                },
+                {
+                    "id": "nm0844896",
+                    "name": "Eduardo S\u00e1nchez",
+                    "description": "(written by) (as Eduardo Sanchez)"
+                },
+                {
+                    "id": "nm0231946",
+                    "name": "Heather Donahue",
+                    "description": "(documentary material) (uncredited)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0231946",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2ODE1NTcwMV5BMl5BanBnXkFtZTYwNzI4NzY2._V1_Ratio0.7273_AL_.jpg",
+                "name": "Heather Donahue",
+                "asCharacter": "Heather Donahue"
+            },
+            {
+                "id": "nm0502671",
+                "image": "https://imdb-api.com/images/original/MV5BMzQ4MTc5NzY3OF5BMl5BanBnXkFtZTgwODQ5NTc0NjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Joshua Leonard",
+                "asCharacter": "Joshua 'Josh' Leonard"
+            },
+            {
+                "id": "nm0931321",
+                "image": "https://imdb-api.com/images/original/MV5BYTU2MmY4ZDEtODk5YS00MjlmLThjYTktYTg1ZDZiODVhZjlkXkEyXkFqcGdeQXVyOTM3NzM0MTk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael C. Williams",
+                "asCharacter": "Michael 'Mike' Williams (as Michael Williams)"
+            },
+            {
+                "id": "nm1482809",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bob Griffin",
+                "asCharacter": "Short Fisherman"
+            },
+            {
+                "id": "nm0454865",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jim King",
+                "asCharacter": "Interviewee"
+            },
+            {
+                "id": "nm0845172",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sandra S\u00e1nchez",
+                "asCharacter": "Waitress (as Sandra Sanchez)"
+            },
+            {
+                "id": "nm0841781",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ed Swanson",
+                "asCharacter": "Fisherman With Glasses"
+            },
+            {
+                "id": "nm0213986",
+                "image": "https://imdb-api.com/images/original/MV5BYWNkYjQ2M2MtMzVkYS00NzE2LTg0MDMtOWU2Mjk2ZjA1MmE3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio2.0000_AL_.jpg",
+                "name": "Patricia DeCou",
+                "asCharacter": "Mary Brown"
+            },
+            {
+                "id": "nm0556844",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mark Mason",
+                "asCharacter": "Man in Yellow Hat"
+            },
+            {
+                "id": "nm0356492",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Susie Gooch",
+                "asCharacter": "Interviewee with Child (as Jackie Hallex)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0184770",
+                        "name": "Robin Cowie",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0251593",
+                        "name": "Bob Eick",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0289320",
+                        "name": "Kevin J. Foxe",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0354918",
+                        "name": "Gregg Hale",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0597842",
+                        "name": "Michael Monello",
+                        "description": "co-producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0178992",
+                        "name": "Antonio Cora",
+                        "description": "(as Tony Cora)"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0292864",
+                        "name": "Neal Fredericks",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0617130",
+                        "name": "Daniel Myrick",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0844896",
+                        "name": "Eduardo S\u00e1nchez",
+                        "description": "(as Eduardo Sanchez)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0734146",
+                        "name": "Ben Rock",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0604160",
+                        "name": "Ricardo Moreno",
+                        "description": "(as Ricardo R. Moreno)"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0213986",
+                        "name": "Patricia DeCou",
+                        "description": "art technician"
+                    },
+                    {
+                        "id": "nm0230011",
+                        "name": "Brigan Gresh",
+                        "description": "scenic artist (as Brigan Docking)"
+                    },
+                    {
+                        "id": "nm0924457",
+                        "name": "Andrew White",
+                        "description": "scenic artist"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm8042475",
+                        "name": "Carles Berot",
+                        "description": "dubbing supervisor"
+                    },
+                    {
+                        "id": "nm0169420",
+                        "name": "Harry Cohen",
+                        "description": "final sound mixer"
+                    },
+                    {
+                        "id": "nm0502294",
+                        "name": "Gerry Lentz",
+                        "description": "final sound mixer"
+                    },
+                    {
+                        "id": "nm0576138",
+                        "name": "Dana Meeks",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm0792089",
+                        "name": "Jack Sherdel",
+                        "description": "sound"
+                    },
+                    {
+                        "id": "nm0918312",
+                        "name": "Richard Weingart",
+                        "description": "final sound mixer (as Rich Weingart)"
+                    },
+                    {
+                        "id": "nm0125742",
+                        "name": "Eddie Bydalek",
+                        "description": "sound recordist (uncredited)"
+                    },
+                    {
+                        "id": "nm2787689",
+                        "name": "Paul Curtis",
+                        "description": "dialogue editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0281307",
+                        "name": "Elisabeth Flaum",
+                        "description": "sound effects editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0403311",
+                        "name": "Allen Hurd",
+                        "description": "sound (uncredited)"
+                    },
+                    {
+                        "id": "nm0448402",
+                        "name": "Shawn Kennelly",
+                        "description": "foley mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm0852160",
+                        "name": "Clive Taylor",
+                        "description": "sound editor (TV version) (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0086728",
+                        "name": "Steven A. Blake",
+                        "description": "stunt rigging"
+                    },
+                    {
+                        "id": "nm0720595",
+                        "name": "Douglas Retzler",
+                        "description": "stunt rigging"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0213681",
+                        "name": "Stefanie DeCassan",
+                        "description": "still photographer (as Stefanie Decassan)"
+                    },
+                    {
+                        "id": "nm0520078",
+                        "name": "Hector Lopez",
+                        "description": "additional photographer"
+                    },
+                    {
+                        "id": "nm0808859",
+                        "name": "Julie Ann Smith",
+                        "description": "still photographer"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0199327",
+                        "name": "Lisa Dane",
+                        "description": "additional casting"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm3093985",
+                        "name": "John Sellars",
+                        "description": "colorist"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0062951",
+                        "name": "Melvin Bayer",
+                        "description": "location"
+                    },
+                    {
+                        "id": "nm0174060",
+                        "name": "Matt Compton",
+                        "description": "location"
+                    },
+                    {
+                        "id": "nm0346504",
+                        "name": "Christian Gueverra",
+                        "description": "location"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0057512",
+                        "name": "Dan Barrio",
+                        "description": "music assistant"
+                    },
+                    {
+                        "id": "nm0178992",
+                        "name": "Antonio Cora",
+                        "description": "musician (as Tony Cora)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0004087",
+                        "name": "Howard Bernstein",
+                        "description": "phase one instigator"
+                    },
+                    {
+                        "id": "nm0090451",
+                        "name": "Mark Bobrow",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0111876",
+                        "name": "Beverly Brooks",
+                        "description": "video to film transfer"
+                    },
+                    {
+                        "id": "nm0119154",
+                        "name": "Shelley Buell",
+                        "description": "accountant"
+                    },
+                    {
+                        "id": "nm0141875",
+                        "name": "Rachel Carter",
+                        "description": "audition assistant"
+                    },
+                    {
+                        "id": "nm0165975",
+                        "name": "Harry Clein",
+                        "description": "marketing: Clein + Walker"
+                    },
+                    {
+                        "id": "nm0173668",
+                        "name": "Ray Combs",
+                        "description": "behind-the-scenes video"
+                    },
+                    {
+                        "id": "nm0174060",
+                        "name": "Matt Compton",
+                        "description": "audition assistant"
+                    },
+                    {
+                        "id": "nm0184771",
+                        "name": "Sarah Cowie",
+                        "description": "accountant"
+                    },
+                    {
+                        "id": "nm0213678",
+                        "name": "Carolyn DeCassan",
+                        "description": "audition assistant / production assistant (as Carolyn Decassan)"
+                    },
+                    {
+                        "id": "nm0213681",
+                        "name": "Stefanie DeCassan",
+                        "description": "audition assistant / production assistant (as Stefanie Decassan)"
+                    },
+                    {
+                        "id": "nm0232089",
+                        "name": "David Donaldson",
+                        "description": "video to film transfer"
+                    },
+                    {
+                        "id": "nm0265420",
+                        "name": "Julia Fair",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0322714",
+                        "name": "Lonnie Glerum",
+                        "description": "key production assistant"
+                    },
+                    {
+                        "id": "nm0125454",
+                        "name": "Trey Howard",
+                        "description": "investor tape production (as Trey Butts)"
+                    },
+                    {
+                        "id": "nm0429877",
+                        "name": "Chrystal Jordan",
+                        "description": "investor tape production (as Crystal Jordan)"
+                    },
+                    {
+                        "id": "nm0452170",
+                        "name": "Shannon Kibler",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0573996",
+                        "name": "Kurt McNew",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0595894",
+                        "name": "Zubi Mohammed",
+                        "description": "behind-the-scenes video"
+                    },
+                    {
+                        "id": "nm0629547",
+                        "name": "Britt Nichols",
+                        "description": "audition assistant"
+                    },
+                    {
+                        "id": "nm0639312",
+                        "name": "Gene O'Baker",
+                        "description": "accountant"
+                    },
+                    {
+                        "id": "nm0681032",
+                        "name": "Kelly Phipps",
+                        "description": "audition assistant"
+                    },
+                    {
+                        "id": "nm0682775",
+                        "name": "John Pierson",
+                        "description": "phase one instigator: Grainy Pictures"
+                    },
+                    {
+                        "id": "nm0686555",
+                        "name": "Billy Plank",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0686572",
+                        "name": "Tina Plank",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0690822",
+                        "name": "Dave Poole",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0781765",
+                        "name": "Dave Segal",
+                        "description": "investor tape production"
+                    },
+                    {
+                        "id": "nm1461862",
+                        "name": "Wendy Smith",
+                        "description": "investor tape production"
+                    },
+                    {
+                        "id": "nm0812723",
+                        "name": "Joe Solari",
+                        "description": "investor tape production"
+                    },
+                    {
+                        "id": "nm0825672",
+                        "name": "Adrian Steinbach",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0845172",
+                        "name": "Sandra S\u00e1nchez",
+                        "description": "production assistant (as Sandra Sanchez)"
+                    },
+                    {
+                        "id": "nm0889113",
+                        "name": "Fahad Vania",
+                        "description": "audition assistant / production assistant"
+                    },
+                    {
+                        "id": "nm0912446",
+                        "name": "Dennis Warner",
+                        "description": "investor tape production"
+                    },
+                    {
+                        "id": "nm0924233",
+                        "name": "William L. Whitacre",
+                        "description": "legal (as Bill Whitacre)"
+                    },
+                    {
+                        "id": "nm0935339",
+                        "name": "Jenn Winn",
+                        "description": "investor tape production"
+                    },
+                    {
+                        "id": "nm1061442",
+                        "name": "Sam Barber",
+                        "description": "pre-production supervisor (uncredited)"
+                    },
+                    {
+                        "id": "nm1810123",
+                        "name": "Dan Karcher",
+                        "description": "website producer (uncredited)"
+                    },
+                    {
+                        "id": "nm1836692",
+                        "name": "Sam Longoria",
+                        "description": "camera consultant (uncredited)"
+                    },
+                    {
+                        "id": "nm0956165",
+                        "name": "Cathy Ziehl",
+                        "description": "assistant to studio vice president (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0057352",
+                        "name": "Jane E. Barrick",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0094229",
+                        "name": "Teresa Bone",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0099206",
+                        "name": "Steve Boudreau",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0110835",
+                        "name": "Peter Broderick",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0127946",
+                        "name": "Carmen Cacaven",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0138657",
+                        "name": "Larry Carneglia",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0146933",
+                        "name": "Karo Cavanaugh",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0163730",
+                        "name": "Brian Clark",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0184764",
+                        "name": "Fran Cowie",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0184767",
+                        "name": "Les Cowie",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0186001",
+                        "name": "Sandy Craig",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0193450",
+                        "name": "Matthew Curtis",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm5352577",
+                        "name": "Dex Dean",
+                        "description": "special thanks: Coastal Leasing"
+                    },
+                    {
+                        "id": "nm0213679",
+                        "name": "Cecilia DeCassan",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0213680",
+                        "name": "Gino DeCassan",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0213681",
+                        "name": "Stefanie DeCassan",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0289321",
+                        "name": "Sarah Foxe",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0289705",
+                        "name": "Ingrid Fraley",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0289712",
+                        "name": "Richard Fraley",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0309272",
+                        "name": "Melanie Gasper",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0319285",
+                        "name": "Ellen Gillis",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0322714",
+                        "name": "Lonnie Glerum",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0346504",
+                        "name": "Christian Gueverra",
+                        "description": "special thanks (as Christian Guevara)"
+                    },
+                    {
+                        "id": "nm0350140",
+                        "name": "Dee Guzzi",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0354926",
+                        "name": "Jackie Hale",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0355025",
+                        "name": "Tonya Hale",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0360974",
+                        "name": "Lynda Hansen",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0365386",
+                        "name": "Thomas Ethan Harris",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0412576",
+                        "name": "Diana Iwanow",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1385640",
+                        "name": "Jeff Johnsen",
+                        "description": "special thanks (as Jeff Johnson)"
+                    },
+                    {
+                        "id": "nm0425769",
+                        "name": "Mary Johnson",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0428873",
+                        "name": "Mike Jones",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0427595",
+                        "name": "Robert Jones",
+                        "description": "special thanks (as Bob Jones)"
+                    },
+                    {
+                        "id": "nm1017363",
+                        "name": "Nancy Jane King",
+                        "description": "special thanks (as Nancy King)"
+                    },
+                    {
+                        "id": "nm1447504",
+                        "name": "Louise Levison",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0513626",
+                        "name": "Jean Lipphard",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0525529",
+                        "name": "Sandra Lukas",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0534260",
+                        "name": "Scott Macquarrie",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm1162076",
+                        "name": "Terry Martin",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0573996",
+                        "name": "Kurt McNew",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0604092",
+                        "name": "Margarita Moreno",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0604133",
+                        "name": "Oscar Moreno",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0606498",
+                        "name": "Dick Morris",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0619477",
+                        "name": "Joe Nagy",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0625614",
+                        "name": "Michael Nelson",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1637915",
+                        "name": "Dave Norman",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0639312",
+                        "name": "Gene O'Baker",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0641437",
+                        "name": "Peg O'Keef",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0670693",
+                        "name": "Anthony Pekarik",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0673540",
+                        "name": "Klark J. Perez",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0682770",
+                        "name": "Janet Pierson",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0682775",
+                        "name": "John Pierson",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0722412",
+                        "name": "Don Rhodes",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0728887",
+                        "name": "Jim Ritzel",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0728888",
+                        "name": "Korrin Ritzel",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0768064",
+                        "name": "Brian Saway",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0768065",
+                        "name": "Cecilia Saway",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0768066",
+                        "name": "Rick Saway",
+                        "description": "special thanks (as Rita Saway)"
+                    },
+                    {
+                        "id": "nm0768067",
+                        "name": "William Saway",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0792089",
+                        "name": "Jack Sherdel",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0807640",
+                        "name": "Catherine Smith",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0807985",
+                        "name": "Don Smith",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0825673",
+                        "name": "Ali Steinbach",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0849633",
+                        "name": "Francis Tanner",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0849665",
+                        "name": "Lindsey Tanner",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0881110",
+                        "name": "Jan Ungaro",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0881116",
+                        "name": "Richard Ungaro",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm0912446",
+                        "name": "Dennis Warner",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0932125",
+                        "name": "Paul K. Williamson",
+                        "description": "special thanks: St. Augustine Amphitheatre"
+                    },
+                    {
+                        "id": "nm0939854",
+                        "name": "Lorraine Wood",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0959047",
+                        "name": "Tara Zwicker",
+                        "description": "special thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Horror, Mystery",
+    "genreList": [
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        }
+    ],
+    "companies": "Haxan Films",
+    "companyList": [
+        {
+            "id": "co0112898",
+            "name": "Haxan Films"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "6.5",
+    "imDbRatingVotes": "224011",
+    "metacriticRating": "81",
+    "ratings": {
+        "imDbId": "tt0185937",
+        "title": "The Blair Witch Project",
+        "fullTitle": "The Blair Witch Project (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "imDb": "6.5",
+        "metacritic": "81",
+        "theMovieDb": "6.3",
+        "rottenTomatoes": "87",
+        "tV_com": "9.5",
+        "filmAffinity": "5.0",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0185937",
+        "title": "The Blair Witch Project",
+        "fullTitle": "The Blair Witch Project (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "language": "en",
+        "titleInLanguage": "The Blair Witch Project",
+        "url": "https://en.wikipedia.org/wiki/The_Blair_Witch_Project",
+        "plotShort": {
+            "plainText": "The Blair Witch Project\r\nThe Blair Witch Project is a 1999 American supernatural horror film written, directed and edited by Daniel Myrick and Eduardo S\u00e1nchez. It tells the fictional story of three student filmmakers\u2014Heather Donahue, Michael C. Williams, and Joshua Leonard\u2014who hike in the Black Hills near Burkittsville, Maryland in 1994 to film a documentary about a local legend known as the Blair Witch. The three disappeared, but their equipment and footage is discovered a year later. The purportedly \"recovered footage\" is the film the viewer sees.\r\nMyrick and S\u00e1nchez conceived of a fictional legend of the Blair Witch in 1993. They developed a 35-page screenplay with the dialogue to be improvised. A casting call advertisement in Backstage magazine was prepared by the directors; Donahue, Williams and Leonard were cast. The film entered production in October 1997, with the principal photography taking place in Maryland for eight days. About 20 hours of footage was shot, which was edited down to 82 minutes.\r\nWhen The Blair Witch Project premiered at the Sundance Film Festival on January 25, 1999, its promotional marketing campaign listed the actors as either \"missing\" or \"deceased\". Owing to its successful run at Sundance, Artisan Entertainment bought the film's distribution rights for $1.1 million. The film had a limited release on July 14, 1999, before expanding to a wider release starting July 30. While critical reception was mostly positive, audience reception was split.\r\nThe film is heavily credited with reviving the found-footage technique which was later used by similarly successful horror films such as Paranormal Activity and Cloverfield. A sleeper hit, The Blair Witch Project grossed nearly $250 million worldwide on a modest budget of $60,000, making it one of the most successful independent films of all time. The film launched a media franchise, which includes two sequels (Book of Shadows and Blair Witch), novels, comic books, and video games.",
+            "html": "<h2>The Blair Witch Project</h2><p>The Blair Witch Project is a 1999 American supernatural horror film written, directed and edited by Daniel Myrick and Eduardo S\u00e1nchez. It tells the fictional story of three student filmmakers\u2014Heather Donahue, Michael C. Williams, and Joshua Leonard\u2014who hike in the Black Hills near Burkittsville, Maryland in 1994 to film a documentary about a local legend known as the Blair Witch. The three disappeared, but their equipment and footage is discovered a year later. The purportedly \"recovered footage\" is the film the viewer sees.</p><p>Myrick and S\u00e1nchez conceived of a fictional legend of the Blair Witch in 1993. They developed a 35-page screenplay with the dialogue to be improvised. A casting call advertisement in Backstage magazine was prepared by the directors; Donahue, Williams and Leonard were cast. The film entered production in October 1997, with the principal photography taking place in Maryland for eight days. About 20 hours of footage was shot, which was edited down to 82 minutes.</p><p>When The Blair Witch Project premiered at the Sundance Film Festival on January 25, 1999, its promotional marketing campaign listed the actors as either \"missing\" or \"deceased\". Owing to its successful run at Sundance, Artisan Entertainment bought the film's distribution rights for $1.1 million. The film had a limited release on July 14, 1999, before expanding to a wider release starting July 30. While critical reception was mostly positive, audience reception was split.</p><p>The film is heavily credited with reviving the found-footage technique which was later used by similarly successful horror films such as Paranormal Activity and Cloverfield. A sleeper hit, The Blair Witch Project grossed nearly $250 million worldwide on a modest budget of $60,000, making it one of the most successful independent films of all time. The film launched a media franchise, which includes two sequels (Book of Shadows and Blair Witch), novels, comic books, and video games.</p>"
+        },
+        "plotFull": {
+            "plainText": "The Blair Witch Project\r\nThe Blair Witch Project is a 1999 American supernatural horror film written, directed and edited by Daniel Myrick and Eduardo S\u00e1nchez. It tells the fictional story of three student filmmakers\u2014Heather Donahue, Michael C. Williams, and Joshua Leonard\u2014who hike in the Black Hills near Burkittsville, Maryland in 1994 to film a documentary about a local legend known as the Blair Witch. The three disappeared, but their equipment and footage is discovered a year later. The purportedly \"recovered footage\" is the film the viewer sees.\r\nMyrick and S\u00e1nchez conceived of a fictional legend of the Blair Witch in 1993. They developed a 35-page screenplay with the dialogue to be improvised. A casting call advertisement in Backstage magazine was prepared by the directors; Donahue, Williams and Leonard were cast. The film entered production in October 1997, with the principal photography taking place in Maryland for eight days. About 20 hours of footage was shot, which was edited down to 82 minutes.\r\nWhen The Blair Witch Project premiered at the Sundance Film Festival on January 25, 1999, its promotional marketing campaign listed the actors as either \"missing\" or \"deceased\". Owing to its successful run at Sundance, Artisan Entertainment bought the film's distribution rights for $1.1 million. The film had a limited release on July 14, 1999, before expanding to a wider release starting July 30. While critical reception was mostly positive, audience reception was split.\r\nThe film is heavily credited with reviving the found-footage technique which was later used by similarly successful horror films such as Paranormal Activity and Cloverfield. A sleeper hit, The Blair Witch Project grossed nearly $250 million worldwide on a modest budget of $60,000, making it one of the most successful independent films of all time. The film launched a media franchise, which includes two sequels (Book of Shadows and Blair Witch), novels, comic books, and video games.\r\nPlot\r\nIn October 1994, film students Heather, Mike, and Josh set out to produce a documentary about the fabled Blair Witch. They travel to Burkittsville, Maryland, and interview residents about the legend. Locals tell them of Rustin Parr, a hermit who lived in the woods and kidnapped seven children in the 1940s, supposedly killing all of them on the orders of the witch. The students explore the woods in north Burkittsville to research the legend. They meet two fishermen, one of whom warns them that the woods are haunted. He tells them of a young girl named Robin Weaver who went missing in 1888; when she returned three days later, she talked about \"an old woman whose feet never touched the ground.\" The students hike to Coffin Rock, where five men were found ritualistically murdered in the 19th century. Their bodies later disappeared.\r\nThey camp for the night, and the next day, find an old cemetery with seven small cairns. That night, they hear the sound of twigs snapping. The following day, they try to hike back to the car but are unable to find it before dark and make camp. They again hear twigs snapping. In the morning, they find that three cairns have been built around their tent. Heather learns her map is missing. Mike reveals he kicked the map into a creek out of frustration, which prompts the other two to attack him in rage as they realize they are now lost. They decide to head south, using Mike's compass, and discover humanoid stick figures suspended from trees. They again hear strange sounds that night, including children laughing. After an unknown force shakes the tent, they flee in panic and hide in the woods until dawn.\r\nUpon returning to their tent, they find that their possessions have been rifled through, and Josh's equipment is covered with slime. They come across a river identical to one they crossed earlier and realize they have walked in a circle. Josh suffers a breakdown because of the dire situation and disappears the next morning. Heather and Mike try in vain to find him before proceeding. That night, they hear Josh's agonized screams but are unable to locate him. They theorize that his screams are a fabrication by the witch to draw them out of their tent.\r\nThe next day, Heather discovers a bundle of sticks tied with fabric from Josh's shirt. She also finds blood-soaked scraps of his shirt as well as teeth, hair, and a piece of his tongue. Although distraught, she chooses not to tell Mike. That night, she records herself apologizing to her family and to Mike's and Josh's families, taking responsibility for their predicament.\r\nThey again hear Josh's agonized cries and follow them to an abandoned house containing demonic symbols and children's bloody hand-prints on the walls. Trying to find Josh, they go to the basement, where an unseen force attacks Mike, causing him to drop his camera. Heather enters the basement screaming, and her camera captures Mike standing in a corner. The unseen force attacks Heather, causing her to drop her camera as well and the footage ends.\r\nProduction\r\nDevelopment\r\nDevelopment of The Blair Witch Project began in 1993. While film students at the University of Central Florida, Daniel Myrick and Eduardo S\u00e1nchez were inspired to make the film after realizing that they found documentaries on paranormal phenomena scarier than traditional horror films. The two decided to create a film that combined the styles of both. In order to produce the project, they, along with Gregg Hale, Robin Cowie and Michael Monello, started Haxan Films. The namesake for the production company is Benjamin Christensen's 1922 silent documentary horror film H\u00e4xan (English: Witchcraft Through the Ages).\r\nMyrick and S\u00e1nchez developed a 35-page screenplay for their fictional film, intending dialogue to be improvised. A casting call advertisement in Backstage magazine was prepared by the directors, and Donahue, Williams and Leonard were cast. The film entered production in October 1997. The principal photography took place in Maryland for eight days, overseen by cinematographer Neal Fredericks. About 20 hours of footage was shot; this was edited to 82 minutes.\r\nIn developing the mythology behind the film, the creators used many inspirations. For instance, several character names are near-anagrams: Elly Kedward (The Blair Witch) is Edward Kelley, a 16th-century mystic, and Rustin Parr, the fictional 1940s child-murderer, began as an anagram for Rasputin. The Blair Witch is said to be, according to legend, the ghost of Elly Kedward, a woman banished from the Blair Township (latter-day Burkittsville) for witchcraft in 1785.\r\nThe directors incorporated that part of the legend, along with allusions to the Salem witch trials and Arthur Miller's 1953 play The Crucible, to play on the themes of injustice done to those who were classified as witches.\r\nThe directors also cited influences such as the television series In Search of..., and horror documentary films Chariots of the Gods and The Legend of Boggy Creek. Other influences included commercially successful horror films such as The Shining, Alien, and The Omen. Jaws was an influence, as the film hides the witch from the viewer for its entirety, increasing the suspense of the unknown.\r\nPre-production\r\nPre-production began on October 5, 1997. In talks with investors, the directors presented an eight-minute documentary, along with newspapers and news footage. The documentary was aired on the defunct television series Split Screen hosted by John Pierson.\r\nThe directors advertised in Backstage magazine for actors with strong improvisational abilities. The informal improvisational audition process narrowed the pool of 2,000 actors.\r\nAccording to Heather Donahue, auditions for the film were held at Musical Theater Works in New York City. The advertisement said a \"completely improvised feature film\" would be shot in a \"wooded location\". Donahue said that during the audition, Myrick and S\u00e1nchez posed her the question: \"You've served seven years of a nine year sentence. Why should we let you out on parole?\" to which she had to respond. Joshua Leonard said he was cast due to his knowledge of how to run a camera, as no omniscient camera was used to film the scenes.\r\nFilming\r\nPrincipal photography began on October 23, 1997 and lasted eight days. Most of the film was shot in Seneca Creek State Park in Montgomery County, Maryland. A few scenes were filmed in the historic town of Burkittsville. Some of the townspeople interviewed in the film were not actors, and some were planted actors, unknown to the main cast. Donahue had never operated a camera before and spent two days in a \"crash course\". Donahue said she modeled her character after a director she had once worked with, noting her character's \"self-assuredness\" when everything went as planned, and confusion during crisis.\r\nDuring filming, the actors were equipped with CP-16 film and Hi8 video cameras provided by cinematographer Neal Fredericks. They were given clues as to their next location through messages hidden inside 35 mm film cans left in milk crates they found with Global Positioning Satellite systems. They were given individual instructions to use to help improvise the action of the day. Teeth were obtained from a Maryland dentist for use as human remains in the film. Influenced by producer Gregg Hale's memories of his military training, in which \"enemy soldiers\" would hunt a trainee through wild terrain for three days, the directors moved the characters a long way during the day, harassing them by night, and depriving them of food.\r\nAccording to the filmmakers' commentary, the unseen figure that Donahue is shouting about as she is running away from the tent is the film's art director Ricardo Moreno, who was wearing white long-johns, white stockings and white pantyhose pulled over his head. It was initially intended for the figure to be revealed on camera as the Blair Witch herself, but the cameraman forgot to pan to the left of Donahue to capture footage of Moreno. The scene was never reshot.\r\nThe final scenes were filmed at the historic Griggs House, a 200-year-old building located in the Patapsco Valley State Park near Granite, Maryland. Filming concluded on October 31, Halloween.\r\nPost-production\r\nAfter filming, the 20 hours of raw footage had to be cut down to two and a half hours; the editing process took more than eight months. The directors screened the first cut in small film festivals in order to get feedback and make changes that would ensure that it appealed to as large an audience as possible. Originally, it was hoped that the film would make it on to cable television, and the directors did not anticipate wide release. The final version was submitted to Sundance Film Festival.\r\nAfter becoming a surprise hit at Sundance, during its midnight premiere on January 25, 1999, Artisan Entertainment bought the distribution rights for $1.1 million. Prior to that, Artisan had wanted to change the film's original ending, as the test audience were puzzled, although scared. (Donahue screams in terror and finds Michael C. Williams facing a corner in the basement before she is knocked to the ground.) The directors and Williams traveled back to Maryland and shot four alternate endings, one of which employed bloody elements. Ultimately, they decided to keep the original. Myrick said, \"What makes us fearful is something that's out of the ordinary, unexplained. The first ending kept the audience off balance; it challenged our real world conventions and that's what really made it scary.\"\r\nIn an interview with Entertainment Weekly, S\u00e1nchez revealed that when principal photography first wrapped, approximately $20,000 to $25,000 had been spent. Richard Corliss of Time magazine reported a $35,000 estimated budget. Other figures list a final budget ranging between $500,000 and $750,000. By September 2016, The Blair Witch Project has been officially budgeted at $60,000.\r\nMarketing\r\nThe Blair Witch Project is thought to be the first widely released film marketed primarily by the Internet. The film's official website featured faux police reports as well as \"newsreel-style\" interviews. These augmented the film's found footage device to spark debates across the Internet over whether the film was a real-life documentary or a work of fiction. During screenings, the filmmakers made advertising efforts to promulgate the events in the film as factual, including the distribution of flyers at festivals such as Sundance, asking viewers to come forward with any information about the \"missing\" students. The campaign tactic was that viewers were being told, through missing persons posters, that the characters were missing while researching in the woods for the mythical Blair Witch. The IMDb page also listed the actors as \"missing, presumed dead\" in the first year of the film's availability. The film's website contains materials of actors posing as police and investigators giving testimony about their casework, and shared childhood photos of the actors to add a sense of realism. The ruse continued despite Douglas having appeared on late night talk shows touting the film.\r\nUSA Today reported that The Blair Witch Project was the first film to go viral despite having been produced before many of the technologies that facilitate such phenomena existed.\r\nFictional legend\r\nThe backstory for the film is a legend fabricated by S\u00e1nchez and Myrick which is detailed in the Curse of the Blair Witch, a mockumentary broadcast on the SciFi Channel in 1999 prior to the release of The Blair Witch Project. S\u00e1nchez and Myrick also maintain a website which adds further details to the legend.\r\nThe legend describes the killings and disappearances of some of the residents of Blair, Maryland (a fictitious town on the site of Burkittsville, Maryland) from the 18th to 20th centuries. Residents blamed these occurrences on the ghost of Elly Kedward, a Blair resident accused of practicing witchcraft in 1785 and sentenced to death by exposure. The Curse of the Blair Witch presents the legend as real, complete with manufactured newspaper articles, newsreels, television news reports, and staged interviews.\r\nRelease\r\nThe Blair Witch Project premiered on January 25, 1999 at the Sundance Film Festival, and had a limited release on July 14 before going wide on July 30.\r\nTelevision broadcast\r\nFor its television premiere in October 2001 on the FX Channel, two deleted scenes were reinserted during the end credits of the film. Neither deleted scene has ever been officially released.\r\nHome media\r\nThe Blair Witch Project was released on VHS and DVD on October 22, 1999 by Artisan, presented in a 1.33:1 windowboxed aspect ratio and Dolby Digital 2.0 audio. Special features include the documentary Curse of the Blair Witch, a five-minute Newly Discovered Footage, audio commentary, production notes, and cast and crew biographies. The audio commentary presents directors Daniel Myrick, Eduardo S\u00e1nchez, and producers Rob Cowie, Mike Monello and Gregg Hale, in which they discuss the film's production. The Curse of the Blair Witch feature provides an in-depth look inside the creation of the film. More than $15 million was spent to market the home video release of the film.\r\nThe film's Blu-ray version was released on October 5, 2010 by Lionsgate. Best Buy and Lionsgate had an exclusive release of the Blu-ray made available on August 29, 2010.\r\nReception\r\nBox office\r\nThe Blair Witch Project premiered on January 25, 1999 at the Sundance Film Festival, and had a limited release on July 14 before going wide on July 30 after months of publicity, including a campaign by the studio to use the Internet and suggest that the film was \"a record of real events\". The distribution strategy for the film was created and implemented by Artisan studio executive Steven Rothenberg. The film earned $1.5 million in its limited release opening weekend. The film went on to gross $29.2 million from 1,101 locations and placed at number two in the United States box office third opening weekend, surpassing the science fiction horror film Deep Blue Sea which cleared $19.1 million weekend gross. The film secured its second place in its fourth weekend, behind another horror film The Sixth Sense, which cleared $26.7 million. The film descended at number three in its fifth weekend, at number five in its sixth weekend, and number eight in its seventh and eighth weekends during Labor Day. The film dropped out of the top-ten list in its 10th weekend until its last screening in 107 theaters in its 17th weekend, grossing $28,866 and placing in number sixty-three. By the end of its theatrical run, the film grossed $140,539,099 in the US and Canada in its total screening and produced $108.1 million in other territories, having an overall gross of $248.6 million (over 4,000 times its original budget). The Blair Witch Project was the 10th highest-grossing film in the US in 1999, and has since earned the reputation of becoming a sleeper hit.\r\nBecause the filming was done by the actors using hand-held cameras, much of the footage is shaky, especially the final sequence in which a character is running down a set of stairs with the camera. Some audience members experienced motion sickness and even vomited as a result.\r\nCritical reception\r\n\u2014Roger Ebert, writing for the Chicago Sun-Times\r\nThe Blair Witch Project drew positive reviews from critics. The review-aggregation website Rotten Tomatoes gives the film a score of 87% based on 160 reviews from critics, with a weighted average of 7.67/10. The website's \"Critics Consensus\" reads: \"Full of creepy campfire scares, mock-doc The Blair Witch Project keeps audiences in the dark about its titular villain, proving once more that imagination can be as scary as anything onscreen.\" On Metacritic, the film received \"universal acclaim\" and was awarded its \"Must-See\" badge, with a weighted average of 81 out of 100 based on 33 reviews. Audience reception to the film, though, remains divided; CinemaScore gave it an average grade of \"C+\" on a scale ranging from A+ to F based on audiences polled during the film's opening weekend.\r\nThe Blair Witch Project's found-footage technique received near-universal praise. Although this was not the first film to use it, the independent film was declared a milestone in film history due to its critical and box office success. Roger Ebert of the Chicago Sun-Times gave the film a total of four stars, and called it \"an extraordinarily effective horror film\". Peter Travers of Rolling Stone called it \"a groundbreaker in fright that reinvents scary for the new millennium\". Todd McCarthy of Variety said, \"An intensely imaginative piece of conceptual filmmaking that also delivers the goods as a dread-drenched horror movie, The Blair Witch Project puts a clever modern twist on the universal fear of the dark and things that go bump in the night.\" Lisa Schwarzbaum of Entertainment Weekly gave a grade of \"B\", saying, \"As a horror picture, the film may not be much more than a cheeky game, a novelty with the cool, blurry look of an avant-garde artifact. But as a manifestation of multimedia synergy, it's pretty spooky.\"\r\nSome critics were less enthusiastic. Andrew Sarris of The New York Observer deemed it \"overrated,\" as well as a rendition of \"the ultimate triumph of the Sundance scam: Make a heartless home movie, get enough critics to blurb in near unison 'scary,' and watch the suckers flock to be fleeced\". A critic from The Christian Science Monitor said that while the film's concept and scares were innovative, he felt it could have just been shot \"as a 30-minute short ... since its shaky camera work and fuzzy images get monotonous after a while, and there's not much room for character development within the very limited plot.\" R. L. Schaffer of IGN scored it two out of ten, and described it as \"boring \u2013 really boring\", and \"a Z-grade, low-rent horror outing with no real scares into a genuine big-budget spectacle\".\r\nAccolades\r\nThe 20th Golden Raspberry Awards gave Heather Donahue its Worst Actress award, and nominated producers Robin Cowie and Gregg Hale for the Worst Picture award. At the Stinkers Bad Movie Awards, the film won the Biggest Disappointment category and received three nominations: Worst Picture (Cowie and Hale), Worst Actress (Donahue), and Worst Screen Debut (Heather, Michael, Josh, the Stick People and the world's longest running batteries). At the 1st Golden Trailer Awards, it received a nomination for Most Original Trailer and won two categories: Best Horror/Thriller and Best Voice Over. The Independent Spirit John Cassavetes Award awarded The Blair Witch Project its Best Film.\r\nLegacy\r\nAn array of other films have relied on the found-footage concept and shown influence by The Blair Witch Project. These include Paranormal Activity (2007), REC (2007), Cloverfield (2008), The Last Exorcism (2010), Trollhunter (2010), Chronicle (2012), Project X (2012), V/H/S (2012), End of Watch (2012), and The Den (2013). Some critics have also noted that the film's basic plot premise and narrative style are strikingly similar to Cannibal Holocaust (1980) and The Last Broadcast (1998). Although Cannibal Holocaust director Ruggero Deodato has acknowledged the similarities of The Blair Witch Project to his film, he criticized the publicity that it received for being an original production; advertisements for The Blair Witch Project also promoted the idea that the footage is genuine. Despite initial reports that The Last Broadcast creators\u2014Stefan Avalos and Lance Weiler\u2014had alleged that The Blair Witch Project was a complete rip-off of their work and would sue Haxan Films for copyright infringement, they repudiated these allegations. One of the creators told IndieWire in 1999, \"If somebody enjoys The Blair Witch Project there is a chance they will enjoy our film, and we hope they will check it out.\"\r\nFilm critic Michael Dodd has argued that the film is an embodiment of horror \"modernizing its ability to be all-encompassing in expressing the fears of American society\". He noted that \"In an age where anyone can film whatever they like, horror needn't be a cinematic expression of what terrifies the cinema-goer, it can simply be the medium through which terrors captured by the average American can be showcased\". In 2008, The Blair Witch Project was ranked by Entertainment Weekly as number ninety-nine on their list of 100 Best Films from 1983 to 2008. In 2006, the Chicago Film Critics Association ranked it as number 12 on their list of Top 100 Scariest Movies. It was ranked number 50 on Filmcritic.com's list of 50 Best Movie Endings of All Time. In 2016, it was ranked by IGN as number 21 on their list of Top 25 Horror Movies of All Time, number 16 on Cosmopolitan's 25 Scariest Movies of All Time, and number three on The Hollywood Reporter's 10 Scariest Movies of All Time. In 2013, the film also made the top-ten list of The Hollywood Reporter's highest-grossing independent films of all time, ranking number six.\r\nDirector Eli Roth has cited the film as a marketing influence to promote his 2002 horror film Cabin Fever with the Internet. The Blair Witch Project was included in the book 1001 Movies You Must See Before You Die.\r\nAfter the film was released, in late November 1999, the historic house where it was filmed was reportedly being overwhelmed by film fans who broke off chunks as souvenirs. The township ordered the house demolished the next month.\r\nMedia tie-ins\r\nBooks\r\nIn September 1999, D. A. Stern compiled The Blair Witch Project: A Dossier. Building on the film's \"true story\" angle, the dossier consisted of fabricated police reports, pictures, interviews, and newspaper articles presenting the film's premise as fact, as well as further elaboration on the Elly Kedward and Rustin Parr legends. (Another \"dossier\" was created for Blair Witch 2). Stern wrote the 2000 novel Blair Witch: The Secret Confessions of Rustin Parr. He revisited the franchise with the novel Blair Witch: Graveyard Shift, which features original characters and plot.\r\nA series of eight young adult books, entitled The Blair Witch Files, were released by Random subsidiary Bantam from 2000 to 2001. The books center on Cade Merill, a fictional cousin of Heather Donahue, who investigates phenomena related to the Blair Witch. She tries to learn what really happened to Heather, Mike, and Josh.\r\nComic books\r\nIn July 1999, Oni Press released a one-shot comic promoting the film, titled The Blair Witch Project #1. Written and illustrated by Cece Malvey, the comic was released in conjunction of the film. In October 2000, coinciding with the release of Book of Shadows: Blair Witch 2, Image Comics released a one-shot called Blair Witch: Dark Testaments, drawn by Charlie Adlard.\r\nVideo games\r\nIn 2000, Gathering of Developers released a trilogy of computer games based on the film, which greatly expanded on the myths first suggested in the film. The graphics engine and characters were all derived from the producer's earlier game Nocturne.\r\nThe first volume, Rustin Parr, received the most praise, ranging from moderate to positive, with critics commending its storyline, graphics and atmosphere; some reviewers even claimed that the game was scarier than the film. The following volumes, The Legend of Coffin Rock and The Elly Kedward Tale, were less well received, with PC Gamer saying that Volume 2's \"only saving grace was its cheap price\", and calling Volume 3 \"amazingly mediocre\".\r\nAt E3 2019, Bloober Team introduced Blair Witch, a first-person survival horror game based on the Blair Witch franchise. The game was released on August 30, 2019.\r\nDocumentary\r\nThe Woods Movie (2015) is a feature-length documentary exploring the production of The Blair Witch Project. For this documentary, director Russ Gomm interviewed the original film's producer, Gregg Hale, and directors Eduardo S\u00e1nchez and Daniel Myrick.\r\nSequels\r\nA sequel entitled Book of Shadows was released on October 27, 2000; it was poorly received by most critics. A third installment announced that same year did not materialize.\r\nOn July 22, 2016, a surprise trailer for Blair Witch was revealed at the San Diego Comic-Con. The film was originally marketed as The Woods so as to be an exclusive surprise announcement for those in attendance at the convention. The film, distributed by Lionsgate, was slated for a September 16 release and stars James Allen McCune as the brother of the original film's Heather Donahue. Directed by Adam Wingard, Blair Witch is a direct sequel to The Blair Witch Project, and does not acknowledge the events of Book of Shadows: Blair Witch 2. However, Wingard has said that although his version does not reference any of the events that transpired in Book of Shadows, the film does not necessarily discredit the existence of Book of Shadows: Blair Witch 2. In September 2016, screenwriter Simon Barrett explained that in writing the new film, he only considered material that was produced with the involvement of the original film's creative team (directors Daniel Myrick and Eduardo S\u00e1nchez, producer Gregg Hale, and production designer Ben Rock) to be \"canon\", and that he did not take any material produced without their direct involvement\u2014such as the first sequel Book of Shadows or The Blair Witch Files, a series of young adult novels\u2014into consideration when writing the new sequel.\r\nTelevision\r\nIn October 2017, co-director Eduardo S\u00e1nchez revealed that he and the rest of the film's creative team are developing a Blair Witch television series, though he clarified that any decisions would ultimately be up to Lionsgate now which owns the rights to it. In February 2018, it was announced that the series will be released on the studio's new subsidiary, Studio L, which specializes in digital releases.",
+            "html": "<h2>The Blair Witch Project</h2><p>The Blair Witch Project is a 1999 American supernatural horror film written, directed and edited by Daniel Myrick and Eduardo S\u00e1nchez. It tells the fictional story of three student filmmakers\u2014Heather Donahue, Michael C. Williams, and Joshua Leonard\u2014who hike in the Black Hills near Burkittsville, Maryland in 1994 to film a documentary about a local legend known as the Blair Witch. The three disappeared, but their equipment and footage is discovered a year later. The purportedly \"recovered footage\" is the film the viewer sees.</p><p>Myrick and S\u00e1nchez conceived of a fictional legend of the Blair Witch in 1993. They developed a 35-page screenplay with the dialogue to be improvised. A casting call advertisement in Backstage magazine was prepared by the directors; Donahue, Williams and Leonard were cast. The film entered production in October 1997, with the principal photography taking place in Maryland for eight days. About 20 hours of footage was shot, which was edited down to 82 minutes.</p><p>When The Blair Witch Project premiered at the Sundance Film Festival on January 25, 1999, its promotional marketing campaign listed the actors as either \"missing\" or \"deceased\". Owing to its successful run at Sundance, Artisan Entertainment bought the film's distribution rights for $1.1 million. The film had a limited release on July 14, 1999, before expanding to a wider release starting July 30. While critical reception was mostly positive, audience reception was split.</p><p>The film is heavily credited with reviving the found-footage technique which was later used by similarly successful horror films such as Paranormal Activity and Cloverfield. A sleeper hit, The Blair Witch Project grossed nearly $250 million worldwide on a modest budget of $60,000, making it one of the most successful independent films of all time. The film launched a media franchise, which includes two sequels (Book of Shadows and Blair Witch), novels, comic books, and video games.</p><br/><h3>Plot</h3><p>In October 1994, film students Heather, Mike, and Josh set out to produce a documentary about the fabled Blair Witch. They travel to Burkittsville, Maryland, and interview residents about the legend. Locals tell them of Rustin Parr, a hermit who lived in the woods and kidnapped seven children in the 1940s, supposedly killing all of them on the orders of the witch. The students explore the woods in north Burkittsville to research the legend. They meet two fishermen, one of whom warns them that the woods are haunted. He tells them of a young girl named Robin Weaver who went missing in 1888; when she returned three days later, she talked about \"an old woman whose feet never touched the ground.\" The students hike to Coffin Rock, where five men were found ritualistically murdered in the 19th century. Their bodies later disappeared.</p><p>They camp for the night, and the next day, find an old cemetery with seven small cairns. That night, they hear the sound of twigs snapping. The following day, they try to hike back to the car but are unable to find it before dark and make camp. They again hear twigs snapping. In the morning, they find that three cairns have been built around their tent. Heather learns her map is missing. Mike reveals he kicked the map into a creek out of frustration, which prompts the other two to attack him in rage as they realize they are now lost. They decide to head south, using Mike's compass, and discover humanoid stick figures suspended from trees. They again hear strange sounds that night, including children laughing. After an unknown force shakes the tent, they flee in panic and hide in the woods until dawn.</p><p>Upon returning to their tent, they find that their possessions have been rifled through, and Josh's equipment is covered with slime. They come across a river identical to one they crossed earlier and realize they have walked in a circle. Josh suffers a breakdown because of the dire situation and disappears the next morning. Heather and Mike try in vain to find him before proceeding. That night, they hear Josh's agonized screams but are unable to locate him. They theorize that his screams are a fabrication by the witch to draw them out of their tent.</p><p>The next day, Heather discovers a bundle of sticks tied with fabric from Josh's shirt. She also finds blood-soaked scraps of his shirt as well as teeth, hair, and a piece of his tongue. Although distraught, she chooses not to tell Mike. That night, she records herself apologizing to her family and to Mike's and Josh's families, taking responsibility for their predicament.</p><p>They again hear Josh's agonized cries and follow them to an abandoned house containing demonic symbols and children's bloody hand-prints on the walls. Trying to find Josh, they go to the basement, where an unseen force attacks Mike, causing him to drop his camera. Heather enters the basement screaming, and her camera captures Mike standing in a corner. The unseen force attacks Heather, causing her to drop her camera as well and the footage ends.</p><br/><h3>Production</h3><h4>Development</h4><p>Development of The Blair Witch Project began in 1993. While film students at the University of Central Florida, Daniel Myrick and Eduardo S\u00e1nchez were inspired to make the film after realizing that they found documentaries on paranormal phenomena scarier than traditional horror films. The two decided to create a film that combined the styles of both. In order to produce the project, they, along with Gregg Hale, Robin Cowie and Michael Monello, started Haxan Films. The namesake for the production company is Benjamin Christensen's 1922 silent documentary horror film H\u00e4xan (English: Witchcraft Through the Ages).</p><p>Myrick and S\u00e1nchez developed a 35-page screenplay for their fictional film, intending dialogue to be improvised. A casting call advertisement in Backstage magazine was prepared by the directors, and Donahue, Williams and Leonard were cast. The film entered production in October 1997. The principal photography took place in Maryland for eight days, overseen by cinematographer Neal Fredericks. About 20 hours of footage was shot; this was edited to 82 minutes.</p><p>In developing the mythology behind the film, the creators used many inspirations. For instance, several character names are near-anagrams: Elly Kedward (The Blair Witch) is Edward Kelley, a 16th-century mystic, and Rustin Parr, the fictional 1940s child-murderer, began as an anagram for Rasputin. The Blair Witch is said to be, according to legend, the ghost of Elly Kedward, a woman banished from the Blair Township (latter-day Burkittsville) for witchcraft in 1785.</p><p>The directors incorporated that part of the legend, along with allusions to the Salem witch trials and Arthur Miller's 1953 play The Crucible, to play on the themes of injustice done to those who were classified as witches.</p><p>The directors also cited influences such as the television series In Search of..., and horror documentary films Chariots of the Gods and The Legend of Boggy Creek. Other influences included commercially successful horror films such as The Shining, Alien, and The Omen. Jaws was an influence, as the film hides the witch from the viewer for its entirety, increasing the suspense of the unknown.</p><h4>Pre-production</h4><p>Pre-production began on October 5, 1997. In talks with investors, the directors presented an eight-minute documentary, along with newspapers and news footage. The documentary was aired on the defunct television series Split Screen hosted by John Pierson.</p><p>The directors advertised in Backstage magazine for actors with strong improvisational abilities. The informal improvisational audition process narrowed the pool of 2,000 actors.</p><p>According to Heather Donahue, auditions for the film were held at Musical Theater Works in New York City. The advertisement said a \"completely improvised feature film\" would be shot in a \"wooded location\". Donahue said that during the audition, Myrick and S\u00e1nchez posed her the question: \"You've served seven years of a nine year sentence. Why should we let you out on parole?\" to which she had to respond. Joshua Leonard said he was cast due to his knowledge of how to run a camera, as no omniscient camera was used to film the scenes.</p><h4>Filming</h4><p>Principal photography began on October 23, 1997 and lasted eight days. Most of the film was shot in Seneca Creek State Park in Montgomery County, Maryland. A few scenes were filmed in the historic town of Burkittsville. Some of the townspeople interviewed in the film were not actors, and some were planted actors, unknown to the main cast. Donahue had never operated a camera before and spent two days in a \"crash course\". Donahue said she modeled her character after a director she had once worked with, noting her character's \"self-assuredness\" when everything went as planned, and confusion during crisis.</p><p>During filming, the actors were equipped with CP-16 film and Hi8 video cameras provided by cinematographer Neal Fredericks. They were given clues as to their next location through messages hidden inside 35 mm film cans left in milk crates they found with Global Positioning Satellite systems. They were given individual instructions to use to help improvise the action of the day. Teeth were obtained from a Maryland dentist for use as human remains in the film. Influenced by producer Gregg Hale's memories of his military training, in which \"enemy soldiers\" would hunt a trainee through wild terrain for three days, the directors moved the characters a long way during the day, harassing them by night, and depriving them of food.</p><p>According to the filmmakers' commentary, the unseen figure that Donahue is shouting about as she is running away from the tent is the film's art director Ricardo Moreno, who was wearing white long-johns, white stockings and white pantyhose pulled over his head. It was initially intended for the figure to be revealed on camera as the Blair Witch herself, but the cameraman forgot to pan to the left of Donahue to capture footage of Moreno. The scene was never reshot.</p><p>The final scenes were filmed at the historic Griggs House, a 200-year-old building located in the Patapsco Valley State Park near Granite, Maryland. Filming concluded on October 31, Halloween.</p><h4>Post-production</h4><p>After filming, the 20 hours of raw footage had to be cut down to two and a half hours; the editing process took more than eight months. The directors screened the first cut in small film festivals in order to get feedback and make changes that would ensure that it appealed to as large an audience as possible. Originally, it was hoped that the film would make it on to cable television, and the directors did not anticipate wide release. The final version was submitted to Sundance Film Festival.</p><p>After becoming a surprise hit at Sundance, during its midnight premiere on January 25, 1999, Artisan Entertainment bought the distribution rights for $1.1 million. Prior to that, Artisan had wanted to change the film's original ending, as the test audience were puzzled, although scared. (Donahue screams in terror and finds Michael C. Williams facing a corner in the basement before she is knocked to the ground.) The directors and Williams traveled back to Maryland and shot four alternate endings, one of which employed bloody elements. Ultimately, they decided to keep the original. Myrick said, \"What makes us fearful is something that's out of the ordinary, unexplained. The first ending kept the audience off balance; it challenged our real world conventions and that's what really made it scary.\"</p><p>In an interview with Entertainment Weekly, S\u00e1nchez revealed that when principal photography first wrapped, approximately $20,000 to $25,000 had been spent. Richard Corliss of Time magazine reported a $35,000 estimated budget. Other figures list a final budget ranging between $500,000 and $750,000. By September 2016, The Blair Witch Project has been officially budgeted at $60,000.</p><br/><h3>Marketing</h3><p>The Blair Witch Project is thought to be the first widely released film marketed primarily by the Internet. The film's official website featured faux police reports as well as \"newsreel-style\" interviews. These augmented the film's found footage device to spark debates across the Internet over whether the film was a real-life documentary or a work of fiction. During screenings, the filmmakers made advertising efforts to promulgate the events in the film as factual, including the distribution of flyers at festivals such as Sundance, asking viewers to come forward with any information about the \"missing\" students. The campaign tactic was that viewers were being told, through missing persons posters, that the characters were missing while researching in the woods for the mythical Blair Witch. The IMDb page also listed the actors as \"missing, presumed dead\" in the first year of the film's availability. The film's website contains materials of actors posing as police and investigators giving testimony about their casework, and shared childhood photos of the actors to add a sense of realism. The ruse continued despite Douglas having appeared on late night talk shows touting the film.</p><p>USA Today reported that The Blair Witch Project was the first film to go viral despite having been produced before many of the technologies that facilitate such phenomena existed.</p><h4>Fictional legend</h4><p>The backstory for the film is a legend fabricated by S\u00e1nchez and Myrick which is detailed in the Curse of the Blair Witch, a mockumentary broadcast on the SciFi Channel in 1999 prior to the release of The Blair Witch Project. S\u00e1nchez and Myrick also maintain a website which adds further details to the legend.</p><p>The legend describes the killings and disappearances of some of the residents of Blair, Maryland (a fictitious town on the site of Burkittsville, Maryland) from the 18th to 20th centuries. Residents blamed these occurrences on the ghost of Elly Kedward, a Blair resident accused of practicing witchcraft in 1785 and sentenced to death by exposure. The Curse of the Blair Witch presents the legend as real, complete with manufactured newspaper articles, newsreels, television news reports, and staged interviews.</p><br/><h3>Release</h3><p>The Blair Witch Project premiered on January 25, 1999 at the Sundance Film Festival, and had a limited release on July 14 before going wide on July 30.</p><h4>Television broadcast</h4><p>For its television premiere in October 2001 on the FX Channel, two deleted scenes were reinserted during the end credits of the film. Neither deleted scene has ever been officially released.</p><h4>Home media</h4><p>The Blair Witch Project was released on VHS and DVD on October 22, 1999 by Artisan, presented in a 1.33:1 windowboxed aspect ratio and Dolby Digital 2.0 audio. Special features include the documentary Curse of the Blair Witch, a five-minute Newly Discovered Footage, audio commentary, production notes, and cast and crew biographies. The audio commentary presents directors Daniel Myrick, Eduardo S\u00e1nchez, and producers Rob Cowie, Mike Monello and Gregg Hale, in which they discuss the film's production. The Curse of the Blair Witch feature provides an in-depth look inside the creation of the film. More than $15 million was spent to market the home video release of the film.</p><p>The film's Blu-ray version was released on October 5, 2010 by Lionsgate. Best Buy and Lionsgate had an exclusive release of the Blu-ray made available on August 29, 2010.</p><br/><h3>Reception</h3><h4>Box office</h4><p>The Blair Witch Project premiered on January 25, 1999 at the Sundance Film Festival, and had a limited release on July 14 before going wide on July 30 after months of publicity, including a campaign by the studio to use the Internet and suggest that the film was \"a record of real events\". The distribution strategy for the film was created and implemented by Artisan studio executive Steven Rothenberg. The film earned $1.5 million in its limited release opening weekend. The film went on to gross $29.2 million from 1,101 locations and placed at number two in the United States box office third opening weekend, surpassing the science fiction horror film Deep Blue Sea which cleared $19.1 million weekend gross. The film secured its second place in its fourth weekend, behind another horror film The Sixth Sense, which cleared $26.7 million. The film descended at number three in its fifth weekend, at number five in its sixth weekend, and number eight in its seventh and eighth weekends during Labor Day. The film dropped out of the top-ten list in its 10th weekend until its last screening in 107 theaters in its 17th weekend, grossing $28,866 and placing in number sixty-three. By the end of its theatrical run, the film grossed $140,539,099 in the US and Canada in its total screening and produced $108.1 million in other territories, having an overall gross of $248.6 million (over 4,000 times its original budget). The Blair Witch Project was the 10th highest-grossing film in the US in 1999, and has since earned the reputation of becoming a sleeper hit.</p><p>Because the filming was done by the actors using hand-held cameras, much of the footage is shaky, especially the final sequence in which a character is running down a set of stairs with the camera. Some audience members experienced motion sickness and even vomited as a result.</p><h4>Critical reception</h4><p>\u2014Roger Ebert, writing for the Chicago Sun-Times</p><p>The Blair Witch Project drew positive reviews from critics. The review-aggregation website Rotten Tomatoes gives the film a score of 87% based on 160 reviews from critics, with a weighted average of 7.67/10. The website's \"Critics Consensus\" reads: \"Full of creepy campfire scares, mock-doc The Blair Witch Project keeps audiences in the dark about its titular villain, proving once more that imagination can be as scary as anything onscreen.\" On Metacritic, the film received \"universal acclaim\" and was awarded its \"Must-See\" badge, with a weighted average of 81 out of 100 based on 33 reviews. Audience reception to the film, though, remains divided; CinemaScore gave it an average grade of \"C+\" on a scale ranging from A+ to F based on audiences polled during the film's opening weekend.</p><p>The Blair Witch Project's found-footage technique received near-universal praise. Although this was not the first film to use it, the independent film was declared a milestone in film history due to its critical and box office success. Roger Ebert of the Chicago Sun-Times gave the film a total of four stars, and called it \"an extraordinarily effective horror film\". Peter Travers of Rolling Stone called it \"a groundbreaker in fright that reinvents scary for the new millennium\". Todd McCarthy of Variety said, \"An intensely imaginative piece of conceptual filmmaking that also delivers the goods as a dread-drenched horror movie, The Blair Witch Project puts a clever modern twist on the universal fear of the dark and things that go bump in the night.\" Lisa Schwarzbaum of Entertainment Weekly gave a grade of \"B\", saying, \"As a horror picture, the film may not be much more than a cheeky game, a novelty with the cool, blurry look of an avant-garde artifact. But as a manifestation of multimedia synergy, it's pretty spooky.\"</p><p>Some critics were less enthusiastic. Andrew Sarris of The New York Observer deemed it \"overrated,\" as well as a rendition of \"the ultimate triumph of the Sundance scam: Make a heartless home movie, get enough critics to blurb in near unison 'scary,' and watch the suckers flock to be fleeced\". A critic from The Christian Science Monitor said that while the film's concept and scares were innovative, he felt it could have just been shot \"as a 30-minute short ... since its shaky camera work and fuzzy images get monotonous after a while, and there's not much room for character development within the very limited plot.\" R. L. Schaffer of IGN scored it two out of ten, and described it as \"boring \u2013 really boring\", and \"a Z-grade, low-rent horror outing with no real scares into a genuine big-budget spectacle\".</p><h4>Accolades</h4><p>The 20th Golden Raspberry Awards gave Heather Donahue its Worst Actress award, and nominated producers Robin Cowie and Gregg Hale for the Worst Picture award. At the Stinkers Bad Movie Awards, the film won the Biggest Disappointment category and received three nominations: Worst Picture (Cowie and Hale), Worst Actress (Donahue), and Worst Screen Debut (Heather, Michael, Josh, the Stick People and the world's longest running batteries). At the 1st Golden Trailer Awards, it received a nomination for Most Original Trailer and won two categories: Best Horror/Thriller and Best Voice Over. The Independent Spirit John Cassavetes Award awarded The Blair Witch Project its Best Film.</p><br/><h3>Legacy</h3><p>An array of other films have relied on the found-footage concept and shown influence by The Blair Witch Project. These include Paranormal Activity (2007), REC (2007), Cloverfield (2008), The Last Exorcism (2010), Trollhunter (2010), Chronicle (2012), Project X (2012), V/H/S (2012), End of Watch (2012), and The Den (2013). Some critics have also noted that the film's basic plot premise and narrative style are strikingly similar to Cannibal Holocaust (1980) and The Last Broadcast (1998). Although Cannibal Holocaust director Ruggero Deodato has acknowledged the similarities of The Blair Witch Project to his film, he criticized the publicity that it received for being an original production; advertisements for The Blair Witch Project also promoted the idea that the footage is genuine. Despite initial reports that The Last Broadcast creators\u2014Stefan Avalos and Lance Weiler\u2014had alleged that The Blair Witch Project was a complete rip-off of their work and would sue Haxan Films for copyright infringement, they repudiated these allegations. One of the creators told IndieWire in 1999, \"If somebody enjoys The Blair Witch Project there is a chance they will enjoy our film, and we hope they will check it out.\"</p><p>Film critic Michael Dodd has argued that the film is an embodiment of horror \"modernizing its ability to be all-encompassing in expressing the fears of American society\". He noted that \"In an age where anyone can film whatever they like, horror needn't be a cinematic expression of what terrifies the cinema-goer, it can simply be the medium through which terrors captured by the average American can be showcased\". In 2008, The Blair Witch Project was ranked by Entertainment Weekly as number ninety-nine on their list of 100 Best Films from 1983 to 2008. In 2006, the Chicago Film Critics Association ranked it as number 12 on their list of Top 100 Scariest Movies. It was ranked number 50 on Filmcritic.com's list of 50 Best Movie Endings of All Time. In 2016, it was ranked by IGN as number 21 on their list of Top 25 Horror Movies of All Time, number 16 on Cosmopolitan's 25 Scariest Movies of All Time, and number three on The Hollywood Reporter's 10 Scariest Movies of All Time. In 2013, the film also made the top-ten list of The Hollywood Reporter's highest-grossing independent films of all time, ranking number six.</p><p>Director Eli Roth has cited the film as a marketing influence to promote his 2002 horror film Cabin Fever with the Internet. The Blair Witch Project was included in the book 1001 Movies You Must See Before You Die.</p><p>After the film was released, in late November 1999, the historic house where it was filmed was reportedly being overwhelmed by film fans who broke off chunks as souvenirs. The township ordered the house demolished the next month.</p><h4>Media tie-ins</h4><h4>Books</h4><p>In September 1999, D. A. Stern compiled The Blair Witch Project: A Dossier. Building on the film's \"true story\" angle, the dossier consisted of fabricated police reports, pictures, interviews, and newspaper articles presenting the film's premise as fact, as well as further elaboration on the Elly Kedward and Rustin Parr legends. (Another \"dossier\" was created for Blair Witch 2). Stern wrote the 2000 novel Blair Witch: The Secret Confessions of Rustin Parr. He revisited the franchise with the novel Blair Witch: Graveyard Shift, which features original characters and plot.</p><p>A series of eight young adult books, entitled The Blair Witch Files, were released by Random subsidiary Bantam from 2000 to 2001. The books center on Cade Merill, a fictional cousin of Heather Donahue, who investigates phenomena related to the Blair Witch. She tries to learn what really happened to Heather, Mike, and Josh.</p><h4>Comic books</h4><p>In July 1999, Oni Press released a one-shot comic promoting the film, titled The Blair Witch Project #1. Written and illustrated by Cece Malvey, the comic was released in conjunction of the film. In October 2000, coinciding with the release of Book of Shadows: Blair Witch 2, Image Comics released a one-shot called Blair Witch: Dark Testaments, drawn by Charlie Adlard.</p><h4>Video games</h4><p>In 2000, Gathering of Developers released a trilogy of computer games based on the film, which greatly expanded on the myths first suggested in the film. The graphics engine and characters were all derived from the producer's earlier game Nocturne.</p><p>The first volume, Rustin Parr, received the most praise, ranging from moderate to positive, with critics commending its storyline, graphics and atmosphere; some reviewers even claimed that the game was scarier than the film. The following volumes, The Legend of Coffin Rock and The Elly Kedward Tale, were less well received, with PC Gamer saying that Volume 2's \"only saving grace was its cheap price\", and calling Volume 3 \"amazingly mediocre\".</p><p>At E3 2019, Bloober Team introduced Blair Witch, a first-person survival horror game based on the Blair Witch franchise. The game was released on August 30, 2019.</p><h4>Documentary</h4><p>The Woods Movie (2015) is a feature-length documentary exploring the production of The Blair Witch Project. For this documentary, director Russ Gomm interviewed the original film's producer, Gregg Hale, and directors Eduardo S\u00e1nchez and Daniel Myrick.</p><br/><h3>Sequels</h3><p>A sequel entitled Book of Shadows was released on October 27, 2000; it was poorly received by most critics. A third installment announced that same year did not materialize.</p><p>On July 22, 2016, a surprise trailer for Blair Witch was revealed at the San Diego Comic-Con. The film was originally marketed as The Woods so as to be an exclusive surprise announcement for those in attendance at the convention. The film, distributed by Lionsgate, was slated for a September 16 release and stars James Allen McCune as the brother of the original film's Heather Donahue. Directed by Adam Wingard, Blair Witch is a direct sequel to The Blair Witch Project, and does not acknowledge the events of Book of Shadows: Blair Witch 2. However, Wingard has said that although his version does not reference any of the events that transpired in Book of Shadows, the film does not necessarily discredit the existence of Book of Shadows: Blair Witch 2. In September 2016, screenwriter Simon Barrett explained that in writing the new film, he only considered material that was produced with the involvement of the original film's creative team (directors Daniel Myrick and Eduardo S\u00e1nchez, producer Gregg Hale, and production designer Ben Rock) to be \"canon\", and that he did not take any material produced without their direct involvement\u2014such as the first sequel Book of Shadows or The Blair Witch Files, a series of young adult novels\u2014into consideration when writing the new sequel.</p><br/><h3>Television</h3><p>In October 2017, co-director Eduardo S\u00e1nchez revealed that he and the rest of the film's creative team are developing a Blair Witch television series, though he clarified that any decisions would ultimately be up to Lionsgate now which owns the rights to it. In February 2018, it was announced that the series will be released on the studio's new subsidiary, Studio L, which specializes in digital releases.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0185937",
+        "title": "The Blair Witch Project",
+        "fullTitle": "The Blair Witch Project (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "posters": [
+            {
+                "id": "hyaOKmxuF8YJKHqWlwpiZU5QsAr.jpg",
+                "link": "https://imdb-api.com/posters/original/hyaOKmxuF8YJKHqWlwpiZU5QsAr.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "bFmbqmj21WQMZff1wD45ygbvxud.jpg",
+                "link": "https://imdb-api.com/posters/original/bFmbqmj21WQMZff1wD45ygbvxud.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "nIlDJiNvSfqMm78J2AppPRjMMnd.jpg",
+                "link": "https://imdb-api.com/posters/original/nIlDJiNvSfqMm78J2AppPRjMMnd.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "md6ZNIwGeMYFv3nIueI7CHxslBu.jpg",
+                "link": "https://imdb-api.com/posters/original/md6ZNIwGeMYFv3nIueI7CHxslBu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "7N7RakZawcdhKgbmFpNZJRSdniq.jpg",
+                "link": "https://imdb-api.com/posters/original/7N7RakZawcdhKgbmFpNZJRSdniq.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "dVKIFTUrhOKTxqoAPZgvZZZEEGD.jpg",
+                "link": "https://imdb-api.com/posters/original/dVKIFTUrhOKTxqoAPZgvZZZEEGD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "3v27Ar6Yig0f1gHEaxTsh4N3F9q.jpg",
+                "link": "https://imdb-api.com/posters/original/3v27Ar6Yig0f1gHEaxTsh4N3F9q.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0185937",
+        "title": "The Blair Witch Project",
+        "fullTitle": "The Blair Witch Project (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "items": [
+            {
+                "title": "Michael C. Williams in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzMTk1NzUzNl5BMl5BanBnXkFtZTcwNTc2ODYzNQ@@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MTI0MjM3NV5BMl5BanBnXkFtZTcwODc2ODYzNQ@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Joshua Leonard in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNDUzMjQxMV5BMl5BanBnXkFtZTcwOTc2ODYzNQ@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Daniel Myrick and Eduardo S\u00e1nchez in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5OTAyNDkxOV5BMl5BanBnXkFtZTcwNzc2ODYzNQ@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNTRjZjU2NDUtM2YxNy00MGVmLTgyMTgtMjczMzBlZDQ0MjNiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI0MzIwODI5NF5BMl5BanBnXkFtZTcwNDg5MjkxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNzMxNzE0Nl5BMl5BanBnXkFtZTcwMDMxNDU4Mw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4MTE1OTU2MF5BMl5BanBnXkFtZTYwOTU3NTk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwMTUxNDU4NF5BMl5BanBnXkFtZTYwOTM4MjE5._V1_Ratio1.0400_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwMjkwNTQ1OF5BMl5BanBnXkFtZTYwMDE2NTI5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAxNDA1MjA0M15BMl5BanBnXkFtZTYwMjI0NjI5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNTg3NDI5MF5BMl5BanBnXkFtZTYwMzk3NjI5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0NzQzMzM3M15BMl5BanBnXkFtZTYwNTA3MTQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1NjI0OTU4N15BMl5BanBnXkFtZTYwODM2NDY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NTQ2MjAzMF5BMl5BanBnXkFtZTYwNzY5NTk5._V1_Ratio1.2200_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BY2FiNWI1YWItNmUzYy00ZTBjLThjMjItZGMwZWRjYmI1ODM0XkEyXkFqcGdeQXVyMzEzNzgzNA@@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZWUxZmJjNTYtMzcwMy00YzQ5LTg2OTItYzc2NDg2NTAxMTUxXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BM2Y2MWRmNGUtNDIwYS00MTI4LWIzZTctZTU5MDc2YzcxOWQxXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BODMzYTFlMjAtNTZmMS00ZTc5LWI4MjctNmE3MWI4NGVkODU1XkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZTQ0YjYwMzktM2IxOC00ZGIzLTg4MGQtZDEzNzYxM2ZjOTk1XkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael C. Williams in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZGI3NjMzNDMtMTkwZi00ZjFhLTlmMzgtYjQ1MGQ3NDQ0YjA3XkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5ZmY0YmQtYzgxZS00Zjg3LWI3ZGEtZDFmODVkZDM4ODkwXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYjY3ZTEwN2ItYjY1Ny00ZjIxLTljNTItN2ExMjA0OGViMWMxXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Joshua Leonard in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMWE1YTI0MzAtMGY4My00MjgxLTlkNmYtNzdlOTAzZTVmNDg4XkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Michael C. Williams in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYTBmNzg0NzctN2MzMS00MGExLTliYzMtNzU5NzM0NTg2ODk0XkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYzUzNzkzZTctN2FhMy00ZDM5LTk0NWUtM2RmNWEyMWNlMDk1XkEyXkFqcGdeQXVyMTExMDY5MTk@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BOTI2MjQwODQtN2Q2NS00MDcyLWI4YTUtZGQ5NzkxNDdlYzVlXkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Michael C. Williams in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4M2UyNjEtMDU2MS00NzNjLTk5YzktZmYwNjM2NjAxNTQ0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMDYxYTIwMjYtYjk5Ni00Zjg3LWI0NzEtNjVkZGM2MGI5M2I5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZTU0N2UxOTItYmE3Yy00MTI2LTk2ZjItZGVjNDgxNmY5YjU5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Patricia DeCou in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYWNkYjQ2M2MtMzVkYS00NzE2LTg0MDMtOWU2Mjk2ZjA1MmE3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael C. Williams in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZmM2M2ZmYzctZTJkYS00ZmU4LTgzYzAtODJjYTllOWQ0MjRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTZkM2NiMDUtNDUzOC00MDgwLTg1YzYtMGNlZTEzZWJjYmI1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio2.4400_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BN2FlNDg0ZjUtMzk5NC00ZThkLWE3ZmUtMGJiNWRlNTNmYzRkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael C. Williams in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMWU4OTE0Y2MtZGQ4MC00NjdmLThlYjAtNGFlNWNkYWIzYzc2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZjVjODVlNTEtMDk4OS00ZmU4LWIwNDUtZTI2ZjY5MGEwYzNhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYjA4NDIyODctYjc1Yi00YTU3LTkwYjItMDViMThkMjNlYWY1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1Yzg3MjQtOTc1NS00YjJmLWIwOTUtZDk4MDBiYjVlZWI3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.6200_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZmJiOWI5ZGQtOGNlYi00OWZkLThkMTYtOTdmMTA1NTA1YWU0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYmVjZjVmM2ItZDRlYy00YTQyLThlNWMtYjhiNmQ2ODg0YWQwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Joshua Leonard in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMWNmOTRlNzQtNWRhNS00MjVjLWFiNjQtMWJkODMxZGJlZTQwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNDMxNTJhYzctYTBhMi00MGJjLWIzNTYtNjk3NjE1OGZjNjJkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMWFjYjE3YTEtNGRlYy00Yzk2LTk3NjUtNWUzZmE2NGRhMTQ3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio3.0000_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYWEzMmY2NWQtYTYwNy00M2Y5LThjYzAtMTMyOTg4ZDc1OWQ1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYzUyMmNhNmYtY2E1Mi00MzcwLTg1ODMtNGYxNjM0NWNkNjJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNDU2NmY2YWEtY2Q2Ni00ZjIwLTliNDQtZjZjNmU1MzNlMDVmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMWVkNWU5ODAtNGZiMS00ZTUxLThhNjAtNTBkOTk0ZGQ5MmVkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "Heather Donahue in The Blair Witch Project (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMWVkODVhYjUtMTFkYS00NTE4LTljMDQtMDJhZjY3ODc4NjY2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0185937",
+        "title": "The Blair Witch Project",
+        "fullTitle": "The Blair Witch Project (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "videoId": "vi9044249",
+        "videoTitle": "The Blair Witch Project",
+        "videoDescription": "Teaser Trailer for The Blair Witch Project",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDQ3MjNkNDMtMjA4Yy00OWI1LWE0YjktYzBlNmNlOWZjMWJkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 16:13:13",
+        "link": "https://www.imdb.com/video/vi9044249",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi9044249/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$60,000 (estimated)",
+        "openingWeekendUSA": "$1,512,054, 18 July 1999",
+        "grossUSA": "$140,539,099",
+        "cumulativeWorldwideGross": "$248,639,099"
+    },
+    "tagline": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary...A year later their footage was found.",
+    "keywords": "found footage,lost in the woods,supernatural horror,ghost story,maryland",
+    "keywordList": [
+        "found footage",
+        "lost in the woods",
+        "supernatural horror",
+        "ghost story",
+        "maryland"
+    ],
+    "similars": [
+        {
+            "id": "tt1179904",
+            "title": "Paranormal Activity",
+            "fullTitle": "Paranormal Activity (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMjY1NjcxODQ4MV5BMl5BanBnXkFtZTcwMzUxNjM4Mg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence.",
+            "directors": "Oren Peli",
+            "stars": "Katie Featherston, Micah Sloat, Mark Fredrichs",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt1540011",
+            "title": "Blair Witch",
+            "fullTitle": "Blair Witch (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMjI0NTEyMjA3NV5BMl5BanBnXkFtZTgwODk5OTU4OTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After discovering a video showing what he believes to be his vanished sister Heather, James and a group of friends head to the forest believed to be inhabited by the Blair Witch.",
+            "directors": "Adam Wingard",
+            "stars": "James Allen McCune, Callie Hernandez, Corbin Reid",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "5"
+        },
+        {
+            "id": "tt0229260",
+            "title": "Book of Shadows: Blair Witch 2",
+            "fullTitle": "Book of Shadows: Blair Witch 2 (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BY2YzNzg1YTAtMjU4MC00OWU5LWFiNjAtZmI0Zjc5MmM4YzcxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A group of tourists arrives in Burkittsville, Maryland after seeing The Blair Witch Project (1999) to explore the mythology and phenomenon, only to come face to face with their own neuroses and possibly the witch herself.",
+            "directors": "Joe Berlinger",
+            "stars": "Jeffrey Donovan, Stephen Barker Turner, Erica Leerhsen",
+            "genres": "Adventure, Fantasy, Horror",
+            "imDbRating": "3.9"
+        },
+        {
+            "id": "tt1038988",
+            "title": "REC",
+            "fullTitle": "REC (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.",
+            "directors": "Directors: Jaume Balaguer\u00f3, Paco Plaza",
+            "stars": "Manuela Velasco, Ferran Terraza, Jorge-Yamam Serrano",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt1536044",
+            "title": "Paranormal Activity 2",
+            "fullTitle": "Paranormal Activity 2 (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMjE4NDgwMzAxNF5BMl5BanBnXkFtZTcwNTE3OTk4Mw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After experiencing what they think are a series of \"break-ins\", a family sets up security cameras around their home, only to realize that the events unfolding before them are more sinister than they seem.",
+            "directors": "Tod Williams",
+            "stars": "Katie Featherston, Micah Sloat, Molly Ephraim",
+            "genres": "Horror",
+            "imDbRating": "5.6"
+        },
+        {
+            "id": "tt0298130",
+            "title": "The Ring",
+            "fullTitle": "The Ring (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.",
+            "directors": "Gore Verbinski",
+            "stars": "Naomi Watts, Martin Henderson, Brian Cox",
+            "genres": "Horror, Mystery",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt1778304",
+            "title": "Paranormal Activity 3",
+            "fullTitle": "Paranormal Activity 3 (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0MTQzODQzOV5BMl5BanBnXkFtZTcwMDQ2NzQ3Ng@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1988, young sisters Katie and Kristi befriend an invisible entity who resides in their home.",
+            "directors": "Directors: Henry Joost, Ariel Schulman",
+            "stars": "Chloe Csengery, Jessica Tyler Brown, Christopher Nicholas Smith",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt0070047",
+            "title": "The Exorcist",
+            "fullTitle": "The Exorcist (1973)",
+            "year": "1973",
+            "image": "https://imdb-api.com/images/original/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a 12 year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+            "directors": "William Friedkin",
+            "stars": "Ellen Burstyn, Max von Sydow, Linda Blair",
+            "genres": "Horror",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt2105044",
+            "title": "V/H/S",
+            "fullTitle": "V/H/S (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTUwODAxMzMwNF5BMl5BanBnXkFtZTcwMTk3MTQ5Nw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a group of misfits are hired by an unknown third party to burglarize a desolate house and acquire a rare VHS tape, they discover more found footage than they bargained for.",
+            "directors": "Directors: Matt Bettinelli-Olpin, David Bruckner, and 8 more credits \u00bb",
+            "stars": "Calvin Reeder, Lane Hughes, Adam Wingard",
+            "genres": "Horror, Thriller",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt1703199",
+            "title": "Grave Encounters",
+            "fullTitle": "Grave Encounters (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMjQ0NjQxOTM5N15BMl5BanBnXkFtZTcwNzUwMzMwNg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "For their ghost hunting reality show, a production crew locks themselves inside an abandoned mental hospital that's supposedly haunted - and it might prove to be all too true.",
+            "directors": "Directors: Colin Minihan, Stuart Ortiz, and 1 more credit \u00bb",
+            "stars": "Ben Wilkinson, Sean Rogerson, Ashleigh Gryzko",
+            "genres": "Horror",
+            "imDbRating": "6.1"
+        },
+        {
+            "id": "tt2870612",
+            "title": "As Above, So Below",
+            "fullTitle": "As Above, So Below (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzNzg0NDI2MF5BMl5BanBnXkFtZTgwMzgxNzY2MTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a team of explorers ventures into the catacombs that lie beneath the streets of Paris, they uncover the dark secret that lies within this city of the dead.",
+            "directors": "John Erick Dowdle",
+            "stars": "Perdita Weeks, Ben Feldman, Edwin Hodge",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt0072271",
+            "title": "The Texas Chain Saw Massacre",
+            "fullTitle": "The Texas Chain Saw Massacre (1974)",
+            "year": "1974",
+            "image": "https://imdb-api.com/images/original/MV5BZDI3OWE0ZWMtNGJjOS00N2E4LWFiOTAtZjQ4OTNiNzIwN2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two siblings and three of their friends en route to visit their grandfather's grave in Texas end up falling victim to a family of cannibalistic psychopaths and must survive the terrors of Leatherface and his family.",
+            "directors": "Tobe Hooper",
+            "stars": "Marilyn Burns, Edwin Neal, Allen Danziger",
+            "genres": "Horror",
+            "imDbRating": "7.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
