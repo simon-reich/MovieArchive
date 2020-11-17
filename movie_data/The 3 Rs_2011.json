@@ -1,0 +1,371 @@
+{
+    "id": "tt2061818",
+    "title": "The 3 Rs",
+    "originalTitle": "",
+    "fullTitle": "The 3 Rs (2011)",
+    "type": "Movie",
+    "year": "2011",
+    "image": "https://imdb-api.com/images/original/MV5BZGNmMTczYTEtNjRlNC00ZWFlLWIzMTMtODIzNjFkYjg4ZjNhXkEyXkFqcGdeQXVyMzA5OTk4Mjk@._V1_Ratio0.7463_AL_.jpg",
+    "releaseDate": "2011-09-21",
+    "runtimeMins": "1",
+    "runtimeStr": "1mins",
+    "plot": "One-minute short film, used as a trailer for the Vienna International Film Festival (Viennale).",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "David Lynch",
+    "directorList": [
+        {
+            "id": "nm0000186",
+            "name": "David Lynch"
+        }
+    ],
+    "writers": "David Lynch",
+    "writerList": [
+        {
+            "id": "nm0000186",
+            "name": "David Lynch"
+        }
+    ],
+    "stars": "Mindy Ramaker",
+    "starList": [
+        {
+            "id": "nm4090155",
+            "name": "Mindy Ramaker"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm4090155",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mindy Ramaker",
+            "asCharacter": ""
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt2061818",
+        "title": "The 3 Rs",
+        "fullTitle": "The 3 Rs (2011)",
+        "type": "Movie",
+        "year": "2011",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000186",
+                    "name": "David Lynch",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000186",
+                    "name": "David Lynch",
+                    "description": ""
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm4090155",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mindy Ramaker",
+                "asCharacter": ""
+            }
+        ],
+        "others": [
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0000186",
+                        "name": "David Lynch",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0000186",
+                        "name": "David Lynch",
+                        "description": ""
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Short",
+    "genreList": [
+        {
+            "key": "Short",
+            "value": "Short"
+        }
+    ],
+    "companies": "Viennale",
+    "companyList": [
+        {
+            "id": "co0022406",
+            "name": "Viennale"
+        }
+    ],
+    "countries": "Austria",
+    "countryList": [
+        {
+            "key": "Austria",
+            "value": "Austria"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "",
+    "imDbRating": "6.2",
+    "imDbRatingVotes": "1002",
+    "metacriticRating": "",
+    "ratings": {
+        "imDbId": "tt2061818",
+        "title": "The 3 Rs",
+        "fullTitle": "The 3 Rs (2011)",
+        "type": "Movie",
+        "year": "2011",
+        "imDb": "6.2",
+        "metacritic": "",
+        "theMovieDb": "5.5",
+        "rottenTomatoes": "",
+        "tV_com": "",
+        "filmAffinity": "4.4",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt2061818",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "language": null,
+        "titleInLanguage": null,
+        "url": null,
+        "plotShort": {
+            "plainText": "",
+            "html": ""
+        },
+        "plotFull": {
+            "plainText": "",
+            "html": ""
+        },
+        "errorMessage": "Wikipedia not founded in 'en' language"
+    },
+    "posters": {
+        "imDbId": "tt2061818",
+        "title": "The 3 Rs",
+        "fullTitle": "The 3 Rs (2011)",
+        "type": "Movie",
+        "year": "2011",
+        "posters": [],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2061818",
+        "title": "The 3 Rs",
+        "fullTitle": "The 3 Rs (2011)",
+        "type": "Movie",
+        "year": "2011",
+        "items": [
+            {
+                "title": "The 3 Rs (2011)",
+                "image": "https://imdb-api.com/images/original/MV5BZGNmMTczYTEtNjRlNC00ZWFlLWIzMTMtODIzNjFkYjg4ZjNhXkEyXkFqcGdeQXVyMzA5OTk4Mjk@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt2061818",
+        "title": "The 3 Rs",
+        "fullTitle": "The 3 Rs (2011)",
+        "type": "Movie",
+        "year": "2011",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "",
+    "keywords": "question,black and white,black,white,rock",
+    "keywordList": [
+        "question",
+        "black and white",
+        "black",
+        "white",
+        "rock"
+    ],
+    "similars": [
+        {
+            "id": "tt3367188",
+            "title": "Absurda",
+            "fullTitle": "Absurda (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BZDhjYzgxZjQtMTZkMi00MjQ5LWE2NzQtZmI4MmUyYzcyNzJhXkEyXkFqcGdeQXVyMjYxMzY2NDk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A journey into absurdity.",
+            "directors": "David Lynch",
+            "stars": "",
+            "genres": "Short",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt6039802",
+            "title": "Premonition Following an Evil Deed",
+            "fullTitle": "Premonition Following an Evil Deed (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BOWM1NWQ1OWQtMzc4MC00ZjNjLWE4ODQtM2MzNTM1ZmE0ZjhmXkEyXkFqcGdeQXVyNjc2NjkzNTg@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A short film about the events following a murder.",
+            "directors": "David Lynch",
+            "stars": "Jeff Alperi, Michele Carlyle, Stan Lothridge",
+            "genres": "Short, Horror",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt8672120",
+            "title": "Playstation 2: The Third Place",
+            "fullTitle": "Playstation 2: The Third Place (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BNzEwMGYxZTAtMTFkNy00YzQ5LWJjNzgtZTE1YmNlOGIxZGFkXkEyXkFqcGdeQXVyMzA4ODU1OTI@._V1_Ratio1.8947_AL_.jpg",
+            "plot": "A waiting room, a talking duck-man, a severed arm, a mysterious woman, a young man in a black suit and his doppelganger thumbs-upping each other. Smoke - FIRE.",
+            "directors": "David Lynch",
+            "stars": "Jason Scheunemann, David Lynch",
+            "genres": "Short, Fantasy",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt4337908",
+            "title": "Bug Crawls",
+            "fullTitle": "Bug Crawls (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BNzg4MzdiMmYtOGQ0NC00OGFkLTg3NWItZTEyZjUyNjdlMGM3XkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_Ratio0.8947_AL_.jpg",
+            "plot": "A bug crawls over a house, which is located in a haunting environment.",
+            "directors": "David Lynch",
+            "stars": "",
+            "genres": "Short, Horror",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt8263956",
+            "title": "Dream #7",
+            "fullTitle": "Dream #7 (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BNDQxOGZmYzYtZThhZC00OTE1LTk4ZjItMDc5ZmM5OWIyNzRjXkEyXkFqcGdeQXVyMTgwMzU4OQ@@._V1_Ratio1.3789_AL_.jpg",
+            "plot": "",
+            "directors": "David Lynch",
+            "stars": "",
+            "genres": "Short",
+            "imDbRating": "5.4"
+        },
+        {
+            "id": "tt1712185",
+            "title": "Lady Blue Shanghai",
+            "fullTitle": "Lady Blue Shanghai (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BYTIyYTM2YTEtNGMxYi00Mjk4LWExNWEtM2M5ZGJmNmU2ZjdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_Ratio0.7684_AL_.jpg",
+            "plot": "A nameless woman (Marion Cotillard) enters her Shanghai hotel room to find a vintage record playing and a blue Dior purse that seems to come from nowhere. The security guards that search ... See full summary \u00bb",
+            "directors": "David Lynch",
+            "stars": "Marion Cotillard, Gong Tao, Emily Stofle",
+            "genres": "Short, Drama, Mystery",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt9287342",
+            "title": "Ant Head",
+            "fullTitle": "Ant Head (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BOTQ0MzEwMWQtMTg1Yi00MjE5LWE3M2MtNzAyMGEzYmI0YjRlXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A short video featuring my friends the ants along with cheese, etc. and one-and-a-half tracks from the Thought Gang album.",
+            "directors": "David Lynch",
+            "stars": "",
+            "genres": "Short, Music",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt2390235",
+            "title": "David Lynch: Crazy Clown Time",
+            "fullTitle": "David Lynch: Crazy Clown Time (Video 2012)",
+            "year": "Video 2012",
+            "image": "https://imdb-api.com/images/original/MV5BODYyMjAzYzAtNWRiMS00ZWVjLThkNzEtMGZlNzBkNGY1NTUwXkEyXkFqcGdeQXVyMjYxMzY2NDk@._V1_Ratio1.0000_AL_.jpg",
+            "plot": "An ensemble of oddball characters provide percussion in a nondescript backyard while Lynch's lyrics flatly detail what's happening.",
+            "directors": "David Lynch",
+            "stars": "Emily Elicia Low, Chris Pounders, Pandie Suicide",
+            "genres": "Short, Drama, Music",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt2481878",
+            "title": "Absurd Encounter with Fear",
+            "fullTitle": "Absurd Encounter with Fear (1967)",
+            "year": "1967",
+            "image": "https://imdb-api.com/images/original/MV5BODRkYWVhYjItYmZjZi00ZDY1LWI3N2EtY2UwNDQzZGY2OGU5XkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_Ratio0.9895_AL_.jpg",
+            "plot": "A Man approaches a Women in a field.",
+            "directors": "David Lynch",
+            "stars": "Jack Fisk, Peggy Lynch",
+            "genres": "Short, Fantasy, Horror",
+            "imDbRating": "5.5"
+        },
+        {
+            "id": "tt3539476",
+            "title": "Blue Green",
+            "fullTitle": "Blue Green (Video 2007)",
+            "year": "Video 2007",
+            "image": "https://imdb-api.com/images/original/MV5BYmY3MTdkYTktNzMxMC00ZGYxLThkMjQtMDlhY2E0NzI4M2ExXkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_Ratio0.9158_AL_.jpg",
+            "plot": "",
+            "directors": "David Lynch",
+            "stars": "",
+            "genres": "Short",
+            "imDbRating": "5.7"
+        },
+        {
+            "id": "tt2816036",
+            "title": "Idem Paris",
+            "fullTitle": "Idem Paris (Video 2013)",
+            "year": "Video 2013",
+            "image": "https://imdb-api.com/images/original/MV5BNjk5ZDc2ZWYtZWQxMi00OTE0LThjNDEtNTZmMTQwZjY3ZjU5XkEyXkFqcGdeQXVyMjYxMzY2NDk@._V1_Ratio1.8526_AL_.jpg",
+            "plot": "A printing studio in Paris, France, document the lithographic process.",
+            "directors": "David Lynch",
+            "stars": "",
+            "genres": "Documentary, Short",
+            "imDbRating": "5.4"
+        },
+        {
+            "id": "tt8021928",
+            "title": "David Lynch Cooks Quinoa",
+            "fullTitle": "David Lynch Cooks Quinoa (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BOTEwNDE3NjItZjNlNy00Nzg3LWIzNmItOTQ4NmYzZWVlZjlhXkEyXkFqcGdeQXVyNjkwMTYxMTE@._V1_Ratio2.0000_AL_.jpg",
+            "plot": "David Lynch cooks quinoa, which is a thing he does as much as possible.",
+            "directors": "David Lynch",
+            "stars": "David Lynch",
+            "genres": "Documentary, Short",
+            "imDbRating": "8.4"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

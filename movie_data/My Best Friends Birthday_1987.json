@@ -1,0 +1,571 @@
+{
+    "id": "tt0359715",
+    "title": "My Best Friend's Birthday",
+    "originalTitle": "",
+    "fullTitle": "My Best Friend's Birthday (1987)",
+    "type": "Movie",
+    "year": "1987",
+    "image": "https://imdb-api.com/images/original/MV5BN2I2NDU1NTMtMDdjMS00NGNkLWEyMGItMzRiMzU2NjQyYzI4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "",
+    "runtimeMins": "90",
+    "runtimeStr": "1h 30mins",
+    "plot": "It's Mickey's Birthday and his girlfriend just left him, so that's when his friend Clarence shows him a birthday he'll never forget.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Quentin Tarantino",
+    "directorList": [
+        {
+            "id": "nm0000233",
+            "name": "Quentin Tarantino"
+        }
+    ],
+    "writers": "Craig Hamann, Quentin Tarantino",
+    "writerList": [
+        {
+            "id": "nm0357326",
+            "name": "Craig Hamann"
+        },
+        {
+            "id": "nm0000233",
+            "name": "Quentin Tarantino"
+        }
+    ],
+    "stars": "Craig Hamann, Quentin Tarantino, Crystal Shaw Martell, Allen Garfield",
+    "starList": [
+        {
+            "id": "nm0357326",
+            "name": "Craig Hamann"
+        },
+        {
+            "id": "nm0000233",
+            "name": "Quentin Tarantino"
+        },
+        {
+            "id": "nm0789571",
+            "name": "Crystal Shaw Martell"
+        },
+        {
+            "id": "nm0307255",
+            "name": "Allen Garfield"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0357326",
+            "image": "https://imdb-api.com/images/original/MV5BMmFhNjY0MDYtMTNmNC00MjJmLTkxZTMtOWU4NzNjYWU3MTM4XkEyXkFqcGdeQXVyMTAzMjk1Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Craig Hamann",
+            "asCharacter": "Mickey Burnett"
+        },
+        {
+            "id": "nm0000233",
+            "image": "https://imdb-api.com/images/original/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Quentin Tarantino",
+            "asCharacter": "Clarence Pool"
+        },
+        {
+            "id": "nm0789571",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3NDQ0ODU5N15BMl5BanBnXkFtZTgwMzQ0NzI2ODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Crystal Shaw Martell",
+            "asCharacter": "Misty (as Crystal Shaw)"
+        },
+        {
+            "id": "nm0307255",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0NTcyMDI0M15BMl5BanBnXkFtZTYwMTI1MjY2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Allen Garfield",
+            "asCharacter": "Entertainment Magnate"
+        },
+        {
+            "id": "nm1346343",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Al Harrell",
+            "asCharacter": "Clifford"
+        },
+        {
+            "id": "nm0384936",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brenda Hillhouse",
+            "asCharacter": "Wife"
+        },
+        {
+            "id": "nm0443344",
+            "image": "https://imdb-api.com/images/original/MV5BMTUxNjMxNzU1OV5BMl5BanBnXkFtZTcwNDEyNzcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Linda Kaye",
+            "asCharacter": "Ex-Girlfriend"
+        },
+        {
+            "id": "nm0689957",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stevo Polyi",
+            "asCharacter": "Deejay"
+        },
+        {
+            "id": "nm0760821",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alan Sanborn",
+            "asCharacter": "Nutmeg, Radio Station Receptionist"
+        },
+        {
+            "id": "nm0877822",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rich Turner",
+            "asCharacter": "Oliver Brandon"
+        },
+        {
+            "id": "nm0905658",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rowland Wafford",
+            "asCharacter": "Lenny Otis"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0359715",
+        "title": "My Best Friend's Birthday",
+        "fullTitle": "My Best Friend's Birthday (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000233",
+                    "name": "Quentin Tarantino",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0357326",
+                    "name": "Craig Hamann",
+                    "description": "(written by)"
+                },
+                {
+                    "id": "nm0000233",
+                    "name": "Quentin Tarantino",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0357326",
+                "image": "https://imdb-api.com/images/original/MV5BMmFhNjY0MDYtMTNmNC00MjJmLTkxZTMtOWU4NzNjYWU3MTM4XkEyXkFqcGdeQXVyMTAzMjk1Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Craig Hamann",
+                "asCharacter": "Mickey Burnett"
+            },
+            {
+                "id": "nm0000233",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Quentin Tarantino",
+                "asCharacter": "Clarence Pool"
+            },
+            {
+                "id": "nm0789571",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3NDQ0ODU5N15BMl5BanBnXkFtZTgwMzQ0NzI2ODE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Crystal Shaw Martell",
+                "asCharacter": "Misty (as Crystal Shaw)"
+            },
+            {
+                "id": "nm0307255",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0NTcyMDI0M15BMl5BanBnXkFtZTYwMTI1MjY2._V1_Ratio0.7273_AL_.jpg",
+                "name": "Allen Garfield",
+                "asCharacter": "Entertainment Magnate"
+            },
+            {
+                "id": "nm1346343",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Al Harrell",
+                "asCharacter": "Clifford"
+            },
+            {
+                "id": "nm0384936",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Brenda Hillhouse",
+                "asCharacter": "Wife"
+            },
+            {
+                "id": "nm0443344",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxNjMxNzU1OV5BMl5BanBnXkFtZTcwNDEyNzcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Linda Kaye",
+                "asCharacter": "Ex-Girlfriend"
+            },
+            {
+                "id": "nm0689957",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Stevo Polyi",
+                "asCharacter": "Deejay"
+            },
+            {
+                "id": "nm0760821",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alan Sanborn",
+                "asCharacter": "Nutmeg, Radio Station Receptionist"
+            },
+            {
+                "id": "nm0877822",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rich Turner",
+                "asCharacter": "Oliver Brandon"
+            },
+            {
+                "id": "nm0905658",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rowland Wafford",
+                "asCharacter": "Lenny Otis"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0357326",
+                        "name": "Craig Hamann",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0000233",
+                        "name": "Quentin Tarantino",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0903745",
+                        "name": "Rand Vossler",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0000812",
+                        "name": "Roger Avary",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0536087",
+                        "name": "Scott Magill",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0703410",
+                        "name": "Roberto A. Quezada",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0903745",
+                        "name": "Rand Vossler",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0000233",
+                        "name": "Quentin Tarantino",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0777557",
+                        "name": "Dov Schwarz",
+                        "description": "sound"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0676248",
+                        "name": "Fred Olen Ray",
+                        "description": "camera provider"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Comedy",
+    "genreList": [
+        {
+            "key": "Comedy",
+            "value": "Comedy"
+        }
+    ],
+    "companies": "Novacaine Films, Scrazner Films",
+    "companyList": [
+        {
+            "id": "co0169239",
+            "name": "Novacaine Films"
+        },
+        {
+            "id": "co0704735",
+            "name": "Scrazner Films"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "5.7",
+    "imDbRatingVotes": "3791",
+    "metacriticRating": "",
+    "ratings": {
+        "imDbId": "tt0359715",
+        "title": "My Best Friend's Birthday",
+        "fullTitle": "My Best Friend's Birthday (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "imDb": "5.7",
+        "metacritic": "",
+        "theMovieDb": "5.8",
+        "rottenTomatoes": "",
+        "tV_com": "",
+        "filmAffinity": "5.0",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0359715",
+        "title": "My Best Friend's Birthday",
+        "fullTitle": "My Best Friend's Birthday (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "language": "en",
+        "titleInLanguage": "My Best Friend's Birthday",
+        "url": "https://en.wikipedia.org/wiki/My_Best_Friend%27s_Birthday",
+        "plotShort": {
+            "plainText": "My Best Friend's Birthday\r\nMy Best Friend's Birthday is a partially lost black-and-white amateur film directed, edited, co-written, co-produced and starring Quentin Tarantino. The 36 minute amateur film could be found and watched on YouTube. The films\u2019s plot is similar to the 1993 film True Romance, which Tarantino wrote. True Romance was directed by Tony Scott.",
+            "html": "<h2>My Best Friend's Birthday</h2><p>My Best Friend's Birthday is a partially lost black-and-white amateur film directed, edited, co-written, co-produced and starring Quentin Tarantino. The 36 minute amateur film could be found and watched on YouTube. The films\u2019s plot is similar to the 1993 film True Romance, which Tarantino wrote. True Romance was directed by Tony Scott.</p>"
+        },
+        "plotFull": {
+            "plainText": "My Best Friend's Birthday\r\nMy Best Friend's Birthday is a partially lost black-and-white amateur film directed, edited, co-written, co-produced and starring Quentin Tarantino. The 36 minute amateur film could be found and watched on YouTube. The films\u2019s plot is similar to the 1993 film True Romance, which Tarantino wrote. True Romance was directed by Tony Scott.\r\nPlot\r\nA young man continually tries to do something nice for his friend's birthday, only to have his efforts backfire.\r\nCast\r\nQuentin Tarantino as Clarence Poole\r\nCraig Hamann as Mickey Burnett\r\nCrystal Shaw as Misty\r\nAllen Garfield as entertainment magnate\r\nAl Harrell as Clifford\r\nBrenda Hillhouse as wife\r\nLinda Kaye as Pandora\r\nStevo Polyi as DJ\r\nAlan Sanborn as Nutmeg\r\nRich Turner as Brandon Turner\r\nRowland Wafford as Lenny Otis\r\nProduction\r\nThe film was made while Tarantino was working at the Video Archives, now closed, in Manhattan Beach, California. The project started in 1984, when Hamann wrote a short 30- to 40-page script.\r\nTarantino became attached to the project as co-writer and director, and he and Hamann expanded the script to 80 pages. On an estimated budget of $5,000, the film was originally planned in a Super 8mm format. However, when Tarantino was able to borrow a 16mm camera from film director Fred Olen Ray, the film was shot in 16mm over the course of the next four years. Hamann and Tarantino starred in the film, along with several video store and acting class buddies, and worked on the crew, which included fellow Video Archives employees Rand Vossler and Roger Avary. It is the most overtly comedic film that Tarantino has made. In an interview with Charlie Rose (available on the Region 1 Collector's Edition DVD of Pulp Fiction), he referred to it as a \"Martin and Lewis kind of thing.\"\r\nThe original cut was about 70 minutes long, but due to a film lab fire, only 36 minutes of the film still exist. The surviving footage has been edited together and shown at several film festivals. Several of the actors appeared in Tarantino's later films Reservoir Dogs, Pulp Fiction, and Kill Bill.\r\nIn 2019, a book titled My Best Friend's Birthday: The Making of a Quentin Tarantino Film, written by Andrew J. Rausch, was published by BearManor Media. The book features interviews with all of the film's principal personnel, including Quentin Tarantino, Craig Hamann, and Roger Avary.",
+            "html": "<h2>My Best Friend's Birthday</h2><p>My Best Friend's Birthday is a partially lost black-and-white amateur film directed, edited, co-written, co-produced and starring Quentin Tarantino. The 36 minute amateur film could be found and watched on YouTube. The films\u2019s plot is similar to the 1993 film True Romance, which Tarantino wrote. True Romance was directed by Tony Scott.</p><br/><h3>Plot</h3><p>A young man continually tries to do something nice for his friend's birthday, only to have his efforts backfire.</p><br/><h3>Cast</h3><ul><li>Quentin Tarantino as Clarence Poole</li><li>Craig Hamann as Mickey Burnett</li><li>Crystal Shaw as Misty</li><li>Allen Garfield as entertainment magnate</li><li>Al Harrell as Clifford</li><li>Brenda Hillhouse as wife</li><li>Linda Kaye as Pandora</li><li>Stevo Polyi as DJ</li><li>Alan Sanborn as Nutmeg</li><li>Rich Turner as Brandon Turner</li><li>Rowland Wafford as Lenny Otis</li></ul><br/><h3>Production</h3><p>The film was made while Tarantino was working at the Video Archives, now closed, in Manhattan Beach, California. The project started in 1984, when Hamann wrote a short 30- to 40-page script.</p><p>Tarantino became attached to the project as co-writer and director, and he and Hamann expanded the script to 80 pages. On an estimated budget of $5,000, the film was originally planned in a Super 8mm format. However, when Tarantino was able to borrow a 16mm camera from film director Fred Olen Ray, the film was shot in 16mm over the course of the next four years. Hamann and Tarantino starred in the film, along with several video store and acting class buddies, and worked on the crew, which included fellow Video Archives employees Rand Vossler and Roger Avary. It is the most overtly comedic film that Tarantino has made. In an interview with Charlie Rose (available on the Region 1 Collector's Edition DVD of Pulp Fiction), he referred to it as a \"Martin and Lewis kind of thing.\"</p><p>The original cut was about 70 minutes long, but due to a film lab fire, only 36 minutes of the film still exist. The surviving footage has been edited together and shown at several film festivals. Several of the actors appeared in Tarantino's later films Reservoir Dogs, Pulp Fiction, and Kill Bill.</p><p>In 2019, a book titled My Best Friend's Birthday: The Making of a Quentin Tarantino Film, written by Andrew J. Rausch, was published by BearManor Media. The book features interviews with all of the film's principal personnel, including Quentin Tarantino, Craig Hamann, and Roger Avary.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0359715",
+        "title": "My Best Friend's Birthday",
+        "fullTitle": "My Best Friend's Birthday (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "posters": [
+            {
+                "id": "8OQ8GCf5x1cFtzzo3gz6rZJr7nx.jpg",
+                "link": "https://imdb-api.com/posters/original/8OQ8GCf5x1cFtzzo3gz6rZJr7nx.jpg",
+                "aspectRatio": 0.666358595194085,
+                "language": "en",
+                "width": 721,
+                "height": 1082
+            },
+            {
+                "id": "q5tp3fPHL3jveTjREC4WieY7AoU.jpg",
+                "link": "https://imdb-api.com/posters/original/q5tp3fPHL3jveTjREC4WieY7AoU.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            }
+        ],
+        "backdors": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0359715",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt0359715",
+        "title": "My Best Friend's Birthday",
+        "fullTitle": "My Best Friend's Birthday (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "$5,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "",
+    "keywords": "birthday gifts,radio station,pub,cult film,cocaine",
+    "keywordList": [
+        "birthday gifts",
+        "radio station",
+        "pub",
+        "cult film",
+        "cocaine"
+    ],
+    "similars": [
+        {
+            "id": "tt6493238",
+            "title": "Reservoir Dogs: Sundance Institute 1991 June Film Lab",
+            "fullTitle": "Reservoir Dogs: Sundance Institute 1991 June Film Lab (Video 1991)",
+            "year": "Video 1991",
+            "image": "https://imdb-api.com/images/original/MV5BMGJkODRiN2ItM2NiYy00ZTQ4LTk4MTMtY2Q1YjE0ZWRjYmRiL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.3263_AL_.jpg",
+            "plot": "This is Quentin Tarantino's early Reservoir Dogs film as to what helped fuel his feature length version.",
+            "directors": "Quentin Tarantino",
+            "stars": "Steve Buscemi, David Jensen, Quentin Tarantino",
+            "genres": "Short, Drama",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt0113101",
+            "title": "Four Rooms",
+            "fullTitle": "Four Rooms (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BNDc3Y2YwMjUtYzlkMi00MTljLTg1ZGMtYzUwODljZTI1OTZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Four interlocking tales that take place in a fading hotel on New Year's Eve.",
+            "directors": "Directors: Allison Anders, Alexandre Rockwell, and 3 more credits \u00bb",
+            "stars": "Tim Roth, Antonio Banderas, Sammi Davis",
+            "genres": "Comedy",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt6019206",
+            "title": "Kill Bill: The Whole Bloody Affair",
+            "fullTitle": "Kill Bill: The Whole Bloody Affair (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BYmFkNTc1MWYtYTVlNy00NmZmLTkzMjAtMWM0N2FmMWRkNWNhXkEyXkFqcGdeQXVyMTE5NDkxMA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Bride must kill her ex-boss and lover Bill who betrayed her at her wedding rehearsal, shot her in the head and took away her unborn daughter. But first, she must make the other four members of the Deadly Viper Assassination Squad suffer.",
+            "directors": "Quentin Tarantino",
+            "stars": "Uma Thurman, David Carradine, Vivica A. Fox",
+            "genres": "Action, Crime, Thriller",
+            "imDbRating": "8.8"
+        },
+        {
+            "id": "tt10763164",
+            "title": "Reservoir Dogs: Deleted Scenes",
+            "fullTitle": "Reservoir Dogs: Deleted Scenes (Video 1992)",
+            "year": "Video 1992",
+            "image": "https://imdb-api.com/images/original/MV5BMGNkYzZlOTAtYjdmYy00ZDg5LTg0OWItYzdlMjU2NzllZWVkXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Scenes cut from the classic film and released on DVD for the 10th Anniversary.",
+            "directors": "Quentin Tarantino",
+            "stars": "Kirk Baltz, Randy Brooks, Steve Buscemi",
+            "genres": "Short, Crime",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt1028528",
+            "title": "Death Proof",
+            "fullTitle": "Death Proof (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BYTdmZmY3Y2QtNjU5NC00OGUxLTg3MWQtMmE2ODM5Mzg3MzcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Two separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his \"death proof\" cars to execute his murderous plans.",
+            "directors": "Quentin Tarantino",
+            "stars": "Kurt Russell, Zo\u00eb Bell, Rosario Dawson",
+            "genres": "Action, Thriller",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt0462322",
+            "title": "Grindhouse",
+            "fullTitle": "Grindhouse (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0MzExNzc3MV5BMl5BanBnXkFtZTcwODAxMzM0MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Quentin Tarantino and Robert Rodriguez's homage to exploitation double features in the 60s and 70s with two back-to-back cult films that include previews of coming attractions between them.",
+            "directors": "Directors: Robert Rodriguez, Eli Roth, and 3 more credits \u00bb",
+            "stars": "Kurt Russell, Rose McGowan, Danny Trejo",
+            "genres": "Action, Horror, Thriller",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0119396",
+            "title": "Jackie Brown",
+            "fullTitle": "Jackie Brown (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BNmY5ODRmYTItNWU0Ni00MWE3LTgyYzUtYjZlN2Q5YTcyM2NmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A middle-aged woman finds herself in the middle of a huge conflict that will either make her a profit or cost her life.",
+            "directors": "Quentin Tarantino",
+            "stars": "Pam Grier, Samuel L. Jackson, Robert Forster",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0105236",
+            "title": "Reservoir Dogs",
+            "fullTitle": "Reservoir Dogs (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+            "directors": "Quentin Tarantino",
+            "stars": "Harvey Keitel, Tim Roth, Michael Madsen",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0116367",
+            "title": "From Dusk Till Dawn",
+            "fullTitle": "From Dusk Till Dawn (1996)",
+            "year": "1996",
+            "image": "https://imdb-api.com/images/original/MV5BZjk3YmZhMDAtOWUzMS00YjE5LTkxNzAtY2I1NGZjMDA2ZTk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.",
+            "directors": "Robert Rodriguez",
+            "stars": "Harvey Keitel, George Clooney, Juliette Lewis",
+            "genres": "Action, Crime, Horror",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0378194",
+            "title": "Kill Bill: Vol. 2",
+            "fullTitle": "Kill Bill: Vol. 2 (2004)",
+            "year": "2004",
+            "image": "https://imdb-api.com/images/original/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+            "directors": "Quentin Tarantino",
+            "stars": "Uma Thurman, David Carradine, Michael Madsen",
+            "genres": "Action, Crime, Thriller",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt3460252",
+            "title": "The Hateful Eight",
+            "fullTitle": "The Hateful Eight (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
+            "directors": "Quentin Tarantino",
+            "stars": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "7.8"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

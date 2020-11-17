@@ -1,0 +1,994 @@
+{
+    "id": "tt0088184",
+    "title": "Stranger Than Paradise",
+    "originalTitle": "Stranger than Paradise",
+    "fullTitle": "Stranger Than Paradise (1984)",
+    "type": "Movie",
+    "year": "1984",
+    "image": "https://imdb-api.com/images/original/MV5BMDQ1ODM0NzctNDUwZS00NTI3LThjYWQtY2QyN2U5NDAyNDM3XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1984-11-02",
+    "runtimeMins": "89",
+    "runtimeStr": "1h 29mins",
+    "plot": "A self-styled New York hipster is paid a surprise visit by his younger cousin from Budapest. From initial hostility and indifference a small degree of affection grows between the two. Along with a friend, they eventually end up visiting their aunt in the wastelands of Cleveland and then proceed to Florida where they lose all their money gambling before unwittingly gaining a fortune.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "8 wins & 2 nominations.",
+    "directors": "Jim Jarmusch",
+    "directorList": [
+        {
+            "id": "nm0000464",
+            "name": "Jim Jarmusch"
+        }
+    ],
+    "writers": "Jim Jarmusch",
+    "writerList": [
+        {
+            "id": "nm0000464",
+            "name": "Jim Jarmusch"
+        }
+    ],
+    "stars": "John Lurie, Eszter Balint, Richard Edson, Cecillia Stark",
+    "starList": [
+        {
+            "id": "nm0527099",
+            "name": "John Lurie"
+        },
+        {
+            "id": "nm0050264",
+            "name": "Eszter Balint"
+        },
+        {
+            "id": "nm0002057",
+            "name": "Richard Edson"
+        },
+        {
+            "id": "nm0823144",
+            "name": "Cecillia Stark"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0527099",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ0MTkzMDYzNF5BMl5BanBnXkFtZTcwOTE4Njc5Ng@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "John Lurie",
+            "asCharacter": "Willie"
+        },
+        {
+            "id": "nm0050264",
+            "image": "https://imdb-api.com/images/original/MV5BOTMzMDgyOGItOTAzMC00ZmQwLTkwZTQtOGI5NTQ0ZGU0YjNjXkEyXkFqcGdeQXVyODg3NzczMDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Eszter Balint",
+            "asCharacter": "Eva"
+        },
+        {
+            "id": "nm0002057",
+            "image": "https://imdb-api.com/images/original/MV5BMTg1NzYwNjEyNl5BMl5BanBnXkFtZTcwOTk2NDE1Mg@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Richard Edson",
+            "asCharacter": "Eddie"
+        },
+        {
+            "id": "nm0823144",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cecillia Stark",
+            "asCharacter": "Aunt Lotte"
+        },
+        {
+            "id": "nm0741948",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Danny Rosen",
+            "asCharacter": "Billy"
+        },
+        {
+            "id": "nm0708440",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rammellzee",
+            "asCharacter": "Man with Money"
+        },
+        {
+            "id": "nm0001139",
+            "image": "https://imdb-api.com/images/original/MV5BMjI0NjQ5MjkxMV5BMl5BanBnXkFtZTcwNDA0NzQxNg@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Tom DiCillo",
+            "asCharacter": "Airline Agent"
+        },
+        {
+            "id": "nm0091369",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Richard Boes",
+            "asCharacter": "Factory Worker"
+        },
+        {
+            "id": "nm0714871",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rockets Redglare",
+            "asCharacter": "Poker Player"
+        },
+        {
+            "id": "nm0674498",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harvey Perr",
+            "asCharacter": "Poker Player"
+        },
+        {
+            "id": "nm0120870",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brian J. Burchill",
+            "asCharacter": "Poker Player"
+        },
+        {
+            "id": "nm0238138",
+            "image": "https://imdb-api.com/images/original/MV5BMTI3MDg5MDc4Nl5BMl5BanBnXkFtZTYwNDIwODY1._V1_Ratio1.5000_AL_.jpg",
+            "name": "Sara Driver",
+            "asCharacter": "Girl with Hat"
+        },
+        {
+            "id": "nm0806060",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Sloane",
+            "asCharacter": "Motel Owner"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0088184",
+        "title": "Stranger Than Paradise",
+        "fullTitle": "Stranger Than Paradise (1984)",
+        "type": "Movie",
+        "year": "1984",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000464",
+                    "name": "Jim Jarmusch",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000464",
+                    "name": "Jim Jarmusch",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0527099",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0MTkzMDYzNF5BMl5BanBnXkFtZTcwOTE4Njc5Ng@@._V1_Ratio1.4545_AL_.jpg",
+                "name": "John Lurie",
+                "asCharacter": "Willie"
+            },
+            {
+                "id": "nm0050264",
+                "image": "https://imdb-api.com/images/original/MV5BOTMzMDgyOGItOTAzMC00ZmQwLTkwZTQtOGI5NTQ0ZGU0YjNjXkEyXkFqcGdeQXVyODg3NzczMDM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Eszter Balint",
+                "asCharacter": "Eva"
+            },
+            {
+                "id": "nm0002057",
+                "image": "https://imdb-api.com/images/original/MV5BMTg1NzYwNjEyNl5BMl5BanBnXkFtZTcwOTk2NDE1Mg@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Richard Edson",
+                "asCharacter": "Eddie"
+            },
+            {
+                "id": "nm0823144",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Cecillia Stark",
+                "asCharacter": "Aunt Lotte"
+            },
+            {
+                "id": "nm0741948",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Danny Rosen",
+                "asCharacter": "Billy"
+            },
+            {
+                "id": "nm0708440",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rammellzee",
+                "asCharacter": "Man with Money"
+            },
+            {
+                "id": "nm0001139",
+                "image": "https://imdb-api.com/images/original/MV5BMjI0NjQ5MjkxMV5BMl5BanBnXkFtZTcwNDA0NzQxNg@@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Tom DiCillo",
+                "asCharacter": "Airline Agent"
+            },
+            {
+                "id": "nm0091369",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Richard Boes",
+                "asCharacter": "Factory Worker"
+            },
+            {
+                "id": "nm0714871",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rockets Redglare",
+                "asCharacter": "Poker Player"
+            },
+            {
+                "id": "nm0674498",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Harvey Perr",
+                "asCharacter": "Poker Player"
+            },
+            {
+                "id": "nm0120870",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Brian J. Burchill",
+                "asCharacter": "Poker Player"
+            },
+            {
+                "id": "nm0238138",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3MDg5MDc4Nl5BMl5BanBnXkFtZTYwNDIwODY1._V1_Ratio1.5000_AL_.jpg",
+                "name": "Sara Driver",
+                "asCharacter": "Girl with Hat"
+            },
+            {
+                "id": "nm0806060",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Paul Sloane",
+                "asCharacter": "Motel Owner"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0238138",
+                        "name": "Sara Driver",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0342991",
+                        "name": "Otto Grokenberger",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0527099",
+                        "name": "John Lurie",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0001139",
+                        "name": "Tom DiCillo",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0000464",
+                        "name": "Jim Jarmusch",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0518755",
+                        "name": "Melody London",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0118302",
+                        "name": "Matt Buchwald",
+                        "description": "(production assistant)"
+                    },
+                    {
+                        "id": "nm0250346",
+                        "name": "Sam Edwards",
+                        "description": "(production assistant)"
+                    },
+                    {
+                        "id": "nm0849157",
+                        "name": "Louis Tancredi",
+                        "description": "(production assistant)"
+                    },
+                    {
+                        "id": "nm0869026",
+                        "name": "Stephen Torton",
+                        "description": "(production assistant)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0238138",
+                        "name": "Sara Driver",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0041712",
+                        "name": "John Auerbach",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0177602",
+                        "name": "Jack Cooley",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0183123",
+                        "name": "Ollie Cotton",
+                        "description": "sound recording engineer"
+                    },
+                    {
+                        "id": "nm0193071",
+                        "name": "Greg Curry",
+                        "description": "sound"
+                    },
+                    {
+                        "id": "nm0475168",
+                        "name": "Drew Kunin",
+                        "description": "production sound mixer"
+                    },
+                    {
+                        "id": "nm0518755",
+                        "name": "Melody London",
+                        "description": "sound editor"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0317140",
+                        "name": "Paul Gibson",
+                        "description": "assistant camera"
+                    },
+                    {
+                        "id": "nm0371348",
+                        "name": "James Hayman",
+                        "description": "assistant camera"
+                    },
+                    {
+                        "id": "nm0697910",
+                        "name": "Frank Prinzi",
+                        "description": "gaffer / grip"
+                    },
+                    {
+                        "id": "nm0950522",
+                        "name": "Li-Shin Yu",
+                        "description": "assistant camera"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0107414",
+                        "name": "Tim Brennan",
+                        "description": "negative matcher"
+                    },
+                    {
+                        "id": "nm0235700",
+                        "name": "John Dowdell",
+                        "description": "hd colorist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0415457",
+                        "name": "Jill Jaffe",
+                        "description": "musician: viola (The Paradise Quartet) (as Jill B. Jaffe)"
+                    },
+                    {
+                        "id": "nm0610416",
+                        "name": "Eugene J. Moye",
+                        "description": "musician: cello (The Paradise Quartet) (as Eugene Moye)"
+                    },
+                    {
+                        "id": "nm0735294",
+                        "name": "E.J. Rodriguez",
+                        "description": "band member: Percussionist"
+                    },
+                    {
+                        "id": "nm0746636",
+                        "name": "Mary Rowell",
+                        "description": "musician: violin (The Paradise Quartet) (as Mary L. Rowell)"
+                    },
+                    {
+                        "id": "nm1106464",
+                        "name": "Kay Stern",
+                        "description": "musician: violin (The Paradise Quartet)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0118302",
+                        "name": "Matt Buchwald",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0157337",
+                        "name": "Guido Chiesa",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm6651038",
+                        "name": "Guido Chisea",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1231224",
+                        "name": "Sam Edwards",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0282127",
+                        "name": "Suzanne Fletcher",
+                        "description": "title designer"
+                    },
+                    {
+                        "id": "nm0418771",
+                        "name": "Tom Jarmusch",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0566048",
+                        "name": "Una McClure",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0849157",
+                        "name": "Louis Tancredi",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0869026",
+                        "name": "Stephen Torton",
+                        "description": "production assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0000860",
+                        "name": "Paul Bartel",
+                        "description": "special thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Comedy, Drama",
+    "genreList": [
+        {
+            "key": "Comedy",
+            "value": "Comedy"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Cinesthesia Productions, Grokenberger Film Produktion, Zweites Deutsches Fernsehen (ZDF)",
+    "companyList": [
+        {
+            "id": "co0001694",
+            "name": "Cinesthesia Productions"
+        },
+        {
+            "id": "co0088855",
+            "name": "Grokenberger Film Produktion"
+        },
+        {
+            "id": "co0078814",
+            "name": "Zweites Deutsches Fernsehen (ZDF)"
+        }
+    ],
+    "countries": "USA, West Germany",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        },
+        {
+            "key": "West Germany",
+            "value": "West Germany"
+        }
+    ],
+    "languages": "Italian, English, Hungarian",
+    "languageList": [
+        {
+            "key": "Italian",
+            "value": "Italian"
+        },
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Hungarian",
+            "value": "Hungarian"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.6",
+    "imDbRatingVotes": "32866",
+    "metacriticRating": "86",
+    "ratings": {
+        "imDbId": "tt0088184",
+        "title": "Stranger Than Paradise",
+        "fullTitle": "Stranger Than Paradise (1984)",
+        "type": "Movie",
+        "year": "1984",
+        "imDb": "7.5",
+        "metacritic": "86",
+        "theMovieDb": "7.3",
+        "rottenTomatoes": "96",
+        "tV_com": "",
+        "filmAffinity": "7.3",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0088184",
+        "title": "Stranger Than Paradise",
+        "fullTitle": "Stranger Than Paradise (1984)",
+        "type": "Movie",
+        "year": "1984",
+        "language": "en",
+        "titleInLanguage": "Stranger Than Paradise",
+        "url": "https://en.wikipedia.org/wiki/Stranger_Than_Paradise",
+        "plotShort": {
+            "plainText": "Stranger Than Paradise\r\nStranger Than Paradise is a 1984 American black-and-white absurdist/deadpan comedy film, written, directed, and co-edited by Jim Jarmusch and starring jazz musician John Lurie, former Sonic Youth drummer-turned-actor Richard Edson, and Hungarian-born actress and violinist Eszter Balint. The film features a minimalist plot in which the main character, Willie, has a cousin from Hungary named Eva. Eva stays with him for ten days before going to Cleveland. Willie and his friend Eddie eventually go to Cleveland to visit Eva, and the three then take a trip to Florida. This film is shot entirely in single long takes with no standard coverage.",
+            "html": "<h2>Stranger Than Paradise</h2><p>Stranger Than Paradise is a 1984 American black-and-white absurdist/deadpan comedy film, written, directed, and co-edited by Jim Jarmusch and starring jazz musician John Lurie, former Sonic Youth drummer-turned-actor Richard Edson, and Hungarian-born actress and violinist Eszter Balint. The film features a minimalist plot in which the main character, Willie, has a cousin from Hungary named Eva. Eva stays with him for ten days before going to Cleveland. Willie and his friend Eddie eventually go to Cleveland to visit Eva, and the three then take a trip to Florida. This film is shot entirely in single long takes with no standard coverage.</p>"
+        },
+        "plotFull": {
+            "plainText": "Stranger Than Paradise\r\nStranger Than Paradise is a 1984 American black-and-white absurdist/deadpan comedy film, written, directed, and co-edited by Jim Jarmusch and starring jazz musician John Lurie, former Sonic Youth drummer-turned-actor Richard Edson, and Hungarian-born actress and violinist Eszter Balint. The film features a minimalist plot in which the main character, Willie, has a cousin from Hungary named Eva. Eva stays with him for ten days before going to Cleveland. Willie and his friend Eddie eventually go to Cleveland to visit Eva, and the three then take a trip to Florida. This film is shot entirely in single long takes with no standard coverage.\r\nPlot\r\nThe film is a three-act story about Willie (John Lurie), who lives in Brooklyn, and his interactions with the two other main characters, his cousin Eva (Eszter Balint) and friend Eddie (Richard Edson).\r\nIn the first act, Willie, a surly small-time gambler and hustler of Hungarian origin, receives a phone call from his Aunt Lotte in Cleveland informing him that his expected visit by his cousin Eva, who is coming from Hungary to live with Lotte, will have to be extended to ten days because Lotte is unexpectedly in the hospital. Willie at first makes it clear that he does not want Eva there. He even orders Eva to speak English for the ten-day period, not Hungarian, as Willie strongly identifies as \"American.\" But Willie soon begins to enjoy her company. He becomes protective, discouraging her from going out alone, or beyond a certain street. Yet he refuses to take Eva on his trips to the race track with Eddie, Willie's good-natured but dull gambling buddy and hustling accomplice. Eddie tries to persuade Willie to bring Eva along, to no avail. Willie and Eva watch football in the afternoon and late-night sci-fi movies. His esteem for her increases when Eva comes back from an excursion with a few canned food items, a TV dinner \"especially\" for Willie, and to Willie's astonishment, a carton of cigarettes, all obtained without money. Willie smiles and shakes her hand, telling her \"I think you're alright, kid.\"\r\nEva, smart, pretty, and low-key, likes to play her favorite song, Screamin' Jay Hawkins's \"I Put a Spell on You\" which Willie dislikes. He buys her a dress, which she dislikes. At this point it becomes evident that Willie has developed an attraction to Eva. After ten days Eva leaves, and Willie is clearly upset to see her go. Eddie, on his way to visit Willie, sees her discard the dress on the street, but does not tell Willie this.\r\nThe second act starts a year later and opens with Willie and Eddie winning a large amount of money by cheating at a game of poker. Willie asks Eddie about borrowing his brother-in-law's car, because he \"just wants to get out'a here, see sump'in different, ya know?\". In truth, Willie wants to go to Cleveland to see Eva.\r\nIt is the middle of winter. They arrive in Cleveland and after stopping at Lotte's house, they go to surprise Eva at her job at a local fast food restaurant, where she is excited and pleased to see them. However, soon after arriving in Cleveland they are just as bored as they were in New York. They play cards with Lotte to pass the time. They end up tagging along with Eva and her would-be boyfriend to the movies. They go to the pier on the frozen snow-covered lakefront to take in the view. Pressed by Eddie, Willie eventually decides to go back to New York. When they say their goodbyes, Eva jokingly suggests that if they win big at the race track, they should \"kidnap\" her. Willie responds they would take her someplace warm, because \"this place is awful.\"\r\nThe final act begins with Willie suggesting to Eddie, on the road back to New York, to go to Florida instead. Willie then suggests they turn around and pick up Eva and bring her along, which they do, to Lotte's obvious consternation. The three of them get to Florida and get a room at a motel. The next morning the men leave Eva asleep in the room. Eva, having awakened to find herself alone and with no food or cash, wanders outside in the windy bleak overcast afternoon to the beach, which appears not much more appealing than the windy bleak snowy Lake Erie scene in Cleveland from which they fled. When they come back, Eva's annoyance turns to dismay when the distraught pair return to reveal they have lost most of their money on dog races. They go for a walk on the beach to figure out what to do. Willie is clearly annoyed with Eddie, as the dog races were his idea.\r\nWillie and Eddie decide to go out and bet the last of their money on horse races. Willie still refuses to let Eva come along, so she goes out on the beach for a walk. Wearing a flamboyant wide-brimmed straw hat she has just gotten from a gift shop, a drug dealer mistakes her for a courier he has been waiting for. He gives her an envelope containing a large sum of money while berating her and her presumed boss. She goes back to the motel, leaves some of the money for Willie and Eddie, and writes them a note explaining that she is going to the airport. Willie and Eddie, having won big at the horse races and gone through the better part of a bottle of whisky, return to the motel to find Eva gone. Willie reads her note and they go to the airport to stop her. Eva discusses with an airline ticket agent her options for flying to Europe, ending with a mention that there is a plane leaving in 44 minutes for her home city of Budapest. She appears indecisive.\r\nWhen Willie and Eddie get to the airport, Willie, believing Eva has boarded the flight to Budapest, conceives a plan: buy a ticket to Budapest, get on the plane, and convince Eva to stay in the United States. The second to last shot shows Eddie outside watching the plane flying overhead, lamenting that Willie was apparently not able to get off the plane and that now both Willie and Eva are headed to Budapest. The final shot, however, shows Eva back at the motel, returning to an empty room, looking tired and perplexed, toying with the straw hat.\r\nCast\r\nJohn Lurie as Willie\r\nEszter Balint as Eva\r\nRichard Edson as Eddie\r\nCecillia Stark as Aunt Lotte\r\nDanny Rosen as Billy\r\nRammellzee as Man With Money\r\nTom DiCillo as Airline Agent\r\nRichard Boes as Factory Worker\r\nRockets Redglare, Harvey Perr and Brian J. Burchill as Poker Players\r\nSara Driver as Girl With Hat\r\nPaul Sloane as Motel Owner\r\nBackground and production\r\nWriter and director Jim Jarmusch shot his first feature, Permanent Vacation (1980) as his final thesis while at New York University's film school, and spent the following four years making Stranger than Paradise. At NYU, he had studied under director Nicholas Ray, who had brought him along as his personal assistant for the production of Lightning over Water, a portrait of Ray that was being filmed by Wim Wenders. It was Wenders who granted Jarmusch the leftover film stock from his subsequent film Der Stand der Dinge (1982) that would enable the young director to shoot the 30-minute short subject film that would become Stranger Than Paradise. This short was released as a standalone film in 1982, and shown as \"Stranger Than Paradise\" at the 1983 International Film Festival Rotterdam. When it was later expanded into a three-act feature, that name was appropriated for the feature itself, and the initial segment was renamed \"The New World\".\r\nRelease and reception\r\nThe film was shown at the Cannes Film Festival, where it won the Cam\u00e9ra d'Or award for debut films (1984). It also won the Golden Leopard and the Prize of the Ecumenical Jury \u2013 Special Mention at the 1984 Locarno International Film Festival, the Grand Prix of the Belgian Film Critics Association, the Special Jury Prize at the Sundance Film Festival in 1985 and National Society of Film Critics Award for Best Picture of 1985, the film went on to win the Kniema Junpo Award for best foreign language film in 1987, the award for National Film Registry at the National Film Preservation Board, USA in 2002.\r\nThe film made $2,436,000, significantly more than its budget of around $100,000.\r\nCritics\r\nThe film currently holds a 96% \"fresh\" rating on review aggregator Rotten Tomatoes, with an average rating of 7.5/10 based on 20 critics.\r\nFilm critic Pauline Kael gave the film a generally positive review.\r\nThe first section is set in the bare Lower East Side apartment of Willie, who is forced to take in Eva, his 16-year-old cousin from Budapest, for ten days. The joke here is the basic joke of the whole movie. It's in what Willie doesn't do: he doesn't offer her food or drink, or ask her any questions about life in Hungary or her trip; he doesn't offer to show her the city, or even supply her with sheets for her bed. Then Eddie comes in, even further down on the lumpen scale. Willie bets on the horses; Eddie bets on dog races. Eva, who never gets to see more of New York than the drab, anonymous looking area where Willie lives, goes off to Cleveland to stay with Aunt Lotte and work at a hot-dog stand. And when Willie and Eddie go to see her, all they see is an icy wasteland \u2013 slums and desolation \u2013 and Eddie says 'You know it's funny. You come to someplace new, and everything looks just the same.' The film has something of the same bombed-out listlessness as Paul Morrissey's 1970 Trash \u2013 it's Trash without sex or transvestism. The images are so emptied out that Jarmusch makes you notice every tiny, grungy detail. And those black-outs have something of the effect of Samuel Beckett's pauses: they make us look more intently, as Beckett makes us listen more intently.\r\nThe film was voted the Best Picture of 1984 by the National Society of Film Critics.\r\nHome media\r\nStranger Than Paradise has been released on DVD by The Criterion Collection as its 400th title. The DVD contains a second disc which includes Jarmusch's first film, Permanent Vacation (1980). Both films were restored for the DVD release using high-definition digital transfers overseen and sanctioned by the director. Supplementary footage on the second disc includes Kino \u201984: Jim Jarmusch, a series of interviews with the cast and crew from both films by a German television program, as well as Some Days in January (1984), a behind-the-scenes Super-8 film by the director's brother. An accompanying booklet features Jarmusch's 1984 essay \"Some Notes on Stranger Than Paradise\" as well as critical commentary by Geoff Andrew and J. Hoberman on Stranger Than Paradise and by Luc Sante on Permanent Vacation.\r\nLegacy\r\nStranger Than Paradise broke many conventions of traditional Hollywood filmmaking, and became a landmark work in modern independent film. According to allmovie, it is \"one of the most influential movies of the 1980s\", and cast \"a wide shadow over the new generation of independent American filmmakers to come. It is cited for giving \"an early example of the low-budget independent wave that would dominate the cinematic marketplace a decade later\". The success of the film accorded Jarmusch a certain iconic status within arthouse cinema, as an idiosyncratic and uncompromising auteur exuding the aura of urban cool embodied by downtown Manhattan. In a 2005 profile of the director for The New York Times, critic Lynn Hirschberg declared the film to have \"permanently upended the idea of independent film as an intrinsically inaccessible avant-garde form\".\r\nIn 2002, Stranger Than Paradise was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\". The film was included in Jonathan Rosenbaum's Alternate 100, which was a response to the American Film Institute's 100 Years...100 Movies list. In 2003, Entertainment Weekly ranked the film #26 on their list of \"The Top 50 Cult Films\". Empire Magazine put the film at 14 on its list of the 50 greatest independent films of all time.\r\nSoundtrack\r\nThe film features an original soundtrack written by John Lurie, who also stars in the film. The music is performed by The Paradise Quartet, consisting of Jill B. Jaffe (viola), Mary L. Rowell (violin), Kay Stern (violin), and Eugene Moye (cello). The recording engineer for the sessions was Ollie Cotton. The original song \"I Put a Spell on You\" by Screamin' Jay Hawkins features prominently in the soundtrack.\r\nTrack listing",
+            "html": "<h2>Stranger Than Paradise</h2><p>Stranger Than Paradise is a 1984 American black-and-white absurdist/deadpan comedy film, written, directed, and co-edited by Jim Jarmusch and starring jazz musician John Lurie, former Sonic Youth drummer-turned-actor Richard Edson, and Hungarian-born actress and violinist Eszter Balint. The film features a minimalist plot in which the main character, Willie, has a cousin from Hungary named Eva. Eva stays with him for ten days before going to Cleveland. Willie and his friend Eddie eventually go to Cleveland to visit Eva, and the three then take a trip to Florida. This film is shot entirely in single long takes with no standard coverage.</p><br/><h3>Plot</h3><p>The film is a three-act story about Willie (John Lurie), who lives in Brooklyn, and his interactions with the two other main characters, his cousin Eva (Eszter Balint) and friend Eddie (Richard Edson).</p><p>In the first act, Willie, a surly small-time gambler and hustler of Hungarian origin, receives a phone call from his Aunt Lotte in Cleveland informing him that his expected visit by his cousin Eva, who is coming from Hungary to live with Lotte, will have to be extended to ten days because Lotte is unexpectedly in the hospital. Willie at first makes it clear that he does not want Eva there. He even orders Eva to speak English for the ten-day period, not Hungarian, as Willie strongly identifies as \"American.\" But Willie soon begins to enjoy her company. He becomes protective, discouraging her from going out alone, or beyond a certain street. Yet he refuses to take Eva on his trips to the race track with Eddie, Willie's good-natured but dull gambling buddy and hustling accomplice. Eddie tries to persuade Willie to bring Eva along, to no avail. Willie and Eva watch football in the afternoon and late-night sci-fi movies. His esteem for her increases when Eva comes back from an excursion with a few canned food items, a TV dinner \"especially\" for Willie, and to Willie's astonishment, a carton of cigarettes, all obtained without money. Willie smiles and shakes her hand, telling her \"I think you're alright, kid.\"</p><p>Eva, smart, pretty, and low-key, likes to play her favorite song, Screamin' Jay Hawkins's \"I Put a Spell on You\" which Willie dislikes. He buys her a dress, which she dislikes. At this point it becomes evident that Willie has developed an attraction to Eva. After ten days Eva leaves, and Willie is clearly upset to see her go. Eddie, on his way to visit Willie, sees her discard the dress on the street, but does not tell Willie this.</p><p>The second act starts a year later and opens with Willie and Eddie winning a large amount of money by cheating at a game of poker. Willie asks Eddie about borrowing his brother-in-law's car, because he \"just wants to get out'a here, see sump'in different, ya know?\". In truth, Willie wants to go to Cleveland to see Eva.</p><p>It is the middle of winter. They arrive in Cleveland and after stopping at Lotte's house, they go to surprise Eva at her job at a local fast food restaurant, where she is excited and pleased to see them. However, soon after arriving in Cleveland they are just as bored as they were in New York. They play cards with Lotte to pass the time. They end up tagging along with Eva and her would-be boyfriend to the movies. They go to the pier on the frozen snow-covered lakefront to take in the view. Pressed by Eddie, Willie eventually decides to go back to New York. When they say their goodbyes, Eva jokingly suggests that if they win big at the race track, they should \"kidnap\" her. Willie responds they would take her someplace warm, because \"this place is awful.\"</p><p>The final act begins with Willie suggesting to Eddie, on the road back to New York, to go to Florida instead. Willie then suggests they turn around and pick up Eva and bring her along, which they do, to Lotte's obvious consternation. The three of them get to Florida and get a room at a motel. The next morning the men leave Eva asleep in the room. Eva, having awakened to find herself alone and with no food or cash, wanders outside in the windy bleak overcast afternoon to the beach, which appears not much more appealing than the windy bleak snowy Lake Erie scene in Cleveland from which they fled. When they come back, Eva's annoyance turns to dismay when the distraught pair return to reveal they have lost most of their money on dog races. They go for a walk on the beach to figure out what to do. Willie is clearly annoyed with Eddie, as the dog races were his idea.</p><p>Willie and Eddie decide to go out and bet the last of their money on horse races. Willie still refuses to let Eva come along, so she goes out on the beach for a walk. Wearing a flamboyant wide-brimmed straw hat she has just gotten from a gift shop, a drug dealer mistakes her for a courier he has been waiting for. He gives her an envelope containing a large sum of money while berating her and her presumed boss. She goes back to the motel, leaves some of the money for Willie and Eddie, and writes them a note explaining that she is going to the airport. Willie and Eddie, having won big at the horse races and gone through the better part of a bottle of whisky, return to the motel to find Eva gone. Willie reads her note and they go to the airport to stop her. Eva discusses with an airline ticket agent her options for flying to Europe, ending with a mention that there is a plane leaving in 44 minutes for her home city of Budapest. She appears indecisive.</p><p>When Willie and Eddie get to the airport, Willie, believing Eva has boarded the flight to Budapest, conceives a plan: buy a ticket to Budapest, get on the plane, and convince Eva to stay in the United States. The second to last shot shows Eddie outside watching the plane flying overhead, lamenting that Willie was apparently not able to get off the plane and that now both Willie and Eva are headed to Budapest. The final shot, however, shows Eva back at the motel, returning to an empty room, looking tired and perplexed, toying with the straw hat.</p><br/><h3>Cast</h3><ul><li>John Lurie as Willie</li><li>Eszter Balint as Eva</li><li>Richard Edson as Eddie</li><li>Cecillia Stark as Aunt Lotte</li><li>Danny Rosen as Billy</li><li>Rammellzee as Man With Money</li><li>Tom DiCillo as Airline Agent</li><li>Richard Boes as Factory Worker</li><li>Rockets Redglare, Harvey Perr and Brian J. Burchill as Poker Players</li><li>Sara Driver as Girl With Hat</li><li>Paul Sloane as Motel Owner</li></ul><br/><h3>Background and production</h3><p>Writer and director Jim Jarmusch shot his first feature, Permanent Vacation (1980) as his final thesis while at New York University's film school, and spent the following four years making Stranger than Paradise. At NYU, he had studied under director Nicholas Ray, who had brought him along as his personal assistant for the production of Lightning over Water, a portrait of Ray that was being filmed by Wim Wenders. It was Wenders who granted Jarmusch the leftover film stock from his subsequent film Der Stand der Dinge (1982) that would enable the young director to shoot the 30-minute short subject film that would become Stranger Than Paradise. This short was released as a standalone film in 1982, and shown as \"Stranger Than Paradise\" at the 1983 International Film Festival Rotterdam. When it was later expanded into a three-act feature, that name was appropriated for the feature itself, and the initial segment was renamed \"The New World\".</p><br/><h3>Release and reception</h3><p>The film was shown at the Cannes Film Festival, where it won the Cam\u00e9ra d'Or award for debut films (1984). It also won the Golden Leopard and the Prize of the Ecumenical Jury \u2013 Special Mention at the 1984 Locarno International Film Festival, the Grand Prix of the Belgian Film Critics Association, the Special Jury Prize at the Sundance Film Festival in 1985 and National Society of Film Critics Award for Best Picture of 1985, the film went on to win the Kniema Junpo Award for best foreign language film in 1987, the award for National Film Registry at the National Film Preservation Board, USA in 2002.</p><p>The film made $2,436,000, significantly more than its budget of around $100,000.</p><h4>Critics</h4><p>The film currently holds a 96% \"fresh\" rating on review aggregator Rotten Tomatoes, with an average rating of 7.5/10 based on 20 critics.</p><p>Film critic Pauline Kael gave the film a generally positive review.</p><blockquote>The first section is set in the bare Lower East Side apartment of Willie, who is forced to take in Eva, his 16-year-old cousin from Budapest, for ten days. The joke here is the basic joke of the whole movie. It's in what Willie doesn't do: he doesn't offer her food or drink, or ask her any questions about life in Hungary or her trip; he doesn't offer to show her the city, or even supply her with sheets for her bed. Then Eddie comes in, even further down on the lumpen scale. Willie bets on the horses; Eddie bets on dog races. Eva, who never gets to see more of New York than the drab, anonymous looking area where Willie lives, goes off to Cleveland to stay with Aunt Lotte and work at a hot-dog stand. And when Willie and Eddie go to see her, all they see is an icy wasteland \u2013 slums and desolation \u2013 and Eddie says 'You know it's funny. You come to someplace new, and everything looks just the same.' The film has something of the same bombed-out listlessness as Paul Morrissey's 1970 Trash \u2013 it's Trash without sex or transvestism. The images are so emptied out that Jarmusch makes you notice every tiny, grungy detail. And those black-outs have something of the effect of Samuel Beckett's pauses: they make us look more intently, as Beckett makes us listen more intently.</blockquote><p>The film was voted the Best Picture of 1984 by the National Society of Film Critics.</p><h4>Home media</h4><p>Stranger Than Paradise has been released on DVD by The Criterion Collection as its 400th title. The DVD contains a second disc which includes Jarmusch's first film, Permanent Vacation (1980). Both films were restored for the DVD release using high-definition digital transfers overseen and sanctioned by the director. Supplementary footage on the second disc includes Kino \u201984: Jim Jarmusch, a series of interviews with the cast and crew from both films by a German television program, as well as Some Days in January (1984), a behind-the-scenes Super-8 film by the director's brother. An accompanying booklet features Jarmusch's 1984 essay \"Some Notes on Stranger Than Paradise\" as well as critical commentary by Geoff Andrew and J. Hoberman on Stranger Than Paradise and by Luc Sante on Permanent Vacation.</p><br/><h3>Legacy</h3><p>Stranger Than Paradise broke many conventions of traditional Hollywood filmmaking, and became a landmark work in modern independent film. According to allmovie, it is \"one of the most influential movies of the 1980s\", and cast \"a wide shadow over the new generation of independent American filmmakers to come. It is cited for giving \"an early example of the low-budget independent wave that would dominate the cinematic marketplace a decade later\". The success of the film accorded Jarmusch a certain iconic status within arthouse cinema, as an idiosyncratic and uncompromising auteur exuding the aura of urban cool embodied by downtown Manhattan. In a 2005 profile of the director for The New York Times, critic Lynn Hirschberg declared the film to have \"permanently upended the idea of independent film as an intrinsically inaccessible avant-garde form\".</p><p>In 2002, Stranger Than Paradise was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\". The film was included in Jonathan Rosenbaum's Alternate 100, which was a response to the American Film Institute's 100 Years...100 Movies list. In 2003, Entertainment Weekly ranked the film #26 on their list of \"The Top 50 Cult Films\". Empire Magazine put the film at 14 on its list of the 50 greatest independent films of all time.</p><br/><h3>Soundtrack</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th colspan=\"2\" class=\"summary album\" style=\"text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro\">Stranger Than Paradise</th></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\"><span>Soundtrack album</span> by <div class=\"contributor\" style=\"display:inline\">John Lurie</div></th></tr><tr><th scope=\"row\">Released</th><td class=\"published\">1986</td></tr><tr><th scope=\"row\"><span>Genre</span></th><td class=\"category hlist\">Experimental music</td></tr><tr><th scope=\"row\"><span>Label</span></th><td class=\"hlist\">Enigma</td></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\">John Lurie chronology</th></tr><tr><td colspan=\"2\" style=\"text-align:center\"><table style=\"background: transparent; width: 100%; min-width: 100%; border-collapse: collapse\"><tbody><tr style=\"line-height: 1.4em;\"><td style=\"width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0\"></td><td style=\"width: 33%; text-align: center; vertical-align: top; padding: .2em .1em\"><i><b>Stranger Than Paradise</b></i><br>(1986)</td><td style=\"width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em\"><i>Down By Law</i><br>(1988)</td></tr></tbody></table></td></tr></tbody></table><p>The film features an original soundtrack written by John Lurie, who also stars in the film. The music is performed by The Paradise Quartet, consisting of Jill B. Jaffe (viola), Mary L. Rowell (violin), Kay Stern (violin), and Eugene Moye (cello). The recording engineer for the sessions was Ollie Cotton. The original song \"I Put a Spell on You\" by Screamin' Jay Hawkins features prominently in the soundtrack.</p><h4>Track listing</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th class=\"tlheader\" scope=\"col\" style=\"width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee\"><abbr title=\"Number\">No.</abbr></th><th class=\"tlheader\" scope=\"col\" style=\"width:100%;text-align:left;background-color:#eee\">Title</th><th class=\"tlheader\" scope=\"col\" style=\"width:4em;padding-right:10px;text-align:right;background-color:#eee\">Length</th></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1.</td><td style=\"vertical-align:top\">\"Bella By Barlight\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2.</td><td style=\"vertical-align:top\">\"Car Cleveland\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3.</td><td style=\"vertical-align:top\">\"Sad Trees\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4.</td><td style=\"vertical-align:top\">\"The Lamposts Are Mine\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5.</td><td style=\"vertical-align:top\">\"Car Florida\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6.</td><td style=\"vertical-align:top\">\"Eva &amp; Willie's Room (Beer For Boys \u2013 Eva Packing)\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">7.</td><td style=\"vertical-align:top\">\"The Good And Happy Army\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">8.</td><td style=\"vertical-align:top\">\"A Woman Can Take You To Another Universe (Sometimes She Just Leaves You There)\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0088184",
+        "title": "Stranger Than Paradise",
+        "fullTitle": "Stranger Than Paradise (1984)",
+        "type": "Movie",
+        "year": "1984",
+        "posters": [
+            {
+                "id": "fXIKuEAbHuw0DaZeA3FjLpGnrSd.jpg",
+                "link": "https://imdb-api.com/posters/original/fXIKuEAbHuw0DaZeA3FjLpGnrSd.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "2cFh39fWlXwemYP2XWCvq7FUEDC.jpg",
+                "link": "https://imdb-api.com/posters/original/2cFh39fWlXwemYP2XWCvq7FUEDC.jpg",
+                "aspectRatio": 0.7086666666666667,
+                "language": "en",
+                "width": 1063,
+                "height": 1500
+            },
+            {
+                "id": "cQI9KnHN9WtXY5CNKNOTLYmiNqW.jpg",
+                "link": "https://imdb-api.com/posters/original/cQI9KnHN9WtXY5CNKNOTLYmiNqW.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0088184",
+        "title": "Stranger Than Paradise",
+        "fullTitle": "Stranger Than Paradise (1984)",
+        "type": "Movie",
+        "year": "1984",
+        "items": [
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2NTQzNjAxNl5BMl5BanBnXkFtZTcwNjE4Njc5Ng@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, John Lurie, and Cecillia Stark in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2MzE1MzI1NF5BMl5BanBnXkFtZTcwNzE4Njc5Ng@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkwNjMyNDQ4N15BMl5BanBnXkFtZTcwODE4Njc5Ng@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0MTkzMDYzNF5BMl5BanBnXkFtZTcwOTE4Njc5Ng@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson at an event for Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMzg2Nzc5Mzk4Ml5BMl5BanBnXkFtZTYwNTEwODY1._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson and Sara Driver at an event for Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1MjY0NDkwMV5BMl5BanBnXkFtZTYwODEwODY1._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson and Sara Driver at an event for Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2MTU0MDQ5N15BMl5BanBnXkFtZTYwMDIwODY1._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson and Sara Driver at an event for Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2OTgwNDU3OF5BMl5BanBnXkFtZTYwMjIwODY1._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Sara Driver at an event for Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3MDg5MDc4Nl5BMl5BanBnXkFtZTYwNDIwODY1._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTBhMTFiOGEtOWNhZC00NjYzLTgzNDItMDRiYmIxOWIyZmNhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA4MTIxMjk2M15BMl5BanBnXkFtZTgwMTA5ODI4NzM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM5Nzc1Mjc2N15BMl5BanBnXkFtZTYwOTg0ODQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzOTg5NzAwNF5BMl5BanBnXkFtZTcwODYwMTYxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0MTc0MjQ4M15BMl5BanBnXkFtZTcwOTk4NjgxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1NTk3NzM0NV5BMl5BanBnXkFtZTcwMDE3MTkxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwMTYxMjI3MV5BMl5BanBnXkFtZTcwMjIwMzAyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwNzcwMDQwMV5BMl5BanBnXkFtZTcwODc4ODMyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0MjAxNDAwM15BMl5BanBnXkFtZTcwMDMxNzkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BOTA3MTAxNzM2OF5BMl5BanBnXkFtZTcwNjEyNDQzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzMTk5MDA3MF5BMl5BanBnXkFtZTcwNDcwNzM1MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BNTBhNjhhNmQtYzMxOC00MjUxLWE3MTQtODM3NTY3MDhlZTQyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BZWY2NDY3MTUtNjRjYi00NzM3LWI2YjEtMDA3NjAzYWI5YjEwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BM2ExYTQ3N2ItOWNiZi00NzcxLWEwODAtYzJlZTU1ZmM2ZjYyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BZmRjNDlhYWUtOTViYi00NTE3LWE5YzQtZTYzM2IzYTA5NmU4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMzQyNTNmMjAtMTM2Yi00ZDM0LTgwNDctM2JmZjk5MmFiYzAyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMDlmNzVmMjUtMDIwNS00YmIwLTgyNTgtMzhmMWRkMjI3MjBlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BZWQxNDlhOTYtODU0ZC00MDRiLWFhMzAtOTU2N2ZiYmRhNDUzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BNjM2ZmEyNzUtMGM4ZS00ZjJkLTgyODgtOWNlMjlhNDFkNDk0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMmFkOTZjODQtZWU4My00NjVlLTg5Y2EtMmQyZmJiZGE4NzY4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BOWIyODI0NTQtMmVhYy00Y2VkLTk1YjAtMTE3NTY4OGQ5OTdiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BOWZkZTQxZmQtNDViNC00NTM5LWJlODYtNGI0MjQzNGFhYmFjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BOTBjMjFjMWUtZmY4OS00Nzg5LWI1YjYtODc3YzJiZTY3NjQyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BZDFkYTM3MTYtMTc1OC00NTMxLWI1YjMtZmRiOWI1YjEyMjAwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0YTBjNWYtMGU5OS00OWE2LWJmYTAtNjI2MGUwYTc0ZDJhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BNjA0MDk1NjAtYTg4My00MDE4LTllZjgtYzI3ZjE0YzEwNGM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMzZmE1YmYtNzY4Yi00ZTVhLWFiZTAtNzdkMzAwMWNjMzg4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BZjg0ZDMyNzYtNmQ2Yi00NzUzLTk0MjYtMTNkMmIzYWI4ZTdiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BOGVmZTU5Y2YtMmViNy00OTVkLTk5NDMtNjVjOTY4MTQ3ZjFlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BNjVmYWU2MzYtNTY5Ni00MDBjLTllZmMtYTAwZDJhZmNmNjk1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BZjI1MGExOGEtMGNkOC00Y2ZkLTg5ZTYtOGIwYmMxN2QxMWNmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BZjM2YjUwOTMtODA3ZC00OTJiLThhYjYtYzIwOGE0YzA5NTJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BOTNmYTZlY2UtYmNjNi00MjIxLTlhMWUtNTRlODhhMzRiMmUzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BYzBhNzZjOGMtYzI3OS00NmQ4LWFlMzctOTc2YmJhNDc1ZTNhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BNmIzZDBjMTktMDFlMy00NjA1LTg0YmMtNTg1MTZmMjlhODkxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BZjdmYzM0NWQtNGFhZC00NjA4LThmMjctMGFkZTczMzQ3MmRjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BY2RlNmM1YjMtMzFmYS00OGFjLTgwMzctMjZkZjhlYmU1MTFiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BNjMzMWFlNWItNWMwNS00M2Y0LTk5MjMtNzZmZTdhNDMwMDg1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Stranger Than Paradise (1984)",
+                "image": "https://imdb-api.com/images/original/MV5BMzNmNjE2NDEtNWU5Ni00ZWUxLWEyMWEtMDBlYzU1MTdkOWIyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0088184",
+        "title": "Stranger Than Paradise",
+        "fullTitle": "Stranger Than Paradise (1984)",
+        "type": "Movie",
+        "year": "1984",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "$90,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "$2,436,000",
+        "cumulativeWorldwideGross": "$2,436,000"
+    },
+    "tagline": "",
+    "keywords": "road movie,independent film,new york city,cult film,low budget film",
+    "keywordList": [
+        "road movie",
+        "independent film",
+        "new york city",
+        "cult film",
+        "low budget film"
+    ],
+    "similars": [
+        {
+            "id": "tt0090967",
+            "title": "Down by Law",
+            "fullTitle": "Down by Law (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BM2ZmNDJiZTUtYjg5Zi00M2I3LTliZjAtNzQ4NTlkYTAzYTAxXkEyXkFqcGdeQXVyNTkyMDc0MjI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two innocent people are arrested. An interesting third person, with broken English, joins them in their cell. On his idea, they decide to escape from the prison. Their journey is the rest of the movie.",
+            "directors": "Jim Jarmusch",
+            "stars": "Tom Waits, John Lurie, Roberto Benigni",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0097940",
+            "title": "Mystery Train",
+            "fullTitle": "Mystery Train (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BNjcyMDYyM2ItYzFlNy00N2FmLTljNTAtODllZjZhNWIwMTVlXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Three stories are connected by a Memphis hotel and the spirit of Elvis Presley.",
+            "directors": "Jim Jarmusch",
+            "stars": "Masatoshi Nagase, Y\u00fbki Kud\u00f4, Screamin' Jay Hawkins",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0084488",
+            "title": "Permanent Vacation",
+            "fullTitle": "Permanent Vacation (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BYmJjZmEyNzQtNTMwMi00ODZmLTk5NmYtYjc1YTc3NjEwZDRiXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "A young man wanders New York City searching for some meaning in life and encounters many idiosyncratic characters.",
+            "directors": "Jim Jarmusch",
+            "stars": "Chris Parker, Leila Gastil, John Lurie",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt0102536",
+            "title": "Night on Earth",
+            "fullTitle": "Night on Earth (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BOGNmMjBmZWEtOWYwZC00NGIzLTg0YWItMzkzMWMwOTU4YTViXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night.",
+            "directors": "Jim Jarmusch",
+            "stars": "Winona Ryder, Gena Rowlands, Lisanne Falk",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0379217",
+            "title": "Coffee and Cigarettes",
+            "fullTitle": "Coffee and Cigarettes (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BYzQxNzMzZTEtNjc1YS00NzExLWI0ZGItMWMxZTQzNDI1MjQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A series of vignettes that all have coffee and cigarettes in common.",
+            "directors": "Jim Jarmusch",
+            "stars": "Bill Murray, Tom Waits, Roberto Benigni",
+            "genres": "Comedy, Drama, Music",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0412019",
+            "title": "Broken Flowers",
+            "fullTitle": "Broken Flowers (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ4OTk1MTYxM15BMl5BanBnXkFtZTcwMTYwNjAzMQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "As the extremely withdrawn Don Johnston is dumped by his latest woman, he receives an anonymous letter from a former lover informing him that he has a son who may be looking for him. A freelance sleuth neighbor moves Don to embark on a cross-country search for his old flames in search of answers.",
+            "directors": "Jim Jarmusch",
+            "stars": "Bill Murray, Jessica Lange, Sharon Stone",
+            "genres": "Comedy, Drama, Mystery",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0112817",
+            "title": "Dead Man",
+            "fullTitle": "Dead Man (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BYTJlZmQ1OTAtODQzZi00NGIzLWI1MmEtZGE4NjFlOWRhODIyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "On the run after murdering a man, accountant William Blake encounters a strange Native American man named Nobody who prepares him for his journey into the spiritual world.",
+            "directors": "Jim Jarmusch",
+            "stars": "Johnny Depp, Gary Farmer, Crispin Glover",
+            "genres": "Adventure, Drama, Fantasy",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt1714915",
+            "title": "Only Lovers Left Alive",
+            "fullTitle": "Only Lovers Left Alive (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMTY0NTQ1NjA0OV5BMl5BanBnXkFtZTgwMDg5NjkzMTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A depressed musician reunites with his lover. Though their romance, which has already endured several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+            "directors": "Jim Jarmusch",
+            "stars": "Tilda Swinton, Tom Hiddleston, Mia Wasikowska",
+            "genres": "Comedy, Drama, Fantasy",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0165798",
+            "title": "Ghost Dog: The Way of the Samurai",
+            "fullTitle": "Ghost Dog: The Way of the Samurai (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BZWQxZTJmN2YtMjdmMS00ZTFmLTk5ZDYtODA4ZDA1YWQ2MjMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An African-American Mafia hit man who models himself after the samurai of old finds himself targeted for death by the mob.",
+            "directors": "Jim Jarmusch",
+            "stars": "Forest Whitaker, Henry Silva, John Tormey",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt1135092",
+            "title": "The Limits of Control",
+            "fullTitle": "The Limits of Control (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5ODk3NjE1NF5BMl5BanBnXkFtZTcwNTE3MTA0Mg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of a mysterious loner, a stranger in the process of completing a criminal job.",
+            "directors": "Jim Jarmusch",
+            "stars": "Isaach De Bankol\u00e9, Alex Descas, Jean-Fran\u00e7ois St\u00e9venin",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt5247022",
+            "title": "Paterson",
+            "fullTitle": "Paterson (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A quiet observation of the triumphs and defeats of daily life, along with the poetry evident in its smallest details.",
+            "directors": "Jim Jarmusch",
+            "stars": "Adam Driver, Golshifteh Farahani, Nellie",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0090861",
+            "title": "Coffee and Cigarettes",
+            "fullTitle": "Coffee and Cigarettes (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BNGZmZGJmY2UtMjE1Yy00MzM2LTlhYTctOTE3MjJiNDA3MjJkXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In a vignette called \"Strange to meet you,\" Roberto sits at a small table in a coffee bar. Five cups of coffee and two ashtrays are in front of him; he drinks and smokes. Steven joins him. ... See full summary \u00bb",
+            "directors": "Jim Jarmusch",
+            "stars": "Roberto Benigni, Steven Wright",
+            "genres": "Comedy, Short",
+            "imDbRating": "7.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

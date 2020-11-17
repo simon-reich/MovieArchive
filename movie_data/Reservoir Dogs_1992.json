@@ -1,0 +1,2213 @@
+{
+    "id": "tt0105236",
+    "title": "Reservoir Dogs",
+    "originalTitle": "",
+    "fullTitle": "Reservoir Dogs (1992)",
+    "type": "Movie",
+    "year": "1992",
+    "image": "https://imdb-api.com/images/original/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1992-09-02",
+    "runtimeMins": "99",
+    "runtimeStr": "1h 39mins",
+    "plot": "Six criminals, who are strangers to each other, are hired by a crime boss, Joe Cabot, to carry out a diamond robbery. Right at the outset, they are given false names with the intention that they won't get too close and will concentrate on the job instead. They are completely sure that the robbery is going to be a success. But, when the police show up right at the time and the site of the robbery, panic spreads amongst the group members, and two of them are killed in the subsequent shootout, along with a few policemen and civilians. When the remaining people assemble at the premeditated rendezvous point (a warehouse), they begin to suspect that one of them is an undercover cop.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #86 | 12 wins & 22 nominations.",
+    "directors": "Quentin Tarantino",
+    "directorList": [
+        {
+            "id": "nm0000233",
+            "name": "Quentin Tarantino"
+        }
+    ],
+    "writers": "Quentin Tarantino, Roger Avary",
+    "writerList": [
+        {
+            "id": "nm0000233",
+            "name": "Quentin Tarantino"
+        },
+        {
+            "id": "nm0000812",
+            "name": "Roger Avary"
+        }
+    ],
+    "stars": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+    "starList": [
+        {
+            "id": "nm0000172",
+            "name": "Harvey Keitel"
+        },
+        {
+            "id": "nm0000619",
+            "name": "Tim Roth"
+        },
+        {
+            "id": "nm0000514",
+            "name": "Michael Madsen"
+        },
+        {
+            "id": "nm0001606",
+            "name": "Chris Penn"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000172",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxMDcxMjgxOV5BMl5BanBnXkFtZTcwODc2NTk2MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Harvey Keitel",
+            "asCharacter": "Mr. White / Larry"
+        },
+        {
+            "id": "nm0000619",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tim Roth",
+            "asCharacter": "Mr. Orange / Freddy"
+        },
+        {
+            "id": "nm0000514",
+            "image": "https://imdb-api.com/images/original/MV5BMTI4ODA5NzY2N15BMl5BanBnXkFtZTYwNjc3NTI1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Madsen",
+            "asCharacter": "Mr. Blonde / Vic Vega"
+        },
+        {
+            "id": "nm0001606",
+            "image": "https://imdb-api.com/images/original/MV5BMTM2Nzk0OTcwOV5BMl5BanBnXkFtZTcwMDE0MzE0NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chris Penn",
+            "asCharacter": "Nice Guy Eddie"
+        },
+        {
+            "id": "nm0000114",
+            "image": "https://imdb-api.com/images/original/MV5BODc0NTU3NDA4M15BMl5BanBnXkFtZTcwNDkxNzQxNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steve Buscemi",
+            "asCharacter": "Mr. Pink"
+        },
+        {
+            "id": "nm0862937",
+            "image": "https://imdb-api.com/images/original/MV5BMTgxNDI2MDY3NF5BMl5BanBnXkFtZTcwOTM1NzQyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lawrence Tierney",
+            "asCharacter": "Joe Cabot"
+        },
+        {
+            "id": "nm0112207",
+            "image": "https://imdb-api.com/images/original/MV5BMzQ0NDgwNTI4M15BMl5BanBnXkFtZTcwNzAwNDEwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Randy Brooks",
+            "asCharacter": "Holdaway"
+        },
+        {
+            "id": "nm0051257",
+            "image": "https://imdb-api.com/images/original/MV5BYTU4MTkzMWEtNjE5Ny00MzIwLWFkNjYtNWJjNmQ1OWRhZGQwXkEyXkFqcGdeQXVyMjU4NDMyOTA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kirk Baltz",
+            "asCharacter": "Marvin Nash"
+        },
+        {
+            "id": "nm0120483",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3OTc4NjI5Nl5BMl5BanBnXkFtZTcwMjkxOTMwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Edward Bunker",
+            "asCharacter": "Mr. Blue (as Eddie Bunker)"
+        },
+        {
+            "id": "nm0000233",
+            "image": "https://imdb-api.com/images/original/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Quentin Tarantino",
+            "asCharacter": "Mr. Brown"
+        },
+        {
+            "id": "nm0877822",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rich Turner",
+            "asCharacter": "Sheriff #1"
+        },
+        {
+            "id": "nm0824741",
+            "image": "https://imdb-api.com/images/original/MV5BMTAxMTA5NTIyNjZeQTJeQWpwZ15BbWU3MDUzMjg5OTg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Steen",
+            "asCharacter": "Sheriff #2"
+        },
+        {
+            "id": "nm0181922",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony Cosmo",
+            "asCharacter": "Sheriff #3"
+        },
+        {
+            "id": "nm0689957",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stevo Polyi",
+            "asCharacter": "Sheriff #4 (as Stevo Poliy)"
+        },
+        {
+            "id": "nm0815649",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Sottile",
+            "asCharacter": "Teddy"
+        },
+        {
+            "id": "nm0751936",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Ruth",
+            "asCharacter": "Shot Cop"
+        },
+        {
+            "id": "nm0004744",
+            "image": "https://imdb-api.com/images/original/MV5BMjA3OTQzNjMwN15BMl5BanBnXkFtZTcwMTE3NjQxMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lawrence Bender",
+            "asCharacter": "Young Cop"
+        },
+        {
+            "id": "nm0443344",
+            "image": "https://imdb-api.com/images/original/MV5BMTUxNjMxNzU1OV5BMl5BanBnXkFtZTcwNDEyNzcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Linda Kaye",
+            "asCharacter": "Shocked Woman"
+        },
+        {
+            "id": "nm0148019",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Suzanne Celeste",
+            "asCharacter": "Shot Woman"
+        },
+        {
+            "id": "nm0942833",
+            "image": "https://imdb-api.com/images/original/MV5BMTU5NjA1NzkyNF5BMl5BanBnXkFtZTcwMTE2NjAzNA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Steven Wright",
+            "asCharacter": "K-Billy DJ (voice)"
+        },
+        {
+            "id": "nm0490101",
+            "image": "https://imdb-api.com/images/original/MV5BOTU1NWJmNmEtODRkYi00MDVkLTgwYjktZWZmODJhMTQ1MGQwXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Laurie Lathem",
+            "asCharacter": "Background Radio Play (voice)"
+        },
+        {
+            "id": "nm0835211",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Maria Strova",
+            "asCharacter": "Background Radio Play (voice)"
+        },
+        {
+            "id": "nm0824882",
+            "image": "https://imdb-api.com/images/original/MV5BMjEwMjYyNjEwN15BMl5BanBnXkFtZTcwMTI1Nzc2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Burr Steers",
+            "asCharacter": "Background Radio Play (voice)"
+        },
+        {
+            "id": "nm0357326",
+            "image": "https://imdb-api.com/images/original/MV5BMmFhNjY0MDYtMTNmNC00MjJmLTkxZTMtOWU4NzNjYWU3MTM4XkEyXkFqcGdeQXVyMTAzMjk1Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Craig Hamann",
+            "asCharacter": "Background Radio Play (voice)"
+        },
+        {
+            "id": "nm0568445",
+            "image": "https://imdb-api.com/images/original/MV5BZjYwOTU2ZTMtZWQwMS00NmY5LWFjNzktMzFlNTc4Y2YwZDg3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Scott McElroy",
+            "asCharacter": "Cop (uncredited)"
+        },
+        {
+            "id": "nm7257956",
+            "image": "https://imdb-api.com/images/original/MV5BMmM1NTcyOGEtMDY0Yi00YTQwLTgwZGEtNzIzMzBlNGFhZmU1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jeff Shea",
+            "asCharacter": "Chase Cop (uncredited)"
+        },
+        {
+            "id": "nm10091851",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gerard van Gent",
+            "asCharacter": "Bystander (uncredited)"
+        },
+        {
+            "id": "nm0905658",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rowland Wafford",
+            "asCharacter": "Diner Patron (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0105236",
+        "title": "Reservoir Dogs",
+        "fullTitle": "Reservoir Dogs (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000233",
+                    "name": "Quentin Tarantino",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000233",
+                    "name": "Quentin Tarantino",
+                    "description": "(written by)"
+                },
+                {
+                    "id": "nm0000233",
+                    "name": "Quentin Tarantino",
+                    "description": "(background radio dialogue written by) and"
+                },
+                {
+                    "id": "nm0000812",
+                    "name": "Roger Avary",
+                    "description": "(background radio dialogue written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000172",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxMDcxMjgxOV5BMl5BanBnXkFtZTcwODc2NTk2MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Harvey Keitel",
+                "asCharacter": "Mr. White / Larry"
+            },
+            {
+                "id": "nm0000619",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Tim Roth",
+                "asCharacter": "Mr. Orange / Freddy"
+            },
+            {
+                "id": "nm0000514",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4ODA5NzY2N15BMl5BanBnXkFtZTYwNjc3NTI1._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Madsen",
+                "asCharacter": "Mr. Blonde / Vic Vega"
+            },
+            {
+                "id": "nm0001606",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2Nzk0OTcwOV5BMl5BanBnXkFtZTcwMDE0MzE0NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Chris Penn",
+                "asCharacter": "Nice Guy Eddie"
+            },
+            {
+                "id": "nm0000114",
+                "image": "https://imdb-api.com/images/original/MV5BODc0NTU3NDA4M15BMl5BanBnXkFtZTcwNDkxNzQxNA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Steve Buscemi",
+                "asCharacter": "Mr. Pink"
+            },
+            {
+                "id": "nm0862937",
+                "image": "https://imdb-api.com/images/original/MV5BMTgxNDI2MDY3NF5BMl5BanBnXkFtZTcwOTM1NzQyOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lawrence Tierney",
+                "asCharacter": "Joe Cabot"
+            },
+            {
+                "id": "nm0112207",
+                "image": "https://imdb-api.com/images/original/MV5BMzQ0NDgwNTI4M15BMl5BanBnXkFtZTcwNzAwNDEwOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Randy Brooks",
+                "asCharacter": "Holdaway"
+            },
+            {
+                "id": "nm0051257",
+                "image": "https://imdb-api.com/images/original/MV5BYTU4MTkzMWEtNjE5Ny00MzIwLWFkNjYtNWJjNmQ1OWRhZGQwXkEyXkFqcGdeQXVyMjU4NDMyOTA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kirk Baltz",
+                "asCharacter": "Marvin Nash"
+            },
+            {
+                "id": "nm0120483",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3OTc4NjI5Nl5BMl5BanBnXkFtZTcwMjkxOTMwOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Edward Bunker",
+                "asCharacter": "Mr. Blue (as Eddie Bunker)"
+            },
+            {
+                "id": "nm0000233",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Quentin Tarantino",
+                "asCharacter": "Mr. Brown"
+            },
+            {
+                "id": "nm0877822",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rich Turner",
+                "asCharacter": "Sheriff #1"
+            },
+            {
+                "id": "nm0824741",
+                "image": "https://imdb-api.com/images/original/MV5BMTAxMTA5NTIyNjZeQTJeQWpwZ15BbWU3MDUzMjg5OTg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "David Steen",
+                "asCharacter": "Sheriff #2"
+            },
+            {
+                "id": "nm0181922",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tony Cosmo",
+                "asCharacter": "Sheriff #3"
+            },
+            {
+                "id": "nm0689957",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Stevo Polyi",
+                "asCharacter": "Sheriff #4 (as Stevo Poliy)"
+            },
+            {
+                "id": "nm0815649",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michael Sottile",
+                "asCharacter": "Teddy"
+            },
+            {
+                "id": "nm0751936",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Robert Ruth",
+                "asCharacter": "Shot Cop"
+            },
+            {
+                "id": "nm0004744",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3OTQzNjMwN15BMl5BanBnXkFtZTcwMTE3NjQxMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lawrence Bender",
+                "asCharacter": "Young Cop"
+            },
+            {
+                "id": "nm0443344",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxNjMxNzU1OV5BMl5BanBnXkFtZTcwNDEyNzcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Linda Kaye",
+                "asCharacter": "Shocked Woman"
+            },
+            {
+                "id": "nm0148019",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Suzanne Celeste",
+                "asCharacter": "Shot Woman"
+            },
+            {
+                "id": "nm0942833",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5NjA1NzkyNF5BMl5BanBnXkFtZTcwMTE2NjAzNA@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Steven Wright",
+                "asCharacter": "K-Billy DJ (voice)"
+            },
+            {
+                "id": "nm0490101",
+                "image": "https://imdb-api.com/images/original/MV5BOTU1NWJmNmEtODRkYi00MDVkLTgwYjktZWZmODJhMTQ1MGQwXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.8182_AL_.jpg",
+                "name": "Laurie Lathem",
+                "asCharacter": "Background Radio Play (voice)"
+            },
+            {
+                "id": "nm0835211",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Maria Strova",
+                "asCharacter": "Background Radio Play (voice)"
+            },
+            {
+                "id": "nm0824882",
+                "image": "https://imdb-api.com/images/original/MV5BMjEwMjYyNjEwN15BMl5BanBnXkFtZTcwMTI1Nzc2Mw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Burr Steers",
+                "asCharacter": "Background Radio Play (voice)"
+            },
+            {
+                "id": "nm0357326",
+                "image": "https://imdb-api.com/images/original/MV5BMmFhNjY0MDYtMTNmNC00MjJmLTkxZTMtOWU4NzNjYWU3MTM4XkEyXkFqcGdeQXVyMTAzMjk1Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Craig Hamann",
+                "asCharacter": "Background Radio Play (voice)"
+            },
+            {
+                "id": "nm0568445",
+                "image": "https://imdb-api.com/images/original/MV5BZjYwOTU2ZTMtZWQwMS00NmY5LWFjNzktMzFlNTc4Y2YwZDg3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Scott McElroy",
+                "asCharacter": "Cop (uncredited)"
+            },
+            {
+                "id": "nm7257956",
+                "image": "https://imdb-api.com/images/original/MV5BMmM1NTcyOGEtMDY0Yi00YTQwLTgwZGEtNzIzMzBlNGFhZmU1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Jeff Shea",
+                "asCharacter": "Chase Cop (uncredited)"
+            },
+            {
+                "id": "nm10091851",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gerard van Gent",
+                "asCharacter": "Bystander (uncredited)"
+            },
+            {
+                "id": "nm0905658",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rowland Wafford",
+                "asCharacter": "Diner Patron (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0004744",
+                        "name": "Lawrence Bender",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0321621",
+                        "name": "Richard N. Gladstein",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0375494",
+                        "name": "Monte Hellman",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0000172",
+                        "name": "Harvey Keitel",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0908842",
+                        "name": "Ronna B. Wallace",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0782900",
+                        "name": "Andrzej Sekula",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0579673",
+                        "name": "Sally Menke",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0947733",
+                        "name": "Ronnie Yeskel",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0913300",
+                        "name": "David Wasco",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0722012",
+                        "name": "Sandy Reynolds-Wasco",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0374214",
+                        "name": "Betsy Heimann",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0074205",
+                        "name": "Howard Berger",
+                        "description": "special makeup department head"
+                    },
+                    {
+                        "id": "nm0127273",
+                        "name": "Michelle B\u00fchler",
+                        "description": "makeup artist (as Michelle Buhler)"
+                    },
+                    {
+                        "id": "nm0428240",
+                        "name": "Iain Jones",
+                        "description": "hair designer"
+                    },
+                    {
+                        "id": "nm0577438",
+                        "name": "Jamie Melbourne",
+                        "description": "assistant hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm0849687",
+                        "name": "Rachel Tanner",
+                        "description": "hair stylist (as Rachelle Tanner)"
+                    },
+                    {
+                        "id": "nm0869370",
+                        "name": "Wayne Toth",
+                        "description": "special makeup effects artist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0375402",
+                        "name": "Paul Hellerman",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0063984",
+                        "name": "Jamie Beardsley",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0452582",
+                        "name": "Kelly Kiernan",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm0537118",
+                        "name": "Francis R. Mahony III",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0818752",
+                        "name": "Andy Spilkoman",
+                        "description": "second second assistant director"
+                    },
+                    {
+                        "id": "nm0859548",
+                        "name": "Steven K. Thomas",
+                        "description": "second second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0090306",
+                        "name": "Jonathan Bobbitt",
+                        "description": "swing gang"
+                    },
+                    {
+                        "id": "nm0388180",
+                        "name": "Jonathan R. Hodges",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm0485286",
+                        "name": "Cliff Lane",
+                        "description": "property assistant (as Clifford Lane)"
+                    },
+                    {
+                        "id": "nm0573010",
+                        "name": "Douglas Matthew McMahon",
+                        "description": "property assistant"
+                    },
+                    {
+                        "id": "nm0698856",
+                        "name": "Edward J. Protiva",
+                        "description": "swing gang"
+                    },
+                    {
+                        "id": "nm0807517",
+                        "name": "Brett C. Smith",
+                        "description": "lead man"
+                    },
+                    {
+                        "id": "nm0929399",
+                        "name": "Greg Wilkinson",
+                        "description": "assistant propmaster"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0058897",
+                        "name": "Ron Bartlett",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0079771",
+                        "name": "Matthew C. Beville",
+                        "description": "weddington recordist"
+                    },
+                    {
+                        "id": "nm0168884",
+                        "name": "Mark Coffey",
+                        "description": "weddington recordist"
+                    },
+                    {
+                        "id": "nm0282276",
+                        "name": "Stephen Hunter Flick",
+                        "description": "supervising sound editor (as Stephen H. Flick)"
+                    },
+                    {
+                        "id": "nm0377058",
+                        "name": "Dwayne S. Henkel",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm0401566",
+                        "name": "John Hulsman",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0603917",
+                        "name": "Dave Moreno",
+                        "description": "weddington recordist"
+                    },
+                    {
+                        "id": "nm0651108",
+                        "name": "Donald Ortiz",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0674312",
+                        "name": "Cecilia Perna",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm0734744",
+                        "name": "Mary Louise Rodgers",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0747800",
+                        "name": "Geoffrey G. Rubay",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0759421",
+                        "name": "Michael Salvetta",
+                        "description": "foley artist (as Michael A. Salvetta)"
+                    },
+                    {
+                        "id": "nm0006778",
+                        "name": "Curt Schulkey",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0781812",
+                        "name": "Ken Segal",
+                        "description": "production sound mixer"
+                    },
+                    {
+                        "id": "nm0807664",
+                        "name": "Charles Ewing Smith",
+                        "description": "sound editor (as Chuck Smith)"
+                    },
+                    {
+                        "id": "nm0810030",
+                        "name": "Steve F.B. Smith",
+                        "description": "stereo sound consultant: Dolby"
+                    },
+                    {
+                        "id": "nm0831823",
+                        "name": "David E. Stone",
+                        "description": "sound editor (as Dave Stone)"
+                    },
+                    {
+                        "id": "nm0006354",
+                        "name": "Steve Lee",
+                        "description": "sound effects librarian (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0217668",
+                        "name": "Stephen DeLollis",
+                        "description": "special effects (as Steve DeLollis)"
+                    },
+                    {
+                        "id": "nm0231397",
+                        "name": "Pat Domenico",
+                        "description": "key special effects"
+                    },
+                    {
+                        "id": "nm0258023",
+                        "name": "Moose Enright",
+                        "description": "special effects electrical foreman"
+                    },
+                    {
+                        "id": "nm0278598",
+                        "name": "Larry Fioritto",
+                        "description": "special effects coordinator"
+                    },
+                    {
+                        "id": "nm0945163",
+                        "name": "Rick Yale",
+                        "description": "special effects"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm0339782",
+                        "name": "Dave Gregory",
+                        "description": "optical supervisor: Title House Inc. (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0338123",
+                        "name": "Marian Green",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0391013",
+                        "name": "Marcia Holley",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0503911",
+                        "name": "Ken Lesco",
+                        "description": "stunt coordinator / stunts"
+                    },
+                    {
+                        "id": "nm0570060",
+                        "name": "Pat McGroarty",
+                        "description": "stunts"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0010913",
+                        "name": "Dink Adams",
+                        "description": "best boy grip"
+                    },
+                    {
+                        "id": "nm0113874",
+                        "name": "Joey D. Brown",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0155307",
+                        "name": "Linda R. Chen",
+                        "description": "unit photographer (as Linda Chen)"
+                    },
+                    {
+                        "id": "nm0197128",
+                        "name": "Jay Dahlquist",
+                        "description": "best boy electric"
+                    },
+                    {
+                        "id": "nm0234780",
+                        "name": "Ziad Doueiri",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm0349198",
+                        "name": "Randall Guth",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm0441839",
+                        "name": "Ross Katz",
+                        "description": "grip (as Ross Andrews Katz)"
+                    },
+                    {
+                        "id": "nm0567189",
+                        "name": "Greg R. McCullough",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0584455",
+                        "name": "Neil Michaels",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0601574",
+                        "name": "Mark Emery Moore",
+                        "description": "steadicam operator (as Mark Moore)"
+                    },
+                    {
+                        "id": "nm0632133",
+                        "name": "Katie Nilson",
+                        "description": "best boy electric"
+                    },
+                    {
+                        "id": "nm0744144",
+                        "name": "Chris J. Rossi",
+                        "description": "grip (as Chris Rossi)"
+                    },
+                    {
+                        "id": "nm0792701",
+                        "name": "Alan Sherrod",
+                        "description": "director of photography: second unit"
+                    },
+                    {
+                        "id": "nm0809171",
+                        "name": "Lynn Smith",
+                        "description": "first assistant Steadicam"
+                    },
+                    {
+                        "id": "nm0817578",
+                        "name": "Robert John Speer",
+                        "description": "generator operator"
+                    },
+                    {
+                        "id": "nm0859275",
+                        "name": "Miles Thomas",
+                        "description": "best boy grip"
+                    },
+                    {
+                        "id": "nm0881713",
+                        "name": "Ric Urbauer",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0933292",
+                        "name": "Dennis K. Wilson",
+                        "description": "dolly grip"
+                    },
+                    {
+                        "id": "nm0940924",
+                        "name": "Frank H. Woodward",
+                        "description": "electrician"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0448277",
+                        "name": "Peggy Kennedy",
+                        "description": "casting associate"
+                    },
+                    {
+                        "id": "nm0763612",
+                        "name": "Mary Santiago",
+                        "description": "extras casting"
+                    },
+                    {
+                        "id": "nm0269656",
+                        "name": "Cheryl Faye",
+                        "description": "extras casting (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0036971",
+                        "name": "Jacqueline Aronson",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm0260577",
+                        "name": "Melinda Eshelman",
+                        "description": "assistant wardrobe (as Melinda Adele Eshelman)"
+                    },
+                    {
+                        "id": "nm0360341",
+                        "name": "Mary Claire Hannan",
+                        "description": "costume supervisor"
+                    },
+                    {
+                        "id": "nm0677668",
+                        "name": "Steve Petix Jr.",
+                        "description": "assistant wardrobe"
+                    },
+                    {
+                        "id": "nm0678765",
+                        "name": "Steve Petty Jr.",
+                        "description": "assistant wardrobe"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0147209",
+                        "name": "Doug Cawker",
+                        "description": "apprentice editor"
+                    },
+                    {
+                        "id": "nm0153881",
+                        "name": "Michael Chaskes",
+                        "description": "apprentice editor"
+                    },
+                    {
+                        "id": "nm0228893",
+                        "name": "Kelley Dixon",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0286101",
+                        "name": "Carrie Elizabeth Foresman",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0489780",
+                        "name": "Mark Lass",
+                        "description": "negative cutter"
+                    },
+                    {
+                        "id": "nm0573783",
+                        "name": "Brandon McNaughton",
+                        "description": "apprentice editor"
+                    },
+                    {
+                        "id": "nm0675228",
+                        "name": "Nancy Perry",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0701485",
+                        "name": "Jennifer Pyken",
+                        "description": "post-production assistant"
+                    },
+                    {
+                        "id": "nm0824859",
+                        "name": "Boyd Steer",
+                        "description": "negative cutter"
+                    },
+                    {
+                        "id": "nm0931942",
+                        "name": "William W. Williams",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0935572",
+                        "name": "Chuck Winston",
+                        "description": "color timer"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0288888",
+                        "name": "Billy A. Fox",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm0325817",
+                        "name": "Judith E. Goldman",
+                        "description": "assistant location manager (as Judy Goldman)"
+                    },
+                    {
+                        "id": "nm0664287",
+                        "name": "Marino Pascal",
+                        "description": "location scout (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0403396",
+                        "name": "Nancy Lynn Hurlbut",
+                        "description": "assistant music supervisor"
+                    },
+                    {
+                        "id": "nm0625512",
+                        "name": "Kathy Nelson",
+                        "description": "music supervisor: MCA"
+                    },
+                    {
+                        "id": "nm0705145",
+                        "name": "Karyn Rachtman",
+                        "description": "music supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0457725",
+                        "name": "Martin Kitrosser",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm0168826",
+                        "name": "David Coffee",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0188442",
+                        "name": "Steve Croff",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0230495",
+                        "name": "Michael Doggett",
+                        "description": "transportation consultant (as Mike Doggett)"
+                    },
+                    {
+                        "id": "nm0318850",
+                        "name": "Ben C. Giller",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm0522864",
+                        "name": "James Lowder",
+                        "description": "transportation coordinator (as James R. Lowder)"
+                    },
+                    {
+                        "id": "nm0817578",
+                        "name": "Robert John Speer",
+                        "description": "driver"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0018560",
+                        "name": "Wayne Alexander",
+                        "description": "legal services (as L. Wayne Alexander)"
+                    },
+                    {
+                        "id": "nm0000812",
+                        "name": "Roger Avary",
+                        "description": "creator: Dog Eat Dog logo"
+                    },
+                    {
+                        "id": "nm0047391",
+                        "name": "Marina Bailey",
+                        "description": "unit publicist"
+                    },
+                    {
+                        "id": "nm0049013",
+                        "name": "Wendy Baker",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0079463",
+                        "name": "Warren Betts",
+                        "description": "public relations: Live America"
+                    },
+                    {
+                        "id": "nm0085745",
+                        "name": "Ian Blackman",
+                        "description": "reader"
+                    },
+                    {
+                        "id": "nm0148019",
+                        "name": "Suzanne Celeste",
+                        "description": "dialect coach"
+                    },
+                    {
+                        "id": "nm0174139",
+                        "name": "Bruce Comtois",
+                        "description": "set security"
+                    },
+                    {
+                        "id": "nm0193014",
+                        "name": "R. Blaine Currier",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm1222630",
+                        "name": "Fran\u00e7ois Frey",
+                        "description": "publicist: France"
+                    },
+                    {
+                        "id": "nm0329030",
+                        "name": "Carlos K. Goodman",
+                        "description": "legal services"
+                    },
+                    {
+                        "id": "nm0340881",
+                        "name": "Debra Grieco",
+                        "description": "assistant accountant"
+                    },
+                    {
+                        "id": "nm0363889",
+                        "name": "Jim Harper",
+                        "description": "reader"
+                    },
+                    {
+                        "id": "nm0437958",
+                        "name": "Enid L. Kantor",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm0446467",
+                        "name": "Jeannie H. Kelly",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm0575366",
+                        "name": "Stephanie Jo Meckler",
+                        "description": "legal services: Live America"
+                    },
+                    {
+                        "id": "nm0597316",
+                        "name": "Melanie Molyneux",
+                        "description": "set medic"
+                    },
+                    {
+                        "id": "nm0706573",
+                        "name": "Cathy Ragona",
+                        "description": "assistant: Richard N. Gladstein"
+                    },
+                    {
+                        "id": "nm0113941",
+                        "name": "Julie Rhodes",
+                        "description": "assistant coordinator (as Juliet Brown)"
+                    },
+                    {
+                        "id": "nm0732935",
+                        "name": "Moses Robinson",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0760120",
+                        "name": "Scott Sampler",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0869353",
+                        "name": "Nicholas Toth",
+                        "description": "animal handler"
+                    },
+                    {
+                        "id": "nm0871578",
+                        "name": "Liz Treadwell",
+                        "description": "production assistant (as Elizabeth Treadwell)"
+                    },
+                    {
+                        "id": "nm0578861",
+                        "name": "Michael Mendelsohn",
+                        "description": "financial consultant (uncredited)"
+                    },
+                    {
+                        "id": "nm0636940",
+                        "name": "Ante Novakovic",
+                        "description": "assistant: Harvey Keitel (uncredited)"
+                    },
+                    {
+                        "id": "nm7257956",
+                        "name": "Jeff Shea",
+                        "description": "cop (uncredited)"
+                    },
+                    {
+                        "id": "nm0818367",
+                        "name": "Jon Sperry",
+                        "description": "dialect coach: Harvey Keitel (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0098083",
+                        "name": "Rebecca Boss",
+                        "description": "special thanks (as Becka Boss)"
+                    },
+                    {
+                        "id": "nm0137046",
+                        "name": "Timothy Carey",
+                        "description": "dedicatee"
+                    },
+                    {
+                        "id": "nm0137530",
+                        "name": "Michael D. Carlin",
+                        "description": "special thanks (as Mike Carlon)"
+                    },
+                    {
+                        "id": "nm0154901",
+                        "name": "Merry Cheers",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0000334",
+                        "name": "Yun-Fat Chow",
+                        "description": "dedicatee (as Chow Yuen Fat)"
+                    },
+                    {
+                        "id": "nm0000339",
+                        "name": "Roger Corman",
+                        "description": "dedicatee"
+                    },
+                    {
+                        "id": "nm0211964",
+                        "name": "Andr\u00e9 De Toth",
+                        "description": "dedicatee (as Andre DeToth)"
+                    },
+                    {
+                        "id": "nm0282571",
+                        "name": "Peter Flood",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0000416",
+                        "name": "Terry Gilliam",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0000419",
+                        "name": "Jean-Luc Godard",
+                        "description": "dedicatee"
+                    },
+                    {
+                        "id": "nm0343260",
+                        "name": "Ulu Grosbard",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0397105",
+                        "name": "Alison Howard",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0416346",
+                        "name": "Cathryn Jaymes",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0509394",
+                        "name": "John Lieberman",
+                        "description": "thanks (as Mr. John Lieberman)"
+                    },
+                    {
+                        "id": "nm0532342",
+                        "name": "Kenneth McGregor",
+                        "description": "special thanks (as Kenneth McGreggor)"
+                    },
+                    {
+                        "id": "nm0578483",
+                        "name": "Jean-Pierre Melville",
+                        "description": "dedicatee (as Jean Pierre Melville)"
+                    },
+                    {
+                        "id": "nm0632223",
+                        "name": "Harry Nilsson",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0662450",
+                        "name": "Lilly Parker",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0692841",
+                        "name": "Laurie Post",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0755321",
+                        "name": "Stephen Sacks",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0755852",
+                        "name": "Tony Safford",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0766385",
+                        "name": "Michelle Satter",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0001716",
+                        "name": "Tony Scott",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0792049",
+                        "name": "Stacey Sher",
+                        "description": "special thanks (as Stacy Sher)"
+                    },
+                    {
+                        "id": "nm0856945",
+                        "name": "Todd Thaler",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0862937",
+                        "name": "Lawrence Tierney",
+                        "description": "dedicatee"
+                    },
+                    {
+                        "id": "nm0881130",
+                        "name": "Bill Unger",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0903047",
+                        "name": "Greta von Steinbauer",
+                        "description": "special thanks (as Greta Vonsteinbauer)"
+                    },
+                    {
+                        "id": "nm0925137",
+                        "name": "Lionel White",
+                        "description": "dedicatee"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Crime, Drama, Thriller",
+    "genreList": [
+        {
+            "key": "Crime",
+            "value": "Crime"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Live Entertainment, Dog Eat Dog Productions Inc.",
+    "companyList": [
+        {
+            "id": "co0049954",
+            "name": "Live Entertainment"
+        },
+        {
+            "id": "co0112857",
+            "name": "Dog Eat Dog Productions Inc."
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "8.3",
+    "imDbRatingVotes": "877526",
+    "metacriticRating": "79",
+    "ratings": {
+        "imDbId": "tt0105236",
+        "title": "Reservoir Dogs",
+        "fullTitle": "Reservoir Dogs (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "imDb": "8.3",
+        "metacritic": "79",
+        "theMovieDb": "8.2",
+        "rottenTomatoes": "91",
+        "tV_com": "9.0",
+        "filmAffinity": "8.1",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0105236",
+        "title": "Reservoir Dogs",
+        "fullTitle": "Reservoir Dogs (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "language": "en",
+        "titleInLanguage": "Reservoir Dogs",
+        "url": "https://en.wikipedia.org/wiki/Reservoir_Dogs",
+        "plotShort": {
+            "plainText": "Reservoir Dogs\r\nReservoir Dogs is a 1992 American independent crime film written and directed by Quentin Tarantino in his feature-length debut. It stars Harvey Keitel, Tim Roth, Chris Penn, Steve Buscemi, Lawrence Tierney, Michael Madsen, Tarantino, and Edward Bunker, as diamond thieves whose planned heist of a jewelry store goes terribly wrong. The film depicts the events before and after the heist. Kirk Baltz, Randy Brooks and Steven Wright also play supporting roles. It incorporates many motifs that have become Tarantino's hallmarks: violent crime, pop culture references, profanity, and nonlinear storytelling.\r\nThe film is regarded as a classic of independent film and a cult film, and was named \"Greatest Independent Film of all Time\" by Empire. Although controversial for its depictions of violence and use of profanity, Reservoir Dogs was generally well received, with the cast being praised by many critics. Despite not being heavily promoted during its theatrical run, the film became a modest success in the United States after grossing $2.8 million against its $1.2 million budget, and was more successful in the United Kingdom, grossing nearly \u00a36.5 million. It achieved higher popularity after the success of Tarantino's next film, Pulp Fiction (1994). A soundtrack was released featuring songs used in the film, which are mostly from the 1970s.",
+            "html": "<h2>Reservoir Dogs</h2><p>Reservoir Dogs is a 1992 American independent crime film written and directed by Quentin Tarantino in his feature-length debut. It stars Harvey Keitel, Tim Roth, Chris Penn, Steve Buscemi, Lawrence Tierney, Michael Madsen, Tarantino, and Edward Bunker, as diamond thieves whose planned heist of a jewelry store goes terribly wrong. The film depicts the events before and after the heist. Kirk Baltz, Randy Brooks and Steven Wright also play supporting roles. It incorporates many motifs that have become Tarantino's hallmarks: violent crime, pop culture references, profanity, and nonlinear storytelling.</p><p>The film is regarded as a classic of independent film and a cult film, and was named \"Greatest Independent Film of all Time\" by Empire. Although controversial for its depictions of violence and use of profanity, Reservoir Dogs was generally well received, with the cast being praised by many critics. Despite not being heavily promoted during its theatrical run, the film became a modest success in the United States after grossing $2.8 million against its $1.2 million budget, and was more successful in the United Kingdom, grossing nearly \u00a36.5 million. It achieved higher popularity after the success of Tarantino's next film, Pulp Fiction (1994). A soundtrack was released featuring songs used in the film, which are mostly from the 1970s.</p>"
+        },
+        "plotFull": {
+            "plainText": "Reservoir Dogs\r\nReservoir Dogs is a 1992 American independent crime film written and directed by Quentin Tarantino in his feature-length debut. It stars Harvey Keitel, Tim Roth, Chris Penn, Steve Buscemi, Lawrence Tierney, Michael Madsen, Tarantino, and Edward Bunker, as diamond thieves whose planned heist of a jewelry store goes terribly wrong. The film depicts the events before and after the heist. Kirk Baltz, Randy Brooks and Steven Wright also play supporting roles. It incorporates many motifs that have become Tarantino's hallmarks: violent crime, pop culture references, profanity, and nonlinear storytelling.\r\nThe film is regarded as a classic of independent film and a cult film, and was named \"Greatest Independent Film of all Time\" by Empire. Although controversial for its depictions of violence and use of profanity, Reservoir Dogs was generally well received, with the cast being praised by many critics. Despite not being heavily promoted during its theatrical run, the film became a modest success in the United States after grossing $2.8 million against its $1.2 million budget, and was more successful in the United Kingdom, grossing nearly \u00a36.5 million. It achieved higher popularity after the success of Tarantino's next film, Pulp Fiction (1994). A soundtrack was released featuring songs used in the film, which are mostly from the 1970s.\r\nPlot\r\nEight men eat breakfast at a Los Angeles diner before carrying out a diamond heist. Led by Joe Cabot and his son and underboss \"Nice Guy\" Eddie Cabot, all other criminals use aliases: Mr. Brown, Mr. White, Mr. Blonde, Mr. Blue, Mr. Orange and Mr. Pink. After discussing the Madonna song \"Like a Virgin\" and arguing over Pink's habit of not tipping, the group leaves the diner to perform the heist.\r\nAfter the heist, White flees with Orange, who was shot in the stomach by an armed woman during the escape and is bleeding severely in the back of the getaway car. At one of Joe's warehouses, White and Orange rendezvous with Pink, who believes that the job was a setup, and that the police were waiting for them. White informs him that Brown is dead, Blue and Blonde are missing, and Blonde has murdered several innocent civilians during the heist; White is furious that Joe, his old friend, would employ a \"psychopath\" like Blonde. Pink has hidden the diamonds nearby. He argues with White over whether or not they should get medical attention for Orange, and the pair end up having a fight and draw guns at each other. They stand down when Blonde arrives with a kidnapped policeman, Marvin Nash.\r\nSometime earlier, Blonde meets with the Cabots, having completed a four-year jail sentence. To reward him for not having given Joe's name to the authorities for a lighter sentence, they offer him a no-show job. Blonde insists that he wants to get back to \"real work,\" and they recruit him for the heist.\r\nIn the present, White and Pink beat Nash for information. Eddie arrives and orders them to retrieve the stashed diamonds and ditch the getaway vehicles, leaving Blonde in charge of Nash and Orange. Whilst dancing to Stealers Wheel's \"Stuck in the Middle with You\", Blonde tortures Nash before cutting off his right ear with a straight razor. Blonde then retrieves a gasoline can from his car, and is about to set Nash on fire, but Orange suddenly wakes up and shoots Blonde to death, saving Nash's life. Orange then reveals to Nash that he is an undercover police officer and the police will arrive shortly.\r\nEarlier, Orange \u2013 real name Freddy Newandyke \u2013 uses an elaborate tale of drug delivery to gain acceptance into the gang. Shortly thereafter, White becomes friends with Orange.\r\nBack in the present, Eddie, Pink, and White return, Orange tries to convince them that Blonde planned to kill them all and steal the diamonds for himself. Eddie impulsively kills Nash and accuses Orange of lying, as Blonde was a longtime friend of his father. Joe then arrives with news that the police have killed Blue. He is about to execute Orange, whom he suspects is the traitor behind the setup, but White intervenes and holds Joe at gunpoint, insisting that White does not believe Orange is responsible. Eddie promptly aims at White, creating a Mexican standoff. All three fire; both Cabots are killed, and White and Orange are hit.\r\nPink, the only uninjured person, takes the diamonds and flees. As White cradles the dying Orange in his arms, Orange confesses that he is an undercover officer; White sobs in betrayal and reluctantly presses his gun to Orange's head. In the background, Pink is heard being arrested, as the police storm the warehouse and order White to drop his gun. White shoots Orange and collapses as gunfire erupts.\r\nCast\r\nHarvey Keitel as Mr. White/Larry Dimmick\r\nTim Roth as Mr. Orange/Freddy Newandyke\r\nMichael Madsen as Mr. Blonde/Vic Vega\r\nChris Penn as \"Nice Guy\" Eddie Cabot\r\nSteve Buscemi as Mr. Pink\r\nLawrence Tierney as Joe Cabot\r\nRandy Brooks as Holdaway\r\nKirk Baltz as Marvin Nash\r\nEdward Bunker as Mr. Blue\r\nQuentin Tarantino as Mr. Brown\r\nRich Turner as Sheriff #1\r\nDavid Steen as Sheriff #2\r\nSteven Wright as K-Billy DJ (voice)\r\nProduction\r\nQuentin Tarantino had been working at Video Archives, a video store in Manhattan Beach, California, and originally planned to shoot the film with his friends on a budget of $30,000 in a 16 mm black-and-white format, with producer Lawrence Bender playing a police officer chasing Mr. Pink. Bender gave the script to his acting teacher, whose wife gave the script to Harvey Keitel. Keitel liked it enough to sign as a co-producer so Tarantino and Bender would have an easier job finding funding; with his assistance, they raised $1.5 million. Keitel also paid for Tarantino and Bender to host casting sessions in New York, where the duo found Steve Buscemi, Michael Madsen, and Tim Roth.\r\nReservoir Dogs was, according to Tarantino, influenced by Stanley Kubrick's The Killing. Tarantino said: \"I didn't go out of my way to do a rip-off of The Killing, but I did think of it as my 'Killing', my take on that kind of heist movie.\" The film's plot was suggested by the 1952 film Kansas City Confidential. Additionally, Joseph H. Lewis's 1955 film The Big Combo and Sergio Corbucci's 1966 Spaghetti Western Django inspired the scene where a police officer is tortured in a chair. Tarantino has denied that he plagiarized with Reservoir Dogs and instead said that he does homages. Having the main characters named after colors (Mr. Pink, White, Brown, etc.) was first seen in the 1974 film The Taking of Pelham One Two Three. The film also contains key elements similar to those found in Ringo Lam's 1987 film City on Fire.\r\nThe warehouse used in the film was in reality an abandoned mortuary. This explains the hearse Blonde is sitting on while White and Pink are arguing. In scenes with Orange in his apartment, the second floor of the mortuary was used and dressed up to look like living quarters. The location has since been demolished.\r\nOf his decision not to show the heist itself, Tarantino has said that the reason was initially budgetary but that he had always liked the idea of not showing it and stuck with that idea in order to make the details of the heist ambiguous. He has said that the technique allows for the realization that the film is \"about other things\", a similar plot outline that appears in the stage play Glengarry Glen Ross and its film adaptation in which the mentioned robbery is never shown on camera. Tarantino has compared this to the work of a novelist, and has said that he wanted the film to be about something that is not seen and that he wanted it to \"play with a real-time clock as opposed to a movie clock ticking\".\r\nThe title for the film came from a customer at the Video Archives, who requested Louis Malle's 1987 film Au revoir les enfants, but mispronounced the title \"reservoir\".\r\nReception\r\nBox office\r\nReservoir Dogs premiered at the Sundance Film Festival in January 1992. It became the festival's most talked-about film, and was subsequently picked up for distribution by Miramax Films. After being shown at several other film festivals, including in Cannes, Sitges and Toronto, Reservoir Dogs opened in the United States in 19 theaters with a first week total of $147,839. It was expanded to 61 theaters and totaled $2,832,029 at the domestic box office. The film grossed more than double that in the United Kingdom, where it did not receive a home video release until 1995. During the period of unavailability on home video, the film was re-released in UK cinemas in June 1994.\r\nCritical reception\r\nReservoir Dogs is regarded as an important and influential milestone of independent filmmaking. Review aggregation website Rotten Tomatoes gives the film an approval rating of 91% based on 69 reviews (63 positive, 6 negative), and an average rating of 8.81/10. The site's critical consensus reads, \"Thrumming with intelligence and energy, Reservoir Dogs opens Quentin Tarantino's filmmaking career with hard-hitting style.\" On Metacritic the film has an average score of 79 out of 100, based on 24 critics, indicating \"generally favorable reviews\". Empire magazine named it the \"Greatest Independent Film\" ever made.\r\nAt the film's release at the Sundance Film Festival, film critic Jami Bernard of the New York Daily News compared the effect of Reservoir Dogs to that of the 1895 film L'Arriv\u00e9e d'un Train en Gare de la Ciotat, when audiences supposedly saw a moving train approaching the camera and ducked. Bernard said that Reservoir Dogs had a similar effect and people were not ready for it. Vincent Canby of The New York Times enjoyed the cast and the usage of non-linear storytelling. He similarly complimented Tarantino's directing and liked the fact that he did not often use close-ups in the film. Kenneth Turan of the Los Angeles Times also enjoyed the film and the acting, particularly that of Buscemi, Tierney and Madsen, and said \"Tarantino's palpable enthusiasm, his unapologetic passion for what he's created, reinvigorates this venerable plot and, mayhem aside, makes it involving for longer than you might suspect.\" Critic James Berardinelli was of a similar opinion; he complimented both the cast and Tarantino's dialogue writing abilities. Hal Hinson of The Washington Post was also enthusiastic about the cast, complimenting the film on its \"deadpan sense of humor\".\r\nRoger Ebert was less enthusiastic; he felt that the script could have been better and said that the film \"feels like it's going to be terrific\", but Tarantino's script does not have much curiosity about the characters. He also said that Tarantino \"has an idea, and trusts the idea to drive the plot.\" Ebert gave the film two and a half stars out of four and said that while he enjoyed it and that it was a very good film from a talented director, \"I liked what I saw, but I wanted more.\" Ebert's biggest praise was the acting in the film.\r\nThe film has received substantial criticism for its strong violence and language. One scene that viewers found particularly unnerving was the ear-cutting scene; Madsen himself reportedly had great difficulty finishing it, especially after Kirk Baltz ad-libbed the desperate plea \"I've got a little kid at home.\" Many people walked out during the film. During a screening at Sitges Film Festival, 15 people walked out, including horror film director Wes Craven and special makeup effects artist Rick Baker. Baker later told Tarantino to take the walkout as a \"compliment\" and explained that he found the violence unnerving because of its heightened sense of realism. Tarantino commented about it at the time: \"It happens at every single screening. For some people the violence, or the rudeness of the language, is a mountain they can't climb. That's OK. It's not their cup of tea. But I am affecting them. I wanted that scene to be disturbing.\"\r\nCritical analysis\r\nReservoir Dogs has often been seen as a prominent film in terms of on-screen violence. J.P. Telotte compared Reservoir Dogs to classic caper noir films and points out the irony in its ending scenes. Mark Irwin also made the connection between Reservoir Dogs and classic American noir. Caroline Jewers called Reservoir Dogs a \"feudal epic\" and paralleled the color pseudonyms to color names of medieval knights.\r\nCritics have observed parallels between Reservoir Dogs and other films. For its nonlinear storyline, Reservoir Dogs has often been compared to Rashomon. Critic John Hartl compared the ear-cutting scene to the shower murder scene in Psycho and Tarantino to David Lynch. He furthermore explored parallels between Reservoir Dogs and Glengarry Glen Ross. Todd McCarthy, who called the film \"undeniably impressive\", was of the opinion that it was influenced by Mean Streets, Goodfellas and The Killing. After this film, Tarantino himself was also compared to Martin Scorsese, Sam Peckinpah, John Singleton, Gus Van Sant, and Abel Ferrara.\r\nA frequently cited comparison has been to Tarantino's second and more successful film Pulp Fiction, especially since the majority of audiences saw Reservoir Dogs after the success of Pulp Fiction. Comparisons have been made regarding the black humor in both the films, the theme of accidents, and more concretely, the style of dialogue and narrative that Tarantino incorporates into both films. Specifically the relationship between whites and blacks plays a big part in the films\u2014though underplayed in Reservoir Dogs. Stanley Crouch of The New York Times compared the way the white criminals speak of black people in Reservoir Dogs to the way they are spoken of in Scorsese's Mean Streets and Goodfellas. Crouch observed the way black people are looked down upon in Reservoir Dogs, but also the way that the criminals accuse each other of \"verbally imitating\" black men and the characters' apparent sexual attraction to black actress Pam Grier.\r\nIn February 2012, as part of an ongoing series of live dramatic readings of film scripts being staged with the Los Angeles County Museum of Art (LACMA), director Jason Reitman cast black actors in the originally white cast: Laurence Fishburne as Mr. White; Terrence Howard as Mr. Blonde; Anthony Mackie as Mr. Pink; Cuba Gooding Jr. as Mr. Orange; Chi McBride as Joe Cabot; Anthony Anderson as Nice Guy Eddie (Joe Cabot's son); Common as both Mr. Brown and Officer Nash (the torture victim of Mr. Blonde), and Patton Oswalt as Holdaway (the mentor cop who was originally played by Randy Brooks, the only black actor in the film). Critic Elvis Mitchell suggested that Reitman's version of the script was taking the source material back to its roots since the characters \"all sound like black dudes.\"\r\nAccolades\r\nThe film was screened out of competition at the 1992 Cannes Film Festival. It won the Critic's Award at the 4th Yubari International Fantastic Film Festival in February 1993 which Tarantino attended. The film was also nominated for the prestigious Grand Prix of the Belgian Syndicate of Cinema Critics. Steve Buscemi won the 1992 Independent Spirit Award for Best Supporting Male. Reservoir Dogs ranks at No. 97 in Empire magazine's list of the 500 Greatest Films of All Time.\r\nHome media\r\nIn the United Kingdom, release of the VHS rental video was delayed until 1995 due to the British Board of Film Classification initially refusing the film a home video certificate (UK releases are required to be certified separately for theatrical release and for viewing at home). The latter is a requirement by law due to the Video Recordings Act 1984. Following the UK VHS release approval, Polygram released a \"Mr Blonde Deluxe Edition\", which included an interview with Tarantino and several memorabilia associated with the character Mr. Blonde, such as sunglasses and a chrome toothpick holder.\r\nRegion 1 DVDs of Reservoir Dogs have been released multiple times. The first release was a single two-sided disc from LIVE Entertainment, released in June 1997 and featuring both open matte and letterbox versions of the film. Five years later, on August 27, 2002, Artisan Entertainment (who changed their name from LIVE Entertainment in the interim) released a two-disc 10th anniversary edition on DVD and VHS featuring multiple covers color-coded to match the nicknames of four of the characters (Pink, White, Orange, Blonde and Brown) and a disc of bonus features such as interviews with the cast and crew. However, the full screen version on the second disc was a pan and scan transfer from the widescreen 2.39:1 version, as opposed to open matte like the '97 DVD.\r\nFor the film's 15th anniversary, Lionsgate (which had purchased Artisan in the interim) produced a two-disc anniversary edition with a remastered 16:9 transfer and a new supplement, but not all of the extra features from the 10th Anniversary edition. In particular, interviews with the cast and crew were removed, and a new 48-minute-long feature called \"Tributes and Dedications\" was included.\r\nSoundtrack\r\nThe Reservoir Dogs: Original Motion Picture Soundtrack was the first soundtrack for a Quentin Tarantino film and set the structure his later soundtracks would follow. This includes the extensive use of snippets of dialogue from the film. The soundtrack has selections of songs from the 1960s to '80s. Only the group Bedlam recorded original songs for the film. Reasoning that the film takes place over a weekend, Tarantino decided to set it to a fictional radio station 'K-Billy' (presumably KBLY)'s show \"K-Billy's Super Sounds of the Seventies Weekend\", a themed weekend show of broadcasts of songs from the seventies. The radio station played a prominent role in the film. The DJ for the radio was chosen to be Steven Wright, a comedian known for his deadpan delivery of jokes.\r\nAn unusual feature of the soundtrack was the choice of songs; Tarantino has said that he feels the music to be a counterpoint to the on-screen violence and action. He also stated that he wished for the film to have a 1950s feel while using '70s music. A prominent instance of this is the torture scene to the tune of \"Stuck in the Middle with You\".\r\nBedlam was a 1990s rock group from Nashville fronted by Jay Joyce, who were signed to MCA Records. Their album Into the Coals was released in 1992. Further members were Chris Feinstein (bass) and Doug Lancio. \"Magic Carpet Ride\" is a cover of the 1968 Steppenwolf song. \"Harvest Moon\" is written by Jay Joyce.\r\nSandy Rogers' \"Fool for Love\" initially was title song to Robert Altman's 1985 film Fool for Love.\r\nCertifications\r\nVideo games\r\nA video game based on the film was released in 2006 for PC, Xbox, and PlayStation 2. However, the game does not feature the likeness of any of the actors with the exception of Michael Madsen. The game was received unfavorably, with GameSpot calling it \"an out and out failure\". It caused controversy for its amount of violence and was banned in Australia and New Zealand.\r\nAnother video game, Reservoir Dogs: Bloody Days, was released in 2017.\r\nOn December 14, 2017, Overkill Software added a heist to Payday 2 inspired by Reservoir Dogs in which the player is contracted to rob a jewelry store in Los Angeles with the Cabot family. It is unique in that the heist is played in reverse order, with day two occurring prior to day one, similar to how the film's plot is out of chronological order.\r\nRemakes\r\nKaante, a Bollywood film released in 2002, is a remake of Reservoir Dogs, combined with elements of City on Fire. The film also borrows plot points from The Usual Suspects, Heat and The Killing. Tarantino has been quoted as saying that Kaante is his favorite among the many films inspired by his work. Tarantino later screened Kaante at his New Beverly Cinema alongside Reservoir Dogs and City on Fire.",
+            "html": "<h2>Reservoir Dogs</h2><p>Reservoir Dogs is a 1992 American independent crime film written and directed by Quentin Tarantino in his feature-length debut. It stars Harvey Keitel, Tim Roth, Chris Penn, Steve Buscemi, Lawrence Tierney, Michael Madsen, Tarantino, and Edward Bunker, as diamond thieves whose planned heist of a jewelry store goes terribly wrong. The film depicts the events before and after the heist. Kirk Baltz, Randy Brooks and Steven Wright also play supporting roles. It incorporates many motifs that have become Tarantino's hallmarks: violent crime, pop culture references, profanity, and nonlinear storytelling.</p><p>The film is regarded as a classic of independent film and a cult film, and was named \"Greatest Independent Film of all Time\" by Empire. Although controversial for its depictions of violence and use of profanity, Reservoir Dogs was generally well received, with the cast being praised by many critics. Despite not being heavily promoted during its theatrical run, the film became a modest success in the United States after grossing $2.8 million against its $1.2 million budget, and was more successful in the United Kingdom, grossing nearly \u00a36.5 million. It achieved higher popularity after the success of Tarantino's next film, Pulp Fiction (1994). A soundtrack was released featuring songs used in the film, which are mostly from the 1970s.</p><br/><h3>Plot</h3><p>Eight men eat breakfast at a Los Angeles diner before carrying out a diamond heist. Led by Joe Cabot and his son and underboss \"Nice Guy\" Eddie Cabot, all other criminals use aliases: Mr. Brown, Mr. White, Mr. Blonde, Mr. Blue, Mr. Orange and Mr. Pink. After discussing the Madonna song \"Like a Virgin\" and arguing over Pink's habit of not tipping, the group leaves the diner to perform the heist.</p><p>After the heist, White flees with Orange, who was shot in the stomach by an armed woman during the escape and is bleeding severely in the back of the getaway car. At one of Joe's warehouses, White and Orange rendezvous with Pink, who believes that the job was a setup, and that the police were waiting for them. White informs him that Brown is dead, Blue and Blonde are missing, and Blonde has murdered several innocent civilians during the heist; White is furious that Joe, his old friend, would employ a \"psychopath\" like Blonde. Pink has hidden the diamonds nearby. He argues with White over whether or not they should get medical attention for Orange, and the pair end up having a fight and draw guns at each other. They stand down when Blonde arrives with a kidnapped policeman, Marvin Nash.</p><p>Sometime earlier, Blonde meets with the Cabots, having completed a four-year jail sentence. To reward him for not having given Joe's name to the authorities for a lighter sentence, they offer him a no-show job. Blonde insists that he wants to get back to \"real work,\" and they recruit him for the heist.</p><p>In the present, White and Pink beat Nash for information. Eddie arrives and orders them to retrieve the stashed diamonds and ditch the getaway vehicles, leaving Blonde in charge of Nash and Orange. Whilst dancing to Stealers Wheel's \"Stuck in the Middle with You\", Blonde tortures Nash before cutting off his right ear with a straight razor. Blonde then retrieves a gasoline can from his car, and is about to set Nash on fire, but Orange suddenly wakes up and shoots Blonde to death, saving Nash's life. Orange then reveals to Nash that he is an undercover police officer and the police will arrive shortly.</p><p>Earlier, Orange \u2013 real name Freddy Newandyke \u2013 uses an elaborate tale of drug delivery to gain acceptance into the gang. Shortly thereafter, White becomes friends with Orange.</p><p>Back in the present, Eddie, Pink, and White return, Orange tries to convince them that Blonde planned to kill them all and steal the diamonds for himself. Eddie impulsively kills Nash and accuses Orange of lying, as Blonde was a longtime friend of his father. Joe then arrives with news that the police have killed Blue. He is about to execute Orange, whom he suspects is the traitor behind the setup, but White intervenes and holds Joe at gunpoint, insisting that White does not believe Orange is responsible. Eddie promptly aims at White, creating a Mexican standoff. All three fire; both Cabots are killed, and White and Orange are hit.</p><p>Pink, the only uninjured person, takes the diamonds and flees. As White cradles the dying Orange in his arms, Orange confesses that he is an undercover officer; White sobs in betrayal and reluctantly presses his gun to Orange's head. In the background, Pink is heard being arrested, as the police storm the warehouse and order White to drop his gun. White shoots Orange and collapses as gunfire erupts.</p><br/><h3>Cast</h3><ul><li>Harvey Keitel as Mr. White/Larry Dimmick</li><li>Tim Roth as Mr. Orange/Freddy Newandyke</li><li>Michael Madsen as Mr. Blonde/Vic Vega</li><li>Chris Penn as \"Nice Guy\" Eddie Cabot</li><li>Steve Buscemi as Mr. Pink</li><li>Lawrence Tierney as Joe Cabot</li><li>Randy Brooks as Holdaway</li><li>Kirk Baltz as Marvin Nash</li><li>Edward Bunker as Mr. Blue</li><li>Quentin Tarantino as Mr. Brown</li><li>Rich Turner as Sheriff #1</li><li>David Steen as Sheriff #2</li><li>Steven Wright as K-Billy DJ (voice)</li></ul><br/><h3>Production</h3><p>Quentin Tarantino had been working at Video Archives, a video store in Manhattan Beach, California, and originally planned to shoot the film with his friends on a budget of $30,000 in a 16 mm black-and-white format, with producer Lawrence Bender playing a police officer chasing Mr. Pink. Bender gave the script to his acting teacher, whose wife gave the script to Harvey Keitel. Keitel liked it enough to sign as a co-producer so Tarantino and Bender would have an easier job finding funding; with his assistance, they raised $1.5 million. Keitel also paid for Tarantino and Bender to host casting sessions in New York, where the duo found Steve Buscemi, Michael Madsen, and Tim Roth.</p><p>Reservoir Dogs was, according to Tarantino, influenced by Stanley Kubrick's The Killing. Tarantino said: \"I didn't go out of my way to do a rip-off of The Killing, but I did think of it as my 'Killing', my take on that kind of heist movie.\" The film's plot was suggested by the 1952 film Kansas City Confidential. Additionally, Joseph H. Lewis's 1955 film The Big Combo and Sergio Corbucci's 1966 Spaghetti Western Django inspired the scene where a police officer is tortured in a chair. Tarantino has denied that he plagiarized with Reservoir Dogs and instead said that he does homages. Having the main characters named after colors (Mr. Pink, White, Brown, etc.) was first seen in the 1974 film The Taking of Pelham One Two Three. The film also contains key elements similar to those found in Ringo Lam's 1987 film City on Fire.</p><p>The warehouse used in the film was in reality an abandoned mortuary. This explains the hearse Blonde is sitting on while White and Pink are arguing. In scenes with Orange in his apartment, the second floor of the mortuary was used and dressed up to look like living quarters. The location has since been demolished.</p><p>Of his decision not to show the heist itself, Tarantino has said that the reason was initially budgetary but that he had always liked the idea of not showing it and stuck with that idea in order to make the details of the heist ambiguous. He has said that the technique allows for the realization that the film is \"about other things\", a similar plot outline that appears in the stage play Glengarry Glen Ross and its film adaptation in which the mentioned robbery is never shown on camera. Tarantino has compared this to the work of a novelist, and has said that he wanted the film to be about something that is not seen and that he wanted it to \"play with a real-time clock as opposed to a movie clock ticking\".</p><p>The title for the film came from a customer at the Video Archives, who requested Louis Malle's 1987 film Au revoir les enfants, but mispronounced the title \"reservoir\".</p><br/><h3>Reception</h3><h4>Box office</h4><p>Reservoir Dogs premiered at the Sundance Film Festival in January 1992. It became the festival's most talked-about film, and was subsequently picked up for distribution by Miramax Films. After being shown at several other film festivals, including in Cannes, Sitges and Toronto, Reservoir Dogs opened in the United States in 19 theaters with a first week total of $147,839. It was expanded to 61 theaters and totaled $2,832,029 at the domestic box office. The film grossed more than double that in the United Kingdom, where it did not receive a home video release until 1995. During the period of unavailability on home video, the film was re-released in UK cinemas in June 1994.</p><h4>Critical reception</h4><p>Reservoir Dogs is regarded as an important and influential milestone of independent filmmaking. Review aggregation website Rotten Tomatoes gives the film an approval rating of 91% based on 69 reviews (63 positive, 6 negative), and an average rating of 8.81/10. The site's critical consensus reads, \"Thrumming with intelligence and energy, Reservoir Dogs opens Quentin Tarantino's filmmaking career with hard-hitting style.\" On Metacritic the film has an average score of 79 out of 100, based on 24 critics, indicating \"generally favorable reviews\". Empire magazine named it the \"Greatest Independent Film\" ever made.</p><p>At the film's release at the Sundance Film Festival, film critic Jami Bernard of the New York Daily News compared the effect of Reservoir Dogs to that of the 1895 film L'Arriv\u00e9e d'un Train en Gare de la Ciotat, when audiences supposedly saw a moving train approaching the camera and ducked. Bernard said that Reservoir Dogs had a similar effect and people were not ready for it. Vincent Canby of The New York Times enjoyed the cast and the usage of non-linear storytelling. He similarly complimented Tarantino's directing and liked the fact that he did not often use close-ups in the film. Kenneth Turan of the Los Angeles Times also enjoyed the film and the acting, particularly that of Buscemi, Tierney and Madsen, and said \"Tarantino's palpable enthusiasm, his unapologetic passion for what he's created, reinvigorates this venerable plot and, mayhem aside, makes it involving for longer than you might suspect.\" Critic James Berardinelli was of a similar opinion; he complimented both the cast and Tarantino's dialogue writing abilities. Hal Hinson of The Washington Post was also enthusiastic about the cast, complimenting the film on its \"deadpan sense of humor\".</p><p>Roger Ebert was less enthusiastic; he felt that the script could have been better and said that the film \"feels like it's going to be terrific\", but Tarantino's script does not have much curiosity about the characters. He also said that Tarantino \"has an idea, and trusts the idea to drive the plot.\" Ebert gave the film two and a half stars out of four and said that while he enjoyed it and that it was a very good film from a talented director, \"I liked what I saw, but I wanted more.\" Ebert's biggest praise was the acting in the film.</p><p>The film has received substantial criticism for its strong violence and language. One scene that viewers found particularly unnerving was the ear-cutting scene; Madsen himself reportedly had great difficulty finishing it, especially after Kirk Baltz ad-libbed the desperate plea \"I've got a little kid at home.\" Many people walked out during the film. During a screening at Sitges Film Festival, 15 people walked out, including horror film director Wes Craven and special makeup effects artist Rick Baker. Baker later told Tarantino to take the walkout as a \"compliment\" and explained that he found the violence unnerving because of its heightened sense of realism. Tarantino commented about it at the time: \"It happens at every single screening. For some people the violence, or the rudeness of the language, is a mountain they can't climb. That's OK. It's not their cup of tea. But I am affecting them. I wanted that scene to be disturbing.\"</p><h4>Critical analysis</h4><p>Reservoir Dogs has often been seen as a prominent film in terms of on-screen violence. J.P. Telotte compared Reservoir Dogs to classic caper noir films and points out the irony in its ending scenes. Mark Irwin also made the connection between Reservoir Dogs and classic American noir. Caroline Jewers called Reservoir Dogs a \"feudal epic\" and paralleled the color pseudonyms to color names of medieval knights.</p><p>Critics have observed parallels between Reservoir Dogs and other films. For its nonlinear storyline, Reservoir Dogs has often been compared to Rashomon. Critic John Hartl compared the ear-cutting scene to the shower murder scene in Psycho and Tarantino to David Lynch. He furthermore explored parallels between Reservoir Dogs and Glengarry Glen Ross. Todd McCarthy, who called the film \"undeniably impressive\", was of the opinion that it was influenced by Mean Streets, Goodfellas and The Killing. After this film, Tarantino himself was also compared to Martin Scorsese, Sam Peckinpah, John Singleton, Gus Van Sant, and Abel Ferrara.</p><p>A frequently cited comparison has been to Tarantino's second and more successful film Pulp Fiction, especially since the majority of audiences saw Reservoir Dogs after the success of Pulp Fiction. Comparisons have been made regarding the black humor in both the films, the theme of accidents, and more concretely, the style of dialogue and narrative that Tarantino incorporates into both films. Specifically the relationship between whites and blacks plays a big part in the films\u2014though underplayed in Reservoir Dogs. Stanley Crouch of The New York Times compared the way the white criminals speak of black people in Reservoir Dogs to the way they are spoken of in Scorsese's Mean Streets and Goodfellas. Crouch observed the way black people are looked down upon in Reservoir Dogs, but also the way that the criminals accuse each other of \"verbally imitating\" black men and the characters' apparent sexual attraction to black actress Pam Grier.</p><p>In February 2012, as part of an ongoing series of live dramatic readings of film scripts being staged with the Los Angeles County Museum of Art (LACMA), director Jason Reitman cast black actors in the originally white cast: Laurence Fishburne as Mr. White; Terrence Howard as Mr. Blonde; Anthony Mackie as Mr. Pink; Cuba Gooding Jr. as Mr. Orange; Chi McBride as Joe Cabot; Anthony Anderson as Nice Guy Eddie (Joe Cabot's son); Common as both Mr. Brown and Officer Nash (the torture victim of Mr. Blonde), and Patton Oswalt as Holdaway (the mentor cop who was originally played by Randy Brooks, the only black actor in the film). Critic Elvis Mitchell suggested that Reitman's version of the script was taking the source material back to its roots since the characters \"all sound like black dudes.\"</p><h4>Accolades</h4><p>The film was screened out of competition at the 1992 Cannes Film Festival. It won the Critic's Award at the 4th Yubari International Fantastic Film Festival in February 1993 which Tarantino attended. The film was also nominated for the prestigious Grand Prix of the Belgian Syndicate of Cinema Critics. Steve Buscemi won the 1992 Independent Spirit Award for Best Supporting Male. Reservoir Dogs ranks at No. 97 in Empire magazine's list of the 500 Greatest Films of All Time.</p><br/><h3>Home media</h3><p>In the United Kingdom, release of the VHS rental video was delayed until 1995 due to the British Board of Film Classification initially refusing the film a home video certificate (UK releases are required to be certified separately for theatrical release and for viewing at home). The latter is a requirement by law due to the Video Recordings Act 1984. Following the UK VHS release approval, Polygram released a \"Mr Blonde Deluxe Edition\", which included an interview with Tarantino and several memorabilia associated with the character Mr. Blonde, such as sunglasses and a chrome toothpick holder.</p><p>Region 1 DVDs of Reservoir Dogs have been released multiple times. The first release was a single two-sided disc from LIVE Entertainment, released in June 1997 and featuring both open matte and letterbox versions of the film. Five years later, on August 27, 2002, Artisan Entertainment (who changed their name from LIVE Entertainment in the interim) released a two-disc 10th anniversary edition on DVD and VHS featuring multiple covers color-coded to match the nicknames of four of the characters (Pink, White, Orange, Blonde and Brown) and a disc of bonus features such as interviews with the cast and crew. However, the full screen version on the second disc was a pan and scan transfer from the widescreen 2.39:1 version, as opposed to open matte like the '97 DVD.</p><p>For the film's 15th anniversary, Lionsgate (which had purchased Artisan in the interim) produced a two-disc anniversary edition with a remastered 16:9 transfer and a new supplement, but not all of the extra features from the 10th Anniversary edition. In particular, interviews with the cast and crew were removed, and a new 48-minute-long feature called \"Tributes and Dedications\" was included.</p><br/><h3>Soundtrack</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th colspan=\"2\" class=\"summary album\" style=\"text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro\">Reservoir Dogs</th></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\"><span>Soundtrack album</span> by <div class=\"contributor\" style=\"display:inline\">Various Artists</div></th></tr><tr><th scope=\"row\">Released</th><td class=\"published\">October 13, 1992</td></tr><tr><th scope=\"row\"><span>Genre</span></th><td class=\"category hlist\"><span>Rock</span></td></tr><tr><th scope=\"row\">Length</th><td><span class=\"duration\"><span class=\"min\">30</span>:<span class=\"s\">50</span></span></td></tr><tr><th scope=\"row\"><span>Label</span></th><td class=\"hlist\"><span>MCA</span></td></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\"><span>Quentin Tarantino</span> film soundtracks chronology</th></tr><tr><td colspan=\"2\" style=\"text-align:center\"><table style=\"background: transparent; width: 100%; min-width: 100%; border-collapse: collapse\"><tbody><tr style=\"line-height: 1.4em;\"><td style=\"width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0\"></td><td style=\"width: 33%; text-align: center; vertical-align: top; padding: .2em .1em\"><i><b>Reservoir Dogs</b></i><br>(1992)</td><td style=\"width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em\"><i><span>True Romance</span></i><br>(1993)</td></tr></tbody></table></td></tr></tbody></table><p>The Reservoir Dogs: Original Motion Picture Soundtrack was the first soundtrack for a Quentin Tarantino film and set the structure his later soundtracks would follow. This includes the extensive use of snippets of dialogue from the film. The soundtrack has selections of songs from the 1960s to '80s. Only the group Bedlam recorded original songs for the film. Reasoning that the film takes place over a weekend, Tarantino decided to set it to a fictional radio station 'K-Billy' (presumably KBLY)'s show \"K-Billy's Super Sounds of the Seventies Weekend\", a themed weekend show of broadcasts of songs from the seventies. The radio station played a prominent role in the film. The DJ for the radio was chosen to be Steven Wright, a comedian known for his deadpan delivery of jokes.</p><p>An unusual feature of the soundtrack was the choice of songs; Tarantino has said that he feels the music to be a counterpoint to the on-screen violence and action. He also stated that he wished for the film to have a 1950s feel while using '70s music. A prominent instance of this is the torture scene to the tune of \"Stuck in the Middle with You\".</p><p>Bedlam was a 1990s rock group from Nashville fronted by Jay Joyce, who were signed to MCA Records. Their album Into the Coals was released in 1992. Further members were Chris Feinstein (bass) and Doug Lancio. \"Magic Carpet Ride\" is a cover of the 1968 Steppenwolf song. \"Harvest Moon\" is written by Jay Joyce.</p><p>Sandy Rogers' \"Fool for Love\" initially was title song to Robert Altman's 1985 film Fool for Love.</p><h4>Certifications</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><caption></caption><tbody><tr><th scope=\"col\">Region</th><th scope=\"col\">Certification</th><th scope=\"col\" data-sort-type=\"number\"><span>Certified units</span>/sales</th></tr><tr><th scope=\"row\">Australia (<span>ARIA</span>)</th><td>Platinum</td><td>70,000<sup>^</sup></td></tr><tr><th scope=\"row\">Canada (<span>Music Canada</span>)</th><td>Gold</td><td>50,000<sup>^</sup></td></tr><tr><th scope=\"row\">New Zealand (<span>RMNZ</span>)</th><td>Platinum</td><td>15,000<sup>^</sup></td></tr><tr><th scope=\"row\">United Kingdom (<span>BPI</span>)</th><td>Platinum</td><td>300,000<sup>^</sup></td></tr><tr><th scope=\"row\">United States</th><td data-sort-value=\"\" style=\"vertical-align:middle; text-align:center\" class=\"table-na\">\u2014</td><td>863,000</td></tr><tr class=\"sortbottom\" style=\"text-align: center;\"><td colspan=\"3\"><p><small><sup>*</sup>sales figures based on certification alone</small><br><small><sup>^</sup>shipments figures based on certification alone</small><br></p></td></tr></tbody></table><br/><h3>Video games</h3><p>A video game based on the film was released in 2006 for PC, Xbox, and PlayStation 2. However, the game does not feature the likeness of any of the actors with the exception of Michael Madsen. The game was received unfavorably, with GameSpot calling it \"an out and out failure\". It caused controversy for its amount of violence and was banned in Australia and New Zealand.</p><p>Another video game, Reservoir Dogs: Bloody Days, was released in 2017.</p><p>On December 14, 2017, Overkill Software added a heist to Payday 2 inspired by Reservoir Dogs in which the player is contracted to rob a jewelry store in Los Angeles with the Cabot family. It is unique in that the heist is played in reverse order, with day two occurring prior to day one, similar to how the film's plot is out of chronological order.</p><br/><h3>Remakes</h3><p>Kaante, a Bollywood film released in 2002, is a remake of Reservoir Dogs, combined with elements of City on Fire. The film also borrows plot points from The Usual Suspects, Heat and The Killing. Tarantino has been quoted as saying that Kaante is his favorite among the many films inspired by his work. Tarantino later screened Kaante at his New Beverly Cinema alongside Reservoir Dogs and City on Fire.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0105236",
+        "title": "Reservoir Dogs",
+        "fullTitle": "Reservoir Dogs (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "posters": [
+            {
+                "id": "g7spS2Y4SZoQoC6Hn7zoqEqdYqR.jpg",
+                "link": "https://imdb-api.com/posters/original/g7spS2Y4SZoQoC6Hn7zoqEqdYqR.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            },
+            {
+                "id": "fDVvXbj0IptBbArpUozWZFTevOa.jpg",
+                "link": "https://imdb-api.com/posters/original/fDVvXbj0IptBbArpUozWZFTevOa.jpg",
+                "aspectRatio": 0.6986666666666667,
+                "language": "it",
+                "width": 524,
+                "height": 750
+            },
+            {
+                "id": "8HIhefM9AYdvmFzhuitXWDAduz9.jpg",
+                "link": "https://imdb-api.com/posters/original/8HIhefM9AYdvmFzhuitXWDAduz9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "de",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "mzdJ8lTd7Ea8lX1sXo4UEhs3PR7.jpg",
+                "link": "https://imdb-api.com/posters/original/mzdJ8lTd7Ea8lX1sXo4UEhs3PR7.jpg",
+                "aspectRatio": 0.75,
+                "language": "it",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "id": "mmvtbzSFaJfOGwETdiKcBeUAI21.jpg",
+                "link": "https://imdb-api.com/posters/original/mmvtbzSFaJfOGwETdiKcBeUAI21.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "hi",
+                "width": 1440,
+                "height": 2160
+            },
+            {
+                "id": "uEnSvQEM8KOF9vSAHHYf1az6I20.jpg",
+                "link": "https://imdb-api.com/posters/original/uEnSvQEM8KOF9vSAHHYf1az6I20.jpg",
+                "aspectRatio": 0.66625,
+                "language": "uk",
+                "width": 533,
+                "height": 800
+            },
+            {
+                "id": "84dzLDiFiACIqKtqQwzmB6GL7uC.jpg",
+                "link": "https://imdb-api.com/posters/original/84dzLDiFiACIqKtqQwzmB6GL7uC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "pt",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "nAFNjbxfxfcwT5wWj30thTbj9fE.jpg",
+                "link": "https://imdb-api.com/posters/original/nAFNjbxfxfcwT5wWj30thTbj9fE.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "ru",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg",
+                "link": "https://imdb-api.com/posters/original/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg",
+                "aspectRatio": 0.6667892607576315,
+                "language": "es",
+                "width": 1813,
+                "height": 2719
+            },
+            {
+                "id": "gAHb1t0r8G0L6TFMoETMuW2OP9L.jpg",
+                "link": "https://imdb-api.com/posters/original/gAHb1t0r8G0L6TFMoETMuW2OP9L.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "it",
+                "width": 1600,
+                "height": 2400
+            },
+            {
+                "id": "991R9z8fZbXRM8PuE5jDKqTmnK4.jpg",
+                "link": "https://imdb-api.com/posters/original/991R9z8fZbXRM8PuE5jDKqTmnK4.jpg",
+                "aspectRatio": 0.6668979875086746,
+                "language": "hu",
+                "width": 961,
+                "height": 1441
+            },
+            {
+                "id": "j15RZjz2ZTkTuIR3ZQamb2H9pT5.jpg",
+                "link": "https://imdb-api.com/posters/original/j15RZjz2ZTkTuIR3ZQamb2H9pT5.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+                "link": "https://imdb-api.com/posters/original/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "hzeOauJSD61dyTNy0NZIGUhj4uu.jpg",
+                "link": "https://imdb-api.com/posters/original/hzeOauJSD61dyTNy0NZIGUhj4uu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "9UBd0K6czeUN1ewhNAqYxL05sE6.jpg",
+                "link": "https://imdb-api.com/posters/original/9UBd0K6czeUN1ewhNAqYxL05sE6.jpg",
+                "aspectRatio": 0.7411982705373688,
+                "language": "it",
+                "width": 1200,
+                "height": 1619
+            },
+            {
+                "id": "42mHoLhBwEwCnv1denf7n1yVp7t.jpg",
+                "link": "https://imdb-api.com/posters/original/42mHoLhBwEwCnv1denf7n1yVp7t.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "8k5iPlFyjV0dJ1aMMj9RhKVP3TU.jpg",
+                "link": "https://imdb-api.com/posters/original/8k5iPlFyjV0dJ1aMMj9RhKVP3TU.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "p3QpuoEwx1PweyxLeNJRcKS4Idc.jpg",
+                "link": "https://imdb-api.com/posters/original/p3QpuoEwx1PweyxLeNJRcKS4Idc.jpg",
+                "aspectRatio": 0.7125,
+                "language": "da",
+                "width": 570,
+                "height": 800
+            },
+            {
+                "id": "jeVqZvYozlAhD8m6J6yNs4wnwe9.jpg",
+                "link": "https://imdb-api.com/posters/original/jeVqZvYozlAhD8m6J6yNs4wnwe9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "1KlEwyaxCCaJSKg1bAbVtQMavkF.jpg",
+                "link": "https://imdb-api.com/posters/original/1KlEwyaxCCaJSKg1bAbVtQMavkF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "hi",
+                "width": 1440,
+                "height": 2160
+            },
+            {
+                "id": "do9Cg4bdr9zd9wXOUkCCCpleFp1.jpg",
+                "link": "https://imdb-api.com/posters/original/do9Cg4bdr9zd9wXOUkCCCpleFp1.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "pt",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "8yvvdDGO1tPfxu8Bm5rH0nx0YO0.jpg",
+                "link": "https://imdb-api.com/posters/original/8yvvdDGO1tPfxu8Bm5rH0nx0YO0.jpg",
+                "aspectRatio": 0.74875,
+                "language": "uk",
+                "width": 599,
+                "height": 800
+            },
+            {
+                "id": "gPyO0KPbkHoDXz7qjIeUBTHVvH.jpg",
+                "link": "https://imdb-api.com/posters/original/gPyO0KPbkHoDXz7qjIeUBTHVvH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "Ao97Q15fh2wzbDPhO4gKmLEh6pi.jpg",
+                "link": "https://imdb-api.com/posters/original/Ao97Q15fh2wzbDPhO4gKmLEh6pi.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "a6hUyPLPEGgm5wBzjPs7fyqqaM0.jpg",
+                "link": "https://imdb-api.com/posters/original/a6hUyPLPEGgm5wBzjPs7fyqqaM0.jpg",
+                "aspectRatio": 0.6980802792321117,
+                "language": "ko",
+                "width": 2000,
+                "height": 2865
+            },
+            {
+                "id": "kZMbjk7C11ecXSFJmn5Xm5jYxZ7.jpg",
+                "link": "https://imdb-api.com/posters/original/kZMbjk7C11ecXSFJmn5Xm5jYxZ7.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "hu",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "AjTtJNumZyUDz33VtMlF1K8JPsE.jpg",
+                "link": "https://imdb-api.com/posters/original/AjTtJNumZyUDz33VtMlF1K8JPsE.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1440,
+                "height": 2160
+            },
+            {
+                "id": "5c7pGcvUr7R2fGVu7UsTGnDxIY4.jpg",
+                "link": "https://imdb-api.com/posters/original/5c7pGcvUr7R2fGVu7UsTGnDxIY4.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "aLc4fpXRH4YEsGHQYTn7GohcuZc.jpg",
+                "link": "https://imdb-api.com/posters/original/aLc4fpXRH4YEsGHQYTn7GohcuZc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1440,
+                "height": 2160
+            },
+            {
+                "id": "puqG6rdIkywaaJn99cd2LDExe0w.jpg",
+                "link": "https://imdb-api.com/posters/original/puqG6rdIkywaaJn99cd2LDExe0w.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "de",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "kAd0vwm3O94bkQOTLnS6Ap61tQ3.jpg",
+                "link": "https://imdb-api.com/posters/original/kAd0vwm3O94bkQOTLnS6Ap61tQ3.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "ja",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "UEAD2Mqiw176cQOWKnd3VmBK2W.jpg",
+                "link": "https://imdb-api.com/posters/original/UEAD2Mqiw176cQOWKnd3VmBK2W.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "b62t5xsAMGZ2LOLbD0l85xQE3tr.jpg",
+                "link": "https://imdb-api.com/posters/original/b62t5xsAMGZ2LOLbD0l85xQE3tr.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1500,
+                "height": 2250
+            },
+            {
+                "id": "mroPUvPksyutqyDPd8D1qcblKpZ.jpg",
+                "link": "https://imdb-api.com/posters/original/mroPUvPksyutqyDPd8D1qcblKpZ.jpg",
+                "aspectRatio": 0.587,
+                "language": "ko",
+                "width": 587,
+                "height": 1000
+            },
+            {
+                "id": "8hLZxwT5Dd4AioogwcIzQoJ3d56.jpg",
+                "link": "https://imdb-api.com/posters/original/8hLZxwT5Dd4AioogwcIzQoJ3d56.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "z1RMGAStnUbSsFciIumLGBzVQ0F.jpg",
+                "link": "https://imdb-api.com/posters/original/z1RMGAStnUbSsFciIumLGBzVQ0F.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "pl",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dRSRQJR1G2EUHngah0Wfogovt0o.jpg",
+                "link": "https://imdb-api.com/posters/original/dRSRQJR1G2EUHngah0Wfogovt0o.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "pl",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "9MQGCcMGECv4hclOc4smwRwtbQX.jpg",
+                "link": "https://imdb-api.com/posters/original/9MQGCcMGECv4hclOc4smwRwtbQX.jpg",
+                "aspectRatio": 0.70625,
+                "language": "he",
+                "width": 565,
+                "height": 800
+            }
+        ],
+        "backdors": [
+            {
+                "id": "fupyzBwFAn1PoeCXhp54bYVM2ER.jpg",
+                "link": "https://imdb-api.com/posters/original/fupyzBwFAn1PoeCXhp54bYVM2ER.jpg",
+                "aspectRatio": 1.77801724137931,
+                "language": "en",
+                "width": 1650,
+                "height": 928
+            },
+            {
+                "id": "7xWMybuIAxV3FHQewS6G18CmPP4.jpg",
+                "link": "https://imdb-api.com/posters/original/7xWMybuIAxV3FHQewS6G18CmPP4.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "es",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "CnH3Vg3RX4LL3rPWhCBEFZiCXU.jpg",
+                "link": "https://imdb-api.com/posters/original/CnH3Vg3RX4LL3rPWhCBEFZiCXU.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "po4rGZMZCfbgqncbv4ayjGIPXM9.jpg",
+                "link": "https://imdb-api.com/posters/original/po4rGZMZCfbgqncbv4ayjGIPXM9.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "pz3ccvuPXFQkIeIzIu9cgCWPPSy.jpg",
+                "link": "https://imdb-api.com/posters/original/pz3ccvuPXFQkIeIzIu9cgCWPPSy.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "tKtf9jKTDpcwxvjyQOxHpM0wG69.jpg",
+                "link": "https://imdb-api.com/posters/original/tKtf9jKTDpcwxvjyQOxHpM0wG69.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "jBFAxCfpAzt41hDLTwahKEZ333.jpg",
+                "link": "https://imdb-api.com/posters/original/jBFAxCfpAzt41hDLTwahKEZ333.jpg",
+                "aspectRatio": 1.77801724137931,
+                "language": "en",
+                "width": 1650,
+                "height": 928
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0105236",
+        "title": "Reservoir Dogs",
+        "fullTitle": "Reservoir Dogs (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "items": [
+            {
+                "title": "Harvey Keitel and Tim Roth in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4OTkyNzM4Ml5BMl5BanBnXkFtZTgwODkxOTIwMjE@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi and Harvey Keitel in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0MDc5MTQ3OF5BMl5BanBnXkFtZTgwOTkxOTIwMjE@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Harvey Keitel and Tim Roth in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg1NTI1MTc2NF5BMl5BanBnXkFtZTgwNjkxOTIwMjE@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi, Harvey Keitel, Quentin Tarantino, Michael Madsen, Tim Roth, Chris Penn, Edward Bunker, and Lawrence Tierney in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1ODU3MTQzOV5BMl5BanBnXkFtZTgwNzkxOTIwMjE@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Harvey Keitel and Michael Madsen in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2OTk1ODc3M15BMl5BanBnXkFtZTgwNTg3OTEwMjE@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi, Quentin Tarantino, Michael Madsen, Edward Bunker, and Lawrence Tierney in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BODU3MDYwMTMyMF5BMl5BanBnXkFtZTgwMzg3OTEwMjE@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi and Kirk Baltz in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3MDY2NDQzNV5BMl5BanBnXkFtZTgwOTc3OTEwMjE@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Quentin Tarantino in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2MDc1ODk5MF5BMl5BanBnXkFtZTgwMjg3OTEwMjE@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi and Harvey Keitel in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1NjM2OTU4OF5BMl5BanBnXkFtZTcwNDUzMDg0Nw@@._V1_Ratio1.6800_AL_.jpg"
+            },
+            {
+                "title": "Harvey Keitel in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk5MjQ2NzI4OV5BMl5BanBnXkFtZTcwNTUzMDg0Nw@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Harvey Keitel in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI0MTExOTcwMF5BMl5BanBnXkFtZTcwNjUzMDg0Nw@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Kirk Baltz in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNzM5NjYyODk3Ml5BMl5BanBnXkFtZTcwNzUzMDg0Nw@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Harvey Keitel, Tim Roth, Chris Penn, and Lawrence Tierney in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0NzIzOTMwNF5BMl5BanBnXkFtZTcwODUzMDg0Nw@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Quentin Tarantino, Michael Madsen, and Edward Bunker in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcwNzQ4NTU5MF5BMl5BanBnXkFtZTcwOTUzMDg0Nw@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA4OTY3NzY3M15BMl5BanBnXkFtZTcwMjI3ODQwNw@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi, Harvey Keitel, Michael Madsen, and Tim Roth in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BYTZjYjgxMmMtZDRhMy00NWM4LWIzMTMtNDk2MmQzNmZhZDMwXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BOWQwZGMwMWUtYzUwNy00NDk3LTk5YjktMGQ1M2E0NmI5M2MyXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNjk2ODkyMzI4N15BMl5BanBnXkFtZTcwODA1MTkwOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0NzA5MjQ5MV5BMl5BanBnXkFtZTcwNDEwMDI2Nw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNTQ4MTg5MjkwMF5BMl5BanBnXkFtZTcwODQxOTU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNjY3MTExNTY0Ml5BMl5BanBnXkFtZTcwNjQwOTU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzNTM0NjM0Nl5BMl5BanBnXkFtZTcwNjQwMzE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwMzE4MzU5N15BMl5BanBnXkFtZTYwOTMwOTc4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Madsen in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1OTYwMjg3NV5BMl5BanBnXkFtZTYwNzA3NTg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg1ODIzMDkwOV5BMl5BanBnXkFtZTYwNDkyODg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harvey Keitel in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwNTE1Mjg1NF5BMl5BanBnXkFtZTYwNjAxMzk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Quentin Tarantino in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BOTMwMTI2OTI3Nl5BMl5BanBnXkFtZTYwNDQ2ODk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi, Harvey Keitel, Quentin Tarantino, Michael Madsen, Tim Roth, and Edward Bunker in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI1NDk4NTM0Ml5BMl5BanBnXkFtZTYwNzQ5MjA5._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE5OTI1OTgxNV5BMl5BanBnXkFtZTYwMDQ5NjA5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNDY5NTE3Nzg2NF5BMl5BanBnXkFtZTYwMjI3MjE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tim Roth in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0NjQ1MzM5NF5BMl5BanBnXkFtZTYwOTg3MDI5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEwOTcxMjE4Ml5BMl5BanBnXkFtZTYwNDE2NDM5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harvey Keitel, Quentin Tarantino, Michael Madsen, and Chris Penn in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0NzQ5MzYyOV5BMl5BanBnXkFtZTYwMTM0ODQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE2MjMzMjg1MV5BMl5BanBnXkFtZTYwNzY2ODU5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi, Harvey Keitel, Michael Madsen, and Tim Roth in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3MjIyMDM3NV5BMl5BanBnXkFtZTYwODkyOTY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi, Harvey Keitel, Quentin Tarantino, Michael Madsen, Tim Roth, and Chris Penn in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIzNzI4NzA1OF5BMl5BanBnXkFtZTYwMzkwMzc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi and Harvey Keitel in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNDgyMjUyNzIyOV5BMl5BanBnXkFtZTcwODI2MjgxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNTcyMjg0NzQ3MF5BMl5BanBnXkFtZTcwNjQ1ODkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyNTAyNDgwOF5BMl5BanBnXkFtZTcwMDY2NzUyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harvey Keitel in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5MzA3MjY4N15BMl5BanBnXkFtZTcwMzcwODUyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4NzMyMzY0MF5BMl5BanBnXkFtZTcwOTUyODUyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Quentin Tarantino in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxODUxNjA5NV5BMl5BanBnXkFtZTcwMjgyODUyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Madsen in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyMDk2NTI0Ml5BMl5BanBnXkFtZTcwMzEzODUyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi, Harvey Keitel, and Michael Madsen in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMDZjNzE1MmItYjBlOC00NDIyLTk3Y2UtZGYyM2Y4MjM2MmM2XkEyXkFqcGdeQXVyMzQ4NjI4MDM@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tim Roth in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BZWI4YjlkNjktYmUzYy00Y2M2LTk5OWItZTA2OTQwNGY2ZmQzXkEyXkFqcGdeQXVyMzQ4NjI4MDM@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Steve Buscemi and Harvey Keitel in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNzE3ODljZDUtNDBlYS00OTkyLWExNWMtNzczM2JjN2I0Y2RlXkEyXkFqcGdeQXVyMzQ4NjI4MDM@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Michael Madsen in Reservoir Dogs (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0NWI3YzgtYzdlYy00ZDc4LWFiMDYtYmVjYjAzNDBhN2JlXkEyXkFqcGdeQXVyMzQ4NjI4MDM@._V1_Ratio2.3400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0105236",
+        "title": "Reservoir Dogs",
+        "fullTitle": "Reservoir Dogs (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "videoId": "vi3028484377",
+        "videoTitle": "Reservoir Dogs: 10th Anniversary Edition",
+        "videoDescription": "Home Video Trailer from Artisan",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjQxMDNkYTEtNzNlYi00OTU2LTg3ODMtMjg1MDUxZmIxYTFjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 15:52:06",
+        "link": "https://www.imdb.com/video/vi3028484377",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3028484377/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$1,200,000 (estimated)",
+        "openingWeekendUSA": "$147,839, 25 October 1992",
+        "grossUSA": "$2,832,029",
+        "cumulativeWorldwideGross": "$2,859,750"
+    },
+    "tagline": "Let's get the job done",
+    "keywords": "heist gone wrong,nonlinear timeline,robbery,murder,neo noir",
+    "keywordList": [
+        "heist gone wrong",
+        "nonlinear timeline",
+        "robbery",
+        "murder",
+        "neo noir"
+    ],
+    "similars": [
+        {
+            "id": "tt0361748",
+            "title": "Inglourious Basterds",
+            "fullTitle": "Inglourious Basterds (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+            "directors": "Quentin Tarantino",
+            "stars": "Brad Pitt, Diane Kruger, Eli Roth",
+            "genres": "Adventure, Drama, War",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt1853728",
+            "title": "Django Unchained",
+            "fullTitle": "Django Unchained (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+            "directors": "Quentin Tarantino",
+            "stars": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",
+            "genres": "Drama, Western",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0266697",
+            "title": "Kill Bill: Vol. 1",
+            "fullTitle": "Kill Bill: Vol. 1 (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+            "directors": "Quentin Tarantino",
+            "stars": "Uma Thurman, David Carradine, Daryl Hannah",
+            "genres": "Action, Crime, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0110912",
+            "title": "Pulp Fiction",
+            "fullTitle": "Pulp Fiction (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "directors": "Quentin Tarantino",
+            "stars": "John Travolta, Uma Thurman, Samuel L. Jackson",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.9"
+        },
+        {
+            "id": "tt0066921",
+            "title": "A Clockwork Orange",
+            "fullTitle": "A Clockwork Orange (1971)",
+            "year": "1971",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+            "directors": "Stanley Kubrick",
+            "stars": "Malcolm McDowell, Patrick Magee, Michael Bates",
+            "genres": "Crime, Drama, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0378194",
+            "title": "Kill Bill: Vol. 2",
+            "fullTitle": "Kill Bill: Vol. 2 (2004)",
+            "year": "2004",
+            "image": "https://imdb-api.com/images/original/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+            "directors": "Quentin Tarantino",
+            "stars": "Uma Thurman, David Carradine, Michael Madsen",
+            "genres": "Action, Crime, Thriller",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0075314",
+            "title": "Taxi Driver",
+            "fullTitle": "Taxi Driver (1976)",
+            "year": "1976",
+            "image": "https://imdb-api.com/images/original/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+            "directors": "Martin Scorsese",
+            "stars": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0993846",
+            "title": "The Wolf of Wall Street",
+            "fullTitle": "The Wolf of Wall Street (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+            "directors": "Martin Scorsese",
+            "stars": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0086250",
+            "title": "Scarface",
+            "fullTitle": "Scarface (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+            "directors": "Brian De Palma",
+            "stars": "Al Pacino, Michelle Pfeiffer, Steven Bauer",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt3460252",
+            "title": "The Hateful Eight",
+            "fullTitle": "The Hateful Eight (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
+            "directors": "Quentin Tarantino",
+            "stars": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0114369",
+            "title": "Se7en",
+            "fullTitle": "Se7en (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+            "directors": "David Fincher",
+            "stars": "Morgan Freeman, Brad Pitt, Kevin Spacey",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0137523",
+            "title": "Fight Club",
+            "fullTitle": "Fight Club (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+            "directors": "David Fincher",
+            "stars": "Brad Pitt, Edward Norton, Meat Loaf",
+            "genres": "Drama",
+            "imDbRating": "8.8"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

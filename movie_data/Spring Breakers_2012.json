@@ -1,0 +1,2851 @@
+{
+    "id": "tt2101441",
+    "title": "Spring Breakers",
+    "originalTitle": "",
+    "fullTitle": "Spring Breakers (2012)",
+    "type": "Movie",
+    "year": "2012",
+    "image": "https://imdb-api.com/images/original/MV5BNDBmYjU3NzAtZGVkNS00N2E3LWEyNTgtMjIwMTczYTE0M2Y4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2013-03-06",
+    "runtimeMins": "94",
+    "runtimeStr": "1h 34mins",
+    "plot": "Brit, Candy, Cotty, and Faith have been best friends since grade school. They live together in a boring college dorm and are hungry for adventure. All they have to do is save enough money for spring break to get their shot at having some real fun. A serendipitous encounter with rapper \"Alien\" promises to provide the girls with all the thrill and excitement they could hope for. With the encouragement of their new friend, it soon becomes unclear how far the girls are willing to go to experience a spring break they will never forget.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "11 wins & 34 nominations.",
+    "directors": "Harmony Korine",
+    "directorList": [
+        {
+            "id": "nm0005101",
+            "name": "Harmony Korine"
+        }
+    ],
+    "writers": "Harmony Korine",
+    "writerList": [
+        {
+            "id": "nm0005101",
+            "name": "Harmony Korine"
+        }
+    ],
+    "stars": "Vanessa Hudgens, Selena Gomez, Ashley Benson, Rachel Korine",
+    "starList": [
+        {
+            "id": "nm1227814",
+            "name": "Vanessa Hudgens"
+        },
+        {
+            "id": "nm1411125",
+            "name": "Selena Gomez"
+        },
+        {
+            "id": "nm1667364",
+            "name": "Ashley Benson"
+        },
+        {
+            "id": "nm2540339",
+            "name": "Rachel Korine"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0290556",
+            "image": "https://imdb-api.com/images/original/MV5BMjA4MzMzNDM5MF5BMl5BanBnXkFtZTgwMjQ0MDk0NDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Franco",
+            "asCharacter": "Alien"
+        },
+        {
+            "id": "nm1411125",
+            "image": "https://imdb-api.com/images/original/MV5BMjAwNTE2MDMyMl5BMl5BanBnXkFtZTgwMjAyODM3MTI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Selena Gomez",
+            "asCharacter": "Faith"
+        },
+        {
+            "id": "nm1227814",
+            "image": "https://imdb-api.com/images/original/MV5BMjA2NzA2NTMxNV5BMl5BanBnXkFtZTYwMjA1ODEy._V1_Ratio1.3182_AL_.jpg",
+            "name": "Vanessa Hudgens",
+            "asCharacter": "Candy"
+        },
+        {
+            "id": "nm1667364",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzMDY1NDk5MV5BMl5BanBnXkFtZTgwNTMxNzIyOTE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Ashley Benson",
+            "asCharacter": "Brit"
+        },
+        {
+            "id": "nm2540339",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzMzc3MTE0M15BMl5BanBnXkFtZTcwOTU3MjUyOQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Rachel Korine",
+            "asCharacter": "Cotty"
+        },
+        {
+            "id": "nm3042771",
+            "image": "https://imdb-api.com/images/original/MV5BMTc1Njk0MzMwOF5BMl5BanBnXkFtZTcwMTgwMjQ1Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gucci Mane",
+            "asCharacter": "Archie"
+        },
+        {
+            "id": "nm3529987",
+            "image": "https://imdb-api.com/images/original/MV5BNzNmNGMzMDEtYzhjMS00MTUxLTljYjItN2MxMzU3ZGQ1MDg0XkEyXkFqcGdeQXVyNTcyNTMwODY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Heather Morris",
+            "asCharacter": "Bess"
+        },
+        {
+            "id": "nm3741483",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ash Lendzion",
+            "asCharacter": "Forest (as Ashley Lendzion)"
+        },
+        {
+            "id": "nm4175416",
+            "image": "https://imdb-api.com/images/original/MV5BZTJiZWVmNTItMGJiNi00NWNlLTg2ZWItM2RhZjUzYWE5ZDk4XkEyXkFqcGdeQXVyMjY2NjY1NTQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Emma Holzer",
+            "asCharacter": "Heather (as Emma Jane Holzer)"
+        },
+        {
+            "id": "nm5578436",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lee Irby",
+            "asCharacter": "History Professor"
+        },
+        {
+            "id": "nm0418941",
+            "image": "https://imdb-api.com/images/original/MV5BMDUwOGU0MDYtM2MwNy00MDNkLTkyMmQtMDc2ZWQzMDY0M2Y3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Jeff Jarrett",
+            "asCharacter": "Youth Pastor"
+        },
+        {
+            "id": "nm2433219",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Russell Stuart",
+            "asCharacter": "DJ (as Russell Curry aka Dangeruss)"
+        },
+        {
+            "id": "nm2712280",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Josh Randall",
+            "asCharacter": "Jock 1"
+        },
+        {
+            "id": "nm3967258",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Travis Duncan",
+            "asCharacter": "Jock 2"
+        },
+        {
+            "id": "nm5259600",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John McClain",
+            "asCharacter": "Judge"
+        },
+        {
+            "id": "nm3650688",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paige Anderson",
+            "asCharacter": "Female Guard"
+        },
+        {
+            "id": "nm5577793",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rebecca Kauffman",
+            "asCharacter": "Cheerleader Type"
+        },
+        {
+            "id": "nm3087846",
+            "image": "https://imdb-api.com/images/original/MV5BZTczYjhjZDMtZjdkMi00OTlhLWFjNGUtOGY1YWM2NDBiYjU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tony Robinette",
+            "asCharacter": "Nerdy Boy"
+        },
+        {
+            "id": "nm5455096",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Megan Russell",
+            "asCharacter": "Spring Break Girl 1"
+        },
+        {
+            "id": "nm5058450",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kathryn Trail",
+            "asCharacter": "Spring Break Girl 2"
+        },
+        {
+            "id": "nm4887072",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sidney Sewell",
+            "asCharacter": "ATL Twin"
+        },
+        {
+            "id": "nm4887034",
+            "image": "https://imdb-api.com/images/original/MV5BNTYxMjI4MzE1MV5BMl5BanBnXkFtZTgwMzk5MzcxODE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Thurman Sewell",
+            "asCharacter": "ATL Twin"
+        },
+        {
+            "id": "nm10318994",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christian Aaron",
+            "asCharacter": "Caleb Carter (uncredited)"
+        },
+        {
+            "id": "nm3816753",
+            "image": "https://imdb-api.com/images/original/MV5BN2RjNjg5YzctYTVmMC00MmJjLWE1MjEtZWQ5Yzk1YjQ2ZjMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ken Anthony II",
+            "asCharacter": "Archies Thug-club (uncredited)"
+        },
+        {
+            "id": "nm5475616",
+            "image": "https://imdb-api.com/images/original/MV5BMDA4ZTZmMTEtYTVmMC00MGJlLTk4MTEtZWNlYzczMWNhOTc0XkEyXkFqcGdeQXVyMzQzNDA5NzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Brianna Borello",
+            "asCharacter": "Spring Breaker (uncredited)"
+        },
+        {
+            "id": "nm4697706",
+            "image": "https://imdb-api.com/images/original/MV5BMDM2NWQ2NzMtYzEzZC00MzU3LTg3MTItMTI1OTIwNTZhMDc3XkEyXkFqcGdeQXVyNTc3ODYzODg@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Karleigh Chase",
+            "asCharacter": "Youth Group Member (uncredited)"
+        },
+        {
+            "id": "nm3243878",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gordie Daniels",
+            "asCharacter": "Groomsman (uncredited)"
+        },
+        {
+            "id": "nm3141602",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jessica DiTomaso",
+            "asCharacter": "Youth Group Girl (uncredited)"
+        },
+        {
+            "id": "nm3868449",
+            "image": "https://imdb-api.com/images/original/MV5BOGY3MTA5MTAtMTcwNC00NWFmLTk3OTctMDMzOWMzOWQxMGExXkEyXkFqcGdeQXVyMjI5OTA2Mjg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vivian Fleming-Alvarez",
+            "asCharacter": "Bridemaid (uncredited)"
+        },
+        {
+            "id": "nm2703058",
+            "image": "https://imdb-api.com/images/original/MV5BMjExNzQ4OTMwMl5BMl5BanBnXkFtZTgwMjI4NzQyMTI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tom Franco",
+            "asCharacter": "Archie's Thug #1 (uncredited)"
+        },
+        {
+            "id": "nm0306811",
+            "image": "https://imdb-api.com/images/original/MV5BYWM0YzQyYzQtZjE4Ni00NmY1LTg3NWMtZDUyYjFjZmFkMGJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mattox Gardner",
+            "asCharacter": "Archie's Thug #2 (uncredited)"
+        },
+        {
+            "id": "nm2280509",
+            "image": "https://imdb-api.com/images/original/MV5BNzc1NDQ1ZDctOWQ4Yi00NDZiLWIzMjAtZDA3NGQ5NTdmYmViXkEyXkFqcGdeQXVyNjYxMjQ3MTU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rod Grant",
+            "asCharacter": "Groomsman (uncredited)"
+        },
+        {
+            "id": "nm2135518",
+            "image": "https://imdb-api.com/images/original/MV5BNGZjN2E1ZGUtMmRiMy00NjlkLTg5YTEtZjQwZTZiZWMzZGQ3XkEyXkFqcGdeQXVyMjIxMTA2MzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Courtney Hart",
+            "asCharacter": "Bikini Girl (uncredited)"
+        },
+        {
+            "id": "nm5006067",
+            "image": "https://imdb-api.com/images/original/MV5BYTk4NGU3ZTQtMzQ1OS00YzQwLTlmNmQtMTA2ZWRlNTM3M2FmXkEyXkFqcGdeQXVyMzA1NzgyMzU@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Anthony J. James",
+            "asCharacter": "Surfer Dude (uncredited)"
+        },
+        {
+            "id": "nm0469482",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3NzE4MzcyN15BMl5BanBnXkFtZTcwNTEyNTgzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dave Kramer",
+            "asCharacter": "Groom (uncredited)"
+        },
+        {
+            "id": "nm5154796",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shawn Larkin",
+            "asCharacter": "Snorting Jock (uncredited)"
+        },
+        {
+            "id": "nm10739748",
+            "image": "https://imdb-api.com/images/original/MV5BYmRlMWI5Y2MtYzdhNS00OWUzLTgxM2MtOTViYjEzODdkZmE5XkEyXkFqcGdeQXVyMTAzOTIxMjAy._V1_Ratio0.7727_AL_.jpg",
+            "name": "Andrew Mello",
+            "asCharacter": "Spring Break Guy (uncredited)"
+        },
+        {
+            "id": "nm4803720",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carlee Miller",
+            "asCharacter": "Tourist on Bus (uncredited)"
+        },
+        {
+            "id": "nm4640053",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ananda Milsa",
+            "asCharacter": "Bikini Party Girl (uncredited)"
+        },
+        {
+            "id": "nm9331576",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kevin Pace",
+            "asCharacter": "Spring Breaker (uncredited)"
+        },
+        {
+            "id": "nm1238542",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Courtney Paige Kramer",
+            "asCharacter": "Bride (uncredited)"
+        },
+        {
+            "id": "nm3651771",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "B.J. Parker",
+            "asCharacter": "Jail Inmate (uncredited)"
+        },
+        {
+            "id": "nm6914170",
+            "image": "https://imdb-api.com/images/original/MV5BYzkxMGJhZDktNGIwYy00YmYyLTg2ODktYWY3MTFmYzg4Njk3XkEyXkFqcGdeQXVyMTA1MzExNjY1._V1_Ratio1.3182_AL_.jpg",
+            "name": "Neil Parren",
+            "asCharacter": "Bystander (uncredited)"
+        },
+        {
+            "id": "nm4522609",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harry Pearce",
+            "asCharacter": "Party Guy (uncredited)"
+        },
+        {
+            "id": "nm10129598",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Reid Pittman",
+            "asCharacter": "Spring Breaker (uncredited)"
+        },
+        {
+            "id": "nm5121380",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dylan Ramus-Wright",
+            "asCharacter": "Party Guy (uncredited)"
+        },
+        {
+            "id": "nm3442735",
+            "image": "https://imdb-api.com/images/original/MV5BZjczN2VhYzktNDc1NS00YjlhLWI0YjYtZmEyMjA1NTdiYTA5XkEyXkFqcGdeQXVyNTQzOTM3NzA@._V1_Ratio1.7273_AL_.jpg",
+            "name": "Jarrett Ricker",
+            "asCharacter": "Jock #3 (uncredited)"
+        },
+        {
+            "id": "nm5035040",
+            "image": "https://imdb-api.com/images/original/MV5BNTBjODE3ODktOWI3Zi00YjE5LTg2YzctM2M4YjAwODNiN2NmXkEyXkFqcGdeQXVyODU0MjE4Mzc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Erik Anthony Russo",
+            "asCharacter": "Spring Breaker on Bus (uncredited)"
+        },
+        {
+            "id": "nm4076871",
+            "image": "https://imdb-api.com/images/original/MV5BNTA5Yzk1ODgtMGE0Ni00ZGEzLWJkZGEtOTYyN2I0OTRiMzA1XkEyXkFqcGdeQXVyODQxNzA4NjA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dayton Sinkia",
+            "asCharacter": "Arcade Player (uncredited)"
+        },
+        {
+            "id": "nm5072030",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ivy Sinn",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm3046500",
+            "image": "https://imdb-api.com/images/original/MV5BZDU2ZTlmMjUtOGI2Yi00ZTI5LWI3MWYtNmM4YTEwNzg0MGU3XkEyXkFqcGdeQXVyMzQ5NzIyOQ@@._V1_Ratio1.9091_AL_.jpg",
+            "name": "Jimmy Star",
+            "asCharacter": "Spring Breaker (uncredited)"
+        },
+        {
+            "id": "nm4047135",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cait Taylor",
+            "asCharacter": "Tiffany (uncredited)"
+        },
+        {
+            "id": "nm4551022",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5NzE2MzcxM15BMl5BanBnXkFtZTcwMjk4NTgzNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lauren Vera",
+            "asCharacter": "Spring Breaker (uncredited)"
+        },
+        {
+            "id": "nm3081876",
+            "image": "https://imdb-api.com/images/original/MV5BMjM0MTg2MDI3OV5BMl5BanBnXkFtZTgwNTI3NDY5NzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jason Wagner",
+            "asCharacter": "Motel Jock (uncredited)"
+        },
+        {
+            "id": "nm5234677",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Benjamin Weaver",
+            "asCharacter": "Spring breaker (uncredited)"
+        },
+        {
+            "id": "nm5001502",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Debbie Whited",
+            "asCharacter": "Courtroom Attendee (uncredited)"
+        },
+        {
+            "id": "nm3933562",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nicole Wilkins",
+            "asCharacter": "Beach Babe (uncredited)"
+        },
+        {
+            "id": "nm3443363",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nicole Paris Williams",
+            "asCharacter": "Arcade Player Victim 1 (uncredited)"
+        },
+        {
+            "id": "nm4909107",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzNDE2NTExNF5BMl5BanBnXkFtZTgwMTkzMjc2MjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kim Wyatt",
+            "asCharacter": "Youth Group Member (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt2101441",
+        "title": "Spring Breakers",
+        "fullTitle": "Spring Breakers (2012)",
+        "type": "Movie",
+        "year": "2012",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0005101",
+                    "name": "Harmony Korine",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0005101",
+                    "name": "Harmony Korine",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0290556",
+                "image": "https://imdb-api.com/images/original/MV5BMjA4MzMzNDM5MF5BMl5BanBnXkFtZTgwMjQ0MDk0NDM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "James Franco",
+                "asCharacter": "Alien"
+            },
+            {
+                "id": "nm1411125",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwNTE2MDMyMl5BMl5BanBnXkFtZTgwMjAyODM3MTI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Selena Gomez",
+                "asCharacter": "Faith"
+            },
+            {
+                "id": "nm1227814",
+                "image": "https://imdb-api.com/images/original/MV5BMjA2NzA2NTMxNV5BMl5BanBnXkFtZTYwMjA1ODEy._V1_Ratio1.3182_AL_.jpg",
+                "name": "Vanessa Hudgens",
+                "asCharacter": "Candy"
+            },
+            {
+                "id": "nm1667364",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzMDY1NDk5MV5BMl5BanBnXkFtZTgwNTMxNzIyOTE@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Ashley Benson",
+                "asCharacter": "Brit"
+            },
+            {
+                "id": "nm2540339",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzMzc3MTE0M15BMl5BanBnXkFtZTcwOTU3MjUyOQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Rachel Korine",
+                "asCharacter": "Cotty"
+            },
+            {
+                "id": "nm3042771",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1Njk0MzMwOF5BMl5BanBnXkFtZTcwMTgwMjQ1Mw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Gucci Mane",
+                "asCharacter": "Archie"
+            },
+            {
+                "id": "nm3529987",
+                "image": "https://imdb-api.com/images/original/MV5BNzNmNGMzMDEtYzhjMS00MTUxLTljYjItN2MxMzU3ZGQ1MDg0XkEyXkFqcGdeQXVyNTcyNTMwODY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Heather Morris",
+                "asCharacter": "Bess"
+            },
+            {
+                "id": "nm3741483",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ash Lendzion",
+                "asCharacter": "Forest (as Ashley Lendzion)"
+            },
+            {
+                "id": "nm4175416",
+                "image": "https://imdb-api.com/images/original/MV5BZTJiZWVmNTItMGJiNi00NWNlLTg2ZWItM2RhZjUzYWE5ZDk4XkEyXkFqcGdeQXVyMjY2NjY1NTQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Emma Holzer",
+                "asCharacter": "Heather (as Emma Jane Holzer)"
+            },
+            {
+                "id": "nm5578436",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lee Irby",
+                "asCharacter": "History Professor"
+            },
+            {
+                "id": "nm0418941",
+                "image": "https://imdb-api.com/images/original/MV5BMDUwOGU0MDYtM2MwNy00MDNkLTkyMmQtMDc2ZWQzMDY0M2Y3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Jeff Jarrett",
+                "asCharacter": "Youth Pastor"
+            },
+            {
+                "id": "nm2433219",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Russell Stuart",
+                "asCharacter": "DJ (as Russell Curry aka Dangeruss)"
+            },
+            {
+                "id": "nm2712280",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Josh Randall",
+                "asCharacter": "Jock 1"
+            },
+            {
+                "id": "nm3967258",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Travis Duncan",
+                "asCharacter": "Jock 2"
+            },
+            {
+                "id": "nm5259600",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John McClain",
+                "asCharacter": "Judge"
+            },
+            {
+                "id": "nm3650688",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Paige Anderson",
+                "asCharacter": "Female Guard"
+            },
+            {
+                "id": "nm5577793",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rebecca Kauffman",
+                "asCharacter": "Cheerleader Type"
+            },
+            {
+                "id": "nm3087846",
+                "image": "https://imdb-api.com/images/original/MV5BZTczYjhjZDMtZjdkMi00OTlhLWFjNGUtOGY1YWM2NDBiYjU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Tony Robinette",
+                "asCharacter": "Nerdy Boy"
+            },
+            {
+                "id": "nm5455096",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Megan Russell",
+                "asCharacter": "Spring Break Girl 1"
+            },
+            {
+                "id": "nm5058450",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kathryn Trail",
+                "asCharacter": "Spring Break Girl 2"
+            },
+            {
+                "id": "nm4887072",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sidney Sewell",
+                "asCharacter": "ATL Twin"
+            },
+            {
+                "id": "nm4887034",
+                "image": "https://imdb-api.com/images/original/MV5BNTYxMjI4MzE1MV5BMl5BanBnXkFtZTgwMzk5MzcxODE@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Thurman Sewell",
+                "asCharacter": "ATL Twin"
+            },
+            {
+                "id": "nm10318994",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Christian Aaron",
+                "asCharacter": "Caleb Carter (uncredited)"
+            },
+            {
+                "id": "nm3816753",
+                "image": "https://imdb-api.com/images/original/MV5BN2RjNjg5YzctYTVmMC00MmJjLWE1MjEtZWQ5Yzk1YjQ2ZjMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ken Anthony II",
+                "asCharacter": "Archies Thug-club (uncredited)"
+            },
+            {
+                "id": "nm5475616",
+                "image": "https://imdb-api.com/images/original/MV5BMDA4ZTZmMTEtYTVmMC00MGJlLTk4MTEtZWNlYzczMWNhOTc0XkEyXkFqcGdeQXVyMzQzNDA5NzE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Brianna Borello",
+                "asCharacter": "Spring Breaker (uncredited)"
+            },
+            {
+                "id": "nm4697706",
+                "image": "https://imdb-api.com/images/original/MV5BMDM2NWQ2NzMtYzEzZC00MzU3LTg3MTItMTI1OTIwNTZhMDc3XkEyXkFqcGdeQXVyNTc3ODYzODg@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Karleigh Chase",
+                "asCharacter": "Youth Group Member (uncredited)"
+            },
+            {
+                "id": "nm3243878",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gordie Daniels",
+                "asCharacter": "Groomsman (uncredited)"
+            },
+            {
+                "id": "nm3141602",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jessica DiTomaso",
+                "asCharacter": "Youth Group Girl (uncredited)"
+            },
+            {
+                "id": "nm3868449",
+                "image": "https://imdb-api.com/images/original/MV5BOGY3MTA5MTAtMTcwNC00NWFmLTk3OTctMDMzOWMzOWQxMGExXkEyXkFqcGdeQXVyMjI5OTA2Mjg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Vivian Fleming-Alvarez",
+                "asCharacter": "Bridemaid (uncredited)"
+            },
+            {
+                "id": "nm2703058",
+                "image": "https://imdb-api.com/images/original/MV5BMjExNzQ4OTMwMl5BMl5BanBnXkFtZTgwMjI4NzQyMTI@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Tom Franco",
+                "asCharacter": "Archie's Thug #1 (uncredited)"
+            },
+            {
+                "id": "nm0306811",
+                "image": "https://imdb-api.com/images/original/MV5BYWM0YzQyYzQtZjE4Ni00NmY1LTg3NWMtZDUyYjFjZmFkMGJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Mattox Gardner",
+                "asCharacter": "Archie's Thug #2 (uncredited)"
+            },
+            {
+                "id": "nm2280509",
+                "image": "https://imdb-api.com/images/original/MV5BNzc1NDQ1ZDctOWQ4Yi00NDZiLWIzMjAtZDA3NGQ5NTdmYmViXkEyXkFqcGdeQXVyNjYxMjQ3MTU@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Rod Grant",
+                "asCharacter": "Groomsman (uncredited)"
+            },
+            {
+                "id": "nm2135518",
+                "image": "https://imdb-api.com/images/original/MV5BNGZjN2E1ZGUtMmRiMy00NjlkLTg5YTEtZjQwZTZiZWMzZGQ3XkEyXkFqcGdeQXVyMjIxMTA2MzE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Courtney Hart",
+                "asCharacter": "Bikini Girl (uncredited)"
+            },
+            {
+                "id": "nm5006067",
+                "image": "https://imdb-api.com/images/original/MV5BYTk4NGU3ZTQtMzQ1OS00YzQwLTlmNmQtMTA2ZWRlNTM3M2FmXkEyXkFqcGdeQXVyMzA1NzgyMzU@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Anthony J. James",
+                "asCharacter": "Surfer Dude (uncredited)"
+            },
+            {
+                "id": "nm0469482",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3NzE4MzcyN15BMl5BanBnXkFtZTcwNTEyNTgzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dave Kramer",
+                "asCharacter": "Groom (uncredited)"
+            },
+            {
+                "id": "nm5154796",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Shawn Larkin",
+                "asCharacter": "Snorting Jock (uncredited)"
+            },
+            {
+                "id": "nm10739748",
+                "image": "https://imdb-api.com/images/original/MV5BYmRlMWI5Y2MtYzdhNS00OWUzLTgxM2MtOTViYjEzODdkZmE5XkEyXkFqcGdeQXVyMTAzOTIxMjAy._V1_Ratio0.7727_AL_.jpg",
+                "name": "Andrew Mello",
+                "asCharacter": "Spring Break Guy (uncredited)"
+            },
+            {
+                "id": "nm4803720",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Carlee Miller",
+                "asCharacter": "Tourist on Bus (uncredited)"
+            },
+            {
+                "id": "nm4640053",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ananda Milsa",
+                "asCharacter": "Bikini Party Girl (uncredited)"
+            },
+            {
+                "id": "nm9331576",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kevin Pace",
+                "asCharacter": "Spring Breaker (uncredited)"
+            },
+            {
+                "id": "nm1238542",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Courtney Paige Kramer",
+                "asCharacter": "Bride (uncredited)"
+            },
+            {
+                "id": "nm3651771",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "B.J. Parker",
+                "asCharacter": "Jail Inmate (uncredited)"
+            },
+            {
+                "id": "nm6914170",
+                "image": "https://imdb-api.com/images/original/MV5BYzkxMGJhZDktNGIwYy00YmYyLTg2ODktYWY3MTFmYzg4Njk3XkEyXkFqcGdeQXVyMTA1MzExNjY1._V1_Ratio1.3182_AL_.jpg",
+                "name": "Neil Parren",
+                "asCharacter": "Bystander (uncredited)"
+            },
+            {
+                "id": "nm4522609",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Harry Pearce",
+                "asCharacter": "Party Guy (uncredited)"
+            },
+            {
+                "id": "nm10129598",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Reid Pittman",
+                "asCharacter": "Spring Breaker (uncredited)"
+            },
+            {
+                "id": "nm5121380",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dylan Ramus-Wright",
+                "asCharacter": "Party Guy (uncredited)"
+            },
+            {
+                "id": "nm3442735",
+                "image": "https://imdb-api.com/images/original/MV5BZjczN2VhYzktNDc1NS00YjlhLWI0YjYtZmEyMjA1NTdiYTA5XkEyXkFqcGdeQXVyNTQzOTM3NzA@._V1_Ratio1.7273_AL_.jpg",
+                "name": "Jarrett Ricker",
+                "asCharacter": "Jock #3 (uncredited)"
+            },
+            {
+                "id": "nm5035040",
+                "image": "https://imdb-api.com/images/original/MV5BNTBjODE3ODktOWI3Zi00YjE5LTg2YzctM2M4YjAwODNiN2NmXkEyXkFqcGdeQXVyODU0MjE4Mzc@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Erik Anthony Russo",
+                "asCharacter": "Spring Breaker on Bus (uncredited)"
+            },
+            {
+                "id": "nm4076871",
+                "image": "https://imdb-api.com/images/original/MV5BNTA5Yzk1ODgtMGE0Ni00ZGEzLWJkZGEtOTYyN2I0OTRiMzA1XkEyXkFqcGdeQXVyODQxNzA4NjA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dayton Sinkia",
+                "asCharacter": "Arcade Player (uncredited)"
+            },
+            {
+                "id": "nm5072030",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ivy Sinn",
+                "asCharacter": "(uncredited)"
+            },
+            {
+                "id": "nm3046500",
+                "image": "https://imdb-api.com/images/original/MV5BZDU2ZTlmMjUtOGI2Yi00ZTI5LWI3MWYtNmM4YTEwNzg0MGU3XkEyXkFqcGdeQXVyMzQ5NzIyOQ@@._V1_Ratio1.9091_AL_.jpg",
+                "name": "Jimmy Star",
+                "asCharacter": "Spring Breaker (uncredited)"
+            },
+            {
+                "id": "nm4047135",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Cait Taylor",
+                "asCharacter": "Tiffany (uncredited)"
+            },
+            {
+                "id": "nm4551022",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5NzE2MzcxM15BMl5BanBnXkFtZTcwMjk4NTgzNw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lauren Vera",
+                "asCharacter": "Spring Breaker (uncredited)"
+            },
+            {
+                "id": "nm3081876",
+                "image": "https://imdb-api.com/images/original/MV5BMjM0MTg2MDI3OV5BMl5BanBnXkFtZTgwNTI3NDY5NzE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jason Wagner",
+                "asCharacter": "Motel Jock (uncredited)"
+            },
+            {
+                "id": "nm5234677",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Benjamin Weaver",
+                "asCharacter": "Spring breaker (uncredited)"
+            },
+            {
+                "id": "nm5001502",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Debbie Whited",
+                "asCharacter": "Courtroom Attendee (uncredited)"
+            },
+            {
+                "id": "nm3933562",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nicole Wilkins",
+                "asCharacter": "Beach Babe (uncredited)"
+            },
+            {
+                "id": "nm3443363",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nicole Paris Williams",
+                "asCharacter": "Arcade Player Victim 1 (uncredited)"
+            },
+            {
+                "id": "nm4909107",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzNDE2NTExNF5BMl5BanBnXkFtZTgwMTkzMjc2MjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kim Wyatt",
+                "asCharacter": "Youth Group Member (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm1661920",
+                        "name": "Charles-Marie Anthonioz",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0044577",
+                        "name": "Agn\u00e8s B.",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm1241067",
+                        "name": "Vikram Chatwal",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm4442889",
+                        "name": "Chris Contogouris",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm5897824",
+                        "name": "No\u00e9mie Devide",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm2691892",
+                        "name": "Megan Ellison",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0276059",
+                        "name": "Ted Field",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0280495",
+                        "name": "Brian James Fitzpatrick",
+                        "description": "associate producer (as Brian Fitzpatrick)"
+                    },
+                    {
+                        "id": "nm3386827",
+                        "name": "Jonathan Fong",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm6012779",
+                        "name": "Jose Fortanel",
+                        "description": "technical producer"
+                    },
+                    {
+                        "id": "nm0314976",
+                        "name": "Jordan Gertner",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0360065",
+                        "name": "Chris Hanley",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0392785",
+                        "name": "Jane Holzer",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0006683",
+                        "name": "Vince Jolivette",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0456852",
+                        "name": "Susan Kirr",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0506553",
+                        "name": "Miles Levy",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0002631",
+                        "name": "Patrick McIntire",
+                        "description": "consulting producer"
+                    },
+                    {
+                        "id": "nm3568899",
+                        "name": "Scott Pierce",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm5897823",
+                        "name": "Debra Rodman",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0773609",
+                        "name": "Stella Schnabel",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0837875",
+                        "name": "Fernando Sulichin",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm4909253",
+                        "name": "Wicks Walker",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm2045356",
+                        "name": "Aeysha Walsh",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm3499507",
+                        "name": "Mike Weber",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm1536307",
+                        "name": "David Zander",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0553498",
+                        "name": "Cliff Martinez",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm4776432",
+                        "name": "Skrillex",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0213424",
+                        "name": "Beno\u00eet Debie",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0187954",
+                        "name": "Douglas Crise",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0562644",
+                        "name": "Laray Mayfield",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0396180",
+                        "name": "Elliott Hostetter",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm2189292",
+                        "name": "Almitra Corey",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm1853964",
+                        "name": "Adam Willis",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm1522442",
+                        "name": "Heidi Bivens",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0033664",
+                        "name": "Gary Archer",
+                        "description": "dental prosthetics"
+                    },
+                    {
+                        "id": "nm4767688",
+                        "name": "Michelle Diamantides",
+                        "description": "key hair stylist"
+                    },
+                    {
+                        "id": "nm2112266",
+                        "name": "Nana Fischer",
+                        "description": "hair stylist: James Franco / makeup artist: James Franco"
+                    },
+                    {
+                        "id": "nm0342218",
+                        "name": "Lee Grimes",
+                        "description": "makeup department head"
+                    },
+                    {
+                        "id": "nm0496759",
+                        "name": "Adruitha Lee",
+                        "description": "department head hair"
+                    },
+                    {
+                        "id": "nm0858735",
+                        "name": "Diana Thomas-Madison",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm1297300",
+                        "name": "Lee Gren",
+                        "description": "graphic designer specialty tattoos: Tinsley Studio (uncredited)"
+                    },
+                    {
+                        "id": "nm4144580",
+                        "name": "Kim Pineda",
+                        "description": "makeup artist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0330723",
+                        "name": "Anthony Gore",
+                        "description": "post-production supervisor"
+                    },
+                    {
+                        "id": "nm0456852",
+                        "name": "Susan Kirr",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0289212",
+                        "name": "Richard L. Fox",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm1245084",
+                        "name": "Krystian Lagowski",
+                        "description": "second second assistant director"
+                    },
+                    {
+                        "id": "nm0568234",
+                        "name": "Joe McDougall",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0572396",
+                        "name": "Meaghan F. McLaughlin",
+                        "description": "second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm2618300",
+                        "name": "Carla Bailey",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm0971459",
+                        "name": "Rex Christensen",
+                        "description": "on-set dresser"
+                    },
+                    {
+                        "id": "nm5060597",
+                        "name": "Mike Drury",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm5323698",
+                        "name": "Donald Fulmer",
+                        "description": "set dresser (as Don Fulmer)"
+                    },
+                    {
+                        "id": "nm4907675",
+                        "name": "Chelsea Harlan",
+                        "description": "art production assistant"
+                    },
+                    {
+                        "id": "nm1733883",
+                        "name": "Adrian Marler",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm3808615",
+                        "name": "Jason Ochenrider",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm5897818",
+                        "name": "Dave Reynolds",
+                        "description": "leadman"
+                    },
+                    {
+                        "id": "nm1488166",
+                        "name": "John Rusnak",
+                        "description": "assistant property master"
+                    },
+                    {
+                        "id": "nm0861229",
+                        "name": "Kurt Thoresen",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm5870581",
+                        "name": "Audrey Waple",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm5256369",
+                        "name": "Virginia Yount",
+                        "description": "art production assistant"
+                    },
+                    {
+                        "id": "nm4287242",
+                        "name": "Jil Myers",
+                        "description": "prop assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm2396216",
+                        "name": "Alex Altman",
+                        "description": "location sound mixer"
+                    },
+                    {
+                        "id": "nm0053203",
+                        "name": "Gregg Barbanell",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm5897825",
+                        "name": "Paul Barrie",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0321790",
+                        "name": "Aaron Glascock",
+                        "description": "re-recording mixer / sound designer / supervising sound editor"
+                    },
+                    {
+                        "id": "nm0388164",
+                        "name": "Hilda Hodges",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0423369",
+                        "name": "David Jobe",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm1369323",
+                        "name": "Chris Navarro",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm1180056",
+                        "name": "Mark Purcell",
+                        "description": "dubbing recordist"
+                    },
+                    {
+                        "id": "nm1400864",
+                        "name": "Shelley Roden",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm4429615",
+                        "name": "Brian Swanson",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm1038741",
+                        "name": "Derek Vanderhorst",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0911902",
+                        "name": "Trevor Ward",
+                        "description": "dolby consultant"
+                    },
+                    {
+                        "id": "nm0914312",
+                        "name": "Gregory H. Watkins",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0933119",
+                        "name": "Byron Wilson",
+                        "description": "supervising sound editor"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm2883950",
+                        "name": "Jeremy S. Brock",
+                        "description": "special effects coordinator (as Jeremy Brock)"
+                    },
+                    {
+                        "id": "nm4391929",
+                        "name": "Charles Beck",
+                        "description": "special effects technician (uncredited)"
+                    },
+                    {
+                        "id": "nm4480646",
+                        "name": "George Hirst",
+                        "description": "special effects (uncredited)"
+                    },
+                    {
+                        "id": "nm2003841",
+                        "name": "Kevin Morrissey",
+                        "description": "special effects assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm2135494",
+                        "name": "Ben Campanaro",
+                        "description": "lead compositor: Pixomondo"
+                    },
+                    {
+                        "id": "nm1849590",
+                        "name": "Charles Collyer",
+                        "description": "compositor: Pixomondo"
+                    },
+                    {
+                        "id": "nm1942604",
+                        "name": "Ante Dekovic",
+                        "description": "data wrangler: Pixomondo"
+                    },
+                    {
+                        "id": "nm2738104",
+                        "name": "Sarah Brooke Grossmann",
+                        "description": "compositor: Pixomondo (as Brooke Grossman)"
+                    },
+                    {
+                        "id": "nm0473884",
+                        "name": "Craig Kuehne",
+                        "description": "compositor: Pixomondo"
+                    },
+                    {
+                        "id": "nm1256224",
+                        "name": "Mark Miller",
+                        "description": "visual effects managing producer: Pixomondo"
+                    },
+                    {
+                        "id": "nm2550279",
+                        "name": "Zach Miller",
+                        "description": "matchmove artist: Pixomondo (as Zachary Miller)"
+                    },
+                    {
+                        "id": "nm1636229",
+                        "name": "Stephen Mitchell",
+                        "description": "compositor: Pixomondo"
+                    },
+                    {
+                        "id": "nm2178835",
+                        "name": "Shalena Oxley-Butler",
+                        "description": "visual effects producer: Pixomondo"
+                    },
+                    {
+                        "id": "nm1160093",
+                        "name": "Stephen W. Pugh",
+                        "description": "visual effects executive producer: Pixomondo (as Steve Pugh)"
+                    },
+                    {
+                        "id": "nm5268472",
+                        "name": "Jonny Valdivia",
+                        "description": "visual effects assistant: Pixomondo"
+                    },
+                    {
+                        "id": "nm0940542",
+                        "name": "Chris F. Woods",
+                        "description": "visual effects supervisor: Cinema Pixel"
+                    },
+                    {
+                        "id": "nm5070195",
+                        "name": "Wanyan Zhu",
+                        "description": "compositor: Pixomondo"
+                    },
+                    {
+                        "id": "nm2089671",
+                        "name": "Jason Michael Zimmerman",
+                        "description": "creative director: Pixomondo (as Jason Zimmerman)"
+                    },
+                    {
+                        "id": "nm4259209",
+                        "name": "Shawn Ewashko",
+                        "description": "compositor: Pixomondo (uncredited)"
+                    },
+                    {
+                        "id": "nm3328842",
+                        "name": "Eric Levin-Hatz",
+                        "description": "visual effects coordinator: Pixomondo (uncredited)"
+                    },
+                    {
+                        "id": "nm4462045",
+                        "name": "Ben Mackey",
+                        "description": "systems administrator: Pixomondo (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0084057",
+                        "name": "Grady Allen Bishop",
+                        "description": "stunt coordinator (as Grady Bishop)"
+                    },
+                    {
+                        "id": "nm4722646",
+                        "name": "Jeffrey Thomas Brown",
+                        "description": "stunt player (as Jeffrey Brown)"
+                    },
+                    {
+                        "id": "nm2952095",
+                        "name": "Jeremy Conner",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm5500312",
+                        "name": "Regina Dean",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0306811",
+                        "name": "Mattox Gardner",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm4783331",
+                        "name": "Jason Charles Hill",
+                        "description": "stunt player (as Jason Hill)"
+                    },
+                    {
+                        "id": "nm0469482",
+                        "name": "Dave Kramer",
+                        "description": "stunt coordinator / stunt player"
+                    },
+                    {
+                        "id": "nm4895750",
+                        "name": "Peter Laboy",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0558662",
+                        "name": "Keifus Mathews",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm1238542",
+                        "name": "Courtney Paige Kramer",
+                        "description": "stunt player (as Courtney Ktamer)"
+                    },
+                    {
+                        "id": "nm4202365",
+                        "name": "Ryan Robertson",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm1668114",
+                        "name": "David John Adamson",
+                        "description": "stunt driver (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm4132181",
+                        "name": "Ian Campbell",
+                        "description": "second assistant camera: \"a\" camera"
+                    },
+                    {
+                        "id": "nm1660361",
+                        "name": "Erik Curtis",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm3870869",
+                        "name": "Michael J. DiCarlo",
+                        "description": "camera loader (as Mike DiCarlo)"
+                    },
+                    {
+                        "id": "nm1726753",
+                        "name": "Sean Fisher",
+                        "description": "dolly grip"
+                    },
+                    {
+                        "id": "nm1571135",
+                        "name": "Garland Gallaspy",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm5897820",
+                        "name": "Don Gurzell",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0360065",
+                        "name": "Chris Hanley",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm0360106",
+                        "name": "Roberta Hanley",
+                        "description": "videographer: epk"
+                    },
+                    {
+                        "id": "nm1937062",
+                        "name": "Bruce Hazen",
+                        "description": "best boy electric"
+                    },
+                    {
+                        "id": "nm4997490",
+                        "name": "David Lasky",
+                        "description": "video assist operator (as Dave Lasky)"
+                    },
+                    {
+                        "id": "nm1074313",
+                        "name": "Mark Manthey",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0004426",
+                        "name": "Mike McGowan",
+                        "description": "steadicam operator"
+                    },
+                    {
+                        "id": "nm5870584",
+                        "name": "Annabel Mehran",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm5897821",
+                        "name": "Clay Meng",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm5897819",
+                        "name": "Pat Meng",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm3317306",
+                        "name": "Ryan Meng",
+                        "description": "best boy grip: second unit/additional photography"
+                    },
+                    {
+                        "id": "nm3688965",
+                        "name": "Rico Moon",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm4213660",
+                        "name": "Michael Muller",
+                        "description": "primary photography: stocklandmartel.com"
+                    },
+                    {
+                        "id": "nm0615204",
+                        "name": "Patrick Murray",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0740287",
+                        "name": "Peter D. Roome",
+                        "description": "first assistant camera (as Peter Roome)"
+                    },
+                    {
+                        "id": "nm1037309",
+                        "name": "Danny Vanzura",
+                        "description": "second assistant camera (as Daniel Vanzura)"
+                    },
+                    {
+                        "id": "nm0958323",
+                        "name": "Peter Zuccarini",
+                        "description": "underwater camera operator (as Pete Zuccarini)"
+                    },
+                    {
+                        "id": "nm4908948",
+                        "name": "Dave Boulay",
+                        "description": "electrician (uncredited)"
+                    },
+                    {
+                        "id": "nm2114123",
+                        "name": "Joseph Boylan",
+                        "description": "first assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm4564613",
+                        "name": "Craig Clarke",
+                        "description": "camera car operator (uncredited)"
+                    },
+                    {
+                        "id": "nm1660361",
+                        "name": "Erik Curtis",
+                        "description": "second unit: director of photography (uncredited)"
+                    },
+                    {
+                        "id": "nm4730673",
+                        "name": "Nicholas R. Gianneschi",
+                        "description": "second assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm2520902",
+                        "name": "Andrew Ortoski",
+                        "description": "lighting technician (uncredited)"
+                    },
+                    {
+                        "id": "nm1797600",
+                        "name": "Humberto Recio",
+                        "description": "balloon light tech (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Animation Department",
+                "items": [
+                    {
+                        "id": "nm2536577",
+                        "name": "William Owen Campbell",
+                        "description": "designer: title sequence (as William Campbell)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0306811",
+                        "name": "Mattox Gardner",
+                        "description": "extras casting"
+                    },
+                    {
+                        "id": "nm1810595",
+                        "name": "Sabyn Mayfield",
+                        "description": "casting associate"
+                    },
+                    {
+                        "id": "nm3891825",
+                        "name": "Jannette Sepwa",
+                        "description": "extras casting"
+                    },
+                    {
+                        "id": "nm4133842",
+                        "name": "Sarah Beguiristain",
+                        "description": "casting assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm3523022",
+                        "name": "Ramani Leah",
+                        "description": "casting assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm2126685",
+                        "name": "Jodi Baldwin",
+                        "description": "costume supervisor"
+                    },
+                    {
+                        "id": "nm4672860",
+                        "name": "Rachel Dainer-Best",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm2996688",
+                        "name": "Candace Rice",
+                        "description": "set costumer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm1762468",
+                        "name": "Mike Chiado",
+                        "description": "digital intermediate technologist"
+                    },
+                    {
+                        "id": "nm2121969",
+                        "name": "Giovanni DiGiorgio",
+                        "description": "digital intermediate color assistant"
+                    },
+                    {
+                        "id": "nm2358858",
+                        "name": "Christopher Gillaspie",
+                        "description": "scan manager: Warner Bros. MPI"
+                    },
+                    {
+                        "id": "nm2707741",
+                        "name": "Annie Johnson",
+                        "description": "digital intermediate producer"
+                    },
+                    {
+                        "id": "nm3061499",
+                        "name": "Samantha Kirner",
+                        "description": "post-production assistant"
+                    },
+                    {
+                        "id": "nm3635609",
+                        "name": "Rudy Lopez",
+                        "description": "digital intermediate conform artist"
+                    },
+                    {
+                        "id": "nm1428007",
+                        "name": "Trevor Miller",
+                        "description": "production video editor"
+                    },
+                    {
+                        "id": "nm0620231",
+                        "name": "Stephen Nakamura",
+                        "description": "digital intermediate colorist"
+                    },
+                    {
+                        "id": "nm1873871",
+                        "name": "Adam Robinson",
+                        "description": "additional editor"
+                    },
+                    {
+                        "id": "nm0767098",
+                        "name": "Keith H. Sauter",
+                        "description": "assistant editor (as Keith Sauter)"
+                    },
+                    {
+                        "id": "nm0814406",
+                        "name": "Stefan Sonnenfeld",
+                        "description": "digital intermediate executive producer"
+                    },
+                    {
+                        "id": "nm1811672",
+                        "name": "Devin Sterling",
+                        "description": "digital intermediate head of production: Company 3"
+                    },
+                    {
+                        "id": "nm5671069",
+                        "name": "Ian Sullivan",
+                        "description": "digital intermediate accountant"
+                    },
+                    {
+                        "id": "nm0940542",
+                        "name": "Chris F. Woods",
+                        "description": "digital intermediate conform editor: Cinema Pixel"
+                    },
+                    {
+                        "id": "nm1562143",
+                        "name": "J.D. Funari",
+                        "description": "marketing editor (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm2611875",
+                        "name": "John Ansotegui",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm3181744",
+                        "name": "Guy Balson",
+                        "description": "assistant location manager / assistant location manager: France"
+                    },
+                    {
+                        "id": "nm1698137",
+                        "name": "Paul Knaus",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm1041497",
+                        "name": "Jorge E. Senisse",
+                        "description": "location assistant (as Jorge Senisse)"
+                    },
+                    {
+                        "id": "nm0809958",
+                        "name": "Sherrill Smith",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm3459713",
+                        "name": "Simon Faulkner",
+                        "description": "location assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm4464244",
+                        "name": "Meghan Currier",
+                        "description": "music coordinator"
+                    },
+                    {
+                        "id": "nm0277346",
+                        "name": "Ron Finn",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0314837",
+                        "name": "Gerry Gershman",
+                        "description": "music consultant"
+                    },
+                    {
+                        "id": "nm5897822",
+                        "name": "Greg Lapidus",
+                        "description": "legal: soundtrack album"
+                    },
+                    {
+                        "id": "nm0692922",
+                        "name": "Randall Poster",
+                        "description": "music supervisor"
+                    },
+                    {
+                        "id": "nm1989340",
+                        "name": "Mac Quayle",
+                        "description": "composer: additional music / score mixed by"
+                    },
+                    {
+                        "id": "nm2179463",
+                        "name": "Gregory Tripi",
+                        "description": "composer: additional music"
+                    },
+                    {
+                        "id": "nm5376228",
+                        "name": "Brandon Thompson",
+                        "description": "music supervisor (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm1003530",
+                        "name": "Laura Pinto",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm1333055",
+                        "name": "Nelson Antinori",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm3230375",
+                        "name": "Joseph Bedami",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0226419",
+                        "name": "Richard F. Diez",
+                        "description": "driver (as Rick Diez)"
+                    },
+                    {
+                        "id": "nm3231016",
+                        "name": "Ralph P. Fernandez",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm5870596",
+                        "name": "Oliverio Gonzalez",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm4821377",
+                        "name": "John Kestner",
+                        "description": "transportation co-captain"
+                    },
+                    {
+                        "id": "nm1337424",
+                        "name": "Juli Kestner",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm5897828",
+                        "name": "James Knauer",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm3332873",
+                        "name": "Cecilia Palomino",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0658743",
+                        "name": "Jay Palomino",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm5897827",
+                        "name": "Donald Smith",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm5897826",
+                        "name": "Robert E. Smith",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm1337609",
+                        "name": "Steve Valdez",
+                        "description": "driver"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm2884437",
+                        "name": "Chrissie Atkinson",
+                        "description": "production legal services"
+                    },
+                    {
+                        "id": "nm3707666",
+                        "name": "Laura M. Blair",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm3317309",
+                        "name": "Mal Boland",
+                        "description": "armorer"
+                    },
+                    {
+                        "id": "nm3165987",
+                        "name": "Mike Brown",
+                        "description": "set medic"
+                    },
+                    {
+                        "id": "nm4214121",
+                        "name": "Michael Burress",
+                        "description": "digital media: Muse Productions"
+                    },
+                    {
+                        "id": "nm5897829",
+                        "name": "Jim Carroll",
+                        "description": "armorer"
+                    },
+                    {
+                        "id": "nm4879732",
+                        "name": "Lauren Ciell",
+                        "description": "first assistant accountant"
+                    },
+                    {
+                        "id": "nm2949956",
+                        "name": "Khris Colgate",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm2611839",
+                        "name": "Mark Craig",
+                        "description": "chef"
+                    },
+                    {
+                        "id": "nm5473979",
+                        "name": "Ryan Diefel",
+                        "description": "firearms consultant (uncredited)"
+                    },
+                    {
+                        "id": "nm3752027",
+                        "name": "Johnny Dunn",
+                        "description": "creative executive: Annapurna Pictures"
+                    },
+                    {
+                        "id": "nm1693627",
+                        "name": "Stephen Feder",
+                        "description": "production executive: Annapurna Pictures"
+                    },
+                    {
+                        "id": "nm4400765",
+                        "name": "Sarah Ferguson",
+                        "description": "production secretary"
+                    },
+                    {
+                        "id": "nm3099537",
+                        "name": "Lucia Gallone",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm0308099",
+                        "name": "David Garrett",
+                        "description": "legal: RBP"
+                    },
+                    {
+                        "id": "nm5897832",
+                        "name": "Melissa Grantham",
+                        "description": "assistant chef"
+                    },
+                    {
+                        "id": "nm4749424",
+                        "name": "Mara Gurevitz",
+                        "description": "accounting clerk"
+                    },
+                    {
+                        "id": "nm0349377",
+                        "name": "Kerry Gutierrez",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm0360065",
+                        "name": "Chris Hanley",
+                        "description": "special choreography"
+                    },
+                    {
+                        "id": "nm2979848",
+                        "name": "Katye Kalivoda",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm4249011",
+                        "name": "Meghan Kanodia",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm0447296",
+                        "name": "Ian M. Kemp",
+                        "description": "set medic (as Ian Kemp)"
+                    },
+                    {
+                        "id": "nm3278908",
+                        "name": "Christopher Key",
+                        "description": "on behalf of Vertigo Films"
+                    },
+                    {
+                        "id": "nm3955112",
+                        "name": "Anna Kooris",
+                        "description": "assistant: James Franco"
+                    },
+                    {
+                        "id": "nm4576733",
+                        "name": "Michael Kuzenka",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm5467370",
+                        "name": "Brandon Loureiro",
+                        "description": "set assistant (as Brandon Loureir)"
+                    },
+                    {
+                        "id": "nm1027167",
+                        "name": "Patrick Malone",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm1751919",
+                        "name": "Martin Marquet",
+                        "description": "publicist"
+                    },
+                    {
+                        "id": "nm3334578",
+                        "name": "Heather McKay",
+                        "description": "production secretary"
+                    },
+                    {
+                        "id": "nm0571443",
+                        "name": "Caitlin McKenna",
+                        "description": "adr loop group"
+                    },
+                    {
+                        "id": "nm4842317",
+                        "name": "Tyler Monsein",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm0607643",
+                        "name": "Lee Morse",
+                        "description": "production coordinator (as Lee A. Morse)"
+                    },
+                    {
+                        "id": "nm4979478",
+                        "name": "James Mossahebi",
+                        "description": "on behalf of Vertigo Films"
+                    },
+                    {
+                        "id": "nm4422912",
+                        "name": "Cameron Nord",
+                        "description": "office production assistant"
+                    },
+                    {
+                        "id": "nm4974754",
+                        "name": "Ross Ostrom",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm5144455",
+                        "name": "April Parsons",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm5870592",
+                        "name": "April Parsons",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm0670779",
+                        "name": "Ashley Peldon",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm1930602",
+                        "name": "Lisa Pellechio",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm5870593",
+                        "name": "Jose Pinto",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm3160254",
+                        "name": "Fiona Pittaluga",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm3286117",
+                        "name": "Ben Plunkett",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm1099481",
+                        "name": "Shani Pride",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm4755741",
+                        "name": "Rhys Raiskin",
+                        "description": "production associate: Muse Productions"
+                    },
+                    {
+                        "id": "nm5007220",
+                        "name": "Jose Alberto Reyes",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm0742064",
+                        "name": "Phillip L. Rosen",
+                        "description": "production legal services: Rosen Law Group"
+                    },
+                    {
+                        "id": "nm5897833",
+                        "name": "Ivan Ruiz",
+                        "description": "assistant chef"
+                    },
+                    {
+                        "id": "nm4908153",
+                        "name": "Sarah R. Santos",
+                        "description": "production legal services: Rosen Law Group (as Sarah R. Dubman)"
+                    },
+                    {
+                        "id": "nm3221551",
+                        "name": "Ognjen Sarovic",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm5395470",
+                        "name": "Mike Schaer",
+                        "description": "set medic"
+                    },
+                    {
+                        "id": "nm0791561",
+                        "name": "Justin Shenkarow",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm0802275",
+                        "name": "Dennis Singletary",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm4987639",
+                        "name": "Erica Souza",
+                        "description": "stand-in (uncredited)"
+                    },
+                    {
+                        "id": "nm5897831",
+                        "name": "Arthur Stachurski",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm0842303",
+                        "name": "Shane Sweet",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm9055063",
+                        "name": "Alexandra Tibbe",
+                        "description": "intern"
+                    },
+                    {
+                        "id": "nm4748016",
+                        "name": "Michael Trudel Jr.",
+                        "description": "set assistant (as Michael Trudel)"
+                    },
+                    {
+                        "id": "nm0877910",
+                        "name": "Tim Turner",
+                        "description": "production accountant (as Tim 'Biff' Turner)"
+                    },
+                    {
+                        "id": "nm0902964",
+                        "name": "J.R. Von Schondorf",
+                        "description": "assistant production office coordinator (as JR von Schondorf)"
+                    },
+                    {
+                        "id": "nm4422824",
+                        "name": "Shelby Q. Warren",
+                        "description": "office production assistant (as Shelby Warren)"
+                    },
+                    {
+                        "id": "nm5870594",
+                        "name": "Henri Yount",
+                        "description": "set assistant"
+                    },
+                    {
+                        "id": "nm3771608",
+                        "name": "Justin Browning",
+                        "description": "marine crew (uncredited)"
+                    },
+                    {
+                        "id": "nm5488761",
+                        "name": "Carrie Caignet",
+                        "description": "marine consultant: diver (uncredited)"
+                    },
+                    {
+                        "id": "nm6290916",
+                        "name": "Lucas Celler",
+                        "description": "intern (uncredited)"
+                    },
+                    {
+                        "id": "nm8857518",
+                        "name": "Robin D. Fox",
+                        "description": "MJZ office accounting (uncredited)"
+                    },
+                    {
+                        "id": "nm5135549",
+                        "name": "Elsa Huisman",
+                        "description": "legal services (uncredited)"
+                    },
+                    {
+                        "id": "nm4543084",
+                        "name": "Patrick L. Kornegay",
+                        "description": "Development Assistant: MJZ (uncredited)"
+                    },
+                    {
+                        "id": "nm3956035",
+                        "name": "Nicolette Noble",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm7962912",
+                        "name": "K.C. O'Keife",
+                        "description": "art assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm4234443",
+                        "name": "Beau Stapleton",
+                        "description": "production legal (uncredited)"
+                    },
+                    {
+                        "id": "nm5376228",
+                        "name": "Brandon Thompson",
+                        "description": "marketing director (uncredited)"
+                    },
+                    {
+                        "id": "nm4163522",
+                        "name": "Donny Tucker",
+                        "description": "stand-in (uncredited)"
+                    },
+                    {
+                        "id": "nm4046073",
+                        "name": "Taylor Ann Valentine",
+                        "description": "stand-in (uncredited)"
+                    },
+                    {
+                        "id": "nm4551022",
+                        "name": "Lauren Vera",
+                        "description": "stand-in (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm5870603",
+                        "name": "Ben Bateman",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm1862833",
+                        "name": "Florina Massbaum",
+                        "description": "the producers wish to thank / very special thanks"
+                    },
+                    {
+                        "id": "nm2046722",
+                        "name": "Ross Massbaum",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm1078298",
+                        "name": "Lesley Wolff",
+                        "description": "the producers wish to thank"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Crime, Drama",
+    "genreList": [
+        {
+            "key": "Crime",
+            "value": "Crime"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Muse Productions, Division Films, O' Salvation",
+    "companyList": [
+        {
+            "id": "co0019350",
+            "name": "Muse Productions"
+        },
+        {
+            "id": "co0372556",
+            "name": "Division Films"
+        },
+        {
+            "id": "co0157961",
+            "name": "O' Salvation"
+        }
+    ],
+    "countries": "USA, France",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        },
+        {
+            "key": "France",
+            "value": "France"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "5.3",
+    "imDbRatingVotes": "131843",
+    "metacriticRating": "63",
+    "ratings": {
+        "imDbId": "tt2101441",
+        "title": "Spring Breakers",
+        "fullTitle": "Spring Breakers (2012)",
+        "type": "Movie",
+        "year": "2012",
+        "imDb": "5.3",
+        "metacritic": "63",
+        "theMovieDb": "5.1",
+        "rottenTomatoes": "67",
+        "tV_com": "",
+        "filmAffinity": "4.9",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt2101441",
+        "title": "Spring Breakers",
+        "fullTitle": "Spring Breakers (2012)",
+        "type": "Movie",
+        "year": "2012",
+        "language": "en",
+        "titleInLanguage": "Spring Breakers",
+        "url": "https://en.wikipedia.org/wiki/Spring_Breakers",
+        "plotShort": {
+            "plainText": "Spring Breakers\r\nSpring Breakers is a 2012 American crime film written and directed by Harmony Korine and starring James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine. Gomez, Hudgens, Benson, and Korine portray four college-aged girls on their spring break in Florida where they meet an eccentric local drug dealer (Franco) who helps them in a time of desperation, and their eventual descent into a world of drugs, crime, and violence.\r\nWriter/director Korine had devised the concept for Spring Breakers over several years prior to production, with fleeting ideas about the plot and what should transpire. His initial desire was to create a \"sensory film\" that was more about feeling than action and placed little importance on narrative or plot, the idea for which came later. Once Korine developed the backbone of the story, which takes place around the American spring break period, he traveled to Florida to write the screenplay. Production began in 2012, on an estimated budget of $5 million, making it Korine's second most expensive film to date. The film is also one of Korine's first theatrical works to receive a wide release.\r\nSpring Breakers was released on March 22, 2013 in the United States by A24 and grossed $31 million worldwide, making it a resounding success considering the small budget. It received generally positive reviews from film critics, with some calling it a potential cult classic. The film was selected to compete for the Golden Lion at the 69th Venice International Film Festival. Critics and scholars have read deeper meaning in the film's plot, commenting on its reflection of modern-day superficiality and the younger generation's self-destructive obsession with highly stylised, disposable pop culture media and sensory ephemera. It ranks in BBC's 100 Greatest Films of the 21st Century. A sequel, under the name of Spring Breakers: The Second Coming, was announced in 2014 for an undated release. Jonas \u00c5kerlund was attached to direct with Irvine Welsh penning the script, without the involvement of Korine or the original cast.",
+            "html": "<h2>Spring Breakers</h2><p>Spring Breakers is a 2012 American crime film written and directed by Harmony Korine and starring James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine. Gomez, Hudgens, Benson, and Korine portray four college-aged girls on their spring break in Florida where they meet an eccentric local drug dealer (Franco) who helps them in a time of desperation, and their eventual descent into a world of drugs, crime, and violence.</p><p>Writer/director Korine had devised the concept for Spring Breakers over several years prior to production, with fleeting ideas about the plot and what should transpire. His initial desire was to create a \"sensory film\" that was more about feeling than action and placed little importance on narrative or plot, the idea for which came later. Once Korine developed the backbone of the story, which takes place around the American spring break period, he traveled to Florida to write the screenplay. Production began in 2012, on an estimated budget of $5 million, making it Korine's second most expensive film to date. The film is also one of Korine's first theatrical works to receive a wide release.</p><p>Spring Breakers was released on March 22, 2013 in the United States by A24 and grossed $31 million worldwide, making it a resounding success considering the small budget. It received generally positive reviews from film critics, with some calling it a potential cult classic. The film was selected to compete for the Golden Lion at the 69th Venice International Film Festival. Critics and scholars have read deeper meaning in the film's plot, commenting on its reflection of modern-day superficiality and the younger generation's self-destructive obsession with highly stylised, disposable pop culture media and sensory ephemera. It ranks in BBC's 100 Greatest Films of the 21st Century. A sequel, under the name of Spring Breakers: The Second Coming, was announced in 2014 for an undated release. Jonas \u00c5kerlund was attached to direct with Irvine Welsh penning the script, without the involvement of Korine or the original cast.</p>"
+        },
+        "plotFull": {
+            "plainText": "Spring Breakers\r\nSpring Breakers is a 2012 American crime film written and directed by Harmony Korine and starring James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine. Gomez, Hudgens, Benson, and Korine portray four college-aged girls on their spring break in Florida where they meet an eccentric local drug dealer (Franco) who helps them in a time of desperation, and their eventual descent into a world of drugs, crime, and violence.\r\nWriter/director Korine had devised the concept for Spring Breakers over several years prior to production, with fleeting ideas about the plot and what should transpire. His initial desire was to create a \"sensory film\" that was more about feeling than action and placed little importance on narrative or plot, the idea for which came later. Once Korine developed the backbone of the story, which takes place around the American spring break period, he traveled to Florida to write the screenplay. Production began in 2012, on an estimated budget of $5 million, making it Korine's second most expensive film to date. The film is also one of Korine's first theatrical works to receive a wide release.\r\nSpring Breakers was released on March 22, 2013 in the United States by A24 and grossed $31 million worldwide, making it a resounding success considering the small budget. It received generally positive reviews from film critics, with some calling it a potential cult classic. The film was selected to compete for the Golden Lion at the 69th Venice International Film Festival. Critics and scholars have read deeper meaning in the film's plot, commenting on its reflection of modern-day superficiality and the younger generation's self-destructive obsession with highly stylised, disposable pop culture media and sensory ephemera. It ranks in BBC's 100 Greatest Films of the 21st Century. A sequel, under the name of Spring Breakers: The Second Coming, was announced in 2014 for an undated release. Jonas \u00c5kerlund was attached to direct with Irvine Welsh penning the script, without the involvement of Korine or the original cast.\r\nPlot\r\nCollege students Brit, Candy, and Cotty often spend their time partying while their friend Faith attends a religious youth group. As their classmates head to spring break, they are stuck behind due to a lack of money. Desperate to make the trip, Brit and Candy, after getting high on cocaine, don ski masks and rob a local restaurant using hammers and realistic-looking squirt guns. They are assisted by Cotty, who drives (and later burns) the getaway car stolen from one of their professors. Cotty, Candy, and Brit divulge the details of their crime to a horrified Faith, who keeps quiet about it.\r\nIn St. Petersburg, Florida, the girls attend wild beach parties fueled by alcohol, drugs, and sex. After a particularly wild party, all four are arrested for using narcotics. They spend the night in a holding cell, but are bailed out by Alien, a local rapper, drug hustler, and arms dealer. Alien charms Cotty, Candy, and Brit with his wealth and \"bad boy\" swagger, but Faith feels uneasy. Alien takes the girls to a local club frequented by gang members, where Faith becomes even more uncomfortable with his lifestyle. Despite Alien's attempts to convince her to stay, Faith decides to leave and begs the others to come with her. They refuse, however, and she makes the trip home alone.\r\nAlien takes the remaining girls to a strip club owned by his rival and childhood best friend, Big Arch, who warns Alien to stop selling drugs in his territory. Alien then takes the girls to his mansion, where he flaunts his drug money and cache of weapons, describing his life as the \"American Dream\". Brit and Candy grab two of his guns and threaten to kill him. Turned on, Alien fellates the gun and declares that he has fallen in love with the girls, claiming that they are his soulmates.\r\nAlien arms the girls with pink ski masks and shotguns, taking them to his pool where he plays the piano while he and the girls sing Britney Spears' \"Everytime,\" later performing several armed robberies. While in Alien's car they are approached by Big Arch and another member of his gang who threaten them and execute a drive-by shooting, wounding Cotty in the process. Alien promises to retaliate, but a traumatized Cotty comes to her senses and chooses to follow in Faith's footsteps, returning home. Brit and Candy stay behind and have three-way sex with Alien in his pool. The three of them decide to take revenge on Big Arch. In a flashforward, the two girls call home, promising to work harder and become better people.\r\nBack in the present, the three travel in a motorboat to Big Arch's mansion. After they dock at the pier, Alien is shot and killed by one of Big Arch's guards. Brit and Candy carry on, killing Big Arch's gang before finally confronting and killing Big Arch himself. During the assault and its aftermath, the camera pans over the dead bodies of Big Arch's gang while the girls speak in a voice-over, first heard earlier in the film, describing the beach's beauty and musing that they have discovered who they truly are. Brit and Candy, silent and wearing pensive, ambiguous expressions, drive home in Big Arch's Lamborghini. A final flashback shows the two girls kissing Alien's dead body before departing.\r\nCast\r\nJames Franco as Alien, a rapper, drug hustler, and arms dealer who takes the girls under his wing.\r\nSelena Gomez as Faith, a girl who tries to devote her life to Christianity, but is also friends with party girls Brit, Candy and Cotty.\r\nVanessa Hudgens as Candy, an irresponsible and uncaring girl in college; and Brit's best friend.\r\nAshley Benson as Brit, a rebellious and danger seeking college girl; and Candy\u2019s best friend.\r\nRachel Korine as Cotty, a promiscuous girl who likes to party, but is a little more careful than her friends Candy and Brit.\r\nGucci Mane as Archie \"Big Arch\", Alien's childhood best friend turned rival drug dealer.\r\nAdditionally, Heather Morris, Ash Lendzion, and Emma Holzer appear as Faith's friends Bess, Forest, and Heather. Jeff Jarrett portrays a youth pastor and Russell Stuart appears as a DJ.\r\nProduction\r\nAccording to Harmony Korine, he wrote the film partially to make up for his own spring breaks, as he had been fully devoted to skateboarding, and therefore missed out on what he saw as opportunities for hedonistic pursuits. Korine has referred to the film as a \"beach noir\". The original lineup of lead actresses was announced as Emma Roberts, Selena Gomez and Vanessa Hudgens. Director Korine had purposely collected a group of well-known young actresses with a similar reputation to Roberts in Hollywood. Ashley Benson was ultimately cast instead after Roberts dropped out due to her being uncomfortable with the film\u2019s explicit sexuality. The film was shot in March and April 2012 in and around St. Petersburg, Florida. The exterior shots and some interior shots of the college where Gomez and Benson attend were filmed at New College of Florida, while the dormitory and classroom shots were filmed at Ringling College of Art and Design. Skrillex produced the film's score.\r\nKorine announced in 2013 he planned to \"remix\" the film's unused footage and alternate takes into an entirely new cut.\r\nRelease\r\nA three-minute preview of Spring Breakers was released at the 2012 Cannes Film Festival in May 2012. The entire film premiered at the 69th Venice International Film Festival on September 4, 2012. The film was released in New York and Los Angeles on March 15, 2013. The film was released nationwide on March 22, 2013. The film had a limited release in the U.K. on April 5, 2013. The movie was also released in France on March 6, 2013 and was scheduled to be released in Australia in early March, however was pushed back to a release date of May 4.\r\nHome media\r\nSpring Breakers was released digitally on June 25, 2013, and on DVD and Blu-ray on July 9, 2013.\r\nControversies\r\nRiff Raff\r\nOn February 15, 2012, Korine contacted rapper Riff Raff about appearing in an upcoming film of Korine's which would later turn out to be Spring Breakers. Once the trailer was released there was speculation that the character Alien was based on Riff Raff. According to Franco, Alien is based on the underground rap artist Dangeruss, who has a cameo in the film. \"Of course Harmony and I looked at some of Riff Raff's videos as inspiration, but he was one of a number of people we looked at. I would say the biggest influence on the role was this local, Florida rapper named Dangeruss. He's fairly unknown, but he was down there in the place, living the life, and he became the biggest model for me, and he's in the movie.\" After much back-and-forth between both camps about the issue, Riff Raff announced in July 2013 that he was suing the creators of Spring Breakers for $10 million for \"sampling\" his life without his permission or a proper producer credit. However, a September, 2013 search by LA Weekly for court documents resulted in no findings.\r\nPortrayal of women\r\nSpring Breakers has generated debate and controversy among critics, with some regarding the film as sexist due to its objectification of women, while others viewed the film as a feminist or female-empowerment film. In regard to the former perspective, The Guardian suggests that the film \"reinforces rape culture\" and \"turns young women into sex objects,\" while other reviewers state that it \"pushes booze-and-bikini hedonism to the extreme,\" as the \"camera glides up, down, and around these women's bodies like a giant tongue\". According to Rolling Stone, the film presents \"a kind of girl-power camaraderie that could almost be called feminist,\" a result of the director's intent to \"do the most radical work, but put it out in the most commercial way (...) to infiltrate the mainstream\". In his review of the film, Richard Roeper wrote \"Korine's camera is nearly an intrusive weapon as he lingers over the soft, limber bodies of Vanessa Hudgens, Selena Gomez, Ashley Benson, and his wife, Rachel Korine.... I think that's sort of the point. When a pre-med student on spring break loses her top, drinks to the point of passing out, and grabs a willing lugnut by the ears for six hours of anonymous fun, is she setting the woman's movement back 40 years, or taking charge of her life like any man would do at that age?\"\r\nReception\r\nCritical response\r\nOn review aggregator Rotten Tomatoes, the film holds an approval rating of 67% based on 190 reviews, with an average rating of 6.26/10. The website's critical consensus reads, \"Spring Breakers blends stinging social commentary with bikini cheesecake and a bravura James Franco performance.\" At Metacritic, which assigns a weighted mean rating from film critics, it received a rating score of 63 out of 100 based on 40 critics, indicating \"generally favorable reviews\".\r\nXan Brooks of The Guardian said the film is Korine's \"most fully realised, purely satisfying feature film since Gummo.\" Emma Seligman of The Huffington Post described the film as \"Scarface meets Britney Spears.\" Oliver Lyttlelton of IndieWire gave the film a B, stating that the film would be a future cult favorite for \"midnight moviegoers\".\r\nGuy Lodge of Variety gave it a negative review saying, \"this attractively fizzy pic may be a shock to the system for fans of teen queens Selena Gomez and Vanessa Hudgens, but remains pretty toothless titillation by its writer-helmer's standards.\" David Rooney of The Hollywood Reporter noted that James Franco gives one of his more bizarre performances in his unpredictable career, saying \"he's a cross between Bo Derek in 10 and Richard Kiel in Moonraker.\" Andrew Schenker of Slant Magazine gave the film 3 out of 4 stars. Jamie Dunn of The Skinny gave it 4 out of 5 stars, saying: \"If Michael Mann was to take a lot of hallucinogenics and shoot a Girls Gone Wild video, it might look something like this.\" Richard Roeper gave the film three-and-a-half stars out of four, praising the character of Alien and the film's sense of humor.\r\nSpring Breakers has since appeared on various retrospective \"best of\" lists, including one honouring the best films of the 21st century. In 2016, British film magazine Little White Lies placed the film at number 40 on their list of the 50 best films of the decade (so far). In August of that same year, BBC Magazine conducted a poll on the 21st century's 100 greatest films so far, with Spring Breakers ranking at number 74.\r\nIn France, the magazine Les Cahiers du cinema featured Spring Breakers on their March 2013's cover, and placed it second on their December 2013 Top Ten chart.\r\nTop ten lists\r\nSpring Breakers was listed on many critics' top ten lists for 2013.\r\n1st \u2013 Mark Olsen, Los Angeles Times\r\n2nd \u2013 Nigel M. Smith, Gabe Toro, & Katie Walsh, Indiewire\r\n2nd \u2013 Cahiers du cin\u00e9ma\r\n4th \u2013 Ben Kenigsberg, The A.V. Club\r\n6th \u2013 David Ehrlich, Film.com\r\n6th \u2013 Gregory Ellwood, HitFix\r\n7th \u2013 Drew McWeeny, Hitfix\r\n8th \u2013 Ty Burr, The Boston Globe\r\n8th \u2013 Kristopher Tapley, HitFix\r\n8th \u2013 Marlow Stern, The Daily Beast\r\n10th \u2013 Joshua Rothkopf, Time Out New York\r\n10th \u2013 A.O. Scott, The New York Times\r\nBest of 2013 (listed alphabetically, not ranked) \u2013 Manohla Dargis, The New York Times\r\nBox office\r\nSpring Breakers grossed $14,124,284 in North America and $17,600,000 in other countries for a worldwide total of $31,724,284. In North America, the film opened to #6 in its first weekend with $4,858,944, behind The Croods, Admission, The Call, Oz the Great and Powerful, and Olympus Has Fallen.\r\nOscar campaign for James Franco\r\nA24 Films began a campaign in September 2013 in support of a Best Supporting Actor Oscar nomination for Franco's performance. This was preceded by the Hollywood.com website that produced a \"For your consideration\" poster in support of a nomination for Franco in March 2013. On December 2, 2013, A24 published a YouTube video titled \"James Franco - Consider this Sh*t\" and also released print advertisements following the \"Consider this Sh*t\" theme. Originally, Internet chatter considered the campaign a joke, but A24 has since made it clear that the campaign was indeed serious. Franco won the Los Angeles Film Critics Association Award for Best Supporting Actor (tied with Jared Leto for Dallas Buyers Club), National Society of Film Critics Award for Best Supporting Actor, and San Francisco Film Critics Circle Award for Best Supporting Actor, while the Washington D.C. Area Film Critics Association nominated him for its Best Supporting Actor award.\r\nAccolades\r\nMusic\r\nThe film score to Spring Breakers was composed by Cliff Martinez and Skrillex, marking the first scoring assignment for the latter. Skrillex was contacted after Korine sent music supervisor Randall Poster links to the electronica artist's music on YouTube. \"I'm accustomed to being the oldest person at a gig,\" said Poster, \"but when I went to see Skrillex at Roseland this year, it was dramatic. There were a lot of kids that looked like they were 15 years old. But I loved it. I truly loved it.\"\r\nMagneto Dayo released the song \"Spring Breakers\", featuring Sage Odessa, which references the film and real life spring break experiences.\r\nSoundtrack\r\nSpring Breakers (Music From the Motion Picture) is a soundtrack album for the film of the same name. It was released on March 19, 2013 by Big Beat Records and Warner Music.\r\nUndated sequel\r\nA sequel, under the name of Spring Breakers: The Second Coming, was announced in May 6, 2014. Although the storyline will have connections with the previous film, it will include a new cast in addition to the original. Directed by Jonas \u00c5kerlund, The Second Coming, which Irvine Welsh has been attached to script, will focus on a set of Spring Breakers coming into conflict with Christian extremists.\r\nUpon the announcement, Franco released a statement saying that the sequel was \"not being done with Harmony Korine or my consent\" and that the producers were \"capitalizing on that innovative film to make money on a weak sequel\" and attempting to \"make money off someone else's creativity\".",
+            "html": "<h2>Spring Breakers</h2><p>Spring Breakers is a 2012 American crime film written and directed by Harmony Korine and starring James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine. Gomez, Hudgens, Benson, and Korine portray four college-aged girls on their spring break in Florida where they meet an eccentric local drug dealer (Franco) who helps them in a time of desperation, and their eventual descent into a world of drugs, crime, and violence.</p><p>Writer/director Korine had devised the concept for Spring Breakers over several years prior to production, with fleeting ideas about the plot and what should transpire. His initial desire was to create a \"sensory film\" that was more about feeling than action and placed little importance on narrative or plot, the idea for which came later. Once Korine developed the backbone of the story, which takes place around the American spring break period, he traveled to Florida to write the screenplay. Production began in 2012, on an estimated budget of $5 million, making it Korine's second most expensive film to date. The film is also one of Korine's first theatrical works to receive a wide release.</p><p>Spring Breakers was released on March 22, 2013 in the United States by A24 and grossed $31 million worldwide, making it a resounding success considering the small budget. It received generally positive reviews from film critics, with some calling it a potential cult classic. The film was selected to compete for the Golden Lion at the 69th Venice International Film Festival. Critics and scholars have read deeper meaning in the film's plot, commenting on its reflection of modern-day superficiality and the younger generation's self-destructive obsession with highly stylised, disposable pop culture media and sensory ephemera. It ranks in BBC's 100 Greatest Films of the 21st Century. A sequel, under the name of Spring Breakers: The Second Coming, was announced in 2014 for an undated release. Jonas \u00c5kerlund was attached to direct with Irvine Welsh penning the script, without the involvement of Korine or the original cast.</p><br/><h3>Plot</h3><p>College students Brit, Candy, and Cotty often spend their time partying while their friend Faith attends a religious youth group. As their classmates head to spring break, they are stuck behind due to a lack of money. Desperate to make the trip, Brit and Candy, after getting high on cocaine, don ski masks and rob a local restaurant using hammers and realistic-looking squirt guns. They are assisted by Cotty, who drives (and later burns) the getaway car stolen from one of their professors. Cotty, Candy, and Brit divulge the details of their crime to a horrified Faith, who keeps quiet about it.</p><p>In St. Petersburg, Florida, the girls attend wild beach parties fueled by alcohol, drugs, and sex. After a particularly wild party, all four are arrested for using narcotics. They spend the night in a holding cell, but are bailed out by Alien, a local rapper, drug hustler, and arms dealer. Alien charms Cotty, Candy, and Brit with his wealth and \"bad boy\" swagger, but Faith feels uneasy. Alien takes the girls to a local club frequented by gang members, where Faith becomes even more uncomfortable with his lifestyle. Despite Alien's attempts to convince her to stay, Faith decides to leave and begs the others to come with her. They refuse, however, and she makes the trip home alone.</p><p>Alien takes the remaining girls to a strip club owned by his rival and childhood best friend, Big Arch, who warns Alien to stop selling drugs in his territory. Alien then takes the girls to his mansion, where he flaunts his drug money and cache of weapons, describing his life as the \"American Dream\". Brit and Candy grab two of his guns and threaten to kill him. Turned on, Alien fellates the gun and declares that he has fallen in love with the girls, claiming that they are his soulmates.</p><p>Alien arms the girls with pink ski masks and shotguns, taking them to his pool where he plays the piano while he and the girls sing Britney Spears' \"Everytime,\" later performing several armed robberies. While in Alien's car they are approached by Big Arch and another member of his gang who threaten them and execute a drive-by shooting, wounding Cotty in the process. Alien promises to retaliate, but a traumatized Cotty comes to her senses and chooses to follow in Faith's footsteps, returning home. Brit and Candy stay behind and have three-way sex with Alien in his pool. The three of them decide to take revenge on Big Arch. In a flashforward, the two girls call home, promising to work harder and become better people.</p><p>Back in the present, the three travel in a motorboat to Big Arch's mansion. After they dock at the pier, Alien is shot and killed by one of Big Arch's guards. Brit and Candy carry on, killing Big Arch's gang before finally confronting and killing Big Arch himself. During the assault and its aftermath, the camera pans over the dead bodies of Big Arch's gang while the girls speak in a voice-over, first heard earlier in the film, describing the beach's beauty and musing that they have discovered who they truly are. Brit and Candy, silent and wearing pensive, ambiguous expressions, drive home in Big Arch's Lamborghini. A final flashback shows the two girls kissing Alien's dead body before departing.</p><br/><h3>Cast</h3><ul><li>James Franco as Alien, a rapper, drug hustler, and arms dealer who takes the girls under his wing.</li><li>Selena Gomez as Faith, a girl who tries to devote her life to Christianity, but is also friends with party girls Brit, Candy and Cotty.</li><li>Vanessa Hudgens as Candy, an irresponsible and uncaring girl in college; and Brit's best friend.</li><li>Ashley Benson as Brit, a rebellious and danger seeking college girl; and Candy\u2019s best friend.</li><li>Rachel Korine as Cotty, a promiscuous girl who likes to party, but is a little more careful than her friends Candy and Brit.</li><li>Gucci Mane as Archie \"Big Arch\", Alien's childhood best friend turned rival drug dealer.</li></ul><p>Additionally, Heather Morris, Ash Lendzion, and Emma Holzer appear as Faith's friends Bess, Forest, and Heather. Jeff Jarrett portrays a youth pastor and Russell Stuart appears as a DJ.</p><br/><h3>Production</h3><p>According to Harmony Korine, he wrote the film partially to make up for his own spring breaks, as he had been fully devoted to skateboarding, and therefore missed out on what he saw as opportunities for hedonistic pursuits. Korine has referred to the film as a \"beach noir\". The original lineup of lead actresses was announced as Emma Roberts, Selena Gomez and Vanessa Hudgens. Director Korine had purposely collected a group of well-known young actresses with a similar reputation to Roberts in Hollywood. Ashley Benson was ultimately cast instead after Roberts dropped out due to her being uncomfortable with the film\u2019s explicit sexuality. The film was shot in March and April 2012 in and around St. Petersburg, Florida. The exterior shots and some interior shots of the college where Gomez and Benson attend were filmed at New College of Florida, while the dormitory and classroom shots were filmed at Ringling College of Art and Design. Skrillex produced the film's score.</p><p>Korine announced in 2013 he planned to \"remix\" the film's unused footage and alternate takes into an entirely new cut.</p><br/><h3>Release</h3><p>A three-minute preview of Spring Breakers was released at the 2012 Cannes Film Festival in May 2012. The entire film premiered at the 69th Venice International Film Festival on September 4, 2012. The film was released in New York and Los Angeles on March 15, 2013. The film was released nationwide on March 22, 2013. The film had a limited release in the U.K. on April 5, 2013. The movie was also released in France on March 6, 2013 and was scheduled to be released in Australia in early March, however was pushed back to a release date of May 4.</p><h4>Home media</h4><p>Spring Breakers was released digitally on June 25, 2013, and on DVD and Blu-ray on July 9, 2013.</p><br/><h3>Controversies</h3><h4>Riff Raff</h4><p>On February 15, 2012, Korine contacted rapper Riff Raff about appearing in an upcoming film of Korine's which would later turn out to be Spring Breakers. Once the trailer was released there was speculation that the character Alien was based on Riff Raff. According to Franco, Alien is based on the underground rap artist Dangeruss, who has a cameo in the film. \"Of course Harmony and I looked at some of Riff Raff's videos as inspiration, but he was one of a number of people we looked at. I would say the biggest influence on the role was this local, Florida rapper named Dangeruss. He's fairly unknown, but he was down there in the place, living the life, and he became the biggest model for me, and he's in the movie.\" After much back-and-forth between both camps about the issue, Riff Raff announced in July 2013 that he was suing the creators of Spring Breakers for $10 million for \"sampling\" his life without his permission or a proper producer credit. However, a September, 2013 search by LA Weekly for court documents resulted in no findings.</p><h4>Portrayal of women</h4><p>Spring Breakers has generated debate and controversy among critics, with some regarding the film as sexist due to its objectification of women, while others viewed the film as a feminist or female-empowerment film. In regard to the former perspective, The Guardian suggests that the film \"reinforces rape culture\" and \"turns young women into sex objects,\" while other reviewers state that it \"pushes booze-and-bikini hedonism to the extreme,\" as the \"camera glides up, down, and around these women's bodies like a giant tongue\". According to Rolling Stone, the film presents \"a kind of girl-power camaraderie that could almost be called feminist,\" a result of the director's intent to \"do the most radical work, but put it out in the most commercial way (...) to infiltrate the mainstream\". In his review of the film, Richard Roeper wrote \"Korine's camera is nearly an intrusive weapon as he lingers over the soft, limber bodies of Vanessa Hudgens, Selena Gomez, Ashley Benson, and his wife, Rachel Korine.... I think that's sort of the point. When a pre-med student on spring break loses her top, drinks to the point of passing out, and grabs a willing lugnut by the ears for six hours of anonymous fun, is she setting the woman's movement back 40 years, or taking charge of her life like any man would do at that age?\"</p><br/><h3>Reception</h3><h4>Critical response</h4><p>On review aggregator Rotten Tomatoes, the film holds an approval rating of 67% based on 190 reviews, with an average rating of 6.26/10. The website's critical consensus reads, \"Spring Breakers blends stinging social commentary with bikini cheesecake and a bravura James Franco performance.\" At Metacritic, which assigns a weighted mean rating from film critics, it received a rating score of 63 out of 100 based on 40 critics, indicating \"generally favorable reviews\".</p><p>Xan Brooks of The Guardian said the film is Korine's \"most fully realised, purely satisfying feature film since Gummo.\" Emma Seligman of The Huffington Post described the film as \"Scarface meets Britney Spears.\" Oliver Lyttlelton of IndieWire gave the film a B, stating that the film would be a future cult favorite for \"midnight moviegoers\".</p><p>Guy Lodge of Variety gave it a negative review saying, \"this attractively fizzy pic may be a shock to the system for fans of teen queens Selena Gomez and Vanessa Hudgens, but remains pretty toothless titillation by its writer-helmer's standards.\" David Rooney of The Hollywood Reporter noted that James Franco gives one of his more bizarre performances in his unpredictable career, saying \"he's a cross between Bo Derek in 10 and Richard Kiel in Moonraker.\" Andrew Schenker of Slant Magazine gave the film 3 out of 4 stars. Jamie Dunn of The Skinny gave it 4 out of 5 stars, saying: \"If Michael Mann was to take a lot of hallucinogenics and shoot a Girls Gone Wild video, it might look something like this.\" Richard Roeper gave the film three-and-a-half stars out of four, praising the character of Alien and the film's sense of humor.</p><p>Spring Breakers has since appeared on various retrospective \"best of\" lists, including one honouring the best films of the 21st century. In 2016, British film magazine Little White Lies placed the film at number 40 on their list of the 50 best films of the decade (so far). In August of that same year, BBC Magazine conducted a poll on the 21st century's 100 greatest films so far, with Spring Breakers ranking at number 74.</p><p>In France, the magazine Les Cahiers du cinema featured Spring Breakers on their March 2013's cover, and placed it second on their December 2013 Top Ten chart.</p><h4>Top ten lists</h4><p>Spring Breakers was listed on many critics' top ten lists for 2013.</p><ul><li>1st \u2013 Mark Olsen, Los Angeles Times</li><li>2nd \u2013 Nigel M. Smith, Gabe Toro, & Katie Walsh, Indiewire</li><li>2nd \u2013 Cahiers du cin\u00e9ma</li><li>4th \u2013 Ben Kenigsberg, The A.V. Club</li><li>6th \u2013 David Ehrlich, Film.com</li><li>6th \u2013 Gregory Ellwood, HitFix</li><li>7th \u2013 Drew McWeeny, Hitfix</li><li>8th \u2013 Ty Burr, The Boston Globe</li><li>8th \u2013 Kristopher Tapley, HitFix</li><li>8th \u2013 Marlow Stern, The Daily Beast</li><li>10th \u2013 Joshua Rothkopf, Time Out New York</li><li>10th \u2013 A.O. Scott, The New York Times</li><li>Best of 2013 (listed alphabetically, not ranked) \u2013 Manohla Dargis, The New York Times</li></ul><h4>Box office</h4><p>Spring Breakers grossed $14,124,284 in North America and $17,600,000 in other countries for a worldwide total of $31,724,284. In North America, the film opened to #6 in its first weekend with $4,858,944, behind The Croods, Admission, The Call, Oz the Great and Powerful, and Olympus Has Fallen.</p><h4>Oscar campaign for James Franco</h4><p>A24 Films began a campaign in September 2013 in support of a Best Supporting Actor Oscar nomination for Franco's performance. This was preceded by the Hollywood.com website that produced a \"For your consideration\" poster in support of a nomination for Franco in March 2013. On December 2, 2013, A24 published a YouTube video titled \"James Franco - Consider this Sh*t\" and also released print advertisements following the \"Consider this Sh*t\" theme. Originally, Internet chatter considered the campaign a joke, but A24 has since made it clear that the campaign was indeed serious. Franco won the Los Angeles Film Critics Association Award for Best Supporting Actor (tied with Jared Leto for Dallas Buyers Club), National Society of Film Critics Award for Best Supporting Actor, and San Francisco Film Critics Circle Award for Best Supporting Actor, while the Washington D.C. Area Film Critics Association nominated him for its Best Supporting Actor award.</p><h4>Accolades</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><caption>List of awards and nominations</caption><tbody><tr><th>Group</th><th>Date of ceremony</th><th>Category</th><th>Recipients</th><th>Outcome</th></tr><tr><td><span>Alliance of Women Film Journalists Awards</span></td><td>December 19, 2013</td><td>Actress Most in Need Of A New Agent</td><td><span>Ashley Benson</span>, <span>Rachel Korine</span>, <span>Selena Gomez</span> &amp; <span>Vanessa Hudgens</span></td><td rowspan=\"2\" style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>60th Belgian Film Critics Association</span></td><td>January 4, 2014</td><td><span>Grand Prix</span></td><td rowspan=\"2\"><i>Spring Breakers</i></td></tr><tr><td>2nd Boston Online Film Critics Association Awards</td><td>December 7, 2013</td><td>Top Ten Best Films of the Year</td><td rowspan=\"2\" style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"2\">Central Ohio Film Critics Association Awards</td><td rowspan=\"2\">January 2, 2014</td><td>Best Supporting Actor</td><td><span>James Franco</span></td></tr><tr><td>Best Cinematography</td><td><span>Beno\u00eet Debie</span></td><td rowspan=\"4\" style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"2\"><span>26th Chicago Film Critics Association Awards</span></td><td rowspan=\"2\">December 16, 2013</td><td><span>Best Original Score</span></td><td><span>Cliff Martinez</span> &amp; <span>Skrillex</span></td></tr><tr><td><span>Best Supporting Actor</span></td><td><span>James Franco</span></td></tr><tr><td><span class=\"mw-redirect\">Dublin Film Critics Circle Awards</span></td><td>December 20, 2013</td><td>Best Cinematography</td><td><span>Beno\u00eet Debie</span></td></tr><tr><td><span>14th Golden Trailer Awards</span></td><td>May 3, 2013</td><td>Trashiest Trailer</td><td><i>Spring Breakers</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>29th Independent Spirit Awards</span></td><td>March 1, 2014</td><td><span>Best Cinematography</span></td><td><span>Beno\u00eet Debie</span></td><td rowspan=\"3\" style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>5th Indiana Film Critics Association Awards</td><td>December 16, 2013</td><td>Best Film</td><td><i>Spring Breakers</i></td></tr><tr><td><span>79th New York Film Critics Circle Awards</span></td><td>December 3, 2013</td><td><span>Best Supporting Actor</span></td><td rowspan=\"6\"><span>James Franco</span></td></tr><tr><td><span class=\"mw-redirect\">39th Los Angeles Film Critics Association Awards</span></td><td>December 8, 2013</td><td><span>Best Supporting Actor</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>12th Washington D.C. Area Film Critics Association Awards</span></td><td>December 9, 2013</td><td><span>Best Supporting Actor</span></td><td rowspan=\"2\" style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Detroit Film Critics Society Awards</span></td><td>December 13, 2013</td><td>Best Supporting Actor</td></tr><tr><td><span class=\"mw-redirect\">12th San Francisco Film Critics Circle Awards</span></td><td>December 15, 2013</td><td><span class=\"new\">Best Supporting Actor</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>17th Toronto Film Critics Association Awards</span></td><td>December 17, 2013</td><td><span>Best Supporting Actor</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Capricho Awards</td><td>December 18, 2013</td><td>Best Make Out</td><td><span>Ashley Benson</span>, <span>James Franco</span> &amp; <span>Vanessa Hudgens</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>48th National Society of Film Critics Awards</span></td><td>January 4, 2014</td><td><span>Best Supporting Actor</span></td><td><span>James Franco</span></td><td rowspan=\"2\" style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"2\"><span>69th Venice International Film Festival</span></td><td rowspan=\"2\">August 29-September 8, 2012</td><td>Future Film Festival Digital Award \u2013 Special Mention</td><td rowspan=\"2\"><span>Harmony Korine</span></td></tr><tr><td><span>Golden Lion</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span class=\"mw-redirect\">MTV Movie Awards</span></td><td>April 13, 2014</td><td>Best Kiss</td><td><span>Ashley Benson</span>, <span>James Franco</span> &amp; <span>Vanessa Hudgens</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr></tbody></table><br/><h3>Music</h3><p>The film score to Spring Breakers was composed by Cliff Martinez and Skrillex, marking the first scoring assignment for the latter. Skrillex was contacted after Korine sent music supervisor Randall Poster links to the electronica artist's music on YouTube. \"I'm accustomed to being the oldest person at a gig,\" said Poster, \"but when I went to see Skrillex at Roseland this year, it was dramatic. There were a lot of kids that looked like they were 15 years old. But I loved it. I truly loved it.\"</p><p>Magneto Dayo released the song \"Spring Breakers\", featuring Sage Odessa, which references the film and real life spring break experiences.</p><h4>Soundtrack</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th colspan=\"2\" class=\"summary album\" style=\"text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro\">Spring Breakers</th></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\"><span>Soundtrack album</span> by <div class=\"contributor\" style=\"display:inline\">Various artists</div></th></tr><tr><th scope=\"row\">Released</th><td class=\"published\">March&nbsp;19,&nbsp;2013</td></tr><tr><th scope=\"row\">Recorded</th><td class=\"plainlist\">2012</td></tr><tr><th scope=\"row\"><span>Genre</span></th><td class=\"category hlist\"><span>EDM</span>, <span>southern hip hop</span></td></tr><tr><th scope=\"row\">Length</th><td><span class=\"duration\"><span class=\"min\">41</span>:<span class=\"s\">06</span></span></td></tr><tr><th scope=\"row\"><span>Label</span></th><td class=\"hlist\"><div class=\"hlist hlist-separated\"><ul><li><span class=\"mw-redirect\">Big Beat</span></li><li><span class=\"mw-redirect\">Warner</span></li></ul></div></td></tr></tbody></table><p>Spring Breakers (Music From the Motion Picture) is a soundtrack album for the film of the same name. It was released on March 19, 2013 by Big Beat Records and Warner Music.</p><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th class=\"tlheader\" scope=\"col\" style=\"width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee\"><abbr title=\"Number\">No.</abbr></th><th class=\"tlheader\" scope=\"col\" style=\"width:60%;text-align:left;background-color:#eee\">Title</th><th class=\"tlheader\" scope=\"col\" style=\"width:40%;text-align:left;background-color:#eee\">Performer(s)</th><th class=\"tlheader\" scope=\"col\" style=\"width:4em;padding-right:10px;text-align:right;background-color:#eee\">Length</th></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1.</td><td style=\"vertical-align:top\">\"<span>Scary Monsters and Nice Sprites</span>\"</td><td style=\"vertical-align:top\"><span>Skrillex</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4:04</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2.</td><td style=\"vertical-align:top\">\"Rise and Shine Little Bitch\"</td><td style=\"vertical-align:top\"><span>Cliff Martinez</span> &amp; Skrillex</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">0:35</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3.</td><td style=\"vertical-align:top\">\"Pretend It's a Video Game\"</td><td style=\"vertical-align:top\">Cliff Martinez</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:46</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4.</td><td style=\"vertical-align:top\">\"With You, Friends (Long Drive)\"</td><td style=\"vertical-align:top\">Skrillex</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6:29</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5.</td><td style=\"vertical-align:top\">\"Hangin' with Da Dopeboys\"</td><td style=\"vertical-align:top\">Dangeruss &amp; <span>James Franco</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:51</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6.</td><td style=\"vertical-align:top\">\"Bikinis &amp; Big Booties Y'all\"</td><td style=\"vertical-align:top\">Cliff Martinez &amp; Skrillex</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:05</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">7.</td><td style=\"vertical-align:top\">\"Never Gonna Get This Pussy\"</td><td style=\"vertical-align:top\">Cliff Martinez</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4:07</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">8.</td><td style=\"vertical-align:top\">\"Goin' In\" <span>(Skrillex Goin' Down Mix)</span></td><td style=\"vertical-align:top\"><span>Birdy Nam Nam</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:38</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">9.</td><td style=\"vertical-align:top\">\"Fuck This Industry\"</td><td style=\"vertical-align:top\"><span>Waka Flocka Flame</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5:09</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">10.</td><td style=\"vertical-align:top\">\"Smell This Money\"</td><td style=\"vertical-align:top\">Skrillex</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:46</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">11.</td><td style=\"vertical-align:top\">\"Park Smoke\"</td><td style=\"vertical-align:top\">Skrillex</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:32</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">12.</td><td style=\"vertical-align:top\">\"Young Niggas\"</td><td style=\"vertical-align:top\"><span>Gucci Mane</span> &amp; Waka Flocka Flame</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:24</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">13.</td><td style=\"vertical-align:top\">\"Your Friends Ain't Gonna Leave with You\"</td><td style=\"vertical-align:top\">Cliff Martinez</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5:25</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">14.</td><td style=\"vertical-align:top\">\"Ride Home\"</td><td style=\"vertical-align:top\">Skrillex</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:15</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">15.</td><td style=\"vertical-align:top\">\"Big Bank\" <span>(featuring <span>French Montana</span>)</span></td><td style=\"vertical-align:top\"><span>Meek Mill</span>, <span>Pill</span>, <span>Torch</span> &amp; <span>Rick Ross</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4:44</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">16.</td><td style=\"vertical-align:top\">\"Son of Scary Monsters\"</td><td style=\"vertical-align:top\">Cliff Martinez &amp; Skrillex</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:04</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">17.</td><td style=\"vertical-align:top\">\"Big 'Ol Scardy Pants\"</td><td style=\"vertical-align:top\">Cliff Martinez</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5:30</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">18.</td><td style=\"vertical-align:top\">\"Scary Monsters on Strings\"</td><td style=\"vertical-align:top\">Skrillex</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4:03</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">19.</td><td style=\"vertical-align:top\">\"<span>Lights</span>\"</td><td style=\"vertical-align:top\"><span>Ellie Goulding</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:29</td></tr><tr><td colspan=\"3\" style=\"padding:0\"><span style=\"width:7.5em;float:right;padding-left:10px;background-color:#eee;margin-right:2px\"><b>Total length:</b></span></td><td style=\"padding:0 10px 0 0;text-align:right;background-color:#eee\"><b>41:06</b></td></tr></tbody></table><br/><h3>Undated sequel</h3><p>A sequel, under the name of Spring Breakers: The Second Coming, was announced in May 6, 2014. Although the storyline will have connections with the previous film, it will include a new cast in addition to the original. Directed by Jonas \u00c5kerlund, The Second Coming, which Irvine Welsh has been attached to script, will focus on a set of Spring Breakers coming into conflict with Christian extremists.</p><p>Upon the announcement, Franco released a statement saying that the sequel was \"not being done with Harmony Korine or my consent\" and that the producers were \"capitalizing on that innovative film to make money on a weak sequel\" and attempting to \"make money off someone else's creativity\".</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt2101441",
+        "title": "Spring Breakers",
+        "fullTitle": "Spring Breakers (2012)",
+        "type": "Movie",
+        "year": "2012",
+        "posters": [
+            {
+                "id": "5i3OhsaCZWd6lY67ZQOeibN2ySA.jpg",
+                "link": "https://imdb-api.com/posters/original/5i3OhsaCZWd6lY67ZQOeibN2ySA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "nVckLoQSXPR4bla5D8llTqK7UV9.jpg",
+                "link": "https://imdb-api.com/posters/original/nVckLoQSXPR4bla5D8llTqK7UV9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "it",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "3A1XjFB59rWwx92fM97s94RcBL3.jpg",
+                "link": "https://imdb-api.com/posters/original/3A1XjFB59rWwx92fM97s94RcBL3.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "srzWneeinbcuVVTbZOpYDtRRZl9.jpg",
+                "link": "https://imdb-api.com/posters/original/srzWneeinbcuVVTbZOpYDtRRZl9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "he",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "w0QWeZfmrBlnAIueSEdgXGpL5ym.jpg",
+                "link": "https://imdb-api.com/posters/original/w0QWeZfmrBlnAIueSEdgXGpL5ym.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "ru",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dleluT0GPbxYRDezBUF4w86QGL6.jpg",
+                "link": "https://imdb-api.com/posters/original/dleluT0GPbxYRDezBUF4w86QGL6.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dIHulR9Sxh1QwY0yEGChT3juVls.jpg",
+                "link": "https://imdb-api.com/posters/original/dIHulR9Sxh1QwY0yEGChT3juVls.jpg",
+                "aspectRatio": 0.6921824104234527,
+                "language": "bg",
+                "width": 850,
+                "height": 1228
+            },
+            {
+                "id": "tid4OsB6y8ZcCOOP1F6bwI9pDAO.jpg",
+                "link": "https://imdb-api.com/posters/original/tid4OsB6y8ZcCOOP1F6bwI9pDAO.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "uk",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "w09eZ7FULwjznA9BWi70ohEhAu4.jpg",
+                "link": "https://imdb-api.com/posters/original/w09eZ7FULwjznA9BWi70ohEhAu4.jpg",
+                "aspectRatio": 0.7023041474654378,
+                "language": "es",
+                "width": 1524,
+                "height": 2170
+            },
+            {
+                "id": "4MDyaNlAh300GIVNZFn1ziP4SVr.jpg",
+                "link": "https://imdb-api.com/posters/original/4MDyaNlAh300GIVNZFn1ziP4SVr.jpg",
+                "aspectRatio": 0.6912718204488778,
+                "language": "es",
+                "width": 1386,
+                "height": 2005
+            },
+            {
+                "id": "iByFbDrqfNK6ldB4C7iVKjgYi4j.jpg",
+                "link": "https://imdb-api.com/posters/original/iByFbDrqfNK6ldB4C7iVKjgYi4j.jpg",
+                "aspectRatio": 0.7083333333333334,
+                "language": "es",
+                "width": 1020,
+                "height": 1440
+            },
+            {
+                "id": "A5itdQio7qzG7FpOSAHnyxRZPi0.jpg",
+                "link": "https://imdb-api.com/posters/original/A5itdQio7qzG7FpOSAHnyxRZPi0.jpg",
+                "aspectRatio": 0.6981509245377311,
+                "language": "es",
+                "width": 1397,
+                "height": 2001
+            },
+            {
+                "id": "lxsHW3olgsnm4vTcg20xmJpOs1n.jpg",
+                "link": "https://imdb-api.com/posters/original/lxsHW3olgsnm4vTcg20xmJpOs1n.jpg",
+                "aspectRatio": 0.6982156710628394,
+                "language": "ko",
+                "width": 900,
+                "height": 1289
+            },
+            {
+                "id": "8QFaBmamACVmibRbfjEVD2SHd5K.jpg",
+                "link": "https://imdb-api.com/posters/original/8QFaBmamACVmibRbfjEVD2SHd5K.jpg",
+                "aspectRatio": 0.675,
+                "language": "da",
+                "width": 1080,
+                "height": 1600
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2101441",
+        "title": "Spring Breakers",
+        "fullTitle": "Spring Breakers (2012)",
+        "type": "Movie",
+        "year": "2012",
+        "items": [
+            {
+                "title": "James Franco in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BODczMjIzNzc0N15BMl5BanBnXkFtZTgwNTQzMzc3MDE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Harmony Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2NTI1MjE0M15BMl5BanBnXkFtZTcwMDM2MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ashley Benson in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BNzM2MTE2Njc5MF5BMl5BanBnXkFtZTcwMTM2MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harmony Korine, Vanessa Hudgens, and Ashley Benson in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0NTMzOTYwMF5BMl5BanBnXkFtZTcwMjM2MjQyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harmony Korine and Selena Gomez in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5NTExNDMyMF5BMl5BanBnXkFtZTcwMzM2MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQwNDI1OTcxMF5BMl5BanBnXkFtZTcwNDM2MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens, Selena Gomez, Ashley Benson, Rachel Korine, and Benjamin Weaver in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0MzczMDAyOF5BMl5BanBnXkFtZTcwNTM2MjQyOQ@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "James Franco in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMjIyMTk2OF5BMl5BanBnXkFtZTcwOTE3MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Selena Gomez and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BODI4MjAwMjQxMF5BMl5BanBnXkFtZTcwNTI3MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens and Ashley Benson in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwMTQ1NTU1OF5BMl5BanBnXkFtZTcwMTI3MjQyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens, Selena Gomez, and Ashley Benson in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NjU2NjE0NV5BMl5BanBnXkFtZTcwMzI3MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ashley Benson in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMDQ4MjE2OF5BMl5BanBnXkFtZTcwNjI3MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harmony Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MTcxMzA0OV5BMl5BanBnXkFtZTcwOTI3MjQyOQ@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "James Franco, Vanessa Hudgens, Ashley Benson, and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyMDMwMTA3NF5BMl5BanBnXkFtZTcwNzM3MjQyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM1NTAyNTk1M15BMl5BanBnXkFtZTcwMDg3NDEyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BNjgxNTc4MjgzMl5BMl5BanBnXkFtZTcwMjg3NDEyOQ@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Harmony Korine and James Franco in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1OTExNDA1NV5BMl5BanBnXkFtZTcwNDg3NDEyOQ@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5MzA5MTk5MV5BMl5BanBnXkFtZTcwNjg3NDEyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "James Franco, Vanessa Hudgens, and Ashley Benson in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1MTI1MzY3OV5BMl5BanBnXkFtZTcwMDAzMzcxOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "James Franco in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNTQ5MTE0MF5BMl5BanBnXkFtZTcwNTAzMzcxOQ@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5ODg4MDU4N15BMl5BanBnXkFtZTcwNDI0MzcxOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens and Ashley Benson in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzMjY0OTM0MV5BMl5BanBnXkFtZTcwOTA4NzY4Nw@@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens, Selena Gomez, Ashley Benson, Rachel Korine, and Benjamin Weaver in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BNjg4NDY1MDY4Ml5BMl5BanBnXkFtZTcwMDE4NzY4Nw@@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2NzA0MDc3M15BMl5BanBnXkFtZTcwMjE4NzY4Nw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3MjM2OTg3OF5BMl5BanBnXkFtZTcwMzE4NzY4Nw@@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine in Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0NTc4MDgxMV5BMl5BanBnXkFtZTcwNzgzMDA2Nw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Selena Gomez at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5NjMyNzE2OV5BMl5BanBnXkFtZTgwODE4Nzg5NDM@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4MzgyMTcyNV5BMl5BanBnXkFtZTcwNTQ3MjUyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Vanessa Hudgens at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0OTYzMDk2NF5BMl5BanBnXkFtZTcwNjQ3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "James Franco at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI1NDEzODIyMF5BMl5BanBnXkFtZTcwNzQ3MjUyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ashley Tisdale at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM0MTY1MDAxMl5BMl5BanBnXkFtZTcwODQ3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harmony Korine, Vanessa Hudgens, Ashley Benson, and Rachel Korine at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BNzQ3MTYxNzMyOF5BMl5BanBnXkFtZTcwOTQ3MjUyOQ@@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Israel Broussard at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjExNTA2Mzk4NF5BMl5BanBnXkFtZTcwMDU3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Edward James Olmos and James Franco at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU3MzQyNTYxMF5BMl5BanBnXkFtZTcwMTU3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Cara Santana at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3MDQwOTE5Ml5BMl5BanBnXkFtZTcwMjU3MjUyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Bella Thorne at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3NTA1MDgxMl5BMl5BanBnXkFtZTcwMzU3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Eva Amurri Martino at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0Mzk2NjI4MV5BMl5BanBnXkFtZTcwNDU3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sarah Hyland at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5NjYzNDU0Ml5BMl5BanBnXkFtZTcwNTU3MjUyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Mark Duplass and Katie Aselton at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NTIyOTIwNl5BMl5BanBnXkFtZTcwNjU3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Heather Morris at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzMTAwNzg2Ml5BMl5BanBnXkFtZTcwNzU3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Korine at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzMzc3MTE0M15BMl5BanBnXkFtZTcwOTU3MjUyOQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Selena Gomez at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5NDM2ODIwN15BMl5BanBnXkFtZTcwMDY3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ashley Tisdale and Vanessa Hudgens at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzOTk0NzgxOV5BMl5BanBnXkFtZTcwMjY3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Writer/Director Harmony Korine (C) and The ATL Twins attend the \"Spring Breakers\" premiere at ArcLight Cinemas on March 14, 2013 in Hollywood, California.",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3NTUwNjMyM15BMl5BanBnXkFtZTcwMDc3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harmony Korine, James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, and Rachel Korine at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzODkwODYzMl5BMl5BanBnXkFtZTcwMTc3MjUyOQ@@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Ashley Benson at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NDI2NDU5N15BMl5BanBnXkFtZTcwMjc3MjUyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Selena Gomez at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BNzMxODk2Njc3OF5BMl5BanBnXkFtZTcwNjAyMjMyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harmony Korine at an event for Spring Breakers (2012)",
+                "image": "https://imdb-api.com/images/original/MV5BNzc1NjgzNzQ1OF5BMl5BanBnXkFtZTcwNzAyMjMyOQ@@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt2101441",
+        "title": "Spring Breakers",
+        "fullTitle": "Spring Breakers (2012)",
+        "type": "Movie",
+        "year": "2012",
+        "videoId": "vi3191842585",
+        "videoTitle": "U.S. Version #1",
+        "videoDescription": "Four college girls who land in jail after robbing a restaurant in order to fund their spring break vacation find themselves bailed out by a drug and arms dealer who wants them to do some dirty work.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTEzMzk4NTkxOTFeQTJeQWpwZ15BbWU3MDM5NjE4OTg@._V1_.jpg",
+        "uploadDate": "01/19/2013 19:06:39",
+        "link": "https://www.imdb.com/video/vi3191842585",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3191842585/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$5,000,000 (estimated)",
+        "openingWeekendUSA": "$263,002, 17 March 2013",
+        "grossUSA": "$14,124,284",
+        "cumulativeWorldwideGross": "$31,724,284"
+    },
+    "tagline": "Viviendo al l\u00edmite (Living on the edge)",
+    "keywords": "spring break,party,debauchery,female killer,murder",
+    "keywordList": [
+        "spring break",
+        "party",
+        "debauchery",
+        "female killer",
+        "murder"
+    ],
+    "similars": [
+        {
+            "id": "tt0113540",
+            "title": "Kids",
+            "fullTitle": "Kids (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BNTNmN2QyNTgtMTk0ZC00NmFhLWJlNzctZmMyYTczZTYyMzA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
+            "directors": "Larry Clark",
+            "stars": "Leo Fitzpatrick, Justin Pierce, Chlo\u00eb Sevigny",
+            "genres": "Drama",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0119237",
+            "title": "Gummo",
+            "fullTitle": "Gummo (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1NjE4NTU4N15BMl5BanBnXkFtZTgwODkwMDg3NjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Lonely residents of a tornado-stricken Ohio town wander the deserted landscape trying to fulfill their boring, nihilistic lives.",
+            "directors": "Harmony Korine",
+            "stars": "Nick Sutton, Jacob Sewell, Lara Tosh",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt1488163",
+            "title": "Trash Humpers",
+            "fullTitle": "Trash Humpers (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMTc5MDU1NDYzNF5BMl5BanBnXkFtZTcwNjg1NjY4Mw@@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "Follows the lives of a small group of sociopathic elderly people in Nashville, Tennessee.",
+            "directors": "Harmony Korine",
+            "stars": "Rachel Korine, Brian Kotzur, Travis Nicholson",
+            "genres": "Comedy, Drama, Horror",
+            "imDbRating": "5.1"
+        },
+        {
+            "id": "tt6511932",
+            "title": "The Beach Bum",
+            "fullTitle": "The Beach Bum (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3MDUzMTAzOV5BMl5BanBnXkFtZTgwNDk3ODQyNzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A rebellious stoner named Moondog lives life by his own rules.",
+            "directors": "Harmony Korine",
+            "stars": "Matthew McConaughey, Snoop Dogg, Isla Fisher",
+            "genres": "Comedy",
+            "imDbRating": "5.5"
+        },
+        {
+            "id": "tt0475984",
+            "title": "Mister Lonely",
+            "fullTitle": "Mister Lonely (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTg2MzIzODA2Nl5BMl5BanBnXkFtZTcwODY3NjM2MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In Paris, a young American who works as a Michael Jackson look-alike meets Marilyn Monroe, who invites him to her commune in Scotland, where she lives with Charlie Chaplin and her daughter, Shirley Temple.",
+            "directors": "Harmony Korine",
+            "stars": "Diego Luna, Samantha Morton, Denis Lavant",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt0192194",
+            "title": "Julien Donkey-Boy",
+            "fullTitle": "Julien Donkey-Boy (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BZTEzZjIyODktZWIwYS00ZTliLWEzYTktMGZiNTEwNTQ0YzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A portrait of the effects of schizophrenia on family life is the central focus.",
+            "directors": "Harmony Korine",
+            "stars": "Ewen Bremner, Brian Fisk, Chlo\u00eb Sevigny",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt1441395",
+            "title": "Under the Skin",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+            "directors": "Jonathan Glazer",
+            "stars": "Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay",
+            "genres": "Drama, Horror, Sci-Fi",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt2132285",
+            "title": "The Bling Ring",
+            "fullTitle": "The Bling Ring (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzMTgwMzQxN15BMl5BanBnXkFtZTcwOTcwNTY0OQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Inspired by actual events, a group of fame-obsessed teenagers use the internet to track celebrities' whereabouts in order to rob their homes.",
+            "directors": "Sofia Coppola",
+            "stars": "Katie Chang, Israel Broussard, Emma Watson",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "5.6"
+        },
+        {
+            "id": "tt4846232",
+            "title": "Good Time",
+            "fullTitle": "Good Time (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNGQ3Y2VjNmUtMDdiMC00YTE1LWI5NmUtZDIzMTJmODQyNDU4XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+            "directors": "Directors: Benny Safdie, Josh Safdie",
+            "stars": "Robert Pattinson, Benny Safdie, Jennifer Jason Leigh",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt1560747",
+            "title": "The Master",
+            "fullTitle": "The Master (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by the Cause and its charismatic leader.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Philip Seymour Hoffman, Joaquin Phoenix, Amy Adams",
+            "genres": "Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt1067774",
+            "title": "Monte Carlo",
+            "fullTitle": "Monte Carlo (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMjE4NjM3NjI1Nl5BMl5BanBnXkFtZTcwNjA5MzY1NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Three young women vacationing in Paris find themselves whisked away to Monte Carlo after one of the girls is mistaken for a British heiress.",
+            "directors": "Thomas Bezucha",
+            "stars": "Selena Gomez, Leighton Meester, Katie Cassidy",
+            "genres": "Adventure, Comedy, Family",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt6053438",
+            "title": "First Reformed",
+            "fullTitle": "First Reformed (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BZDI1MGIyZDMtYjAyMy00ZWE1LTgzYjctYzM5MzczNjFjZWQwXkEyXkFqcGdeQXVyODQyNzE3MDg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A minister of a small congregation in upstate New York grapples with mounting despair brought on by tragedy, worldly concerns and a tormented past.",
+            "directors": "Paul Schrader",
+            "stars": "Ethan Hawke, Amanda Seyfried, Cedric the Entertainer",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "7.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

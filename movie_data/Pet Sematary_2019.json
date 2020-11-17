@@ -1,0 +1,3561 @@
+{
+    "id": "tt0837563",
+    "title": "Pet Sematary",
+    "originalTitle": "",
+    "fullTitle": "Pet Sematary (2019)",
+    "type": "Movie",
+    "year": "2019",
+    "image": "https://imdb-api.com/images/original/MV5BMjJiN2UwYWItNWJjNi00Zjg4LWE5NmItMmM4N2I3ZjY3OTY2XkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2019-04-03",
+    "runtimeMins": "101",
+    "runtimeStr": "1h 41mins",
+    "plot": "Louis Creed, his wife Rachel, and their two children, Gage and Ellie, move to a rural home where they are welcomed and enlightened about the eerie 'Pet Sematary' located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes, dead is better.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "1 win & 9 nominations.",
+    "directors": "Kevin K\u00f6lsch, Dennis Widmyer",
+    "directorList": [
+        {
+            "id": "nm1556116",
+            "name": "Kevin K\u00f6lsch"
+        },
+        {
+            "id": "nm1552637",
+            "name": "Dennis Widmyer"
+        }
+    ],
+    "writers": "Stephen King, Matt Greenberg, Jeff Buhler",
+    "writerList": [
+        {
+            "id": "nm0000175",
+            "name": "Stephen King"
+        },
+        {
+            "id": "nm0338557",
+            "name": "Matt Greenberg"
+        },
+        {
+            "id": "nm1161528",
+            "name": "Jeff Buhler"
+        }
+    ],
+    "stars": "Jason Clarke, Amy Seimetz, John Lithgow, Jet\u00e9 Laurence",
+    "starList": [
+        {
+            "id": "nm0164809",
+            "name": "Jason Clarke"
+        },
+        {
+            "id": "nm1541272",
+            "name": "Amy Seimetz"
+        },
+        {
+            "id": "nm0001475",
+            "name": "John Lithgow"
+        },
+        {
+            "id": "nm5503448",
+            "name": "Jet\u00e9 Laurence"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0164809",
+            "image": "https://imdb-api.com/images/original/MV5BNzU5ODU0MzY1MV5BMl5BanBnXkFtZTcwMTY2MDE4OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jason Clarke",
+            "asCharacter": "Louis"
+        },
+        {
+            "id": "nm1541272",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxNzQyNTkyOV5BMl5BanBnXkFtZTgwMTcwMTEyMDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Amy Seimetz",
+            "asCharacter": "Rachel"
+        },
+        {
+            "id": "nm0001475",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzMzUyNDkzNF5BMl5BanBnXkFtZTcwNTMwNTU5MQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "John Lithgow",
+            "asCharacter": "Jud"
+        },
+        {
+            "id": "nm5503448",
+            "image": "https://imdb-api.com/images/original/MV5BNTc5NmEzZmItYjU0NC00OTM3LWE3OTMtNWZjZDExOTZhOWY3XkEyXkFqcGdeQXVyNjQ3NDAwOTA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jet\u00e9 Laurence",
+            "asCharacter": "Ellie"
+        },
+        {
+            "id": "nm9923811",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hugo Lavoie",
+            "asCharacter": "Gage"
+        },
+        {
+            "id": "nm9923812",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lucas Lavoie",
+            "asCharacter": "Gage"
+        },
+        {
+            "id": "nm7744278",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ0Y2NlYjMtNGY0ZS00Nzk0LWFiYzItMTFhOTc5NTk0MTU2XkEyXkFqcGdeQXVyOTM1MTM4MTk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Obssa Ahmed",
+            "asCharacter": "Victor Pascow"
+        },
+        {
+            "id": "nm10055599",
+            "image": "https://imdb-api.com/images/original/MV5BOTkyNzcxN2ItNWUzMS00MmI3LWFmYjYtMzZjMmYwMTMxOWY1XkEyXkFqcGdeQXVyOTEzMzU4NTY@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Alyssa Brooke Levine",
+            "asCharacter": "Zelda (as Alyssa Levine)"
+        },
+        {
+            "id": "nm0004265",
+            "image": "https://imdb-api.com/images/original/MV5BMzcwZmM5YWItOWJlMi00ZTcwLTg0MjYtM2ZhNDg1ZTRlMjkxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Maria Herrera",
+            "asCharacter": "Marcella"
+        },
+        {
+            "id": "nm0774891",
+            "image": "https://imdb-api.com/images/original/MV5BZDZhODUzNzMtN2FiYy00NzM5LWE3MDMtYmExMGEyZjVkNmJiXkEyXkFqcGdeQXVyODYxOTEyMzQ@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Frank Schorpion",
+            "asCharacter": "Rachel's Father"
+        },
+        {
+            "id": "nm10587623",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Linda E. Smith",
+            "asCharacter": "Rachel's Mother"
+        },
+        {
+            "id": "nm6138402",
+            "image": "https://imdb-api.com/images/original/MV5BOTRhNDJmOGYtYTRjZS00ZTY1LTg5OWYtN2I3NjE2NDdjNmMwXkEyXkFqcGdeQXVyOTEyMTAwODI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sonia Maria Chirila",
+            "asCharacter": "Young Rachel"
+        },
+        {
+            "id": "nm2942174",
+            "image": "https://imdb-api.com/images/original/MV5BMTU4NWJiZGMtZWMzNC00MTU2LWI0MmEtZDIwMmQ5NzAzYTM5XkEyXkFqcGdeQXVyMjkyNTM2Mzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Naomi Frenette",
+            "asCharacter": "Upset Student (as Naomi Jean)"
+        },
+        {
+            "id": "nm0830441",
+            "image": "https://imdb-api.com/images/original/MV5BOWRmZDc3YTktNTlhNy00MzcwLThlMTItNzUzN2Q4MDhlZWIxXkEyXkFqcGdeQXVyODk4MDI2NTQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Suzi Stingl",
+            "asCharacter": "Norma"
+        },
+        {
+            "id": "nm10587624",
+            "image": "https://imdb-api.com/images/original/MV5BZGU2OTliOTctZTYxMC00NTdiLWI0YjEtNjIyYWQ3NGE0ZWY2XkEyXkFqcGdeQXVyNzkxNDI2Njg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Kelly Lee",
+            "asCharacter": "Nurse Kelly"
+        },
+        {
+            "id": "nm5426746",
+            "image": "https://imdb-api.com/images/original/MV5BYTcxMTg2ZTMtMjM4YS00ZGI1LThkNTAtZTFmOTI0M2M4ZDg0XkEyXkFqcGdeQXVyMzg2NzMxNTc@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Nina Lauren",
+            "asCharacter": "Nurse Nina"
+        },
+        {
+            "id": "nm2630117",
+            "image": "https://imdb-api.com/images/original/MV5BZDVlNzU2ZGMtZDZiOS00MzhiLTlhYjUtNTMyYjExZDY4NGEzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Alison O'Donnell",
+            "asCharacter": "Party Guest"
+        },
+        {
+            "id": "nm10587625",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rapha\u00ebl Laporte",
+            "asCharacter": "Party Guest"
+        },
+        {
+            "id": "nm8272452",
+            "image": "https://imdb-api.com/images/original/MV5BMDk1YWUzOGYtODBkZS00ZDJmLWIwZjctYjZhNjljZDgzMzJjXkEyXkFqcGdeQXVyNjc3OTUyODk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Simon Pelletier-Gilbert",
+            "asCharacter": "Party Guest"
+        },
+        {
+            "id": "nm10285712",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leo",
+            "asCharacter": "Church"
+        },
+        {
+            "id": "nm10594662",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tonic",
+            "asCharacter": "Church"
+        },
+        {
+            "id": "nm10594663",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jager",
+            "asCharacter": "Church"
+        },
+        {
+            "id": "nm10594664",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "JD",
+            "asCharacter": "Church"
+        },
+        {
+            "id": "nm10161775",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ambre Dioh-Dikongu\u00e9",
+            "asCharacter": "Halloween Kid #4 (uncredited)"
+        },
+        {
+            "id": "nm5297284",
+            "image": "https://imdb-api.com/images/original/MV5BM2M5ZDAyYjQtYzdlOS00ZTZkLWIwNjktZjVjOTRmNzgxYjFhXkEyXkFqcGdeQXVyMzIxMTg0MTk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ines Feghouli Bozon",
+            "asCharacter": "Halloween Kid #1 (uncredited)"
+        },
+        {
+            "id": "nm6679165",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Maverick Fortin",
+            "asCharacter": "Kid #4 (uncredited)"
+        },
+        {
+            "id": "nm9605085",
+            "image": "https://imdb-api.com/images/original/MV5BZjU5YWMyZjQtMTMzMi00ZDhlLWJmMGUtOGE3MTgzNTBhZTc0XkEyXkFqcGdeQXVyMTE5Mzc1ODY0._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jacob Lemieux",
+            "asCharacter": "Kid #2 (uncredited)"
+        },
+        {
+            "id": "nm9512189",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Constance St-Denis-Veilleux",
+            "asCharacter": "Halloween Kid #2 (uncredited)"
+        },
+        {
+            "id": "nm9615892",
+            "image": "https://imdb-api.com/images/original/MV5BZDY1YTc1NGEtYTZkYi00ODUzLWFlMTQtYTNkZjA1OTE1YzM2XkEyXkFqcGdeQXVyNzc5MTkxOTQ@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Bailey Thain",
+            "asCharacter": "Kid #1 (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0837563",
+        "title": "Pet Sematary",
+        "fullTitle": "Pet Sematary (2019)",
+        "type": "Movie",
+        "year": "2019",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm1556116",
+                    "name": "Kevin K\u00f6lsch",
+                    "description": ""
+                },
+                {
+                    "id": "nm1552637",
+                    "name": "Dennis Widmyer",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000175",
+                    "name": "Stephen King",
+                    "description": "(based on the novel by)"
+                },
+                {
+                    "id": "nm0338557",
+                    "name": "Matt Greenberg",
+                    "description": "(screen story by)"
+                },
+                {
+                    "id": "nm1161528",
+                    "name": "Jeff Buhler",
+                    "description": "(screenplay by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0164809",
+                "image": "https://imdb-api.com/images/original/MV5BNzU5ODU0MzY1MV5BMl5BanBnXkFtZTcwMTY2MDE4OA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jason Clarke",
+                "asCharacter": "Louis"
+            },
+            {
+                "id": "nm1541272",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxNzQyNTkyOV5BMl5BanBnXkFtZTgwMTcwMTEyMDE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Amy Seimetz",
+                "asCharacter": "Rachel"
+            },
+            {
+                "id": "nm0001475",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzMzUyNDkzNF5BMl5BanBnXkFtZTcwNTMwNTU5MQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "John Lithgow",
+                "asCharacter": "Jud"
+            },
+            {
+                "id": "nm5503448",
+                "image": "https://imdb-api.com/images/original/MV5BNTc5NmEzZmItYjU0NC00OTM3LWE3OTMtNWZjZDExOTZhOWY3XkEyXkFqcGdeQXVyNjQ3NDAwOTA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jet\u00e9 Laurence",
+                "asCharacter": "Ellie"
+            },
+            {
+                "id": "nm9923811",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hugo Lavoie",
+                "asCharacter": "Gage"
+            },
+            {
+                "id": "nm9923812",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lucas Lavoie",
+                "asCharacter": "Gage"
+            },
+            {
+                "id": "nm7744278",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0Y2NlYjMtNGY0ZS00Nzk0LWFiYzItMTFhOTc5NTk0MTU2XkEyXkFqcGdeQXVyOTM1MTM4MTk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Obssa Ahmed",
+                "asCharacter": "Victor Pascow"
+            },
+            {
+                "id": "nm10055599",
+                "image": "https://imdb-api.com/images/original/MV5BOTkyNzcxN2ItNWUzMS00MmI3LWFmYjYtMzZjMmYwMTMxOWY1XkEyXkFqcGdeQXVyOTEzMzU4NTY@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Alyssa Brooke Levine",
+                "asCharacter": "Zelda (as Alyssa Levine)"
+            },
+            {
+                "id": "nm0004265",
+                "image": "https://imdb-api.com/images/original/MV5BMzcwZmM5YWItOWJlMi00ZTcwLTg0MjYtM2ZhNDg1ZTRlMjkxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Maria Herrera",
+                "asCharacter": "Marcella"
+            },
+            {
+                "id": "nm0774891",
+                "image": "https://imdb-api.com/images/original/MV5BZDZhODUzNzMtN2FiYy00NzM5LWE3MDMtYmExMGEyZjVkNmJiXkEyXkFqcGdeQXVyODYxOTEyMzQ@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Frank Schorpion",
+                "asCharacter": "Rachel's Father"
+            },
+            {
+                "id": "nm10587623",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Linda E. Smith",
+                "asCharacter": "Rachel's Mother"
+            },
+            {
+                "id": "nm6138402",
+                "image": "https://imdb-api.com/images/original/MV5BOTRhNDJmOGYtYTRjZS00ZTY1LTg5OWYtN2I3NjE2NDdjNmMwXkEyXkFqcGdeQXVyOTEyMTAwODI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sonia Maria Chirila",
+                "asCharacter": "Young Rachel"
+            },
+            {
+                "id": "nm2942174",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4NWJiZGMtZWMzNC00MTU2LWI0MmEtZDIwMmQ5NzAzYTM5XkEyXkFqcGdeQXVyMjkyNTM2Mzg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Naomi Frenette",
+                "asCharacter": "Upset Student (as Naomi Jean)"
+            },
+            {
+                "id": "nm0830441",
+                "image": "https://imdb-api.com/images/original/MV5BOWRmZDc3YTktNTlhNy00MzcwLThlMTItNzUzN2Q4MDhlZWIxXkEyXkFqcGdeQXVyODk4MDI2NTQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Suzi Stingl",
+                "asCharacter": "Norma"
+            },
+            {
+                "id": "nm10587624",
+                "image": "https://imdb-api.com/images/original/MV5BZGU2OTliOTctZTYxMC00NTdiLWI0YjEtNjIyYWQ3NGE0ZWY2XkEyXkFqcGdeQXVyNzkxNDI2Njg@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Kelly Lee",
+                "asCharacter": "Nurse Kelly"
+            },
+            {
+                "id": "nm5426746",
+                "image": "https://imdb-api.com/images/original/MV5BYTcxMTg2ZTMtMjM4YS00ZGI1LThkNTAtZTFmOTI0M2M4ZDg0XkEyXkFqcGdeQXVyMzg2NzMxNTc@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Nina Lauren",
+                "asCharacter": "Nurse Nina"
+            },
+            {
+                "id": "nm2630117",
+                "image": "https://imdb-api.com/images/original/MV5BZDVlNzU2ZGMtZDZiOS00MzhiLTlhYjUtNTMyYjExZDY4NGEzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Alison O'Donnell",
+                "asCharacter": "Party Guest"
+            },
+            {
+                "id": "nm10587625",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rapha\u00ebl Laporte",
+                "asCharacter": "Party Guest"
+            },
+            {
+                "id": "nm8272452",
+                "image": "https://imdb-api.com/images/original/MV5BMDk1YWUzOGYtODBkZS00ZDJmLWIwZjctYjZhNjljZDgzMzJjXkEyXkFqcGdeQXVyNjc3OTUyODk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Simon Pelletier-Gilbert",
+                "asCharacter": "Party Guest"
+            },
+            {
+                "id": "nm10285712",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Leo",
+                "asCharacter": "Church"
+            },
+            {
+                "id": "nm10594662",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tonic",
+                "asCharacter": "Church"
+            },
+            {
+                "id": "nm10594663",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jager",
+                "asCharacter": "Church"
+            },
+            {
+                "id": "nm10594664",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "JD",
+                "asCharacter": "Church"
+            },
+            {
+                "id": "nm10161775",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ambre Dioh-Dikongu\u00e9",
+                "asCharacter": "Halloween Kid #4 (uncredited)"
+            },
+            {
+                "id": "nm5297284",
+                "image": "https://imdb-api.com/images/original/MV5BM2M5ZDAyYjQtYzdlOS00ZTZkLWIwNjktZjVjOTRmNzgxYjFhXkEyXkFqcGdeQXVyMzIxMTg0MTk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ines Feghouli Bozon",
+                "asCharacter": "Halloween Kid #1 (uncredited)"
+            },
+            {
+                "id": "nm6679165",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Maverick Fortin",
+                "asCharacter": "Kid #4 (uncredited)"
+            },
+            {
+                "id": "nm9605085",
+                "image": "https://imdb-api.com/images/original/MV5BZjU5YWMyZjQtMTMzMi00ZDhlLWJmMGUtOGE3MTgzNTBhZTc0XkEyXkFqcGdeQXVyMTE5Mzc1ODY0._V1_Ratio1.0000_AL_.jpg",
+                "name": "Jacob Lemieux",
+                "asCharacter": "Kid #2 (uncredited)"
+            },
+            {
+                "id": "nm9512189",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Constance St-Denis-Veilleux",
+                "asCharacter": "Halloween Kid #2 (uncredited)"
+            },
+            {
+                "id": "nm9615892",
+                "image": "https://imdb-api.com/images/original/MV5BZDY1YTc1NGEtYTZkYi00ODUzLWFlMTQtYTNkZjA1OTE1YzM2XkEyXkFqcGdeQXVyNzc5MTkxOTQ@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Bailey Thain",
+                "asCharacter": "Kid #1 (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0225146",
+                        "name": "Lorenzo di Bonaventura",
+                        "description": "producer (produced by) (p.g.a.)"
+                    },
+                    {
+                        "id": "nm0602921",
+                        "name": "Mark Moran",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm2124081",
+                        "name": "Steven Schneider",
+                        "description": "producer (produced by)"
+                    },
+                    {
+                        "id": "nm1680607",
+                        "name": "Mark Vahradian",
+                        "description": "producer (produced by) (p.g.a.)"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0002366",
+                        "name": "Christopher Young",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1124802",
+                        "name": "Laurie Rose",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm1849803",
+                        "name": "Sarah Broshar",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0448979",
+                        "name": "Andrea Kenyon",
+                        "description": "(montreal casting)"
+                    },
+                    {
+                        "id": "nm0585523",
+                        "name": "Joseph Middleton",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0586570",
+                        "name": "Monika Mikkelsen",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0920382",
+                        "name": "Randi Wells",
+                        "description": "(montreal casting)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0155907",
+                        "name": "Todd Cherniawsky",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm2626796",
+                        "name": "Mathieu Gigu\u00e8re",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm3966283",
+                        "name": "F\u00e9lix Larivi\u00e8re-Charron",
+                        "description": "supervising art director"
+                    },
+                    {
+                        "id": "nm11665556",
+                        "name": "Andrew LemMon",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0014777",
+                        "name": "Vincent Aird",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm6210627",
+                        "name": "L\u00e9a-Val\u00e9rie L\u00e9tourneau",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0806645",
+                        "name": "Ann Smart",
+                        "description": "head set decorator"
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm1323559",
+                        "name": "Simonetta Mariano",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0032624",
+                        "name": "Caroline Aquin",
+                        "description": "makeup effects artist"
+                    },
+                    {
+                        "id": "nm1902007",
+                        "name": "Stephan Ashdown",
+                        "description": "makeup effects artist (as Stefan Ashdown)"
+                    },
+                    {
+                        "id": "nm1071951",
+                        "name": "Marianne Bobet",
+                        "description": "assistant makeup artist"
+                    },
+                    {
+                        "id": "nm0099289",
+                        "name": "Michel Bougie",
+                        "description": "makeup effects artist"
+                    },
+                    {
+                        "id": "nm9622086",
+                        "name": "Camille Bouvet",
+                        "description": "makeup effects artist"
+                    },
+                    {
+                        "id": "nm1349569",
+                        "name": "Kevin Carter",
+                        "description": "contact lens painter"
+                    },
+                    {
+                        "id": "nm0153562",
+                        "name": "Annick Chartier",
+                        "description": "makeup department head"
+                    },
+                    {
+                        "id": "nm2657043",
+                        "name": "Melissa Fafard",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm5788909",
+                        "name": "Laurie Frigon",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm3345324",
+                        "name": "Cyril Hipaux",
+                        "description": "makeup effects artist"
+                    },
+                    {
+                        "id": "nm3151667",
+                        "name": "Pierre-Emmanuel Kaas",
+                        "description": "makeup effects artist"
+                    },
+                    {
+                        "id": "nm0488223",
+                        "name": "F\u00e9lix Larivi\u00e8re",
+                        "description": "hair department head"
+                    },
+                    {
+                        "id": "nm1615238",
+                        "name": "Jonathan Lavall\u00e9e",
+                        "description": "makeup effects artist"
+                    },
+                    {
+                        "id": "nm5219874",
+                        "name": "Colette Martel",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm9577887",
+                        "name": "Jean-Manuel Medina",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0606110",
+                        "name": "Adrien Morot",
+                        "description": "creature and makeup effects designer"
+                    },
+                    {
+                        "id": "nm10384743",
+                        "name": "Vasilica Pintea",
+                        "description": "makeup effects artist"
+                    },
+                    {
+                        "id": "nm7542807",
+                        "name": "Carly Paige Salzman",
+                        "description": "makeup effects artist (as Carly Salzman)"
+                    },
+                    {
+                        "id": "nm1972360",
+                        "name": "Shane Shisheboran",
+                        "description": "special makeup effects technician/puppeteer"
+                    },
+                    {
+                        "id": "nm10384744",
+                        "name": "Patrick St-Pierre",
+                        "description": "makeup effects artist"
+                    },
+                    {
+                        "id": "nm8082869",
+                        "name": "Susie Tawakul",
+                        "description": "makeup effects artist (as Suzie Tawakal)"
+                    },
+                    {
+                        "id": "nm3110700",
+                        "name": "Kathy Tse",
+                        "description": "key makeup effects"
+                    },
+                    {
+                        "id": "nm7740517",
+                        "name": "Vague Vartanian",
+                        "description": "special makeup effects technician"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm1291449",
+                        "name": "Abigail Callahan",
+                        "description": "post-production supervisor"
+                    },
+                    {
+                        "id": "nm0173896",
+                        "name": "Didier Communaux",
+                        "description": "unit manager"
+                    },
+                    {
+                        "id": "nm1362011",
+                        "name": "Frederik Joly",
+                        "description": "assistant unit manager"
+                    },
+                    {
+                        "id": "nm0602921",
+                        "name": "Mark Moran",
+                        "description": "unit production manager"
+                    },
+                    {
+                        "id": "nm0660775",
+                        "name": "Simon Paquin",
+                        "description": "assistant unit manager"
+                    },
+                    {
+                        "id": "nm0743466",
+                        "name": "H\u00e9l\u00e8ne Ross",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0208152",
+                        "name": "Renato De Cotiis",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm1875446",
+                        "name": "Beau Ferris",
+                        "description": "first assistant director / second unit director"
+                    },
+                    {
+                        "id": "nm6042098",
+                        "name": "Marlee Gruss-Neidhardt",
+                        "description": "dgc trainee"
+                    },
+                    {
+                        "id": "nm2648621",
+                        "name": "Rapha\u00ebl H\u00e9bert",
+                        "description": "key third assistant director"
+                    },
+                    {
+                        "id": "nm0420656",
+                        "name": "Matthew Jemus",
+                        "description": "first assistant director: add'l photography"
+                    },
+                    {
+                        "id": "nm0421230",
+                        "name": "Paul Jennings",
+                        "description": "second unit director"
+                    },
+                    {
+                        "id": "nm0468032",
+                        "name": "Carl Kouri",
+                        "description": "first assistant director: second unit"
+                    },
+                    {
+                        "id": "nm5024153",
+                        "name": "Ela Miszkurka",
+                        "description": "second second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0033604",
+                        "name": "Serge Archambault",
+                        "description": "head scenic painter"
+                    },
+                    {
+                        "id": "nm1282383",
+                        "name": "V\u00e9ronique Arcouette",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm7039604",
+                        "name": "Gina Alexandra Arganese",
+                        "description": "assistant set decorator"
+                    },
+                    {
+                        "id": "nm0037090",
+                        "name": "Carole Arpin",
+                        "description": "on-set props"
+                    },
+                    {
+                        "id": "nm4640457",
+                        "name": "Daniel Auclair",
+                        "description": "greens / specialized decoration maker"
+                    },
+                    {
+                        "id": "nm5034690",
+                        "name": "Francois Beaudry",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm11462480",
+                        "name": "Julie Beaudry",
+                        "description": "assistant construction supervisor"
+                    },
+                    {
+                        "id": "nm11462484",
+                        "name": "Jacque Beaupre",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm1267728",
+                        "name": "Ariane Benmergui",
+                        "description": "assistant art department coordinator"
+                    },
+                    {
+                        "id": "nm5220529",
+                        "name": "Linda Bicari",
+                        "description": "sculptor/moulder"
+                    },
+                    {
+                        "id": "nm1129664",
+                        "name": "Patrick Boulianne",
+                        "description": "on set dresser"
+                    },
+                    {
+                        "id": "nm11462577",
+                        "name": "Adrien Bourgailt",
+                        "description": "sculptor/moulder: assistant"
+                    },
+                    {
+                        "id": "nm0110516",
+                        "name": "Alain Brochu",
+                        "description": "construction supervisor"
+                    },
+                    {
+                        "id": "nm1043824",
+                        "name": "Doug Brode",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm10885367",
+                        "name": "Jonathan Brouillard",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm3444465",
+                        "name": "Catherine B\u00e9langer",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm10145086",
+                        "name": "Leo Caroit",
+                        "description": "assistant painter"
+                    },
+                    {
+                        "id": "nm5219554",
+                        "name": "Naima Cusson Charron",
+                        "description": "assistant plasterer"
+                    },
+                    {
+                        "id": "nm2808819",
+                        "name": "Fabien Chevrier",
+                        "description": "sculptor/moulder"
+                    },
+                    {
+                        "id": "nm0181610",
+                        "name": "Christian Corvellec",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm1618724",
+                        "name": "Stephen Craig",
+                        "description": "scenic painter: team leader"
+                    },
+                    {
+                        "id": "nm8610523",
+                        "name": "Sarah Cusenier",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm11462481",
+                        "name": "Edmond De Lorimier",
+                        "description": "construction runner"
+                    },
+                    {
+                        "id": "nm1318723",
+                        "name": "R\u00e9my Deroy",
+                        "description": "head carpenter (as Remi Deroy)"
+                    },
+                    {
+                        "id": "nm11462579",
+                        "name": "Jeremi Gaudet Desjardins",
+                        "description": "assistant plasterer"
+                    },
+                    {
+                        "id": "nm2989292",
+                        "name": "Alain Desroches",
+                        "description": "sculptor"
+                    },
+                    {
+                        "id": "nm11462580",
+                        "name": "Simon Dupras-Tessier",
+                        "description": "assistant plasterer"
+                    },
+                    {
+                        "id": "nm9020965",
+                        "name": "Audrey Ejdelman",
+                        "description": "draftsperson"
+                    },
+                    {
+                        "id": "nm5219893",
+                        "name": "Anne-Marie Fisette",
+                        "description": "sculptor/moulder"
+                    },
+                    {
+                        "id": "nm11462578",
+                        "name": "Yvan Forget",
+                        "description": "plasterer"
+                    },
+                    {
+                        "id": "nm11462575",
+                        "name": "Alexandre Fortin",
+                        "description": "sculptor/moulder"
+                    },
+                    {
+                        "id": "nm3208263",
+                        "name": "Bruno Fortin",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm0288512",
+                        "name": "Lucie Fournier",
+                        "description": "Head Sculptor"
+                    },
+                    {
+                        "id": "nm11462482",
+                        "name": "Alexandre Gelinas",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm11462483",
+                        "name": "Vincent Gendron",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm1435547",
+                        "name": "Anne-Marie Giroux",
+                        "description": "assistant graphic designer"
+                    },
+                    {
+                        "id": "nm7661456",
+                        "name": "Claude Goyette",
+                        "description": "set designer"
+                    },
+                    {
+                        "id": "nm3559099",
+                        "name": "Sylvain Grenier",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm0359536",
+                        "name": "Martin Handfield",
+                        "description": "lead: on-set props"
+                    },
+                    {
+                        "id": "nm0378266",
+                        "name": "Michael Hentges",
+                        "description": "on-set scenic painter"
+                    },
+                    {
+                        "id": "nm4562855",
+                        "name": "Reno H\u00e9bert",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm5219757",
+                        "name": "Serge Julien",
+                        "description": "head carpenter"
+                    },
+                    {
+                        "id": "nm2760232",
+                        "name": "Dylan La Freni\u00e8re",
+                        "description": "lead greensperson"
+                    },
+                    {
+                        "id": "nm0482388",
+                        "name": "Hans Lalibert\u00e9",
+                        "description": "leadperson"
+                    },
+                    {
+                        "id": "nm2734436",
+                        "name": "Annie Lamarre",
+                        "description": "art department coordinator"
+                    },
+                    {
+                        "id": "nm9244788",
+                        "name": "Michel Lambert",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm0488503",
+                        "name": "Raymond Larose",
+                        "description": "set designer"
+                    },
+                    {
+                        "id": "nm2740761",
+                        "name": "Colin Lavigne",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm11462486",
+                        "name": "Prescillia Dumont LeBlanc",
+                        "description": "assistant painter"
+                    },
+                    {
+                        "id": "nm11462581",
+                        "name": "Valerie Leclair",
+                        "description": "assistant props"
+                    },
+                    {
+                        "id": "nm5220133",
+                        "name": "Ann Leduc",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm9765054",
+                        "name": "Jean-Philippe Lefebvre",
+                        "description": "greens (as Philippe Lefebvre)"
+                    },
+                    {
+                        "id": "nm0504301",
+                        "name": "Carl Lessard",
+                        "description": "supervising graphic designer"
+                    },
+                    {
+                        "id": "nm5674544",
+                        "name": "Oleksandra Lykova",
+                        "description": "model maker"
+                    },
+                    {
+                        "id": "nm11462485",
+                        "name": "Marie-Eve Marceau",
+                        "description": "assistant painter"
+                    },
+                    {
+                        "id": "nm9060114",
+                        "name": "Michael Menard",
+                        "description": "armourer"
+                    },
+                    {
+                        "id": "nm4660965",
+                        "name": "Jackie Morin",
+                        "description": "sculptor/moulder"
+                    },
+                    {
+                        "id": "nm3656832",
+                        "name": "Jason Nardella",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm3558954",
+                        "name": "Xavier Nolet",
+                        "description": "assistant: lead greensperson"
+                    },
+                    {
+                        "id": "nm5220368",
+                        "name": "Mar-Antoine Paquet",
+                        "description": "sculptor (as Marc-Antoine Paquet)"
+                    },
+                    {
+                        "id": "nm11462479",
+                        "name": "Jean-Fran\u00e7oise Portelance",
+                        "description": "art department runner"
+                    },
+                    {
+                        "id": "nm11462262",
+                        "name": "Isabelle Potvin",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm3225240",
+                        "name": "Thomas Pringle",
+                        "description": "concept illustrator"
+                    },
+                    {
+                        "id": "nm11462260",
+                        "name": "Rodrigo Rojas",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm9375140",
+                        "name": "Marie-F\u00e9lixe Roy",
+                        "description": "on-set greensperson"
+                    },
+                    {
+                        "id": "nm4354694",
+                        "name": "Kathleen Speight",
+                        "description": "assistant on-set dresser"
+                    },
+                    {
+                        "id": "nm3620181",
+                        "name": "Jessica Surendorff",
+                        "description": "greens (as Jessica Surendorff Auclair)"
+                    },
+                    {
+                        "id": "nm4703947",
+                        "name": "Simon Theberge",
+                        "description": "set designer"
+                    },
+                    {
+                        "id": "nm11462263",
+                        "name": "Lola Thirard",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm0860694",
+                        "name": "Scott Thompson",
+                        "description": "assistant head sculptor"
+                    },
+                    {
+                        "id": "nm7705724",
+                        "name": "Val\u00e8rie Tremblay",
+                        "description": "assistant props"
+                    },
+                    {
+                        "id": "nm2354453",
+                        "name": "Viviane Vall\u00e9e",
+                        "description": "art department coordinator"
+                    },
+                    {
+                        "id": "nm0911857",
+                        "name": "Steve Ward",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm11462576",
+                        "name": "Aaron Zak",
+                        "description": "sculptor"
+                    },
+                    {
+                        "id": "nm11462261",
+                        "name": "Olya Zarapina",
+                        "description": "greens"
+                    },
+                    {
+                        "id": "nm9020965",
+                        "name": "Audrey Ejdelman",
+                        "description": "concept artist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0007321",
+                        "name": "Erik Aadahl",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0010426",
+                        "name": "Deb Adair",
+                        "description": "Re-Recording Mixer"
+                    },
+                    {
+                        "id": "nm0045302",
+                        "name": "David Bach",
+                        "description": "dialogue/adr supervisor"
+                    },
+                    {
+                        "id": "nm0047768",
+                        "name": "Steve Baine",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm3191956",
+                        "name": "Malte Bieler",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0124886",
+                        "name": "David V. Butler",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm3935976",
+                        "name": "Matt Cavanaugh",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm2501846",
+                        "name": "Justin M. Davey",
+                        "description": "Dialogue & ADR Supervisor / sound effects editor"
+                    },
+                    {
+                        "id": "nm4543289",
+                        "name": "Chris Diebold",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0272710",
+                        "name": "Maxime Ferland",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm5657741",
+                        "name": "Kevin Froines",
+                        "description": "re-recording mix technician"
+                    },
+                    {
+                        "id": "nm3356986",
+                        "name": "S\u00e9bastien Froment",
+                        "description": "sound assistant"
+                    },
+                    {
+                        "id": "nm2674339",
+                        "name": "Casey Genton",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0332588",
+                        "name": "Simon Goulet",
+                        "description": "sound mixer: second unit"
+                    },
+                    {
+                        "id": "nm3032449",
+                        "name": "Justin Herman",
+                        "description": "mix stage engineer"
+                    },
+                    {
+                        "id": "nm0379559",
+                        "name": "Edward J. Hernandez",
+                        "description": "Re-Recording Engineer (as Edward Hernandez)"
+                    },
+                    {
+                        "id": "nm0421174",
+                        "name": "Jason W. Jennings",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm3232576",
+                        "name": "Brandon Jones",
+                        "description": "Re-Recording Mixer / sound designer"
+                    },
+                    {
+                        "id": "nm1652010",
+                        "name": "Bob Kellough",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0651547",
+                        "name": "Ralph Osborn",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0675403",
+                        "name": "Peter Persaud",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm0693891",
+                        "name": "Simon Poudrette",
+                        "description": "production sound mixer"
+                    },
+                    {
+                        "id": "nm9084874",
+                        "name": "Emma Present",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0836515",
+                        "name": "John C. Stuver",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0886399",
+                        "name": "Ethan Van der Ryn",
+                        "description": "supervising sound editor (as Ethan Van Der Ryn)"
+                    },
+                    {
+                        "id": "nm0909949",
+                        "name": "Tim Walston",
+                        "description": "sound designer"
+                    },
+                    {
+                        "id": "nm6887429",
+                        "name": "Matt Yocum",
+                        "description": "sound designer"
+                    },
+                    {
+                        "id": "nm6113410",
+                        "name": "Kristin Catuogno",
+                        "description": "adr recordist (uncredited)"
+                    },
+                    {
+                        "id": "nm2126570",
+                        "name": "John Chamberlin",
+                        "description": "foreign language mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm0269291",
+                        "name": "Jeff Faustman",
+                        "description": "sound designer (uncredited)"
+                    },
+                    {
+                        "id": "nm0350447",
+                        "name": "Gina Gyles",
+                        "description": "foley assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0383655",
+                        "name": "Bill Higley",
+                        "description": "adr mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm4927021",
+                        "name": "Mariusz Langner",
+                        "description": "audio description recordist (uncredited)"
+                    },
+                    {
+                        "id": "nm6281956",
+                        "name": "Adri\u00e0 Mateu",
+                        "description": "spanish dubbing recordist (uncredited)"
+                    },
+                    {
+                        "id": "nm1707290",
+                        "name": "Jason Oliver",
+                        "description": "adr mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm0760851",
+                        "name": "Carlos Sanches",
+                        "description": "foreign dubbing mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm1720468",
+                        "name": "Kathie Talbot",
+                        "description": "sound and vocal design: trailer (uncredited)"
+                    },
+                    {
+                        "id": "nm7444381",
+                        "name": "Ted Teske",
+                        "description": "Re-Recording Mixer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm3126487",
+                        "name": "Dana Campbell",
+                        "description": "special effects floor manager"
+                    },
+                    {
+                        "id": "nm0153603",
+                        "name": "Georges Chartrand",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0185942",
+                        "name": "Louis Craig",
+                        "description": "special effects supervisor"
+                    },
+                    {
+                        "id": "nm1951251",
+                        "name": "Jean-Martin Desmarais",
+                        "description": "special effects technician: designer"
+                    },
+                    {
+                        "id": "nm2813727",
+                        "name": "Peter Ejupovic",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0287286",
+                        "name": "Andr\u00e9 Fortin",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm4828766",
+                        "name": "Marc Godding",
+                        "description": "assistant special effects technician"
+                    },
+                    {
+                        "id": "nm3366851",
+                        "name": "Stacey Godding",
+                        "description": "assistant special effects technician"
+                    },
+                    {
+                        "id": "nm11462582",
+                        "name": "Fran\u00e7ois Laurion",
+                        "description": "head special effects: rigger"
+                    },
+                    {
+                        "id": "nm1080547",
+                        "name": "Denis Lavigne",
+                        "description": "special effects coordinator"
+                    },
+                    {
+                        "id": "nm1642555",
+                        "name": "Vincent Marion",
+                        "description": "special effects: second company"
+                    },
+                    {
+                        "id": "nm0660756",
+                        "name": "Eric-Andr\u00e9 Paquin",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm8279065",
+                        "name": "Kenneth Wiliamson",
+                        "description": "special effects technician"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm11226990",
+                        "name": "Saravana Kumar A.",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm10837840",
+                        "name": "Ameya Adchule",
+                        "description": "compositing co-lead"
+                    },
+                    {
+                        "id": "nm8978637",
+                        "name": "David Agudelo",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm10898871",
+                        "name": "AyushSaraogi",
+                        "description": "digital matte painter"
+                    },
+                    {
+                        "id": "nm7166746",
+                        "name": "Cyril Balavoine",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm11462585",
+                        "name": "David Bocquillon",
+                        "description": "digital mattepainting artist"
+                    },
+                    {
+                        "id": "nm10682564",
+                        "name": "Rakesha C.R.",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm8145281",
+                        "name": "Andrew Carruthers",
+                        "description": "additional visual effects coordinator: Mr. X Inc."
+                    },
+                    {
+                        "id": "nm8361968",
+                        "name": "Camille Charpigny",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm4255628",
+                        "name": "Guillaume Charron",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm9987579",
+                        "name": "Jessica Chiarella",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm5289483",
+                        "name": "Christopher Collis",
+                        "description": "visual effects editor: Mr. X"
+                    },
+                    {
+                        "id": "nm11462586",
+                        "name": "Gilles De Saint-Aubert",
+                        "description": "pipeline developer"
+                    },
+                    {
+                        "id": "nm7383974",
+                        "name": "Kunal Dhawan",
+                        "description": "additional visual effects coordinator: Mr. X Inc."
+                    },
+                    {
+                        "id": "nm11462584",
+                        "name": "Mike DiCarlo",
+                        "description": "visual effects producer: Mr. X"
+                    },
+                    {
+                        "id": "nm1081071",
+                        "name": "Jeremy Dineen",
+                        "description": "cg effects lead"
+                    },
+                    {
+                        "id": "nm8472346",
+                        "name": "Paul Docherty",
+                        "description": "visual effects production manager"
+                    },
+                    {
+                        "id": "nm8663534",
+                        "name": "Selena Farkas",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm2679868",
+                        "name": "Naomi Foakes",
+                        "description": "resource manager"
+                    },
+                    {
+                        "id": "nm3996038",
+                        "name": "J\u00e9r\u00f4me Foucout",
+                        "description": "compositing supervisor: MrX"
+                    },
+                    {
+                        "id": "nm1673377",
+                        "name": "Fabien F\u00e9licit\u00e9",
+                        "description": "compositor (as Fabien F\u00e9licit\u00e9-Zulma)"
+                    },
+                    {
+                        "id": "nm8086179",
+                        "name": "Shania Gharagozlou",
+                        "description": "visual effects coordinator (as Shania Gharagozlou-Mina)"
+                    },
+                    {
+                        "id": "nm6324939",
+                        "name": "Mark Gordon",
+                        "description": "senior compositor"
+                    },
+                    {
+                        "id": "nm3871115",
+                        "name": "Xavier Goubin",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm6270547",
+                        "name": "Jeanlin Guillaume",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm8266198",
+                        "name": "Carlota Guti\u00e9rrez Pou",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm1435674",
+                        "name": "Thomas Hall\u00e9",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm3426659",
+                        "name": "Damien Hurgon",
+                        "description": "visual effects supervisor: Mr.X"
+                    },
+                    {
+                        "id": "nm11462264",
+                        "name": "Jafin Jacob",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm7850288",
+                        "name": "Jordan Jardine",
+                        "description": "digital mattepainting artist"
+                    },
+                    {
+                        "id": "nm2820151",
+                        "name": "Dragos Jieanu",
+                        "description": "senior matte painter"
+                    },
+                    {
+                        "id": "nm11226986",
+                        "name": "Rahul K.R.",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm9055173",
+                        "name": "K. Karthikeyan",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm11462266",
+                        "name": "R. Sathesh Kumar",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm2227237",
+                        "name": "Jean-Francois Lafleur",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm6413314",
+                        "name": "Maria Ximena Lozano",
+                        "description": "resource manager (as Maria Lozano)"
+                    },
+                    {
+                        "id": "nm9179013",
+                        "name": "Matheus Marques",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm8233233",
+                        "name": "Laura Martin",
+                        "description": "digital mattepainting artist / matte painter"
+                    },
+                    {
+                        "id": "nm1228269",
+                        "name": "Sarah McMurdo",
+                        "description": "supervising visual effects producer: Mr. X"
+                    },
+                    {
+                        "id": "nm11253755",
+                        "name": "Seungki Min",
+                        "description": "operations (as Sungki Min)"
+                    },
+                    {
+                        "id": "nm11462267",
+                        "name": "Niju Krishnan Mohandas",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm7188199",
+                        "name": "Trevor Moniz",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm7906334",
+                        "name": "Rapha\u00ebl Moreault-Truchon",
+                        "description": "compositor (as Raphael Moreault)"
+                    },
+                    {
+                        "id": "nm4496021",
+                        "name": "Vincent M\u00e9nard",
+                        "description": "visual effects coordinator"
+                    },
+                    {
+                        "id": "nm11462265",
+                        "name": "Manickam Pachamuthu",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm3380866",
+                        "name": "Suresh Pandi",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm11462587",
+                        "name": "Vita Pardales",
+                        "description": "operations"
+                    },
+                    {
+                        "id": "nm9168162",
+                        "name": "Graham Peddie",
+                        "description": "studio manager"
+                    },
+                    {
+                        "id": "nm8302717",
+                        "name": "Jason Pereira",
+                        "description": "additional visual effects coordinator: Mr. X Inc."
+                    },
+                    {
+                        "id": "nm7899818",
+                        "name": "Rohan Ponda",
+                        "description": "lighting artist"
+                    },
+                    {
+                        "id": "nm9987589",
+                        "name": "Karthik R.L.",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm7274777",
+                        "name": "Jacquelyn Racine",
+                        "description": "visual effects coordinator: Paramount Pictures"
+                    },
+                    {
+                        "id": "nm2738092",
+                        "name": "Andrey Ragozin",
+                        "description": "visual effects editor"
+                    },
+                    {
+                        "id": "nm4229151",
+                        "name": "Am\u00e9lie Rey",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm10682577",
+                        "name": "Neha Kiran Sadre",
+                        "description": "additional visual effects coordinator: Mr. X Inc."
+                    },
+                    {
+                        "id": "nm10298473",
+                        "name": "Rosa Sanchez",
+                        "description": "visual effects editor: Mr. X"
+                    },
+                    {
+                        "id": "nm9900609",
+                        "name": "Sergei Sarichev",
+                        "description": "concept artist: Mr. X / digital matte painting lead"
+                    },
+                    {
+                        "id": "nm0774362",
+                        "name": "Ben Schoen",
+                        "description": "end titles: Scarlet Letters"
+                    },
+                    {
+                        "id": "nm5918379",
+                        "name": "Josh Schoen",
+                        "description": "end titles: Scarlet Letters"
+                    },
+                    {
+                        "id": "nm11462268",
+                        "name": "Vidushi Singh",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm11420728",
+                        "name": "Priya Sinha",
+                        "description": "prep/rotoscope artist"
+                    },
+                    {
+                        "id": "nm5617502",
+                        "name": "Patrick Taillefer",
+                        "description": "tracking and layout artist"
+                    },
+                    {
+                        "id": "nm10579312",
+                        "name": "Stephen Trepanier",
+                        "description": "visual effects dailies editor"
+                    },
+                    {
+                        "id": "nm8214307",
+                        "name": "Valentin Tuil",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm3704304",
+                        "name": "Alexis Turb\u00e9",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm4567234",
+                        "name": "Rahul Venugopal",
+                        "description": "digital mattepainting artist"
+                    },
+                    {
+                        "id": "nm10166917",
+                        "name": "Anita Vergara-Alarcon",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm7086650",
+                        "name": "Zhujun Bamboo Wang",
+                        "description": "CG effects artist (as Zhugun Wang)"
+                    },
+                    {
+                        "id": "nm3122522",
+                        "name": "Cleiton Wiggers Werncke",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm1657347",
+                        "name": "Kyle Yoneda",
+                        "description": "head of effects"
+                    },
+                    {
+                        "id": "nm7250292",
+                        "name": "Hao Zhang",
+                        "description": "operations"
+                    },
+                    {
+                        "id": "nm10682448",
+                        "name": "Lambert Ass\u00e9mat",
+                        "description": "animator/rigger (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm3358621",
+                        "name": "Derek Barnes",
+                        "description": "utility stunts"
+                    },
+                    {
+                        "id": "nm0068497",
+                        "name": "Ron Bell",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0128211",
+                        "name": "Alexandre Cadieux",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm2162264",
+                        "name": "Sharon Canovas",
+                        "description": "stunt double: Alyssa Brooke Levine"
+                    },
+                    {
+                        "id": "nm9759373",
+                        "name": "Amanda Dellapenta",
+                        "description": "stunt double"
+                    },
+                    {
+                        "id": "nm0294252",
+                        "name": "Jean Frenette",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm2942174",
+                        "name": "Naomi Frenette",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm2854706",
+                        "name": "Stephannie Hawkins",
+                        "description": "stunt double: Rachel"
+                    },
+                    {
+                        "id": "nm1122584",
+                        "name": "St\u00e9phane Julien",
+                        "description": "stunt double: Louis Creed"
+                    },
+                    {
+                        "id": "nm0482389",
+                        "name": "H\u00e9l\u00e9na Lalibert\u00e9",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0571652",
+                        "name": "David McKeown",
+                        "description": "stunt coordinator (as Dave McKeown)"
+                    },
+                    {
+                        "id": "nm8384893",
+                        "name": "Jesse Provencher",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm4283163",
+                        "name": "Bas Reitsma",
+                        "description": "stunt double: John Lithgow"
+                    },
+                    {
+                        "id": "nm7414626",
+                        "name": "Stephane Savard",
+                        "description": "stunt rigger"
+                    },
+                    {
+                        "id": "nm2762114",
+                        "name": "Pascal Souvay",
+                        "description": "stunt rigger"
+                    },
+                    {
+                        "id": "nm2760171",
+                        "name": "Philippe Souvay",
+                        "description": "stunt rigger"
+                    },
+                    {
+                        "id": "nm2661298",
+                        "name": "Martin St-Antoine",
+                        "description": "head stunt rigger"
+                    },
+                    {
+                        "id": "nm0830441",
+                        "name": "Suzi Stingl",
+                        "description": "stunt double: Ellie"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm1663137",
+                        "name": "Olivia Aravecchia",
+                        "description": "second assistant photographer"
+                    },
+                    {
+                        "id": "nm10885363",
+                        "name": "Felix Bellehumeur-Lemay",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm1121980",
+                        "name": "Alexandre Bouchard",
+                        "description": "second company rigging grip"
+                    },
+                    {
+                        "id": "nm7441293",
+                        "name": "Pierre-Luc Bouchard",
+                        "description": "leadperson grip"
+                    },
+                    {
+                        "id": "nm0121029",
+                        "name": "Benoit Bureau",
+                        "description": "first company grip"
+                    },
+                    {
+                        "id": "nm2424958",
+                        "name": "Moni Caballero",
+                        "description": "electrician (as Monico Caballero)"
+                    },
+                    {
+                        "id": "nm3930675",
+                        "name": "Jean-S\u00e9bastien Caron",
+                        "description": "second unit steadicam operator"
+                    },
+                    {
+                        "id": "nm3856176",
+                        "name": "Charles Castonguay",
+                        "description": "video assist"
+                    },
+                    {
+                        "id": "nm0152954",
+                        "name": "Marc Charlebois",
+                        "description": "second unit camera operator"
+                    },
+                    {
+                        "id": "nm0160790",
+                        "name": "Daniel Chr\u00e9tien Jr.",
+                        "description": "rigging electric"
+                    },
+                    {
+                        "id": "nm0166412",
+                        "name": "Joost Clerinx",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm2733421",
+                        "name": "Benoit Daoust",
+                        "description": "second company rigging grip"
+                    },
+                    {
+                        "id": "nm1861135",
+                        "name": "Michael Darby",
+                        "description": "motion control operator"
+                    },
+                    {
+                        "id": "nm1014655",
+                        "name": "Pierre Daudelin",
+                        "description": "assistant chief lighting technician"
+                    },
+                    {
+                        "id": "nm1627213",
+                        "name": "David Desgroseillers",
+                        "description": "chief rigging electrician"
+                    },
+                    {
+                        "id": "nm1211725",
+                        "name": "David Dinel",
+                        "description": "crane technician"
+                    },
+                    {
+                        "id": "nm0300974",
+                        "name": "Eames Gagnon",
+                        "description": "chief lighting technician"
+                    },
+                    {
+                        "id": "nm1005343",
+                        "name": "Martin Gagnon",
+                        "description": "first company rigging grip"
+                    },
+                    {
+                        "id": "nm1040103",
+                        "name": "Claude Gervais",
+                        "description": "camera grip"
+                    },
+                    {
+                        "id": "nm1752328",
+                        "name": "St\u00e9phanie Girard-Hamelin",
+                        "description": "video coordinator"
+                    },
+                    {
+                        "id": "nm1007088",
+                        "name": "R\u00e9mi Giroux",
+                        "description": "second company grip"
+                    },
+                    {
+                        "id": "nm1061163",
+                        "name": "Dan Goyens",
+                        "description": "electrician (as Daniel Goyens)"
+                    },
+                    {
+                        "id": "nm6303450",
+                        "name": "Benjamin Granet",
+                        "description": "remote head technician"
+                    },
+                    {
+                        "id": "nm7356627",
+                        "name": "Austin Grass",
+                        "description": "stabilized remote head operator"
+                    },
+                    {
+                        "id": "nm0996968",
+                        "name": "Marie-Pierre Gratton",
+                        "description": "b second assistant: photographer"
+                    },
+                    {
+                        "id": "nm11462487",
+                        "name": "Rene Guillard",
+                        "description": "chief lighting technician: second unit"
+                    },
+                    {
+                        "id": "nm0371104",
+                        "name": "Kerry Hayes",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm4485594",
+                        "name": "Marc H\u00e9naut",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm1902585",
+                        "name": "Soupharak Keoborakoth",
+                        "description": "a: second assistant photographer"
+                    },
+                    {
+                        "id": "nm7232833",
+                        "name": "Isabelle Lauzon",
+                        "description": "Camera utility"
+                    },
+                    {
+                        "id": "nm2564327",
+                        "name": "Constant Lavall\u00e9e",
+                        "description": "leadperson: electrician"
+                    },
+                    {
+                        "id": "nm0495582",
+                        "name": "Martin Lebel",
+                        "description": "b first assistant: photographer"
+                    },
+                    {
+                        "id": "nm0496199",
+                        "name": "Martine Leclerc",
+                        "description": "c camera operator"
+                    },
+                    {
+                        "id": "nm5726450",
+                        "name": "Kenneth Mackenzie",
+                        "description": "first company grip"
+                    },
+                    {
+                        "id": "nm0533751",
+                        "name": "Brad MacLean",
+                        "description": "daily grip: operator"
+                    },
+                    {
+                        "id": "nm4690635",
+                        "name": "\u00c9milie Marchand",
+                        "description": "video assist"
+                    },
+                    {
+                        "id": "nm1153744",
+                        "name": "Daniel Moise",
+                        "description": "libra head technician"
+                    },
+                    {
+                        "id": "nm9485192",
+                        "name": "Patrick Pereira",
+                        "description": "truck grip"
+                    },
+                    {
+                        "id": "nm2200123",
+                        "name": "Genevi\u00e8ve Perron",
+                        "description": "b camera operator / second unit director of photography"
+                    },
+                    {
+                        "id": "nm0705171",
+                        "name": "Dany Racine",
+                        "description": "first assistant camera: \"a\" camera"
+                    },
+                    {
+                        "id": "nm0713374",
+                        "name": "S\u00e9bastien Raymond",
+                        "description": "additional still photographer"
+                    },
+                    {
+                        "id": "nm4484006",
+                        "name": "Leon Rivers-Moore",
+                        "description": "Digital Imaging Technician"
+                    },
+                    {
+                        "id": "nm1015512",
+                        "name": "Daniel Robidoux",
+                        "description": "first company rigging grip"
+                    },
+                    {
+                        "id": "nm9168419",
+                        "name": "Patrick St-Arnaud",
+                        "description": "UAV camera operator"
+                    },
+                    {
+                        "id": "nm0820353",
+                        "name": "Geoffroy St-Hilaire",
+                        "description": "a camera and steadicam operator"
+                    },
+                    {
+                        "id": "nm8622796",
+                        "name": "Melanie St-Pierre",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm3269964",
+                        "name": "Lena Stolarska",
+                        "description": "camera trainee"
+                    },
+                    {
+                        "id": "nm2312386",
+                        "name": "Sean Sweeney",
+                        "description": "digital imaging technician: additional photography"
+                    },
+                    {
+                        "id": "nm4458703",
+                        "name": "Marc-Antoine Theriault-Daunais",
+                        "description": "lighting board operator"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm8241768",
+                        "name": "Faith Abraham",
+                        "description": "casting assistant"
+                    },
+                    {
+                        "id": "nm0107887",
+                        "name": "Julie Breton",
+                        "description": "background casting"
+                    },
+                    {
+                        "id": "nm2750262",
+                        "name": "Eddie Jaszek",
+                        "description": "casting associate"
+                    },
+                    {
+                        "id": "nm1842448",
+                        "name": "Ashley Lambert",
+                        "description": "adr voice casting"
+                    },
+                    {
+                        "id": "nm10516590",
+                        "name": "Arianna Trames",
+                        "description": "adr voice casting"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm1548610",
+                        "name": "Anne-Laure Berger",
+                        "description": "wardrobe buyer"
+                    },
+                    {
+                        "id": "nm3072657",
+                        "name": "Faostine Berthet",
+                        "description": "specialized wardrobe technician"
+                    },
+                    {
+                        "id": "nm2875757",
+                        "name": "Jacques Doucet",
+                        "description": "specialized wardrobe technician: cutter"
+                    },
+                    {
+                        "id": "nm5955996",
+                        "name": "Jonathan Girard",
+                        "description": "specialized wardrobe technician: patina"
+                    },
+                    {
+                        "id": "nm2630573",
+                        "name": "Emmanuelle Godbout",
+                        "description": "dresser"
+                    },
+                    {
+                        "id": "nm2338361",
+                        "name": "Monika Her\u00e9di",
+                        "description": "extras dresser"
+                    },
+                    {
+                        "id": "nm1109525",
+                        "name": "A.M.E. Hutchison",
+                        "description": "costume supervisor (as Ame Hutchison)"
+                    },
+                    {
+                        "id": "nm3443415",
+                        "name": "Vania Khandjian",
+                        "description": "dresser"
+                    },
+                    {
+                        "id": "nm4776308",
+                        "name": "Catherine Lord",
+                        "description": "assistant costume designer"
+                    },
+                    {
+                        "id": "nm0617607",
+                        "name": "Marie-H\u00e9l\u00e8ne M\u00e9nard",
+                        "description": "lead dresser"
+                    },
+                    {
+                        "id": "nm0618964",
+                        "name": "Maia Nadon-Chbib",
+                        "description": "wardrobe buyer"
+                    },
+                    {
+                        "id": "nm5220374",
+                        "name": "Sylvie Th\u00e9berge",
+                        "description": "seamstress"
+                    },
+                    {
+                        "id": "nm11462488",
+                        "name": "Felix Tranchemontagne",
+                        "description": "wardrobe technician"
+                    },
+                    {
+                        "id": "nm0871942",
+                        "name": "Madeleine Tremblay",
+                        "description": "wardrobe master"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm8106778",
+                        "name": "Hunter Clancey",
+                        "description": "feature mastering producer"
+                    },
+                    {
+                        "id": "nm2487932",
+                        "name": "Leeza Diott",
+                        "description": "dailies manager"
+                    },
+                    {
+                        "id": "nm3682095",
+                        "name": "Jason Dougherty",
+                        "description": "dailies engineer"
+                    },
+                    {
+                        "id": "nm7489151",
+                        "name": "Monica Escalante",
+                        "description": "assistant colorist"
+                    },
+                    {
+                        "id": "nm3880441",
+                        "name": "Vanessa Galvez",
+                        "description": "finishing producer"
+                    },
+                    {
+                        "id": "nm8399621",
+                        "name": "Jessica Larson",
+                        "description": "post-production assistant"
+                    },
+                    {
+                        "id": "nm8537304",
+                        "name": "Nicholas Lundgren",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm4546902",
+                        "name": "Gabriele McIntyre",
+                        "description": "colorist: dailies"
+                    },
+                    {
+                        "id": "nm2326003",
+                        "name": "Joel McWilliams",
+                        "description": "finishing color assist"
+                    },
+                    {
+                        "id": "nm5672218",
+                        "name": "Lauren Orlowski",
+                        "description": "post-production coordinator"
+                    },
+                    {
+                        "id": "nm0666155",
+                        "name": "Chris Patterson",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm2201664",
+                        "name": "Mitch Paulson",
+                        "description": "supervising digital colorist"
+                    },
+                    {
+                        "id": "nm3503548",
+                        "name": "Steven Pristin",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm2738092",
+                        "name": "Andrey Ragozin",
+                        "description": "Visual Effects Editor"
+                    },
+                    {
+                        "id": "nm9766103",
+                        "name": "Jennifer Raymond",
+                        "description": "finishing editor"
+                    },
+                    {
+                        "id": "nm3803453",
+                        "name": "Stephen Regnier",
+                        "description": "location systems engineer: EC3 Dailies"
+                    },
+                    {
+                        "id": "nm1521469",
+                        "name": "Alexis Ross",
+                        "description": "dailies producer: ec3 dailies"
+                    },
+                    {
+                        "id": "nm8078470",
+                        "name": "Kelsea Williams",
+                        "description": "finishing assistant: producer"
+                    },
+                    {
+                        "id": "nm5784151",
+                        "name": "Julien Archambault",
+                        "description": "dailies producer: Additional photography (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm10628999",
+                        "name": "Alicia Couture",
+                        "description": "on set location"
+                    },
+                    {
+                        "id": "nm0529675",
+                        "name": "Brigitte L\u00e9vesque",
+                        "description": "key assistant location manager"
+                    },
+                    {
+                        "id": "nm0558837",
+                        "name": "Beno\u00eet Mathieu",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm3001244",
+                        "name": "Peo Rousseau",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm10628999",
+                        "name": "Alicia Couture",
+                        "description": "locations scout (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm8219611",
+                        "name": "Christoph Allerstorfer",
+                        "description": "composer: trailer music"
+                    },
+                    {
+                        "id": "nm3690714",
+                        "name": "Jared Banta",
+                        "description": "orchestrator / score coordinator"
+                    },
+                    {
+                        "id": "nm1103834",
+                        "name": "Ramiro Belgardt",
+                        "description": "additional music editor"
+                    },
+                    {
+                        "id": "nm1349812",
+                        "name": "Max Blomgren",
+                        "description": "arrangements / music sound designer"
+                    },
+                    {
+                        "id": "nm0160272",
+                        "name": "Kostas Christides",
+                        "description": "orchestrator / score coordinator"
+                    },
+                    {
+                        "id": "nm5313529",
+                        "name": "Nicholas Fitzgerald",
+                        "description": "additional music editor"
+                    },
+                    {
+                        "id": "nm6084355",
+                        "name": "Gerrit Kinkel",
+                        "description": "trailer music composer"
+                    },
+                    {
+                        "id": "nm7947967",
+                        "name": "John Jae Lee",
+                        "description": "arrangements (as Jung J Lee) / music sound designer (as Jung J Lee)"
+                    },
+                    {
+                        "id": "nm4951849",
+                        "name": "Daniel Lepervanche",
+                        "description": "composer: trailer music"
+                    },
+                    {
+                        "id": "nm11462489",
+                        "name": "Vee Noriega",
+                        "description": "assistant to composer"
+                    },
+                    {
+                        "id": "nm5842170",
+                        "name": "Gregory Reveret",
+                        "description": "music arrangements / music sound designer"
+                    },
+                    {
+                        "id": "nm5619151",
+                        "name": "David James Rosen",
+                        "description": "composer: trailer"
+                    },
+                    {
+                        "id": "nm0745448",
+                        "name": "Peter Rotter",
+                        "description": "music contractor"
+                    },
+                    {
+                        "id": "nm1400866",
+                        "name": "Ben Schor",
+                        "description": "supervising music editor/score producer"
+                    },
+                    {
+                        "id": "nm7275470",
+                        "name": "Michael Shlafman",
+                        "description": "additional orchestrator"
+                    },
+                    {
+                        "id": "nm0819201",
+                        "name": "Del Spiva",
+                        "description": "additional music editor"
+                    },
+                    {
+                        "id": "nm7237675",
+                        "name": "Denis Surov",
+                        "description": "composer: trailer music"
+                    },
+                    {
+                        "id": "nm3743288",
+                        "name": "Areli Quirarte",
+                        "description": "music supervisor (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm11243749",
+                        "name": "Xerxes Pordely",
+                        "description": "executive script consultant"
+                    },
+                    {
+                        "id": "nm0871903",
+                        "name": "Elizabeth Tremblay",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm5264162",
+                        "name": "Marc Arsenault",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm2426302",
+                        "name": "Pierre Olivier Ch\u00e9nard",
+                        "description": "transportation coordinator (as Peo Chenard)"
+                    },
+                    {
+                        "id": "nm11462583",
+                        "name": "Maxime Cote",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm6284843",
+                        "name": "Alexandre Desbiens",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm8496813",
+                        "name": "Sandro Di Gioacchino",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm8740142",
+                        "name": "David Dufresne",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm2190756",
+                        "name": "Philippe Gilbert",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm1411215",
+                        "name": "Bernard Guay",
+                        "description": "unit driver"
+                    },
+                    {
+                        "id": "nm0396532",
+                        "name": "Vincent Houle",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm0399518",
+                        "name": "Roy Hubler",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm8496814",
+                        "name": "Victor Lafond",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm0558889",
+                        "name": "Tasso Mathiopoulos",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm0664168",
+                        "name": "Eric Par\u00e9",
+                        "description": "operator: passenger vehicle, specialized"
+                    },
+                    {
+                        "id": "nm7220803",
+                        "name": "Martin Patrice",
+                        "description": "operator: passenger vehicle"
+                    },
+                    {
+                        "id": "nm2935580",
+                        "name": "Michel Robert",
+                        "description": "basecamp operator"
+                    },
+                    {
+                        "id": "nm0875182",
+                        "name": "Spiro Tsovras",
+                        "description": "Driver: Lorenzo di Bonaventura / operator: passenger vehicle"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0030363",
+                        "name": "Michael Annett",
+                        "description": "first assistant accountant"
+                    },
+                    {
+                        "id": "nm3794270",
+                        "name": "Marcello Baccala",
+                        "description": "stand-in/photo-double"
+                    },
+                    {
+                        "id": "nm1997162",
+                        "name": "Rosana Bruni",
+                        "description": "payroll accountant"
+                    },
+                    {
+                        "id": "nm7433570",
+                        "name": "Micaela Cain",
+                        "description": "Production Finance Coordinator"
+                    },
+                    {
+                        "id": "nm0135385",
+                        "name": "Alain Caporicci",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm2852972",
+                        "name": "Sam Carmichael",
+                        "description": "senior coordinator: Paramount Pictures"
+                    },
+                    {
+                        "id": "nm0152702",
+                        "name": "Sylvain Chaput",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm10051836",
+                        "name": "Greg Cohen",
+                        "description": "assistant: to Mr. di Bonaventura (as Gregory Cohen)"
+                    },
+                    {
+                        "id": "nm6484704",
+                        "name": "Ben Daves",
+                        "description": "Studio Coordinator"
+                    },
+                    {
+                        "id": "nm11462594",
+                        "name": "Paula Davis",
+                        "description": "acting coach"
+                    },
+                    {
+                        "id": "nm10268311",
+                        "name": "Jan de Calbiac",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm2496288",
+                        "name": "Puelo Deir",
+                        "description": "Unit Publicist"
+                    },
+                    {
+                        "id": "nm4899566",
+                        "name": "Deborah Dom\u00ednguez",
+                        "description": "SUB Supervisor"
+                    },
+                    {
+                        "id": "nm11104095",
+                        "name": "David Dub\u00e9",
+                        "description": "Set Production Assistant"
+                    },
+                    {
+                        "id": "nm7974682",
+                        "name": "Audrey Fallu",
+                        "description": "production secretary"
+                    },
+                    {
+                        "id": "nm5587169",
+                        "name": "Alex Feldman",
+                        "description": "Assistant Production Coordinator"
+                    },
+                    {
+                        "id": "nm10058225",
+                        "name": "Lucinda Fortin",
+                        "description": "catering staff"
+                    },
+                    {
+                        "id": "nm1509249",
+                        "name": "Yvan Francoeur",
+                        "description": "production office runner"
+                    },
+                    {
+                        "id": "nm9789539",
+                        "name": "Camille Gagnon-Chalifour",
+                        "description": "assistant: to Mr. K\u00f6lsch and Mr. Widmyer (as Camille Gagnon)"
+                    },
+                    {
+                        "id": "nm7856596",
+                        "name": "Camilo Gomez",
+                        "description": "2nd assistant accountant"
+                    },
+                    {
+                        "id": "nm11462592",
+                        "name": "Tanya Graham",
+                        "description": "groomer"
+                    },
+                    {
+                        "id": "nm1411215",
+                        "name": "Bernard Guay",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm2635012",
+                        "name": "Dan Harder",
+                        "description": "production safety"
+                    },
+                    {
+                        "id": "nm11298590",
+                        "name": "Robert Harrison",
+                        "description": "medic"
+                    },
+                    {
+                        "id": "nm11501142",
+                        "name": "Sheima Hassanlou",
+                        "description": "Main Titles Producer: title sequence"
+                    },
+                    {
+                        "id": "nm1701567",
+                        "name": "Benjamin Hatcher",
+                        "description": "stand-in/photo-double"
+                    },
+                    {
+                        "id": "nm11462593",
+                        "name": "Keith Hightower",
+                        "description": "safety consultant"
+                    },
+                    {
+                        "id": "nm0418952",
+                        "name": "Kirk Jarrett",
+                        "description": "animal coordinator"
+                    },
+                    {
+                        "id": "nm3706834",
+                        "name": "Alyssa Joseph",
+                        "description": "distribution and marketing"
+                    },
+                    {
+                        "id": "nm0430613",
+                        "name": "Jean-Patrick Joseph",
+                        "description": "special equipment supplier"
+                    },
+                    {
+                        "id": "nm7530765",
+                        "name": "Ali Khaleghi",
+                        "description": "2nd assistant accountant"
+                    },
+                    {
+                        "id": "nm6665510",
+                        "name": "Marine Lacour",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm11462590",
+                        "name": "Miguel Lambert",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm8544662",
+                        "name": "Charles Lamoureux",
+                        "description": "second unit production assistant"
+                    },
+                    {
+                        "id": "nm2280461",
+                        "name": "Eric LaPointe",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm5579560",
+                        "name": "Jean-Marc Larivi\u00e8re",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm5426746",
+                        "name": "Nina Lauren",
+                        "description": "photo double / stand-in: Amy Seimetz"
+                    },
+                    {
+                        "id": "nm9070603",
+                        "name": "Martin Lemire",
+                        "description": "drone pilot"
+                    },
+                    {
+                        "id": "nm6236584",
+                        "name": "Daniel Lepage",
+                        "description": "medic"
+                    },
+                    {
+                        "id": "nm7500405",
+                        "name": "Kate Maudlin",
+                        "description": "assistant to the executive in charge of production"
+                    },
+                    {
+                        "id": "nm11462591",
+                        "name": "Lindsay McCaw",
+                        "description": "assistant trainer"
+                    },
+                    {
+                        "id": "nm1990065",
+                        "name": "Kyla McFeat",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm5408412",
+                        "name": "Daniel McGraw",
+                        "description": "production staff"
+                    },
+                    {
+                        "id": "nm9853683",
+                        "name": "Jonathan Meunier",
+                        "description": "set production assistant (as Jonathan Meunier-Gagne)"
+                    },
+                    {
+                        "id": "nm2291165",
+                        "name": "David Midgen",
+                        "description": "main titles producer"
+                    },
+                    {
+                        "id": "nm10159395",
+                        "name": "Melissa Millett",
+                        "description": "lead trainer"
+                    },
+                    {
+                        "id": "nm9952858",
+                        "name": "Stewart Scott Mitchell",
+                        "description": "production resources"
+                    },
+                    {
+                        "id": "nm1006058",
+                        "name": "Martin Monette",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm9952103",
+                        "name": "Thomas Noel",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm11068201",
+                        "name": "Capri Oliver",
+                        "description": "additional voice"
+                    },
+                    {
+                        "id": "nm6294459",
+                        "name": "Lily Oliver",
+                        "description": "additional voice"
+                    },
+                    {
+                        "id": "nm11462589",
+                        "name": "Laurence Ouellet",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0690139",
+                        "name": "Serge Pominville",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm8019580",
+                        "name": "Stephanie Proulx",
+                        "description": "second assistant accountant"
+                    },
+                    {
+                        "id": "nm10051841",
+                        "name": "Kiran Pulinthitta",
+                        "description": "assistant: to Mr. Vahradian"
+                    },
+                    {
+                        "id": "nm10145096",
+                        "name": "Sylvain Savard",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm9001065",
+                        "name": "Tristan Stevens",
+                        "description": "assistant: to Mr. Moran"
+                    },
+                    {
+                        "id": "nm11462588",
+                        "name": "Andrea Swallow",
+                        "description": "receptionist"
+                    },
+                    {
+                        "id": "nm0859093",
+                        "name": "Kathy Ann Thomas",
+                        "description": "production coordinator (as Kathy-Ann Thomas)"
+                    },
+                    {
+                        "id": "nm6653943",
+                        "name": "Ella Thompson",
+                        "description": "researcher"
+                    },
+                    {
+                        "id": "nm5898155",
+                        "name": "Kirsten Tobey",
+                        "description": "production finance coordinator"
+                    },
+                    {
+                        "id": "nm7984736",
+                        "name": "Pierre-Marc Tremblay Grandbois",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm1763979",
+                        "name": "Brian Whissell",
+                        "description": "accounting clerk"
+                    },
+                    {
+                        "id": "nm5918371",
+                        "name": "Tauren Wrate",
+                        "description": "first assistant accountant: USA"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm1112543",
+                        "name": "Nat Mundel",
+                        "description": "special thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Horror, Mystery, Thriller",
+    "genreList": [
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Paramount Pictures, Di Bonaventura Pictures, Room 101",
+    "companyList": [
+        {
+            "id": "co0023400",
+            "name": "Paramount Pictures"
+        },
+        {
+            "id": "co0117723",
+            "name": "Di Bonaventura Pictures"
+        },
+        {
+            "id": "co0203017",
+            "name": "Room 101"
+        }
+    ],
+    "countries": "USA, Canada",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        },
+        {
+            "key": "Canada",
+            "value": "Canada"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "5.7",
+    "imDbRatingVotes": "76953",
+    "metacriticRating": "57",
+    "ratings": {
+        "imDbId": "tt0837563",
+        "title": "Pet Sematary",
+        "fullTitle": "Pet Sematary (2019)",
+        "type": "Movie",
+        "year": "2019",
+        "imDb": "5.7",
+        "metacritic": "57",
+        "theMovieDb": "5.7",
+        "rottenTomatoes": "58",
+        "tV_com": "",
+        "filmAffinity": "5.1",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0837563",
+        "title": "Pet Sematary",
+        "fullTitle": "Pet Sematary (2019)",
+        "type": "Movie",
+        "year": "2019",
+        "language": "en",
+        "titleInLanguage": "Pet Sematary (2019 film)",
+        "url": "https://en.wikipedia.org/wiki/Pet_Sematary_(2019_film)",
+        "plotShort": {
+            "plainText": "Pet Sematary (2019 film)\r\nPet Sematary is a 2019 American supernatural horror film directed by Kevin K\u00f6lsch and Dennis Widmyer and written by Jeff Buhler, from a screen story by Matt Greenberg. It is the second adaptation of the 1983 novel of the same name by Stephen King, after the 1989 film. The film stars Jason Clarke, Amy Seimetz, and John Lithgow, and follows a family that discovers a mysterious graveyard in the woods behind their new home.\r\nTalks for a new adaptation of Pet Sematary began in March 2010, with Greenberg initially writing the screenplay. Lorenzo di Bonaventura and Steven Schneider were revealed to be producing the remake with Juan Carlos Fresnadillo in talks to direct it. By December 2017, Paramount Pictures had greenlit this new film version of King's novel, with duo filmmakers K\u00f6lsch and Widmyer directing. Principal photography commenced on June 18, 2018, in Montreal and Hudson, Quebec, Canada, and wrapped on August 11, 2018.\r\nPet Sematary premiered at South by Southwest festival on March 16, 2019, and was theatrically released in the United States on April 5, 2019, by Paramount Pictures. The film had grossed over $113 million worldwide and received mixed reviews from critics, who praised the dark tone, atmosphere and performances, but disliked the slow pacing and reliance on jump scares. Critics and audiences were both divided on the changes between the film and book, though many named it better than the 1989 adaptation.",
+            "html": "<h2>Pet Sematary (2019 film)</h2><p>Pet Sematary is a 2019 American supernatural horror film directed by Kevin K\u00f6lsch and Dennis Widmyer and written by Jeff Buhler, from a screen story by Matt Greenberg. It is the second adaptation of the 1983 novel of the same name by Stephen King, after the 1989 film. The film stars Jason Clarke, Amy Seimetz, and John Lithgow, and follows a family that discovers a mysterious graveyard in the woods behind their new home.</p><p>Talks for a new adaptation of Pet Sematary began in March 2010, with Greenberg initially writing the screenplay. Lorenzo di Bonaventura and Steven Schneider were revealed to be producing the remake with Juan Carlos Fresnadillo in talks to direct it. By December 2017, Paramount Pictures had greenlit this new film version of King's novel, with duo filmmakers K\u00f6lsch and Widmyer directing. Principal photography commenced on June 18, 2018, in Montreal and Hudson, Quebec, Canada, and wrapped on August 11, 2018.</p><p>Pet Sematary premiered at South by Southwest festival on March 16, 2019, and was theatrically released in the United States on April 5, 2019, by Paramount Pictures. The film had grossed over $113 million worldwide and received mixed reviews from critics, who praised the dark tone, atmosphere and performances, but disliked the slow pacing and reliance on jump scares. Critics and audiences were both divided on the changes between the film and book, though many named it better than the 1989 adaptation.</p>"
+        },
+        "plotFull": {
+            "plainText": "Pet Sematary (2019 film)\r\nPet Sematary is a 2019 American supernatural horror film directed by Kevin K\u00f6lsch and Dennis Widmyer and written by Jeff Buhler, from a screen story by Matt Greenberg. It is the second adaptation of the 1983 novel of the same name by Stephen King, after the 1989 film. The film stars Jason Clarke, Amy Seimetz, and John Lithgow, and follows a family that discovers a mysterious graveyard in the woods behind their new home.\r\nTalks for a new adaptation of Pet Sematary began in March 2010, with Greenberg initially writing the screenplay. Lorenzo di Bonaventura and Steven Schneider were revealed to be producing the remake with Juan Carlos Fresnadillo in talks to direct it. By December 2017, Paramount Pictures had greenlit this new film version of King's novel, with duo filmmakers K\u00f6lsch and Widmyer directing. Principal photography commenced on June 18, 2018, in Montreal and Hudson, Quebec, Canada, and wrapped on August 11, 2018.\r\nPet Sematary premiered at South by Southwest festival on March 16, 2019, and was theatrically released in the United States on April 5, 2019, by Paramount Pictures. The film had grossed over $113 million worldwide and received mixed reviews from critics, who praised the dark tone, atmosphere and performances, but disliked the slow pacing and reliance on jump scares. Critics and audiences were both divided on the changes between the film and book, though many named it better than the 1989 adaptation.\r\nPlot\r\nLouis Creed, an emergency physician from Boston, Massachusetts, moves to the small town of Ludlow, Maine with his wife Rachel, their two young children, Ellie and Gage, and Ellie's cat, Church. Exploring the woods, Rachel and Ellie stumble across a funeral procession of children taking a dead dog to a cemetery called \"Pet Sematary.\" At the university hospital, Louis is left shaken after failing to save the life of Victor Pascow, a student who was fatally injured after being struck and dragged by a vehicle. He later experiences a vivid dream in which Victor leads him to the deadfall at the back of the cemetery and warns him not to \"venture beyond.\" Louis awakens to find his feet and sheets caked in mud, suggesting that the events were more than just a nightmare.\r\nOn Halloween, Church is killed by a truck. Jud Crandall, their neighbor who has a soft spot for Ellie, takes Louis past the pet cemetery to an ancient burial ground to bury Church. The next day, Louis is stunned when Church returns home alive, though he is different: aggressive and violent, tearing apart a bird and eating it alive. Jud reveals to Louis that the burial ground brings things back from the dead and is believed to be inhabited by a spirit known as the Wendigo. He apologizes, having thought Church would return the same. After Church attacks Gage, Louis unsuccessfully attempts to euthanize him and instead decides to set him free in the wild.\r\nDuring her birthday party, Ellie spots Church on the road and excitedly rushes to him, but is hit and killed by a derailed tanker truck. The family is devastated, and Rachel and Gage leave to spend a few days with Rachel's parents. Sensing that Louis is planning on resurrecting Ellie, Jud warns the grieving father that \"sometimes dead is better.\" Though Victor's spirit similarly warns him, Louis's grief spurs him to carry out his plan. He drugs Jud, exhumes Ellie's corpse, and reburies her in the animal graveyard as the Wendigo looks on. Ellie rises from the dead but manifests a disturbing demeanor.\r\nMeanwhile, Rachel is frightened by visions of her dead sister Zelda, who suffered from spinal meningitis and died after falling down a dumbwaiter shaft. Gage is also frightened by the ghost of Victor who tries to warn him about going home. Jud wakes up and spots Ellie in the house. He flees home in horror to retrieve his revolver, but Jud, distracted by a growling Church, allows Ellie to surprise him on the stairwell\u2014slicing through Jud's Achilles tendon with a scalpel and taunting him with the voice of his dead wife before viciously stabbing him to death.\r\nRachel and Gage return home and encounter the undead Ellie. Rachel is horrified and flees with Gage to an upstairs bedroom. Ellie, enraged at being rejected by her mother, attacks Rachel as Louis finds Jud's blood-soaked body. Rushing home, Louis manages to save Gage just as Ellie fatally stabs Rachel. He locks Gage in the car, and Rachel begs her husband not to bury her in the pet cemetery. Ellie knocks Louis unconscious and drags her mother's body to the burial ground. At the pet cemetery, Ellie tries to kill Louis. As Louis prepares to decapitate his daughter, he is impaled by a weather vane by a reanimated Rachel and is subsequently buried as she was. Along with Church, the undead trio set fire to Jud's house before approaching the car. The resurrected Louis peers into the car at Gage before a beeping sound of unlocking is heard and the screen cuts to black.\r\nIn an alternate ending released on home media, Louis spares Ellie instead of killing her, and they both bury Rachel behind the pet cemetery, promising that they will be a family together forever. After burning Jud's house, Louis and Ellie approach the family car, where Gage is still locked in. In the house, Ellie, Church, and a newly resurrected Rachel approach and reunite with an unhappy Louis holding Gage, who is crying.\r\nCast\r\nJason Clarke as Dr. Louis Creed\r\nAmy Seimetz as Rachel Creed (n\u00e9e Goldman) Sonia Maria Chirila as Young Rachel\r\nSonia Maria Chirila as Young Rachel\r\nJohn Lithgow as Jud Crandall\r\nJet\u00e9 Laurence as Ellie Creed\r\nHugo and Lucas Lavoie as Gage Creed\r\nObssa Ahmed as Victor Pascow\r\nAlyssa Brooke Levine as Zelda Goldman\r\nSuzy Stingl as Norma Crandall\r\nMaria Herrera as Marcela\r\nJacob Lemieux as \"Mouse Face\"\r\nMaverick Fortin as \"Dog Face\"\r\nLou Ferrando as \"Rabbit Face\"\r\nNajya Muipatayi as \"Cat Face\"\r\nEmma Hill as \"Horse Face\"\r\nLeo, Tonic, Jager and JD as Church the Cat\r\nProduction\r\nDevelopment\r\nOn March 5, 2010, Paramount Pictures was developing a new adaptation of Stephen King's novel Pet Sematary, and that Matt Greenberg had been hired to write the screenplay. (He was later credited with the \"screen story\".) By October 2013, Lorenzo di Bonaventura and Steven Schneider were to serve as producers for the production, and Juan Carlos Fresnadillo was in talks to direct.\r\nIn August 2017, Andy Muschietti, director of the 2017 film adaptation of Stephen King's It, said that he and his sister, Barbara Muschietti, wanted to adapt Pet Sematary.\r\nOn October 30, 2017, it was announced that Paramount Pictures had officially greenlit the film, which was expected to be directed by Kevin K\u00f6lsch and Dennis Widmyer, from a screenplay by Jeff Buhler and David Kajganich (the latter went uncredited). Aside from Di Bonaventura and Schneider, Mark Vahradian also produced. Other filmmakers considered were Sean Carter and Johannes Roberts.\r\nCasting\r\nOn April 16, 2018, it was announced that Jason Clarke had been cast in the lead role of Louis Creed. On May 4, 2018, it was reported John Lithgow had joined the cast in the role of Jud Crandall.\r\nIn June 2018, it was announced that Amy Seimetz would have the film's lead female role, Rachel Creed, along with Jet\u00e9 Laurence as Creed's daughter Ellie and twins Hugo and Lucas Lavoie as Creed's son Gage.\r\nIn October 2018, it was reported that Obssa Ahmed had been added as college student Victor Pascow, and Alyssa Brooke Levine as Zelda Goldman. Zelda was previously portrayed by stuntman Andrew Hubatsek in the 1989 film.\r\nFilming\r\nPrincipal photography commenced on June 18, 2018, in Hudson, Quebec, Canada. Filming wrapped on August 11, 2018.\r\nSoundtrack\r\nChristopher Young composed the film score. The end credits include a cover version of the Ramones song \"Pet Sematary\" by American punk rock band Starcrawler. Waxwork Records released the soundtrack on a double LP in 2019 following the release of the movie.\r\nTrack list\r\nDouble LP track list\r\nRelease\r\nThe film had its world premiere at South by Southwest on March 16, 2019 and was theatrically released in the United States on April 5, 2019, by Paramount Pictures.\r\nThe film was originally going to be released on April 19, 2019, but was moved two weeks from its original release date of April 19, 2019 to April 5, 2019.\r\nReception\r\nBox office\r\nPet Sematary grossed $54.7 million in the United States and Canada, and $58.3 million in other territories, for a worldwide total of $113.1 million, against a production budget of $21 million.\r\nIn the United States and Canada, Pet Sematary was released alongside Shazam! and The Best of Enemies, and was projected to gross $20\u201330 million from 2,500 theaters in its opening weekend. It made $2.3 million from Thursday night previews. It then grossed $10 million on its first day, including previews. It went on to debut to $25 million, finishing second, behind Shazam!. The film fell 59% in its second weekend to $10 million, finishing fourth, and then made $4.9 million in its third weekend, finishing seventh.\r\nCritical response\r\nOn review aggregator Rotten Tomatoes, the film holds an approval rating of 58% based on 266 reviews, with an average rating of 5.92/10. The website's critical consensus reads: \"Pet Sematary takes its source material in a few different directions, but this remake feels like an exhuming almost as often as it does a revival.\" On Metacritic, the film has a weighted average score of 57 out of 100, based on 42 critics, indicating \"mixed or average reviews\". Audiences polled by CinemaScore gave the film an average grade of \"C+\" on an A+ to F scale, while those at PostTrak gave it an overall positive score of 66% and a 47% \"definite recommend\".\r\nFuture\r\nIn March 2019, producer Di Bonaventura stated that a prequel to the film is possible if the film is a success financially, saying,\r\n\"I generally don't start thinking about until they're a success. I think if there's anything here, there's a prequel. I think if you look at the book, we didn't cover all that stuff that happens before the Creed family moves in. So, I think there's a movie there, and I think I'd be particularly interested in doing that, because, again, it's the source material and you are going toward something that also has a lot of crazy, creepy feelings about it.\"\r\nIn April 2019, directors K\u00f6lsch and Widmyer ruled themselves out of returning, saying,\r\n\"If you were going to do more, you'd probably do backstory stuff. I'd be really interested to see how somebody would do a sequel to this movie. It probably won't be us.\"\r\nIn May 2019, screenwriter Buhler stated that there had been preliminary discussions on a continuation, saying,\r\n\"So a lot of the ideas that we've been batting around currently, recently, have all been about, more about digging into the mythology of the town, these rituals that children present, the mythology of the Micmac, the Wendigo, the cemetery, the origins, Jud's life. So it looks like, I don't want to promise anything, because we don't know, we're not even down the road on an idea yet.\"",
+            "html": "<h2>Pet Sematary (2019 film)</h2><p>Pet Sematary is a 2019 American supernatural horror film directed by Kevin K\u00f6lsch and Dennis Widmyer and written by Jeff Buhler, from a screen story by Matt Greenberg. It is the second adaptation of the 1983 novel of the same name by Stephen King, after the 1989 film. The film stars Jason Clarke, Amy Seimetz, and John Lithgow, and follows a family that discovers a mysterious graveyard in the woods behind their new home.</p><p>Talks for a new adaptation of Pet Sematary began in March 2010, with Greenberg initially writing the screenplay. Lorenzo di Bonaventura and Steven Schneider were revealed to be producing the remake with Juan Carlos Fresnadillo in talks to direct it. By December 2017, Paramount Pictures had greenlit this new film version of King's novel, with duo filmmakers K\u00f6lsch and Widmyer directing. Principal photography commenced on June 18, 2018, in Montreal and Hudson, Quebec, Canada, and wrapped on August 11, 2018.</p><p>Pet Sematary premiered at South by Southwest festival on March 16, 2019, and was theatrically released in the United States on April 5, 2019, by Paramount Pictures. The film had grossed over $113 million worldwide and received mixed reviews from critics, who praised the dark tone, atmosphere and performances, but disliked the slow pacing and reliance on jump scares. Critics and audiences were both divided on the changes between the film and book, though many named it better than the 1989 adaptation.</p><br/><h3>Plot</h3><p>Louis Creed, an emergency physician from Boston, Massachusetts, moves to the small town of Ludlow, Maine with his wife Rachel, their two young children, Ellie and Gage, and Ellie's cat, Church. Exploring the woods, Rachel and Ellie stumble across a funeral procession of children taking a dead dog to a cemetery called \"Pet Sematary.\" At the university hospital, Louis is left shaken after failing to save the life of Victor Pascow, a student who was fatally injured after being struck and dragged by a vehicle. He later experiences a vivid dream in which Victor leads him to the deadfall at the back of the cemetery and warns him not to \"venture beyond.\" Louis awakens to find his feet and sheets caked in mud, suggesting that the events were more than just a nightmare.</p><p>On Halloween, Church is killed by a truck. Jud Crandall, their neighbor who has a soft spot for Ellie, takes Louis past the pet cemetery to an ancient burial ground to bury Church. The next day, Louis is stunned when Church returns home alive, though he is different: aggressive and violent, tearing apart a bird and eating it alive. Jud reveals to Louis that the burial ground brings things back from the dead and is believed to be inhabited by a spirit known as the Wendigo. He apologizes, having thought Church would return the same. After Church attacks Gage, Louis unsuccessfully attempts to euthanize him and instead decides to set him free in the wild.</p><p>During her birthday party, Ellie spots Church on the road and excitedly rushes to him, but is hit and killed by a derailed tanker truck. The family is devastated, and Rachel and Gage leave to spend a few days with Rachel's parents. Sensing that Louis is planning on resurrecting Ellie, Jud warns the grieving father that \"sometimes dead is better.\" Though Victor's spirit similarly warns him, Louis's grief spurs him to carry out his plan. He drugs Jud, exhumes Ellie's corpse, and reburies her in the animal graveyard as the Wendigo looks on. Ellie rises from the dead but manifests a disturbing demeanor.</p><p>Meanwhile, Rachel is frightened by visions of her dead sister Zelda, who suffered from spinal meningitis and died after falling down a dumbwaiter shaft. Gage is also frightened by the ghost of Victor who tries to warn him about going home. Jud wakes up and spots Ellie in the house. He flees home in horror to retrieve his revolver, but Jud, distracted by a growling Church, allows Ellie to surprise him on the stairwell\u2014slicing through Jud's Achilles tendon with a scalpel and taunting him with the voice of his dead wife before viciously stabbing him to death.</p><p>Rachel and Gage return home and encounter the undead Ellie. Rachel is horrified and flees with Gage to an upstairs bedroom. Ellie, enraged at being rejected by her mother, attacks Rachel as Louis finds Jud's blood-soaked body. Rushing home, Louis manages to save Gage just as Ellie fatally stabs Rachel. He locks Gage in the car, and Rachel begs her husband not to bury her in the pet cemetery. Ellie knocks Louis unconscious and drags her mother's body to the burial ground. At the pet cemetery, Ellie tries to kill Louis. As Louis prepares to decapitate his daughter, he is impaled by a weather vane by a reanimated Rachel and is subsequently buried as she was. Along with Church, the undead trio set fire to Jud's house before approaching the car. The resurrected Louis peers into the car at Gage before a beeping sound of unlocking is heard and the screen cuts to black.</p><p>In an alternate ending released on home media, Louis spares Ellie instead of killing her, and they both bury Rachel behind the pet cemetery, promising that they will be a family together forever. After burning Jud's house, Louis and Ellie approach the family car, where Gage is still locked in. In the house, Ellie, Church, and a newly resurrected Rachel approach and reunite with an unhappy Louis holding Gage, who is crying.</p><br/><h3>Cast</h3><ul><li>Jason Clarke as Dr. Louis Creed</li><li>Amy Seimetz as Rachel Creed (n\u00e9e Goldman) Sonia Maria Chirila as Young Rachel</li><li>Sonia Maria Chirila as Young Rachel</li><li>John Lithgow as Jud Crandall</li><li>Jet\u00e9 Laurence as Ellie Creed</li><li>Hugo and Lucas Lavoie as Gage Creed</li><li>Obssa Ahmed as Victor Pascow</li><li>Alyssa Brooke Levine as Zelda Goldman</li><li>Suzy Stingl as Norma Crandall</li><li>Maria Herrera as Marcela</li><li>Jacob Lemieux as \"Mouse Face\"</li><li>Maverick Fortin as \"Dog Face\"</li><li>Lou Ferrando as \"Rabbit Face\"</li><li>Najya Muipatayi as \"Cat Face\"</li><li>Emma Hill as \"Horse Face\"</li><li>Leo, Tonic, Jager and JD as Church the Cat</li></ul><br/><h3>Production</h3><h4>Development</h4><p>On March 5, 2010, Paramount Pictures was developing a new adaptation of Stephen King's novel Pet Sematary, and that Matt Greenberg had been hired to write the screenplay. (He was later credited with the \"screen story\".) By October 2013, Lorenzo di Bonaventura and Steven Schneider were to serve as producers for the production, and Juan Carlos Fresnadillo was in talks to direct.</p><p>In August 2017, Andy Muschietti, director of the 2017 film adaptation of Stephen King's It, said that he and his sister, Barbara Muschietti, wanted to adapt Pet Sematary.</p><p>On October 30, 2017, it was announced that Paramount Pictures had officially greenlit the film, which was expected to be directed by Kevin K\u00f6lsch and Dennis Widmyer, from a screenplay by Jeff Buhler and David Kajganich (the latter went uncredited). Aside from Di Bonaventura and Schneider, Mark Vahradian also produced. Other filmmakers considered were Sean Carter and Johannes Roberts.</p><h4>Casting</h4><p>On April 16, 2018, it was announced that Jason Clarke had been cast in the lead role of Louis Creed. On May 4, 2018, it was reported John Lithgow had joined the cast in the role of Jud Crandall.</p><p>In June 2018, it was announced that Amy Seimetz would have the film's lead female role, Rachel Creed, along with Jet\u00e9 Laurence as Creed's daughter Ellie and twins Hugo and Lucas Lavoie as Creed's son Gage.</p><p>In October 2018, it was reported that Obssa Ahmed had been added as college student Victor Pascow, and Alyssa Brooke Levine as Zelda Goldman. Zelda was previously portrayed by stuntman Andrew Hubatsek in the 1989 film.</p><h4>Filming</h4><p>Principal photography commenced on June 18, 2018, in Hudson, Quebec, Canada. Filming wrapped on August 11, 2018.</p><br/><h3>Soundtrack</h3><p>Christopher Young composed the film score. The end credits include a cover version of the Ramones song \"Pet Sematary\" by American punk rock band Starcrawler. Waxwork Records released the soundtrack on a double LP in 2019 following the release of the movie.</p><h4>Track list</h4><h4>Double LP track list</h4><br/><h3>Release</h3><p>The film had its world premiere at South by Southwest on March 16, 2019 and was theatrically released in the United States on April 5, 2019, by Paramount Pictures.</p><p>The film was originally going to be released on April 19, 2019, but was moved two weeks from its original release date of April 19, 2019 to April 5, 2019.</p><br/><h3>Reception</h3><h4>Box office</h4><p>Pet Sematary grossed $54.7 million in the United States and Canada, and $58.3 million in other territories, for a worldwide total of $113.1 million, against a production budget of $21 million.</p><p>In the United States and Canada, Pet Sematary was released alongside Shazam! and The Best of Enemies, and was projected to gross $20\u201330 million from 2,500 theaters in its opening weekend. It made $2.3 million from Thursday night previews. It then grossed $10 million on its first day, including previews. It went on to debut to $25 million, finishing second, behind Shazam!. The film fell 59% in its second weekend to $10 million, finishing fourth, and then made $4.9 million in its third weekend, finishing seventh.</p><h4>Critical response</h4><p>On review aggregator Rotten Tomatoes, the film holds an approval rating of 58% based on 266 reviews, with an average rating of 5.92/10. The website's critical consensus reads: \"Pet Sematary takes its source material in a few different directions, but this remake feels like an exhuming almost as often as it does a revival.\" On Metacritic, the film has a weighted average score of 57 out of 100, based on 42 critics, indicating \"mixed or average reviews\". Audiences polled by CinemaScore gave the film an average grade of \"C+\" on an A+ to F scale, while those at PostTrak gave it an overall positive score of 66% and a 47% \"definite recommend\".</p><br/><h3>Future</h3><p>In March 2019, producer Di Bonaventura stated that a prequel to the film is possible if the film is a success financially, saying,</p><blockquote>\"I generally don't start thinking about until they're a success. I think if there's anything here, there's a prequel. I think if you look at the book, we didn't cover all that stuff that happens before the Creed family moves in. So, I think there's a movie there, and I think I'd be particularly interested in doing that, because, again, it's the source material and you are going toward something that also has a lot of crazy, creepy feelings about it.\"</blockquote><p>In April 2019, directors K\u00f6lsch and Widmyer ruled themselves out of returning, saying,</p><blockquote>\"If you were going to do more, you'd probably do backstory stuff. I'd be really interested to see how somebody would do a sequel to this movie. It probably won't be us.\"</blockquote><p>In May 2019, screenwriter Buhler stated that there had been preliminary discussions on a continuation, saying,</p><blockquote>\"So a lot of the ideas that we've been batting around currently, recently, have all been about, more about digging into the mythology of the town, these rituals that children present, the mythology of the Micmac, the Wendigo, the cemetery, the origins, Jud's life. So it looks like, I don't want to promise anything, because we don't know, we're not even down the road on an idea yet.\"</blockquote><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0837563",
+        "title": "Pet Sematary",
+        "fullTitle": "Pet Sematary (2019)",
+        "type": "Movie",
+        "year": "2019",
+        "posters": [
+            {
+                "id": "7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+                "link": "https://imdb-api.com/posters/original/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "5bd6vSVCpZfQtXkrXs2j715bX23.jpg",
+                "link": "https://imdb-api.com/posters/original/5bd6vSVCpZfQtXkrXs2j715bX23.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "oKXoW0PybDzcnt5486gJhQ8hxNC.jpg",
+                "link": "https://imdb-api.com/posters/original/oKXoW0PybDzcnt5486gJhQ8hxNC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 960,
+                "height": 1440
+            },
+            {
+                "id": "rTjtGx85YCSa4JHzbhCUT7bEYy7.jpg",
+                "link": "https://imdb-api.com/posters/original/rTjtGx85YCSa4JHzbhCUT7bEYy7.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1312,
+                "height": 1968
+            },
+            {
+                "id": "6Fx3WXTInt6XvjEB88zfi3NYNOH.jpg",
+                "link": "https://imdb-api.com/posters/original/6Fx3WXTInt6XvjEB88zfi3NYNOH.jpg",
+                "aspectRatio": 0.6406666666666667,
+                "language": "en",
+                "width": 1922,
+                "height": 3000
+            },
+            {
+                "id": "hHy9nrGp7FU8TCGePmdp5cXEpJR.jpg",
+                "link": "https://imdb-api.com/posters/original/hHy9nrGp7FU8TCGePmdp5cXEpJR.jpg",
+                "aspectRatio": 0.6406666666666667,
+                "language": "en",
+                "width": 1922,
+                "height": 3000
+            },
+            {
+                "id": "bK34Z1Of2qHuqS5pEvhbGbsoHp7.jpg",
+                "link": "https://imdb-api.com/posters/original/bK34Z1Of2qHuqS5pEvhbGbsoHp7.jpg",
+                "aspectRatio": 0.6751343429408891,
+                "language": "en",
+                "width": 1382,
+                "height": 2047
+            },
+            {
+                "id": "pN2QEo0wy7t91bYs3ExbyvEh9nJ.jpg",
+                "link": "https://imdb-api.com/posters/original/pN2QEo0wy7t91bYs3ExbyvEh9nJ.jpg",
+                "aspectRatio": 0.6749068743650525,
+                "language": "en",
+                "width": 1993,
+                "height": 2953
+            },
+            {
+                "id": "gJTlxnwyNE6HdEV1MyCN7G4OBJy.jpg",
+                "link": "https://imdb-api.com/posters/original/gJTlxnwyNE6HdEV1MyCN7G4OBJy.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 692,
+                "height": 1038
+            },
+            {
+                "id": "xtB3PXPVr00qalbd4A0C3ISNyeL.jpg",
+                "link": "https://imdb-api.com/posters/original/xtB3PXPVr00qalbd4A0C3ISNyeL.jpg",
+                "aspectRatio": 0.6406666666666667,
+                "language": "en",
+                "width": 1922,
+                "height": 3000
+            },
+            {
+                "id": "sPkbaXL7xnO8cnf7a2RVzjyNLzb.jpg",
+                "link": "https://imdb-api.com/posters/original/sPkbaXL7xnO8cnf7a2RVzjyNLzb.jpg",
+                "aspectRatio": 0.66650390625,
+                "language": "en",
+                "width": 1365,
+                "height": 2048
+            },
+            {
+                "id": "kWgmkL77jRdtnqS8OI0aF8M8iik.jpg",
+                "link": "https://imdb-api.com/posters/original/kWgmkL77jRdtnqS8OI0aF8M8iik.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdors": [
+            {
+                "id": "dpJq6trUDOutSPSLrFdROPmzaVn.jpg",
+                "link": "https://imdb-api.com/posters/original/dpJq6trUDOutSPSLrFdROPmzaVn.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "dMWVeuVce8ZLKLI0xpVevihEwm8.jpg",
+                "link": "https://imdb-api.com/posters/original/dMWVeuVce8ZLKLI0xpVevihEwm8.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "n2aX63BmW7zIKgKJ58e6rKlSsdi.jpg",
+                "link": "https://imdb-api.com/posters/original/n2aX63BmW7zIKgKJ58e6rKlSsdi.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "gWIwaykQsePaEXTIMOr6FdwBTXA.jpg",
+                "link": "https://imdb-api.com/posters/original/gWIwaykQsePaEXTIMOr6FdwBTXA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "t2sT9VGe6kwbKtNYUSaYcFX5JQn.jpg",
+                "link": "https://imdb-api.com/posters/original/t2sT9VGe6kwbKtNYUSaYcFX5JQn.jpg",
+                "aspectRatio": 1.7780030410542322,
+                "language": "en",
+                "width": 3508,
+                "height": 1973
+            },
+            {
+                "id": "bDDOLvwMUgs5O2B3FNSSkDzdvqv.jpg",
+                "link": "https://imdb-api.com/posters/original/bDDOLvwMUgs5O2B3FNSSkDzdvqv.jpg",
+                "aspectRatio": 1.7780030410542322,
+                "language": "en",
+                "width": 3508,
+                "height": 1973
+            },
+            {
+                "id": "kcn3Ji7QtJ0euRxkw69iiYvbHkV.jpg",
+                "link": "https://imdb-api.com/posters/original/kcn3Ji7QtJ0euRxkw69iiYvbHkV.jpg",
+                "aspectRatio": 1.7758985200845665,
+                "language": "en",
+                "width": 1680,
+                "height": 946
+            },
+            {
+                "id": "6PqzbfPMWtFO5mzUq6VszMtBChG.jpg",
+                "link": "https://imdb-api.com/posters/original/6PqzbfPMWtFO5mzUq6VszMtBChG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0837563",
+        "title": "Pet Sematary",
+        "fullTitle": "Pet Sematary (2019)",
+        "type": "Movie",
+        "year": "2019",
+        "items": [
+            {
+                "title": "John Lithgow in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNWVmOGU2YzMtMTZlMC00NTFiLTkyODUtYTM5NGY0NWNlNGE1XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio2.6000_AL_.jpg"
+            },
+            {
+                "title": "Jet\u00e9 Laurence in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMmI5ODQyZGUtNzAzZS00MmJkLTgxZTgtZGI3NGMwYWM5YzRlXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jason Clarke and Amy Seimetz in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BOWUzZDlkNmItOTM4MC00ZGQyLWEzNWYtYWMwY2IyOTQ1NjhiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jason Clarke in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNjVhYzBlNmEtZDczYi00NDFhLTg2NGEtZjYyNDcxMmYyOTE2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNzViOGExNWUtZGYzNS00MDQ2LWFhMDItNWMyODdiMGYyMmRkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow and Jason Clarke in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BOGI2NTBhNjktMThmMi00NjAxLWI5NjUtNjY0NmNiNDZjM2I3XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jet\u00e9 Laurence in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNTBkMDUzOGYtYjNkZS00ZTMzLWFjMDMtYTliMDFiOTYzY2NkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BZDUwOWU4ZDUtMDRjZC00OWQxLWE2YmYtN2M1MjE5MmU0ZGM0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jason Clarke, Amy Seimetz, Jet\u00e9 Laurence, and Hugo Lavoie in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BZTA5ZmI0MzUtNDhjNS00M2JmLTliZGMtMjk3YTVlYTUwN2ZiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BN2RkYjk5MTYtMWNhMC00OGJkLWJhYWQtMTlmNjlkZmY2ZjcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BYTkwZGI4M2EtOWU0NS00MjI5LWJmMjgtYTE1MmIzZDkwYTg0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Amy Seimetz and Jet\u00e9 Laurence in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNjBjYzZiOGQtYWE3OC00MzFiLThmYjYtNDBhNThiNTNjNTBhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jet\u00e9 Laurence in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BM2Q5NjA0ZTMtZWM4Yi00ZjkxLWIyNTYtMzcyYjBiMTdhNWI5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BZmMyYjg4OWEtZWRkMi00ZmM5LWI3MjMtZjlkZWQ1OGJmYjU3XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4MDA2OTA1Nl5BMl5BanBnXkFtZTgwOTkzMDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Amy Seimetz in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxODYzNjQxNV5BMl5BanBnXkFtZTgwMTA0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jason Clarke in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyNjE5Njk4Nl5BMl5BanBnXkFtZTgwMjA0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jet\u00e9 Laurence in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMxOTc4MzQ2MV5BMl5BanBnXkFtZTgwMzA0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jet\u00e9 Laurence in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzMTE0MjU3OF5BMl5BanBnXkFtZTgwNTA0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow and Jason Clarke in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4NzA1MjIxOV5BMl5BanBnXkFtZTgwNjA0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxNTAxOTc0N15BMl5BanBnXkFtZTgwNzA0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jason Clarke in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ5MjkzNTgyOV5BMl5BanBnXkFtZTgwODA0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Amy Seimetz and Lucas Lavoie in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI5OTcxOTg5OF5BMl5BanBnXkFtZTgwOTA0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow and Jason Clarke in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwNTI2NDM0M15BMl5BanBnXkFtZTgwMDE0MDM3NzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow and Jet\u00e9 Laurence in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNzI3OTY2Mjg2Nl5BMl5BanBnXkFtZTgwMjMzNjA1NjM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jason Clarke, Amy Seimetz, Jet\u00e9 Laurence, and Hugo Lavoie in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxMTc0MTM1NV5BMl5BanBnXkFtZTgwOTMzNjA1NjM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Dennis Widmyer and Kevin K\u00f6lsch in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BOWIyYTE4MjAtYzVjZC00ODY4LThhYzgtYjZhNTIxYzkxY2I2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow, Dennis Widmyer, and Kevin K\u00f6lsch in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNTUyMjJjMjctMzc1ZC00MWI0LTg4NDktM2ZkMGEyMDdlM2Y3XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Dennis Widmyer, Kevin K\u00f6lsch, and Mark Vahradian in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMmU2NWRjYTUtYWE4Mi00MzIzLTkwMGItYWE4OWFjZTg2OWY4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Dennis Widmyer and Kevin K\u00f6lsch in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMWExMzAyZTktNGY5Mi00YmM5LTkwYzYtYzA4YzJmY2RkZWY4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Lorenzo di Bonaventura, Dennis Widmyer, and Kevin K\u00f6lsch in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMDIyNDE2NWQtNmQ2NS00MWU3LWI4NjYtZTM5NWMwZjE3YTA0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow, Jason Clarke, Dennis Widmyer, and Kevin K\u00f6lsch in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5ODIwMDg4OV5BMl5BanBnXkFtZTgwNTMzNjA1NjM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Alyssa Brooke Levine, Jet\u00e9 Laurence, Hugo Lavoie, and Lucas Lavoie at an event for Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI2ODk3NDg5MV5BMl5BanBnXkFtZTgwNzQ2MjE3NzM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BOWI3YzRlMjYtNGQxOS00NDY0LWIyMWEtYzNiM2M4OTc1ZTEzXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMmM0M2YxY2QtMDRiYS00ZTcwLThiNzctZTg1ZjllNjg2OTUxXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMGI5YzFlODEtOTBkYy00YTZjLTk0MTktMTM1NzAyZmMxOTI2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BOTE2ODNlYTMtOTdlNi00MWVlLThkYzQtY2QyOWRlZmYyOGNmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BOWM0ZTU0NGItMzY1ZS00NGVkLWEwMGYtODA5NTQ1ZTZiNzY3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BZTYwZDUyMWMtYzRhNi00Njg0LWJjZjktZDYzZDlhN2Y1NmViXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Lithgow, Jason Clarke, Amy Seimetz, Jet\u00e9 Laurence, Obssa Ahmed, Hugo Lavoie, and Lucas Lavoie in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BZTgxMGQwM2UtZTAxNi00M2JhLTk4ZTgtZmFlODI0NmI3ZDViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0Nzk1MjIxM15BMl5BanBnXkFtZTgwMDkwMjQ4NzM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjc3MTk3ZjItYzY4ZS00MjBiLWJmOTktNDcwZDgyOTNiMjM3XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMmYwYzZkYjktYWQ4ZS00ZjgxLTliNTgtZmE5YzRkM2NkMDk5XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BYzc5MTExMGQtZDI4ZC00NTU2LTg3MGQtZmVlYzU2MTdhNDBmXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NDA4MTY2N15BMl5BanBnXkFtZTgwMjE4OTE1NjM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jason Clarke in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA2NDc1NDc1Nl5BMl5BanBnXkFtZTgwNDMzNjA1NjM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMWZjMWYyOGEtZmI0My00NjUxLWI1OTktODQ0NzE0ZTJiYmJmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Hugo Lavoie in Pet Sematary (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNTM5OTBlMWMtZThhNy00MmNiLTkzMjItNGY0MGQxNmZmM2M0XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_Ratio2.4000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0837563",
+        "title": "Pet Sematary",
+        "fullTitle": "Pet Sematary (2019)",
+        "type": "Movie",
+        "year": "2019",
+        "videoId": "vi266583321",
+        "videoTitle": "Final Trailer",
+        "videoDescription": "Based on the seminal horror novel by Stephen King, 'Pet Sematary' follows Dr. Louis Creed (Jason Clarke), who, after relocating with his wife Rachel (Amy Seimetz) and their two young children from Boston to rural Maine, discovers a mysterious burial ground hidden deep in the woods near the family's new home. When tragedy strikes, Louis turns to his unusual neighbor, Jud Crandall (John Lithgow), setting off a perilous chain reaction that unleashes an unfathomable evil with horrific consequences.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjUxNGJiY2QtNzc5MC00Mzg5LTk0YTYtZWJlOGJjMzJmODViXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "04/01/2019 13:20:31",
+        "link": "https://www.imdb.com/video/vi266583321",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi266583321/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$21,000,000 (estimated)",
+        "openingWeekendUSA": "$24,502,775, 7 April 2019",
+        "grossUSA": "$54,724,696",
+        "cumulativeWorldwideGross": "$113,118,226"
+    },
+    "tagline": "Based on Stephen King's Terrifying Novel",
+    "keywords": "horror movie remake,cat,based on book,indian burial ground,childhood flashback",
+    "keywordList": [
+        "horror movie remake",
+        "cat",
+        "based on book",
+        "indian burial ground",
+        "childhood flashback"
+    ],
+    "similars": [
+        {
+            "id": "tt0098084",
+            "title": "Pet Sematary",
+            "fullTitle": "Pet Sematary (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BYjBlNTBhYWQtMzg5Yi00NDA2LWJmMjYtZmM0ODhiYzkwYmY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
+            "directors": "Mary Lambert",
+            "stars": "Dale Midkiff, Denise Crosby, Fred Gwynne",
+            "genres": "Fantasy, Horror, Thriller",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt0105128",
+            "title": "Pet Sematary II",
+            "fullTitle": "Pet Sematary II (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BMDczNjdmYjEtN2QyYi00MTIxLTgyNmUtNzRkNzVlM2UyYTQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A teenage boy and his father move to his recently-deceased mother's hometown, where they encounter the ancient Native American cemetery with the power to raise the dead.",
+            "directors": "Mary Lambert",
+            "stars": "Edward Furlong, Anthony Edwards, Clancy Brown",
+            "genres": "Fantasy, Horror",
+            "imDbRating": "4.9"
+        },
+        {
+            "id": "tt7752126",
+            "title": "Brightburn",
+            "fullTitle": "Brightburn (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BMjc0YzM2ZjItNzE3OS00NTRhLTkyNTUtMjY5Y2Y5NTU3OWI0XkEyXkFqcGdeQXVyNjU2NTI4MjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+            "directors": "David Yarovesky",
+            "stars": "Elizabeth Banks, David Denman, Jackson A. Dunn",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "6.1"
+        },
+        {
+            "id": "tt8350360",
+            "title": "Annabelle Comes Home",
+            "fullTitle": "Annabelle Comes Home (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "directors": "Gary Dauberman",
+            "stars": "Vera Farmiga, Patrick Wilson, Mckenna Grace",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "5.9"
+        },
+        {
+            "id": "tt8663516",
+            "title": "Child's Play",
+            "fullTitle": "Child's Play (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BNTNlNjIxNjktOWUyMS00YWY5LWEwZGItMjZmODJlZWNiZGM2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mother gives her 13-year-old son a toy doll for his birthday, unaware of its more sinister nature.",
+            "directors": "Lars Klevberg",
+            "stars": "Tim Matheson, Ben Andrusco-Daon, Zahra Anderson",
+            "genres": "Horror, Sci-Fi",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt4913966",
+            "title": "The Curse of La Llorona",
+            "fullTitle": "The Curse of La Llorona (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm.",
+            "directors": "Michael Chaves",
+            "stars": "Linda Cardellini, Raymond Cruz, Patricia Velasquez",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt7349950",
+            "title": "It Chapter Two",
+            "fullTitle": "It Chapter Two (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "directors": "Andy Muschietti",
+            "stars": "Jessica Chastain, James McAvoy, Bill Hader",
+            "genres": "Drama, Fantasy, Horror",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt7958736",
+            "title": "Ma",
+            "fullTitle": "Ma (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BMTA2MjA3ODU0NjBeQTJeQWpwZ15BbWU4MDE3NTQxNDcz._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A lonely woman befriends a group of teenagers and decides to let them party at her house. Just when the kids think their luck couldn't get any better, things start happening that make them question the intention of their host.",
+            "directors": "Tate Taylor",
+            "stars": "Octavia Spencer, Diana Silvers, Juliette Lewis",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "5.6"
+        },
+        {
+            "id": "tt5814060",
+            "title": "The Nun",
+            "fullTitle": "The Nun (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+            "directors": "Corin Hardy",
+            "stars": "Demi\u00e1n Bichir, Taissa Farmiga, Jonas Bloquet",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt5886046",
+            "title": "Escape Room",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjQ2NDMwMTY3MF5BMl5BanBnXkFtZTgwNDg5OTc1NjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Six strangers find themselves in a maze of deadly mystery rooms and must use their wits to survive.",
+            "directors": "Adam Robitel",
+            "stars": "Taylor Russell, Logan Miller, Jay Ellis",
+            "genres": "Action, Adventure, Horror",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt3387520",
+            "title": "Scary Stories to Tell in the Dark",
+            "fullTitle": "Scary Stories to Tell in the Dark (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BMmI1MGE0ODMtYWRlZC00ZDUxLWIyNGItYjgyNzhhMTRlOTI2XkEyXkFqcGdeQXVyOTQ5MTIwMjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "On Halloween 1968, Stella and her two friends meet a mysterious drifter, Ram\u00f3n, and uncover a sinister notebook of stories.",
+            "directors": "Andr\u00e9 \u00d8vredal",
+            "stars": "Zoe Margaret Colletti, Michael Garza, Gabriel Rush",
+            "genres": "Adventure, Horror, Mystery",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt1396484",
+            "title": "It",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+            "directors": "Andy Muschietti",
+            "stars": "Bill Skarsg\u00e5rd, Jaeden Martell, Finn Wolfhard",
+            "genres": "Horror",
+            "imDbRating": "7.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

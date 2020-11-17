@@ -1,0 +1,805 @@
+{
+    "id": "tt7914416",
+    "title": "One Cut of the Dead",
+    "originalTitle": "Kamera wo tomeruna!",
+    "fullTitle": "One Cut of the Dead (2017)",
+    "type": "Movie",
+    "year": "2017",
+    "image": "https://imdb-api.com/images/original/MV5BY2RhNTVhMTEtMzgyNi00NDg1LWIwYjktOTcxNDQyM2ZjNDE1XkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_Ratio0.7090_AL_.jpg",
+    "releaseDate": "2018-06-23",
+    "runtimeMins": "96",
+    "runtimeStr": "1h 36mins",
+    "plot": "A low-budget film about zombies soon features the best cast money could not buy, but the problem is that the new actors are not exactly getting along with the crew. Everyone involved is soon receiving a lesson in the merits of perseverance, the preciousness of family bonds and of course the dangers of the living dead.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "24 wins & 21 nominations.",
+    "directors": "Shin'ichir\u00f4 Ueda",
+    "directorList": [
+        {
+            "id": "nm4940051",
+            "name": "Shin'ichir\u00f4 Ueda"
+        }
+    ],
+    "writers": "Shin'ichir\u00f4 Ueda, Ryoichi Wada",
+    "writerList": [
+        {
+            "id": "nm4940051",
+            "name": "Shin'ichir\u00f4 Ueda"
+        },
+        {
+            "id": "nm10441429",
+            "name": "Ryoichi Wada"
+        }
+    ],
+    "stars": "Takayuki Hamatsu, Yuzuki Akiyama, Harumi Shuhama, Kazuaki Nagaya",
+    "starList": [
+        {
+            "id": "nm9576872",
+            "name": "Takayuki Hamatsu"
+        },
+        {
+            "id": "nm9576881",
+            "name": "Yuzuki Akiyama"
+        },
+        {
+            "id": "nm5689660",
+            "name": "Harumi Shuhama"
+        },
+        {
+            "id": "nm4644427",
+            "name": "Kazuaki Nagaya"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm9576872",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Takayuki Hamatsu",
+            "asCharacter": "Director Higurashi"
+        },
+        {
+            "id": "nm9576881",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yuzuki Akiyama",
+            "asCharacter": "Chinatsu"
+        },
+        {
+            "id": "nm5689660",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harumi Shuhama",
+            "asCharacter": "Nao"
+        },
+        {
+            "id": "nm4644427",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kazuaki Nagaya",
+            "asCharacter": "Ko"
+        },
+        {
+            "id": "nm9576874",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiroshi Ichihara",
+            "asCharacter": "Kasahara"
+        },
+        {
+            "id": "nm9576873",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mao",
+            "asCharacter": "Mao"
+        },
+        {
+            "id": "nm9576880",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sakina Asamori",
+            "asCharacter": "(as Sakina Iwaji)"
+        },
+        {
+            "id": "nm9576882",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Takuya Fujimura",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm9576879",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ayana G\u00f4da",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4282082",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Manabu Hosoi",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm5729929",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Satoshi Iwag\u00f4",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm9576883",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ky\u00f4ko Takahashi",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm9576877",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yoshiko Takehara",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4231542",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tomokazu Yamaguchi",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm9576875",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shuntar\u00f4 Yamazaki",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm9576878",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Miki Yoshida",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2252141",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shin'ichir\u00f4 \u00d4sawa",
+            "asCharacter": ""
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt7914416",
+        "title": "One Cut of the Dead",
+        "fullTitle": "One Cut of the Dead (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm4940051",
+                    "name": "Shin'ichir\u00f4 Ueda",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm4940051",
+                    "name": "Shin'ichir\u00f4 Ueda",
+                    "description": "(screenplay)"
+                },
+                {
+                    "id": "nm10441429",
+                    "name": "Ryoichi Wada",
+                    "description": "(play)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm9576872",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Takayuki Hamatsu",
+                "asCharacter": "Director Higurashi"
+            },
+            {
+                "id": "nm9576881",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Yuzuki Akiyama",
+                "asCharacter": "Chinatsu"
+            },
+            {
+                "id": "nm5689660",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Harumi Shuhama",
+                "asCharacter": "Nao"
+            },
+            {
+                "id": "nm4644427",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kazuaki Nagaya",
+                "asCharacter": "Ko"
+            },
+            {
+                "id": "nm9576874",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hiroshi Ichihara",
+                "asCharacter": "Kasahara"
+            },
+            {
+                "id": "nm9576873",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mao",
+                "asCharacter": "Mao"
+            },
+            {
+                "id": "nm9576880",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sakina Asamori",
+                "asCharacter": "(as Sakina Iwaji)"
+            },
+            {
+                "id": "nm9576882",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Takuya Fujimura",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm9576879",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ayana G\u00f4da",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm4282082",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Manabu Hosoi",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm5729929",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Satoshi Iwag\u00f4",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm9576883",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ky\u00f4ko Takahashi",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm9576877",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Yoshiko Takehara",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm4231542",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tomokazu Yamaguchi",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm9576875",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Shuntar\u00f4 Yamazaki",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm9576878",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Miki Yoshida",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm2252141",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Shin'ichir\u00f4 \u00d4sawa",
+                "asCharacter": ""
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm1863265",
+                        "name": "Koji Ichihashi",
+                        "description": "producer (as K\u00f4ji Ichihashi)"
+                    },
+                    {
+                        "id": "nm9576884",
+                        "name": "Kentar\u00f4 Kodama",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm9576885",
+                        "name": "K\u00f4ji Muta",
+                        "description": "associate producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm10530439",
+                        "name": "Sh\u00f4ma It\u00f4",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm8652818",
+                        "name": "Kyle Nagai",
+                        "description": "(as Kairu Nagai)"
+                    },
+                    {
+                        "id": "nm2202023",
+                        "name": "Nobuhiro Suzuki",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm3614737",
+                        "name": "Takeshi Sone",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm4940051",
+                        "name": "Shin'ichir\u00f4 Ueda",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm6167247",
+                        "name": "Junko Hirabayashi",
+                        "description": "hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm3500660",
+                        "name": "Kazuhide Shimohata",
+                        "description": "special makeup effects artist"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm9576886",
+                        "name": "K\u00f4nosuke Yoshida",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm7643451",
+                        "name": "Y\u00fbya Nakaizumi",
+                        "description": "assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm5374527",
+                        "name": "K\u00f4kichi Komoda",
+                        "description": "sound recordist"
+                    },
+                    {
+                        "id": "nm3599036",
+                        "name": "Yukiya Minami",
+                        "description": "multi-audio engineer"
+                    },
+                    {
+                        "id": "nm10747166",
+                        "name": "Lambert Windges",
+                        "description": "sound effects editor"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm9576887",
+                        "name": "Kasumi Nakamura",
+                        "description": "assistant moldmaker"
+                    },
+                    {
+                        "id": "nm3500660",
+                        "name": "Kazuhide Shimohata",
+                        "description": "moldmaker"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm5333261",
+                        "name": "Andrew P. Kirkham",
+                        "description": "dcp producer"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Comedy, Horror",
+    "genreList": [
+        {
+            "key": "Comedy",
+            "value": "Comedy"
+        },
+        {
+            "key": "Horror",
+            "value": "Horror"
+        }
+    ],
+    "companies": "ENBU Seminar, Panpokopina",
+    "companyList": [
+        {
+            "id": "co0209134",
+            "name": "ENBU Seminar"
+        },
+        {
+            "id": "co0683304",
+            "name": "Panpokopina"
+        }
+    ],
+    "countries": "Japan",
+    "countryList": [
+        {
+            "key": "Japan",
+            "value": "Japan"
+        }
+    ],
+    "languages": "Japanese",
+    "languageList": [
+        {
+            "key": "Japanese",
+            "value": "Japanese"
+        }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "7.7",
+    "imDbRatingVotes": "13666",
+    "metacriticRating": "86",
+    "ratings": {
+        "imDbId": "tt7914416",
+        "title": "One Cut of the Dead",
+        "fullTitle": "One Cut of the Dead (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "imDb": "7.7",
+        "metacritic": "86",
+        "theMovieDb": "7.8",
+        "rottenTomatoes": "100",
+        "tV_com": "",
+        "filmAffinity": "7.2",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt7914416",
+        "title": "One Cut of the Dead",
+        "fullTitle": "One Cut of the Dead (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "language": "en",
+        "titleInLanguage": "One Cut of the Dead",
+        "url": "https://en.wikipedia.org/wiki/One_Cut_of_the_Dead",
+        "plotShort": {
+            "plainText": "One Cut of the Dead\r\nOne Cut of the Dead (\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a!, Kamera o Tomeru na!, transl. \"Don't Stop the Camera!\") is a 2017 Japanese zombie comedy film written and directed by Shin'ichir\u00f4 Ueda.\r\nMade with a low budget of \u00a53 million ($25,000) with a cast of unknown actors, the film opened in Japan in a small theatre for a six day run. Following its international success at its screening at the Udine Film Festival, the film began getting wider exposure, including a re-release in Japan. It grossed US $27,935,711 (\u00a53.12 billion) in Japan and $30.5 million worldwide, making box office history by earning over a thousand times its budget. The film also received universal acclaim from critics, who praised its originality, writing and humor.",
+            "html": "<h2>One Cut of the Dead</h2><p>One Cut of the Dead (\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a!, Kamera o Tomeru na!, transl. \"Don't Stop the Camera!\") is a 2017 Japanese zombie comedy film written and directed by Shin'ichir\u00f4 Ueda.</p><p>Made with a low budget of \u00a53 million ($25,000) with a cast of unknown actors, the film opened in Japan in a small theatre for a six day run. Following its international success at its screening at the Udine Film Festival, the film began getting wider exposure, including a re-release in Japan. It grossed US $27,935,711 (\u00a53.12 billion) in Japan and $30.5 million worldwide, making box office history by earning over a thousand times its budget. The film also received universal acclaim from critics, who praised its originality, writing and humor.</p>"
+        },
+        "plotFull": {
+            "plainText": "One Cut of the Dead\r\nOne Cut of the Dead (\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a!, Kamera o Tomeru na!, transl. \"Don't Stop the Camera!\") is a 2017 Japanese zombie comedy film written and directed by Shin'ichir\u00f4 Ueda.\r\nMade with a low budget of \u00a53 million ($25,000) with a cast of unknown actors, the film opened in Japan in a small theatre for a six day run. Following its international success at its screening at the Udine Film Festival, the film began getting wider exposure, including a re-release in Japan. It grossed US $27,935,711 (\u00a53.12 billion) in Japan and $30.5 million worldwide, making box office history by earning over a thousand times its budget. The film also received universal acclaim from critics, who praised its originality, writing and humor.\r\nPremise\r\nThe cast and crew of a low-budget zombie film called One Cut of the Dead are shooting at an abandoned water filtration plant. The director, Higurashi, argues with actors and eventually abandons them. A real zombie apocalypse then begins to the delight of Higurashi, who insists that the camera operator continue filming.\r\nCast\r\nTakayuki Hamatsu as Takayuki Higurashi\r\nMao as Mao Higurashi\r\nHarumi Shuhama as Harumi Higurashi\r\nYuzuki Akiyama as Aika Matsumoto\r\nKazuaki Nagaya as Kazuaki Kamiya\r\nManabu Hosoi as Manabu Hosoda\r\nProduction\r\nOne Cut of the Dead was made for \u00a53 million (approximately $25,000 at the time) with a cast of unknown actors. It was made in eight days after director Shinichiro Ueda participated in workshops for actors and filmmakers at the Enbu Seminar drama school in Tokyo.\r\nRelease\r\nOne Cut of the Dead opened in Japan in an 84-seat Tokyo art house theater with an initial theatrical run of six days. The film began garnering international attention after it became the runner-up in the audience vote at the Udine Far East Festival. Of the films screening at Udine, it received a standing ovation and the Audience Award at the Udine Far East Film Festival in year 2018.\r\nAfter receiving positive reviews outside of Japan, the film was released in three cinemas in Tokyo in June with discounts for an audience in zombie costumes to help the film gain attention. Asmik Ace stepped in to co-distribute the film, giving it a wider release in July. It was showing at around 200 screens in Japan by March 2018 where it had officially grossed \u00a5800 million.\r\nReception\r\nBox office\r\nIn Japan, the film sold 2,149,449 tickets and grossed \u00a53,040,246,069 in 136 days. It became the seventh highest-grossing domestic film of 2018, grossing \u00a53.12 billion ($28.3 million) at the Japanese box office. It made box office history by earning over a thousand times its budget.\r\nOverseas, the film grossed NT$53 million (US$1.76 million) in Taiwan, HK$7.06 million (US$909,530) in Hong Kong, $154,123 in South Korea, $52,406 in the United States and Canada, and $2,903 in Iceland, for a worldwide total of $31,178,962.\r\nCritical reception\r\nOn Rotten Tomatoes, the film holds a 100% Certified Fresh approval rating based on 83 reviews, with an average rating of 8.57/10. The site's critical consensus states, \"Brainy and bloody in equal measure, One Cut of the Dead reanimates the moribund zombie genre with a refreshing blend of formal daring and clever satire.\" Metacritic reports an 86 out of 100 score, based on 14 reviews, indicating \"universal acclaim\".\r\nWriting for Variety, Richard Kuipers declared the film to be a \"marvelously inventive horror-comedy breathes new life into the zombie genre\", and attributed its success to \"its irresistibly bouncy spirit it positively sparkles with the infectious \u201cC\u2019mon everyone, let\u2019s put on a show!\u201d enthusiasm that\u2019s served the movies so well since the days of Andy Hardy.\" Elizabeth Kerr of The Hollywood Reporter found the film to be \"a breezy and often laugh-out-loud hilarious zombie comedy\", noting that although the film \"sags in the second act as it sets up the third, it\u2019s not so much that it loses all the steam it generated out of the gate.\" David Ehrlich of IndieWire, opined that the film was \"so heartfelt and hilarious that it\u2019s easy to forgive the contrivances that hold it together, and to overlook how transparently Ueda reverse-engineers most of his best gags. Seemingly unimportant details in the film\u2019s sluggish middle section blossom into killer jokes some 30 minutes later\"\r\nAwards",
+            "html": "<h2>One Cut of the Dead</h2><p>One Cut of the Dead (\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a!, Kamera o Tomeru na!, transl. \"Don't Stop the Camera!\") is a 2017 Japanese zombie comedy film written and directed by Shin'ichir\u00f4 Ueda.</p><p>Made with a low budget of \u00a53 million ($25,000) with a cast of unknown actors, the film opened in Japan in a small theatre for a six day run. Following its international success at its screening at the Udine Film Festival, the film began getting wider exposure, including a re-release in Japan. It grossed US $27,935,711 (\u00a53.12 billion) in Japan and $30.5 million worldwide, making box office history by earning over a thousand times its budget. The film also received universal acclaim from critics, who praised its originality, writing and humor.</p><br/><h3>Premise</h3><p>The cast and crew of a low-budget zombie film called One Cut of the Dead are shooting at an abandoned water filtration plant. The director, Higurashi, argues with actors and eventually abandons them. A real zombie apocalypse then begins to the delight of Higurashi, who insists that the camera operator continue filming.</p><br/><h3>Cast</h3><ul><li>Takayuki Hamatsu as Takayuki Higurashi</li><li>Mao as Mao Higurashi</li><li>Harumi Shuhama as Harumi Higurashi</li><li>Yuzuki Akiyama as Aika Matsumoto</li><li>Kazuaki Nagaya as Kazuaki Kamiya</li><li>Manabu Hosoi as Manabu Hosoda</li></ul><br/><h3>Production</h3><p>One Cut of the Dead was made for \u00a53 million (approximately $25,000 at the time) with a cast of unknown actors. It was made in eight days after director Shinichiro Ueda participated in workshops for actors and filmmakers at the Enbu Seminar drama school in Tokyo.</p><br/><h3>Release</h3><p>One Cut of the Dead opened in Japan in an 84-seat Tokyo art house theater with an initial theatrical run of six days. The film began garnering international attention after it became the runner-up in the audience vote at the Udine Far East Festival. Of the films screening at Udine, it received a standing ovation and the Audience Award at the Udine Far East Film Festival in year 2018.</p><p>After receiving positive reviews outside of Japan, the film was released in three cinemas in Tokyo in June with discounts for an audience in zombie costumes to help the film gain attention. Asmik Ace stepped in to co-distribute the film, giving it a wider release in July. It was showing at around 200 screens in Japan by March 2018 where it had officially grossed \u00a5800 million.</p><br/><h3>Reception</h3><h4>Box office</h4><p>In Japan, the film sold 2,149,449 tickets and grossed \u00a53,040,246,069 in 136 days. It became the seventh highest-grossing domestic film of 2018, grossing \u00a53.12 billion ($28.3 million) at the Japanese box office. It made box office history by earning over a thousand times its budget.</p><p>Overseas, the film grossed NT$53 million (US$1.76 million) in Taiwan, HK$7.06 million (US$909,530) in Hong Kong, $154,123 in South Korea, $52,406 in the United States and Canada, and $2,903 in Iceland, for a worldwide total of $31,178,962.</p><h4>Critical reception</h4><p>On Rotten Tomatoes, the film holds a 100% Certified Fresh approval rating based on 83 reviews, with an average rating of 8.57/10. The site's critical consensus states, \"Brainy and bloody in equal measure, One Cut of the Dead reanimates the moribund zombie genre with a refreshing blend of formal daring and clever satire.\" Metacritic reports an 86 out of 100 score, based on 14 reviews, indicating \"universal acclaim\".</p><p>Writing for Variety, Richard Kuipers declared the film to be a \"marvelously inventive horror-comedy breathes new life into the zombie genre\", and attributed its success to \"its irresistibly bouncy spirit it positively sparkles with the infectious \u201cC\u2019mon everyone, let\u2019s put on a show!\u201d enthusiasm that\u2019s served the movies so well since the days of Andy Hardy.\" Elizabeth Kerr of The Hollywood Reporter found the film to be \"a breezy and often laugh-out-loud hilarious zombie comedy\", noting that although the film \"sags in the second act as it sets up the third, it\u2019s not so much that it loses all the steam it generated out of the gate.\" David Ehrlich of IndieWire, opined that the film was \"so heartfelt and hilarious that it\u2019s easy to forgive the contrivances that hold it together, and to overlook how transparently Ueda reverse-engineers most of his best gags. Seemingly unimportant details in the film\u2019s sluggish middle section blossom into killer jokes some 30 minutes later\"</p><h4>Awards</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Award</th><th>Category</th><th>Nominee</th><th>Result</th></tr><tr><td rowspan=\"4\">43rd <span>Hochi Film Awards</span></td><td>Best Picture</td><td rowspan=\"2\"><i>One Cut of the Dead</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Special Award</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Director</td><td rowspan=\"2\">Shinichiro Ueda</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best New Artist</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"4\">31st <span>Nikkan Sports Film Awards</span></td><td><span>Best Film</span></td><td rowspan=\"2\"><i>One Cut of the Dead</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Y\u016bjir\u014d Ishihara Award</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Best Director</span></td><td rowspan=\"2\">Shinichiro Ueda</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Newcomer</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>40th <span>Yokohama Film Festival</span></td><td>Special Jury Prize</td><td><i>One Cut of the Dead</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"2\">73rd <span>Mainichi Film Awards</span></td><td><span>Best Director</span></td><td rowspan=\"2\">Shinichiro Ueda</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Best Screenplay</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"2\">61st <span>Blue Ribbon Awards</span></td><td><span>Best Film</span></td><td><i>One Cut of the Dead</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Best Director</span></td><td>Shinichiro Ueda</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"5\">28th <span>Tokyo Sports Film Awards</span></td><td><span>Best Film</span></td><td><i>One Cut of the Dead</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Director</span></td><td>Shinichiro Ueda</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Best Actor</span></td><td>Takayuki Hamatsu</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Supporting Actress</span></td><td rowspan=\"2\">Harumi Shuhama</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Newcomer</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"8\"><span class=\"mw-redirect\">42nd Japan Academy Prize</span></td><td><span class=\"mw-redirect\">Picture of the Year</span></td><td><i>One Cut of the Dead</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span class=\"mw-redirect\">Best Director</span></td><td>Shinichiro Ueda</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span class=\"mw-redirect\">Best Actor</span></td><td>Takayuki Hamatsu</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Screenplay</td><td>Shinichiro Ueda</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Music</td><td>Nobuhiro Suzuki, Sh\u014dma It\u014d, and Kyle Nagai</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Cinematography</td><td>Takeshi Sone</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Sound Recording</td><td>K\u014dkichi Komoda</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span class=\"mw-redirect\">Best Film Editing</span></td><td>Shinichiro Ueda</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>13th Asian Film Awards</span></td><td>Best New Director</td><td>Shinichiro Ueda</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt7914416",
+        "title": "One Cut of the Dead",
+        "fullTitle": "One Cut of the Dead (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "posters": [
+            {
+                "id": "c0ZB59m0kio95VClKoq95s1QYbu.jpg",
+                "link": "https://imdb-api.com/posters/original/c0ZB59m0kio95VClKoq95s1QYbu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1140,
+                "height": 1710
+            },
+            {
+                "id": "rws34k2bqYVo2B5MkhKAbV8925j.jpg",
+                "link": "https://imdb-api.com/posters/original/rws34k2bqYVo2B5MkhKAbV8925j.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "3mzJ76DXAnZv4bVjg3RXB3fwqf2.jpg",
+                "link": "https://imdb-api.com/posters/original/3mzJ76DXAnZv4bVjg3RXB3fwqf2.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "7dIV2XeUBpwiyhstYuDglotn6h9.jpg",
+                "link": "https://imdb-api.com/posters/original/7dIV2XeUBpwiyhstYuDglotn6h9.jpg",
+                "aspectRatio": 0.6979166666666666,
+                "language": "en",
+                "width": 670,
+                "height": 960
+            }
+        ],
+        "backdors": [
+            {
+                "id": "da6cYpTYBY4jtJ6IEaFauqWT55f.jpg",
+                "link": "https://imdb-api.com/posters/original/da6cYpTYBY4jtJ6IEaFauqWT55f.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8NLjNjnsnle1pbCQ9hFi9Onuw3J.jpg",
+                "link": "https://imdb-api.com/posters/original/8NLjNjnsnle1pbCQ9hFi9Onuw3J.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "jn0IUTCNd6A3HSU7CeQlwYDVWOv.jpg",
+                "link": "https://imdb-api.com/posters/original/jn0IUTCNd6A3HSU7CeQlwYDVWOv.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "dWaYqEB884mCaTXTtK1OACaoSb1.jpg",
+                "link": "https://imdb-api.com/posters/original/dWaYqEB884mCaTXTtK1OACaoSb1.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "oslUsPw3PUhDVK7a5soTvCAuaO7.jpg",
+                "link": "https://imdb-api.com/posters/original/oslUsPw3PUhDVK7a5soTvCAuaO7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "ukXVFQYfWf2Ofc1IXNCTvXzFfdi.jpg",
+                "link": "https://imdb-api.com/posters/original/ukXVFQYfWf2Ofc1IXNCTvXzFfdi.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "q5XyNxFc789fWiPIYCWuw5jT8BT.jpg",
+                "link": "https://imdb-api.com/posters/original/q5XyNxFc789fWiPIYCWuw5jT8BT.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "vS6OjVKPMgCjwAtcGXKHW0rFlyz.jpg",
+                "link": "https://imdb-api.com/posters/original/vS6OjVKPMgCjwAtcGXKHW0rFlyz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt7914416",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt7914416",
+        "title": "One Cut of the Dead",
+        "fullTitle": "One Cut of the Dead (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "videoId": "vi1209645849",
+        "videoTitle": "Trailer",
+        "videoDescription": "Don't stop shooting! A zombie comedy like no other.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE5YjUyZTEtYzkxNy00OTBkLTg1ODctZDQ0ZTQ2ZmRlZTk2XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "08/23/2018 17:52:29",
+        "link": "https://www.imdb.com/video/vi1209645849",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1209645849/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "JPY3,000,000 (estimated)",
+        "openingWeekendUSA": "$6,360, 15 September 2019",
+        "grossUSA": "$52,406",
+        "cumulativeWorldwideGross": "$27,590,180"
+    },
+    "tagline": "",
+    "keywords": "zombie comedy,meta,zombie,film crew,television broadcast",
+    "keywordList": [
+        "zombie comedy",
+        "meta",
+        "zombie",
+        "film crew",
+        "television broadcast"
+    ],
+    "similars": [
+        {
+            "id": "tt0039822",
+            "title": "Le Silence de la Mer",
+            "fullTitle": "Le Silence de la Mer (1949)",
+            "year": "1949",
+            "image": "https://imdb-api.com/images/original/MV5BMWJjM2ZkZTEtZDM0My00YzU2LWEzNTMtMWExNDY3OWNmYjlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "1941 in a small town in Nazi occupied France. Against the will of its elderly male and his adult niece residents, the Nazis commandeer a house for one of their officers, Lt. Werner von ... See full summary \u00bb",
+            "directors": "Jean-Pierre Melville",
+            "stars": "Howard Vernon, Nicole St\u00e9phane, Jean-Marie Robain",
+            "genres": "Drama, Romance, War",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0041886",
+            "title": "Hour of Glory",
+            "fullTitle": "Hour of Glory (1949)",
+            "year": "1949",
+            "image": "https://imdb-api.com/images/original/MV5BNGUyZmM3NTEtNDk1ZC00MjAzLWI3ZjgtZTQ4NmJhMDg3MGJmXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_Ratio0.8000_AL_.jpg",
+            "plot": "As the Germans drop explosive booby-traps on Britain in 1943, the embittered expert who'll have to disarm them fights a private battle with alcohol.",
+            "directors": "Directors: Michael Powell, Emeric Pressburger",
+            "stars": "David Farrar, Jack Hawkins, Kathleen Byron",
+            "genres": "Drama, Romance, Thriller",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0074916",
+            "title": "Mr. Klein",
+            "fullTitle": "Mr. Klein (1976)",
+            "year": "1976",
+            "image": "https://imdb-api.com/images/original/MV5BNTU3NzY1ZDUtYzM4YS00Y2U3LTk3NjUtMmRhM2ZjY2M2NjRkXkEyXkFqcGdeQXVyNTA1NjYyMDk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In Nazi-occupied Paris, the immoral art dealer, Robert Klein, leads a life of luxury, until a copy of a Jewish newspaper brings him to the attention of the police, linking him with a mysterious doppelg\u00e4nger. Will Mr Klein clear his name?",
+            "directors": "Joseph Losey",
+            "stars": "Alain Delon, Jeanne Moreau, Francine Berg\u00e9",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0067778",
+            "title": "Murmur of the Heart",
+            "fullTitle": "Murmur of the Heart (1971)",
+            "year": "1971",
+            "image": "https://imdb-api.com/images/original/MV5BYTk4YjhmNGMtOTZkYi00MjNmLThmZGItMGYyNDljNTdhNDA1XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "As France is nearing the end of the first Indochina War, an open-minded teenage boy finds himself torn between a rebellious urge to discover love, and the ever-present, almost dominating affection of his beloved mother.",
+            "directors": "Louis Malle",
+            "stars": "Lea Massari, Beno\u00eet Ferreux, Daniel G\u00e9lin",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0096310",
+            "title": "Troma's War",
+            "fullTitle": "Troma's War (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BMjM5Y2I1NzUtODAwMS00YjM1LTk1NDEtNzI3ZjY1YjNiMGEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A group of assorted Americans survive a plane crash in a Caribbean island, and discover it is infested with crawling snakes and other venomous beasts. Even worse, terrorists are preparing a full out war on America with a biological weapon.",
+            "directors": "Directors: Michael Herz, Lloyd Kaufman",
+            "stars": "Carolyn Beauchamp, Sean Bowen, Rick Washburn",
+            "genres": "Action, Adventure, Comedy",
+            "imDbRating": "5.7"
+        },
+        {
+            "id": "tt0066546",
+            "title": "Warum l\u00e4uft Herr R. Amok",
+            "fullTitle": "Warum l\u00e4uft Herr R. Amok (1970)",
+            "year": "1970",
+            "image": "https://imdb-api.com/images/original/MV5BOWYxNDlhNDUtYzA4OS00ODIzLTkwZGUtZDUxNGY1MmE5YmQ3XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "With slicked-down hair and three-piece suits, dependable Herr Raab is a technical draftsman. He gets along with his colleagues although his boss wants him to go beyond technical cleanliness... See full summary \u00bb",
+            "directors": "Directors: Michael Fengler, Rainer Werner Fassbinder",
+            "stars": "Lilith Ungerer, Kurt Raab, Lilo Pempeit",
+            "genres": "Drama",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0021571",
+            "title": "Erde",
+            "fullTitle": "Erde (1930)",
+            "year": "1930",
+            "image": "https://imdb-api.com/images/original/MV5BMDg4MzU3OTgtZmFkOC00MGRkLTlmZDctYWEwN2JmYWM1YTc4XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "In the peaceful countryside, Vassily opposes the rich kulaks over the coming of collective farming.",
+            "directors": "Aleksandr Dovzhenko",
+            "stars": "Stepan Shkurat, Semyon Svashenko, Yuliya Solntseva",
+            "genres": "Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0114733",
+            "title": "Tromeo and Juliet",
+            "fullTitle": "Tromeo and Juliet (1996)",
+            "year": "1996",
+            "image": "https://imdb-api.com/images/original/MV5BNzAzYjdkNmMtNGIyMC00Mzk1LThkYWQtNjI0ZmNiNWMxMWY4XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "Tromeo, a filmmaker, falls in love with Juliet, the daughter of a former partner who tried to steal his business from him.",
+            "directors": "Lloyd Kaufman",
+            "stars": "Jane Jensen, Will Keenan, Valentine Miele",
+            "genres": "Action, Comedy, Drama",
+            "imDbRating": "6.1"
+        },
+        {
+            "id": "tt0087328",
+            "title": "Ghare-Baire",
+            "fullTitle": "Ghare-Baire (1984)",
+            "year": "1984",
+            "image": "https://imdb-api.com/images/original/MV5BOTAxY2VlYjEtZmRmZC00NmFhLWE4NmEtZjczYWU4NGZhN2FhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "When the movie opens, a woman is recalling the events that molded her perspective on the world. Years ago, her husband, a wealthy Western-educated landowner, challenged tradition by ... See full summary \u00bb",
+            "directors": "Satyajit Ray",
+            "stars": "Soumitra Chatterjee, Victor Banerjee, Swatilekha Sengupta",
+            "genres": "Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0059956",
+            "title": "Viva Maria!",
+            "fullTitle": "Viva Maria! (1965)",
+            "year": "1965",
+            "image": "https://imdb-api.com/images/original/MV5BMTMzNzk2ODMxN15BMl5BanBnXkFtZTcwODYwNDc3NA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Somewhere in Central America in 1907: Maria II is the daughter of an Irish terrorist. After her father's death, she meets Maria I, a singer in a circus. She decides to stay with the circus,... See full summary \u00bb",
+            "directors": "Louis Malle",
+            "stars": "Brigitte Bardot, Jeanne Moreau, George Hamilton",
+            "genres": "Adventure, Comedy, Romance",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt0057058",
+            "title": "The Fire Within",
+            "fullTitle": "The Fire Within (1963)",
+            "year": "1963",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2NTIxNDIyMl5BMl5BanBnXkFtZTgwNTg1ODEzMTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Alain Leroy is having a course of treatment in a private hospital because of his problem with alcohol. Although he is constantly distressed, he leaves the hospital and tries to meet good ... See full summary \u00bb",
+            "directors": "Louis Malle",
+            "stars": "Maurice Ronet, L\u00e9na Skerla, Yvonne Clech",
+            "genres": "Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0044103",
+            "title": "The Tales of Hoffmann",
+            "fullTitle": "The Tales of Hoffmann (1951)",
+            "year": "1951",
+            "image": "https://imdb-api.com/images/original/MV5BN2I2ZGZjMDEtODEyMi00MjkyLTk3ODgtNjIxOGY1NjVmMjU4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A melancholy poet reflects on three women he loved and lost in the past: a mechanical performing doll, a Venetian courtesan, and the consumptive daughter of a celebrated composer.",
+            "directors": "Directors: Michael Powell, Emeric Pressburger",
+            "stars": "Moira Shearer, Robert Rounseville, Ludmilla Tch\u00e9rina",
+            "genres": "Fantasy, Music, Musical",
+            "imDbRating": "7.2"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

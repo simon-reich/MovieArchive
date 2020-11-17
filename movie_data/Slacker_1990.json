@@ -1,0 +1,2533 @@
+{
+    "id": "tt0102943",
+    "title": "Slacker",
+    "originalTitle": "",
+    "fullTitle": "Slacker (1990)",
+    "type": "Movie",
+    "year": "1990",
+    "image": "https://imdb-api.com/images/original/MV5BZjc4ZTBiOTYtYjYwYi00ZWQwLWJlOTQtZTI0OTFiMzNmYzVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1991-07-05",
+    "runtimeMins": "97",
+    "runtimeStr": "1h 37mins",
+    "plot": "Presents a day in the life in Austin, Texas among its social outcasts and misfits, predominantly the twenty-something set, using a series of linear vignettes. These characters, who in some manner just don't fit into the establishment norms, move seamlessly from one scene to the next, randomly coming and going into one another's lives. Highlights include a UFO buff who adamantly insists that the U.S. has been on the moon since the 1950s, a woman who produces a glass slide purportedly of Madonna's pap smear, and an old anarchist who sympathetically shares his philosophy of life with a robber.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "1 win & 3 nominations.",
+    "directors": "Richard Linklater",
+    "directorList": [
+        {
+            "id": "nm0000500",
+            "name": "Richard Linklater"
+        }
+    ],
+    "writers": "Richard Linklater",
+    "writerList": [
+        {
+            "id": "nm0000500",
+            "name": "Richard Linklater"
+        }
+    ],
+    "stars": "Richard Linklater, Rudy Basquez, Jean Caffeine, Jan Hockey",
+    "starList": [
+        {
+            "id": "nm0000500",
+            "name": "Richard Linklater"
+        },
+        {
+            "id": "nm0060015",
+            "name": "Rudy Basquez"
+        },
+        {
+            "id": "nm0128414",
+            "name": "Jean Caffeine"
+        },
+        {
+            "id": "nm0387914",
+            "name": "Jan Hockey"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000500",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ0Mzc2NzY0Ml5BMl5BanBnXkFtZTcwOTI3OTI5MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Richard Linklater",
+            "asCharacter": "Should Have Stayed at Bus Station"
+        },
+        {
+            "id": "nm0060015",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rudy Basquez",
+            "asCharacter": "Taxi Driver"
+        },
+        {
+            "id": "nm0128414",
+            "image": "https://imdb-api.com/images/original/MV5BZTkwMjZmMWItYTJlMC00MDBkLWJiZWEtYjFkMjAyNGVlODI3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Jean Caffeine",
+            "asCharacter": "Roadkill"
+        },
+        {
+            "id": "nm0387914",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jan Hockey",
+            "asCharacter": "Jogger"
+        },
+        {
+            "id": "nm0387916",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stephan Hockey",
+            "asCharacter": "Running Late"
+        },
+        {
+            "id": "nm0416739",
+            "image": "https://imdb-api.com/images/original/MV5BNWUwNTQzYzAtOWExZC00OWNhLWE5ZjUtODY2NTU1OTI2Y2MxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5455_AL_.jpg",
+            "name": "Mark James",
+            "asCharacter": "Hit-and-Run Son"
+        },
+        {
+            "id": "nm0226191",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Samuel Dietert",
+            "asCharacter": "Grocery Grabber of Death's Bounty"
+        },
+        {
+            "id": "nm0101712",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Boyd",
+            "asCharacter": "Officer Bozzio"
+        },
+        {
+            "id": "nm0456559",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Terrence Kirk",
+            "asCharacter": "Officer Love"
+        },
+        {
+            "id": "nm0566460",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Keith McCormack",
+            "asCharacter": "Street Musician"
+        },
+        {
+            "id": "nm0770278",
+            "image": "https://imdb-api.com/images/original/MV5BYjg2MGJiZWMtYjY3OC00NDYyLWI1NzgtOTY1ZDIyMzU3Yjg0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Jennifer Schaudies",
+            "asCharacter": "Walking to Coffee Shop"
+        },
+        {
+            "id": "nm0470019",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dan Kratochvil",
+            "asCharacter": "Espresso Czar / Masonic Malcontent"
+        },
+        {
+            "id": "nm0833893",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Maris Strautmanis",
+            "asCharacter": "Giant Cappuccino"
+        },
+        {
+            "id": "nm0026065",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brecht Andersch",
+            "asCharacter": "Dostoyevsky Wannabe"
+        },
+        {
+            "id": "nm0657921",
+            "image": "https://imdb-api.com/images/original/MV5BN2QxNjQ1ZGItNzc4YS00YjI0LWIzY2UtOWI3MjcyNDRhNmY5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Tommy Pallotta",
+            "asCharacter": "Looking for Missing Friend (as Tom Pallotta)"
+        },
+        {
+            "id": "nm0217695",
+            "image": "https://imdb-api.com/images/original/MV5BZTc5MDU1OGItZmUzYy00YWVjLThmYjYtOGI5YmZiYmQwMWUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Jerry Delony",
+            "asCharacter": "Been on the Moon Since the 50's (as Jerry Deloney)"
+        },
+        {
+            "id": "nm0922095",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Heather West",
+            "asCharacter": "Tura Satana Look-Alike"
+        },
+        {
+            "id": "nm0817178",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Spath",
+            "asCharacter": "Co-op Guy"
+        },
+        {
+            "id": "nm0548954",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ron Marks",
+            "asCharacter": "Bush Basher"
+        },
+        {
+            "id": "nm0240793",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniel Dugan",
+            "asCharacter": "Comb Game Player"
+        },
+        {
+            "id": "nm0188391",
+            "image": "https://imdb-api.com/images/original/MV5BZjIzYzNhNDMtMWMzZi00YWIyLWIxNTYtMGQ0MGI4MGQyYzRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Brian Crockett",
+            "asCharacter": "Sadistic Comb Game Player"
+        },
+        {
+            "id": "nm0546182",
+            "image": "https://imdb-api.com/images/original/MV5BMjRjYjI4YTYtM2IwMy00NmM3LTg3OGMtNTA5YjllN2YzNzI5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Scott Marcus",
+            "asCharacter": "Ultimate Loser"
+        },
+        {
+            "id": "nm0918632",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stella Weir",
+            "asCharacter": "Stephanie from Dallas"
+        },
+        {
+            "id": "nm0853244",
+            "image": "https://imdb-api.com/images/original/MV5BNmY5NTk0NzQtOTgyNi00Yzc4LTk1YjctNjVhNmEwN2M4OTA2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Teresa Taylor",
+            "asCharacter": "Pap Smear Pusher"
+        },
+        {
+            "id": "nm0365055",
+            "image": "https://imdb-api.com/images/original/MV5BOWMwNDNjZjYtOWMwMS00NDRjLTk2MDgtOGVmZjBlNTZjMTc1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Mark Harris",
+            "asCharacter": "T-Shirt Terrorist"
+        },
+        {
+            "id": "nm0933467",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Greg Wilson",
+            "asCharacter": "Anti-Traveller"
+        },
+        {
+            "id": "nm0665042",
+            "image": "https://imdb-api.com/images/original/MV5BZWJkZTNjOTktMGVjMy00YzY3LWJiZWQtMDM5M2JhOTdmOWUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Deborah Pastor",
+            "asCharacter": "Wants to Leave Country (as Debbie Pastor)"
+        },
+        {
+            "id": "nm0482437",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gina Lalli",
+            "asCharacter": "Sidewalk Psychic"
+        },
+        {
+            "id": "nm0740446",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sharon Roos",
+            "asCharacter": "Devoted Follower"
+        },
+        {
+            "id": "nm0650632",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Frank Orrall",
+            "asCharacter": "Happy-Go-Lucky Guy"
+        },
+        {
+            "id": "nm0298449",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Skip Fulton Jr.",
+            "asCharacter": "Two for One Special"
+        },
+        {
+            "id": "nm0600862",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Abra Moore",
+            "asCharacter": "Has Change"
+        },
+        {
+            "id": "nm0135446",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lori Capp",
+            "asCharacter": "Traumatized Yacht Owner"
+        },
+        {
+            "id": "nm0891386",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gus Vayas",
+            "asCharacter": "Cranky Cook"
+        },
+        {
+            "id": "nm0085405",
+            "image": "https://imdb-api.com/images/original/MV5BMTM5MDQ5OTkyN15BMl5BanBnXkFtZTcwMTY1MjQyOQ@@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Louis Black",
+            "asCharacter": "Paranoid Paper Reader"
+        },
+        {
+            "id": "nm0835145",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Stroud",
+            "asCharacter": "Recluse in Bathrobe"
+        },
+        {
+            "id": "nm0177631",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Janelle Coolich",
+            "asCharacter": "Shut-in Girlfriend"
+        },
+        {
+            "id": "nm0057628",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aleister Barron",
+            "asCharacter": "Peeping Kid"
+        },
+        {
+            "id": "nm0070362",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Albans Benchoff",
+            "asCharacter": "Coke Machine Robber"
+        },
+        {
+            "id": "nm0070363",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nigel Benchoff",
+            "asCharacter": "Budding Capitalist Youth"
+        },
+        {
+            "id": "nm0057732",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Zara Barron",
+            "asCharacter": "Coke Heist Accomplice"
+        },
+        {
+            "id": "nm0926065",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kevin Whitley",
+            "asCharacter": "Jilted Boyfriend"
+        },
+        {
+            "id": "nm0027475",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Steven Anderson",
+            "asCharacter": "Guy Who Tosses Typewriter"
+        },
+        {
+            "id": "nm0682806",
+            "image": "https://imdb-api.com/images/original/MV5BODAyYjc3ZWYtZmY3OC00OGQ3LWJkZGUtYjA3MGU5Nzk3NjQ3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Robert Pierson",
+            "asCharacter": "Based on Authoritative Sources"
+        },
+        {
+            "id": "nm0363560",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sarah Harmon",
+            "asCharacter": "Has Faith in Groups"
+        },
+        {
+            "id": "nm0371382",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Haymond",
+            "asCharacter": "Street Dweller"
+        },
+        {
+            "id": "nm0805318",
+            "image": "https://imdb-api.com/images/original/MV5BZmE2MTJkYWEtYjZhOS00MWFmLTllNTgtNDcyYzI1ZDg3NGU0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "John Slate",
+            "asCharacter": "'Conspiracy A-Go-Go' Author"
+        },
+        {
+            "id": "nm0887189",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Scott Van Horn",
+            "asCharacter": "Nova"
+        },
+        {
+            "id": "nm0199679",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lee Daniel",
+            "asCharacter": "GTO"
+        },
+        {
+            "id": "nm0348304",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles Gunning",
+            "asCharacter": "Hitchhiker Awaiting 'True Call'"
+        },
+        {
+            "id": "nm0727628",
+            "image": "https://imdb-api.com/images/original/MV5BNWM4ZWJhZDYtMDMxYy00NGMwLWI0ZDItZjVhOTI5NWNhNDAxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Tamsy Ringler",
+            "asCharacter": "Video Interviewer"
+        },
+        {
+            "id": "nm0767791",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Luke Savisky",
+            "asCharacter": "Video Cameraman"
+        },
+        {
+            "id": "nm0107356",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Meg Brennan",
+            "asCharacter": "Sitting at Cafe"
+        },
+        {
+            "id": "nm0396158",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Phillip Hostak",
+            "asCharacter": "Hit Up for Cigarettes"
+        },
+        {
+            "id": "nm0531666",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "D. Angus MacDonald",
+            "asCharacter": "Video Playing Store Security"
+        },
+        {
+            "id": "nm0471536",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shelly Kristaponis",
+            "asCharacter": "Shoplifter"
+        },
+        {
+            "id": "nm0533476",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Louis Mackey",
+            "asCharacter": "Old Anarchist"
+        },
+        {
+            "id": "nm2625193",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kathy McCarty",
+            "asCharacter": "Anarchist's Daughter"
+        },
+        {
+            "id": "nm0481983",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Laird",
+            "asCharacter": "Burglar"
+        },
+        {
+            "id": "nm0580587",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jack Meredith",
+            "asCharacter": "Get-Away Accomplice"
+        },
+        {
+            "id": "nm0907635",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Clark Walker",
+            "asCharacter": "Cadillac Crook (as Clark Lee Walker)"
+        },
+        {
+            "id": "nm0817682",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kalman Spelletich",
+            "asCharacter": "Video Backpacker (as Kalman Spellitich)"
+        },
+        {
+            "id": "nm0929511",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Siqgouri Wilkovich",
+            "asCharacter": "Slapping Boyfriend"
+        },
+        {
+            "id": "nm0370154",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Hawkins",
+            "asCharacter": "Choking Girlfriend"
+        },
+        {
+            "id": "nm0722524",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Scott Rhodes",
+            "asCharacter": "Disguntled Grad Student"
+        },
+        {
+            "id": "nm0599754",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "D. Montgomery",
+            "asCharacter": "Having a Breakthrough Day (as Denise Montgomery)"
+        },
+        {
+            "id": "nm0900001",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mimi Vitetta",
+            "asCharacter": "Teacup Sculpter"
+        },
+        {
+            "id": "nm0800523",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Susannah Simone",
+            "asCharacter": "Working on Same Painting"
+        },
+        {
+            "id": "nm2576122",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruce Hughes",
+            "asCharacter": "Card Playing Waiter"
+        },
+        {
+            "id": "nm0282053",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Keith Fletcher",
+            "asCharacter": "Cafe Card Player #1"
+        },
+        {
+            "id": "nm0119128",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eric Buehlman",
+            "asCharacter": "Cafe Card Player #2"
+        },
+        {
+            "id": "nm0539526",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "R. Malice",
+            "asCharacter": "Scooby Doo Philosopher"
+        },
+        {
+            "id": "nm0704346",
+            "image": "https://imdb-api.com/images/original/MV5BNDUxZDkxM2QtYWJmNy00MjBlLWE5YjgtMGQ3YTQxYzRkMjZkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Mark Quirk",
+            "asCharacter": "Papa Smurf"
+        },
+        {
+            "id": "nm0471811",
+            "image": "https://imdb-api.com/images/original/MV5BMjAzOTM4MTM1M15BMl5BanBnXkFtZTgwNDU2NjQ4ODE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Kim Krizan",
+            "asCharacter": "Questions Happiness"
+        },
+        {
+            "id": "nm0815762",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Annick Souhami",
+            "asCharacter": "Has Conquered Fear of Rejection"
+        },
+        {
+            "id": "nm0308961",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Regina Garza",
+            "asCharacter": "Smoking Writer"
+        },
+        {
+            "id": "nm0414920",
+            "image": "https://imdb-api.com/images/original/MV5BOWEyZjM3ZDQtYzNjNi00M2IxLThlNGMtYmQ2N2I3ZDQwNjA5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Stephen Jacobson",
+            "asCharacter": "S-T-E-V-E with a Van"
+        },
+        {
+            "id": "nm0520428",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eric Lord",
+            "asCharacter": "Doorman at Club"
+        },
+        {
+            "id": "nm0512994",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kelly Linn",
+            "asCharacter": "Bike Rider with Nice Shoes"
+        },
+        {
+            "id": "nm0718125",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ4MDUwMjYzMV5BMl5BanBnXkFtZTcwNjE1NjI0NA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Athin\u00e1-Rach\u00e9l Tsang\u00e1ri",
+            "asCharacter": "Cousin from Greece (as Rachael Reinhardt)"
+        },
+        {
+            "id": "nm0071562",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stewart Bennet",
+            "asCharacter": "Sitting on Ledge"
+        },
+        {
+            "id": "nm0861035",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kevin Thomson",
+            "asCharacter": "Handstamping Arm Licker"
+        },
+        {
+            "id": "nm0535555",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nick Maffei",
+            "asCharacter": "Pixl-Visionary"
+        },
+        {
+            "id": "nm0607259",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nolan Morrison",
+            "asCharacter": "To Be Buried by History"
+        },
+        {
+            "id": "nm0742380",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kyle Rosenblad",
+            "asCharacter": "Going to Catch a Show"
+        },
+        {
+            "id": "nm3345231",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ed Hall",
+            "asCharacter": "Band Playing at Club"
+        },
+        {
+            "id": "nm0779521",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lucinda Scott",
+            "asCharacter": "Dairy Queen Photographer"
+        },
+        {
+            "id": "nm0910677",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wammo",
+            "asCharacter": "Anti-Artist"
+        },
+        {
+            "id": "nm0404917",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marianne Hyatt",
+            "asCharacter": "Late Night Pick-Up"
+        },
+        {
+            "id": "nm1418798",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gary Price",
+            "asCharacter": "Watching Early Morning TV"
+        },
+        {
+            "id": "nm0428460",
+            "image": "https://imdb-api.com/images/original/MV5BMjE1ODBlNmYtNjMxNy00MWJmLTk0YzQtMzUyMjBmODgyNzNiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Joseph Jones",
+            "asCharacter": "Old Man Recording Thoughts"
+        },
+        {
+            "id": "nm0808945",
+            "image": "https://imdb-api.com/images/original/MV5BOWI2OWFmMzktOTQyYi00ZWNiLTg3OWEtYjVkOWIwZjU1NmYwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Kendall Smith",
+            "asCharacter": "Post-Modern Paul Revere (as Kendal Smith)"
+        },
+        {
+            "id": "nm0168895",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sean Coffey",
+            "asCharacter": "Super 8 Cameraman"
+        },
+        {
+            "id": "nm3189702",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jennifer Carroll",
+            "asCharacter": "All-Night Partier"
+        },
+        {
+            "id": "nm0635776",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charlotte Norris",
+            "asCharacter": "Convertible Driver"
+        },
+        {
+            "id": "nm0838276",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrice Sullivan",
+            "asCharacter": "Day Tripper"
+        },
+        {
+            "id": "nm0911563",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Greg Ward",
+            "asCharacter": "Tosses Camera Off Cliff"
+        },
+        {
+            "id": "nm0258011",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Enright",
+            "asCharacter": "Bicyclist (uncredited)"
+        },
+        {
+            "id": "nm0413210",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1NTU5OTMyNF5BMl5BanBnXkFtZTYwNDA0NDky._V1_Ratio0.7727_AL_.jpg",
+            "name": "Robert Jacks",
+            "asCharacter": "Club Owner (voice) (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0102943",
+        "title": "Slacker",
+        "fullTitle": "Slacker (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000500",
+                    "name": "Richard Linklater",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000500",
+                    "name": "Richard Linklater",
+                    "description": "(writer)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000500",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0Mzc2NzY0Ml5BMl5BanBnXkFtZTcwOTI3OTI5MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Richard Linklater",
+                "asCharacter": "Should Have Stayed at Bus Station"
+            },
+            {
+                "id": "nm0060015",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rudy Basquez",
+                "asCharacter": "Taxi Driver"
+            },
+            {
+                "id": "nm0128414",
+                "image": "https://imdb-api.com/images/original/MV5BZTkwMjZmMWItYTJlMC00MDBkLWJiZWEtYjFkMjAyNGVlODI3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Jean Caffeine",
+                "asCharacter": "Roadkill"
+            },
+            {
+                "id": "nm0387914",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jan Hockey",
+                "asCharacter": "Jogger"
+            },
+            {
+                "id": "nm0387916",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Stephan Hockey",
+                "asCharacter": "Running Late"
+            },
+            {
+                "id": "nm0416739",
+                "image": "https://imdb-api.com/images/original/MV5BNWUwNTQzYzAtOWExZC00OWNhLWE5ZjUtODY2NTU1OTI2Y2MxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5455_AL_.jpg",
+                "name": "Mark James",
+                "asCharacter": "Hit-and-Run Son"
+            },
+            {
+                "id": "nm0226191",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Samuel Dietert",
+                "asCharacter": "Grocery Grabber of Death's Bounty"
+            },
+            {
+                "id": "nm0101712",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bob Boyd",
+                "asCharacter": "Officer Bozzio"
+            },
+            {
+                "id": "nm0456559",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Terrence Kirk",
+                "asCharacter": "Officer Love"
+            },
+            {
+                "id": "nm0566460",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Keith McCormack",
+                "asCharacter": "Street Musician"
+            },
+            {
+                "id": "nm0770278",
+                "image": "https://imdb-api.com/images/original/MV5BYjg2MGJiZWMtYjY3OC00NDYyLWI1NzgtOTY1ZDIyMzU3Yjg0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Jennifer Schaudies",
+                "asCharacter": "Walking to Coffee Shop"
+            },
+            {
+                "id": "nm0470019",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dan Kratochvil",
+                "asCharacter": "Espresso Czar / Masonic Malcontent"
+            },
+            {
+                "id": "nm0833893",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Maris Strautmanis",
+                "asCharacter": "Giant Cappuccino"
+            },
+            {
+                "id": "nm0026065",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Brecht Andersch",
+                "asCharacter": "Dostoyevsky Wannabe"
+            },
+            {
+                "id": "nm0657921",
+                "image": "https://imdb-api.com/images/original/MV5BN2QxNjQ1ZGItNzc4YS00YjI0LWIzY2UtOWI3MjcyNDRhNmY5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Tommy Pallotta",
+                "asCharacter": "Looking for Missing Friend (as Tom Pallotta)"
+            },
+            {
+                "id": "nm0217695",
+                "image": "https://imdb-api.com/images/original/MV5BZTc5MDU1OGItZmUzYy00YWVjLThmYjYtOGI5YmZiYmQwMWUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Jerry Delony",
+                "asCharacter": "Been on the Moon Since the 50's (as Jerry Deloney)"
+            },
+            {
+                "id": "nm0922095",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Heather West",
+                "asCharacter": "Tura Satana Look-Alike"
+            },
+            {
+                "id": "nm0817178",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John Spath",
+                "asCharacter": "Co-op Guy"
+            },
+            {
+                "id": "nm0548954",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ron Marks",
+                "asCharacter": "Bush Basher"
+            },
+            {
+                "id": "nm0240793",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Daniel Dugan",
+                "asCharacter": "Comb Game Player"
+            },
+            {
+                "id": "nm0188391",
+                "image": "https://imdb-api.com/images/original/MV5BZjIzYzNhNDMtMWMzZi00YWIyLWIxNTYtMGQ0MGI4MGQyYzRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Brian Crockett",
+                "asCharacter": "Sadistic Comb Game Player"
+            },
+            {
+                "id": "nm0546182",
+                "image": "https://imdb-api.com/images/original/MV5BMjRjYjI4YTYtM2IwMy00NmM3LTg3OGMtNTA5YjllN2YzNzI5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Scott Marcus",
+                "asCharacter": "Ultimate Loser"
+            },
+            {
+                "id": "nm0918632",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Stella Weir",
+                "asCharacter": "Stephanie from Dallas"
+            },
+            {
+                "id": "nm0853244",
+                "image": "https://imdb-api.com/images/original/MV5BNmY5NTk0NzQtOTgyNi00Yzc4LTk1YjctNjVhNmEwN2M4OTA2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8636_AL_.jpg",
+                "name": "Teresa Taylor",
+                "asCharacter": "Pap Smear Pusher"
+            },
+            {
+                "id": "nm0365055",
+                "image": "https://imdb-api.com/images/original/MV5BOWMwNDNjZjYtOWMwMS00NDRjLTk2MDgtOGVmZjBlNTZjMTc1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Mark Harris",
+                "asCharacter": "T-Shirt Terrorist"
+            },
+            {
+                "id": "nm0933467",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Greg Wilson",
+                "asCharacter": "Anti-Traveller"
+            },
+            {
+                "id": "nm0665042",
+                "image": "https://imdb-api.com/images/original/MV5BZWJkZTNjOTktMGVjMy00YzY3LWJiZWQtMDM5M2JhOTdmOWUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Deborah Pastor",
+                "asCharacter": "Wants to Leave Country (as Debbie Pastor)"
+            },
+            {
+                "id": "nm0482437",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gina Lalli",
+                "asCharacter": "Sidewalk Psychic"
+            },
+            {
+                "id": "nm0740446",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sharon Roos",
+                "asCharacter": "Devoted Follower"
+            },
+            {
+                "id": "nm0650632",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Frank Orrall",
+                "asCharacter": "Happy-Go-Lucky Guy"
+            },
+            {
+                "id": "nm0298449",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Skip Fulton Jr.",
+                "asCharacter": "Two for One Special"
+            },
+            {
+                "id": "nm0600862",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Abra Moore",
+                "asCharacter": "Has Change"
+            },
+            {
+                "id": "nm0135446",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lori Capp",
+                "asCharacter": "Traumatized Yacht Owner"
+            },
+            {
+                "id": "nm0891386",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gus Vayas",
+                "asCharacter": "Cranky Cook"
+            },
+            {
+                "id": "nm0085405",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5MDQ5OTkyN15BMl5BanBnXkFtZTcwMTY1MjQyOQ@@._V1_Ratio0.9091_AL_.jpg",
+                "name": "Louis Black",
+                "asCharacter": "Paranoid Paper Reader"
+            },
+            {
+                "id": "nm0835145",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Don Stroud",
+                "asCharacter": "Recluse in Bathrobe"
+            },
+            {
+                "id": "nm0177631",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Janelle Coolich",
+                "asCharacter": "Shut-in Girlfriend"
+            },
+            {
+                "id": "nm0057628",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Aleister Barron",
+                "asCharacter": "Peeping Kid"
+            },
+            {
+                "id": "nm0070362",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Albans Benchoff",
+                "asCharacter": "Coke Machine Robber"
+            },
+            {
+                "id": "nm0070363",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nigel Benchoff",
+                "asCharacter": "Budding Capitalist Youth"
+            },
+            {
+                "id": "nm0057732",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Zara Barron",
+                "asCharacter": "Coke Heist Accomplice"
+            },
+            {
+                "id": "nm0926065",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kevin Whitley",
+                "asCharacter": "Jilted Boyfriend"
+            },
+            {
+                "id": "nm0027475",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Steven Anderson",
+                "asCharacter": "Guy Who Tosses Typewriter"
+            },
+            {
+                "id": "nm0682806",
+                "image": "https://imdb-api.com/images/original/MV5BODAyYjc3ZWYtZmY3OC00OGQ3LWJkZGUtYjA3MGU5Nzk3NjQ3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Robert Pierson",
+                "asCharacter": "Based on Authoritative Sources"
+            },
+            {
+                "id": "nm0363560",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sarah Harmon",
+                "asCharacter": "Has Faith in Groups"
+            },
+            {
+                "id": "nm0371382",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "David Haymond",
+                "asCharacter": "Street Dweller"
+            },
+            {
+                "id": "nm0805318",
+                "image": "https://imdb-api.com/images/original/MV5BZmE2MTJkYWEtYjZhOS00MWFmLTllNTgtNDcyYzI1ZDg3NGU0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "John Slate",
+                "asCharacter": "'Conspiracy A-Go-Go' Author"
+            },
+            {
+                "id": "nm0887189",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Scott Van Horn",
+                "asCharacter": "Nova"
+            },
+            {
+                "id": "nm0199679",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lee Daniel",
+                "asCharacter": "GTO"
+            },
+            {
+                "id": "nm0348304",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Charles Gunning",
+                "asCharacter": "Hitchhiker Awaiting 'True Call'"
+            },
+            {
+                "id": "nm0727628",
+                "image": "https://imdb-api.com/images/original/MV5BNWM4ZWJhZDYtMDMxYy00NGMwLWI0ZDItZjVhOTI5NWNhNDAxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Tamsy Ringler",
+                "asCharacter": "Video Interviewer"
+            },
+            {
+                "id": "nm0767791",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Luke Savisky",
+                "asCharacter": "Video Cameraman"
+            },
+            {
+                "id": "nm0107356",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Meg Brennan",
+                "asCharacter": "Sitting at Cafe"
+            },
+            {
+                "id": "nm0396158",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Phillip Hostak",
+                "asCharacter": "Hit Up for Cigarettes"
+            },
+            {
+                "id": "nm0531666",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "D. Angus MacDonald",
+                "asCharacter": "Video Playing Store Security"
+            },
+            {
+                "id": "nm0471536",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Shelly Kristaponis",
+                "asCharacter": "Shoplifter"
+            },
+            {
+                "id": "nm0533476",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Louis Mackey",
+                "asCharacter": "Old Anarchist"
+            },
+            {
+                "id": "nm2625193",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kathy McCarty",
+                "asCharacter": "Anarchist's Daughter"
+            },
+            {
+                "id": "nm0481983",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michael Laird",
+                "asCharacter": "Burglar"
+            },
+            {
+                "id": "nm0580587",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jack Meredith",
+                "asCharacter": "Get-Away Accomplice"
+            },
+            {
+                "id": "nm0907635",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Clark Walker",
+                "asCharacter": "Cadillac Crook (as Clark Lee Walker)"
+            },
+            {
+                "id": "nm0817682",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kalman Spelletich",
+                "asCharacter": "Video Backpacker (as Kalman Spellitich)"
+            },
+            {
+                "id": "nm0929511",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Siqgouri Wilkovich",
+                "asCharacter": "Slapping Boyfriend"
+            },
+            {
+                "id": "nm0370154",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John Hawkins",
+                "asCharacter": "Choking Girlfriend"
+            },
+            {
+                "id": "nm0722524",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Scott Rhodes",
+                "asCharacter": "Disguntled Grad Student"
+            },
+            {
+                "id": "nm0599754",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "D. Montgomery",
+                "asCharacter": "Having a Breakthrough Day (as Denise Montgomery)"
+            },
+            {
+                "id": "nm0900001",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mimi Vitetta",
+                "asCharacter": "Teacup Sculpter"
+            },
+            {
+                "id": "nm0800523",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Susannah Simone",
+                "asCharacter": "Working on Same Painting"
+            },
+            {
+                "id": "nm2576122",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bruce Hughes",
+                "asCharacter": "Card Playing Waiter"
+            },
+            {
+                "id": "nm0282053",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Keith Fletcher",
+                "asCharacter": "Cafe Card Player #1"
+            },
+            {
+                "id": "nm0119128",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Eric Buehlman",
+                "asCharacter": "Cafe Card Player #2"
+            },
+            {
+                "id": "nm0539526",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "R. Malice",
+                "asCharacter": "Scooby Doo Philosopher"
+            },
+            {
+                "id": "nm0704346",
+                "image": "https://imdb-api.com/images/original/MV5BNDUxZDkxM2QtYWJmNy00MjBlLWE5YjgtMGQ3YTQxYzRkMjZkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3636_AL_.jpg",
+                "name": "Mark Quirk",
+                "asCharacter": "Papa Smurf"
+            },
+            {
+                "id": "nm0471811",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzOTM4MTM1M15BMl5BanBnXkFtZTgwNDU2NjQ4ODE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Kim Krizan",
+                "asCharacter": "Questions Happiness"
+            },
+            {
+                "id": "nm0815762",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Annick Souhami",
+                "asCharacter": "Has Conquered Fear of Rejection"
+            },
+            {
+                "id": "nm0308961",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Regina Garza",
+                "asCharacter": "Smoking Writer"
+            },
+            {
+                "id": "nm0414920",
+                "image": "https://imdb-api.com/images/original/MV5BOWEyZjM3ZDQtYzNjNi00M2IxLThlNGMtYmQ2N2I3ZDQwNjA5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Stephen Jacobson",
+                "asCharacter": "S-T-E-V-E with a Van"
+            },
+            {
+                "id": "nm0520428",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Eric Lord",
+                "asCharacter": "Doorman at Club"
+            },
+            {
+                "id": "nm0512994",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kelly Linn",
+                "asCharacter": "Bike Rider with Nice Shoes"
+            },
+            {
+                "id": "nm0718125",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4MDUwMjYzMV5BMl5BanBnXkFtZTcwNjE1NjI0NA@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Athin\u00e1-Rach\u00e9l Tsang\u00e1ri",
+                "asCharacter": "Cousin from Greece (as Rachael Reinhardt)"
+            },
+            {
+                "id": "nm0071562",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Stewart Bennet",
+                "asCharacter": "Sitting on Ledge"
+            },
+            {
+                "id": "nm0861035",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kevin Thomson",
+                "asCharacter": "Handstamping Arm Licker"
+            },
+            {
+                "id": "nm0535555",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nick Maffei",
+                "asCharacter": "Pixl-Visionary"
+            },
+            {
+                "id": "nm0607259",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nolan Morrison",
+                "asCharacter": "To Be Buried by History"
+            },
+            {
+                "id": "nm0742380",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kyle Rosenblad",
+                "asCharacter": "Going to Catch a Show"
+            },
+            {
+                "id": "nm3345231",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ed Hall",
+                "asCharacter": "Band Playing at Club"
+            },
+            {
+                "id": "nm0779521",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lucinda Scott",
+                "asCharacter": "Dairy Queen Photographer"
+            },
+            {
+                "id": "nm0910677",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Wammo",
+                "asCharacter": "Anti-Artist"
+            },
+            {
+                "id": "nm0404917",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marianne Hyatt",
+                "asCharacter": "Late Night Pick-Up"
+            },
+            {
+                "id": "nm1418798",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gary Price",
+                "asCharacter": "Watching Early Morning TV"
+            },
+            {
+                "id": "nm0428460",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1ODBlNmYtNjMxNy00MWJmLTk0YzQtMzUyMjBmODgyNzNiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Joseph Jones",
+                "asCharacter": "Old Man Recording Thoughts"
+            },
+            {
+                "id": "nm0808945",
+                "image": "https://imdb-api.com/images/original/MV5BOWI2OWFmMzktOTQyYi00ZWNiLTg3OWEtYjVkOWIwZjU1NmYwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Kendall Smith",
+                "asCharacter": "Post-Modern Paul Revere (as Kendal Smith)"
+            },
+            {
+                "id": "nm0168895",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sean Coffey",
+                "asCharacter": "Super 8 Cameraman"
+            },
+            {
+                "id": "nm3189702",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jennifer Carroll",
+                "asCharacter": "All-Night Partier"
+            },
+            {
+                "id": "nm0635776",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Charlotte Norris",
+                "asCharacter": "Convertible Driver"
+            },
+            {
+                "id": "nm0838276",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Patrice Sullivan",
+                "asCharacter": "Day Tripper"
+            },
+            {
+                "id": "nm0911563",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Greg Ward",
+                "asCharacter": "Tosses Camera Off Cliff"
+            },
+            {
+                "id": "nm0258011",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mike Enright",
+                "asCharacter": "Bicyclist (uncredited)"
+            },
+            {
+                "id": "nm0413210",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1NTU5OTMyNF5BMl5BanBnXkFtZTYwNDA0NDky._V1_Ratio0.7727_AL_.jpg",
+                "name": "Robert Jacks",
+                "asCharacter": "Club Owner (voice) (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0000500",
+                        "name": "Richard Linklater",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0199679",
+                        "name": "Lee Daniel",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0722524",
+                        "name": "Scott Rhodes",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0908323",
+                        "name": "Anne Walker-McBay",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0665042",
+                        "name": "Deborah Pastor",
+                        "description": "(uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0908323",
+                        "name": "Anne Walker-McBay",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0548954",
+                        "name": "Ron Marks",
+                        "description": "graphics"
+                    },
+                    {
+                        "id": "nm0599754",
+                        "name": "D. Montgomery",
+                        "description": "art department (as Denise Montgomery)"
+                    },
+                    {
+                        "id": "nm0665042",
+                        "name": "Deborah Pastor",
+                        "description": "art department (as Debbie Pastor)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0599754",
+                        "name": "D. Montgomery",
+                        "description": "sound (as Denise Montgomery)"
+                    },
+                    {
+                        "id": "nm0614134",
+                        "name": "Bruce Murphy",
+                        "description": "sound stereo consultant"
+                    },
+                    {
+                        "id": "nm1341226",
+                        "name": "Fred Remmert",
+                        "description": "post-production sound engineer"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0031615",
+                        "name": "Abby Antweil",
+                        "description": "grip (as Abbey Antweil)"
+                    },
+                    {
+                        "id": "nm0174908",
+                        "name": "Scott Conn",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0721686",
+                        "name": "Dennis Reynolds",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0722524",
+                        "name": "Scott Rhodes",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0817178",
+                        "name": "John Spath",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0346001",
+                        "name": "Carlos Guerra Villareal",
+                        "description": "grip (as Carlos Guerra)"
+                    },
+                    {
+                        "id": "nm0907635",
+                        "name": "Clark Walker",
+                        "description": "assistant camera / dolly grip"
+                    },
+                    {
+                        "id": "nm0914840",
+                        "name": "Ralph Watson",
+                        "description": "Steadicam operator"
+                    },
+                    {
+                        "id": "nm0915971",
+                        "name": "Tracey Holman Weaver",
+                        "description": "grip (as Tracy Weaver)"
+                    },
+                    {
+                        "id": "nm0907635",
+                        "name": "Clark Walker",
+                        "description": "pixelvision camera opertator (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm2376235",
+                        "name": "Omar Godinez",
+                        "description": "telecine colorist"
+                    },
+                    {
+                        "id": "nm1933507",
+                        "name": "Bob Rogers",
+                        "description": "negative cutter"
+                    },
+                    {
+                        "id": "nm0700500",
+                        "name": "Dave Pultz",
+                        "description": "color timer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0107356",
+                        "name": "Meg Brennan",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0170111",
+                        "name": "Katie Cokinos",
+                        "description": "promotion/publicity"
+                    },
+                    {
+                        "id": "nm1935705",
+                        "name": "Clay Daniel",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1927095",
+                        "name": "Ethan Dunn",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1935762",
+                        "name": "Kerthy Fix",
+                        "description": "production assistant (as Kerthy Hearn)"
+                    },
+                    {
+                        "id": "nm0470019",
+                        "name": "Dan Kratochvil",
+                        "description": "production assistant (as Daniel Kratochvil)"
+                    },
+                    {
+                        "id": "nm0551928",
+                        "name": "Anthony Martin",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0580587",
+                        "name": "Jack Meredith",
+                        "description": "additional text"
+                    },
+                    {
+                        "id": "nm1932698",
+                        "name": "Noel Mitchell",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0657921",
+                        "name": "Tommy Pallotta",
+                        "description": "production assistant (as Tom Pallotta)"
+                    },
+                    {
+                        "id": "nm1935825",
+                        "name": "Michael Rigby",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm3956466",
+                        "name": "Charles Self",
+                        "description": "production assistant (as Charles W. Self)"
+                    },
+                    {
+                        "id": "nm0800523",
+                        "name": "Susannah Simone",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1488508",
+                        "name": "Laura Tabor-Huerta",
+                        "description": "production assistant (as Laura Tabor)"
+                    },
+                    {
+                        "id": "nm1100946",
+                        "name": "Joseph T. Walker",
+                        "description": "production assistant (as Todd Walker)"
+                    },
+                    {
+                        "id": "nm0682775",
+                        "name": "John Pierson",
+                        "description": "producer's representative (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm1930571",
+                        "name": "Caroline Adams",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044650",
+                        "name": "Max Addison",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044292",
+                        "name": "Paul Agemerien",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1931712",
+                        "name": "Hans Alehag",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0034827",
+                        "name": "Karen Arikian",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1932383",
+                        "name": "B.J. Armstrong",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2048698",
+                        "name": "Norm Ballinger",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1519376",
+                        "name": "Renee Barron",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2046425",
+                        "name": "Barbara Baruch",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044537",
+                        "name": "Jim Berry",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1932677",
+                        "name": "Rebekah Bogage",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2023682",
+                        "name": "David Chan",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm3080174",
+                        "name": "Mark Coffey",
+                        "description": "thanks"
+                    },
+                    {
+                        "id": "nm0169608",
+                        "name": "Maxi Cohen",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0192093",
+                        "name": "Gregory Cundiff",
+                        "description": "special thanks (as Greg Cundiff)"
+                    },
+                    {
+                        "id": "nm0199584",
+                        "name": "Bill Daniel",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1929124",
+                        "name": "Iris Davis",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2047576",
+                        "name": "Jerry Defrese",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1933355",
+                        "name": "Michael Diaz",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0246972",
+                        "name": "Werner D\u00fctsch",
+                        "description": "special thanks (as Werner Dutsch)"
+                    },
+                    {
+                        "id": "nm3617311",
+                        "name": "David Ferrer",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1152630",
+                        "name": "Steve Fitch",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0294120",
+                        "name": "John R. French",
+                        "description": "special thanks (as John French)"
+                    },
+                    {
+                        "id": "nm1928810",
+                        "name": "Arlene Garfield",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044899",
+                        "name": "Bud George",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1928985",
+                        "name": "Joey Grundel",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2045581",
+                        "name": "Robert 'Mo' Harry",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0392086",
+                        "name": "Vance Holmes",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1936146",
+                        "name": "Jeff Hoppenstein",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1590253",
+                        "name": "Vincent Hostak",
+                        "description": "special thanks (as Vince Hostak)"
+                    },
+                    {
+                        "id": "nm0397250",
+                        "name": "Don Howard",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2047014",
+                        "name": "Clay Hunn",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1935454",
+                        "name": "Schuyler Hupp",
+                        "description": "special thanks (as Schyler Hupp)"
+                    },
+                    {
+                        "id": "nm0413210",
+                        "name": "Robert Jacks",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1740212",
+                        "name": "Marie Javins",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1016151",
+                        "name": "Steve Jones",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1928905",
+                        "name": "Nick Joost",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2047905",
+                        "name": "Tim Kerr",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1936127",
+                        "name": "Ted Kilian",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2045235",
+                        "name": "Tom King",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0465629",
+                        "name": "Richard Kooris",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2048032",
+                        "name": "Charles Krieger",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1929898",
+                        "name": "Jay Krieger",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044517",
+                        "name": "Claire LaVay",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0496727",
+                        "name": "Mona Lee Fultz",
+                        "description": "special thanks (as Mona Lee)"
+                    },
+                    {
+                        "id": "nm2044569",
+                        "name": "Carol Lewellen",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1926540",
+                        "name": "Charles Linklater",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2045627",
+                        "name": "Diane Linklater",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1928600",
+                        "name": "Jacque Linklater",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0512936",
+                        "name": "Tricia Linklater",
+                        "description": "special thanks (as Patricia Linklater)"
+                    },
+                    {
+                        "id": "nm1935820",
+                        "name": "Brian Locklin",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0565504",
+                        "name": "Jennifer McCauley Logue",
+                        "description": "special thanks (as Jennifer McCauley)"
+                    },
+                    {
+                        "id": "nm2045070",
+                        "name": "Robert Lowe",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1054656",
+                        "name": "Darryl Macdonald",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0551724",
+                        "name": "Karol Martesko",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2007447",
+                        "name": "Jason Martin",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044613",
+                        "name": "Nan Meltzer",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2046114",
+                        "name": "Rachael Moeller",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2045580",
+                        "name": "Shirley Montgomery",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2049018",
+                        "name": "Sid Moody",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044700",
+                        "name": "Penny Moran",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1893511",
+                        "name": "George Morris",
+                        "description": "in memory of"
+                    },
+                    {
+                        "id": "nm2045350",
+                        "name": "Sheilah Murthy",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1221395",
+                        "name": "Chale Nafus",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2047306",
+                        "name": "Molly Omelchuck",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1934495",
+                        "name": "Tomas Pantin",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2046141",
+                        "name": "Jamie Panzer",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2046973",
+                        "name": "Ron Parks",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044620",
+                        "name": "Roger Parthasarathy",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2044953",
+                        "name": "Susan Parthasarathy",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0673304",
+                        "name": "Tonie Perensky",
+                        "description": "special thanks (as Tony Perenski)"
+                    },
+                    {
+                        "id": "nm0673983",
+                        "name": "Kari Perkins",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2046555",
+                        "name": "Jeff Phillips",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0682775",
+                        "name": "John Pierson",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0688128",
+                        "name": "Steve Poe",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0695632",
+                        "name": "Jonny Pray",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1418798",
+                        "name": "Gary Price",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2047083",
+                        "name": "Lisa Qualls",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0708395",
+                        "name": "Charles Ramirez-Berg",
+                        "description": "special thanks (as Charles Berg)"
+                    },
+                    {
+                        "id": "nm2044671",
+                        "name": "Ulla Rapp",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2046132",
+                        "name": "Nancy Raveling",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1891047",
+                        "name": "David Ray",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0725813",
+                        "name": "John Ridenour",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2047637",
+                        "name": "Edwin Roed",
+                        "description": "special thanks (as Edwin Reed)"
+                    },
+                    {
+                        "id": "nm1250145",
+                        "name": "Karen Rupert",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2048800",
+                        "name": "Steve Samuels",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2045818",
+                        "name": "Thomas Selsley",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0793970",
+                        "name": "Ferrell A. Shinnick",
+                        "description": "special thanks (as Ferrel Schinnick)"
+                    },
+                    {
+                        "id": "nm2047594",
+                        "name": "Art Silver",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0808658",
+                        "name": "Jeff Smith",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2484723",
+                        "name": "Kim Spears",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2047307",
+                        "name": "Robin Stanton",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2045561",
+                        "name": "Newman P. Stribling",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2046450",
+                        "name": "Evelyn Talmadge",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2046581",
+                        "name": "Randy Turner",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0887189",
+                        "name": "Scott Van Horn",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2048136",
+                        "name": "Nicholas Vroman",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1100946",
+                        "name": "Joseph T. Walker",
+                        "description": "special thanks (as Todd Walker)"
+                    },
+                    {
+                        "id": "nm2045164",
+                        "name": "Ray Washam",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2048702",
+                        "name": "Steve Wertheimer",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2049315",
+                        "name": "Britt Wilson",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm2045396",
+                        "name": "Jim Wilson",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1053805",
+                        "name": "Barbara Zimmermann",
+                        "description": "special thanks (as Barbara Zimmerman)"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Comedy, Drama",
+    "genreList": [
+        {
+            "key": "Comedy",
+            "value": "Comedy"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Detour Filmproduction",
+    "companyList": [
+        {
+            "id": "co0123642",
+            "name": "Detour Filmproduction"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.1",
+    "imDbRatingVotes": "18934",
+    "metacriticRating": "69",
+    "ratings": {
+        "imDbId": "tt0102943",
+        "title": "Slacker",
+        "fullTitle": "Slacker (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "imDb": "7.1",
+        "metacritic": "69",
+        "theMovieDb": "6.8",
+        "rottenTomatoes": "87",
+        "tV_com": "8.5",
+        "filmAffinity": "6.8",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0102943",
+        "title": "Slacker",
+        "fullTitle": "Slacker (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "language": "en",
+        "titleInLanguage": "Slacker (film)",
+        "url": "https://en.wikipedia.org/wiki/Slacker_(film)",
+        "plotShort": {
+            "plainText": "Slacker (film)\r\nSlacker is a 1990 American independent comedy-drama film written and directed by Richard Linklater, who also appears in the film. Slacker was nominated for the Grand Jury Prize - Dramatic at the Sundance Film Festival in 1991.\r\nIn 2012, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\".",
+            "html": "<h2>Slacker (film)</h2><p>Slacker is a 1990 American independent comedy-drama film written and directed by Richard Linklater, who also appears in the film. Slacker was nominated for the Grand Jury Prize - Dramatic at the Sundance Film Festival in 1991.</p><p>In 2012, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\".</p>"
+        },
+        "plotFull": {
+            "plainText": "Slacker (film)\r\nSlacker is a 1990 American independent comedy-drama film written and directed by Richard Linklater, who also appears in the film. Slacker was nominated for the Grand Jury Prize - Dramatic at the Sundance Film Festival in 1991.\r\nIn 2012, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\".\r\nPlot\r\nSlacker follows a single day in the life of an ensemble of mostly under-30 bohemians and misfits in Austin, Texas. The film follows various characters and scenes, never staying with one character or conversation for more than a few minutes before picking up someone else in the scene and following them.\r\nThe characters include Linklater as a talkative taxi passenger, a UFO buff who insists the U.S. has been on the moon since the 1950s, a JFK conspiracy theorist, an elderly anarchist who befriends a man trying to rob his house, a television set collector, and a hipster woman trying to sell a Madonna pap smear. The woman selling the pap smear appears on the film poster, and was played by Butthole Surfers drummer Teresa Taylor.\r\nMost of the characters grapple with feelings of social exclusion or political marginalization, which are recurring themes in their conversations. They discuss social class, terrorism, joblessness, and government control of the media.\r\nCast\r\nRichard Linklater as \"Should Have Stayed at the Bus Station\"\r\nRudy Basquez as Taxicab Driver\r\nMark James as \"Hit-and-Run Son\"\r\nBob Boyd as Officer Bozzio\r\nTerrence Kirk as Officer Love\r\nStella Weir as Stephanie from Dallas\r\nTeresa Taylor as Pap Smear Pusher\r\nMark Harris as T-shirt Terrorist\r\nFrank Orrall as \"Happy-Go-Lucky Guy\"\r\nAbra Moore as \"Has Change\"\r\nLouis Black as Paranoid Paper Reader\r\nSarah Harmon as \"Has Faith in Groups\"\r\nJohn Slate as Conspiracy-A-Go-Go author\r\nLee Daniel as GTO\r\nCharles Gunning as Hitchhiker Awaiting \"True Call\"\r\nLouis Mackey as Old Anarchist\r\nScott Rhodes as Disgruntled Grad Student\r\nKim Krizan as \"Questions Happiness\"\r\nAthina Rachel Tsangari as Cousin from Greece (credited as Rachel Reinhardt)\r\nKalman Spelletich as Video Backpacker\r\nProduction\r\nSlacker's working title was No Longer/Not Yet. The film was shot in 1989 with a 16 mm Arriflex camera on location in Austin, Texas with a budget of $23,000, and premiered at Austin's Dobie Theater on July 27, 1990. Orion Classics acquired Slacker for nationwide distribution, and released a slightly modified 35mm version on July 5, 1991. It did not receive a wide release but went on to become a cult film bringing in a domestic gross of $1,228,108. The cast includes many notable Austinites, including Louis Black, Abra Moore, and members of some local bands of the era.\r\nRelease\r\nCritical reception\r\nRoger Ebert gave the film three out of four stars and wrote, \"Slacker is a movie with an appeal almost impossible to describe, although the method of the director, Richard Linklater, is as clear as day. He wants to show us a certain strata of campus life at the present time\". In his review for The New York Times, Vincent Canby wrote, \"Slacker is a 14-course meal composed entirely of desserts or, more accurately, a conventional film whose narrative has been thrown out and replaced by enough bits of local color to stock five years' worth of ordinary movies\".\r\nOwen Gleiberman of Entertainment Weekly gave the film an \"A-\" rating, writing, \"Slacker has a marvelously low-key observational cool ... the movie never loses its affectionate, shaggy-dog sense of America as a place in which people, by now, have almost too much freedom on their hands\". In his review for the Washington Post, Hal Hinson wrote, \"This is a work of scatterbrained originality, funny, unexpected and ceaselessly engaging\". Rolling Stone's Peter Travers wrote, \"What Linklater has captured is a generation of bristling minds unable to turn their thoughts into action. Linklater has the gift of a true satirist: He can make laughter catch in the throat\".\r\nIn his review for the Austin Chronicle, Chris Walters wrote, \"Few of the many films shot in Austin over the past 10 or 15 years even attempt to make something of the way its citizens live. Slacker is the only one I know of that claims this city's version of life on the margins of the working world as its whole subject, and it is one of the first American movies ever to find a form so apropos to the themes of disconnectedness and cultural drift\". Time magazine's Richard Corliss wrote, \"Though set in the '90s, Slacker has a spirit that is pure '60s, and in this loping, loopy, sidewise, delightful comedy, Austin is Haight-Ashbury\".\r\nOn review aggregator website Rotten Tomatoes, the film holds an approval rating of 87% based on 38 reviews, and an average rating of 7.35/10. The website's critical consensus reads, \"Slacker rests its shiftless thumb on the pulse of a generation with fresh filmmaking that captures the tenor of its time while establishing a benchmark for 1990s indie cinema.\" On Metacritic, the film has a weighted average score of 69 out of 100, based on 16 critics, indicating \"generally favorable reviews\".\r\nAmerican Film Institute recognition:\r\nAFI's 100 Years... 100 Laughs - Nominated\r\nHome media\r\nSlacker was released on VHS in June 1992 by Orion Home Video. An estimated 7,000 copies were shipped. A book also titled Slacker containing the screenplay, interviews, and writing about the film was published by St. Martin's Press, also in 1992. The film was re-released on VHS on March 7, 2000, by MGM. The film was released to DVD worldwide on January 13, 2003. A two-disc Criterion Collection boxed-set edition was released on August 31, 2004, in the US and Canada only. The set has many \"extras\", including a book on the film and Linklater's first feature film, It's Impossible to Learn to Plow by Reading Books, released on home video for the first time. Entertainment Weekly gave this edition an \"A-\" rating.\r\nImpact\r\nThe release of the film is often taken as a starting point (along with the earlier Sex, Lies, and Videotape) for the independent film movement of the 1990s. Many of the independent filmmakers of that period credit the film with inspiring or opening doors for them, perhaps most famously Kevin Smith, who has said on numerous occasions that the film was the inspiration for Clerks. The film also popularized the use of \"slacker\" to describe \"a person regarded as one of a large group or generation of young people (especially in the early to mid 1990s) characterized by apathy, aimlessness, and lack of ambition\".\r\nLinklater has said that he wanted the word to have positive connotations. For example, in a self-interview in the Austin Chronicle, Linklater stated: \u201cSlackers might look like the left-behinds of society, but they are actually one step ahead, rejecting most of society and the social hierarchy before it rejects them. The dictionary defines slackers as people who evade duties and responsibilities. A more modern notion would be people who are ultimately being responsible to themselves and not wasting their time in a realm of activity that has nothing to do with who they are or what they might be ultimately striving for.\u201d\r\nIn the early 1990s, Slacker was widely considered an accurate depiction of Generation X because the film's young adult characters are more interested in quasi-intellectual pastimes and socializing than career advancement. Linklater - who is a member of the \"Baby Boom\" generation - has long since eschewed the role of generational spokesperson. Moreover, Slacker includes members of various generations, and many of its themes are universal rather than generation-specific.",
+            "html": "<h2>Slacker (film)</h2><p>Slacker is a 1990 American independent comedy-drama film written and directed by Richard Linklater, who also appears in the film. Slacker was nominated for the Grand Jury Prize - Dramatic at the Sundance Film Festival in 1991.</p><p>In 2012, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\".</p><br/><h3>Plot</h3><p>Slacker follows a single day in the life of an ensemble of mostly under-30 bohemians and misfits in Austin, Texas. The film follows various characters and scenes, never staying with one character or conversation for more than a few minutes before picking up someone else in the scene and following them.</p><p>The characters include Linklater as a talkative taxi passenger, a UFO buff who insists the U.S. has been on the moon since the 1950s, a JFK conspiracy theorist, an elderly anarchist who befriends a man trying to rob his house, a television set collector, and a hipster woman trying to sell a Madonna pap smear. The woman selling the pap smear appears on the film poster, and was played by Butthole Surfers drummer Teresa Taylor.</p><p>Most of the characters grapple with feelings of social exclusion or political marginalization, which are recurring themes in their conversations. They discuss social class, terrorism, joblessness, and government control of the media.</p><br/><h3>Cast</h3><ul><li>Richard Linklater as \"Should Have Stayed at the Bus Station\"</li><li>Rudy Basquez as Taxicab Driver</li><li>Mark James as \"Hit-and-Run Son\"</li><li>Bob Boyd as Officer Bozzio</li><li>Terrence Kirk as Officer Love</li><li>Stella Weir as Stephanie from Dallas</li><li>Teresa Taylor as Pap Smear Pusher</li><li>Mark Harris as T-shirt Terrorist</li><li>Frank Orrall as \"Happy-Go-Lucky Guy\"</li><li>Abra Moore as \"Has Change\"</li><li>Louis Black as Paranoid Paper Reader</li><li>Sarah Harmon as \"Has Faith in Groups\"</li><li>John Slate as Conspiracy-A-Go-Go author</li><li>Lee Daniel as GTO</li><li>Charles Gunning as Hitchhiker Awaiting \"True Call\"</li><li>Louis Mackey as Old Anarchist</li><li>Scott Rhodes as Disgruntled Grad Student</li><li>Kim Krizan as \"Questions Happiness\"</li><li>Athina Rachel Tsangari as Cousin from Greece (credited as Rachel Reinhardt)</li><li>Kalman Spelletich as Video Backpacker</li></ul><br/><h3>Production</h3><p>Slacker's working title was No Longer/Not Yet. The film was shot in 1989 with a 16 mm Arriflex camera on location in Austin, Texas with a budget of $23,000, and premiered at Austin's Dobie Theater on July 27, 1990. Orion Classics acquired Slacker for nationwide distribution, and released a slightly modified 35mm version on July 5, 1991. It did not receive a wide release but went on to become a cult film bringing in a domestic gross of $1,228,108. The cast includes many notable Austinites, including Louis Black, Abra Moore, and members of some local bands of the era.</p><br/><h3>Release</h3><h4>Critical reception</h4><p>Roger Ebert gave the film three out of four stars and wrote, \"Slacker is a movie with an appeal almost impossible to describe, although the method of the director, Richard Linklater, is as clear as day. He wants to show us a certain strata of campus life at the present time\". In his review for The New York Times, Vincent Canby wrote, \"Slacker is a 14-course meal composed entirely of desserts or, more accurately, a conventional film whose narrative has been thrown out and replaced by enough bits of local color to stock five years' worth of ordinary movies\".</p><p>Owen Gleiberman of Entertainment Weekly gave the film an \"A-\" rating, writing, \"Slacker has a marvelously low-key observational cool ... the movie never loses its affectionate, shaggy-dog sense of America as a place in which people, by now, have almost too much freedom on their hands\". In his review for the Washington Post, Hal Hinson wrote, \"This is a work of scatterbrained originality, funny, unexpected and ceaselessly engaging\". Rolling Stone's Peter Travers wrote, \"What Linklater has captured is a generation of bristling minds unable to turn their thoughts into action. Linklater has the gift of a true satirist: He can make laughter catch in the throat\".</p><p>In his review for the Austin Chronicle, Chris Walters wrote, \"Few of the many films shot in Austin over the past 10 or 15 years even attempt to make something of the way its citizens live. Slacker is the only one I know of that claims this city's version of life on the margins of the working world as its whole subject, and it is one of the first American movies ever to find a form so apropos to the themes of disconnectedness and cultural drift\". Time magazine's Richard Corliss wrote, \"Though set in the '90s, Slacker has a spirit that is pure '60s, and in this loping, loopy, sidewise, delightful comedy, Austin is Haight-Ashbury\".</p><p>On review aggregator website Rotten Tomatoes, the film holds an approval rating of 87% based on 38 reviews, and an average rating of 7.35/10. The website's critical consensus reads, \"Slacker rests its shiftless thumb on the pulse of a generation with fresh filmmaking that captures the tenor of its time while establishing a benchmark for 1990s indie cinema.\" On Metacritic, the film has a weighted average score of 69 out of 100, based on 16 critics, indicating \"generally favorable reviews\".</p><p>American Film Institute recognition:</p><ul><li>AFI's 100 Years... 100 Laughs - Nominated</li></ul><h4>Home media</h4><p>Slacker was released on VHS in June 1992 by Orion Home Video. An estimated 7,000 copies were shipped. A book also titled Slacker containing the screenplay, interviews, and writing about the film was published by St. Martin's Press, also in 1992. The film was re-released on VHS on March 7, 2000, by MGM. The film was released to DVD worldwide on January 13, 2003. A two-disc Criterion Collection boxed-set edition was released on August 31, 2004, in the US and Canada only. The set has many \"extras\", including a book on the film and Linklater's first feature film, It's Impossible to Learn to Plow by Reading Books, released on home video for the first time. Entertainment Weekly gave this edition an \"A-\" rating.</p><br/><h3>Impact</h3><p>The release of the film is often taken as a starting point (along with the earlier Sex, Lies, and Videotape) for the independent film movement of the 1990s. Many of the independent filmmakers of that period credit the film with inspiring or opening doors for them, perhaps most famously Kevin Smith, who has said on numerous occasions that the film was the inspiration for Clerks. The film also popularized the use of \"slacker\" to describe \"a person regarded as one of a large group or generation of young people (especially in the early to mid 1990s) characterized by apathy, aimlessness, and lack of ambition\".</p><p>Linklater has said that he wanted the word to have positive connotations. For example, in a self-interview in the Austin Chronicle, Linklater stated: \u201cSlackers might look like the left-behinds of society, but they are actually one step ahead, rejecting most of society and the social hierarchy before it rejects them. The dictionary defines slackers as people who evade duties and responsibilities. A more modern notion would be people who are ultimately being responsible to themselves and not wasting their time in a realm of activity that has nothing to do with who they are or what they might be ultimately striving for.\u201d</p><p>In the early 1990s, Slacker was widely considered an accurate depiction of Generation X because the film's young adult characters are more interested in quasi-intellectual pastimes and socializing than career advancement. Linklater - who is a member of the \"Baby Boom\" generation - has long since eschewed the role of generational spokesperson. Moreover, Slacker includes members of various generations, and many of its themes are universal rather than generation-specific.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0102943",
+        "title": "Slacker",
+        "fullTitle": "Slacker (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "posters": [
+            {
+                "id": "f7Iov2nd0XX9bp2laQEPYPEhisc.jpg",
+                "link": "https://imdb-api.com/posters/original/f7Iov2nd0XX9bp2laQEPYPEhisc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "uNtzrTiQQMHwabGr0aAi8TvuII9.jpg",
+                "link": "https://imdb-api.com/posters/original/uNtzrTiQQMHwabGr0aAi8TvuII9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0102943",
+        "title": "Slacker",
+        "fullTitle": "Slacker (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "items": [
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMxODY5ODU5OV5BMl5BanBnXkFtZTgwODI2NDEzODE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyNTgxNjkyNF5BMl5BanBnXkFtZTgwNDM2NDEzODE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1NjQ2MDU3N15BMl5BanBnXkFtZTcwMTE4NDYyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2NzI5NDI4OF5BMl5BanBnXkFtZTYwNTI4MTk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BOTIzOTY1NTg5NV5BMl5BanBnXkFtZTYwNzUwMjk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0Mzg4Njk4NV5BMl5BanBnXkFtZTYwMjA0Mzk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2Nzg3Mjg5OF5BMl5BanBnXkFtZTYwNDY3OTk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5MzY0MzEzN15BMl5BanBnXkFtZTYwNjI2NTQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwNjE3MTI2MF5BMl5BanBnXkFtZTYwMjc4Mzk5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4NTQwNzcwMF5BMl5BanBnXkFtZTcwODU0MjUxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1Nzc0OTgzOV5BMl5BanBnXkFtZTcwNTc3MjUxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0MDM2MzM2MF5BMl5BanBnXkFtZTcwMTg1NDUxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkwMTYxOTI5MV5BMl5BanBnXkFtZTcwMzA0MzYxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0OTA0ODA1NF5BMl5BanBnXkFtZTcwNTA4OTEyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MDM4NTI2OF5BMl5BanBnXkFtZTcwMjQwNTIyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxMjgxMzI2NV5BMl5BanBnXkFtZTcwNjU3NDYyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMzY5Y2ZmYTItZjhkNy00YmZmLWIwNWQtNjliMmI3NTc4YzlhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMGEzMjAyNjItZjEzMi00ODVmLTkxODktM2RiZmY0M2UyYzEwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzNGNjZmMtNmE0Zi00M2JkLTk4NGYtYzg2NzE5YzUzNDE3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNGVhNGFjZDUtMjEyZC00NDM4LTkxZjktNDgyZGRhZjk5MzIzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNjIxZGY3MDgtMzdmMy00M2ZhLThlM2ItZGEzNmRlN2I3YWE1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNDQ4MGY4YmMtNDQwYS00NGQ5LTljN2ItYmIxMWU1YmIyNzViXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMWQ5M2I5ZTAtODZiMS00Mzg2LWJjMTAtYmJkMTk0NmI3ZjljXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZTJhODQ4OTgtZTBlOC00NjQwLTliNWEtOGU5MTcwMjc5YzFjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZTc5MGI4YjktZDE1YS00YmRlLTk2NTQtZWM2ZDk1Y2QwNmNkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZjFhNDJmM2YtZDBmYy00NTIwLWFlYjEtNzMzZjllYzI2ZGI1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNjhhZGE2NTMtNDcyNi00N2RkLWJmNjUtOWMyNzNjZGRlMWUwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNjE3MGRhMjUtNTg5Yy00OGNjLTg3ZmQtNmZlOTZiNGE1YjI5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZWZiYjdhNGQtZjk0OS00ZDI0LWE4NDMtMDcyNDU2ZjJhNmExXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BOGNhMzZkNWEtMjM3Ni00NjU0LWIwNzUtYWU0NmY3YWNmYjMzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNTIyNjcxMzUtYjk5NC00M2MxLWFhNzEtMWYyZGZkZjA3OTZmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BYzhjN2Q1M2MtY2ViNi00OGYwLWJkYmQtMzk4NzQwYWM5NjlhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNWZmMzlkZmQtZGMxNC00MGFlLTk4OGEtOTkzOWU4MGNiZDkxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMDIxYzA2Y2ItNDMzMC00YjBmLTg5MjEtNWViYWZmNGI1ZmQzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BYzdlZWU4MzYtOGM1NS00ODZhLWJmNDEtOTUxZGY3ODA0YTY2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZTcyNmQ1ODYtMTJiYy00OGE5LWE2ZjgtZDg1MThhZjE2NDhmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNTZiYWI5ZWItNWYyMC00ZjY5LTk1NjktNzk0N2I2YWZlNDVmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNjNmZDk4YzUtZjZlYy00MmI0LThkZTItYTRkNDQ0MzQ1NjI4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZTMyZjAxYTQtMTMyOC00NjI3LTllZjctMzc5Y2Q1MTYzNzMxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BYWQzNmQzMDUtNTUwMC00ZWYwLTkxYTgtM2I0NGE2ZDk0MzhhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZDdlYjgxMmMtNTZlNC00OWYzLTg2MWQtNjE0YzBhYzM2NzQ1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZTZmZTBiYWUtNjlhMS00MTUwLWJhMjItMzNhOTMxNDBkM2ZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNDQyYTEwY2UtZjBiNC00ZTIxLTk2NjUtNDlkYWI2ZGFkYzMxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BOWQ0ZTJjOWYtODFlYi00ZTk0LWJhZWUtMWUyZWUzYjZhYzVmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNTA4ZDY5NTItYzgwZS00ODRmLWJkNDQtNzkyZmIwZTIwODZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNWQyYWIzMDgtOTJiMS00ZTM1LWI0YTAtYjkwYjViNzUwZTY2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BYjZiMWE3NmEtZTRhOC00MTcwLWE1MDctNGMwNTViZTlkYWU0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Slacker (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNjdkYTM0NjktOGQ0NS00Njc5LTk4MzYtOWU4YzY2NzY0NWNhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.3400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0102943",
+        "title": "Slacker",
+        "fullTitle": "Slacker (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "$23,000 (estimated)",
+        "openingWeekendUSA": "$24,307, 7 July 1991",
+        "grossUSA": "$1,228,108",
+        "cumulativeWorldwideGross": "$1,228,108"
+    },
+    "tagline": "",
+    "keywords": "austin texas,twenty something,philosophy,anarchist,pseudo intellectual",
+    "keywordList": [
+        "austin texas",
+        "twenty something",
+        "philosophy",
+        "anarchist",
+        "pseudo intellectual"
+    ],
+    "similars": [
+        {
+            "id": "tt0120238",
+            "title": "SubUrbia",
+            "fullTitle": "SubUrbia (1996)",
+            "year": "1996",
+            "image": "https://imdb-api.com/images/original/MV5BZjMxODA3MWItNzVlZS00MzQ0LTljZjYtMzhhNmNjMWFjYTY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A group of suburban teenagers try to support each other through the difficult task of becoming adults.",
+            "directors": "Richard Linklater",
+            "stars": "Giovanni Ribisi, Steve Zahn, Jayce Bartok",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0095385",
+            "title": "It's Impossible to Learn to Plow by Reading Books",
+            "fullTitle": "It's Impossible to Learn to Plow by Reading Books (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BNjBiNmNjZTgtMjdjZS00NjIzLWIyZDktM2U1MTMwMzc0NWJmXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A nameless young character goes into travels to the country, meeting some acquaintances and strangers as well, having banal conversations, dedicating his existence into daily mundane ... See full summary \u00bb",
+            "directors": "Richard Linklater",
+            "stars": "Richard Linklater, James Goodwin, Dan Kratochvil",
+            "genres": "Drama",
+            "imDbRating": "5.9"
+        },
+        {
+            "id": "tt0243017",
+            "title": "Waking Life",
+            "fullTitle": "Waking Life (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BMWM0ZjY5ZjctODNkZi00Nzk0LWE1ODUtNGM4ZDUyMzUwMGYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.",
+            "directors": "Richard Linklater",
+            "stars": "Ethan Hawke, Trevor Jack Brooks, Lorelei Linklater",
+            "genres": "Animation, Drama, Fantasy",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0275719",
+            "title": "Tape",
+            "fullTitle": "Tape (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BNjIwYjFhZGEtZWQwOC00ODU2LWEyMzYtOGNmNTc1OGMzOGZkXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Three old high school friends meet in a Michigan motel room to dissect painful memories from their past.",
+            "directors": "Richard Linklater",
+            "stars": "Ethan Hawke, Robert Sean Leonard, Uma Thurman",
+            "genres": "Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0405296",
+            "title": "A Scanner Darkly",
+            "fullTitle": "A Scanner Darkly (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BOTc2ZGI2MzEtODlkNC00MGQ4LTlkYjQtMDU0YTg1YTI0NDI1L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+            "directors": "Richard Linklater",
+            "stars": "Keanu Reeves, Winona Ryder, Robert Downey Jr.",
+            "genres": "Animation, Crime, Drama",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0106677",
+            "title": "Dazed and Confused",
+            "fullTitle": "Dazed and Confused (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The adventures of high school and junior high students on the last day of school in May 1976.",
+            "directors": "Richard Linklater",
+            "stars": "Jason London, Wiley Wiggins, Matthew McConaughey",
+            "genres": "Comedy",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0464848",
+            "title": "Woodshock",
+            "fullTitle": "Woodshock (1985)",
+            "year": "1985",
+            "image": "https://imdb-api.com/images/original/MV5BMmYxOGNmY2EtZDUyZC00YmViLThlNWYtMjhjZGI5MTRlMWIyXkEyXkFqcGdeQXVyMTAxODYyODI@._V1_Ratio1.3263_AL_.jpg",
+            "plot": "This short documentary chronicles the chaos of the Austin, Texas music festival, \"Woodshock '85.\"",
+            "directors": "Richard Linklater",
+            "stars": "Daniel Johnston",
+            "genres": "Documentary, Short",
+            "imDbRating": "5.6"
+        },
+        {
+            "id": "tt0460792",
+            "title": "Fast Food Nation",
+            "fullTitle": "Fast Food Nation (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BYzM0ODQ5OGItZDZhMy00NDk0LWJmNTgtZGRiMTBjMDI1YTAwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An ensemble piece examining the health risks involved in the fast food industry and its environmental and social consequences as well.",
+            "directors": "Richard Linklater",
+            "stars": "Greg Kinnear, Bruce Willis, Catalina Sandino Moreno",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt2937696",
+            "title": "Everybody Wants Some!!",
+            "fullTitle": "Everybody Wants Some!! (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMTk2NDcyNDE5N15BMl5BanBnXkFtZTgwNDA0MzQ1NzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1980, a group of college baseball players navigate their way through the freedoms and responsibilities of unsupervised adulthood.",
+            "directors": "Richard Linklater",
+            "stars": "Blake Jenner, Tyler Hoechlin, Ryan Guzman",
+            "genres": "Comedy",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt1175506",
+            "title": "Me and Orson Welles",
+            "fullTitle": "Me and Orson Welles (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMzI5YjY0NjgtZDgxYi00YzFjLTljNzQtN2Y3ZTZjMDYzNjRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1937, a teenager is cast in the Mercury Theatre production of \"Julius Caesar\", directed by a young Orson Welles.",
+            "directors": "Richard Linklater",
+            "stars": "Zac Efron, Claire Danes, Christian McKay",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt1704573",
+            "title": "Bernie",
+            "fullTitle": "Bernie (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMTk2NDEwODU5M15BMl5BanBnXkFtZTcwNDMwNzc0Nw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In small-town Texas, an affable mortician strikes up a friendship with a wealthy widow, though when she starts to become controlling, he goes to great lengths to separate himself from her grasp.",
+            "directors": "Richard Linklater",
+            "stars": "Jack Black, Shirley MacLaine, Matthew McConaughey",
+            "genres": "Biography, Comedy, Crime",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0120769",
+            "title": "The Newton Boys",
+            "fullTitle": "The Newton Boys (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BMWZmZDMwMjUtYjZiMC00ZWI4LWIwMjQtY2E3NzBlYzk1OWYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of the Newton gang, the most successful bank robbers in history, owing to their good planning and minimal violence.",
+            "directors": "Richard Linklater",
+            "stars": "Matthew McConaughey, Ethan Hawke, Skeet Ulrich",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "6.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
