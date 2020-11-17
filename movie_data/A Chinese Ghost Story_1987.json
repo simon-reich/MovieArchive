@@ -1,0 +1,932 @@
+{
+    "id": "tt0093978",
+    "title": "A Chinese Ghost Story",
+    "originalTitle": "Sien lui yau wan",
+    "fullTitle": "A Chinese Ghost Story (1987)",
+    "type": "Movie",
+    "year": "1987",
+    "image": "https://imdb-api.com/images/original/MV5BMTE5OGJhODgtZjcwMy00YWU1LWFlZjgtMzU0YmRkMGZjMDJkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1987-07-18",
+    "runtimeMins": "98",
+    "runtimeStr": "1h 38mins",
+    "plot": "Ning Tsai-Shen, a humble tax collector, arrives in a small town to carry out his work. Unsurprisingly, no-one is willing to give him shelter for the night, so he ends up spending the night in the haunted Lan Ro temple. There, he meets Taoist Swordsman Yen Che-Hsia, who warns him to stay out of trouble, and the beautiful Nieh Hsiao-Tsing, with whom he falls in love. Unfortunately, Hsiao-Tsing is a ghost, bound for all eternity by a hideous tree spirit with an incredibly long tongue that wraps itself round its victims and sucks out their life essence (or 'yang element')...",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "11 wins & 17 nominations.",
+    "directors": "Siu-Tung Ching",
+    "directorList": [
+        {
+            "id": "nm0155642",
+            "name": "Siu-Tung Ching"
+        }
+    ],
+    "writers": "Songling Pu, Kai-Chi Yuen",
+    "writerList": [
+        {
+            "id": "nm0699700",
+            "name": "Songling Pu"
+        },
+        {
+            "id": "nm0950699",
+            "name": "Kai-Chi Yuen"
+        }
+    ],
+    "stars": "Leslie Cheung, Joey Wang, Wu Ma, Wai Lam",
+    "starList": [
+        {
+            "id": "nm0002000",
+            "name": "Leslie Cheung"
+        },
+        {
+            "id": "nm0939153",
+            "name": "Joey Wang"
+        },
+        {
+            "id": "nm0943138",
+            "name": "Wu Ma"
+        },
+        {
+            "id": "nm0482708",
+            "name": "Wai Lam"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0002000",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyODY4MDM1N15BMl5BanBnXkFtZTcwOTcxMjM5MQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Leslie Cheung",
+            "asCharacter": "Ling Choi San"
+        },
+        {
+            "id": "nm0939153",
+            "image": "https://imdb-api.com/images/original/MV5BZWU5NGEwOTgtNmNiZS00N2ZkLTg3MDktMTBlYWZmM2MxOTkzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Joey Wang",
+            "asCharacter": "Lip Siu Sin (as Tsu-hsien Wang)"
+        },
+        {
+            "id": "nm0943138",
+            "image": "https://imdb-api.com/images/original/MV5BZDk4YWMyYzItMzM5Ny00NjAwLWI1MTAtM2Q0MzQ1YjdjNzBjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Wu Ma",
+            "asCharacter": "Yin Chek Hsia"
+        },
+        {
+            "id": "nm0482708",
+            "image": "https://imdb-api.com/images/original/MV5BZTU2NDI4NGItZjQ1MC00OWE3LThjNjEtZDMxZDRmYTdjNzVhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Wai Lam",
+            "asCharacter": "Hsia-hou"
+        },
+        {
+            "id": "nm0490618",
+            "image": "https://imdb-api.com/images/original/MV5BMTg2NDQ4NDk5M15BMl5BanBnXkFtZTgwNTc5NTg5MTE@._V1_Ratio2.2727_AL_.jpg",
+            "name": "Siu-Ming Lau",
+            "asCharacter": "Tree Devil"
+        },
+        {
+            "id": "nm0944684",
+            "image": "https://imdb-api.com/images/original/MV5BYmMwNWE0YTUtMzMyMC00Y2VmLWE0ODItOTQ5MzUxMTI2ZThmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Zhilun Xue",
+            "asCharacter": "Ching"
+        },
+        {
+            "id": "nm0939147",
+            "image": "https://imdb-api.com/images/original/MV5BM2YxY2NlMjctMWM1NC00NjIwLWI5MjctM2Y4OTA4NTM0ZDZhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jing Wong",
+            "asCharacter": "Judge (as Jing Wang)"
+        },
+        {
+            "id": "nm0398871",
+            "image": "https://imdb-api.com/images/original/MV5BNTUyZTVlNmItNDRmZC00MDZjLWE5YWMtMmJhZTNkZjUyODdhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7273_AL_.jpg",
+            "name": "David Wu",
+            "asCharacter": "Secretary Chiu (as Dawei Hu)"
+        },
+        {
+            "id": "nm0398987",
+            "image": "https://imdb-api.com/images/original/MV5BY2Y1ZWQzMDctYzlkNC00ZTQ5LWJiYzAtZmM1YzZkOTJiZDUzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Ha Huang",
+            "asCharacter": "Boss at Tavern"
+        },
+        {
+            "id": "nm1303254",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yau Cheung Yeung",
+            "asCharacter": "Charm Seller"
+        },
+        {
+            "id": "nm0843865",
+            "image": "https://imdb-api.com/images/original/MV5BMzY5Mjc0MzMtMjFjOS00NWUyLThkMjctOTA5ODU4ZjRjNDEzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Mei-Yee Sze",
+            "asCharacter": "Paintings Seller"
+        },
+        {
+            "id": "nm0156497",
+            "image": "https://imdb-api.com/images/original/MV5BYjMxMWFhOWYtZTM2OS00ZThmLWI0YWMtMmZmNWViMjc4YjBhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Kam Cheung",
+            "asCharacter": "Policeman (as Kam Chiang)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0093978",
+        "title": "A Chinese Ghost Story",
+        "fullTitle": "A Chinese Ghost Story (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0155642",
+                    "name": "Siu-Tung Ching",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0699700",
+                    "name": "Songling Pu",
+                    "description": "(novel)"
+                },
+                {
+                    "id": "nm0950699",
+                    "name": "Kai-Chi Yuen",
+                    "description": "(as Kai-Chi Yun)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0002000",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyODY4MDM1N15BMl5BanBnXkFtZTcwOTcxMjM5MQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Leslie Cheung",
+                "asCharacter": "Ling Choi San"
+            },
+            {
+                "id": "nm0939153",
+                "image": "https://imdb-api.com/images/original/MV5BZWU5NGEwOTgtNmNiZS00N2ZkLTg3MDktMTBlYWZmM2MxOTkzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Joey Wang",
+                "asCharacter": "Lip Siu Sin (as Tsu-hsien Wang)"
+            },
+            {
+                "id": "nm0943138",
+                "image": "https://imdb-api.com/images/original/MV5BZDk4YWMyYzItMzM5Ny00NjAwLWI1MTAtM2Q0MzQ1YjdjNzBjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2727_AL_.jpg",
+                "name": "Wu Ma",
+                "asCharacter": "Yin Chek Hsia"
+            },
+            {
+                "id": "nm0482708",
+                "image": "https://imdb-api.com/images/original/MV5BZTU2NDI4NGItZjQ1MC00OWE3LThjNjEtZDMxZDRmYTdjNzVhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5909_AL_.jpg",
+                "name": "Wai Lam",
+                "asCharacter": "Hsia-hou"
+            },
+            {
+                "id": "nm0490618",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2NDQ4NDk5M15BMl5BanBnXkFtZTgwNTc5NTg5MTE@._V1_Ratio2.2727_AL_.jpg",
+                "name": "Siu-Ming Lau",
+                "asCharacter": "Tree Devil"
+            },
+            {
+                "id": "nm0944684",
+                "image": "https://imdb-api.com/images/original/MV5BYmMwNWE0YTUtMzMyMC00Y2VmLWE0ODItOTQ5MzUxMTI2ZThmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+                "name": "Zhilun Xue",
+                "asCharacter": "Ching"
+            },
+            {
+                "id": "nm0939147",
+                "image": "https://imdb-api.com/images/original/MV5BM2YxY2NlMjctMWM1NC00NjIwLWI5MjctM2Y4OTA4NTM0ZDZhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Jing Wong",
+                "asCharacter": "Judge (as Jing Wang)"
+            },
+            {
+                "id": "nm0398871",
+                "image": "https://imdb-api.com/images/original/MV5BNTUyZTVlNmItNDRmZC00MDZjLWE5YWMtMmJhZTNkZjUyODdhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7273_AL_.jpg",
+                "name": "David Wu",
+                "asCharacter": "Secretary Chiu (as Dawei Hu)"
+            },
+            {
+                "id": "nm0398987",
+                "image": "https://imdb-api.com/images/original/MV5BY2Y1ZWQzMDctYzlkNC00ZTQ5LWJiYzAtZmM1YzZkOTJiZDUzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Ha Huang",
+                "asCharacter": "Boss at Tavern"
+            },
+            {
+                "id": "nm1303254",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Yau Cheung Yeung",
+                "asCharacter": "Charm Seller"
+            },
+            {
+                "id": "nm0843865",
+                "image": "https://imdb-api.com/images/original/MV5BMzY5Mjc0MzMtMjFjOS00NWUyLThkMjctOTA5ODU4ZjRjNDEzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Mei-Yee Sze",
+                "asCharacter": "Paintings Seller"
+            },
+            {
+                "id": "nm0156497",
+                "image": "https://imdb-api.com/images/original/MV5BYjMxMWFhOWYtZTM2OS00ZThmLWI0YWMtMmZmNWViMjc4YjBhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Kam Cheung",
+                "asCharacter": "Policeman (as Kam Chiang)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0161132",
+                        "name": "Claudie Chung Jan",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0514992",
+                        "name": "Qianqing Liu",
+                        "description": "assistant producer"
+                    },
+                    {
+                        "id": "nm0007139",
+                        "name": "Hark Tsui",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0955636",
+                        "name": "Zhong Zheng",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0246738",
+                        "name": "Romeo D\u00edaz",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0399074",
+                        "name": "James Wong",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0490486",
+                        "name": "Moon-Tong Lau",
+                        "description": "(as Putang Liu) / (as Tom Lau)"
+                    },
+                    {
+                        "id": "nm0508432",
+                        "name": "Ga-Ko Lee",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0498202",
+                        "name": "Sander Lee",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0690940",
+                        "name": "Hang-Sang Poon",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0399069",
+                        "name": "Wing-Hang Wong",
+                        "description": "(as Yongheng Huang)"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0398871",
+                        "name": "David Wu",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0354008",
+                        "name": "Chung Man Yee",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0354008",
+                        "name": "Chung Man Yee",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0151096",
+                        "name": "Shirley Chan",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0372086",
+                        "name": "Huiying He",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0920753",
+                        "name": "Renming Wen",
+                        "description": "makeup artist"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0920741",
+                        "name": "Jiawen Wen",
+                        "description": "production manager"
+                    },
+                    {
+                        "id": "nm0948143",
+                        "name": "Patrick Yip",
+                        "description": "production manager"
+                    },
+                    {
+                        "id": "nm0955754",
+                        "name": "Gouzhong Zhou",
+                        "description": "post-production supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0525983",
+                        "name": "Kingston Shek",
+                        "description": "assistant director (as Shaolin Shi)"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0955336",
+                        "name": "Dai Zhang",
+                        "description": "assistant art director"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0944500",
+                        "name": "Xiaolong Cheng",
+                        "description": "sound"
+                    },
+                    {
+                        "id": "nm0398871",
+                        "name": "David Wu",
+                        "description": "sound (as Dawei Hu)"
+                    },
+                    {
+                        "id": "nm0944682",
+                        "name": "Qun Xue",
+                        "description": "sound"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0155642",
+                        "name": "Siu-Tung Ching",
+                        "description": "martial arts director"
+                    },
+                    {
+                        "id": "nm0161177",
+                        "name": "Alan Chung San Chui",
+                        "description": "martial arts director (as Chung Shan Tsui)"
+                    },
+                    {
+                        "id": "nm0490507",
+                        "name": "Chi-Ho Lau",
+                        "description": "martial arts director"
+                    },
+                    {
+                        "id": "nm0814531",
+                        "name": "Kwok Tsu",
+                        "description": "martial arts director"
+                    },
+                    {
+                        "id": "nm0398918",
+                        "name": "Chi-Lung Wu",
+                        "description": "martial arts director"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0157393",
+                        "name": "Kim-Kit Chik",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0399041",
+                        "name": "Shijie Huang",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm5604388",
+                        "name": "Tit-Chi Lau",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0508670",
+                        "name": "Chi-Nin Leung",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm5603305",
+                        "name": "Sau-Ting Shin",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm5603406",
+                        "name": "Bak-Wing Wong",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0399076",
+                        "name": "Chi Wai Wong",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm1561018",
+                        "name": "Pak Ying Yip",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0161168",
+                        "name": "Jan-Wah Yuen",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm0955336",
+                        "name": "Dai Zhang",
+                        "description": "effects photography"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm1206498",
+                        "name": "Simon Broderick",
+                        "description": "colorist"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0510859",
+                        "name": "Cangxian Lin",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm0628886",
+                        "name": "Kwong-Hing Ngan",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1013970",
+                        "name": "Laura Vergelli",
+                        "description": "dialogue adaptor"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Action, Fantasy, Horror",
+    "genreList": [
+        {
+            "key": "Action",
+            "value": "Action"
+        },
+        {
+            "key": "Fantasy",
+            "value": "Fantasy"
+        },
+        {
+            "key": "Horror",
+            "value": "Horror"
+        }
+    ],
+    "companies": "Cinema City Film Productions, Film Workshop",
+    "companyList": [
+        {
+            "id": "co0004877",
+            "name": "Cinema City Film Productions"
+        },
+        {
+            "id": "co0000295",
+            "name": "Film Workshop"
+        }
+    ],
+    "countries": "Hong Kong",
+    "countryList": [
+        {
+            "key": "Hong Kong",
+            "value": "Hong Kong"
+        }
+    ],
+    "languages": "Cantonese",
+    "languageList": [
+        {
+            "key": "Cantonese",
+            "value": "Cantonese"
+        }
+    ],
+    "contentRating": "Unrated",
+    "imDbRating": "7.5",
+    "imDbRatingVotes": "8382",
+    "metacriticRating": "",
+    "ratings": {
+        "imDbId": "tt0093978",
+        "title": "A Chinese Ghost Story",
+        "fullTitle": "A Chinese Ghost Story (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "imDb": "7.5",
+        "metacritic": "",
+        "theMovieDb": "7.5",
+        "rottenTomatoes": "67",
+        "tV_com": "",
+        "filmAffinity": "6.7",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0093978",
+        "title": "A Chinese Ghost Story",
+        "fullTitle": "A Chinese Ghost Story (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "language": "en",
+        "titleInLanguage": "A Chinese Ghost Story",
+        "url": "https://en.wikipedia.org/wiki/A_Chinese_Ghost_Story",
+        "plotShort": {
+            "plainText": "A Chinese Ghost Story\r\nA Chinese Ghost Story (Chinese: \u5029\u5973\u5e7d\u9b42; Wade\u2013Giles: Ch'ien-n\u00fc Yu-hun; literally: 'The Ethereal Spirit of a Beauty') is a 1987 Hong Kong romantic comedy horror film starring Leslie Cheung, Joey Wong and Wu Ma, directed by Ching Siu-tung and produced by Tsui Hark. The plot is loosely based on a short story about Nie Xiaoqian from Qing dynasty writer Pu Songling's Strange Stories from a Chinese Studio and is also inspired by the 1960 Shaw Brothers Studio film The Enchanting Shadow. The film was popular in Hong Kong and several Asian countries, including South Korea and Japan. Although the film could not gain access to movie theaters in mainland China when it was first released, it became a cult classic among young people in the mainland, especially the generation born in the 1980s. Most notably it boosted the stardom of Joey Wong, won Leslie Cheung popularity in Japan, and sparked a trend of folklore ghost films in the Hong Kong film industry, including two sequels, an animated film, a television series and a 2011 remake. The film was ranked number 50 of the Best 100 Chinese Motion Pictures presented at the 24th Hong Kong Film Awards.",
+            "html": "<h2>A Chinese Ghost Story</h2><p>A Chinese Ghost Story (Chinese: \u5029\u5973\u5e7d\u9b42; Wade\u2013Giles: Ch'ien-n\u00fc Yu-hun; literally: 'The Ethereal Spirit of a Beauty') is a 1987 Hong Kong romantic comedy horror film starring Leslie Cheung, Joey Wong and Wu Ma, directed by Ching Siu-tung and produced by Tsui Hark. The plot is loosely based on a short story about Nie Xiaoqian from Qing dynasty writer Pu Songling's Strange Stories from a Chinese Studio and is also inspired by the 1960 Shaw Brothers Studio film The Enchanting Shadow. The film was popular in Hong Kong and several Asian countries, including South Korea and Japan. Although the film could not gain access to movie theaters in mainland China when it was first released, it became a cult classic among young people in the mainland, especially the generation born in the 1980s. Most notably it boosted the stardom of Joey Wong, won Leslie Cheung popularity in Japan, and sparked a trend of folklore ghost films in the Hong Kong film industry, including two sequels, an animated film, a television series and a 2011 remake. The film was ranked number 50 of the Best 100 Chinese Motion Pictures presented at the 24th Hong Kong Film Awards.</p>"
+        },
+        "plotFull": {
+            "plainText": "A Chinese Ghost Story\r\nA Chinese Ghost Story (Chinese: \u5029\u5973\u5e7d\u9b42; Wade\u2013Giles: Ch'ien-n\u00fc Yu-hun; literally: 'The Ethereal Spirit of a Beauty') is a 1987 Hong Kong romantic comedy horror film starring Leslie Cheung, Joey Wong and Wu Ma, directed by Ching Siu-tung and produced by Tsui Hark. The plot is loosely based on a short story about Nie Xiaoqian from Qing dynasty writer Pu Songling's Strange Stories from a Chinese Studio and is also inspired by the 1960 Shaw Brothers Studio film The Enchanting Shadow. The film was popular in Hong Kong and several Asian countries, including South Korea and Japan. Although the film could not gain access to movie theaters in mainland China when it was first released, it became a cult classic among young people in the mainland, especially the generation born in the 1980s. Most notably it boosted the stardom of Joey Wong, won Leslie Cheung popularity in Japan, and sparked a trend of folklore ghost films in the Hong Kong film industry, including two sequels, an animated film, a television series and a 2011 remake. The film was ranked number 50 of the Best 100 Chinese Motion Pictures presented at the 24th Hong Kong Film Awards.\r\nPlot\r\nNing Choi-san, a timid debt collector, goes to a rural town to collect debts but fails and runs out of money. He has no choice but to take shelter in a deserted temple in the forest on the outskirts of the town. That night, he meets a beautiful and alluring young maiden, Nip Siu-sin, and falls in love with her. In the morning, however, after he recalls that night's events, he becomes increasingly fearful and superstitious because Yin Chik-ha, a Taoist priest, told him that the people he saw in the temple are ghosts. That night, he returns to the temple and confirms his theory that Nip is actually a ghost.\r\nNip tells Ning her story of how she became eternally bound to the servitude of a sinister Tree Demoness. She explains that as long as her remains are buried at the foot of the tree, her spirit will be forever enslaved by the Tree Demoness. Ning attempts to free her from her suffering so he seeks help from Yin Chik-ha. Yin fights with the Tree Demoness and attempts to free Nip's soul but fails. As punishment for betraying her master, Nip's soul is banished to the Underworld.\r\nNing is unwilling to give up on Nip and he insists that Yin help him. Yin reluctantly opens a temporary portal into the Underworld and brings Ning along to search for Nip. As the Underworld is full of spirits, they have a hard time finding her. Ning and Nip are eventually able to see each other briefly near dawn when they manage to leave the Underworld. When sunlight shines on the urn containing Nip's cremated remains, Ning uses a curtain to shield the urn to prevent Nip's soul from being destroyed by exposure to sunlight. Before leaving for good, she tells him that the only way to save her soul is to rebury her remains at a more auspicious burial site. Ning follows her instructions and, acting on Yin's advice, he buries her remains near the crest of a hill. He burns a joss stick for her and prays for her soul while Yin watches solemnly behind him.\r\nCast\r\nLeslie Cheung as Ning Choi-san\r\nJoey Wong as Nip Siu-sin\r\nWu Ma as Yin Chik-ha\r\nLau Siu-ming as the Tree Demoness\r\nLam Wai as Hsia-hou\r\nXue Zhilun as Siu-ching\r\nWong Jing as the magistrate\r\nDavid Wu as Secretary Chiu\r\nProduction\r\nProducer Tsui Hark was interested in creating A Chinese Ghost Story as early as 1978, where he suggested it as a television production at TVB. The producer turned it down, feeling it would not be suitable for television. A Chinese Ghost Story uses elements of several stories from Pu Songling's 17th century collection Strange Stories from a Chinese Studio. Tsui Hark stated that they changed a lot of the stories for their adaptation as they found out the stories were against their initial interpretation. On developing the film, Tsui Hark noted that director Ching Siu-Tung wanted to work with him. Ching Siu-Tung had previously worked as a director and an action choreographer on various Film Workshop productions such as Peking Opera Blues and A Better Tomorrow II. Hark suggested developing A Chinese Ghost Story, describing it as a love story which Siu-Tung was not as interested in developing as either a romance film or a non-horror based ghost story. Hark noted that his higher up approached him to develop the film into being about a female cop, not being aware that it was based on a book or that it was a period film. While working on the film, Hark and Siu-Tung did not really know what it was end up being like, as Siu-Tung was still apprehensive on creating a romance film and desired to add horror film elements. Rumours persist around the production suggesting that it Tsui Hark effectively directed the film. British critic Tony Rayns stated that effectively, most Film Workshop productions were \"redirected or hijacked by Tsui Hark\" Joey Wong was a professional basketball player and model before starting her film career. Prior to working on the film, she appeared in films such as the Taiwanese production It'll Be Very Cold at the Lakeside This Year. She would show up in a few Shaw Brothers produced Hong Kong films and Tsui Hark's film Working Class.\r\nActors in the film include Leslie Cheung who was also a cantopop singer. Cheung had previously worked with Tsui Hark productions such as A Better Tomorrow and A Better Tomorrow II. Cheung also sung the films theme song. Wu Ma had previously appeared in several Hong Kong horror film productions such as Spooky Encounters, The Dead and the Deadly and Mr. Vampire. The film used the services of Cinefex Workshop, Hong Kong's first proper special effects studio who had previously worked on Hark's film Zu Warriors from the Magic Mountain. The film script which called for the giant slithering tongue and zombies were developed by Cinefex technician Man Xian Liang who taught himself stop motion animation to make the effects happen. James Wong contributed to the score of the film. Wong was primarily known for writing songs for pop stars and television programs and completed his first score for Hark's Shanghai Blues.\r\nRelease\r\nA Chinese Ghost Story opened on July 18, 1987. The film received theatrical release throughout Asia and Europe. A Chinese Ghost Story performed well in the Hong Kong box office earning HK$18,831,638 making it the fifteenth highest-grossing film in Hong Kong for 1987. The film also received international recognition when it won the special Jury Prize at the Avoriaz festival in France and the Best Film Award at the Opporto Festival in Portugal in 1987.\r\n2011 re-release and remake\r\nIn memory of the late Leslie Cheung, director Ching Siu-tung and producer Ng See-yuen re-released the film in cinemas across mainland China on 30 April 2011. China Radio International reported that the film was remastered with color timing that took about half a year. In addition, premieres took place in both Beijing and Shanghai. Ching Siu-tung, Ng See-yuen and Lau Siu-ming were present. However, Wu Ma and Joey Wong, who were invited, did not attend the premiere. Ching Siu-tung had difficulty tracking down Joey Wong and had to contact her through her family in Taiwan. He received a telephone call at the last minute from Wong's father, stating that the actress was in poor health and not in good condition to attend the premiere. Wong's father also quoted her daughter saying that acting in the film were her best memories. That same year, a remake of the film was released. It starred Louis Koo and Crystal Liu and was directed by Wilson Yip.\r\nReception\r\nFrom contemporary reviews, Walter Goodman (The New York Times) noted poor subtitling on the print he viewed, opining that \"If there are any Eastern profundities emanating from the temple, this Westerner did not recognize them.\" and that \"The kick you get from all this will depend on how exciting you find explosive exhibitions of extraterrestrial exercises.\" Kim Newman (Monthly Film Bulletin) described the film as \"an excellent example of the distinctive type of ghost/horror film that has been coming out of Hong Kong for many years\" and that the film \"affords an insight into a movie mythos at least as highly developed and ritualized as the Universal horror cycle of the 30s or the Hammer films of the 50s and 60s\".\r\nFrom retrospective reviews, The Guardian described the film as \"one of the breakthrough films of modern Hong Kong cinema\" and that it was \"dubious knockabout comedy spiced with frantic set piece stunts (mid-air fights, thousand-foot tongues); not for those who value comprehensibility over panache.\" Empire gave the film four stars out of five, noting \"gorgeous imagery\" and that it was not \"quite as completely demented as Mr Vampire, but it is truly strange.\" Donald C Willis wrote in his book Horror and Science Fiction Film IV that A Chinese Ghost Story was \"an entertaining fantasy extravaganza\" and that \"the movie is very inventive, occasionally even poetic, but not quite moving\". John Charles gave the film an eight out of ten rating, noting that some horror elements in the film were in debt to the film The Evil Dead, but noted that the \"cinematography and art direction are superb, the action is invigorating, and the love story surprisingly touching, making this one of the most captivating and enjoyable fantasies of the post-New Wave period.\"\r\nIn mainland China, before the film was officially released in 2011, it was already widely circulated through unofficial channels- including smuggled videocassettes, pirated VCDs and DVDs, and later, video-sharing websites- and celebrated as a cult classic. The Chinese generation born in the 1980s, aka. the \"post-80s\" (balinghou), are among the most devout fans of this film, which they see as an embodiment of idealism, rebellion, nostalgia, and social criticism. Some scholars consider its comic nature, or \"half-seriousness,\" to be the main reason for this cult following.\r\nThe modern reception of the film in Hong Kong and Taiwan is positive. At the 24th Hong Kong Film Awards various Asian film critics, film makers and actors voted for the top Chinese films from Hong Kong, Taiwan and China. A Chinese Ghost Story was listed at 50th place on the list. In 2011, the Tapei Golden Horse Film Festival had 122 industry professionals take part in the survey. The voters included film scholars, festival programmers, film directors, actors and producers to vote for the 100 Greatest Chinese-Language Films. A Chinese Ghost Story tied with Jia Zhangke's Xiao Wu (1997) and Zhang Yimou's The Story of Qiu Ju (1992) for 35th place on the list.\r\nAwards and nominations",
+            "html": "<h2>A Chinese Ghost Story</h2><p>A Chinese Ghost Story (Chinese: \u5029\u5973\u5e7d\u9b42; Wade\u2013Giles: Ch'ien-n\u00fc Yu-hun; literally: 'The Ethereal Spirit of a Beauty') is a 1987 Hong Kong romantic comedy horror film starring Leslie Cheung, Joey Wong and Wu Ma, directed by Ching Siu-tung and produced by Tsui Hark. The plot is loosely based on a short story about Nie Xiaoqian from Qing dynasty writer Pu Songling's Strange Stories from a Chinese Studio and is also inspired by the 1960 Shaw Brothers Studio film The Enchanting Shadow. The film was popular in Hong Kong and several Asian countries, including South Korea and Japan. Although the film could not gain access to movie theaters in mainland China when it was first released, it became a cult classic among young people in the mainland, especially the generation born in the 1980s. Most notably it boosted the stardom of Joey Wong, won Leslie Cheung popularity in Japan, and sparked a trend of folklore ghost films in the Hong Kong film industry, including two sequels, an animated film, a television series and a 2011 remake. The film was ranked number 50 of the Best 100 Chinese Motion Pictures presented at the 24th Hong Kong Film Awards.</p><br/><h3>Plot</h3><p>Ning Choi-san, a timid debt collector, goes to a rural town to collect debts but fails and runs out of money. He has no choice but to take shelter in a deserted temple in the forest on the outskirts of the town. That night, he meets a beautiful and alluring young maiden, Nip Siu-sin, and falls in love with her. In the morning, however, after he recalls that night's events, he becomes increasingly fearful and superstitious because Yin Chik-ha, a Taoist priest, told him that the people he saw in the temple are ghosts. That night, he returns to the temple and confirms his theory that Nip is actually a ghost.</p><p>Nip tells Ning her story of how she became eternally bound to the servitude of a sinister Tree Demoness. She explains that as long as her remains are buried at the foot of the tree, her spirit will be forever enslaved by the Tree Demoness. Ning attempts to free her from her suffering so he seeks help from Yin Chik-ha. Yin fights with the Tree Demoness and attempts to free Nip's soul but fails. As punishment for betraying her master, Nip's soul is banished to the Underworld.</p><p>Ning is unwilling to give up on Nip and he insists that Yin help him. Yin reluctantly opens a temporary portal into the Underworld and brings Ning along to search for Nip. As the Underworld is full of spirits, they have a hard time finding her. Ning and Nip are eventually able to see each other briefly near dawn when they manage to leave the Underworld. When sunlight shines on the urn containing Nip's cremated remains, Ning uses a curtain to shield the urn to prevent Nip's soul from being destroyed by exposure to sunlight. Before leaving for good, she tells him that the only way to save her soul is to rebury her remains at a more auspicious burial site. Ning follows her instructions and, acting on Yin's advice, he buries her remains near the crest of a hill. He burns a joss stick for her and prays for her soul while Yin watches solemnly behind him.</p><br/><h3>Cast</h3><ul><li>Leslie Cheung as Ning Choi-san</li><li>Joey Wong as Nip Siu-sin</li><li>Wu Ma as Yin Chik-ha</li><li>Lau Siu-ming as the Tree Demoness</li><li>Lam Wai as Hsia-hou</li><li>Xue Zhilun as Siu-ching</li><li>Wong Jing as the magistrate</li><li>David Wu as Secretary Chiu</li></ul><br/><h3>Production</h3><p>Producer Tsui Hark was interested in creating A Chinese Ghost Story as early as 1978, where he suggested it as a television production at TVB. The producer turned it down, feeling it would not be suitable for television. A Chinese Ghost Story uses elements of several stories from Pu Songling's 17th century collection Strange Stories from a Chinese Studio. Tsui Hark stated that they changed a lot of the stories for their adaptation as they found out the stories were against their initial interpretation. On developing the film, Tsui Hark noted that director Ching Siu-Tung wanted to work with him. Ching Siu-Tung had previously worked as a director and an action choreographer on various Film Workshop productions such as Peking Opera Blues and A Better Tomorrow II. Hark suggested developing A Chinese Ghost Story, describing it as a love story which Siu-Tung was not as interested in developing as either a romance film or a non-horror based ghost story. Hark noted that his higher up approached him to develop the film into being about a female cop, not being aware that it was based on a book or that it was a period film. While working on the film, Hark and Siu-Tung did not really know what it was end up being like, as Siu-Tung was still apprehensive on creating a romance film and desired to add horror film elements. Rumours persist around the production suggesting that it Tsui Hark effectively directed the film. British critic Tony Rayns stated that effectively, most Film Workshop productions were \"redirected or hijacked by Tsui Hark\" Joey Wong was a professional basketball player and model before starting her film career. Prior to working on the film, she appeared in films such as the Taiwanese production It'll Be Very Cold at the Lakeside This Year. She would show up in a few Shaw Brothers produced Hong Kong films and Tsui Hark's film Working Class.</p><p>Actors in the film include Leslie Cheung who was also a cantopop singer. Cheung had previously worked with Tsui Hark productions such as A Better Tomorrow and A Better Tomorrow II. Cheung also sung the films theme song. Wu Ma had previously appeared in several Hong Kong horror film productions such as Spooky Encounters, The Dead and the Deadly and Mr. Vampire. The film used the services of Cinefex Workshop, Hong Kong's first proper special effects studio who had previously worked on Hark's film Zu Warriors from the Magic Mountain. The film script which called for the giant slithering tongue and zombies were developed by Cinefex technician Man Xian Liang who taught himself stop motion animation to make the effects happen. James Wong contributed to the score of the film. Wong was primarily known for writing songs for pop stars and television programs and completed his first score for Hark's Shanghai Blues.</p><br/><h3>Release</h3><p>A Chinese Ghost Story opened on July 18, 1987. The film received theatrical release throughout Asia and Europe. A Chinese Ghost Story performed well in the Hong Kong box office earning HK$18,831,638 making it the fifteenth highest-grossing film in Hong Kong for 1987. The film also received international recognition when it won the special Jury Prize at the Avoriaz festival in France and the Best Film Award at the Opporto Festival in Portugal in 1987.</p><h4>2011 re-release and remake</h4><p>In memory of the late Leslie Cheung, director Ching Siu-tung and producer Ng See-yuen re-released the film in cinemas across mainland China on 30 April 2011. China Radio International reported that the film was remastered with color timing that took about half a year. In addition, premieres took place in both Beijing and Shanghai. Ching Siu-tung, Ng See-yuen and Lau Siu-ming were present. However, Wu Ma and Joey Wong, who were invited, did not attend the premiere. Ching Siu-tung had difficulty tracking down Joey Wong and had to contact her through her family in Taiwan. He received a telephone call at the last minute from Wong's father, stating that the actress was in poor health and not in good condition to attend the premiere. Wong's father also quoted her daughter saying that acting in the film were her best memories. That same year, a remake of the film was released. It starred Louis Koo and Crystal Liu and was directed by Wilson Yip.</p><br/><h3>Reception</h3><p>From contemporary reviews, Walter Goodman (The New York Times) noted poor subtitling on the print he viewed, opining that \"If there are any Eastern profundities emanating from the temple, this Westerner did not recognize them.\" and that \"The kick you get from all this will depend on how exciting you find explosive exhibitions of extraterrestrial exercises.\" Kim Newman (Monthly Film Bulletin) described the film as \"an excellent example of the distinctive type of ghost/horror film that has been coming out of Hong Kong for many years\" and that the film \"affords an insight into a movie mythos at least as highly developed and ritualized as the Universal horror cycle of the 30s or the Hammer films of the 50s and 60s\".</p><p>From retrospective reviews, The Guardian described the film as \"one of the breakthrough films of modern Hong Kong cinema\" and that it was \"dubious knockabout comedy spiced with frantic set piece stunts (mid-air fights, thousand-foot tongues); not for those who value comprehensibility over panache.\" Empire gave the film four stars out of five, noting \"gorgeous imagery\" and that it was not \"quite as completely demented as Mr Vampire, but it is truly strange.\" Donald C Willis wrote in his book Horror and Science Fiction Film IV that A Chinese Ghost Story was \"an entertaining fantasy extravaganza\" and that \"the movie is very inventive, occasionally even poetic, but not quite moving\". John Charles gave the film an eight out of ten rating, noting that some horror elements in the film were in debt to the film The Evil Dead, but noted that the \"cinematography and art direction are superb, the action is invigorating, and the love story surprisingly touching, making this one of the most captivating and enjoyable fantasies of the post-New Wave period.\"</p><p>In mainland China, before the film was officially released in 2011, it was already widely circulated through unofficial channels- including smuggled videocassettes, pirated VCDs and DVDs, and later, video-sharing websites- and celebrated as a cult classic. The Chinese generation born in the 1980s, aka. the \"post-80s\" (balinghou), are among the most devout fans of this film, which they see as an embodiment of idealism, rebellion, nostalgia, and social criticism. Some scholars consider its comic nature, or \"half-seriousness,\" to be the main reason for this cult following.</p><p>The modern reception of the film in Hong Kong and Taiwan is positive. At the 24th Hong Kong Film Awards various Asian film critics, film makers and actors voted for the top Chinese films from Hong Kong, Taiwan and China. A Chinese Ghost Story was listed at 50th place on the list. In 2011, the Tapei Golden Horse Film Festival had 122 industry professionals take part in the survey. The voters included film scholars, festival programmers, film directors, actors and producers to vote for the 100 Greatest Chinese-Language Films. A Chinese Ghost Story tied with Jia Zhangke's Xiao Wu (1997) and Zhang Yimou's The Story of Qiu Ju (1992) for 35th place on the list.</p><br/><h3>Awards and nominations</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr style=\"background:#ccc; text-align:center;\"><th colspan=\"4\" style=\"background: LightSteelBlue;\">Awards and nominations</th></tr><tr style=\"background:#ccc; text-align:center;\"><th style=\"background:#ccc\">Ceremony</th><th style=\"background:#ccc\">Category</th><th style=\"background:#ccc\">Recipient</th><th style=\"background:#ccc\">Outcome</th></tr><tr><td rowspan=\"12\"><b>7th <span>Hong Kong Film Awards</span></b></td><td><span>Best Film</span></td><td><i>A Chinese Ghost Story</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Director</span></td><td><span>Ching Siu-tung</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Actress</span></td><td><span>Joey Wong</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Supporting Actor</span></td><td><span>Wu Ma</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Cinematography</span></td><td>Poon Hang-sang, Tom Lau, Sander Lee, <br>Horace Wong</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Film Editing</td><td>Cinema City Production Co. Ltd. Editing Unit</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Art Direction</td><td><span class=\"mw-redirect\">Kenneth Yee</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Best Action Choreography</span></td><td><span>Ching Siu-tung</span>, <span>Philip Kwok</span>, Lau Chi-ho, <br><span>Alan Chui Chung-San</span>, Bobby Wu</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Original Film Score</td><td><span>Romeo Diaz</span>, <span class=\"mw-redirect\">James Wong</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"3\">Best Original Film Song</td><td>Song: <i>Dawn, Please Do Not Come</i> (\u9ece\u660e\u4e0d\u8981\u4f86)<p>Composer/Lyricist: James Wong<br>Singer: <span>Sally Yeh</span></p></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Song: <i>A Chinese Ghost Story</i> (\u5029\u5973\u5e7d\u9b42)<p>Composer/Lyricist: James Wong<br>Singer: <span>Leslie Cheung</span></p></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Song: <i>Path</i> (\u9053)<p>Composer/Lyricist:/Singer: James Wong</p></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"7\"><b>24th <span>Golden Horse Awards</span></b></td><td><span>Best Feature Film</span></td><td><i>A Chinese Ghost Story</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Supporting Actor</td><td>Wu Ma</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Adapted Screenplay</td><td>Yuen Kai-chi</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Film Editing</td><td>Cinema City Production Co. Ltd. Editing Unit</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Art Direction</td><td>Kenneth Yee</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Makeup &amp; Costume Design</td><td>Shirley Chan</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Original Film Song</td><td>Song: <i>Path</i> (\u9053)<p>Composer/Lyricist: James Wong Singer: Leslie Cheung</p></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><b>16th <span>Avoriaz</span> Fantastic Film Festival</b></td><td>Special Jury Award</td><td><span>Tsui Hark</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><b>8th <span>Fantafestival</span></b></td><td>Best Director</td><td>Ching Siu-tung</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><b>8th <span>Fantasporto</span> Film Festival</b></td><td>Best Film Award</td><td><i>A Chinese Ghost Story</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><b><span>24th Hong Kong Film Awards</span></b></td><td>Best 100 Chinese Motion Pictures (#50)</td><td><i>A Chinese Ghost Story</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><b>1987 <span>Sitges Film Festival</span></b></td><td>Best Special Effects</td><td>Cinefex Workshop Co., Ltd.</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0093978",
+        "title": "A Chinese Ghost Story",
+        "fullTitle": "A Chinese Ghost Story (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "posters": [
+            {
+                "id": "nt3BuiGuSAfnnNK6TgzbRW5EBep.jpg",
+                "link": "https://imdb-api.com/posters/original/nt3BuiGuSAfnnNK6TgzbRW5EBep.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            }
+        ],
+        "backdors": [
+            {
+                "id": "d4DvWIWbBNft6FuPPvJ7xYlLPgh.jpg",
+                "link": "https://imdb-api.com/posters/original/d4DvWIWbBNft6FuPPvJ7xYlLPgh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "26hdeynra5BGu0z5FnlYxboyMu7.jpg",
+                "link": "https://imdb-api.com/posters/original/26hdeynra5BGu0z5FnlYxboyMu7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0093978",
+        "title": "A Chinese Ghost Story",
+        "fullTitle": "A Chinese Ghost Story (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "items": [
+            {
+                "title": "Leslie Cheung, Joey Wang, and Wu Ma in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4MDk0Mzk5MF5BMl5BanBnXkFtZTcwMDg2NDE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung, Siu-Ming Lau, Joey Wang, and Wu Ma in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzNzIwMDU0M15BMl5BanBnXkFtZTYwODg4NTU5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung and Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BNzI0YjM3MjEtZmEzOS00YWY2LTk0OTktMDc4ZGY2NTgyZGEzXkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAxNTc4ZTQtMzIxYy00ODdhLTllNGQtNGJjYjZiYWRhMDBlXkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BZmI4Y2M5NTctMDczOS00N2QxLTkzYmEtMjQzNTk4Y2E2NjBjXkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_Ratio1.6000_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung and Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BOWRkZDE3MDYtYWM0MS00MGM1LWEyOWYtNmQ1M2JjODg4NWIyXkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Wu Ma in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BNTdhZGQ5ZTMtYTlhMi00ODU0LWJhNTEtZjUzODAxNWYyYTZlXkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung and Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMGE3YWRiNWQtYTgyOS00YzIxLTliZTgtNWNkMWQ2YWQzZjhmXkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BNDRiZGVjZGUtMDYyOS00OGU2LTg5N2YtN2I5ODk4NTAwNzI0XkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BZTQ2ZDRmNzEtMzFlZi00YTcyLThlZjYtYTU1ZjU0Y2IyMmNmXkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung and Wu Ma in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYzkxNzIzNDUtMTk0Yy00MjM0LTg2ZDUtNDI0YzNmZmZjMTcxXkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYzlmNTBhY2UtYTE3Yy00ZjA4LWEyY2YtNWU1ZDY1NWNmODc2XkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BM2E3MzRlOTAtNmQyOC00NjY3LWE3OTItMmQwOTVmN2FmMjI2XkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BY2ZmNjVhMzMtNDk0Yi00MzcxLTkwMWUtMWYxMTBmMDY5NzM3XkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BNGZlYjM5MzAtYWNkNS00MzZlLWJjMzgtNTJmOGM3YTUyOThhXkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung and Wu Ma in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BZjYyNGNlODktY2MyMy00ZTNmLWEyN2YtMmY5NjFlZGEwNmIzXkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTVhMzFhZWYtNWE5ZS00YzJiLTljNmYtYzZkOWM2ZDc1YjE0XkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung, Siu-Tung Ching, and Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYjQ0MDQzOWUtZjM3Ni00YTgwLWFmMjMtZWFkNTRjN2RlZTA5XkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung, Wai Lam, Siu-Ming Lau, Joey Wang, and Wu Ma in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BZWU4ODYxYzAtNGIzMC00NWRlLWEzMjctZDE5NmNjMWQyNzFmXkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_Ratio1.7000_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung and Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYzI4NWI1ODctOTIzNy00MTc0LTg2MjUtNGIwZDJmZTAyOTljXkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE5OGJhODgtZjcwMy00YWU1LWFlZjgtMzU0YmRkMGZjMDJkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BM2M5OGJmZTktMzI4Yi00NmI1LTgyOWEtN2M5MTQ1YjUxMzY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BZWZiYWM3NmYtZjUzNy00OTIwLTljOWItOWFjOWQ3YjdhNjhiXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung and Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BNzUxYmI5ZDAtOWJjZi00MWRiLTg3NDgtN2FhYzNkMjVlZTczXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Leslie Cheung and Joey Wang in A Chinese Ghost Story (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYmNlY2M2ZTgtNzVmZS00ZjhhLTk1N2ItMjRkNjhjMmNkZDRlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.4200_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0093978",
+        "title": "A Chinese Ghost Story",
+        "fullTitle": "A Chinese Ghost Story (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "videoId": "vi1303642393",
+        "videoTitle": "A Chinese Ghost Story",
+        "videoDescription": "Home Video Trailer from Miramax",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTBjNzJiM2YtMGRhMC00MjcyLThmYTEtYWIyYzQzZTFmZWNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 05:12:17",
+        "link": "https://www.imdb.com/video/vi1303642393",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1303642393/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$5,600,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "",
+    "keywords": "",
+    "keywordList": [],
+    "similars": [
+        {
+            "id": "tt0100625",
+            "title": "A Chinese Ghost Story II",
+            "fullTitle": "A Chinese Ghost Story II (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BZDY3NTY3MTktOGIxYi00OGZlLWFhZTAtMDVkYTkyNGNkMGFlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In this installment of a phenomenal saga of the super natural, four young people are caught in a tug-o-war of evil between an Imperial Wizard and a corrupt General. Outrageous special ... See full summary \u00bb",
+            "directors": "Siu-Tung Ching",
+            "stars": "Leslie Cheung, Joey Wang, Michelle Reis",
+            "genres": "Action, Comedy, Fantasy",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt0102932",
+            "title": "Histoires de fant\u00f4mes chinois III",
+            "fullTitle": "Histoires de fant\u00f4mes chinois III (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BYjk3MGVjYzQtYzY2OS00NmE4LThlNDEtOTI2NmU1YjVkODBjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Basically a retread of the first movie, in which the evil Tree Spirit is back with yet another ghost played by Joey Wong. The Swordsman Yen and Leslie Cheung characters are replaced by a ... See full summary \u00bb",
+            "directors": "Directors: Siu-Tung Ching, Hark Tsui",
+            "stars": "Tony Chiu-Wai Leung, Joey Wang, Jacky Cheung",
+            "genres": "Action, Comedy, Fantasy",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt0106342",
+            "title": "The Bride with White Hair",
+            "fullTitle": "The Bride with White Hair (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BNzY0MDY2MmQtZmU5NS00YTI0LWFkMjctZGZmMTFmMjQ2NGFhXkEyXkFqcGdeQXVyMDEwMjgxNg@@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Cho Yat-Hang, the unwilling successor to the Wu-Tang clan throne and the unsure commander of the clan's forces in a war against an evil cult, falls in forbidden love with Lien Ni-Chang, a killer for the evil cult.",
+            "directors": "Ronny Yu",
+            "stars": "Brigitte Lin, Leslie Cheung, Francis Ng",
+            "genres": "Certificate: 12 Action",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt0106559",
+            "title": "Green Snake",
+            "fullTitle": "Green Snake (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BZjNhYjVhYTMtOWVlMC00YzAwLWE0Y2QtYjkxYTJlOGNlMmRmXkEyXkFqcGdeQXVyMTAxNDM2MTcz._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Two snake spirits become human and learn about love and suffering. A monk discovers his own weaknesses and finds that morality is not as simple as he had thought.",
+            "directors": "Hark Tsui",
+            "stars": "Maggie Cheung, Joey Wang, Wenzhuo Zhao",
+            "genres": "Drama, Fantasy",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0108074",
+            "title": "The Eagle Shooting Heroes",
+            "fullTitle": "The Eagle Shooting Heroes (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BODc0YzY5ZGEtNzA3NS00NWQyLThhODgtZWU1MmJhZDA1MGMwXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "A parody of Louis Cha's renowned novel The Legend of the Condor Heroes. The story begins with the Queen of Golden Wheel Kingdom and having an affair with her cousin West Poison, both of ... See full summary \u00bb",
+            "directors": "Jeffrey Lau",
+            "stars": "Leslie Cheung, Brigitte Lin, Maggie Cheung",
+            "genres": "Action, Comedy, Fantasy",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0105859",
+            "title": "L'auberge du dragon",
+            "fullTitle": "L'auberge du dragon (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BNGE3ZTU0NGMtNWQ4Mi00MzMzLWEwNWMtOTUxODQ0OTc5Mjk0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "This big hit at the Sundance Film Festival had audiences cheering. Set during the Ming Dynasty, this acclaimed production tells the story of a power hungry eunuch who employs an evil sect ... See full summary \u00bb",
+            "directors": "Directors: Raymond Lee, Siu-Tung Ching, and 1 more credit \u00bb",
+            "stars": "Tony Ka Fai Leung, Brigitte Lin, Maggie Cheung",
+            "genres": "Action, Thriller",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0100973",
+            "title": "The Swordsman",
+            "fullTitle": "The Swordsman (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BODM2YjllZmEtMWVkNS00Y2U5LThhMmYtZjNhMjRlMzY4NzZkXkEyXkFqcGdeQXVyNzgzODI1OTE@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "A kung-fu manual known as the sacred scroll is stolen from the Emperor's library. An army detachment is sent to recover it. Meanwhile, a young swordsman and his fellow disciple are accidentally drawn into the chaos.",
+            "directors": "Directors: Siu-Tung Ching, King Hu, and 4 more credits \u00bb",
+            "stars": "Samuel Hui, Cecilia Yip, Jacky Cheung",
+            "genres": "Action, History",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt0103295",
+            "title": "Swordsman II",
+            "fullTitle": "Swordsman II (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BN2FiN2RjOTUtNzRkYS00ZTM4LWJmYWUtOWRkNDM1NTdkMmQzXkEyXkFqcGdeQXVyNzgzODI1OTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Ling Wu Chung decides to hide from the chaotic world. Before leaving, he visits his friends, a tribe of snake-wielding women warriors. However, he finds that the tribe have been attacked, and their leader Yam Ying Ying has been abducted.",
+            "directors": "Directors: Siu-Tung Ching, Stanley Tong",
+            "stars": "Jet Li, Brigitte Lin, Michelle Reis",
+            "genres": "Action, Fantasy",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt1861421",
+            "title": "A Chinese Ghost Story",
+            "fullTitle": "A Chinese Ghost Story (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMjMyYjczMjEtNmViNi00NTc1LTk0ZGUtYWJjZWVhY2QzYjJmXkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Tax collector Ning, a clumsy and easily frightened man, doesn't have any money and decides to stay overnight in an abandoned temple. Little does he know that the temple is haunted. He meets... See full summary \u00bb",
+            "directors": "Wilson Yip",
+            "stars": "Louis Koo, Yifei Liu, Shaoqun Yu",
+            "genres": "Fantasy, Horror",
+            "imDbRating": "5.6"
+        },
+        {
+            "id": "tt0105655",
+            "title": "Swordsman III: The East Is Red",
+            "fullTitle": "Swordsman III: The East Is Red (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BYTFiYWY2YWEtZWFmMy00MTJkLTlkZWItZGIwNWM0ZWUxYjZlXkEyXkFqcGdeQXVyNzgzODI1OTE@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A royal official accompanies a Portuguese warship to the Black Cliffs to see the site of the defeat of the evil Invincible Asia, who attained supernatural abilities by following the sacred ... See full summary \u00bb",
+            "directors": "Directors: Siu-Tung Ching, Raymond Lee",
+            "stars": "Brigitte Lin, Joey Wang, Rongguang Yu",
+            "genres": "Action, Romance",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt0106343",
+            "title": "The Bride with White Hair 2",
+            "fullTitle": "The Bride with White Hair 2 (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BMjAxNWRjNDItZDg2My00OTkxLWE3OTgtNWQ3OWZiY2UwY2MyXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "On Kit and Lyre's wedding night, Lien Ni-Chang, the bride with white hair kidnaps Lyre and takes her to her harem of fighting women to indoctrinate her against Kit. Kit tries to lead a rescue party and go up against the formidable enemies.",
+            "directors": "David Wu",
+            "stars": "Brigitte Lin, Leslie Cheung, Christy Chung",
+            "genres": "Action, Fantasy, Romance",
+            "imDbRating": "6"
+        },
+        {
+            "id": "tt0101020",
+            "title": "Les associ\u00e9s",
+            "fullTitle": "Les associ\u00e9s (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BZGRjZTM3ZDYtYjJjMS00ZDE1LTg0YzktZDBkNjA3N2EyMmMzXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A romantic and action packed story of three best friends, a group of high end art thieves, who come into trouble when a love-triangle forms between them.",
+            "directors": "John Woo",
+            "stars": "Leslie Cheung, Yun-Fat Chow, Cherie Chung",
+            "genres": "Action, Comedy, Crime",
+            "imDbRating": "6.8"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

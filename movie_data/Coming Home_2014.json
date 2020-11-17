@@ -1,0 +1,999 @@
+{
+    "id": "tt3125472",
+    "title": "Coming Home",
+    "originalTitle": "Gui lai",
+    "fullTitle": "Coming Home (2014)",
+    "type": "Movie",
+    "year": "2014",
+    "image": "https://imdb-api.com/images/original/MV5BMTcwMzYwMjA5NV5BMl5BanBnXkFtZTgwNTk5OTc1NjE@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2014-05-16",
+    "runtimeMins": "109",
+    "runtimeStr": "1h 49mins",
+    "plot": "Lu Yanshi (Chen Daoming) and Feng Wanyu (Gong Li) are a devoted couple forced to separate when Lu is arrested and sent to a labor camp as a political prisoner, just as his wife is injured in an accident. Released during the last days of the Cultural Revolution, he finally returns home only to find that his beloved wife has amnesia and remembers little of her past. Unable to recognize Lu, she patiently waits for her husband's return. A stranger alone in the heart of his broken family, Lu Yanshi determines to resurrect their past together and reawaken his wife's memory.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "24 wins & 42 nominations.",
+    "directors": "Yimou Zhang",
+    "directorList": [
+        {
+            "id": "nm0955443",
+            "name": "Yimou Zhang"
+        }
+    ],
+    "writers": "Geling Yan, Jingzhi Zou, Xiaofeng Zhou",
+    "writerList": [
+        {
+            "id": "nm0945802",
+            "name": "Geling Yan"
+        },
+        {
+            "id": "nm1802940",
+            "name": "Jingzhi Zou"
+        },
+        {
+            "id": "nm4461685",
+            "name": "Xiaofeng Zhou"
+        }
+    ],
+    "stars": "Li Gong, Daoming Chen, Huiwen Zhang, Tao Guo",
+    "starList": [
+        {
+            "id": "nm0000084",
+            "name": "Li Gong"
+        },
+        {
+            "id": "nm0155203",
+            "name": "Daoming Chen"
+        },
+        {
+            "id": "nm6517324",
+            "name": "Huiwen Zhang"
+        },
+        {
+            "id": "nm0849919",
+            "name": "Tao Guo"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000084",
+            "image": "https://imdb-api.com/images/original/MV5BMTk4MzMwMjc5NF5BMl5BanBnXkFtZTYwMDMyNzQz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Li Gong",
+            "asCharacter": "Feng Wanyu"
+        },
+        {
+            "id": "nm0155203",
+            "image": "https://imdb-api.com/images/original/MV5BNzg1MTQyNDI5Ml5BMl5BanBnXkFtZTcwOTAxNzU3OA@@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Daoming Chen",
+            "asCharacter": "Lu Yanshi"
+        },
+        {
+            "id": "nm6517324",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Huiwen Zhang",
+            "asCharacter": "Dan Dan, the daughter"
+        },
+        {
+            "id": "nm0849919",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3MzcyNDQ3M15BMl5BanBnXkFtZTgwNjI5ODc5OTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tao Guo",
+            "asCharacter": "Officer Liu"
+        },
+        {
+            "id": "nm1106713",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3ZDM3ZWMtYmY0OS00YmM3LWFkODktMDY1ZjlhMmJhNTE4XkEyXkFqcGdeQXVyNDg5Mzk5Mg@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Ni Yan",
+            "asCharacter": "Officer Li"
+        },
+        {
+            "id": "nm5149335",
+            "image": "https://imdb-api.com/images/original/MV5BY2U5YzU1YzEtYjE5Zi00MjcxLWJkYjItYjgyNzYxMDlkODljXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chun Li",
+            "asCharacter": "Cui Meifang"
+        },
+        {
+            "id": "nm1289005",
+            "image": "https://imdb-api.com/images/original/MV5BOWJiOThjZjQtNjI5Yy00NjRlLWJmZWItNGI2MzU4OWM0MjUxXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jia-yi Zhang",
+            "asCharacter": "Doctor Dai"
+        },
+        {
+            "id": "nm0514988",
+            "image": "https://imdb-api.com/images/original/MV5BMjU5ODI3MDYxNV5BMl5BanBnXkFtZTgwMTgxNTczMDI@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Peiqi Liu",
+            "asCharacter": "Officer Liu"
+        },
+        {
+            "id": "nm0227621",
+            "image": "https://imdb-api.com/images/original/MV5BNzM2OTNjN2YtZmIwMy00NzcxLTkxZTItNmZjZTA5OTFlNzhjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jiali Ding",
+            "asCharacter": "Mr. Fang's wife"
+        },
+        {
+            "id": "nm1249409",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bai Qing Xin",
+            "asCharacter": "Officer Ballet School"
+        },
+        {
+            "id": "nm3422245",
+            "image": "https://imdb-api.com/images/original/MV5BNTUwYmMyZjQtZDY5Zi00MjYyLThjYjEtYmYxZDg5NDA3YTJlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Feng Zu",
+            "asCharacter": "Officer Deng"
+        },
+        {
+            "id": "nm1148166",
+            "image": "https://imdb-api.com/images/original/MV5BOTExNTIyNGMtZmU1Yy00MjM5LTkxYjEtOTg4NDIxOTFmNjUyXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Xiaoyi Chen",
+            "asCharacter": "Gong Suzhen"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt3125472",
+        "title": "Coming Home",
+        "fullTitle": "Coming Home (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0955443",
+                    "name": "Yimou Zhang",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0945802",
+                    "name": "Geling Yan",
+                    "description": "(based on the novel by)"
+                },
+                {
+                    "id": "nm1802940",
+                    "name": "Jingzhi Zou",
+                    "description": "(screenplay)"
+                },
+                {
+                    "id": "nm4461685",
+                    "name": "Xiaofeng Zhou",
+                    "description": "(screenplay consultant)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000084",
+                "image": "https://imdb-api.com/images/original/MV5BMTk4MzMwMjc5NF5BMl5BanBnXkFtZTYwMDMyNzQz._V1_Ratio0.7273_AL_.jpg",
+                "name": "Li Gong",
+                "asCharacter": "Feng Wanyu"
+            },
+            {
+                "id": "nm0155203",
+                "image": "https://imdb-api.com/images/original/MV5BNzg1MTQyNDI5Ml5BMl5BanBnXkFtZTcwOTAxNzU3OA@@._V1_Ratio1.8636_AL_.jpg",
+                "name": "Daoming Chen",
+                "asCharacter": "Lu Yanshi"
+            },
+            {
+                "id": "nm6517324",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Huiwen Zhang",
+                "asCharacter": "Dan Dan, the daughter"
+            },
+            {
+                "id": "nm0849919",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3MzcyNDQ3M15BMl5BanBnXkFtZTgwNjI5ODc5OTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Tao Guo",
+                "asCharacter": "Officer Liu"
+            },
+            {
+                "id": "nm1106713",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3ZDM3ZWMtYmY0OS00YmM3LWFkODktMDY1ZjlhMmJhNTE4XkEyXkFqcGdeQXVyNDg5Mzk5Mg@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Ni Yan",
+                "asCharacter": "Officer Li"
+            },
+            {
+                "id": "nm5149335",
+                "image": "https://imdb-api.com/images/original/MV5BY2U5YzU1YzEtYjE5Zi00MjcxLWJkYjItYjgyNzYxMDlkODljXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Chun Li",
+                "asCharacter": "Cui Meifang"
+            },
+            {
+                "id": "nm1289005",
+                "image": "https://imdb-api.com/images/original/MV5BOWJiOThjZjQtNjI5Yy00NjRlLWJmZWItNGI2MzU4OWM0MjUxXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jia-yi Zhang",
+                "asCharacter": "Doctor Dai"
+            },
+            {
+                "id": "nm0514988",
+                "image": "https://imdb-api.com/images/original/MV5BMjU5ODI3MDYxNV5BMl5BanBnXkFtZTgwMTgxNTczMDI@._V1_Ratio1.8182_AL_.jpg",
+                "name": "Peiqi Liu",
+                "asCharacter": "Officer Liu"
+            },
+            {
+                "id": "nm0227621",
+                "image": "https://imdb-api.com/images/original/MV5BNzM2OTNjN2YtZmIwMy00NzcxLTkxZTItNmZjZTA5OTFlNzhjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jiali Ding",
+                "asCharacter": "Mr. Fang's wife"
+            },
+            {
+                "id": "nm1249409",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bai Qing Xin",
+                "asCharacter": "Officer Ballet School"
+            },
+            {
+                "id": "nm3422245",
+                "image": "https://imdb-api.com/images/original/MV5BNTUwYmMyZjQtZDY5Zi00MjYyLThjYjEtYmYxZDg5NDA3YTJlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Feng Zu",
+                "asCharacter": "Officer Deng"
+            },
+            {
+                "id": "nm1148166",
+                "image": "https://imdb-api.com/images/original/MV5BOTExNTIyNGMtZmU1Yy00MjM5LTkxYjEtOTg4NDIxOTFmNjUyXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Xiaoyi Chen",
+                "asCharacter": "Gong Suzhen"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm9617188",
+                        "name": "Su Chen",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm7594660",
+                        "name": "Karen Fu",
+                        "description": "executive producer / producer"
+                    },
+                    {
+                        "id": "nm5806196",
+                        "name": "Aim\u00e9e Han",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm1857692",
+                        "name": "Xinmin Huang",
+                        "description": "line producer"
+                    },
+                    {
+                        "id": "nm4454869",
+                        "name": "Yueting Jia",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0465067",
+                        "name": "William Kong",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm11432151",
+                        "name": "Li Li",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm2897967",
+                        "name": "Donny Liang",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0511482",
+                        "name": "David Linde",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm11432155",
+                        "name": "Jun Liu",
+                        "description": "supervising producer"
+                    },
+                    {
+                        "id": "nm2911221",
+                        "name": "Liwei Pang",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm11432153",
+                        "name": "Baoquan Shan",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm4476264",
+                        "name": "Nan Wei",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm7347873",
+                        "name": "Jerry Ye",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm8527584",
+                        "name": "John Zeng",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm2798269",
+                        "name": "Zhao Zhang",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm11432152",
+                        "name": "Gillian Zhao",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm11432154",
+                        "name": "Haixia Zhao",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm7594663",
+                        "name": "Yifang Zhao",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0155349",
+                        "name": "Qi Gang Chen",
+                        "description": "(as Qigang Chen)"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1618536",
+                        "name": "Xiaoding Zhao",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm2031948",
+                        "name": "Peicong Meng",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm2754233",
+                        "name": "Mo Zhang",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0510860",
+                        "name": "Chaoxiang Lin",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm3503154",
+                        "name": "Jiang Liu",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0134148",
+                        "name": "Greg Cannom",
+                        "description": "special age makeup"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm2261284",
+                        "name": "Jason Pomerantz",
+                        "description": "production manager (IMAX version)"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm8213551",
+                        "name": "Ke Ma",
+                        "description": "first assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0121351",
+                        "name": "Steve Burgess",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm1181404",
+                        "name": "Wei He",
+                        "description": "re-recording mixer / sound effects editor"
+                    },
+                    {
+                        "id": "nm0849921",
+                        "name": "Jing Tao",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm8554358",
+                        "name": "Zeyu Wang",
+                        "description": "sound editor"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm8168886",
+                        "name": "Yining Kang",
+                        "description": "compositing supervisor"
+                    },
+                    {
+                        "id": "nm8168903",
+                        "name": "Lin Songqing",
+                        "description": "cg supervisor"
+                    },
+                    {
+                        "id": "nm4043621",
+                        "name": "Billy Zhuang",
+                        "description": "visual effects supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm2812710",
+                        "name": "Oliver Farkas",
+                        "description": "technical advisor: dailies"
+                    },
+                    {
+                        "id": "nm5063256",
+                        "name": "Jason Ji",
+                        "description": "digital intermediate data management"
+                    },
+                    {
+                        "id": "nm2031948",
+                        "name": "Peicong Meng",
+                        "description": "post-production coordinator"
+                    },
+                    {
+                        "id": "nm5417337",
+                        "name": "Yi Zhang",
+                        "description": "digital intermediate data management"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0070410",
+                        "name": "Haydn Bendall",
+                        "description": "music recording/mixing engineer"
+                    },
+                    {
+                        "id": "nm1496244",
+                        "name": "L\u00e1ng Lang",
+                        "description": "piano soloist / piano (as Lang Lang)"
+                    },
+                    {
+                        "id": "nm9590241",
+                        "name": "Michael Seifert",
+                        "description": "music recording/mixing engineer"
+                    },
+                    {
+                        "id": "nm7592518",
+                        "name": "Zhiyi Wang",
+                        "description": "orchestrator"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0102223",
+                        "name": "David Boyle",
+                        "description": "head of business and legal affairs: Lava Bear Films"
+                    },
+                    {
+                        "id": "nm10885510",
+                        "name": "Virginia Garcia",
+                        "description": "press: international"
+                    },
+                    {
+                        "id": "nm2278627",
+                        "name": "Ronaldo Mourao",
+                        "description": "press: international"
+                    },
+                    {
+                        "id": "nm1452993",
+                        "name": "Jennifer Semler",
+                        "description": "production executive: For Lava Bear Films"
+                    },
+                    {
+                        "id": "nm0843330",
+                        "name": "Phil Symes",
+                        "description": "press: international"
+                    },
+                    {
+                        "id": "nm10383976",
+                        "name": "Zhi-Yong Xie",
+                        "description": "distribution manager (as Xzy)"
+                    },
+                    {
+                        "id": "nm9641902",
+                        "name": "Adam Zhang",
+                        "description": "miscellaneous crew"
+                    },
+                    {
+                        "id": "nm9792672",
+                        "name": "Jingyu Zhao",
+                        "description": "Miscellaneous Crew"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Romance",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Romance",
+            "value": "Romance"
+        }
+    ],
+    "companies": "Le Vision Pictures, LeVision Pictures",
+    "companyList": [
+        {
+            "id": "co0360787",
+            "name": "Le Vision Pictures"
+        },
+        {
+            "id": "co0442473",
+            "name": "LeVision Pictures"
+        }
+    ],
+    "countries": "China, France",
+    "countryList": [
+        {
+            "key": "China",
+            "value": "China"
+        },
+        {
+            "key": "France",
+            "value": "France"
+        }
+    ],
+    "languages": "Mandarin",
+    "languageList": [
+        {
+            "key": "Mandarin",
+            "value": "Mandarin"
+        }
+    ],
+    "contentRating": "PG-13",
+    "imDbRating": "7.2",
+    "imDbRatingVotes": "5093",
+    "metacriticRating": "81",
+    "ratings": {
+        "imDbId": "tt3125472",
+        "title": "Coming Home",
+        "fullTitle": "Coming Home (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "imDb": "7.2",
+        "metacritic": "81",
+        "theMovieDb": "7.4",
+        "rottenTomatoes": "88",
+        "tV_com": "",
+        "filmAffinity": "7.0",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt3125472",
+        "title": "Coming Home",
+        "fullTitle": "Coming Home (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "language": "en",
+        "titleInLanguage": "Coming Home (2014 film)",
+        "url": "https://en.wikipedia.org/wiki/Coming_Home_(2014_film)",
+        "plotShort": {
+            "plainText": "Coming Home (2014 film)\r\nComing Home (Chinese: \u5f52\u6765; pinyin: gu\u012bl\u00e1i, literally The Return) is a 2014 Chinese historical drama film directed by Zhang Yimou and starring Chen Daoming and Gong Li. It was released in the US September 11, 2015 and first shown to the public on the 20th May 2014 at the Cannes Film Festival. The story is adapted from the novel, The Criminal Lu Yanshi written by novelist Geling Yan.",
+            "html": "<h2>Coming Home (2014 film)</h2><p>Coming Home (Chinese: \u5f52\u6765; pinyin: gu\u012bl\u00e1i, literally The Return) is a 2014 Chinese historical drama film directed by Zhang Yimou and starring Chen Daoming and Gong Li. It was released in the US September 11, 2015 and first shown to the public on the 20th May 2014 at the Cannes Film Festival. The story is adapted from the novel, The Criminal Lu Yanshi written by novelist Geling Yan.</p>"
+        },
+        "plotFull": {
+            "plainText": "Coming Home (2014 film)\r\nComing Home (Chinese: \u5f52\u6765; pinyin: gu\u012bl\u00e1i, literally The Return) is a 2014 Chinese historical drama film directed by Zhang Yimou and starring Chen Daoming and Gong Li. It was released in the US September 11, 2015 and first shown to the public on the 20th May 2014 at the Cannes Film Festival. The story is adapted from the novel, The Criminal Lu Yanshi written by novelist Geling Yan.\r\nPlot\r\nLu Yanshi was a professor before being sent to the labor camp during the Cultural Revolution. He escaped from the labor camp in Xining to meet his long-missed wife Feng Wanyu and daughter Dandan . However, the police were already waiting outside the house to arrest him.\r\nDandan, who was then a teenage ballerina, could not play the leading role in Red Detachment of Women due to her father's outlaw status. Under the temptation of regaining the leading role, Dandan revealed her parents' secret meeting plan to the police. The meeting ended with the capture of Lu but Dandan still didn't get the leading role. After the end of the Cultural Revolution, Lu came home only to find his broken family, his wife suffering from amnesia and his daughter working as textile worker. Under the shock of a former official's sexual harassment, his wife sometimes recognized him as Officer \"Fang\" instead of being her husband.\r\nTo reawaken his wife's memory, Lu played out as a total stranger just to be near his wife. Although she recognized him only as a letter reader or a piano tuner, he never could be able to be close enough to live with his chaste wife. During these years, Lu continued to write to his wife as a way of communicating with her, and to convince her to forgive their daughter.\r\nThe movie ended several years later with Feng waiting to receive her husband outside the railway station and Lu standing with her on a snowy day, pretending to be pedicab driver.\r\nCast\r\nChen Daoming as Lu Yanshi\r\nGong Li as Feng Wanyu, Lu Yanshi's wife\r\nZhang Huiwen as Dandan, Yanshi and Wanyu's daughter\r\nGuo Tao\r\nLiu Peiqi\r\nZu Feng\r\nYan Ni\r\nXin Baiqing\r\nZhang Jiayi\r\nChen Xiaoyi\r\nDing Jiali\r\nProduction\r\nThe film was shot in Tianjin and Beijing.\r\nReleases\r\nComing Home had its international premiere at the 2014 Cannes Film Festival in the out of competition section. It was scheduled to be screened in the Special Presentations section of the 2014 Toronto International Film Festival.\r\nReception\r\nCritical reception\r\nOn Rotten Tomatoes, the film has a rating of 92% based on 63 reviews. On Metacritic, the film has a score of 81 out of 100.\r\nBox office\r\nThe film grossed \u00a523.7 million (US$3.80 million) on the first day in China and reached US$46,000,000. It earned a total of US$49.7 million internationally.",
+            "html": "<h2>Coming Home (2014 film)</h2><p>Coming Home (Chinese: \u5f52\u6765; pinyin: gu\u012bl\u00e1i, literally The Return) is a 2014 Chinese historical drama film directed by Zhang Yimou and starring Chen Daoming and Gong Li. It was released in the US September 11, 2015 and first shown to the public on the 20th May 2014 at the Cannes Film Festival. The story is adapted from the novel, The Criminal Lu Yanshi written by novelist Geling Yan.</p><br/><h3>Plot</h3><p>Lu Yanshi was a professor before being sent to the labor camp during the Cultural Revolution. He escaped from the labor camp in Xining to meet his long-missed wife Feng Wanyu and daughter Dandan . However, the police were already waiting outside the house to arrest him.</p><p>Dandan, who was then a teenage ballerina, could not play the leading role in Red Detachment of Women due to her father's outlaw status. Under the temptation of regaining the leading role, Dandan revealed her parents' secret meeting plan to the police. The meeting ended with the capture of Lu but Dandan still didn't get the leading role. After the end of the Cultural Revolution, Lu came home only to find his broken family, his wife suffering from amnesia and his daughter working as textile worker. Under the shock of a former official's sexual harassment, his wife sometimes recognized him as Officer \"Fang\" instead of being her husband.</p><p>To reawaken his wife's memory, Lu played out as a total stranger just to be near his wife. Although she recognized him only as a letter reader or a piano tuner, he never could be able to be close enough to live with his chaste wife. During these years, Lu continued to write to his wife as a way of communicating with her, and to convince her to forgive their daughter.</p><p>The movie ended several years later with Feng waiting to receive her husband outside the railway station and Lu standing with her on a snowy day, pretending to be pedicab driver.</p><br/><h3>Cast</h3><ul><li>Chen Daoming as Lu Yanshi</li><li>Gong Li as Feng Wanyu, Lu Yanshi's wife</li><li>Zhang Huiwen as Dandan, Yanshi and Wanyu's daughter</li><li>Guo Tao</li><li>Liu Peiqi</li><li>Zu Feng</li><li>Yan Ni</li><li>Xin Baiqing</li><li>Zhang Jiayi</li><li>Chen Xiaoyi</li><li>Ding Jiali</li></ul><br/><h3>Production</h3><p>The film was shot in Tianjin and Beijing.</p><br/><h3>Releases</h3><p>Coming Home had its international premiere at the 2014 Cannes Film Festival in the out of competition section. It was scheduled to be screened in the Special Presentations section of the 2014 Toronto International Film Festival.</p><br/><h3>Reception</h3><h4>Critical reception</h4><p>On Rotten Tomatoes, the film has a rating of 92% based on 63 reviews. On Metacritic, the film has a score of 81 out of 100.</p><h4>Box office</h4><p>The film grossed \u00a523.7 million (US$3.80 million) on the first day in China and reached US$46,000,000. It earned a total of US$49.7 million internationally.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt3125472",
+        "title": "Coming Home",
+        "fullTitle": "Coming Home (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "posters": [
+            {
+                "id": "5zSy5ZF1FXjBg16DeOTzkUbBzTX.jpg",
+                "link": "https://imdb-api.com/posters/original/5zSy5ZF1FXjBg16DeOTzkUbBzTX.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "6xwkPJ7CfxGOtx3YYOlAUgJXDuA.jpg",
+                "link": "https://imdb-api.com/posters/original/6xwkPJ7CfxGOtx3YYOlAUgJXDuA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1980,
+                "height": 2970
+            },
+            {
+                "id": "oRkQDkeJa8jRBlCCFbRTQ86C9w8.jpg",
+                "link": "https://imdb-api.com/posters/original/oRkQDkeJa8jRBlCCFbRTQ86C9w8.jpg",
+                "aspectRatio": 0.6923076923076923,
+                "language": "en",
+                "width": 1944,
+                "height": 2808
+            }
+        ],
+        "backdors": [
+            {
+                "id": "b8mYb5Nl6C9RKiXIK0sll0U88uz.jpg",
+                "link": "https://imdb-api.com/posters/original/b8mYb5Nl6C9RKiXIK0sll0U88uz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "d0RToi2OcKSYoj5YtDW5uV6iC62.jpg",
+                "link": "https://imdb-api.com/posters/original/d0RToi2OcKSYoj5YtDW5uV6iC62.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "caFldsjpNl6kk36WlR1hGxdqkDZ.jpg",
+                "link": "https://imdb-api.com/posters/original/caFldsjpNl6kk36WlR1hGxdqkDZ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "odEWWO1ZDJFwXwTWw0YkaC1PbhR.jpg",
+                "link": "https://imdb-api.com/posters/original/odEWWO1ZDJFwXwTWw0YkaC1PbhR.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "noCnBze074zpb2WGTNXUaiGHV5f.jpg",
+                "link": "https://imdb-api.com/posters/original/noCnBze074zpb2WGTNXUaiGHV5f.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "fgFx5UU03vmhNJNH6p9u6v8KGPC.jpg",
+                "link": "https://imdb-api.com/posters/original/fgFx5UU03vmhNJNH6p9u6v8KGPC.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "qRICfv0aUj6idzpRNIzkdtdBp6n.jpg",
+                "link": "https://imdb-api.com/posters/original/qRICfv0aUj6idzpRNIzkdtdBp6n.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "rseW4xSrP7GKY4DypGxDMCFY53n.jpg",
+                "link": "https://imdb-api.com/posters/original/rseW4xSrP7GKY4DypGxDMCFY53n.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "q3x6WmaOc8R6rw4PiSex7rV1Xth.jpg",
+                "link": "https://imdb-api.com/posters/original/q3x6WmaOc8R6rw4PiSex7rV1Xth.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "fnRVkJxkth6iWGHy0gtEGPnZAL4.jpg",
+                "link": "https://imdb-api.com/posters/original/fnRVkJxkth6iWGHy0gtEGPnZAL4.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "p0fZj4Hbu6tAyOL7SYhSb6BJQyM.jpg",
+                "link": "https://imdb-api.com/posters/original/p0fZj4Hbu6tAyOL7SYhSb6BJQyM.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "mAJ2mn8El6NY3sEjvrVGAAytm1e.jpg",
+                "link": "https://imdb-api.com/posters/original/mAJ2mn8El6NY3sEjvrVGAAytm1e.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "zpeX75Z40iyc4tWoeLeg4LN2Sc4.jpg",
+                "link": "https://imdb-api.com/posters/original/zpeX75Z40iyc4tWoeLeg4LN2Sc4.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt3125472",
+        "title": "Coming Home",
+        "fullTitle": "Coming Home (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "items": [
+            {
+                "title": "Li Gong and Daoming Chen in Coming Home (2014)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyNzk5NDMwNF5BMl5BanBnXkFtZTgwNTY4ODEwMjE@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Yimou Zhang in Coming Home (2014)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MzM5ODQ0MF5BMl5BanBnXkFtZTgwNjY4ODEwMjE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Daoming Chen in Coming Home (2014)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAzMzU5MDE5NzdeQTJeQWpwZ15BbWU4MDUxNDAwODEx._V1_Ratio1.5800_AL_.jpg"
+            },
+            {
+                "title": "Li Gong in Coming Home (2014)",
+                "image": "https://imdb-api.com/images/original/MV5BNTMzNTAyMzk3M15BMl5BanBnXkFtZTgwNzE0MDA4MTE@._V1_Ratio1.5800_AL_.jpg"
+            },
+            {
+                "title": "Yimou Zhang and Zhao Zhang at an event for Coming Home (2014)",
+                "image": "https://imdb-api.com/images/original/MV5BMjgxODc1MjkyM15BMl5BanBnXkFtZTgwNjk4MzI2MjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Coming Home (2014)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcwMzYwMjA5NV5BMl5BanBnXkFtZTgwNTk5OTc1NjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Coming Home (2014)",
+                "image": "https://imdb-api.com/images/original/MV5BOTI1NzQzOTcyOV5BMl5BanBnXkFtZTgwNDA0MDA4MTE@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt3125472",
+        "title": "Coming Home",
+        "fullTitle": "Coming Home (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "videoId": "vi3626348569",
+        "videoTitle": "U.S. Trailer",
+        "videoDescription": "Lu Yanshi (Chen Daoming) and Feng Wanyu (Gong Li) are a devoted couple forced to separate when Lu is arrested and sent to a labor camp as a political prisoner, just as his wife is injured in an accident.   Released during the last days of the Cultural Revolution, he finally returns home only to find that his beloved wife has amnesia and remembers little of her past. Unable to recognize Lu, she patiently waits for her husband's return.   A stranger alone in the heart of his broken family, Lu Yanshi determines to resurrect their past together and reawaken his wife's memory.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjQ4ODA1NDg5N15BMl5BanBnXkFtZTgwMDc2MDQ5NTE@._V1_.jpg",
+        "uploadDate": "06/10/2015 08:22:33",
+        "link": "https://www.imdb.com/video/vi3626348569",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3626348569/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "$26,361, 13 September 2015",
+        "grossUSA": "$377,607",
+        "cumulativeWorldwideGross": "$47,587,984"
+    },
+    "tagline": "",
+    "keywords": "political prisoner,husband wife relationship,father daughter relationship,family relationships,memory loss",
+    "keywordList": [
+        "political prisoner",
+        "husband wife relationship",
+        "father daughter relationship",
+        "family relationships",
+        "memory loss"
+    ],
+    "similars": [
+        {
+            "id": "tt1554523",
+            "title": "Under the Hawthorn Tree",
+            "fullTitle": "Under the Hawthorn Tree (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMzMwMjM5MTQ0M15BMl5BanBnXkFtZTcwMjAyMzcyOQ@@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Romance sparks between a young woman and a young man from different economic backgrounds during China's Cultural Revolution of the 1960s and '70s.",
+            "directors": "Yimou Zhang",
+            "stars": "Xuejian Li, Taishen Cheng, Dongyu Zhou",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt2587482",
+            "title": "The Bright Red Lanterns Hung High",
+            "fullTitle": "The Bright Red Lanterns Hung High (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BZDNjNmVhZjMtZWRhOS00Yjc5LTkxNzEtOWEzZjc4ZjEzMDJhXkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "The story of a woman in the period before the Chinese Civil War, which began in the late 1920s. She becomes one of the wives of a lord and struggles with the rules of her new home.",
+            "directors": "Yimou Zhang",
+            "stars": "",
+            "genres": "Musical",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0437447",
+            "title": "Riding Alone for Thousands of Miles",
+            "fullTitle": "Riding Alone for Thousands of Miles (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BOTFjNzMwYzEtMjcwOC00N2E5LTg0YWYtZWE1MDVjODE4YTYyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A Japanese father travels to China's Yunnan province in the place of his ailing son to film a famous folk-opera star.",
+            "directors": "Yimou Zhang",
+            "stars": "Ken Takakura, Kiichi Nakai, Shinobu Terajima",
+            "genres": "Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt2080418",
+            "title": "Lady of the Dynasty",
+            "fullTitle": "Lady of the Dynasty (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BZDYzYTVjZmYtZDk0NC00YzIyLWJlODItZDg2MWNjMTg1ZWZhXkEyXkFqcGdeQXVyNjUxOTI2MTk@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "The tragic story of a Tang Dynasty imperial consort who was the favorite of the Emperor Xuanzong.",
+            "directors": "Directors: Shiqing Cheng, Yimou Zhang",
+            "stars": "Joan Chen, Bingbing Fan, Shun Oguri",
+            "genres": "Drama, History, Romance",
+            "imDbRating": "4.1"
+        },
+        {
+            "id": "tt0235060",
+            "title": "Heimweg",
+            "fullTitle": "Heimweg (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BMjA4MzkzNDIxMV5BMl5BanBnXkFtZTcwMTI2OTkxMQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Prompted by the death of his father and the grief of his mother, a man recalls the story of how they met in flashback.",
+            "directors": "Yimou Zhang",
+            "stars": "Ziyi Zhang, Honglei Sun, Hao Zheng",
+            "genres": "Drama, History, Romance",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0093206",
+            "title": "Red Sorghum",
+            "fullTitle": "Red Sorghum (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BNDk5NjFiZjktMDEzOC00ZjkyLWEwZDMtMDQxZTgwZGNlYjQzXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a leprous winery owner in 1930s China dies a few days after his arranged marriage, his young widow is forced to run the winery to make a living while contending with bandits, her drunkard lover, and the invading Japanese army.",
+            "directors": "Yimou Zhang",
+            "stars": "Li Gong, Wen Jiang, Rujun Teng",
+            "genres": "Drama, History, Romance",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0209189",
+            "title": "Keiner weniger",
+            "fullTitle": "Keiner weniger (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BZWEzN2FlNDMtZjY3Yi00NmViLTk0NDItYjhhYjVmYTZmN2VkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In a remote mountain village, the teacher must leave for a month, and the mayor can find only a 13-year old girl, Wei Minzhi, to substitute. The teacher leaves one stick of chalk for each ... See full summary \u00bb",
+            "directors": "Yimou Zhang",
+            "stars": "Minzhi Wei, Huike Zhang, Zhenda Tian",
+            "genres": "Drama",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0115012",
+            "title": "Shanghai Serenade",
+            "fullTitle": "Shanghai Serenade (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BODgzNGQyNjEtYTU0My00ZGY2LTg4Y2MtMWNiY2QyZGE1MGRiXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A provincial boy related to a Shanghai crime family is recruited by his uncle into cosmopolitan Shanghai in the 1930s to be a servant to a ganglord's mistress.",
+            "directors": "Yimou Zhang",
+            "stars": "Li Gong, Baotian Li, Xiaoxiao Wang",
+            "genres": "Crime, Drama, History",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0110081",
+            "title": "To Live",
+            "fullTitle": "To Live (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BMWQ2OTRlNzMtM2ZiNi00YzlkLWIyNjEtNjg2NGIzYjc1NmEwXkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After Fugui and Jiazhen lose their personal fortunes, they raise a family and survive difficult cultural changes during 1940s to 1970s China.",
+            "directors": "Yimou Zhang",
+            "stars": "You Ge, Li Gong, Ben Niu",
+            "genres": "Drama, War",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0120543",
+            "title": "Keep Cool",
+            "fullTitle": "Keep Cool (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BY2FkZjEwNWYtMDc1ZC00ZDJhLTk1YzAtODY3YTMwZDEyYzVlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A spurned lover seeks a rich man for revenge. A random onlooker -- who witnessed the public assault committed by the rich man against the lover -- seeks for monetary compensation for his ... See full summary \u00bb",
+            "directors": "Yimou Zhang",
+            "stars": "Rong Chang, Xudong Du, Qingzhuo Fang",
+            "genres": "Comedy",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0473444",
+            "title": "Curse of the Golden Flower",
+            "fullTitle": "Curse of the Golden Flower (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BYjdmN2E4YmEtZTIzMy00ZDA1LTllY2UtNjQ5NTgyNjkxYWUyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "During China's Tang dynasty the emperor has taken the princess of a neighboring province as wife. She has borne him two sons and raised his eldest. Now his control over his dominion is complete, including the royal family itself.",
+            "directors": "Yimou Zhang",
+            "stars": "Yun-Fat Chow, Li Gong, Jay Chou",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt0105197",
+            "title": "The Story of Qiu Ju",
+            "fullTitle": "The Story of Qiu Ju (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BNmJjY2QxYTUtM2ZhMy00YmZjLWExZWQtZjg0YzNmOWVhOWJkXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A pregnant peasant woman seeks redress from the Chinese bureaucracy after the village chief kicks her husband in the groin in this comedy of justice. As she is frustrated by each level of ... See full summary \u00bb",
+            "directors": "Yimou Zhang",
+            "stars": "Li Gong, Peiqi Liu, Liuchun Yang",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.6"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

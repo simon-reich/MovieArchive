@@ -1,0 +1,1160 @@
+{
+    "id": "tt7282468",
+    "title": "Burning",
+    "originalTitle": "Beoning",
+    "fullTitle": "Burning (2018)",
+    "type": "Movie",
+    "year": "2018",
+    "image": "https://imdb-api.com/images/original/MV5BMWNmYjI1M2UtNDdkNi00MTgwLWFiZmYtODcxNWZhM2Y2NWFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7015_AL_.jpg",
+    "releaseDate": "2018-05-17",
+    "runtimeMins": "148",
+    "runtimeStr": "2h 28mins",
+    "plot": "Jong-su bumps into a girl who used to live in the same neighborhood, who asks him to look after her cat while she's on a trip to Africa. When back, she introduces Ben, a mysterious guy she met there, who confesses his secret hobby.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "57 wins & 141 nominations.",
+    "directors": "Chang-dong Lee",
+    "directorList": [
+        {
+            "id": "nm0496969",
+            "name": "Chang-dong Lee"
+        }
+    ],
+    "writers": "Jungmi Oh, Chang-dong Lee, Haruki Murakami",
+    "writerList": [
+        {
+            "id": "nm7669131",
+            "name": "Jungmi Oh"
+        },
+        {
+            "id": "nm0496969",
+            "name": "Chang-dong Lee"
+        },
+        {
+            "id": "nm1633142",
+            "name": "Haruki Murakami"
+        }
+    ],
+    "stars": "Ah-In Yoo, Steven Yeun, Jong-seo Jun, Soo-Kyung Kim",
+    "starList": [
+        {
+            "id": "nm2584860",
+            "name": "Ah-In Yoo"
+        },
+        {
+            "id": "nm3081796",
+            "name": "Steven Yeun"
+        },
+        {
+            "id": "nm9311474",
+            "name": "Jong-seo Jun"
+        },
+        {
+            "id": "nm9940627",
+            "name": "Soo-Kyung Kim"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm2584860",
+            "image": "https://imdb-api.com/images/original/MV5BMTZiOWIzN2YtYjgxMi00ZmY0LThhNWQtNWEwNDU2Mjg4OTZmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ah-In Yoo",
+            "asCharacter": "Lee Jong-su"
+        },
+        {
+            "id": "nm3081796",
+            "image": "https://imdb-api.com/images/original/MV5BNjE4YmU2MTItMjE0ZC00Y2YxLWJkYWMtOTNiMTc0MDFjNjJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steven Yeun",
+            "asCharacter": "Ben (as Yeun Sang-yeop)"
+        },
+        {
+            "id": "nm9311474",
+            "image": "https://imdb-api.com/images/original/MV5BMTU4MDEzMTM2OF5BMl5BanBnXkFtZTgwNjM5MDM5NjM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jong-seo Jun",
+            "asCharacter": "Shin Hae-mi"
+        },
+        {
+            "id": "nm9940627",
+            "image": "https://imdb-api.com/images/original/MV5BNGVhNDE3OTctZjBhZS00YTk4LTgwNTgtMjBmNDE0NDRjNjMxXkEyXkFqcGdeQXVyODA4ODIwNDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Soo-Kyung Kim",
+            "asCharacter": "Yeon-ju"
+        },
+        {
+            "id": "nm8639907",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Seung-ho Choi",
+            "asCharacter": "Lee Yong-seok"
+        },
+        {
+            "id": "nm0600673",
+            "image": "https://imdb-api.com/images/original/MV5BNjM1N2YzZGUtODg5Ny00ZWEyLWFkYWMtMmZkOGFjZmQ1NDE4XkEyXkFqcGdeQXVyODA4ODIwNDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Seong-kun Mun",
+            "asCharacter": "Lawyer"
+        },
+        {
+            "id": "nm5651810",
+            "image": "https://imdb-api.com/images/original/MV5BMzM2OThlY2ItMTg4Yi00NjU2LWFjZWQtZmYzMDIxOGNhMjUwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bok-gi Min",
+            "asCharacter": "Judge"
+        },
+        {
+            "id": "nm9940628",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Soo-Jeong Lee",
+            "asCharacter": "Prosecutor"
+        },
+        {
+            "id": "nm3674439",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hye-ra Ban",
+            "asCharacter": "Jong-su's Mom"
+        },
+        {
+            "id": "nm9940629",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mi-Kyung Cha",
+            "asCharacter": "Hae-mi's Mom"
+        },
+        {
+            "id": "nm6771505",
+            "image": "https://imdb-api.com/images/original/MV5BNzI3Yzk4MjQtZWQ1MC00ZTNlLTkxNzctMTU2YTNkYjQ0M2RkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bong-ryeon Lee",
+            "asCharacter": "Hae-mi's Sister"
+        },
+        {
+            "id": "nm6564367",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wonhyeong Jang",
+            "asCharacter": "Won-hyeong"
+        },
+        {
+            "id": "nm8675635",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Seok-Chan Jeon",
+            "asCharacter": "Seok-chan"
+        },
+        {
+            "id": "nm9242569",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joong-ok Lee",
+            "asCharacter": "Patrolman"
+        },
+        {
+            "id": "nm9749063",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ja-Yeon Ok",
+            "asCharacter": "Ja-yeon"
+        },
+        {
+            "id": "nm0874339",
+            "image": "https://imdb-api.com/images/original/MV5BYWJmZmE1YWItYjBjYi00ODU4LTg2MDUtOTQyNWY2NjFlOGM5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Donald Trump",
+            "asCharacter": "Self (archive footage) (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt7282468",
+        "title": "Burning",
+        "fullTitle": "Burning (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0496969",
+                    "name": "Chang-dong Lee",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm7669131",
+                    "name": "Jungmi Oh",
+                    "description": "(screenplay by) &"
+                },
+                {
+                    "id": "nm0496969",
+                    "name": "Chang-dong Lee",
+                    "description": "(screenplay by)"
+                },
+                {
+                    "id": "nm1633142",
+                    "name": "Haruki Murakami",
+                    "description": "(based on the short story \"Barn Burning\" by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm2584860",
+                "image": "https://imdb-api.com/images/original/MV5BMTZiOWIzN2YtYjgxMi00ZmY0LThhNWQtNWEwNDU2Mjg4OTZmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ah-In Yoo",
+                "asCharacter": "Lee Jong-su"
+            },
+            {
+                "id": "nm3081796",
+                "image": "https://imdb-api.com/images/original/MV5BNjE4YmU2MTItMjE0ZC00Y2YxLWJkYWMtOTNiMTc0MDFjNjJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Steven Yeun",
+                "asCharacter": "Ben (as Yeun Sang-yeop)"
+            },
+            {
+                "id": "nm9311474",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4MDEzMTM2OF5BMl5BanBnXkFtZTgwNjM5MDM5NjM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jong-seo Jun",
+                "asCharacter": "Shin Hae-mi"
+            },
+            {
+                "id": "nm9940627",
+                "image": "https://imdb-api.com/images/original/MV5BNGVhNDE3OTctZjBhZS00YTk4LTgwNTgtMjBmNDE0NDRjNjMxXkEyXkFqcGdeQXVyODA4ODIwNDM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Soo-Kyung Kim",
+                "asCharacter": "Yeon-ju"
+            },
+            {
+                "id": "nm8639907",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Seung-ho Choi",
+                "asCharacter": "Lee Yong-seok"
+            },
+            {
+                "id": "nm0600673",
+                "image": "https://imdb-api.com/images/original/MV5BNjM1N2YzZGUtODg5Ny00ZWEyLWFkYWMtMmZkOGFjZmQ1NDE4XkEyXkFqcGdeQXVyODA4ODIwNDM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Seong-kun Mun",
+                "asCharacter": "Lawyer"
+            },
+            {
+                "id": "nm5651810",
+                "image": "https://imdb-api.com/images/original/MV5BMzM2OThlY2ItMTg4Yi00NjU2LWFjZWQtZmYzMDIxOGNhMjUwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Bok-gi Min",
+                "asCharacter": "Judge"
+            },
+            {
+                "id": "nm9940628",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Soo-Jeong Lee",
+                "asCharacter": "Prosecutor"
+            },
+            {
+                "id": "nm3674439",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hye-ra Ban",
+                "asCharacter": "Jong-su's Mom"
+            },
+            {
+                "id": "nm9940629",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mi-Kyung Cha",
+                "asCharacter": "Hae-mi's Mom"
+            },
+            {
+                "id": "nm6771505",
+                "image": "https://imdb-api.com/images/original/MV5BNzI3Yzk4MjQtZWQ1MC00ZTNlLTkxNzctMTU2YTNkYjQ0M2RkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Bong-ryeon Lee",
+                "asCharacter": "Hae-mi's Sister"
+            },
+            {
+                "id": "nm6564367",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Wonhyeong Jang",
+                "asCharacter": "Won-hyeong"
+            },
+            {
+                "id": "nm8675635",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Seok-Chan Jeon",
+                "asCharacter": "Seok-chan"
+            },
+            {
+                "id": "nm9242569",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joong-ok Lee",
+                "asCharacter": "Patrolman"
+            },
+            {
+                "id": "nm9749063",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ja-Yeon Ok",
+                "asCharacter": "Ja-yeon"
+            },
+            {
+                "id": "nm0874339",
+                "image": "https://imdb-api.com/images/original/MV5BYWJmZmE1YWItYjBjYi00ODU4LTg2MDUtOTQyNWY2NjFlOGM5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Donald Trump",
+                "asCharacter": "Self (archive footage) (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm1730908",
+                        "name": "Soo Jin Hwang",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0496969",
+                        "name": "Chang-dong Lee",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm1297121",
+                        "name": "Joon-dong Lee",
+                        "description": "executive producer / producer"
+                    },
+                    {
+                        "id": "nm9311475",
+                        "name": "Gwang-hee Ok",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm3028820",
+                        "name": "Mowg",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0393240",
+                        "name": "Kyung-pyo Hong",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm9749175",
+                        "name": "Da-won Kim",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0453479",
+                        "name": "Hyun Kim",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm1273054",
+                        "name": "Jum-hee Shin",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm4830665",
+                        "name": "Choong-yeon Lee",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm4264862",
+                        "name": "Hyun-kyu Hwang",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm9566438",
+                        "name": "Jeong-ja Kim",
+                        "description": "makeup artist"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm4727755",
+                        "name": "Jung-su Ha",
+                        "description": "assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0161092",
+                        "name": "Seung-cheol Lee",
+                        "description": "sound desginer / sound mixer"
+                    },
+                    {
+                        "id": "nm1720468",
+                        "name": "Kathie Talbot",
+                        "description": "Sound and vocal design: trailer"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm6388074",
+                        "name": "Young-il Ryoo",
+                        "description": "special effects supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm5441874",
+                        "name": "Suk Joong Kim",
+                        "description": "visual effects supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm3024718",
+                        "name": "Seok-Jin Yoon",
+                        "description": "stunts"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm6977202",
+                        "name": "Chang-ho Kim",
+                        "description": "gaffer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm9749174",
+                        "name": "Sang-woo Kang",
+                        "description": "digital imaging technician"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm9749173",
+                        "name": "Hee-jae Yang",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm1730908",
+                        "name": "Soo Jin Hwang",
+                        "description": "Associate Producer"
+                    },
+                    {
+                        "id": "nm5605043",
+                        "name": "Chris S. Lee",
+                        "description": "Management: B&C GROUP"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm3322340",
+                        "name": "Sooeung 'Chuck' Chae",
+                        "description": "special thanks (as Sooeung Chae)"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Mystery",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        }
+    ],
+    "companies": "Pine House Film, NHK, Now Films",
+    "companyList": [
+        {
+            "id": "co0219213",
+            "name": "Pine House Film"
+        },
+        {
+            "id": "co0052417",
+            "name": "NHK"
+        },
+        {
+            "id": "co0129937",
+            "name": "Now Films"
+        }
+    ],
+    "countries": "South Korea, Japan",
+    "countryList": [
+        {
+            "key": "South Korea",
+            "value": "South Korea"
+        },
+        {
+            "key": "Japan",
+            "value": "Japan"
+        }
+    ],
+    "languages": "Korean, English",
+    "languageList": [
+        {
+            "key": "Korean",
+            "value": "Korean"
+        },
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "7.5",
+    "imDbRatingVotes": "40586",
+    "metacriticRating": "90",
+    "ratings": {
+        "imDbId": "tt7282468",
+        "title": "Burning",
+        "fullTitle": "Burning (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "imDb": "7.5",
+        "metacritic": "90",
+        "theMovieDb": "7.4",
+        "rottenTomatoes": "95",
+        "tV_com": "",
+        "filmAffinity": "6.9",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt7282468",
+        "title": "Burning",
+        "fullTitle": "Burning (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "language": "en",
+        "titleInLanguage": "Burning (film)",
+        "url": "https://en.wikipedia.org/wiki/Burning_(film)",
+        "plotShort": {
+            "plainText": "Burning (film)\r\nBurning (Korean: \ubc84\ub2dd; RR: Beoning) is a 2018 South Korean psychological mystery drama film co-written, co-produced, and directed by Lee Chang-dong. Based on the short story \"Barn Burning\" from The Elephant Vanishes by author Haruki Murakami, it stars Yoo Ah-in, Steven Yeun, and Jeon Jong-seo. In the movie, deliveryman Jongsu (Yoo) is out on a job when he runs into his childhood friend Haemi (Jun). She asks if he\u2019d mind looking after her cat while she\u2019s away on a trip to Africa. On her return she introduces to Jongsu an enigmatic young man named Ben, who she met during her trip. And one day Ben tells Jongsu about his most unusual hobby.\r\nThe first film directed by Lee in eight years, the film premiered on May 16, 2018, at the 2018 Cannes Film Festival, where it competed for the Palme d'Or; it ended up receiving the FIPRESCI International Critics' Prize at the festival. It was released the following day in South Korea and on October 26, 2018, in the United States.\r\nIt received almost universal critical acclaim, particularly for its sense of unease and ambiguous narrative and performances. It was selected as the South Korean entry for Best Foreign Language Film at the 91st Academy Awards; although it was not nominated, it became the first Korean film to make it to the final nine-film shortlist. It received numerous other accolades, and was included on several critics' \"top ten\" lists for the year 2018, notably those of The New York Times, LA Times, and the Associated Press; it was also included on some lists of the greatest films of the decade.",
+            "html": "<h2>Burning (film)</h2><p>Burning (Korean: \ubc84\ub2dd; RR: Beoning) is a 2018 South Korean psychological mystery drama film co-written, co-produced, and directed by Lee Chang-dong. Based on the short story \"Barn Burning\" from The Elephant Vanishes by author Haruki Murakami, it stars Yoo Ah-in, Steven Yeun, and Jeon Jong-seo. In the movie, deliveryman Jongsu (Yoo) is out on a job when he runs into his childhood friend Haemi (Jun). She asks if he\u2019d mind looking after her cat while she\u2019s away on a trip to Africa. On her return she introduces to Jongsu an enigmatic young man named Ben, who she met during her trip. And one day Ben tells Jongsu about his most unusual hobby.</p><p>The first film directed by Lee in eight years, the film premiered on May 16, 2018, at the 2018 Cannes Film Festival, where it competed for the Palme d'Or; it ended up receiving the FIPRESCI International Critics' Prize at the festival. It was released the following day in South Korea and on October 26, 2018, in the United States.</p><p>It received almost universal critical acclaim, particularly for its sense of unease and ambiguous narrative and performances. It was selected as the South Korean entry for Best Foreign Language Film at the 91st Academy Awards; although it was not nominated, it became the first Korean film to make it to the final nine-film shortlist. It received numerous other accolades, and was included on several critics' \"top ten\" lists for the year 2018, notably those of The New York Times, LA Times, and the Associated Press; it was also included on some lists of the greatest films of the decade.</p>"
+        },
+        "plotFull": {
+            "plainText": "Burning (film)\r\nBurning (Korean: \ubc84\ub2dd; RR: Beoning) is a 2018 South Korean psychological mystery drama film co-written, co-produced, and directed by Lee Chang-dong. Based on the short story \"Barn Burning\" from The Elephant Vanishes by author Haruki Murakami, it stars Yoo Ah-in, Steven Yeun, and Jeon Jong-seo. In the movie, deliveryman Jongsu (Yoo) is out on a job when he runs into his childhood friend Haemi (Jun). She asks if he\u2019d mind looking after her cat while she\u2019s away on a trip to Africa. On her return she introduces to Jongsu an enigmatic young man named Ben, who she met during her trip. And one day Ben tells Jongsu about his most unusual hobby.\r\nThe first film directed by Lee in eight years, the film premiered on May 16, 2018, at the 2018 Cannes Film Festival, where it competed for the Palme d'Or; it ended up receiving the FIPRESCI International Critics' Prize at the festival. It was released the following day in South Korea and on October 26, 2018, in the United States.\r\nIt received almost universal critical acclaim, particularly for its sense of unease and ambiguous narrative and performances. It was selected as the South Korean entry for Best Foreign Language Film at the 91st Academy Awards; although it was not nominated, it became the first Korean film to make it to the final nine-film shortlist. It received numerous other accolades, and was included on several critics' \"top ten\" lists for the year 2018, notably those of The New York Times, LA Times, and the Associated Press; it was also included on some lists of the greatest films of the decade.\r\nPlot\r\nAn aspiring young novelist, Lee Jong-su performs odd jobs in Paju. One day he runs into Shin Hae-mi, a childhood neighbor and classmate, at a promotion at which he is making a delivery. Jong-su initially does not remember her, but Shin Hae-mi tells him she had plastic surgery. Jong-su then remembers and gives her a pink watch that he won at the promotion. Later, she tells him about her upcoming trip to Africa, and asks him to feed her cat, Boil, while she is away. Before Hae-mi's departure, Jong-su's father, a cattle farmer, got tangled in disagreeable legal affairs, and Jong-su had to return to the farm. Jong-su passes by Hae-mi's apartment, where he receives instructions about feeding the cat. Later, they have sex in Hae-mi's apartment.\r\nAfter Hae-mi departs, Jong-su dutifully feeds her cat, although he never sees it. He does, however, know that a cat is there because he finds feces in the cat's litter box. He also begins habitually masturbating in her apartment. One day Hae-mi calls, saying she had become stranded at Nairobi Airport for three days after a bombing nearby. When Jong-su comes to pick her up, she arrives with Ben, whom she met and bonded with during the crisis. The three go out for dinner, where Hae-mi recalls a sunset she witnessed during her travels. Moved by the memory, she cries and confesses that she wanted to disappear. Ben is well-off and confident, though it is never entirely clear what he does for a living. He also tells them that he never cried once in his entire life. Jong-su, struggling to get by and taking care of his family farm while his father is in prison, envies Ben and his relationship with Hae-mi from afar.\r\nHanging out at Jong-su's farm, Hae-mi recalls a childhood memory wherein Jong-su rescued her after she fell into a well near her home, which Jong-su does not remember. The trio smoke cannabis and Hae-mi dances topless. After Hae-mi has fallen asleep on the sofa, Ben confesses a strange hobby: Every two months, he burns an abandoned greenhouse. He notes that Jong-su's rural neighborhood is full of greenhouses. When asked when his next burning will take place, Ben claims it will be very soon and close to Jong-su's house. Jong-su tells Ben that he loves Hae-mi, but later shames Hae-mi for disrobing in front of other men, calling her a prostitute. Hae-mi quietly gets into Ben's car and as they leave Jong-su tells Ben he will keep an eye on the greenhouses in his area.\r\nThat night Jong-su has a dream of himself naked as a young boy approaching a burning greenhouse. Upon waking he looks outside at the ruins of a greenhouse on the farm and recovers Ben's lighter from the previous night.\r\nOver the following days, Jong-su keeps watch around the neighborhood to see if any greenhouses burn down, but none do. One afternoon, in front of an intact greenhouse that he happens to be inspecting he receives a call from Hae-mi, which cuts off after a few seconds of ambiguous noises. Jong-su becomes worried as she does not answer any of his calls afterwards, and begins to investigate after her phone number becomes disconnected. Eventually he convinces the landlady to let him into Hae-mi's apartment so that he can feed her cat although she says that no animals are allowed. Hae-mi's apartment is unnaturally clean; her pink suitcase remains; and all signs of the cat are gone. Jong-su begins stalking Ben, starting out of his apartment and following him to see where he goes. When he sees Ben's Porsche parked outside a restaurant he goes inside to talk to him. Ben looks surprised and is friendly to Jong-su. A young woman suddenly approaches the table, apologizing to Ben for being late. As the three of them leave the restaurant, Jong-su asks Ben if he has heard from Hae-mi and whether she had gone on a trip. Ben says he has not heard from her, and he doubts she had gone on a trip because she could not afford it. Talking about Hae-mi in the past tense, Ben says Hae-mi disappeared like ash and that Jong-su was the only person she trusted and that it made him jealous for the first time in his life.\r\nJong-su repeatedly starts to look for clues. He goes to Hae-mi's family restaurant asking if the well story is true, and her mother denies, stating Hae-mi always invented stories and there was no well. Her mother also tells Hae-mi is prohibited of talking to the family because of her major credit card debt. Jong-su asks the new owners of her old house and they don't recall any well. Later, Jong-su receives a call from his mother, whom he hasn't heard from in many years. He meets with her and she states that she remembers the well.\r\nOne day, Ben finds Jong-su outside his place. Ben aks him why he was there and Jong-su tells that he wants to talk about Hae-mi with him. Ben invites him up to his party in his apartment where Jong-su finds that Ben has a new cat which he claims is a rescued stray. Jong-su's suspicions are raised further when on a visit to the toilet he finds a recent pink watch, similar to the one he had given Hae-mi, hidden in a drawer containing other pieces of women\u2019s jewelry. Shortly afterwards, Ben's cat runs out of the apartment to the garage and Jong-su, at first try, calls the cat \"Boil\", the same name as Hae-mi's cat, and the cat comes to him. Jong-su tries to leave but is stopped by Ben, asking him if he doesn't want to talk about Hae-mi and Jong-su tells him he no longer needs to do that.\r\nJong-su starts writing his novel in Hae-mi's apartment. Ben is seen putting make-up in the face of a young woman in his apartment. Jong-su asks to meet Ben in the countryside, claiming he is with Hae-mi. After Ben sees that Hae-mi is not there, he asks him where she is. Jong-su stabs Ben several times and he looks surprised. Ben starts crying and hugs Jong-su in his final moments until he dies. Jong-su douses Ben's car and body in gasoline and sets it all aflame, tossing his blood-soaked clothes in as well. He stumbles naked to his truck and drives off.\r\nCast\r\nYoo Ah-in as Lee Jong-su\r\nSteven Yeun as Ben\r\nJeon Jong-seo as Shin Hae-mi\r\nKim Soo-Kyung as Yeon-ju\r\nChoi Seung-ho as Lee Yong-seok\r\nMoon Sung-keun as Lawyer\r\nMin Bok-gi as Judge\r\nBan Hye-ra as Jong-su's mother\r\nLee Bong-ryun as Hae-mi's sister\r\nProduction\r\nDeveloped as the work of the international project which was based on one of Haruki Murakami's short stories in The Elephant Vanishes, \"Barn Burning\". Production was set to begin in November 2016 but was delayed by a dispute between Murakami and NHK, which owns the rights to many of Murakami's works.. It also merges elements of William Faulkner's short story of the same name. In October 2016, however, Lee said, \"it is a story about young people in today\u2019s world. When they think of their lives and the world, it must feel like a mystery\", at the Busan International Film Festival. In September 2017, the studio said that it had only brought the basic outlines of the story.\r\nIn 2016, it was thought that Gang Dong-won and Yoo Ah-in will feature in the film, but an official announcement was not made.\r\nOn September 5, 2017, it was announced that Yoo Ah-in has been confirmed for the role of Jong-su. Three days later, newcomer Jeon Jong-seo was cast for the role of Hae-mi based on auditions which began in August. On September 20, Steven Yeun joined the film as Ben.\r\nPrincipal photography began on September 11, 2017. Filming wrapped on January 30, 2018, in Paju.\r\nRelease\r\nThe first film directed by Lee Chang-dong in eight years, Burning was widely predicted by film critics and insiders to be an in-competition entry at the upcoming 2018 Cannes Film Festival. Lee's 2007 film Secret Sunshine and his 2010 film Poetry both premiered as in-competition entries at the Cannes Film Festival. In April 2018, Burning was among the lineup of in-competition entries announced for the 2018 Cannes Film Festival.\r\nBurning was sold to more than 100 countries and territories at the March\u00e9 du Film in Cannes Film Festival. This included Hong Kong, China, Taiwan, Singapore, the United Kingdom, Japan, Australia, New Zealand, Spain, Greece, Poland and Turkey.\r\nIn South Korea, Burning premiered in theaters on May 17, 2018. It was released in the United States on October 26, 2018.\r\nNetflix released Burning on its streaming service on April 29, 2019.\r\nHome media\r\nDistributor Well Go USA Entertainment released Burning on Blu-ray and DVD on March 5, 2019.\r\nReception\r\nBox office\r\nAs of 7 March 2019, Burning has grossed $719,772 in the United States and Canada, and $6.1 million in other territories (including $4.2 million in South Korea), for a total worldwide gross of $6.8 million.\r\nOn its opening day in South Korea, Burning attracted 52,324 viewers in total, ranking second at the box office behind Deadpool 2 (248,904 viewers). Over the first weekend of its release, Burning received 220,717 admissions, placing third at the local box office. By the end of its run, the film recorded 528,168 admissions in its home country.\r\nIn its opening weekend in France, the film attracted 53,876 audience in total, ranking third at the box office behind Mile 22.\r\nIn its opening weekend in the United States, the film made $26,130 from two theaters. The film had its widest release in its third weekend, playing in 27 theaters and grossing $76,608.\r\nCritical response\r\nOn review aggregator Rotten Tomatoes, the film holds an approval rating of 95% from 185 reviews, with an average rating of 8.59/10. The website's critical consensus reads, \"Burning patiently lures audiences into a slow-burning character study that ultimately rewards the viewer's patience -- and subverts many of their expectations.\" On Metacritic, the film has a weighted average score of 90 out of 100, based on 38 critics, indicating \"universal acclaim\".\r\nLos Angeles Times's Justin Chang called it \"a masterpiece of psychological unease\u2014 the most lucid and absorbing new movie I've seen this year, as well as the most layered and enigmatic.\" The Guardian's Peter Bradshaw called it \"a gripping nightmare\" and lavished praise on how \"Lee creates a sense of mood and place with masterly flair.\" Sight & Sound rated it the third best film of 2018, and Jessica Kiang wrote in her Cannes review, \"The embers are banked up so gradually that it\u2019s not until a few hours after the ending of this elusive, riveting masterpiece that you are far enough away to appreciate the scale of the conflagration.\" Tim Robey in The Daily Telegraph observed, \"This is Lee\u2019s closest ever film to a thriller, but it defies expectations, offering multiple, murky solutions to a set of mysteries at once.\" Vulture's Emily Yoshida praised the film for its \"perception of the rich vampirizing youth \u2014 not directly biologically or physically or financially, but emotionally\" but considered that \"Burning lost its steam in its second half\". Peter Debruge of Variety suggested that \"he degree to which Burning succeeds will depend largely on one's capacity to identify with the unspoken but strongly conveyed sense of jealousy and frustration its lower-class protagonist feels\". Rolling Stone's Peter Travers wrote that the film \"sizzles with a cumulative power that will knock the wind out of you\" and declared that \"Lee has crafted a hypnotic and haunting film that transcends genre to dig deep into the human condition. You won\u2019t be able to get it out of your head.\"\r\nGeoff Andrew of Time Out was similarly positive, hailing it as a \"movie rich in teasing ambiguities and possible lies... Lee's interest lies not in crime-solving but in exploring Jongsu's emotional confusion... Both a slow-burn suspense drama and an intriguing enigma, his film is beautifully executed\". Todd McCarthy of The Hollywood Reporter reacted enthusiastically to the film, writing that \"his is a beautifully crafted film loaded with glancing insights and observations into an understated triangular relationship, one rife with subtle perceptions about class privilege, reverberating family legacies, creative confidence, self-invention, sexual jealousy, justice and revenge\". For The Canadian Press, David Friend said the film includes \"simmering layers of subtext and tension build over the film's two-and-a-half hour runtime.\"\r\nNick Pinkerton, writing in ArtForum, was more muted, writing that \"Burning is strewn with all sorts of information whose exact meaning and validity is impossible to determine... a film with such a diffident, often passive protagonist must generate its tensions and attractions elsewhere\u2014memorable supporting players, a tactile atmosphere, a complex sense of the social sphere, an emphatic emotionalism\".\r\nThe depiction of the female character Hae-mi in the film attracted some criticism. However, Adam Nayman from Film Society of Lincoln Center argued and emphasized for The Ringer that the story is \"told fully from Jongsu's point of view,\" so \"it's fair to ask whether Lee Chang Dong is cultivating true audience solidarity or urging us to understand the story exclusively through the lens of his hero's prejudices: to see Haemi and Ben as idealized and demonized figures, respectively.\" Phoebe Chen of the Film Feminist Journal: Another Gaze, analyzed that Haemi's existence had a grander purpose in the film, and wrote, \"If you know Burning is adapted from a Haruki Murakami short story, however loosely, you know that Haemi will vanish. The trope of the missing woman is built into Murakami's narrative DNA: her vanishing will preoccupy the protagonist, neurotically at first, then fade over the months and years to a dull malaise\", and \"The mystery of Haemi\u2019s disappearance is technically 'solved', but becomes supplanted by one grander: the mystery of a world that tantalises with the hope of futurity while locking its millions of subjects in a cold impasse.\" Alexandra Heller-Nicholas of Alliance of Women Film Journalists emphasized that the character of Hae-mi is much more than simply a missing woman as plot device but one of the most powerful parts of a film that casually yet firmly addresses the pressures on women, \"While the film\u2019s well-executed action and unflinching, profound exploration of its deeper thematic questions circle Jong-su and Ben with increasing intensity, it is this question of Hae-mi that drives the story. This is much, much more than simply a missing woman as plot device: one of the most powerful parts of a film that can comfortably boast a range of achievements is how casually yet firmly the film addresses the pressures on women \u2013 not just Hae-mi and her colleagues, but Jong-su's own mother \u2013 to live up to financially unsustainable images of femininity in contemporary South Korea.\"\r\nAccolades\r\nBurning won the FIPRESCI Prize at the 2018 Cannes Film Festival. It became the highest-rated film in the history of Screen International\u2019s Cannes jury grid. Burning also won Best Foreign Language Film in Los Angeles Film Critics Association, Best Foreign Language Film in Toronto Film Critics Association and National Board of Review's Top Five Foreign Language Film. It went on to be nominated for three Asia Pacific Screen Awards, winning the Jury Grand Prize. It was included on Roger Ebert's Great Movies. It was nominated for eight Asian Film Awards, including Best Film, and won Best Director award. In September 2019, it won Saturn Award for Best International Film.\r\nBurning was selected as the South Korean entry for the Best Foreign Language Film category at the 91st Academy Awards; although it was not nominated, it became the first Korean film to make it to the final nine-film shortlist.\r\nTop ten lists\r\nBurning appeared on many critics' year-end top ten lists for 2018, among them:\r\n1st \u2013 The A.V. Club\r\n1st \u2013 Justin Chang, LA Times\r\n1st \u2013 Jake Coyle, Associated Press\r\n1st \u2013 John Powers, Vogue magazine\r\n2nd \u2013 Manohla Dargis, The New York Times\r\n2nd \u2013 Film Comment\r\n4th \u2013 Marlow Stern, The Daily Beast\r\n5th \u2013 Barry Hertz, The Globe and Mail\r\n6th \u2013 David Ehrlich, IndieWire\r\nTop 10 (not ranked)\r\nJoe Morgenstern, The Wall Street Journal\r\nTy Burr, Boston Globe\r\nDecade-end lists\r\nIn late 2019, Burning also appeared on the \"Best films of the decade\" lists of Rolling Stone, The A.V. Club, Associated Press, Boston Globe, Indiewire, Insider, and Film Comment.",
+            "html": "<h2>Burning (film)</h2><p>Burning (Korean: \ubc84\ub2dd; RR: Beoning) is a 2018 South Korean psychological mystery drama film co-written, co-produced, and directed by Lee Chang-dong. Based on the short story \"Barn Burning\" from The Elephant Vanishes by author Haruki Murakami, it stars Yoo Ah-in, Steven Yeun, and Jeon Jong-seo. In the movie, deliveryman Jongsu (Yoo) is out on a job when he runs into his childhood friend Haemi (Jun). She asks if he\u2019d mind looking after her cat while she\u2019s away on a trip to Africa. On her return she introduces to Jongsu an enigmatic young man named Ben, who she met during her trip. And one day Ben tells Jongsu about his most unusual hobby.</p><p>The first film directed by Lee in eight years, the film premiered on May 16, 2018, at the 2018 Cannes Film Festival, where it competed for the Palme d'Or; it ended up receiving the FIPRESCI International Critics' Prize at the festival. It was released the following day in South Korea and on October 26, 2018, in the United States.</p><p>It received almost universal critical acclaim, particularly for its sense of unease and ambiguous narrative and performances. It was selected as the South Korean entry for Best Foreign Language Film at the 91st Academy Awards; although it was not nominated, it became the first Korean film to make it to the final nine-film shortlist. It received numerous other accolades, and was included on several critics' \"top ten\" lists for the year 2018, notably those of The New York Times, LA Times, and the Associated Press; it was also included on some lists of the greatest films of the decade.</p><br/><h3>Plot</h3><p>An aspiring young novelist, Lee Jong-su performs odd jobs in Paju. One day he runs into Shin Hae-mi, a childhood neighbor and classmate, at a promotion at which he is making a delivery. Jong-su initially does not remember her, but Shin Hae-mi tells him she had plastic surgery. Jong-su then remembers and gives her a pink watch that he won at the promotion. Later, she tells him about her upcoming trip to Africa, and asks him to feed her cat, Boil, while she is away. Before Hae-mi's departure, Jong-su's father, a cattle farmer, got tangled in disagreeable legal affairs, and Jong-su had to return to the farm. Jong-su passes by Hae-mi's apartment, where he receives instructions about feeding the cat. Later, they have sex in Hae-mi's apartment.</p><p>After Hae-mi departs, Jong-su dutifully feeds her cat, although he never sees it. He does, however, know that a cat is there because he finds feces in the cat's litter box. He also begins habitually masturbating in her apartment. One day Hae-mi calls, saying she had become stranded at Nairobi Airport for three days after a bombing nearby. When Jong-su comes to pick her up, she arrives with Ben, whom she met and bonded with during the crisis. The three go out for dinner, where Hae-mi recalls a sunset she witnessed during her travels. Moved by the memory, she cries and confesses that she wanted to disappear. Ben is well-off and confident, though it is never entirely clear what he does for a living. He also tells them that he never cried once in his entire life. Jong-su, struggling to get by and taking care of his family farm while his father is in prison, envies Ben and his relationship with Hae-mi from afar.</p><p>Hanging out at Jong-su's farm, Hae-mi recalls a childhood memory wherein Jong-su rescued her after she fell into a well near her home, which Jong-su does not remember. The trio smoke cannabis and Hae-mi dances topless. After Hae-mi has fallen asleep on the sofa, Ben confesses a strange hobby: Every two months, he burns an abandoned greenhouse. He notes that Jong-su's rural neighborhood is full of greenhouses. When asked when his next burning will take place, Ben claims it will be very soon and close to Jong-su's house. Jong-su tells Ben that he loves Hae-mi, but later shames Hae-mi for disrobing in front of other men, calling her a prostitute. Hae-mi quietly gets into Ben's car and as they leave Jong-su tells Ben he will keep an eye on the greenhouses in his area.</p><p>That night Jong-su has a dream of himself naked as a young boy approaching a burning greenhouse. Upon waking he looks outside at the ruins of a greenhouse on the farm and recovers Ben's lighter from the previous night.</p><p>Over the following days, Jong-su keeps watch around the neighborhood to see if any greenhouses burn down, but none do. One afternoon, in front of an intact greenhouse that he happens to be inspecting he receives a call from Hae-mi, which cuts off after a few seconds of ambiguous noises. Jong-su becomes worried as she does not answer any of his calls afterwards, and begins to investigate after her phone number becomes disconnected. Eventually he convinces the landlady to let him into Hae-mi's apartment so that he can feed her cat although she says that no animals are allowed. Hae-mi's apartment is unnaturally clean; her pink suitcase remains; and all signs of the cat are gone. Jong-su begins stalking Ben, starting out of his apartment and following him to see where he goes. When he sees Ben's Porsche parked outside a restaurant he goes inside to talk to him. Ben looks surprised and is friendly to Jong-su. A young woman suddenly approaches the table, apologizing to Ben for being late. As the three of them leave the restaurant, Jong-su asks Ben if he has heard from Hae-mi and whether she had gone on a trip. Ben says he has not heard from her, and he doubts she had gone on a trip because she could not afford it. Talking about Hae-mi in the past tense, Ben says Hae-mi disappeared like ash and that Jong-su was the only person she trusted and that it made him jealous for the first time in his life.</p><p>Jong-su repeatedly starts to look for clues. He goes to Hae-mi's family restaurant asking if the well story is true, and her mother denies, stating Hae-mi always invented stories and there was no well. Her mother also tells Hae-mi is prohibited of talking to the family because of her major credit card debt. Jong-su asks the new owners of her old house and they don't recall any well. Later, Jong-su receives a call from his mother, whom he hasn't heard from in many years. He meets with her and she states that she remembers the well.</p><p>One day, Ben finds Jong-su outside his place. Ben aks him why he was there and Jong-su tells that he wants to talk about Hae-mi with him. Ben invites him up to his party in his apartment where Jong-su finds that Ben has a new cat which he claims is a rescued stray. Jong-su's suspicions are raised further when on a visit to the toilet he finds a recent pink watch, similar to the one he had given Hae-mi, hidden in a drawer containing other pieces of women\u2019s jewelry. Shortly afterwards, Ben's cat runs out of the apartment to the garage and Jong-su, at first try, calls the cat \"Boil\", the same name as Hae-mi's cat, and the cat comes to him. Jong-su tries to leave but is stopped by Ben, asking him if he doesn't want to talk about Hae-mi and Jong-su tells him he no longer needs to do that.</p><p>Jong-su starts writing his novel in Hae-mi's apartment. Ben is seen putting make-up in the face of a young woman in his apartment. Jong-su asks to meet Ben in the countryside, claiming he is with Hae-mi. After Ben sees that Hae-mi is not there, he asks him where she is. Jong-su stabs Ben several times and he looks surprised. Ben starts crying and hugs Jong-su in his final moments until he dies. Jong-su douses Ben's car and body in gasoline and sets it all aflame, tossing his blood-soaked clothes in as well. He stumbles naked to his truck and drives off.</p><br/><h3>Cast</h3><ul><li>Yoo Ah-in as Lee Jong-su</li><li>Steven Yeun as Ben</li><li>Jeon Jong-seo as Shin Hae-mi</li><li>Kim Soo-Kyung as Yeon-ju</li><li>Choi Seung-ho as Lee Yong-seok</li><li>Moon Sung-keun as Lawyer</li><li>Min Bok-gi as Judge</li><li>Ban Hye-ra as Jong-su's mother</li><li>Lee Bong-ryun as Hae-mi's sister</li></ul><br/><h3>Production</h3><p>Developed as the work of the international project which was based on one of Haruki Murakami's short stories in The Elephant Vanishes, \"Barn Burning\". Production was set to begin in November 2016 but was delayed by a dispute between Murakami and NHK, which owns the rights to many of Murakami's works.. It also merges elements of William Faulkner's short story of the same name. In October 2016, however, Lee said, \"it is a story about young people in today\u2019s world. When they think of their lives and the world, it must feel like a mystery\", at the Busan International Film Festival. In September 2017, the studio said that it had only brought the basic outlines of the story.</p><p>In 2016, it was thought that Gang Dong-won and Yoo Ah-in will feature in the film, but an official announcement was not made.</p><p>On September 5, 2017, it was announced that Yoo Ah-in has been confirmed for the role of Jong-su. Three days later, newcomer Jeon Jong-seo was cast for the role of Hae-mi based on auditions which began in August. On September 20, Steven Yeun joined the film as Ben.</p><p>Principal photography began on September 11, 2017. Filming wrapped on January 30, 2018, in Paju.</p><br/><h3>Release</h3><p>The first film directed by Lee Chang-dong in eight years, Burning was widely predicted by film critics and insiders to be an in-competition entry at the upcoming 2018 Cannes Film Festival. Lee's 2007 film Secret Sunshine and his 2010 film Poetry both premiered as in-competition entries at the Cannes Film Festival. In April 2018, Burning was among the lineup of in-competition entries announced for the 2018 Cannes Film Festival.</p><p>Burning was sold to more than 100 countries and territories at the March\u00e9 du Film in Cannes Film Festival. This included Hong Kong, China, Taiwan, Singapore, the United Kingdom, Japan, Australia, New Zealand, Spain, Greece, Poland and Turkey.</p><p>In South Korea, Burning premiered in theaters on May 17, 2018. It was released in the United States on October 26, 2018.</p><p>Netflix released Burning on its streaming service on April 29, 2019.</p><h4>Home media</h4><p>Distributor Well Go USA Entertainment released Burning on Blu-ray and DVD on March 5, 2019.</p><br/><h3>Reception</h3><h4>Box office</h4><p>As of 7 March 2019, Burning has grossed $719,772 in the United States and Canada, and $6.1 million in other territories (including $4.2 million in South Korea), for a total worldwide gross of $6.8 million.</p><p>On its opening day in South Korea, Burning attracted 52,324 viewers in total, ranking second at the box office behind Deadpool 2 (248,904 viewers). Over the first weekend of its release, Burning received 220,717 admissions, placing third at the local box office. By the end of its run, the film recorded 528,168 admissions in its home country.</p><p>In its opening weekend in France, the film attracted 53,876 audience in total, ranking third at the box office behind Mile 22.</p><p>In its opening weekend in the United States, the film made $26,130 from two theaters. The film had its widest release in its third weekend, playing in 27 theaters and grossing $76,608.</p><h4>Critical response</h4><p>On review aggregator Rotten Tomatoes, the film holds an approval rating of 95% from 185 reviews, with an average rating of 8.59/10. The website's critical consensus reads, \"Burning patiently lures audiences into a slow-burning character study that ultimately rewards the viewer's patience -- and subverts many of their expectations.\" On Metacritic, the film has a weighted average score of 90 out of 100, based on 38 critics, indicating \"universal acclaim\".</p><p>Los Angeles Times's Justin Chang called it \"a masterpiece of psychological unease\u2014 the most lucid and absorbing new movie I've seen this year, as well as the most layered and enigmatic.\" The Guardian's Peter Bradshaw called it \"a gripping nightmare\" and lavished praise on how \"Lee creates a sense of mood and place with masterly flair.\" Sight & Sound rated it the third best film of 2018, and Jessica Kiang wrote in her Cannes review, \"The embers are banked up so gradually that it\u2019s not until a few hours after the ending of this elusive, riveting masterpiece that you are far enough away to appreciate the scale of the conflagration.\" Tim Robey in The Daily Telegraph observed, \"This is Lee\u2019s closest ever film to a thriller, but it defies expectations, offering multiple, murky solutions to a set of mysteries at once.\" Vulture's Emily Yoshida praised the film for its \"perception of the rich vampirizing youth \u2014 not directly biologically or physically or financially, but emotionally\" but considered that \"Burning lost its steam in its second half\". Peter Debruge of Variety suggested that \"he degree to which Burning succeeds will depend largely on one's capacity to identify with the unspoken but strongly conveyed sense of jealousy and frustration its lower-class protagonist feels\". Rolling Stone's Peter Travers wrote that the film \"sizzles with a cumulative power that will knock the wind out of you\" and declared that \"Lee has crafted a hypnotic and haunting film that transcends genre to dig deep into the human condition. You won\u2019t be able to get it out of your head.\"</p><p>Geoff Andrew of Time Out was similarly positive, hailing it as a \"movie rich in teasing ambiguities and possible lies... Lee's interest lies not in crime-solving but in exploring Jongsu's emotional confusion... Both a slow-burn suspense drama and an intriguing enigma, his film is beautifully executed\". Todd McCarthy of The Hollywood Reporter reacted enthusiastically to the film, writing that \"his is a beautifully crafted film loaded with glancing insights and observations into an understated triangular relationship, one rife with subtle perceptions about class privilege, reverberating family legacies, creative confidence, self-invention, sexual jealousy, justice and revenge\". For The Canadian Press, David Friend said the film includes \"simmering layers of subtext and tension build over the film's two-and-a-half hour runtime.\"</p><p>Nick Pinkerton, writing in ArtForum, was more muted, writing that \"Burning is strewn with all sorts of information whose exact meaning and validity is impossible to determine... a film with such a diffident, often passive protagonist must generate its tensions and attractions elsewhere\u2014memorable supporting players, a tactile atmosphere, a complex sense of the social sphere, an emphatic emotionalism\".</p><p>The depiction of the female character Hae-mi in the film attracted some criticism. However, Adam Nayman from Film Society of Lincoln Center argued and emphasized for The Ringer that the story is \"told fully from Jongsu's point of view,\" so \"it's fair to ask whether Lee Chang Dong is cultivating true audience solidarity or urging us to understand the story exclusively through the lens of his hero's prejudices: to see Haemi and Ben as idealized and demonized figures, respectively.\" Phoebe Chen of the Film Feminist Journal: Another Gaze, analyzed that Haemi's existence had a grander purpose in the film, and wrote, \"If you know Burning is adapted from a Haruki Murakami short story, however loosely, you know that Haemi will vanish. The trope of the missing woman is built into Murakami's narrative DNA: her vanishing will preoccupy the protagonist, neurotically at first, then fade over the months and years to a dull malaise\", and \"The mystery of Haemi\u2019s disappearance is technically 'solved', but becomes supplanted by one grander: the mystery of a world that tantalises with the hope of futurity while locking its millions of subjects in a cold impasse.\" Alexandra Heller-Nicholas of Alliance of Women Film Journalists emphasized that the character of Hae-mi is much more than simply a missing woman as plot device but one of the most powerful parts of a film that casually yet firmly addresses the pressures on women, \"While the film\u2019s well-executed action and unflinching, profound exploration of its deeper thematic questions circle Jong-su and Ben with increasing intensity, it is this question of Hae-mi that drives the story. This is much, much more than simply a missing woman as plot device: one of the most powerful parts of a film that can comfortably boast a range of achievements is how casually yet firmly the film addresses the pressures on women \u2013 not just Hae-mi and her colleagues, but Jong-su's own mother \u2013 to live up to financially unsustainable images of femininity in contemporary South Korea.\"</p><h4>Accolades</h4><p>Burning won the FIPRESCI Prize at the 2018 Cannes Film Festival. It became the highest-rated film in the history of Screen International\u2019s Cannes jury grid. Burning also won Best Foreign Language Film in Los Angeles Film Critics Association, Best Foreign Language Film in Toronto Film Critics Association and National Board of Review's Top Five Foreign Language Film. It went on to be nominated for three Asia Pacific Screen Awards, winning the Jury Grand Prize. It was included on Roger Ebert's Great Movies. It was nominated for eight Asian Film Awards, including Best Film, and won Best Director award. In September 2019, it won Saturn Award for Best International Film.</p><p>Burning was selected as the South Korean entry for the Best Foreign Language Film category at the 91st Academy Awards; although it was not nominated, it became the first Korean film to make it to the final nine-film shortlist.</p><h4>Top ten lists</h4><p>Burning appeared on many critics' year-end top ten lists for 2018, among them:</p><ul><li>1st \u2013 The A.V. Club</li><li>1st \u2013 Justin Chang, LA Times</li><li>1st \u2013 Jake Coyle, Associated Press</li></ul><ul><li>1st \u2013 John Powers, Vogue magazine</li><li>2nd \u2013 Manohla Dargis, The New York Times</li><li>2nd \u2013 Film Comment</li><li>4th \u2013 Marlow Stern, The Daily Beast</li><li>5th \u2013 Barry Hertz, The Globe and Mail</li><li>6th \u2013 David Ehrlich, IndieWire</li></ul><p>Top 10 (not ranked)</p><ul><li>Joe Morgenstern, The Wall Street Journal</li><li>Ty Burr, Boston Globe</li></ul><h4>Decade-end lists</h4><p>In late 2019, Burning also appeared on the \"Best films of the decade\" lists of Rolling Stone, The A.V. Club, Associated Press, Boston Globe, Indiewire, Insider, and Film Comment.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt7282468",
+        "title": "Burning",
+        "fullTitle": "Burning (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "posters": [
+            {
+                "id": "4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
+                "link": "https://imdb-api.com/posters/original/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1300,
+                "height": 1950
+            },
+            {
+                "id": "gdizSWHqG6I0nND1XkVMfV79jyy.jpg",
+                "link": "https://imdb-api.com/posters/original/gdizSWHqG6I0nND1XkVMfV79jyy.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+                "link": "https://imdb-api.com/posters/original/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "ld6Lu9gEI93jPC1yHSoKObE1Cyp.jpg",
+                "link": "https://imdb-api.com/posters/original/ld6Lu9gEI93jPC1yHSoKObE1Cyp.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "8ak33l6lfvBPmWOMH9sUCOaC6lq.jpg",
+                "link": "https://imdb-api.com/posters/original/8ak33l6lfvBPmWOMH9sUCOaC6lq.jpg",
+                "aspectRatio": 0.7004310344827587,
+                "language": "en",
+                "width": 1300,
+                "height": 1856
+            },
+            {
+                "id": "tFOaLruk72Pz1YxPNYRgusgNUdw.jpg",
+                "link": "https://imdb-api.com/posters/original/tFOaLruk72Pz1YxPNYRgusgNUdw.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "A2poRS41Lk24hj2ouEjP14b7sHI.jpg",
+                "link": "https://imdb-api.com/posters/original/A2poRS41Lk24hj2ouEjP14b7sHI.jpg",
+                "aspectRatio": 0.6694444444444444,
+                "language": "en",
+                "width": 723,
+                "height": 1080
+            },
+            {
+                "id": "jeS0Gsrf6BESn3F2dUwBMdoc56q.jpg",
+                "link": "https://imdb-api.com/posters/original/jeS0Gsrf6BESn3F2dUwBMdoc56q.jpg",
+                "aspectRatio": 0.700770847932726,
+                "language": "en",
+                "width": 1000,
+                "height": 1427
+            },
+            {
+                "id": "i3mL6c6UT6VNZEn6mGZ4opdXOGy.jpg",
+                "link": "https://imdb-api.com/posters/original/i3mL6c6UT6VNZEn6mGZ4opdXOGy.jpg",
+                "aspectRatio": 0.6747638326585695,
+                "language": "en",
+                "width": 2000,
+                "height": 2964
+            },
+            {
+                "id": "dydoqsTX9mTrwCZJIf9gM4w3apk.jpg",
+                "link": "https://imdb-api.com/posters/original/dydoqsTX9mTrwCZJIf9gM4w3apk.jpg",
+                "aspectRatio": 0.7006020799124247,
+                "language": "en",
+                "width": 1280,
+                "height": 1827
+            },
+            {
+                "id": "ecK7mCoPJ2uplq9Z9pGCu6SdmT2.jpg",
+                "link": "https://imdb-api.com/posters/original/ecK7mCoPJ2uplq9Z9pGCu6SdmT2.jpg",
+                "aspectRatio": 0.666,
+                "language": "en",
+                "width": 1332,
+                "height": 2000
+            },
+            {
+                "id": "nVwudcIwPfkC8iZT16vLhJ4a8EU.jpg",
+                "link": "https://imdb-api.com/posters/original/nVwudcIwPfkC8iZT16vLhJ4a8EU.jpg",
+                "aspectRatio": 0.7006020799124247,
+                "language": "en",
+                "width": 1280,
+                "height": 1827
+            },
+            {
+                "id": "sxgbS6HMKuIQvFzfC1RpFKUvhEr.jpg",
+                "link": "https://imdb-api.com/posters/original/sxgbS6HMKuIQvFzfC1RpFKUvhEr.jpg",
+                "aspectRatio": 0.6747638326585695,
+                "language": "en",
+                "width": 1000,
+                "height": 1482
+            },
+            {
+                "id": "jkFhvH8soRAXYFQH8hIHs0GvIET.jpg",
+                "link": "https://imdb-api.com/posters/original/jkFhvH8soRAXYFQH8hIHs0GvIET.jpg",
+                "aspectRatio": 0.7006020799124247,
+                "language": "en",
+                "width": 1280,
+                "height": 1827
+            }
+        ],
+        "backdors": [
+            {
+                "id": "v6eOq707lwWFIG96Rv9sSR6lnnT.jpg",
+                "link": "https://imdb-api.com/posters/original/v6eOq707lwWFIG96Rv9sSR6lnnT.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "p4JvZZFonKPvIeXZ1c4xkJD8Ty7.jpg",
+                "link": "https://imdb-api.com/posters/original/p4JvZZFonKPvIeXZ1c4xkJD8Ty7.jpg",
+                "aspectRatio": 1.7770833333333333,
+                "language": "en",
+                "width": 1706,
+                "height": 960
+            },
+            {
+                "id": "3gSvNuM4ieYloFvZu0Zu0wyMNIU.jpg",
+                "link": "https://imdb-api.com/posters/original/3gSvNuM4ieYloFvZu0Zu0wyMNIU.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "uRLdyXunYmcfnRFyEfHH3mi7Yy7.jpg",
+                "link": "https://imdb-api.com/posters/original/uRLdyXunYmcfnRFyEfHH3mi7Yy7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "2aoEhxGqEMYc5Vrzq1wZUYjWAeg.jpg",
+                "link": "https://imdb-api.com/posters/original/2aoEhxGqEMYc5Vrzq1wZUYjWAeg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "j4HSOwHum0YCzkGc4T4XQchMrLz.jpg",
+                "link": "https://imdb-api.com/posters/original/j4HSOwHum0YCzkGc4T4XQchMrLz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "d4ZI9rb7cm2e7CETKBpqBsE3OeC.jpg",
+                "link": "https://imdb-api.com/posters/original/d4ZI9rb7cm2e7CETKBpqBsE3OeC.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "l7N7nCUGLIsz1ZP7cA3lYXVBGkL.jpg",
+                "link": "https://imdb-api.com/posters/original/l7N7nCUGLIsz1ZP7cA3lYXVBGkL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1360,
+                "height": 765
+            },
+            {
+                "id": "z7isy2Qt0SB9cj6PYjznBKAUGbY.jpg",
+                "link": "https://imdb-api.com/posters/original/z7isy2Qt0SB9cj6PYjznBKAUGbY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1360,
+                "height": 765
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt7282468",
+        "title": "Burning",
+        "fullTitle": "Burning (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "items": [
+            {
+                "title": "Jong-seo Jun at an event for Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4MDEzMTM2OF5BMl5BanBnXkFtZTgwNjM5MDM5NjM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo, Steven Yeun, and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYzg4NWNiMmMtYWQ2OS00ZTM1LTgyMTEtNWZkNTg1MWFiZjIxXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BODgwZmFlYjEtOWUxZC00ZDQ3LTk3OWYtNGRkN2U2M2UyNDI3XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk5ODYyMTcwN15BMl5BanBnXkFtZTgwMDIyNDI0NjM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZjFlNTlhYjItMGIzYy00ZWJlLTk1ZjktODg4ZTMxZDU5MTc5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYjEzYTNlMDEtNmI2ZC00MDA1LWFmMmMtOTI3NDc5MjMxMDcxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNzMzYTUwY2QtMGMxNS00ZDI0LThmMzMtNWQ3OTg5MGE1Yjc5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNDczN2NkZGMtMDhmYS00M2YxLWIxMGQtZThlMWViNTA0MTUwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYjM5OTYwNTQtYjlkYi00ZGFmLTk3MTktNjA1YWRlNmEwNzdhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYTYxZTRjZDYtNDc5Yi00ZjAyLWExY2QtYjk3MmU3YjBkMDU0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BN2RjM2FiMDAtMTBhNC00MDRmLTg0OTItOWVmY2JiYmVjMDUyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BOWRiM2E1N2UtNzA4NC00ZTUxLWEzMDQtMmE1OWIyMWUxM2RiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZTg5NDdhOTQtZGM1NC00ZmE4LWJmZTgtN2Y5Yjk4M2ZmMjA4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMWZmODUwYjgtNjQ2Ni00MWNkLTkwMWUtN2IyMzRjZGQyZWRjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZTQ3MjhkNzctMzFiOC00MzliLWI4MGYtZWYyMDgyOWI0Mzg2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNDQ2YzZlYzEtNGI4Yy00YTE2LWIyOWUtMDY2YTEzYzBiMjZmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxM2EyYTQtNTdmMy00Nzk3LTg0MTEtNDVkNDBkNWFlYTJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZTZkMGI3YmUtMzZlMS00MTNmLWFlM2EtYThkMWY2ZGVhZjkxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZTY5MGY2YzgtZDdkNi00MWJmLWEyODItOTg1NDU3NjdiZjMyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMTRlNTA3YmYtNTcyMy00ZDIwLTk3ZWUtYmNkY2MxNDczODFiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZTA2ZjBjYTItMzUxMC00MjI5LWEyOTEtN2MzM2E2ZDE3OWFjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZTcxNWU0NTktMmM4Ni00YzFlLThlOTQtODE2MmZmNzI2NTk3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNjBmMmNiNmUtMTFiNC00MDY5LWI1YWItMzc2NGFhMDI4MmNhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNGQ2MTA4MWItMjViNS00MGMxLTg3NTktZTY1NGZhNGY1YjVlXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo, Steven Yeun, and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZjRjZmZiMzQtYTNlZS00MTQxLTgzNDAtY2FlNDVlN2QyMzQ4XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo, Steven Yeun, and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BODU0NjYzMTItNWRmYi00NWQ3LWIwOTItMTQyOTQ0MzE4MjNhXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYjViODhlYWQtYzQyOS00ZjU4LTk2MTUtYzA2ZTkwZDYzYzQ2XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYTNjMjQ1YjUtY2UxMS00OWU2LWFkNmYtZjU3YWE2MThlZmNmXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BOGFkYzJiZDAtZTBmMS00ZmZhLWE4MjYtYmRiZWM5MjMzNTk3XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZDJkMWEyOTktYTI4NS00ZTZiLThlY2MtNWVkZDIyNjhkZjg5XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYzBiNTU0MjMtYjRmMy00NmI2LWFmMTYtN2Q5ZjE0MDllYTBhXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNzAwYWYxNTgtNjFkYi00OGY0LTlkZGYtMTBkZTFhNTZmZTEyXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYTZkYjI5MjgtMWI5NS00YTI4LTk5MDItN2ZjNmZmYjBkODRmXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNTllZTNhNjYtMTRkZC00ODg2LThiMTMtMTQxNDVlZjYyY2RkXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYWQ2MmUwOGEtYTBjMy00MTkzLWJlZjctNTg4YmYwOGYxZjRjXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYzk1NzExMGQtZWI5Mi00MWRjLWExZmItODJlYzg2MGRkYjc3XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Steven Yeun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYTcxOWY5YTYtOGQ0Yy00MzQ1LTliNmEtYWNiMTA3ZTEwNGE5XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Steven Yeun and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU3YWIxYjItMmM4MC00NWU2LTkwMjYtNTgzNGE4OGMwMzA2XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo and Steven Yeun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZjQyZGFhNTMtYjQ3NC00OWIxLTlhMWItODM3MjlmYzExZjA0XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo, Steven Yeun, and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZTVkNjFjNGMtNjY4Ni00ZTdmLTlkZWYtN2U3YzVhMzYxOWY5XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo, Steven Yeun, and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNGM1ODc4NWMtZjMxZi00NDRiLWIxNWUtNWVkYTQxZGNmYWJjXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Steven Yeun and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMmNjMTJhODQtNjBmZi00YTEwLWI2ZDUtYWQ5YWNlN2FhNWYxXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Steven Yeun and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZDc4ZjFlMWQtYTUyNS00MzFjLTkxYTAtOWYzZTJiYjE5MWMxXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZDc3M2Q3NmQtZGVkMC00MGFkLTk4YjMtMGUzNjhkMTRmOGIxXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYWZkYmUzZGItMjQzMS00NjNkLTg4YWEtZGM1MWNjOTFiOGI0XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZWRmNmIwMmItZmQ5MC00N2MzLWEzNTMtYzQ0MWEwNmI0NTUzXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ah-In Yoo and Jong-seo Jun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNDgxZTk3NTUtY2UwNy00MzMzLTg4MzYtYmQwNmI1MTE5N2ZlXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steven Yeun in Burning (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BOTBlOWVlZTktZjFlYi00ZmIxLWEzMGMtM2Y2Yjc0MmEzZGE0XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.5000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt7282468",
+        "title": "Burning",
+        "fullTitle": "Burning (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "videoId": "vi1202305817",
+        "videoTitle": "Burning",
+        "videoDescription": "A woman's life is intertwined with two men - one rich and the other a courier who struggles to make ends meet.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTZmM2Y5ODAtYjQwMi00NmU5LWE2YzMtYjRiYmI4OTY3ZjZlXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg",
+        "uploadDate": "05/24/2018 21:21:27",
+        "link": "https://www.imdb.com/video/vi1202305817",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1202305817/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "$26,130, 28 October 2018",
+        "grossUSA": "$718,991",
+        "cumulativeWorldwideGross": "$7,566,962"
+    },
+    "tagline": "Now Tell the Truth",
+    "keywords": "metaphor,class differences,aspiring writer,suspicion,ambiguous ending",
+    "keywordList": [
+        "metaphor",
+        "class differences",
+        "aspiring writer",
+        "suspicion",
+        "ambiguous ending"
+    ],
+    "similars": [
+        {
+            "id": "tt8075192",
+            "title": "Shoplifters",
+            "fullTitle": "Shoplifters (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BYWZmOTY0MDAtMGRlMS00YjFlLWFkZTUtYmJhYWNlN2JjMmZkXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A family of small-time crooks take in a child they find outside in the cold.",
+            "directors": "Hirokazu Koreeda",
+            "stars": "Lily Franky, Sakura And\u00f4, Kirin Kiki",
+            "genres": "Crime, Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt4016934",
+            "title": "The Handmaiden",
+            "fullTitle": "The Handmaiden (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+            "directors": "Chan-wook Park",
+            "stars": "Min-hee Kim, Jung-woo Ha, Jin-woong Cho",
+            "genres": "Drama, Romance, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt5215952",
+            "title": "The Wailing",
+            "fullTitle": "The Wailing (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BODkwMTgxNjA2NF5BMl5BanBnXkFtZTgwMDc0OTcwOTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Soon after a stranger arrives in a little village, a mysterious sickness starts spreading. A policeman, drawn into the incident, is forced to solve the mystery in order to save his daughter.",
+            "directors": "Hong-jin Na",
+            "stars": "Jun Kunimura, Jung-min Hwang, Do-won Kwak",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0817225",
+            "title": "Secret Sunshine",
+            "fullTitle": "Secret Sunshine (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMjAzMDE5MDM5OV5BMl5BanBnXkFtZTgwMDE1NzE1MjE@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A woman moves to the town where her dead husband was born. As she tries to fit in, another tragic event overturns her life.",
+            "directors": "Chang-dong Lee",
+            "stars": "Do-yeon Jeon, Kang-ho Song, Hye-jin Jang",
+            "genres": "Drama",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt1287878",
+            "title": "Poetry",
+            "fullTitle": "Poetry (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BOTdkM2FhNTUtYWJkZi00MDQ3LWJhMjktZjg4N2VjZTU2MmZhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A sixty-something woman, faced with the discovery of a heinous family crime and in the early stages of Alzheimer's disease, finds strength and purpose when she enrolls in a poetry class.",
+            "directors": "Chang-dong Lee",
+            "stars": "Jeong-hie Yun, Da-wit Lee, Hee-ra Kim",
+            "genres": "Drama",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt1216496",
+            "title": "Mother",
+            "fullTitle": "Mother (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A mother desperately searches for the killer who framed her son for a girl's horrific murder.",
+            "directors": "Bong Joon Ho",
+            "stars": "Hye-ja Kim, Won Bin, Goo Jin",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0320193",
+            "title": "Oasis",
+            "fullTitle": "Oasis (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BZjYwNGYwM2ItZGFmMy00ZjdiLWJjNWMtNTA4YjA1MTc0OTdiXkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An irresponsible and childish ex-con befriends a girl with cerebral palsy and develops a progressively stronger bond with her.",
+            "directors": "Chang-dong Lee",
+            "stars": "Kyung-gu Sol, So-Ri Moon, Nae-sang Ahn",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt6155172",
+            "title": "Roma",
+            "fullTitle": "Roma (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A year in the life of a middle-class family's maid in Mexico City in the early 1970s.",
+            "directors": "Alfonso Cuar\u00f3n",
+            "stars": "Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey",
+            "genres": "Drama",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0353969",
+            "title": "Memories of Murder",
+            "fullTitle": "Memories of Murder (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BMzhlNGJhYzUtZTNiMi00MjI0LWFjN2MtOTVlN2IxODVkZWVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+            "directors": "Bong Joon Ho",
+            "stars": "Kang-ho Song, Sang-kyung Kim, Roe-ha Kim",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt3464902",
+            "title": "The Lobster",
+            "fullTitle": "The Lobster (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.",
+            "directors": "Yorgos Lanthimos",
+            "stars": "Colin Farrell, Rachel Weisz, Jessica Barden",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt1190539",
+            "title": "The Chaser",
+            "fullTitle": "The Chaser (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BY2ViOTU5MDQtZTRiZi00YjViLWFiY2ItOTRhNWYyN2ZiMzUyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A disgraced ex-policeman who runs a small ring of prostitutes finds himself in a race against time when one of his women goes missing.",
+            "directors": "Hong-jin Na",
+            "stars": "Yoon-seok Kim, Jung-woo Ha, Yeong-hie Seo",
+            "genres": "Action, Crime, Thriller",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt4995790",
+            "title": "The Square",
+            "fullTitle": "The Square (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMzc1MDY3NDIwMV5BMl5BanBnXkFtZTgwNzkwNzU0MzI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A prestigious Stockholm museum's chief art curator finds himself in times of both professional and personal crisis as he attempts to set up a controversial new exhibit.",
+            "directors": "Ruben \u00d6stlund",
+            "stars": "Claes Bang, Elisabeth Moss, Dominic West",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.2"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

@@ -1,0 +1,1772 @@
+{
+    "id": "tt2802154",
+    "title": "Leviathan",
+    "originalTitle": "Leviafan",
+    "fullTitle": "Leviathan (2014)",
+    "type": "Movie",
+    "year": "2014",
+    "image": "https://imdb-api.com/images/original/MV5BMmQ3ZDkzN2EtMWM4MS00NzcyLWJiZGUtYjBiNzBlMzYzNWQyL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_Ratio0.6866_AL_.jpg",
+    "releaseDate": "2014-09-24",
+    "runtimeMins": "140",
+    "runtimeStr": "2h 20mins",
+    "plot": "On the outskirts of a small coastal town in the Barents Sea, where whales sometimes come to its bay, lives an ordinary family: Kolya (Aleksey Serebryakov), his wife Lilya (Elena Lyadova) and their teenage son Romka. The family is haunted by a local corrupted mayor (Roman Madyanov), who is trying to take away the land, a house and a small auto repair shop from Kolya. To save their homes Kolya calls his old Army friend in Moscow (Vladimir Vdovichenkov), who has now become an authoritative attorney. Together they decide to fight back and collect dirt on the mayor.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Nominated for 1 Oscar. Another 35 wins & 47 nominations.",
+    "directors": "Andrey Zvyagintsev",
+    "directorList": [
+        {
+            "id": "nm1168657",
+            "name": "Andrey Zvyagintsev"
+        }
+    ],
+    "writers": "Oleg Negin, Andrey Zvyagintsev",
+    "writerList": [
+        {
+            "id": "nm2697466",
+            "name": "Oleg Negin"
+        },
+        {
+            "id": "nm1168657",
+            "name": "Andrey Zvyagintsev"
+        }
+    ],
+    "stars": "Aleksey Serebryakov, Elena Lyadova, Roman Madyanov, Vladimir Vdovichenkov",
+    "starList": [
+        {
+            "id": "nm0148516",
+            "name": "Aleksey Serebryakov"
+        },
+        {
+            "id": "nm1956600",
+            "name": "Elena Lyadova"
+        },
+        {
+            "id": "nm0535295",
+            "name": "Roman Madyanov"
+        },
+        {
+            "id": "nm1284690",
+            "name": "Vladimir Vdovichenkov"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0148516",
+            "image": "https://imdb-api.com/images/original/MV5BNjY3MTE2MjM5MF5BMl5BanBnXkFtZTgwNzY3MjY4MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Aleksey Serebryakov",
+            "asCharacter": "Nikolay 'Kolya'"
+        },
+        {
+            "id": "nm1956600",
+            "image": "https://imdb-api.com/images/original/MV5BMjIzOTg2NTM1Nl5BMl5BanBnXkFtZTgwNDY3MjY4MTE@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Elena Lyadova",
+            "asCharacter": "Lilya"
+        },
+        {
+            "id": "nm1284690",
+            "image": "https://imdb-api.com/images/original/MV5BMzQwZWM5MmEtMDk3OS00MTdlLTg4ODktMDczZmQ0ZTRmMjI4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Vladimir Vdovichenkov",
+            "asCharacter": "Dmitriy"
+        },
+        {
+            "id": "nm0535295",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5MzAwOTQyN15BMl5BanBnXkFtZTgwMTg1MzY4MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Roman Madyanov",
+            "asCharacter": "Vadim Cheleviat 'Mer'"
+        },
+        {
+            "id": "nm1748835",
+            "image": "https://imdb-api.com/images/original/MV5BYzUzYjdjOTUtNmU2Ni00MDRjLWE3ZTItNDllMDNlOGZlYjgyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Anna Ukolova",
+            "asCharacter": "Anzhela"
+        },
+        {
+            "id": "nm3729612",
+            "image": "https://imdb-api.com/images/original/MV5BNmVlZmM5MWQtNDFiYi00YmY2LWI3YmQtZjQwMDg1YTExMGYxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Aleksey Rozin",
+            "asCharacter": "Pasha"
+        },
+        {
+            "id": "nm4193518",
+            "image": "https://imdb-api.com/images/original/MV5BYmZiYTg1ODQtNDJlOS00ZjMwLWIyMDktY2VkMGU4YzgxNGExXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Sergey Pokhodaev",
+            "asCharacter": "Romka"
+        },
+        {
+            "id": "nm6894361",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Platon Kamenev",
+            "asCharacter": "Vitya"
+        },
+        {
+            "id": "nm0045567",
+            "image": "https://imdb-api.com/images/original/MV5BYWI0YTA0ZDAtMzZlNy00Y2JhLWEzZGQtOGYzOTdkZWI3NThhXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.9091_AL_.jpg",
+            "name": "Sergey Bachurskiy",
+            "asCharacter": "Stepanych"
+        },
+        {
+            "id": "nm1458725",
+            "image": "https://imdb-api.com/images/original/MV5BMjI4MjJhYTMtYmQxOS00MjJkLThmMDgtOTM4NTZhNTQ1YTA3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Valeriy Grishko",
+            "asCharacter": "Arkhierey"
+        },
+        {
+            "id": "nm7017502",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alla Emintseva",
+            "asCharacter": "Sudya"
+        },
+        {
+            "id": "nm0795563",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Margarita Shubina",
+            "asCharacter": "Prokuror"
+        },
+        {
+            "id": "nm1455618",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyMjVhYjItNmY5Yy00YjUwLWI4YjQtYWJjYjBhNjY3MTQ0XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Dmitriy Bykovskiy-Romashov",
+            "asCharacter": "Nachalnik politsii (as Dmitriy Bykovskiy)"
+        },
+        {
+            "id": "nm5347629",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sergey Borisov",
+            "asCharacter": "Operativnik"
+        },
+        {
+            "id": "nm1688754",
+            "image": "https://imdb-api.com/images/original/MV5BYjRhZWJkNWYtYjIwNS00ZGUzLWJkOTktOWQ5NTc2OWNiZDE1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Igor Savochkin",
+            "asCharacter": "Sledovatel"
+        },
+        {
+            "id": "nm0785104",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Igor Sergeev",
+            "asCharacter": "Svyashchennik"
+        },
+        {
+            "id": "nm7098590",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Konstantin Telegin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1235719",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Olga Lapshina",
+            "asCharacter": "Matushka"
+        },
+        {
+            "id": "nm7098591",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mariya Skornitskaya",
+            "asCharacter": "Rabotnitsa prokuratury"
+        },
+        {
+            "id": "nm6894357",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Irina Ryndina",
+            "asCharacter": "Zhena mera"
+        },
+        {
+            "id": "nm7098592",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nikita Yashin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7098593",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elena Ivitskaya",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm6592338",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Irina Vilkova",
+            "asCharacter": "Sudya Gandikap"
+        },
+        {
+            "id": "nm6281472",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aleksey Karabanov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm3538812",
+            "image": "https://imdb-api.com/images/original/MV5BOTQ0OWYzNTMtNzEzYS00ZTFjLWI1OGUtNDkyM2IzNjJiZDU5XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Artyom Kobzev",
+            "asCharacter": "Operativnik"
+        },
+        {
+            "id": "nm5982660",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lesya Kudryashova",
+            "asCharacter": "Yulya, sekretar mera"
+        },
+        {
+            "id": "nm6894356",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sergey Grab",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm6894359",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vyacheslav Gonchar",
+            "asCharacter": "Vasiliy, voditel"
+        },
+        {
+            "id": "nm5839921",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Irina Gavra",
+            "asCharacter": "Zhena nachalnika politsii"
+        },
+        {
+            "id": "nm1542204",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Grigoriy Baranov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7098594",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Larisa Krupina",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7098595",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ulyana Artemenko",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm3273894",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Viktor Ryabov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0615498",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sergey Murzin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7098596",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andrey Kostyuk",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm3745839",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tatyana Afanaseva",
+            "asCharacter": "Sekretar suda"
+        },
+        {
+            "id": "nm2013625",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marianna Shults",
+            "asCharacter": "(as Maryana Shults)"
+        },
+        {
+            "id": "nm5982663",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kristina Pakarina",
+            "asCharacter": "Devochka v poezde"
+        },
+        {
+            "id": "nm3655131",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ruslan Khabibullov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465219",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Viktor Krasnopyorov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm5982662",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aleksey Pavlov",
+            "asCharacter": "Konvoir"
+        },
+        {
+            "id": "nm7201059",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Evgeniy Ryabov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm6894362",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andrey Kolyadov",
+            "asCharacter": "Politseyskiy"
+        },
+        {
+            "id": "nm3472747",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Igor Litovkin",
+            "asCharacter": "Politseyskiy"
+        },
+        {
+            "id": "nm7465220",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anatoliy Gordienko",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465221",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Irina Sirbiladze",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465222",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alyona Baykova",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465223",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Roman Kovalyov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465224",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Denis Lukin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465225",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marina Yukina",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465226",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniil Arkatov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4828187",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vladimir Lupanov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm6894363",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Evgeniy Yakunin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7201058",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pavel Kolmakov-Lebedev",
+            "asCharacter": "(as Pavel Lebedev)"
+        },
+        {
+            "id": "nm7465228",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fyodor Matyushkin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465229",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Danila Fedyukin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4448298",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Natasha Garustovich",
+            "asCharacter": "Posetitelnitsa suda (as Natalya Garustovich)"
+        },
+        {
+            "id": "nm6894360",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andrey Belozyorov",
+            "asCharacter": "Posetitel suda"
+        },
+        {
+            "id": "nm7465230",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rezo Milorava",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465231",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Evgeniy Kozhevin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7201057",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dmitriy Tolkachyov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm6444379",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dmitriy Kuryanov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm5021624",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Valeriy Devyatykh",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465232",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yuriy Vorotyntsev",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465227",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vladislav Kirpichyov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm5231124",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pavel Gorin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465233",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aleksandra Denisenko",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0955535",
+            "image": "https://imdb-api.com/images/original/MV5BOTk4YmIzOTgtODUwZS00NWMwLTg0MGYtYmZhOWE2YzQyYmY4XkEyXkFqcGdeQXVyNjY0Njk3ODk@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Aleksey Zharkov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7201056",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dmitriy Kovalenko",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm6710127",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sergey Zhivotov",
+            "asCharacter": "Ipodiakon"
+        },
+        {
+            "id": "nm7465234",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Olga Felyanina",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465235",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gennadiy Bykovskiy",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4537356",
+            "image": "https://imdb-api.com/images/original/MV5BZmRjYTE5NDItNDY3OC00ZWJhLWE4YzctOTllMTU3MGExNzk5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Aleksey Dolgushin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7201055",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aleksandr Shabalin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465236",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aleksey Baranov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465237",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nikolay Plyosov",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465238",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mariya Ekhlakova",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4929185",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Natalya Gandzyuk",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm6705812",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anna Pereleshina",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465239",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anastasiya Pavlushina",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7465240",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tatyana Udaltsova",
+            "asCharacter": ""
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt2802154",
+        "title": "Leviathan",
+        "fullTitle": "Leviathan (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm1168657",
+                    "name": "Andrey Zvyagintsev",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm2697466",
+                    "name": "Oleg Negin",
+                    "description": ""
+                },
+                {
+                    "id": "nm1168657",
+                    "name": "Andrey Zvyagintsev",
+                    "description": ""
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0148516",
+                "image": "https://imdb-api.com/images/original/MV5BNjY3MTE2MjM5MF5BMl5BanBnXkFtZTgwNzY3MjY4MTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Aleksey Serebryakov",
+                "asCharacter": "Nikolay 'Kolya'"
+            },
+            {
+                "id": "nm1956600",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzOTg2NTM1Nl5BMl5BanBnXkFtZTgwNDY3MjY4MTE@._V1_Ratio1.3636_AL_.jpg",
+                "name": "Elena Lyadova",
+                "asCharacter": "Lilya"
+            },
+            {
+                "id": "nm1284690",
+                "image": "https://imdb-api.com/images/original/MV5BMzQwZWM5MmEtMDk3OS00MTdlLTg4ODktMDczZmQ0ZTRmMjI4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Vladimir Vdovichenkov",
+                "asCharacter": "Dmitriy"
+            },
+            {
+                "id": "nm0535295",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5MzAwOTQyN15BMl5BanBnXkFtZTgwMTg1MzY4MTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Roman Madyanov",
+                "asCharacter": "Vadim Cheleviat 'Mer'"
+            },
+            {
+                "id": "nm1748835",
+                "image": "https://imdb-api.com/images/original/MV5BYzUzYjdjOTUtNmU2Ni00MDRjLWE3ZTItNDllMDNlOGZlYjgyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Anna Ukolova",
+                "asCharacter": "Anzhela"
+            },
+            {
+                "id": "nm3729612",
+                "image": "https://imdb-api.com/images/original/MV5BNmVlZmM5MWQtNDFiYi00YmY2LWI3YmQtZjQwMDg1YTExMGYxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Aleksey Rozin",
+                "asCharacter": "Pasha"
+            },
+            {
+                "id": "nm4193518",
+                "image": "https://imdb-api.com/images/original/MV5BYmZiYTg1ODQtNDJlOS00ZjMwLWIyMDktY2VkMGU4YzgxNGExXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Sergey Pokhodaev",
+                "asCharacter": "Romka"
+            },
+            {
+                "id": "nm6894361",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Platon Kamenev",
+                "asCharacter": "Vitya"
+            },
+            {
+                "id": "nm0045567",
+                "image": "https://imdb-api.com/images/original/MV5BYWI0YTA0ZDAtMzZlNy00Y2JhLWEzZGQtOGYzOTdkZWI3NThhXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.9091_AL_.jpg",
+                "name": "Sergey Bachurskiy",
+                "asCharacter": "Stepanych"
+            },
+            {
+                "id": "nm1458725",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4MjJhYTMtYmQxOS00MjJkLThmMDgtOTM4NTZhNTQ1YTA3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Valeriy Grishko",
+                "asCharacter": "Arkhierey"
+            },
+            {
+                "id": "nm7017502",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alla Emintseva",
+                "asCharacter": "Sudya"
+            },
+            {
+                "id": "nm0795563",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Margarita Shubina",
+                "asCharacter": "Prokuror"
+            },
+            {
+                "id": "nm1455618",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyMjVhYjItNmY5Yy00YjUwLWI4YjQtYWJjYjBhNjY3MTQ0XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Dmitriy Bykovskiy-Romashov",
+                "asCharacter": "Nachalnik politsii (as Dmitriy Bykovskiy)"
+            },
+            {
+                "id": "nm5347629",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sergey Borisov",
+                "asCharacter": "Operativnik"
+            },
+            {
+                "id": "nm1688754",
+                "image": "https://imdb-api.com/images/original/MV5BYjRhZWJkNWYtYjIwNS00ZGUzLWJkOTktOWQ5NTc2OWNiZDE1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Igor Savochkin",
+                "asCharacter": "Sledovatel"
+            },
+            {
+                "id": "nm0785104",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Igor Sergeev",
+                "asCharacter": "Svyashchennik"
+            },
+            {
+                "id": "nm7098590",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Konstantin Telegin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm1235719",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Olga Lapshina",
+                "asCharacter": "Matushka"
+            },
+            {
+                "id": "nm7098591",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mariya Skornitskaya",
+                "asCharacter": "Rabotnitsa prokuratury"
+            },
+            {
+                "id": "nm6894357",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Irina Ryndina",
+                "asCharacter": "Zhena mera"
+            },
+            {
+                "id": "nm7098592",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nikita Yashin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7098593",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Elena Ivitskaya",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm6592338",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Irina Vilkova",
+                "asCharacter": "Sudya Gandikap"
+            },
+            {
+                "id": "nm6281472",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Aleksey Karabanov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm3538812",
+                "image": "https://imdb-api.com/images/original/MV5BOTQ0OWYzNTMtNzEzYS00ZTFjLWI1OGUtNDkyM2IzNjJiZDU5XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Artyom Kobzev",
+                "asCharacter": "Operativnik"
+            },
+            {
+                "id": "nm5982660",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lesya Kudryashova",
+                "asCharacter": "Yulya, sekretar mera"
+            },
+            {
+                "id": "nm6894356",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sergey Grab",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm6894359",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Vyacheslav Gonchar",
+                "asCharacter": "Vasiliy, voditel"
+            },
+            {
+                "id": "nm5839921",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Irina Gavra",
+                "asCharacter": "Zhena nachalnika politsii"
+            },
+            {
+                "id": "nm1542204",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Grigoriy Baranov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7098594",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Larisa Krupina",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7098595",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ulyana Artemenko",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm3273894",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Viktor Ryabov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm0615498",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sergey Murzin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7098596",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Andrey Kostyuk",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm3745839",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tatyana Afanaseva",
+                "asCharacter": "Sekretar suda"
+            },
+            {
+                "id": "nm2013625",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marianna Shults",
+                "asCharacter": "(as Maryana Shults)"
+            },
+            {
+                "id": "nm5982663",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kristina Pakarina",
+                "asCharacter": "Devochka v poezde"
+            },
+            {
+                "id": "nm3655131",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ruslan Khabibullov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465219",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Viktor Krasnopyorov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm5982662",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Aleksey Pavlov",
+                "asCharacter": "Konvoir"
+            },
+            {
+                "id": "nm7201059",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Evgeniy Ryabov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm6894362",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Andrey Kolyadov",
+                "asCharacter": "Politseyskiy"
+            },
+            {
+                "id": "nm3472747",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Igor Litovkin",
+                "asCharacter": "Politseyskiy"
+            },
+            {
+                "id": "nm7465220",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anatoliy Gordienko",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465221",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Irina Sirbiladze",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465222",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alyona Baykova",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465223",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Roman Kovalyov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465224",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Denis Lukin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465225",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marina Yukina",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465226",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Daniil Arkatov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm4828187",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Vladimir Lupanov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm6894363",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Evgeniy Yakunin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7201058",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Pavel Kolmakov-Lebedev",
+                "asCharacter": "(as Pavel Lebedev)"
+            },
+            {
+                "id": "nm7465228",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Fyodor Matyushkin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465229",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Danila Fedyukin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm4448298",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Natasha Garustovich",
+                "asCharacter": "Posetitelnitsa suda (as Natalya Garustovich)"
+            },
+            {
+                "id": "nm6894360",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Andrey Belozyorov",
+                "asCharacter": "Posetitel suda"
+            },
+            {
+                "id": "nm7465230",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rezo Milorava",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465231",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Evgeniy Kozhevin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7201057",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dmitriy Tolkachyov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm6444379",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dmitriy Kuryanov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm5021624",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Valeriy Devyatykh",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465232",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Yuriy Vorotyntsev",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465227",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Vladislav Kirpichyov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm5231124",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Pavel Gorin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465233",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Aleksandra Denisenko",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm0955535",
+                "image": "https://imdb-api.com/images/original/MV5BOTk4YmIzOTgtODUwZS00NWMwLTg0MGYtYmZhOWE2YzQyYmY4XkEyXkFqcGdeQXVyNjY0Njk3ODk@._V1_Ratio1.2727_AL_.jpg",
+                "name": "Aleksey Zharkov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7201056",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dmitriy Kovalenko",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm6710127",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sergey Zhivotov",
+                "asCharacter": "Ipodiakon"
+            },
+            {
+                "id": "nm7465234",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Olga Felyanina",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465235",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gennadiy Bykovskiy",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm4537356",
+                "image": "https://imdb-api.com/images/original/MV5BZmRjYTE5NDItNDY3OC00ZWJhLWE4YzctOTllMTU3MGExNzk5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Aleksey Dolgushin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7201055",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Aleksandr Shabalin",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465236",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Aleksey Baranov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465237",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nikolay Plyosov",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465238",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mariya Ekhlakova",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm4929185",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Natalya Gandzyuk",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm6705812",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anna Pereleshina",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465239",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anastasiya Pavlushina",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm7465240",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tatyana Udaltsova",
+                "asCharacter": ""
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm5552621",
+                        "name": "Ekaterina Marakulina",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0577861",
+                        "name": "Sergey Melkumov",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0734954",
+                        "name": "Alexander Rodnyansky",
+                        "description": "producer (as Aleksandr Rodnyanskiy)"
+                    },
+                    {
+                        "id": "nm6880749",
+                        "name": "Marianna Sardarova",
+                        "description": "co-producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm1435137",
+                        "name": "Andrey Dergachev",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0001275",
+                        "name": "Philip Glass",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1319279",
+                        "name": "Mikhail Krichman",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm2694159",
+                        "name": "Anna Mass",
+                        "description": "(editing)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm5982664",
+                        "name": "Elina Ternyaeva",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm2608687",
+                        "name": "Andrey Ponkratov",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm2217956",
+                        "name": "Nikolai Ryabtsev",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm1445030",
+                        "name": "Anna Bartuli",
+                        "description": "(costumes)"
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm7465250",
+                        "name": "Yelena Dmitriyenko",
+                        "description": "assistant makeup artist"
+                    },
+                    {
+                        "id": "nm1805916",
+                        "name": "Galina Ponomaryova",
+                        "description": "makeup (as Galya Ponomaryova)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm5231124",
+                        "name": "Pavel Gorin",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm3848251",
+                        "name": "Natalia Arshavskaya",
+                        "description": "assistant director"
+                    },
+                    {
+                        "id": "nm7201056",
+                        "name": "Dmitriy Kovalenko",
+                        "description": "assistant director: actors"
+                    },
+                    {
+                        "id": "nm7465245",
+                        "name": "Viktoriya Kudinova",
+                        "description": "assistant director: props"
+                    },
+                    {
+                        "id": "nm7465243",
+                        "name": "Anna Kuriyenko",
+                        "description": "assistant director"
+                    },
+                    {
+                        "id": "nm7465244",
+                        "name": "Aleksandr Lozovsky",
+                        "description": "assistant director: props"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm7465242",
+                        "name": "Yuliya Galashova",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm5327939",
+                        "name": "Maksim Korsakov",
+                        "description": "assistant production designer"
+                    },
+                    {
+                        "id": "nm7465241",
+                        "name": "Nataliya Zimina",
+                        "description": "architect"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm5301055",
+                        "name": "Andrey Belchikov",
+                        "description": "sound mix technician"
+                    },
+                    {
+                        "id": "nm1981067",
+                        "name": "Valerio Brini",
+                        "description": "re-recording mixer: italian dubbing"
+                    },
+                    {
+                        "id": "nm1435137",
+                        "name": "Andrey Dergachev",
+                        "description": "sound"
+                    },
+                    {
+                        "id": "nm5792222",
+                        "name": "AGM factory",
+                        "description": "french dubbing mixer"
+                    },
+                    {
+                        "id": "nm6317508",
+                        "name": "K\u00e9vin Feildel",
+                        "description": "french dubbing editor"
+                    },
+                    {
+                        "id": "nm2812214",
+                        "name": "Dima Grigoriev",
+                        "description": "dialogue editor / re-recording mixer"
+                    },
+                    {
+                        "id": "nm6057220",
+                        "name": "Ruslan Khuseyn",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm6522536",
+                        "name": "Elena Starikova",
+                        "description": "foley recording engineer and foley editor / sound assistant"
+                    },
+                    {
+                        "id": "nm7554491",
+                        "name": "Vladimir Vorontsov",
+                        "description": "re-recording engineer"
+                    },
+                    {
+                        "id": "nm6009429",
+                        "name": "Natalia Zueva",
+                        "description": "foley artist (as Natalya Zueva)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm3094183",
+                        "name": "Sergey Ryabtsev",
+                        "description": "pyrotechnician"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm9863326",
+                        "name": "Dilyara Katsaeva",
+                        "description": "visual effects producer"
+                    },
+                    {
+                        "id": "nm5210191",
+                        "name": "Dmitry Kuznetsov",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm8864170",
+                        "name": "Yulia Lysenkova",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm7894319",
+                        "name": "Regina Mingazetdinova",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm7052635",
+                        "name": "Slava Sexton",
+                        "description": "On-Set Supervisor (as Viacheslav Ponomarev)"
+                    },
+                    {
+                        "id": "nm1786644",
+                        "name": "Dmitriy Tokoyakov",
+                        "description": "visual effects supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm7201060",
+                        "name": "Taras Kiyashko",
+                        "description": "stunts"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm7465247",
+                        "name": "Roman Anshpugov",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm7465248",
+                        "name": "Alexey Khnykin",
+                        "description": "video control (as Aleksey Khnykin)"
+                    },
+                    {
+                        "id": "nm5720398",
+                        "name": "Egor Kirpichev",
+                        "description": "DIT"
+                    },
+                    {
+                        "id": "nm0469886",
+                        "name": "Artur Krasheninnikov",
+                        "description": "\"b\" camera operator"
+                    },
+                    {
+                        "id": "nm7465246",
+                        "name": "Ilya Kuzmin",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm7465249",
+                        "name": "Anna Matveyeva",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm5351357",
+                        "name": "Vladimir Protsenko",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm3246463",
+                        "name": "Viktor Saratov",
+                        "description": "focus puller"
+                    },
+                    {
+                        "id": "nm5351320",
+                        "name": "Pyotr Semyonov",
+                        "description": "chief lighting technician"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm2930247",
+                        "name": "Shakhnoza Muratova",
+                        "description": "assistant costume designer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm6571968",
+                        "name": "Ed Costello",
+                        "description": "digital film restoration"
+                    },
+                    {
+                        "id": "nm2243334",
+                        "name": "Dave Hughes",
+                        "description": "digital intermediate colorist"
+                    },
+                    {
+                        "id": "nm4448729",
+                        "name": "Eoghan McKenna",
+                        "description": "Color Assistant"
+                    },
+                    {
+                        "id": "nm5102571",
+                        "name": "Sophia Tamburrini",
+                        "description": "post-production assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm7465254",
+                        "name": "Aleksandr Voronov",
+                        "description": "location manager"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm7554487",
+                        "name": "Sergey Bolshakov",
+                        "description": "score mixer"
+                    },
+                    {
+                        "id": "nm8852489",
+                        "name": "Prague Metropolitan Orchestra",
+                        "description": "orchestra"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm7465252",
+                        "name": "Konstantin Tishchenko",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm7465253",
+                        "name": "Liliya Ishmetova",
+                        "description": "extras coordinator"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Crime, Drama",
+    "genreList": [
+        {
+            "key": "Crime",
+            "value": "Crime"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Non-Stop Productions, A Company Russia, Russian Ministry of Culture",
+    "companyList": [
+        {
+            "id": "co0040781",
+            "name": "Non-Stop Productions"
+        },
+        {
+            "id": "co0384481",
+            "name": "A Company Russia"
+        },
+        {
+            "id": "co0085798",
+            "name": "Russian Ministry of Culture"
+        }
+    ],
+    "countries": "Russia",
+    "countryList": [
+        {
+            "key": "Russia",
+            "value": "Russia"
+        }
+    ],
+    "languages": "Russian",
+    "languageList": [
+        {
+            "key": "Russian",
+            "value": "Russian"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.6",
+    "imDbRatingVotes": "46972",
+    "metacriticRating": "92",
+    "ratings": {
+        "imDbId": "tt2802154",
+        "title": "Leviathan",
+        "fullTitle": "Leviathan (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "imDb": "7.6",
+        "metacritic": "92",
+        "theMovieDb": "7.5",
+        "rottenTomatoes": "98",
+        "tV_com": "",
+        "filmAffinity": "7.2",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt2802154",
+        "title": "Leviathan",
+        "fullTitle": "Leviathan (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "language": "en",
+        "titleInLanguage": "Leviathan (2014 film)",
+        "url": "https://en.wikipedia.org/wiki/Leviathan_(2014_film)",
+        "plotShort": {
+            "plainText": "Leviathan (2014 film)\r\nLeviathan (Russian: \u041b\u0435\u0432\u0438\u0430\u0444\u0430\u043d, Leviafan) is a 2014 Russian drama film directed by Andrey Zvyagintsev, co-written by Zvyagintsev and Oleg Negin, and starring Aleksei Serebryakov, Elena Lyadova, and Vladimir Vdovichenkov. According to Zvyagintsev, the story of Marvin Heemeyer in the United States inspired him and it was adapted into a Russian setting. The character development of the protagonist parallels a biblical figure, Job. The producer Alexander Rodnyansky has said: \"It deals with some of the most important social issues of contemporary Russia while never becoming an artist's sermon or a public statement; it is a story of love and tragedy experienced by ordinary people\". Critics noted the film as being formidable, dealing with quirks of fate, power and money.\r\nThe film was selected to compete for the Palme d'Or in the main competition section at the 2014 Cannes Film Festival. Zvyagintsev and Negin won the award for Best Screenplay. The film was judged the best film of the year at the 2014 BFI London Film Festival and the 45th International Film Festival of India. It won the Best Foreign Language Film award at the 72nd Golden Globe Awards. and the Asia Pacific Screen Award for Best Feature Film in 2014. It was also nominated for an Academy Award for Best Foreign Language Film at the 87th Academy Awards. It was picked as the 47th greatest film since 2000 in a 2016 critics' poll by BBC.",
+            "html": "<h2>Leviathan (2014 film)</h2><p>Leviathan (Russian: \u041b\u0435\u0432\u0438\u0430\u0444\u0430\u043d, Leviafan) is a 2014 Russian drama film directed by Andrey Zvyagintsev, co-written by Zvyagintsev and Oleg Negin, and starring Aleksei Serebryakov, Elena Lyadova, and Vladimir Vdovichenkov. According to Zvyagintsev, the story of Marvin Heemeyer in the United States inspired him and it was adapted into a Russian setting. The character development of the protagonist parallels a biblical figure, Job. The producer Alexander Rodnyansky has said: \"It deals with some of the most important social issues of contemporary Russia while never becoming an artist's sermon or a public statement; it is a story of love and tragedy experienced by ordinary people\". Critics noted the film as being formidable, dealing with quirks of fate, power and money.</p><p>The film was selected to compete for the Palme d'Or in the main competition section at the 2014 Cannes Film Festival. Zvyagintsev and Negin won the award for Best Screenplay. The film was judged the best film of the year at the 2014 BFI London Film Festival and the 45th International Film Festival of India. It won the Best Foreign Language Film award at the 72nd Golden Globe Awards. and the Asia Pacific Screen Award for Best Feature Film in 2014. It was also nominated for an Academy Award for Best Foreign Language Film at the 87th Academy Awards. It was picked as the 47th greatest film since 2000 in a 2016 critics' poll by BBC.</p>"
+        },
+        "plotFull": {
+            "plainText": "Leviathan (2014 film)\r\nLeviathan (Russian: \u041b\u0435\u0432\u0438\u0430\u0444\u0430\u043d, Leviafan) is a 2014 Russian drama film directed by Andrey Zvyagintsev, co-written by Zvyagintsev and Oleg Negin, and starring Aleksei Serebryakov, Elena Lyadova, and Vladimir Vdovichenkov. According to Zvyagintsev, the story of Marvin Heemeyer in the United States inspired him and it was adapted into a Russian setting. The character development of the protagonist parallels a biblical figure, Job. The producer Alexander Rodnyansky has said: \"It deals with some of the most important social issues of contemporary Russia while never becoming an artist's sermon or a public statement; it is a story of love and tragedy experienced by ordinary people\". Critics noted the film as being formidable, dealing with quirks of fate, power and money.\r\nThe film was selected to compete for the Palme d'Or in the main competition section at the 2014 Cannes Film Festival. Zvyagintsev and Negin won the award for Best Screenplay. The film was judged the best film of the year at the 2014 BFI London Film Festival and the 45th International Film Festival of India. It won the Best Foreign Language Film award at the 72nd Golden Globe Awards. and the Asia Pacific Screen Award for Best Feature Film in 2014. It was also nominated for an Academy Award for Best Foreign Language Film at the 87th Academy Awards. It was picked as the 47th greatest film since 2000 in a 2016 critics' poll by BBC.\r\nPlot\r\nSet in the fictional town of Pribrezhny (shot in the coastal town of Teriberka, Murmansk Oblast), Russia, the plot follows the tragic series of events that affect Kolya (Aleksei Serebryakov), a hotheaded car mechanic, his second wife Lilya (Elena Lyadova) and his teenage son, Roma (Sergey Pokhodyaev). The town's crooked Mayor Vadim (Roman Madyanov) has undertaken a legal plot to expropriate the land on which Kolya's house is built.\r\nThe mayor's plan is supposedly to build a telecommunications mast on Kolya's property, offering a grossly undervalued sum for compensation, although Kolya believes that his real plan is to build a villa for himself. Kolya's long-time friend Dima (Vladimir Vdovichenkov), a sharp and successful lawyer from Moscow, attempts to fight the expropriation through the local court system.\r\nDuring the course of the trial, Kolya is arrested for shouting at corrupt police officers in a police station. When the trial rules in favor of the mayor, Dima manages to get him to step back, and to secure Kolya's release from jail, by threatening him with compromising documents. However, during Kolya's absence, Lilya engages in an impromptu sexual encounter with Dima.\r\nDuring an outing with Kolya's friend Ivan Stepanich (Sergei Bachursky), Roma's friend witnesses Lilya and Dima having sex and Kolya, learning of the affair, assaults the couple. Meanwhile, Mayor Vadim visits his friend, a local Russian Orthodox Church bishop (Valeriy Grishko), for spiritual comfort, who tells him that all power comes from God and encourages him to solve his problems forcefully. Subsequently, Vadim and his thugs abduct Dima and carry out a mock execution, advising him to return to Moscow. Afterwards Vadim continues his drive to expropriate Kolya's house. The last appearance of Dima shows him looking out of the window of a train, ostensibly en route back to Moscow.\r\nLilya returns home to Kolya, but she is depressed by the public revelation of her affair. While the family is packing to move out, Kolya and Lilya have sex in the basement. Roma witnesses the event and flees the house, collapsing in tears by a whale skeleton on the shore. He returns home late at night, and explicitly blames Lilya for everything that is going wrong in their lives.\r\nThat night, Lilya is unable to sleep and leaves the house in the early morning. She is shown walking near cliffs alone. The next morning she does not turn up at work and her phone is switched off. Her body is discovered a few days later. A mournful Kolya starts drinking even more and, meeting a priest, asks why God is doing this to him. The priest, who is a pious man, quotes from the Biblical book of Job, and counsels Kolya that, when Job accepted his fate, he was rewarded by God with a long and happy life.\r\nThe next day, Kolya is arrested. The police claim to have evidence that he raped Lilya and murdered her with a blow to the head, using a blunt object. Evidence against him includes his and Lilya's own friends' testimonies about threats he made to Lilya and Dima when he discovered their affair, and one of his shop hammers being shaped \"similarly\" to the wound in her head. Kolya is convicted of murder and sentenced to fifteen years in a maximum-security prison. With no family left, Roma reluctantly agrees to be taken in by Kolya's former friends, to avoid being sent to an orphanage. Mayor Vadim then receives a call informing him of Kolya's sentence, and he gloats and says that Kolya got what he deserved for having stood up against him.\r\nIn the end, Kolya's house is torn down and Mayor Vadim's project is revealed: a lavish church for his friend the bishop. The film concludes with a sermon by the bishop, with the mayor in attendance. The bishop extols the virtues of God's truth versus the world's truth, and says that good intentions do not excuse evil acts. He urges the congregation not to act with force or cunning, but to put their trust in Christ.\r\nCast\r\nAleksei Serebryakov as Kolya\r\nRoman Madyanov as Vadim, the mayor\r\nVladimir Vdovichenkov as Dima, the lawyer friend\r\nElena Lyadova as Lilya\r\nSergey Pokhodaev as Roma\r\nAnna Ukolova as Anzhela\r\nIgor Savochkin as investigator\r\nMargarita Shubina as Goryunov\u0430, the prosecutor\r\nProduction\r\nWhen Andrey Zvyagintsev produced a short film in the United States, he was told the story of Marvin Heemeyer. He was amazed by this story and wanted initially to make his film in the US, but then changed his mind. The screenplay was written by Zvyagintsev and Oleg Negin and is loosely adapted from the biblical stories of Job from Uz and King Ahab of Samaria and Heinrich von Kleist's novella Michael Kohlhaas. The script features more than fifteen characters, which is unusually many for a film by Zvyagintsev.\r\nPrincipal photography took place in towns Kirovsk, Monchegorsk, Olenegorsk, near Murmansk on the Kola Peninsula. Preparations on the set began in May 2013. Principal photography took place during three months from August to October the same year. Filming of exterior scenes for Leviathan took place in the town of Teriberka on the Barents Sea coast.\r\nRelease\r\nLeviathan premiered at the 2014 Cannes Film Festival, where it was screened on 23 May. It is distributed by Sony Pictures Classics in the United States, Curzon Cinemas in the United Kingdom and by Palace Entertainment in Australia and New Zealand.\r\nThe soundtrack includes an extract from the 1983 opera Akhnaten by Philip Glass.\r\nCritical reception\r\nPeter Bradshaw, writing a full five-star review for The Guardian, gave the film great praise. Bradshaw thought that the film was \"acted and directed with unflinching ambition\" and described the film as \"a forbidding and intimidating piece of work... a movie with real grandeur\". Finding parallels with the Book of Job, The New York Review of Books equated the villains with \"Leviathan itself\" and three characters (played by Vladimir Vdovichenkov, Aleksey Rozin and Anna Ukolova) with Job's three friends.\r\nOn review aggregator website Rotten Tomatoes, the film has an approval rating of 98% based on 148 reviews, and an average rating of 8.6/10. The website's critical consensus reads, \"Leviathan lives up to its title, offering trenchant, well-crafted social satire on a suitably grand scale.\" On Metacritic, based on 34 reviews, Leviathan holds an average score of 92 out of 100, indicating \"universal acclaim\".\r\nCriticism\r\nThirty-five percent of the funding for Leviathan came from Russia's Ministry of Culture. However, Vladimir Medinsky, Minister of Culture, a conservative historian, acknowledged that the film showed talented moviemaking, but said he did not like it. He sharply criticized its portrayal of ordinary Russians as swearing, vodka-swigging people, which he does not recognize from his experience as a Russian or that of \"real Russians\". He thought it strange that there is not a single positive character in the movie and implied that the director was not fond of Russians but rather \"fame, red carpets and statuettes\". The Ministry of Culture has now proposed guidelines which would ban movies that \"defile\" the national culture. In turn, when appearing on oppositional TV channel Dozhd, director Zvyagintsev was criticised by journalist Ksenia Sobchak for accepting government subsidies. Specifically, Sobchak asked whether government funding had had no influence on the content of the movie. In response, Zvyagintsev maintained that he had always felt completely independent from the Ministry in writing and shooting the movie.\r\nVladimir Pozner, a veteran Russian journalist, said: \"Anything seen as being critical of Russia in any way is automatically seen as either another Western attempt to denigrate Russia and the Eastern Orthodox Church, or it's the work of some kind of fifth column of Russia-phobes who are paid by the West to do their anti-Russian work or are simply themselves profoundly anti-Russian.\"\r\nMetropolitan Simon of Murmansk and Monchegorsk, the diocese where the movie was filmed, issued a statement calling it \"honest\". He said that Leviathan raised important questions about the state of the country.\r\nAccolades\r\nOn 28 September 2014, it was announced that Leviathan would be Russia's submission for the Academy Award for Best Foreign Language Film at the 87th Academy Awards. It made the January Shortlist of nine films, before being nominated later that month.\r\nThe film was named the Best Film at the London Film Festival Awards on 18 October 2014, at a ceremony where the main prizes went to Russia, Ukraine and Syria, three countries at the centre of long-running conflicts. The winning film-makers all said they hoped that culture could help to restore peace to their countries. It was nominated for and won the Best Foreign Language Film award at the 72nd Golden Globe Awards. The film was adjudged the best film of the 45th International Film Festival of India.\r\nFollowing the Golden Globe Award, Leviathan was leaked online among some of the other Oscar 2015 nominated films. On 12 January the website \"Thank you, Leviathan filmmakers\" appeared on the internet encouraging social media users to contribute any amount as a gratitude to the filmmakers. Alexander Rodnyanskiy, Leviathan's producer, supported the initiative of Slava's Smirnov (the website's author and an independent digital producer) and asked to transfer the money to the Podari Zhizn charity fund which is held by actresses Chulpan Khamatova and Dina Korzun.",
+            "html": "<h2>Leviathan (2014 film)</h2><p>Leviathan (Russian: \u041b\u0435\u0432\u0438\u0430\u0444\u0430\u043d, Leviafan) is a 2014 Russian drama film directed by Andrey Zvyagintsev, co-written by Zvyagintsev and Oleg Negin, and starring Aleksei Serebryakov, Elena Lyadova, and Vladimir Vdovichenkov. According to Zvyagintsev, the story of Marvin Heemeyer in the United States inspired him and it was adapted into a Russian setting. The character development of the protagonist parallels a biblical figure, Job. The producer Alexander Rodnyansky has said: \"It deals with some of the most important social issues of contemporary Russia while never becoming an artist's sermon or a public statement; it is a story of love and tragedy experienced by ordinary people\". Critics noted the film as being formidable, dealing with quirks of fate, power and money.</p><p>The film was selected to compete for the Palme d'Or in the main competition section at the 2014 Cannes Film Festival. Zvyagintsev and Negin won the award for Best Screenplay. The film was judged the best film of the year at the 2014 BFI London Film Festival and the 45th International Film Festival of India. It won the Best Foreign Language Film award at the 72nd Golden Globe Awards. and the Asia Pacific Screen Award for Best Feature Film in 2014. It was also nominated for an Academy Award for Best Foreign Language Film at the 87th Academy Awards. It was picked as the 47th greatest film since 2000 in a 2016 critics' poll by BBC.</p><br/><h3>Plot</h3><p>Set in the fictional town of Pribrezhny (shot in the coastal town of Teriberka, Murmansk Oblast), Russia, the plot follows the tragic series of events that affect Kolya (Aleksei Serebryakov), a hotheaded car mechanic, his second wife Lilya (Elena Lyadova) and his teenage son, Roma (Sergey Pokhodyaev). The town's crooked Mayor Vadim (Roman Madyanov) has undertaken a legal plot to expropriate the land on which Kolya's house is built.</p><p>The mayor's plan is supposedly to build a telecommunications mast on Kolya's property, offering a grossly undervalued sum for compensation, although Kolya believes that his real plan is to build a villa for himself. Kolya's long-time friend Dima (Vladimir Vdovichenkov), a sharp and successful lawyer from Moscow, attempts to fight the expropriation through the local court system.</p><p>During the course of the trial, Kolya is arrested for shouting at corrupt police officers in a police station. When the trial rules in favor of the mayor, Dima manages to get him to step back, and to secure Kolya's release from jail, by threatening him with compromising documents. However, during Kolya's absence, Lilya engages in an impromptu sexual encounter with Dima.</p><p>During an outing with Kolya's friend Ivan Stepanich (Sergei Bachursky), Roma's friend witnesses Lilya and Dima having sex and Kolya, learning of the affair, assaults the couple. Meanwhile, Mayor Vadim visits his friend, a local Russian Orthodox Church bishop (Valeriy Grishko), for spiritual comfort, who tells him that all power comes from God and encourages him to solve his problems forcefully. Subsequently, Vadim and his thugs abduct Dima and carry out a mock execution, advising him to return to Moscow. Afterwards Vadim continues his drive to expropriate Kolya's house. The last appearance of Dima shows him looking out of the window of a train, ostensibly en route back to Moscow.</p><p>Lilya returns home to Kolya, but she is depressed by the public revelation of her affair. While the family is packing to move out, Kolya and Lilya have sex in the basement. Roma witnesses the event and flees the house, collapsing in tears by a whale skeleton on the shore. He returns home late at night, and explicitly blames Lilya for everything that is going wrong in their lives.</p><p>That night, Lilya is unable to sleep and leaves the house in the early morning. She is shown walking near cliffs alone. The next morning she does not turn up at work and her phone is switched off. Her body is discovered a few days later. A mournful Kolya starts drinking even more and, meeting a priest, asks why God is doing this to him. The priest, who is a pious man, quotes from the Biblical book of Job, and counsels Kolya that, when Job accepted his fate, he was rewarded by God with a long and happy life.</p><p>The next day, Kolya is arrested. The police claim to have evidence that he raped Lilya and murdered her with a blow to the head, using a blunt object. Evidence against him includes his and Lilya's own friends' testimonies about threats he made to Lilya and Dima when he discovered their affair, and one of his shop hammers being shaped \"similarly\" to the wound in her head. Kolya is convicted of murder and sentenced to fifteen years in a maximum-security prison. With no family left, Roma reluctantly agrees to be taken in by Kolya's former friends, to avoid being sent to an orphanage. Mayor Vadim then receives a call informing him of Kolya's sentence, and he gloats and says that Kolya got what he deserved for having stood up against him.</p><p>In the end, Kolya's house is torn down and Mayor Vadim's project is revealed: a lavish church for his friend the bishop. The film concludes with a sermon by the bishop, with the mayor in attendance. The bishop extols the virtues of God's truth versus the world's truth, and says that good intentions do not excuse evil acts. He urges the congregation not to act with force or cunning, but to put their trust in Christ.</p><br/><h3>Cast</h3><ul><li>Aleksei Serebryakov as Kolya</li><li>Roman Madyanov as Vadim, the mayor</li><li>Vladimir Vdovichenkov as Dima, the lawyer friend</li><li>Elena Lyadova as Lilya</li><li>Sergey Pokhodaev as Roma</li><li>Anna Ukolova as Anzhela</li><li>Igor Savochkin as investigator</li><li>Margarita Shubina as Goryunov\u0430, the prosecutor</li></ul><br/><h3>Production</h3><p>When Andrey Zvyagintsev produced a short film in the United States, he was told the story of Marvin Heemeyer. He was amazed by this story and wanted initially to make his film in the US, but then changed his mind. The screenplay was written by Zvyagintsev and Oleg Negin and is loosely adapted from the biblical stories of Job from Uz and King Ahab of Samaria and Heinrich von Kleist's novella Michael Kohlhaas. The script features more than fifteen characters, which is unusually many for a film by Zvyagintsev.</p><p>Principal photography took place in towns Kirovsk, Monchegorsk, Olenegorsk, near Murmansk on the Kola Peninsula. Preparations on the set began in May 2013. Principal photography took place during three months from August to October the same year. Filming of exterior scenes for Leviathan took place in the town of Teriberka on the Barents Sea coast.</p><br/><h3>Release</h3><p>Leviathan premiered at the 2014 Cannes Film Festival, where it was screened on 23 May. It is distributed by Sony Pictures Classics in the United States, Curzon Cinemas in the United Kingdom and by Palace Entertainment in Australia and New Zealand.</p><p>The soundtrack includes an extract from the 1983 opera Akhnaten by Philip Glass.</p><br/><h3>Critical reception</h3><p>Peter Bradshaw, writing a full five-star review for The Guardian, gave the film great praise. Bradshaw thought that the film was \"acted and directed with unflinching ambition\" and described the film as \"a forbidding and intimidating piece of work... a movie with real grandeur\". Finding parallels with the Book of Job, The New York Review of Books equated the villains with \"Leviathan itself\" and three characters (played by Vladimir Vdovichenkov, Aleksey Rozin and Anna Ukolova) with Job's three friends.</p><p>On review aggregator website Rotten Tomatoes, the film has an approval rating of 98% based on 148 reviews, and an average rating of 8.6/10. The website's critical consensus reads, \"Leviathan lives up to its title, offering trenchant, well-crafted social satire on a suitably grand scale.\" On Metacritic, based on 34 reviews, Leviathan holds an average score of 92 out of 100, indicating \"universal acclaim\".</p><h4>Criticism</h4><p>Thirty-five percent of the funding for Leviathan came from Russia's Ministry of Culture. However, Vladimir Medinsky, Minister of Culture, a conservative historian, acknowledged that the film showed talented moviemaking, but said he did not like it. He sharply criticized its portrayal of ordinary Russians as swearing, vodka-swigging people, which he does not recognize from his experience as a Russian or that of \"real Russians\". He thought it strange that there is not a single positive character in the movie and implied that the director was not fond of Russians but rather \"fame, red carpets and statuettes\". The Ministry of Culture has now proposed guidelines which would ban movies that \"defile\" the national culture. In turn, when appearing on oppositional TV channel Dozhd, director Zvyagintsev was criticised by journalist Ksenia Sobchak for accepting government subsidies. Specifically, Sobchak asked whether government funding had had no influence on the content of the movie. In response, Zvyagintsev maintained that he had always felt completely independent from the Ministry in writing and shooting the movie.</p><p>Vladimir Pozner, a veteran Russian journalist, said: \"Anything seen as being critical of Russia in any way is automatically seen as either another Western attempt to denigrate Russia and the Eastern Orthodox Church, or it's the work of some kind of fifth column of Russia-phobes who are paid by the West to do their anti-Russian work or are simply themselves profoundly anti-Russian.\"</p><p>Metropolitan Simon of Murmansk and Monchegorsk, the diocese where the movie was filmed, issued a statement calling it \"honest\". He said that Leviathan raised important questions about the state of the country.</p><br/><h3>Accolades</h3><p>On 28 September 2014, it was announced that Leviathan would be Russia's submission for the Academy Award for Best Foreign Language Film at the 87th Academy Awards. It made the January Shortlist of nine films, before being nominated later that month.</p><p>The film was named the Best Film at the London Film Festival Awards on 18 October 2014, at a ceremony where the main prizes went to Russia, Ukraine and Syria, three countries at the centre of long-running conflicts. The winning film-makers all said they hoped that culture could help to restore peace to their countries. It was nominated for and won the Best Foreign Language Film award at the 72nd Golden Globe Awards. The film was adjudged the best film of the 45th International Film Festival of India.</p><p>Following the Golden Globe Award, Leviathan was leaked online among some of the other Oscar 2015 nominated films. On 12 January the website \"Thank you, Leviathan filmmakers\" appeared on the internet encouraging social media users to contribute any amount as a gratitude to the filmmakers. Alexander Rodnyanskiy, Leviathan's producer, supported the initiative of Slava's Smirnov (the website's author and an independent digital producer) and asked to transfer the money to the Podari Zhizn charity fund which is held by actresses Chulpan Khamatova and Dina Korzun.</p><table class=\"table table-responsive table-bordered table-hover w-100\"><caption>List of awards and nominations</caption><tbody><tr><th>Award</th><th>Category</th><th>Recipients and nominees</th><th>Result</th></tr><tr><td rowspan=\"2\"><span>2014 Cannes Film Festival</span></td><td><span class=\"mw-redirect\">Best Screenplay</span></td><td><span>Andrey Zvyagintsev</span> and <span>Oleg Negin</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Palme d'Or</span></td><td>Andrey Zvyagintsev</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"4\"><span class=\"mw-redirect\">European Film Award</span></td><td><span>Best Film</span></td><td>Andrey Zvyagintsev</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Director</span></td><td>Andrey Zvyagintsev</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Screenwriter</span></td><td>Oleg Negin,Andrey Zvyagintsev</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Actor</span></td><td><span>Aleksei Serebryakov</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>45th International Film Festival of India</span></td><td>Golden Peacock</td><td>Andrey Zvyagintsev</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>International Art Festival of Cinematography</span></td><td>Best Cinematographer</td><td><span>Mikhail Krichman</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>58th <span>London Film Festival</span></td><td>Best Film</td><td>Andrey Zvyagintsev and <span>Alexander Rodnyansky</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>68th British Academy Film Awards</span></td><td><span>Best Film Not in the English Language</span></td><td>Andrey Zvyagintsev</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>32nd <span>Munich Film Festival</span></td><td>Best Film</td><td>Andrey Zvyagintsev and Alexander Rodnyansky</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>8th <span>Abu Dhabi Film Festival</span></td><td>Best Narrative<br> Best Actor</td><td>Andrey Zvyagintsev, Alexey Serebryakov</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Palm Springs International Film Festival</span></td><td>Best Foreign Language Film</td><td>Andrey Zvyagintsev</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"4\"><span>Asia Pacific Screen Awards</span></td></tr><tr><td><span>Best Feature film</span></td><td>Andrey Zvyagintsev</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Achievement in Directing</span></td><td>Andrey Zvyagintsev</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Achievement in Cinematography</span></td><td>Mikhail Krichman</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>72nd Golden Globe Awards</span></td><td><span>Best Foreign Language Film</span></td><td>Andrey Zvyagintsev and <span>Alexander Rodnyansky</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"5\">13th <span>Golden Eagle Award</span></td></tr><tr><td>Best Direction</td><td>Andrey Zvyagintsev</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Best Leading Actress</span></td><td><span>Elena Lyadova</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Film Editing</td><td><span class=\"new\">Anna Mass</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Supporting Actor</td><td><span>Roman Madyanov</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>51st Guldbagge Awards</span></td><td><span>Best Foreign Film</span></td><td><i>Leviathan</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>87th Academy Awards</span></td><td><span>Best Foreign Language Film</span></td><td>Andrey Zvyagintsev</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>30th Goya Awards</span></td><td><span>Best European Film</span></td><td>Andrey Zvyagintsev</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"7\"><span>Russian Guild of Film Critics</span></td><td>Best Film</td><td><i>Leviathan</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Director</td><td>Andrey Zvyagintsev</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Screenplay</td><td>Oleg Negin, Andrey Zvyagintsev</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Director of Photography</td><td>Mikhail Krichman</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Female Actor</td><td>Elena Lyadova</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Male Actor</td><td>Aleksei Serebryakov</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Male Supporting Actor</td><td>Roman Madyanov</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt2802154",
+        "title": "Leviathan",
+        "fullTitle": "Leviathan (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "posters": [
+            {
+                "id": "dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+                "link": "https://imdb-api.com/posters/original/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1500,
+                "height": 2250
+            }
+        ],
+        "backdors": [
+            {
+                "id": "kb3RNnn4CMPRSaGbrX1ejc7lcRN.jpg",
+                "link": "https://imdb-api.com/posters/original/kb3RNnn4CMPRSaGbrX1ejc7lcRN.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2802154",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt2802154",
+        "title": "Leviathan",
+        "fullTitle": "Leviathan (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "videoId": "vi869838617",
+        "videoTitle": "Official Trailer",
+        "videoDescription": "On the outskirts of a small coastal town in the Barents Sea, where whales sometimes come to its bay, lives an ordinary family: Nikolai, his wife Lilya and their teenage son Romka. The family is haunted by a local corrupted mayor  who is trying to take away the land from Nikolai. To save their homes Nikolai calls his old Army friend in Moscow, who has now become an authoritative attorney. Together they decide to fight back and collect dirt on the mayor.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE2MzI1MjYzNl5BMl5BanBnXkFtZTgwMTA5NTAwMzE@._V1_.jpg",
+        "uploadDate": "10/16/2014 19:55:58",
+        "link": "https://www.imdb.com/video/vi869838617",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi869838617/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "$15,200, 28 December 2014",
+        "grossUSA": "$1,092,800",
+        "cumulativeWorldwideGross": "$4,439,481"
+    },
+    "tagline": "",
+    "keywords": "mayor,lawyer,corrupt politician,alcoholic,alcohol",
+    "keywordList": [
+        "mayor",
+        "lawyer",
+        "corrupt politician",
+        "alcoholic",
+        "alcohol"
+    ],
+    "similars": [
+        {
+            "id": "tt6304162",
+            "title": "Loveless",
+            "fullTitle": "Loveless (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMzU3ODQ3MzQ5Nl5BMl5BanBnXkFtZTgwMDQwMDIzNDM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A couple going through a divorce must team up to find their son who has disappeared during one of their bitter arguments.",
+            "directors": "Andrey Zvyagintsev",
+            "stars": "Maryana Spivak, Aleksey Rozin, Matvey Novikov",
+            "genres": "Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt1925421",
+            "title": "Elena",
+            "fullTitle": "Elena (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BYWIzZWRmOGMtNDhhYS00ZTFkLTlmYjEtYmNjMTI2M2IwYjU4XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "When a sudden illness and an unexpected reunion threaten dutiful housewife Elena's potential inheritance, she must hatch a desperate plan ...",
+            "directors": "Andrey Zvyagintsev",
+            "stars": "Nadezhda Markina, Andrey Smirnov, Aleksey Rozin",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0376968",
+            "title": "The Return",
+            "fullTitle": "The Return (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BODI1YTAzZmQtYjg5Ny00ODc1LTgxYTEtOWRlYmYzNzAwMDY5XkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "In the Russian wilderness, two brothers face a range of new, conflicting emotions when their father - a man they know only through a single photograph - resurfaces.",
+            "directors": "Andrey Zvyagintsev",
+            "stars": "Vladimir Garin, Ivan Dobronravov, Konstantin Lavronenko",
+            "genres": "Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0488905",
+            "title": "The Banishment",
+            "fullTitle": "The Banishment (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BNDE4NTljNTEtMDA3Zi00ZTMyLWJmMjMtNWYxZTNmMjcxZTJkXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A trip to the pastoral countryside reveals a dark, sinister reality for a family from the city.",
+            "directors": "Andrey Zvyagintsev",
+            "stars": "Konstantin Lavronenko, Maria Bonnevie, Aleksandr Baluev",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt1602620",
+            "title": "Amour",
+            "fullTitle": "Amour (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+            "directors": "Michael Haneke",
+            "stars": "Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt2718492",
+            "title": "Ida",
+            "fullTitle": "Ida (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BNjk3NDkzMzMtMGM3MS00YmJkLTkwNmMtZjU5ZWIyNTkzMjJkXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A novice nun about to take her vows uncovers a family secret dating back to the German occupation.",
+            "directors": "Pawel Pawlikowski",
+            "stars": "Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik",
+            "genres": "Drama",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt1149362",
+            "title": "The White Ribbon",
+            "fullTitle": "The White Ribbon (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ2OTYyNzUxOF5BMl5BanBnXkFtZTcwMzUwMDY4Mg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Strange events happen in a small village in the north of Germany during the years before World War I, which seem to be ritual punishment. Who is responsible?",
+            "directors": "Michael Haneke",
+            "stars": "Christian Friedel, Ernst Jacobi, Leonie Benesch",
+            "genres": "Drama, History, Mystery",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt3560686",
+            "title": "The Fool",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOTJmOTc4MWUtYWUzZC00NGU5LWIxYTgtMjEzY2VlODdhZjdkXkEyXkFqcGdeQXVyNDExODQzNDA@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Dima Nikitin is an ordinary honest plumber who suddenly decides to face the corrupt system of local politics in order to save the lives of 800 inhabitants of an old dormitory, which is about to collapse.",
+            "directors": "Yuriy Bykov",
+            "stars": "Artyom Bystrov, Natalya Surkova, Yuriy Tsurilo",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt3808342",
+            "title": "Son of Saul",
+            "fullTitle": "Son of Saul (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjFmMzJlMTYtYmRlNy00Zjg5LThmYmYtYmE0NDk3N2MzMjRhXkEyXkFqcGdeQXVyMjc3MTAwNjg@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A Jewish-Hungarian concentration camp prisoner sets out to give a child he mistook for his son a proper burial.",
+            "directors": "L\u00e1szl\u00f3 Nemes",
+            "stars": "G\u00e9za R\u00f6hrig, Levente Moln\u00e1r, Urs Rechn",
+            "genres": "Drama, War",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt4048272",
+            "title": "Toni Erdmann",
+            "fullTitle": "Toni Erdmann (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BYzA4OGQ5NmMtNzM1ZC00YzIxLThmZWQtODkyYTA0ZGI3MGIzXkEyXkFqcGdeQXVyMjQwNjczOTE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A practical joking father tries to reconnect with his hard working daughter by creating an outrageous alter ego and posing as her CEO's life coach.",
+            "directors": "Maren Ade",
+            "stars": "Sandra H\u00fcller, Peter Simonischek, Michael Wittenborn",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt1032846",
+            "title": "4 Months, 3 Weeks and 2 Days",
+            "fullTitle": "4 Months, 3 Weeks and 2 Days (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3NDY2MDg0MF5BMl5BanBnXkFtZTYwODcwODc4._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A woman assists her friend in arranging an illegal abortion in 1980s Romania.",
+            "directors": "Cristian Mungiu",
+            "stars": "Anamaria Marinca, Laura Vasiliu, Vlad Ivanov",
+            "genres": "Drama",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt2737050",
+            "title": "Two Days, One Night",
+            "fullTitle": "Two Days, One Night (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BNjEzZmZkN2EtNTkzOS00MmIyLWE3YjktMDdmZTI4NmM5MzBlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Li\u00e8ge, Belgium. Sandra is a factory worker who discovers that her workmates have opted for a EUR1,000 bonus in exchange for her dismissal. She has only a weekend to convince her colleagues to give up their bonuses in order to keep her job.",
+            "directors": "Directors: Jean-Pierre Dardenne, Luc Dardenne",
+            "stars": "Marion Cotillard, Fabrizio Rongione, Catherine Sal\u00e9e",
+            "genres": "Drama",
+            "imDbRating": "7.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

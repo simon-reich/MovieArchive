@@ -1,0 +1,922 @@
+{
+    "id": "tt0069995",
+    "title": "Don't Look Now",
+    "originalTitle": "",
+    "fullTitle": "Don't Look Now (1973)",
+    "type": "Movie",
+    "year": "1973",
+    "image": "https://imdb-api.com/images/original/MV5BNDZmYzJmMDQtM2NkNi00NjU0LTlmZGItNDFjZjVkZjhmNDcyXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1973-11-18",
+    "runtimeMins": "110",
+    "runtimeStr": "1h 50mins",
+    "plot": "John and Laura Baxter are in Venice when they meet a pair of elderly sisters, one of whom claims to be psychic. She insists that she sees the spirit of the Baxters' daughter, who recently drowned. Laura is intrigued, but John resists the idea. He, however, seems to have his own psychic flashes, seeing their daughter walk the streets in her red cloak, as well as Laura and the sisters on a funeral gondola.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Won 1 BAFTA Film Award. Another 8 nominations.",
+    "directors": "Nicolas Roeg",
+    "directorList": [
+        {
+            "id": "nm0001676",
+            "name": "Nicolas Roeg"
+        }
+    ],
+    "writers": "Daphne Du Maurier, Allan Scott, Chris Bryant",
+    "writerList": [
+        {
+            "id": "nm0238898",
+            "name": "Daphne Du Maurier"
+        },
+        {
+            "id": "nm0778819",
+            "name": "Allan Scott"
+        },
+        {
+            "id": "nm0117068",
+            "name": "Chris Bryant"
+        }
+    ],
+    "stars": "Julie Christie, Donald Sutherland, Hilary Mason, Clelia Matania",
+    "starList": [
+        {
+            "id": "nm0001046",
+            "name": "Julie Christie"
+        },
+        {
+            "id": "nm0000661",
+            "name": "Donald Sutherland"
+        },
+        {
+            "id": "nm0556739",
+            "name": "Hilary Mason"
+        },
+        {
+            "id": "nm0558089",
+            "name": "Clelia Matania"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0001046",
+            "image": "https://imdb-api.com/images/original/MV5BMTY4MzIzMTE5MV5BMl5BanBnXkFtZTcwNDc3NDA2MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Julie Christie",
+            "asCharacter": "Laura Baxter"
+        },
+        {
+            "id": "nm0000661",
+            "image": "https://imdb-api.com/images/original/MV5BMTc0MDI1NzcyMl5BMl5BanBnXkFtZTcwOTk0MjQwOQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Donald Sutherland",
+            "asCharacter": "John Baxter"
+        },
+        {
+            "id": "nm0556739",
+            "image": "https://imdb-api.com/images/original/MV5BMzE5YzViYmQtMzc3Mi00NmNlLTkxNGMtZDQxOTFhNzRmZGQwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Hilary Mason",
+            "asCharacter": "Heather"
+        },
+        {
+            "id": "nm0558089",
+            "image": "https://imdb-api.com/images/original/MV5BMmY1ZjFkODQtM2FjZC00OWIwLTllNjMtM2U3ZjY4MmY4OGFhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7273_AL_.jpg",
+            "name": "Clelia Matania",
+            "asCharacter": "Wendy"
+        },
+        {
+            "id": "nm0784857",
+            "image": "https://imdb-api.com/images/original/MV5BZTQyZWU1YjctOGMzNy00ZTZhLWExYmMtYTExMWIxNTJjOGM2L2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Massimo Serato",
+            "asCharacter": "Bishop Barbarrigo"
+        },
+        {
+            "id": "nm0769237",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxMzA3NDM4MF5BMl5BanBnXkFtZTgwNjM4OTQ5OTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Renato Scarpa",
+            "asCharacter": "Inspector Longhi"
+        },
+        {
+            "id": "nm0872282",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Giorgio Trestini",
+            "asCharacter": "Workman"
+        },
+        {
+            "id": "nm0872689",
+            "image": "https://imdb-api.com/images/original/MV5BNmNkOTc4ZmUtZjI3NC00MmI2LWI1N2EtY2MwN2QxZmNkMmUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Leopoldo Trieste",
+            "asCharacter": "Hotel Manager"
+        },
+        {
+            "id": "nm0871674",
+            "image": "https://imdb-api.com/images/original/MV5BMTgyZmE5YWQtMjc5My00NjZmLWFhNjgtNGNhZGE3OTZkZjBkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Tree",
+            "asCharacter": "Anthony Babbage"
+        },
+        {
+            "id": "nm0753219",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ann Rye",
+            "asCharacter": "Mandy Babbage"
+        },
+        {
+            "id": "nm0759092",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nicholas Salter",
+            "asCharacter": "Johnny Baxter"
+        },
+        {
+            "id": "nm0931681",
+            "image": "https://imdb-api.com/images/original/MV5BMjVkYmViZGUtNTE5OC00NDQ5LWJlN2ItN2M0NjY1M2IxMGE5XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_Ratio1.7273_AL_.jpg",
+            "name": "Sharon Williams",
+            "asCharacter": "Christine Baxter"
+        },
+        {
+            "id": "nm0146333",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruno Cattaneo",
+            "asCharacter": "Detective Sabbione"
+        },
+        {
+            "id": "nm0688156",
+            "image": "https://imdb-api.com/images/original/MV5BMmZkMGIyODUtZjM0Ny00NDU5LWJkMjktYzZlZTg1MWRlYzEzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Adelina Poerio",
+            "asCharacter": "Dwarf"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0069995",
+        "title": "Don't Look Now",
+        "fullTitle": "Don't Look Now (1973)",
+        "type": "Movie",
+        "year": "1973",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0001676",
+                    "name": "Nicolas Roeg",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0238898",
+                    "name": "Daphne Du Maurier",
+                    "description": "(story)"
+                },
+                {
+                    "id": "nm0778819",
+                    "name": "Allan Scott",
+                    "description": "(screenplay) (as Alan Scott) and"
+                },
+                {
+                    "id": "nm0117068",
+                    "name": "Chris Bryant",
+                    "description": "(screenplay)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0001046",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4MzIzMTE5MV5BMl5BanBnXkFtZTcwNDc3NDA2MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Julie Christie",
+                "asCharacter": "Laura Baxter"
+            },
+            {
+                "id": "nm0000661",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0MDI1NzcyMl5BMl5BanBnXkFtZTcwOTk0MjQwOQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Donald Sutherland",
+                "asCharacter": "John Baxter"
+            },
+            {
+                "id": "nm0556739",
+                "image": "https://imdb-api.com/images/original/MV5BMzE5YzViYmQtMzc3Mi00NmNlLTkxNGMtZDQxOTFhNzRmZGQwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Hilary Mason",
+                "asCharacter": "Heather"
+            },
+            {
+                "id": "nm0558089",
+                "image": "https://imdb-api.com/images/original/MV5BMmY1ZjFkODQtM2FjZC00OWIwLTllNjMtM2U3ZjY4MmY4OGFhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7273_AL_.jpg",
+                "name": "Clelia Matania",
+                "asCharacter": "Wendy"
+            },
+            {
+                "id": "nm0784857",
+                "image": "https://imdb-api.com/images/original/MV5BZTQyZWU1YjctOGMzNy00ZTZhLWExYmMtYTExMWIxNTJjOGM2L2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Massimo Serato",
+                "asCharacter": "Bishop Barbarrigo"
+            },
+            {
+                "id": "nm0769237",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxMzA3NDM4MF5BMl5BanBnXkFtZTgwNjM4OTQ5OTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Renato Scarpa",
+                "asCharacter": "Inspector Longhi"
+            },
+            {
+                "id": "nm0872282",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Giorgio Trestini",
+                "asCharacter": "Workman"
+            },
+            {
+                "id": "nm0872689",
+                "image": "https://imdb-api.com/images/original/MV5BNmNkOTc4ZmUtZjI3NC00MmI2LWI1N2EtY2MwN2QxZmNkMmUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Leopoldo Trieste",
+                "asCharacter": "Hotel Manager"
+            },
+            {
+                "id": "nm0871674",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyZmE5YWQtMjc5My00NjZmLWFhNjgtNGNhZGE3OTZkZjBkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "David Tree",
+                "asCharacter": "Anthony Babbage"
+            },
+            {
+                "id": "nm0753219",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ann Rye",
+                "asCharacter": "Mandy Babbage"
+            },
+            {
+                "id": "nm0759092",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nicholas Salter",
+                "asCharacter": "Johnny Baxter"
+            },
+            {
+                "id": "nm0931681",
+                "image": "https://imdb-api.com/images/original/MV5BMjVkYmViZGUtNTE5OC00NDQ5LWJlN2ItN2M0NjY1M2IxMGE5XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_Ratio1.7273_AL_.jpg",
+                "name": "Sharon Williams",
+                "asCharacter": "Christine Baxter"
+            },
+            {
+                "id": "nm0146333",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bruno Cattaneo",
+                "asCharacter": "Detective Sabbione"
+            },
+            {
+                "id": "nm0688156",
+                "image": "https://imdb-api.com/images/original/MV5BMmZkMGIyODUtZjM0Ny00NDU5LWJkMjktYzZlZTg1MWRlYzEzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Adelina Poerio",
+                "asCharacter": "Dwarf"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0441819",
+                        "name": "Peter Katz",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0612134",
+                        "name": "Frederick Muller",
+                        "description": "associate producer (as Federico Mueller)"
+                    },
+                    {
+                        "id": "nm0881127",
+                        "name": "Anthony B. Unger",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0006043",
+                        "name": "Pino Donaggio",
+                        "description": "(as Pino Donnagio)"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0725072",
+                        "name": "Anthony B. Richmond",
+                        "description": "director of photography (as Anthony Richmond)"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0166625",
+                        "name": "Graeme Clifford",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0108614",
+                        "name": "Miriam Brickman",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0548030",
+                        "name": "Ugo Mariotti",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0811944",
+                        "name": "Giovanni Soccol",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0215392",
+                        "name": "Giancarlo Del Brocco",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm0304992",
+                        "name": "Maria Luisa Garbini",
+                        "description": "hairdresser"
+                    },
+                    {
+                        "id": "nm0724430",
+                        "name": "Barry Richardson",
+                        "description": "hair stylist"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0168555",
+                        "name": "Franco Coduti",
+                        "description": "unit manager"
+                    },
+                    {
+                        "id": "nm0359060",
+                        "name": "Tim Hampton",
+                        "description": "production supervisor (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0162454",
+                        "name": "Francesco Cinieri",
+                        "description": "assistant director"
+                    },
+                    {
+                        "id": "nm0924813",
+                        "name": "Gary White",
+                        "description": "second assistant director: UK (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0156942",
+                        "name": "Francesco Chianese",
+                        "description": "set dresser (as Francesco Chinanese)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0203895",
+                        "name": "Peter Davies",
+                        "description": "sound recordist"
+                    },
+                    {
+                        "id": "nm0390815",
+                        "name": "Rodney Holland",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0427590",
+                        "name": "Bob Jones",
+                        "description": "dubbing mixer"
+                    },
+                    {
+                        "id": "nm0561798",
+                        "name": "Peter Maxwell",
+                        "description": "adr mixer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0337040",
+                        "name": "Richard Graydon",
+                        "description": "stunt coordinator (as Richard Grayden)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0550223",
+                        "name": "Luciano Marrocchi",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0686220",
+                        "name": "Spartaco Pizzi",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0710385",
+                        "name": "Simon Ransley",
+                        "description": "assistant cameraman"
+                    },
+                    {
+                        "id": "nm0867416",
+                        "name": "Luciano Tonti",
+                        "description": "camera operator"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0020801",
+                        "name": "Marit Allen",
+                        "description": "wardrobe: Miss Christie's (as Marit Lieberson)"
+                    },
+                    {
+                        "id": "nm0272150",
+                        "name": "Anna Maria Feo",
+                        "description": "wardrobe mistress (as Annamaria Fea)"
+                    },
+                    {
+                        "id": "nm0301981",
+                        "name": "Andrea Galer",
+                        "description": "wardrobe: Miss Christie"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0392500",
+                        "name": "Peter Holt",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm0493339",
+                        "name": "Tony Lawson",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm1144884",
+                        "name": "Alfreda Benge",
+                        "description": "assistant editor (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0094303",
+                        "name": "Giampiero Boneschi",
+                        "description": "conductor / music arranger / composer: additional music (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0013223",
+                        "name": "Rita Agostini",
+                        "description": "continuity"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0236363",
+                        "name": "Hubert Doyle",
+                        "description": "publicist"
+                    },
+                    {
+                        "id": "nm0640529",
+                        "name": "Terence O'Connor",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm0696662",
+                        "name": "Steve Previn",
+                        "description": "production executive"
+                    },
+                    {
+                        "id": "nm1414726",
+                        "name": "John Chambers",
+                        "description": "finance executive (uncredited)"
+                    },
+                    {
+                        "id": "nm1707879",
+                        "name": "Gino Donato",
+                        "description": "voice dubbing: Massimo Serato (uncredited)"
+                    },
+                    {
+                        "id": "nm0274120",
+                        "name": "Paolo Ferrari",
+                        "description": "voice dubbing: Donald Sutherland (uncredited)"
+                    },
+                    {
+                        "id": "nm0333556",
+                        "name": "Cristina Grado",
+                        "description": "voice dubbing: Julie Cristie (uncredited)"
+                    },
+                    {
+                        "id": "nm1045984",
+                        "name": "Erasmo Lo Presto",
+                        "description": "voice dubbing: David Tree (uncredited)"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Horror, Thriller",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Casey Productions, Eldorado Films, D.L.N. Ventures Partnership",
+    "companyList": [
+        {
+            "id": "co0103444",
+            "name": "Casey Productions"
+        },
+        {
+            "id": "co0053419",
+            "name": "Eldorado Films"
+        },
+        {
+            "id": "co0229251",
+            "name": "D.L.N. Ventures Partnership"
+        }
+    ],
+    "countries": "UK, Italy",
+    "countryList": [
+        {
+            "key": "UK",
+            "value": "UK"
+        },
+        {
+            "key": "Italy",
+            "value": "Italy"
+        }
+    ],
+    "languages": "English, Italian",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Italian",
+            "value": "Italian"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.2",
+    "imDbRatingVotes": "46145",
+    "metacriticRating": "",
+    "ratings": {
+        "imDbId": "tt0069995",
+        "title": "Don't Look Now",
+        "fullTitle": "Don't Look Now (1973)",
+        "type": "Movie",
+        "year": "1973",
+        "imDb": "7.2",
+        "metacritic": "",
+        "theMovieDb": "7.0",
+        "rottenTomatoes": "94",
+        "tV_com": "8.2",
+        "filmAffinity": "6.4",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0069995",
+        "title": "Don't Look Now",
+        "fullTitle": "Don't Look Now (1973)",
+        "type": "Movie",
+        "year": "1973",
+        "language": "en",
+        "titleInLanguage": "Don't Look Now",
+        "url": "https://en.wikipedia.org/wiki/Don%27t_Look_Now",
+        "plotShort": {
+            "plainText": "Don't Look Now\r\nDon't Look Now (Italian: A Venezia... un Dicembre rosso shocking, lit. \"In Venice... a shocking red December\") is a 1973 English-language film directed by Nicolas Roeg. It is a thriller adapted from the short story by Daphne du Maurier. Julie Christie and Donald Sutherland portray a married couple who travel to Venice following the recent accidental death of their daughter, after the husband accepts a commission to restore a church. They encounter two sisters, one of whom claims to be clairvoyant and informs them that their daughter is trying to contact them and warn them of danger. The husband at first dismisses their claims, but starts to experience mysterious sightings himself.\r\nWhile Don't Look Now observes many conventions of the thriller genre, it focuses on the psychology of grief and the effect the death of a child can have on a relationship; this depiction of grief has been identified as unusually strong for a film featuring supernatural plot elements. The film is renowned for its innovative editing style, recurring motifs and themes, and for a controversial sex scene that was explicit by the standards of then-contemporary mainstream cinema. It also employs flashbacks and flashforwards in keeping with the depiction of precognition, but some scenes are intercut or merged to alter the viewer's perception of what is really happening. It adopts an impressionist approach to its imagery, often presaging events with familiar objects, patterns and colours using associative editing techniques.\r\nThe film's reputation has grown in the years since its release and it is now considered a classic and an influential work in horror and British film.",
+            "html": "<h2>Don't Look Now</h2><p>Don't Look Now (Italian: A Venezia... un Dicembre rosso shocking, lit. \"In Venice... a shocking red December\") is a 1973 English-language film directed by Nicolas Roeg. It is a thriller adapted from the short story by Daphne du Maurier. Julie Christie and Donald Sutherland portray a married couple who travel to Venice following the recent accidental death of their daughter, after the husband accepts a commission to restore a church. They encounter two sisters, one of whom claims to be clairvoyant and informs them that their daughter is trying to contact them and warn them of danger. The husband at first dismisses their claims, but starts to experience mysterious sightings himself.</p><p>While Don't Look Now observes many conventions of the thriller genre, it focuses on the psychology of grief and the effect the death of a child can have on a relationship; this depiction of grief has been identified as unusually strong for a film featuring supernatural plot elements. The film is renowned for its innovative editing style, recurring motifs and themes, and for a controversial sex scene that was explicit by the standards of then-contemporary mainstream cinema. It also employs flashbacks and flashforwards in keeping with the depiction of precognition, but some scenes are intercut or merged to alter the viewer's perception of what is really happening. It adopts an impressionist approach to its imagery, often presaging events with familiar objects, patterns and colours using associative editing techniques.</p><p>The film's reputation has grown in the years since its release and it is now considered a classic and an influential work in horror and British film.</p>"
+        },
+        "plotFull": {
+            "plainText": "Don't Look Now\r\nDon't Look Now (Italian: A Venezia... un Dicembre rosso shocking, lit. \"In Venice... a shocking red December\") is a 1973 English-language film directed by Nicolas Roeg. It is a thriller adapted from the short story by Daphne du Maurier. Julie Christie and Donald Sutherland portray a married couple who travel to Venice following the recent accidental death of their daughter, after the husband accepts a commission to restore a church. They encounter two sisters, one of whom claims to be clairvoyant and informs them that their daughter is trying to contact them and warn them of danger. The husband at first dismisses their claims, but starts to experience mysterious sightings himself.\r\nWhile Don't Look Now observes many conventions of the thriller genre, it focuses on the psychology of grief and the effect the death of a child can have on a relationship; this depiction of grief has been identified as unusually strong for a film featuring supernatural plot elements. The film is renowned for its innovative editing style, recurring motifs and themes, and for a controversial sex scene that was explicit by the standards of then-contemporary mainstream cinema. It also employs flashbacks and flashforwards in keeping with the depiction of precognition, but some scenes are intercut or merged to alter the viewer's perception of what is really happening. It adopts an impressionist approach to its imagery, often presaging events with familiar objects, patterns and colours using associative editing techniques.\r\nThe film's reputation has grown in the years since its release and it is now considered a classic and an influential work in horror and British film.\r\nPlot\r\nSometime after the drowning of their young daughter, Christine (Sharon Williams), in an accident at their English country home, John Baxter (Donald Sutherland) and his grief-stricken wife Laura (Julie Christie) take a trip to Venice after John accepts a commission from a bishop (Massimo Serato) to restore an ancient church. Laura encounters two elderly sisters, Heather (Hilary Mason) and Wendy (Clelia Matania), at a restaurant where she and John are dining; Heather claims to be psychic and\u2014despite being blind\u2014informs Laura she is able to \"see\" the Baxters' deceased daughter. Shaken, Laura returns to her table, where she faints.\r\nLaura is taken to the hospital, where she later tells John what Heather told her. John is sceptical but pleasantly surprised by the positive change in Laura's demeanour. Later in the evening after returning from the hospital, John and Laura have passionate sex. Afterwards, they go out to dinner where they get lost and briefly become separated. John catches a glimpse of what appears to be a small child (Adelina Poerio) wearing a red coat similar to the one Christine was wearing when she died.\r\nThe next day, Laura meets with Heather and Wendy, who hold a s\u00e9ance to try to contact Christine. When she returns to the hotel Laura informs John that Christine has said he is in danger and must leave Venice. John loses his temper with Laura, but that night they receive a telephone call informing them that their son (Nicholas Salter) has been injured in an accident at his boarding school. Laura departs for England, while John stays on to complete the restoration. Shortly after, John is nearly killed in an accident at the church when the scaffolding collapses and he interprets this as the \"danger\" that was foretold by the sisters.\r\nLater that day, and still under the assumption that Laura is in England, John is shocked when he spots her on a passing boat that is part of a funeral cortege, accompanied by the two sisters. Concerned about his wife's mental state and with reports of a serial killer at large in Venice, he reports Laura's disappearance to the police. The inspector (Renato Scarpa) investigating the killings is suspicious of John and has him followed. After conducting a futile search for Laura and the sisters\u2014in which he again sees the childlike figure in the red coat\u2014John contacts his son's school to enquire about his condition, only to discover Laura is already there. After speaking to her to confirm she really is in England, a bewildered John returns to the police station to inform the police he has found his wife. In the meantime the police have brought Heather in for questioning, so an apologetic John offers to escort her back to the hotel.\r\nShortly after returning, Heather slips into a trance so John makes his excuses and quickly leaves. Upon coming out of it she pleads with her sister to go after John, sensing that something terrible is about to happen, but Wendy is unable to catch up with him. Meanwhile, John catches another glimpse of the mysterious figure in red and this time pursues it. He corners the elusive figure in a deserted palazzo and approaches it, believing it to be a child. Instead, it is revealed to be a hideous female dwarf, and while John is frozen in terror the dwarf pulls out a meat cleaver and cuts his throat. As he dies, John realises too late that the strange sightings he has been experiencing were premonitions of his own murder and funeral.\r\nAnalysis\r\nThemes\r\nDon't Look Now ostensibly is an occult-themed thriller but the genre conventions of the Gothic ghost story primarily serve to explore the minds of a grief-stricken couple. The film's director, Nicolas Roeg, was intrigued by the idea of making \"grief into the sole thrust of the film\", noting that \"Grief can separate people ... Even the closest, healthiest relationship can come undone through grief.\" The presence of Christine, the Baxters' deceased daughter, weighs heavily on the mood of the film, as she and the nature of her death are constantly recalled through the film's imagery: there are regular flashbacks to Christine playing in her red coat as well as the sightings of the mysterious childlike figure also wearing a red coat which bears a likeness to her; the constant association of water with death is maintained via a serial-killer sub-plot, which sees victims periodically dragged from the canals; there is also a poignant moment when John fishes a child's doll out of a canal just as he did with his daughter's body at the beginning of the film.\r\nThe associative use of recurring motifs, combined with unorthodox editing techniques, foreshadows key events in the film. In Daphne du Maurier's novella it is Laura that wears a red coat, but in the film the colour is used to establish an association between Christine and the elusive figure that John keeps catching glimpses of. Du Maurier's story actually opens in Venice following Christine's death from meningitis, but the decision was taken to change the cause of death to drowning and to include a prologue to exploit the water motif. The threat of death from falling is also ever present throughout the film: besides Christine falling into the lake, Laura is taken to hospital after her fall in the restaurant, their son Johnny is injured in a fall at boarding school, the bishop overseeing the church restoration informs John that his father was killed in a fall, and John himself is nearly killed in a fall during the renovations. Glass is frequently used as an omen that something bad is about to occur: just before Christine drowns, John knocks a glass of water over, and Johnny breaks a pane of glass; as Laura faints in the restaurant she knocks glassware off the table, and when John almost falls to his death in the church, a plank of wood shatters a pane of glass; finally, shortly before confronting the mysterious red clad figure, John asks the sisters for a glass of water, a piece of symbolism that prefigured Christine's death.\r\nThe plot of the film is preoccupied with misinterpretation and mistaken identity: when John sees Laura on the barge with the sisters, he fails to realise it is a premonition and believes Laura is in Venice with them. John himself is mistaken for a Peeping Tom when he follows Laura to the s\u00e9ance, and ultimately he mistakes the mysterious red-coated figure for a child. The concept of Doppelg\u00e4nger and duplicates feature prominently in the film: reproductions are a constantly recurring motif ranging from reflections in the water, to photographs, to police sketches and the photographic slides of the church John is restoring. Laura comments in a letter to their son that she can't tell the difference between the restored church windows and the \"real thing\", and later in the film John attempts to make a seamless match between recently manufactured tiles and the old ones in repairing an ancient mosaic. Roeg describes the basic premise of the story as principally being that in life \"nothing is what it seems\", and even decided to have Donald Sutherland's character utter the line\u2014a scene which required fifteen takes.\r\nCommunication is a theme that runs through much of Nicolas Roeg's work, and figures heavily in Don't Look Now. This is best exemplified by the blind psychic woman, Heather, who communicates with the dead, but it is presented in other ways: the language barriers are purposefully enhanced by the decision to not include subtitles translating the Italian dialogue into English, so the viewer experiences the same confusion as John. Women are presented as better at communicating than men: besides the clairvoyant being female, it is Laura who stays in regular contact with their son, Johnny; when the Baxters receive a phone call informing them of Johnny's accident at the boarding school, the headmaster's inarticulateness in explaining the situation causes his wife to intercept and explain instead.\r\nMuch has been made of the fragmented editing of Don't Look Now, and Nicolas Roeg's work in general. Time is presented as 'fluid', where the past, present and future can all exist in the same timeframe. John's premonitions merge with the present, such as at the start of the film where the mysterious red-coated figure is seemingly depicted in one of his photographic slides, and when he 'sees' Laura on the funeral barge with the sisters and mistakenly believes he is seeing the present, but in fact it is a vision of the future. The most famous use of this fragmented approach to time is during the love scene, in which the scenes of John and Laura having sex are intercut with scenes of them dressing afterwards to go out to dinner. After John is attacked by his assailant in the climactic moments, the preceding events depicted during the course of the film are recalled through flashback, which may be perceived as his life flashing before his eyes. At a narrative level the plot of Don't Look Now can be regarded as a self-fulfilling prophecy: it is John's premonitions of his death that set in motion the events leading up to his death. According to the editor of the film, Graeme Clifford, Nicolas Roeg regarded the film as his \"exercise in film grammar\".\r\nInspirations\r\nDon't Look Now is particularly indebted to Alfred Hitchcock, exhibiting several characteristics of the director's work. The aural match cut following Christine's death from Laura's scream to the screech of a drill references a cut in The 39 Steps, when a woman's scream cuts to the whistle of a steam train. When John reports Laura's disappearance to the Italian police he inadvertently becomes a suspect in the murder case they are investigating\u2014an innocent man being wrongly accused and pursued by the authorities is a common Hitchcock trait. The film also takes a Hitchcockian approach to its mise en sc\u00e8ne, by manifesting its protagonist's psychology in plot developments: in taking their trip to Venice the Baxters have run away from personal tragedy, and are often physically depicted as running to and from things during their stay in Venice; the labyrinthine geography of Venice causes John to lose his bearings, and he often becomes separated from Laura and is repeatedly shown to be looking for her\u2014both physical realisations of what is going on in his head.\r\nNicolas Roeg had employed the fractured editing style of Don't Look Now on his previous films, Performance and Walkabout, but it was originated by editor Antony Gibbs on Petulia. Roeg served as the cinematographer on Petulia, which incidentally also starred Julie Christie, and Gibbs went on to edit Performance and Walkabout for Roeg. Roeg's use of colour\u2014especially red\u2014can be traced back to earlier work: both Performance and Walkabout feature scenes where the whole screen turns red, similar in nature to the scene during Christine's drowning when the spilt water on the church slide causes a reaction that makes it\u2014along with the whole screen\u2014turn completely red. The mysterious red-coated figure and its association with death has a direct parallel with an earlier film Roeg worked on as cinematographer, The Masque of the Red Death, which depicted a red clad Grim Reaper character. The fleeting glimpses of the mysterious red-coated figure possibly draw on Proust: in Remembrance of Things Past, while in Venice, the narrator catches sight of a red gown in the distance which brings back painful memories of his lost love.\r\nBesides Proust, other possible literary influences include Borges and Nietzsche; Pauline Kael in her review comments that \"Roeg comes closer to getting Borges on the screen than those who have tried it directly\", while Mark Sanderson in his BFI Modern Classics essay on the film, finds parallels with Nietzsche's Beyond Good and Evil. Its setting and production status has also drawn comparisons with giallo films, due to its structure and cinematic language sharing many characteristics with the Italian subgenre.\r\nProduction\r\nDon't Look Now was produced by Peter Katz through London-based Casey Productions and Rome-based Eldorado Films. The script based on the short story by Daphne du Maurier was offered to Nicolas Roeg by scriptwriter Allan Scott, who had co-written the screenplay with Chris Bryant, while Julie Christie and Donald Sutherland were cast in the principal roles. Filming began in England in December 1972, breaking off for Christmas, and resuming in January 1973 for seven more weeks in Italy.\r\nCasting\r\nDon't Look Now was Roeg's third film as director, following Performance (1970) and Walkabout (1971). Although real-life couple Natalie Wood and Robert Wagner were suggested for the parts of Laura and John Baxter, Roeg was eager to cast Julie Christie and Donald Sutherland from the very start. Initially engaged by other projects, both actors unexpectedly became available. Christie liked the script and was keen to work with Roeg, who had served as cinematographer on Fahrenheit 451, Far from the Madding Crowd and Petulia in which she had starred. Sutherland also wanted to make the film but had some reservations about the depiction of clairvoyance in the script. He felt it was handled too negatively and believed that Don't Look Now should be a more \"educative film\", and that the \"characters should in some way benefit from ESP and not be destroyed by it\". Roeg was resistant to any changes and issued Sutherland an ultimatum.\r\nRoeg wanted Julie Christie to attend a s\u00e9ance prior to filming. Leslie Flint, a direct voice medium based in Notting Hill, invited them to attend a session which he was holding for some American parapsychologists, who were coming over to observe him. Roeg and Christie went along and sat in a circle in the pitch dark and joined hands. Flint instructed his guests to \"uncross\" their legs, which Roeg subsequently incorporated into the film.\r\nAdelina Poerio was cast as the fleeting red-coated figure after Roeg saw her photo at a casting session in Rome. Standing at only 4'2\" tall, she had a career as a singer. Renato Scarpa was cast as Inspector Longhi, despite not being able to speak English and so he had no idea what he was saying in the film.\r\nFilming\r\nThe drowning scene and house exteriors were filmed in Hertfordshire at the home of actor David Tree, who also plays the headmaster at the son's boarding school. Shooting the sequence was particularly problematic: Sharon Williams, who played Christine, became hysterical when submersed in the pond, despite the rehearsals at the swimming pool going well. A farmer on the neighbouring land volunteered his daughter who was an accomplished swimmer, but who refused to be submersed when it came to filming. In the end, the scene was filmed in a water tank using three girls. Nicolas Roeg and editor Graeme Clifford showed the opening sequence to some friends before filming resumed on the Venice segment, and Clifford recalls it making a considerable impression.\r\nThe Venice locations included the Hotel Gabrielli Sandwirth\u2014the lobby and exteriors standing in for the film's fictional Europa Hotel, although the Baxters' suite was located at the Bauer Grunwald (which better accommodated the cameras)\u2014and the San Nicol\u00f2 dei Mendicoli (the Church of St. Nicholas of the Beggars), located on the outskirts of Venice. Finding an appropriate church proved difficult: after visiting most of the churches in Venice, the Italian location manager suggested constructing one in a warehouse. The discovery of San Nicol\u00f2 was particularly fortuitous since it was currently being renovated and the scaffolding was already in place, the circumstances lending themselves well to the plot of the film. Roeg decided not to use traditional tourist locations to purposefully avoid a travel documentary look. Venice turned out to be a difficult place to film in, mainly due to the tides which caused problems with the continuity and transporting equipment.\r\nFilming the scene in which John almost falls to his death while restoring the mosaic in San Nicol\u00f2 church was also beset by problems, and resulted in Donald Sutherland's life being put in danger. The scene entailed some of the scaffolding collapsing leaving John dangling by a rope, but the stuntman refused to perform the stunt because the insurance was not in order. Sutherland ended up doing it instead, and was attached to a kirby wire as a precaution in case he should fall. Some time after the film had come out, renowned stunt co-ordinator Vic Armstrong commented to Sutherland that the wire was not designed for that purpose, and the twirling around caused by holding on to the rope would have damaged the wire to the extent that it would have snapped if Sutherland had let go.\r\nWhile many of the changes were due to the logistics of filming in Venice, some were for creative reasons, the most prominent being the inclusion of the famous love scene. The scene was in fact an unscripted last minute improvisation by Roeg, who felt that without it there would be too many scenes of the couple arguing. The scene set in the church where Laura lights a candle for Christine was mostly improvised too. Originally intended to show the gulf between John's and Laura's mental states\u2014John's denial and Laura's inability to let go\u2014the script included two pages of dialogue to illustrate John's unease at Laura's marked display of grief. After a break in filming to allow the crew to set up the equipment, Donald Sutherland returned to the set and commented that he did not like the church, to which Julie Christie retorted that he was being \"silly\", and the church was \"beautiful\". Roeg felt that the exchange was more true to life in terms of what the characters would actually say to each other, and that the scripted version was \"overwritten\", so opted to ditch the scripted dialogue and included the real-life exchange instead.\r\nThe funeral scene at the end of the film was also played differently from what was originally intended. Julie Christie was supposed to wear a veil to hide her face, but prior to filming Roeg suggested to Christie that she should play it without the veil and smile throughout the scene. Christie was initially sceptical, but Roeg felt it would not make sense for the character to be heartbroken if she believed her husband and daughter were together in the afterlife.\r\nScoring\r\nThe score was composed by Pino Donaggio, a native Venetian who was a popular singer at the time (he had a hit with \"lo Che Non Vivo\" which was covered by Dusty Springfield in 1966 as \"You Don't Have to Say You Love Me\"); prior to Don't Look Now, Donaggio had never scored a film. Ugo Mariotti, a casting director on the film, spotted Donaggio on a Vaporetto on the Grand Canal in Venice, and believing it to be a \"sign\", contacted him to see if he would be interested in working on the film. Donaggio was reluctant at first because he did not understand why they would be interested in someone who had no experience of scoring films.\r\nDonaggio had no interest in making soundtracks for films at the time, but was introduced to Nicolas Roeg who decided to try him out and asked him to write something for the beginning of the film. Roeg was enthusiastic about the result but the London-based producers were resistant to hiring someone who had no background in films. The film's financiers were pleased with Donaggio's work and overruled the producers. As well as composing the score, Donaggio performed a substantial portion of it himself. The piano pieces were performed by Donaggio, despite the fact that he was not very accomplished at playing the piano. The piano pieces are usually associated with Christine in the film, and Roeg wanted them to have an innocent sound reminiscent of a little girl learning to play the piano. Donaggio claims that since he was not very good at playing the piano, the pieces had an unsure style to them, perfect for the effect they were trying to capture.\r\nThe only disagreement over the musical direction of the film was for the score accompanying the love scene. Donaggio composed a grand orchestral piece, but Roeg thought the effect was overkill, and wanted it toned down. In the end the scene just used a combination of the piano, the flute, an acoustic guitar and an acoustic bass guitar. The piano was played by Donaggio again, who also played the flute; in contrast to his skill as a pianist, Donaggio was a renowned flautist, famous for it at the conservatory. Donaggio conceded that the more low-key theme worked better in the sequence and ditched the high strings orchestral piece, reworking it for the funeral scene at the end of the film.\r\nDonaggio won a \"best soundtrack of the year\" award for his work on the film, which gave him the confidence to quit his successful singing career and embark on a career scoring films. Donaggio became a regular composer for Brian De Palma, and credits Nicolas Roeg with giving him his first lesson in writing film scores, and expressed a desire to work with him again. Donaggio's score later achieved newfound recognition for its inclusion in the fourth episode of HBO series Euphoria; music supervisor Jen Malone noted that the cues used were the most difficult to obtain out of all of the music used in the series.\r\nRelease\r\nSex scene controversy\r\nDon't Look Now has become famous for a sex scene involving Julie Christie and Donald Sutherland, which caused considerable controversy prior to its release in 1973. British tabloid newspaper, the Daily Mail, observed at the time \"one of the frankest love scenes ever to be filmed is likely to plunge lovely Julie Christie into the biggest censorship row since Last Tango in Paris\". The scene was unusually graphic for the period, including a rare depiction of cunnilingus in a mainstream film.\r\nChristie commented that \"people didn't do scenes like that in those days\", and that she found the scenes difficult to film: \"There were no available examples, no role models ... I just went blank and Nic shouted instructions.\" The scene caused problems with censors on both sides of the Atlantic. The American censor advised Nicolas Roeg explicitly, saying, \"We cannot see humping. We cannot see the rise and fall between thighs.\" The scene's much celebrated fragmented style, in which scenes of the couple having sexual intercourse are intercut with scenes of the couple post-coitally getting dressed to go out to dinner, partly came about through Roeg's attempt to accommodate the concerns of the censors: \"They scrutinised it and found absolutely nothing they could object to. If someone goes up, you cut and the next time you see them they're in a different position, you obviously fill in the gaps for yourself. But, technically speaking, there was no 'humping' in that scene.\" In the end, Roeg only cut nine frames from the sequence, and the film was awarded an R rating in the United States. In Britain, the British Board of Film Classification judged the uncut version to be \"tasteful and integral to the plot\", and a scene in which Donald Sutherland's character can be clearly seen performing oral sex on Christie's character was permitted; it was given an X rating\u2014an adults only certificate.\r\nThe sex scene remained controversial for some years after the film's release. The BBC cut it altogether when Don't Look Now premiered on UK television, causing a flood of complaints from viewers. The intimacy of the scene led to rumours that Christie and Sutherland had unsimulated sex which have persisted for years, and that outtakes from the scene were doing the rounds in screening rooms. Michael Deeley, who oversaw the film's UK distribution, claimed on BBC Radio 4's Desert Island Discs that Warren Beatty had flown to London and demanded that the sex scene\u2014featuring then girlfriend Julie Christie\u2014be cut from the film. The rumours were seemingly confirmed in 2011 by former Variety editor Peter Bart, who was a Paramount executive at the time. In his book, Infamous Players: A Tale of Movies, the Mob, (and Sex), Bart says he was on set on the day the scene was filmed and could clearly see Sutherland's penis \"moving in and out of\" Christie. Bart also reiterated Warren Beatty's discontent, noting that Beatty had contacted him to complain about what he perceived to be Roeg's exploitation of Christie, and insisting that he be allowed to help edit the film. Sutherland subsequently issued a statement through his publicist stating that the claims were not true, and that Bart did not witness the scene being filmed. Peter Katz, the film's producer, corroborated Sutherland's account that the sex was entirely simulated.\r\nTheatrical releases\r\nDon't Look Now\u2014marketed as a \"psychic thriller\"\u2014was released in London's West End on 16 October 1973. It was released nationwide a few weeks later as the main feature of a double bill; The Wicker Man was its accompanying 'B' feature and\u2014like Don't Look Now\u2014went on to achieve great acclaim. The two films have thematic similarities, and both end with their protagonists being led to preordained fates by a 'child' they believe to be helping.\r\nThe film was among the top British titles at the UK box-office in 1974, second only to Confessions of a Window Cleaner, and ranking in the top twenty of the year overall. Michael Deeley, who was managing director of British Lion Films at the time of the film's release, claimed that the film's US reception was hurt by Paramount Pictures rushing the film into cinemas too early, due to the unexpected failure of Jonathan Livingston Seagull; despite its mismanaged distribution, Peter Bart\u2014from his time at Paramount\u2014recalls it performing \"fairly well\" at the box office. The film had recouped most of its expenses before it was even released, with its $1.1 million budget offset by the fee Paramount paid for the US distribution rights.\r\nDon't Look Now was chosen by the British Film Institute in 2000 as one of eight classic films from those that had begun to deteriorate to undergo restoration. On completion of the restoration in 2001, the film was given another theatrical release.\r\nHome media\r\nDon't Look Now has been released on VHS, DVD and Blu-ray. Extras include an introduction by film journalist Alan Jones, an audio commentary by director Nicolas Roeg, a retrospective documentary featurette (\"Looking Back\"), an extract from a 1980s documentary about Roeg (\"Nothing is as it Seems\"), and interviews with Donald Sutherland, composer Pino Donaggio (\"Death in Venice\"), scriptwriter Allan Scott, cinematographer Anthony Richmond and film director Danny Boyle, as well as a \"compressed\" version of the film made by Boyle for a BAFTA tribute.\r\nA new DVD and Blu-ray release with a 4K digital restoration was released in 2015 by The Criterion Collection. In addition to the \"Death in Venice\" and \"Looking Back\" featurettes which accompanied earlier editions, there is a conversation between editor Graeme Clifford and film writer Bobbie O\u2019Steen, an essay by film critic David Thomson and a Q&A with Roeg at London\u2019s Cin\u00e9 Lumi\u00e8re from 2003. Two new documentaries are also included: the first documentary, \"Something Interesting\", features interviews with Anthony Richmond, Donald Sutherland, Julie Christie and Allan Scott about the making of the film; the second, \"Nicolas Roeg: The Enigma of Film\", features interviews with Danny Boyle and fellow film-maker Steven Soderbergh discussing Roeg's cinematic style.\r\nReception\r\nCritical response and awards\r\nAt the time of its initial release, Don't Look Now was generally well received by critics, although some criticised it for being \"arty and mechanical\". Jay Cocks for Time, wrote that \"Don't Look Now is such a rich, complex and subtle experience that it demands more than one viewing\", while Variety commented that the film's visual flourishes made it \"much more than merely a well-made psycho-horror thriller\". Pauline Kael writing for The New Yorker was more reserved in her praise, considering the film to be \"the fanciest, most carefully assembled enigma yet put on the screen\" but that there was a \"distasteful clamminess about the picture\", while Gordon Gow of Films and Filming felt that it fell short of the aspirations of Nicolas Roeg's previous two films, Performance and Walkabout, but it was nevertheless a thriller of some depth. Vincent Canby, reviewer for The New York Times, on the other hand, criticised the film for a lack of suspense which he put down to a twist that comes halfway through rather than at the end, and at which point it \"stops being suspenseful and becomes an elegant travelogue that treats us to second-sightseeing in Venice\". Canby also suggested that second sight was not convincing on screen, since it appeared simply like flash-forward which is a standard story-telling device in films, and concluded that \"Not only do you probably have better things to do, but so, I'm sure, do most of the people connected with the film.\"\r\nBritish critics were especially enthusiastic about Nicolas Roeg's direction. In the view of Tom Milne of Monthly Film Bulletin, Roeg's combined work on Performance, Walkabout and Don't Look Now put him \"right up at the top as film-maker\". George Melly similarly wrote in The Observer that Roeg had joined \"that handful of names whose appearance at the end of the credit titles automatically creates a sense of anticipation\". Penelope Houston for Sight & Sound also found much to appreciate in Roeg's direction: \"Roeg deploys subtle powers of direction and Hitchcockian misdirection.\" American critics were similarly impressed with Roeg's work on the film. Jay Cocks regarded Don't Look Now to be Roeg's best work by far and that Roeg was one of \"those rare talents that can effect a new way of seeing\". Cocks also felt that the film was a marked improvement on the novella, noting that a reading \"makes one appreciate Roeg and Screenwriters Scott and Bryant all the more. Film and story share certain basic elements of plot and an ending of cruel surprise. The story is detached, almost cursory. Roeg and his collaborators have constructed an intricate, intense speculation about levels of perception and reality.\" Roger Ebert in his review for the Chicago Sun-Times commented that Roeg is \"a genius at filling his frame with threatening forms and compositions\", while Pauline Kael labelled him \"chillingly chic\" in hers. Even Vincent Canby, whose opinion of the film was negative overall, praised Roeg for being able to \"maintain a sense of menace long after the screenplay has any right to expect it\".\r\nJulie Christie and Donald Sutherland also received praise for their performances. Variety considered Sutherland to be at his most subdued but also at his most effective, while Christie does her \"best work in ages\". Cocks felt that thanks to their superb performances the film had a \"rigorous psychological truth and an emotional timbre\" that most other films in the supernatural genre lacked. Canby considered the \"sincerity of the actors\" to be one of the better aspects of the film, while Kael found Christie especially suited to the part, observing she has the \"anxious face of a modern tragic muse\".\r\nRoeg's use of Venice was praised too, with Roger Ebert finding that he \"uses Venice as well as she's ever been used in a movie\", and Canby also noted Venice is used to great effect: \"He gets a great performance from Venice, which is all wintery grays, blues and blacks, the color of the pigeons that are always underfoot.\" Variety also found much to admire about the editing, writing that it is \"careful and painstaking (the classically brilliant and erotic love-making scene is merely one of several examples) and plays a vital role in setting the film's mood\".\r\nDaphne du Maurier was pleased with the adaptation of her story, and wrote to Nicolas Roeg to congratulate him for capturing the essence of John and Laura's relationship. The film was not received well by Venetians, particularly the councillors who were afraid it would scare away tourists.\r\nAt the 27th British Academy Film Awards, Anthony B. Richmond won for Best Cinematography, and Don't Look Now received further nominations in the Best Film, Direction, Actor, Actress, Sound Track and Film Editing categories. It was also nominated in the Best Motion Picture category at the 1974 Edgar Allan Poe Awards.\r\nRe-evaluation\r\nThe reputation of Don't Look Now has grown since its release and it is now regarded as a key work in horror cinema. It has led to some critics re-evaluating their original opinions of it: Roger Ebert, nearly thirty years after his original review, stated that he had come to an \"accommodation\" with his reservations about what he termed the \"admitted weakness of the denouement\". Having gone through the film shot by shot, he came to the conclusion it is a \"masterpiece of physical filmmaking, in the way the photography evokes mood and the editing underlines it with uncertainty\". It was ranked 127th by Sight & Sound in the 2012 edition of their decennial critics poll.\r\nDon't Look Now is also very well regarded by other industry professionals, placing in the top 100 on Sight & Sound's directors poll, run in tandem with their critics poll. A survey of 1000 people who work across the film and television industry, undertaken by the British Film Institute in 1999, saw the film ranked eighth on their list of top 100 British films of the 20th century. It also topped a similar list organised by Time Out London in 2011, in which 150 film industry professionals were polled. In 2012 Time Out also undertook a poll of the horror industry, in which more than 100 professionals who work within or have connections to the genre selected their favourite horror films, which saw Don't Look Now finish in twelfth position.\r\nInfluence\r\nRyan Murphy on Don't Look Now.\r\nDon't Look Now has been much admired by and an influence on subsequent filmmakers. Danny Boyle cites Nicolas Roeg as a key influence on his work and counts it amongst his favourite films, considering it to be \"one of the masterpieces of the last century\". Mark Gatiss, Steve Pemberton, Reece Shearsmith, and Jeremy Dyson drew upon Don't Look Now considerably for their television series The League of Gentlemen; Pemberton ranks it among the top three British horror films of the 1960s and 1970s, and says that he wants things he has written to make audiences feel the way he felt when he watched The Wicker Man and Don't Look Now. Similarly, Ryan Murphy considers his TV series American Horror Story to be a throwback to '60s and '70s psychological horror, citing Don't Look Now, Rosemary's Baby and The Shining as particular examples. Thematic and narrative similarities with Lars von Trier's Antichrist have also been observed, with Antichrist's cinematographer, Anthony Dod Mantle, commenting that he has watched Don't Look Now more times than any other film. Fabrice Du Welz, whose film Vinyan has often been compared to Don't Look Now, has stated that it is a film he is \"obsessed with\", and one of his favourites, while Lynne Ramsay cited it as an influence on We Need to Talk about Kevin, which incidentally is also produced by Roeg's son, Luc. Ami Canaan Mann has also acknowledged she was influenced by atmospheric thrillers such as Picnic at Hanging Rock and Don't Look Now while directing her debut feature, Texas Killing Fields, and Ari Aster acknowledged that it was a key influence on Hereditary.\r\nIts imagery has been directly referenced in several works. The 2006 James Bond film, Casino Royale contains a small homage where James Bond pursues a female character through Venice, catching glimpses of her through the crowds wearing a red dress. The Bruges set thriller, In Bruges, starring Colin Farrell, includes a number of explicit references; director Martin McDonagh said that the \"Venice of Don't Look Now\" was the template for the depiction of Bruges in his film, and the film includes numerous thematic similarities, including one character stating that the film she is working on is a \"pastiche of Don't Look Now\". Flatliners, a 1990 supernatural thriller directed by Joel Schumacher, also draws explicitly on the red-coated childlike figure by having a character terrorised by a child wearing a red coat; coincidentally, the character who is being tormented is played by Kiefer Sutherland, Donald Sutherland's son. In the 2007 stage play of Don't Look Now, written by Nell Leyshon and directed by Lucy Bailey, the play made a conscious effort to bypass the film and be a faithful adaptation of du Maurier's short story, but it did however retain the iconic red mac from the film as worn by the elusive childlike figure.\r\nIts influence is less obvious but still apparent in Out of Sight, a 1998 film directed by Steven Soderbergh. The famous intercutting technique used in the sex scene was used to similar effect in a sex scene featuring George Clooney and Jennifer Lopez. The film's imagery and stylistic techniques have served as an inspiration to films such as Schindler's List directed by Steven Spielberg, Memento by Christopher Nolan, The Dark by John Fawcett, Frozen by Juliet McKoen, Submarine by Richard Ayoade, and Snow White and the Huntsman by Rupert Sanders. David Cronenberg regards it as the most frightening film he has seen, and its influence has been detected on Cronenberg's The Brood.\r\nNicolas Roeg has never been slow to draw upon the world of pop music for his work, casting Mick Jagger in Performance, David Bowie in The Man Who Fell to Earth and Art Garfunkel in Bad Timing, and in turn his films have served as inspiration for musicians. Big Audio Dynamite wrote a tribute song to Roeg, called \"E=MC2\", which included lyrical references to Don't Look Now\u2014among Roeg's other films\u2014along with clips from it in the video, directed by Luc Roeg, while Sophie Ellis-Bextor performed a \"pop synth homage\" to Don't Look Now with her song, \"Catch You\", and portions of the film were sampled in the M83 song \"America\".",
+            "html": "<h2>Don't Look Now</h2><p>Don't Look Now (Italian: A Venezia... un Dicembre rosso shocking, lit. \"In Venice... a shocking red December\") is a 1973 English-language film directed by Nicolas Roeg. It is a thriller adapted from the short story by Daphne du Maurier. Julie Christie and Donald Sutherland portray a married couple who travel to Venice following the recent accidental death of their daughter, after the husband accepts a commission to restore a church. They encounter two sisters, one of whom claims to be clairvoyant and informs them that their daughter is trying to contact them and warn them of danger. The husband at first dismisses their claims, but starts to experience mysterious sightings himself.</p><p>While Don't Look Now observes many conventions of the thriller genre, it focuses on the psychology of grief and the effect the death of a child can have on a relationship; this depiction of grief has been identified as unusually strong for a film featuring supernatural plot elements. The film is renowned for its innovative editing style, recurring motifs and themes, and for a controversial sex scene that was explicit by the standards of then-contemporary mainstream cinema. It also employs flashbacks and flashforwards in keeping with the depiction of precognition, but some scenes are intercut or merged to alter the viewer's perception of what is really happening. It adopts an impressionist approach to its imagery, often presaging events with familiar objects, patterns and colours using associative editing techniques.</p><p>The film's reputation has grown in the years since its release and it is now considered a classic and an influential work in horror and British film.</p><br/><h3>Plot</h3><p>Sometime after the drowning of their young daughter, Christine (Sharon Williams), in an accident at their English country home, John Baxter (Donald Sutherland) and his grief-stricken wife Laura (Julie Christie) take a trip to Venice after John accepts a commission from a bishop (Massimo Serato) to restore an ancient church. Laura encounters two elderly sisters, Heather (Hilary Mason) and Wendy (Clelia Matania), at a restaurant where she and John are dining; Heather claims to be psychic and\u2014despite being blind\u2014informs Laura she is able to \"see\" the Baxters' deceased daughter. Shaken, Laura returns to her table, where she faints.</p><p>Laura is taken to the hospital, where she later tells John what Heather told her. John is sceptical but pleasantly surprised by the positive change in Laura's demeanour. Later in the evening after returning from the hospital, John and Laura have passionate sex. Afterwards, they go out to dinner where they get lost and briefly become separated. John catches a glimpse of what appears to be a small child (Adelina Poerio) wearing a red coat similar to the one Christine was wearing when she died.</p><p>The next day, Laura meets with Heather and Wendy, who hold a s\u00e9ance to try to contact Christine. When she returns to the hotel Laura informs John that Christine has said he is in danger and must leave Venice. John loses his temper with Laura, but that night they receive a telephone call informing them that their son (Nicholas Salter) has been injured in an accident at his boarding school. Laura departs for England, while John stays on to complete the restoration. Shortly after, John is nearly killed in an accident at the church when the scaffolding collapses and he interprets this as the \"danger\" that was foretold by the sisters.</p><p>Later that day, and still under the assumption that Laura is in England, John is shocked when he spots her on a passing boat that is part of a funeral cortege, accompanied by the two sisters. Concerned about his wife's mental state and with reports of a serial killer at large in Venice, he reports Laura's disappearance to the police. The inspector (Renato Scarpa) investigating the killings is suspicious of John and has him followed. After conducting a futile search for Laura and the sisters\u2014in which he again sees the childlike figure in the red coat\u2014John contacts his son's school to enquire about his condition, only to discover Laura is already there. After speaking to her to confirm she really is in England, a bewildered John returns to the police station to inform the police he has found his wife. In the meantime the police have brought Heather in for questioning, so an apologetic John offers to escort her back to the hotel.</p><p>Shortly after returning, Heather slips into a trance so John makes his excuses and quickly leaves. Upon coming out of it she pleads with her sister to go after John, sensing that something terrible is about to happen, but Wendy is unable to catch up with him. Meanwhile, John catches another glimpse of the mysterious figure in red and this time pursues it. He corners the elusive figure in a deserted palazzo and approaches it, believing it to be a child. Instead, it is revealed to be a hideous female dwarf, and while John is frozen in terror the dwarf pulls out a meat cleaver and cuts his throat. As he dies, John realises too late that the strange sightings he has been experiencing were premonitions of his own murder and funeral.</p><br/><h3>Analysis</h3><h4>Themes</h4><p>Don't Look Now ostensibly is an occult-themed thriller but the genre conventions of the Gothic ghost story primarily serve to explore the minds of a grief-stricken couple. The film's director, Nicolas Roeg, was intrigued by the idea of making \"grief into the sole thrust of the film\", noting that \"Grief can separate people ... Even the closest, healthiest relationship can come undone through grief.\" The presence of Christine, the Baxters' deceased daughter, weighs heavily on the mood of the film, as she and the nature of her death are constantly recalled through the film's imagery: there are regular flashbacks to Christine playing in her red coat as well as the sightings of the mysterious childlike figure also wearing a red coat which bears a likeness to her; the constant association of water with death is maintained via a serial-killer sub-plot, which sees victims periodically dragged from the canals; there is also a poignant moment when John fishes a child's doll out of a canal just as he did with his daughter's body at the beginning of the film.</p><p>The associative use of recurring motifs, combined with unorthodox editing techniques, foreshadows key events in the film. In Daphne du Maurier's novella it is Laura that wears a red coat, but in the film the colour is used to establish an association between Christine and the elusive figure that John keeps catching glimpses of. Du Maurier's story actually opens in Venice following Christine's death from meningitis, but the decision was taken to change the cause of death to drowning and to include a prologue to exploit the water motif. The threat of death from falling is also ever present throughout the film: besides Christine falling into the lake, Laura is taken to hospital after her fall in the restaurant, their son Johnny is injured in a fall at boarding school, the bishop overseeing the church restoration informs John that his father was killed in a fall, and John himself is nearly killed in a fall during the renovations. Glass is frequently used as an omen that something bad is about to occur: just before Christine drowns, John knocks a glass of water over, and Johnny breaks a pane of glass; as Laura faints in the restaurant she knocks glassware off the table, and when John almost falls to his death in the church, a plank of wood shatters a pane of glass; finally, shortly before confronting the mysterious red clad figure, John asks the sisters for a glass of water, a piece of symbolism that prefigured Christine's death.</p><p>The plot of the film is preoccupied with misinterpretation and mistaken identity: when John sees Laura on the barge with the sisters, he fails to realise it is a premonition and believes Laura is in Venice with them. John himself is mistaken for a Peeping Tom when he follows Laura to the s\u00e9ance, and ultimately he mistakes the mysterious red-coated figure for a child. The concept of Doppelg\u00e4nger and duplicates feature prominently in the film: reproductions are a constantly recurring motif ranging from reflections in the water, to photographs, to police sketches and the photographic slides of the church John is restoring. Laura comments in a letter to their son that she can't tell the difference between the restored church windows and the \"real thing\", and later in the film John attempts to make a seamless match between recently manufactured tiles and the old ones in repairing an ancient mosaic. Roeg describes the basic premise of the story as principally being that in life \"nothing is what it seems\", and even decided to have Donald Sutherland's character utter the line\u2014a scene which required fifteen takes.</p><p>Communication is a theme that runs through much of Nicolas Roeg's work, and figures heavily in Don't Look Now. This is best exemplified by the blind psychic woman, Heather, who communicates with the dead, but it is presented in other ways: the language barriers are purposefully enhanced by the decision to not include subtitles translating the Italian dialogue into English, so the viewer experiences the same confusion as John. Women are presented as better at communicating than men: besides the clairvoyant being female, it is Laura who stays in regular contact with their son, Johnny; when the Baxters receive a phone call informing them of Johnny's accident at the boarding school, the headmaster's inarticulateness in explaining the situation causes his wife to intercept and explain instead.</p><p>Much has been made of the fragmented editing of Don't Look Now, and Nicolas Roeg's work in general. Time is presented as 'fluid', where the past, present and future can all exist in the same timeframe. John's premonitions merge with the present, such as at the start of the film where the mysterious red-coated figure is seemingly depicted in one of his photographic slides, and when he 'sees' Laura on the funeral barge with the sisters and mistakenly believes he is seeing the present, but in fact it is a vision of the future. The most famous use of this fragmented approach to time is during the love scene, in which the scenes of John and Laura having sex are intercut with scenes of them dressing afterwards to go out to dinner. After John is attacked by his assailant in the climactic moments, the preceding events depicted during the course of the film are recalled through flashback, which may be perceived as his life flashing before his eyes. At a narrative level the plot of Don't Look Now can be regarded as a self-fulfilling prophecy: it is John's premonitions of his death that set in motion the events leading up to his death. According to the editor of the film, Graeme Clifford, Nicolas Roeg regarded the film as his \"exercise in film grammar\".</p><h4>Inspirations</h4><p>Don't Look Now is particularly indebted to Alfred Hitchcock, exhibiting several characteristics of the director's work. The aural match cut following Christine's death from Laura's scream to the screech of a drill references a cut in The 39 Steps, when a woman's scream cuts to the whistle of a steam train. When John reports Laura's disappearance to the Italian police he inadvertently becomes a suspect in the murder case they are investigating\u2014an innocent man being wrongly accused and pursued by the authorities is a common Hitchcock trait. The film also takes a Hitchcockian approach to its mise en sc\u00e8ne, by manifesting its protagonist's psychology in plot developments: in taking their trip to Venice the Baxters have run away from personal tragedy, and are often physically depicted as running to and from things during their stay in Venice; the labyrinthine geography of Venice causes John to lose his bearings, and he often becomes separated from Laura and is repeatedly shown to be looking for her\u2014both physical realisations of what is going on in his head.</p><p>Nicolas Roeg had employed the fractured editing style of Don't Look Now on his previous films, Performance and Walkabout, but it was originated by editor Antony Gibbs on Petulia. Roeg served as the cinematographer on Petulia, which incidentally also starred Julie Christie, and Gibbs went on to edit Performance and Walkabout for Roeg. Roeg's use of colour\u2014especially red\u2014can be traced back to earlier work: both Performance and Walkabout feature scenes where the whole screen turns red, similar in nature to the scene during Christine's drowning when the spilt water on the church slide causes a reaction that makes it\u2014along with the whole screen\u2014turn completely red. The mysterious red-coated figure and its association with death has a direct parallel with an earlier film Roeg worked on as cinematographer, The Masque of the Red Death, which depicted a red clad Grim Reaper character. The fleeting glimpses of the mysterious red-coated figure possibly draw on Proust: in Remembrance of Things Past, while in Venice, the narrator catches sight of a red gown in the distance which brings back painful memories of his lost love.</p><p>Besides Proust, other possible literary influences include Borges and Nietzsche; Pauline Kael in her review comments that \"Roeg comes closer to getting Borges on the screen than those who have tried it directly\", while Mark Sanderson in his BFI Modern Classics essay on the film, finds parallels with Nietzsche's Beyond Good and Evil. Its setting and production status has also drawn comparisons with giallo films, due to its structure and cinematic language sharing many characteristics with the Italian subgenre.</p><br/><h3>Production</h3><p>Don't Look Now was produced by Peter Katz through London-based Casey Productions and Rome-based Eldorado Films. The script based on the short story by Daphne du Maurier was offered to Nicolas Roeg by scriptwriter Allan Scott, who had co-written the screenplay with Chris Bryant, while Julie Christie and Donald Sutherland were cast in the principal roles. Filming began in England in December 1972, breaking off for Christmas, and resuming in January 1973 for seven more weeks in Italy.</p><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Actor</th><th></th><th>Role</th></tr><tr><td><span>Julie Christie</span></td><th></th><td>Laura Baxter</td></tr><tr><td><span>Donald Sutherland</span></td><td></td><td>John Baxter</td></tr><tr><td><span>Hilary Mason</span></td><td></td><td>Heather</td></tr><tr><td><span>Clelia Matania</span></td><td></td><td>Wendy</td></tr><tr><td><span>Massimo Serato</span></td><td></td><td>Bishop Barbarrigo</td></tr><tr><td><span>Renato Scarpa</span></td><td></td><td>Inspector Longhi</td></tr><tr><td><span class=\"new\">Giorgio Trestini</span><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;</span></td><td></td><td>Workman</td></tr><tr><td><span>Leopoldo Trieste</span></td><td></td><td>Hotel Manager</td></tr><tr><td><span>David Tree</span></td><td></td><td>Anthony Babbage</td></tr><tr><td>Ann Rye</td><td></td><td>Mandy Babbage</td></tr><tr><td>Nicholas Salter</td><td></td><td>Johnny Baxter</td></tr><tr><td>Sharon Williams</td><td></td><td>Christine Baxter</td></tr><tr><td><span class=\"new\">Bruno Cattaneo</span><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&nbsp;</span></td><td></td><td>Detective Sabbione</td></tr><tr><td>Adelina Poerio</td><td></td><td>Dwarf</td></tr></tbody></table><h4>Casting</h4><p>Don't Look Now was Roeg's third film as director, following Performance (1970) and Walkabout (1971). Although real-life couple Natalie Wood and Robert Wagner were suggested for the parts of Laura and John Baxter, Roeg was eager to cast Julie Christie and Donald Sutherland from the very start. Initially engaged by other projects, both actors unexpectedly became available. Christie liked the script and was keen to work with Roeg, who had served as cinematographer on Fahrenheit 451, Far from the Madding Crowd and Petulia in which she had starred. Sutherland also wanted to make the film but had some reservations about the depiction of clairvoyance in the script. He felt it was handled too negatively and believed that Don't Look Now should be a more \"educative film\", and that the \"characters should in some way benefit from ESP and not be destroyed by it\". Roeg was resistant to any changes and issued Sutherland an ultimatum.</p><p>Roeg wanted Julie Christie to attend a s\u00e9ance prior to filming. Leslie Flint, a direct voice medium based in Notting Hill, invited them to attend a session which he was holding for some American parapsychologists, who were coming over to observe him. Roeg and Christie went along and sat in a circle in the pitch dark and joined hands. Flint instructed his guests to \"uncross\" their legs, which Roeg subsequently incorporated into the film.</p><p>Adelina Poerio was cast as the fleeting red-coated figure after Roeg saw her photo at a casting session in Rome. Standing at only 4'2\" tall, she had a career as a singer. Renato Scarpa was cast as Inspector Longhi, despite not being able to speak English and so he had no idea what he was saying in the film.</p><h4>Filming</h4><p>The drowning scene and house exteriors were filmed in Hertfordshire at the home of actor David Tree, who also plays the headmaster at the son's boarding school. Shooting the sequence was particularly problematic: Sharon Williams, who played Christine, became hysterical when submersed in the pond, despite the rehearsals at the swimming pool going well. A farmer on the neighbouring land volunteered his daughter who was an accomplished swimmer, but who refused to be submersed when it came to filming. In the end, the scene was filmed in a water tank using three girls. Nicolas Roeg and editor Graeme Clifford showed the opening sequence to some friends before filming resumed on the Venice segment, and Clifford recalls it making a considerable impression.</p><p>The Venice locations included the Hotel Gabrielli Sandwirth\u2014the lobby and exteriors standing in for the film's fictional Europa Hotel, although the Baxters' suite was located at the Bauer Grunwald (which better accommodated the cameras)\u2014and the San Nicol\u00f2 dei Mendicoli (the Church of St. Nicholas of the Beggars), located on the outskirts of Venice. Finding an appropriate church proved difficult: after visiting most of the churches in Venice, the Italian location manager suggested constructing one in a warehouse. The discovery of San Nicol\u00f2 was particularly fortuitous since it was currently being renovated and the scaffolding was already in place, the circumstances lending themselves well to the plot of the film. Roeg decided not to use traditional tourist locations to purposefully avoid a travel documentary look. Venice turned out to be a difficult place to film in, mainly due to the tides which caused problems with the continuity and transporting equipment.</p><p>Filming the scene in which John almost falls to his death while restoring the mosaic in San Nicol\u00f2 church was also beset by problems, and resulted in Donald Sutherland's life being put in danger. The scene entailed some of the scaffolding collapsing leaving John dangling by a rope, but the stuntman refused to perform the stunt because the insurance was not in order. Sutherland ended up doing it instead, and was attached to a kirby wire as a precaution in case he should fall. Some time after the film had come out, renowned stunt co-ordinator Vic Armstrong commented to Sutherland that the wire was not designed for that purpose, and the twirling around caused by holding on to the rope would have damaged the wire to the extent that it would have snapped if Sutherland had let go.</p><p>While many of the changes were due to the logistics of filming in Venice, some were for creative reasons, the most prominent being the inclusion of the famous love scene. The scene was in fact an unscripted last minute improvisation by Roeg, who felt that without it there would be too many scenes of the couple arguing. The scene set in the church where Laura lights a candle for Christine was mostly improvised too. Originally intended to show the gulf between John's and Laura's mental states\u2014John's denial and Laura's inability to let go\u2014the script included two pages of dialogue to illustrate John's unease at Laura's marked display of grief. After a break in filming to allow the crew to set up the equipment, Donald Sutherland returned to the set and commented that he did not like the church, to which Julie Christie retorted that he was being \"silly\", and the church was \"beautiful\". Roeg felt that the exchange was more true to life in terms of what the characters would actually say to each other, and that the scripted version was \"overwritten\", so opted to ditch the scripted dialogue and included the real-life exchange instead.</p><p>The funeral scene at the end of the film was also played differently from what was originally intended. Julie Christie was supposed to wear a veil to hide her face, but prior to filming Roeg suggested to Christie that she should play it without the veil and smile throughout the scene. Christie was initially sceptical, but Roeg felt it would not make sense for the character to be heartbroken if she believed her husband and daughter were together in the afterlife.</p><h4>Scoring</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><td class=\"mbox-text plainlist\" style=\"line-height:1.1em\"><div class=\"haudio\"><div style=\"padding:4px 0\"><span>Pino Donaggio \u2013 Don't Look Now</span></div><div><div class=\"mediaContainer\" style=\"width:220px\"><audio id=\"mwe_player_0\" controls=\"\" preload=\"none\" style=\"width:220px\" class=\"kskin\" data-durationhint=\"30.243083900227\" data-startoffset=\"0\" data-mwtitle=\"Don't_Look_Now_score.ogg\" data-mwprovider=\"local\"><source src=\"//upload.wikimedia.org/wikipedia/en/c/c6/Don%27t_Look_Now_score.ogg\" type=\"audio/ogg; codecs=&quot;vorbis&quot;\" data-title=\"Original Ogg file (131 kbps)\" data-shorttitle=\"Ogg source\" data-width=\"0\" data-height=\"0\" data-bandwidth=\"131088\"><source src=\"//upload.wikimedia.org/wikipedia/en/transcoded/c/c6/Don%27t_Look_Now_score.ogg/Don%27t_Look_Now_score.ogg.mp3\" type=\"audio/mpeg\" data-title=\"MP3\" data-shorttitle=\"MP3\" data-transcodekey=\"mp3\" data-width=\"0\" data-height=\"0\" data-bandwidth=\"214920\"></audio></div></div><div class=\"description\" style=\"padding:2px 0 0 0\">Sample from \"Laura's Theme\".</div></div></td></tr><tr><td colspan=\"2\" class=\"mbox-text\" style=\"line-height:1.1em\"><hr><i class=\"selfreference\">Problems playing this file? See <span>media help</span>.</i></td></tr></tbody></table><p>The score was composed by Pino Donaggio, a native Venetian who was a popular singer at the time (he had a hit with \"lo Che Non Vivo\" which was covered by Dusty Springfield in 1966 as \"You Don't Have to Say You Love Me\"); prior to Don't Look Now, Donaggio had never scored a film. Ugo Mariotti, a casting director on the film, spotted Donaggio on a Vaporetto on the Grand Canal in Venice, and believing it to be a \"sign\", contacted him to see if he would be interested in working on the film. Donaggio was reluctant at first because he did not understand why they would be interested in someone who had no experience of scoring films.</p><p>Donaggio had no interest in making soundtracks for films at the time, but was introduced to Nicolas Roeg who decided to try him out and asked him to write something for the beginning of the film. Roeg was enthusiastic about the result but the London-based producers were resistant to hiring someone who had no background in films. The film's financiers were pleased with Donaggio's work and overruled the producers. As well as composing the score, Donaggio performed a substantial portion of it himself. The piano pieces were performed by Donaggio, despite the fact that he was not very accomplished at playing the piano. The piano pieces are usually associated with Christine in the film, and Roeg wanted them to have an innocent sound reminiscent of a little girl learning to play the piano. Donaggio claims that since he was not very good at playing the piano, the pieces had an unsure style to them, perfect for the effect they were trying to capture.</p><p>The only disagreement over the musical direction of the film was for the score accompanying the love scene. Donaggio composed a grand orchestral piece, but Roeg thought the effect was overkill, and wanted it toned down. In the end the scene just used a combination of the piano, the flute, an acoustic guitar and an acoustic bass guitar. The piano was played by Donaggio again, who also played the flute; in contrast to his skill as a pianist, Donaggio was a renowned flautist, famous for it at the conservatory. Donaggio conceded that the more low-key theme worked better in the sequence and ditched the high strings orchestral piece, reworking it for the funeral scene at the end of the film.</p><p>Donaggio won a \"best soundtrack of the year\" award for his work on the film, which gave him the confidence to quit his successful singing career and embark on a career scoring films. Donaggio became a regular composer for Brian De Palma, and credits Nicolas Roeg with giving him his first lesson in writing film scores, and expressed a desire to work with him again. Donaggio's score later achieved newfound recognition for its inclusion in the fourth episode of HBO series Euphoria; music supervisor Jen Malone noted that the cues used were the most difficult to obtain out of all of the music used in the series.</p><br/><h3>Release</h3><h4>Sex scene controversy</h4><p>Don't Look Now has become famous for a sex scene involving Julie Christie and Donald Sutherland, which caused considerable controversy prior to its release in 1973. British tabloid newspaper, the Daily Mail, observed at the time \"one of the frankest love scenes ever to be filmed is likely to plunge lovely Julie Christie into the biggest censorship row since Last Tango in Paris\". The scene was unusually graphic for the period, including a rare depiction of cunnilingus in a mainstream film.</p><p>Christie commented that \"people didn't do scenes like that in those days\", and that she found the scenes difficult to film: \"There were no available examples, no role models ... I just went blank and Nic shouted instructions.\" The scene caused problems with censors on both sides of the Atlantic. The American censor advised Nicolas Roeg explicitly, saying, \"We cannot see humping. We cannot see the rise and fall between thighs.\" The scene's much celebrated fragmented style, in which scenes of the couple having sexual intercourse are intercut with scenes of the couple post-coitally getting dressed to go out to dinner, partly came about through Roeg's attempt to accommodate the concerns of the censors: \"They scrutinised it and found absolutely nothing they could object to. If someone goes up, you cut and the next time you see them they're in a different position, you obviously fill in the gaps for yourself. But, technically speaking, there was no 'humping' in that scene.\" In the end, Roeg only cut nine frames from the sequence, and the film was awarded an R rating in the United States. In Britain, the British Board of Film Classification judged the uncut version to be \"tasteful and integral to the plot\", and a scene in which Donald Sutherland's character can be clearly seen performing oral sex on Christie's character was permitted; it was given an X rating\u2014an adults only certificate.</p><p>The sex scene remained controversial for some years after the film's release. The BBC cut it altogether when Don't Look Now premiered on UK television, causing a flood of complaints from viewers. The intimacy of the scene led to rumours that Christie and Sutherland had unsimulated sex which have persisted for years, and that outtakes from the scene were doing the rounds in screening rooms. Michael Deeley, who oversaw the film's UK distribution, claimed on BBC Radio 4's Desert Island Discs that Warren Beatty had flown to London and demanded that the sex scene\u2014featuring then girlfriend Julie Christie\u2014be cut from the film. The rumours were seemingly confirmed in 2011 by former Variety editor Peter Bart, who was a Paramount executive at the time. In his book, Infamous Players: A Tale of Movies, the Mob, (and Sex), Bart says he was on set on the day the scene was filmed and could clearly see Sutherland's penis \"moving in and out of\" Christie. Bart also reiterated Warren Beatty's discontent, noting that Beatty had contacted him to complain about what he perceived to be Roeg's exploitation of Christie, and insisting that he be allowed to help edit the film. Sutherland subsequently issued a statement through his publicist stating that the claims were not true, and that Bart did not witness the scene being filmed. Peter Katz, the film's producer, corroborated Sutherland's account that the sex was entirely simulated.</p><h4>Theatrical releases</h4><p>Don't Look Now\u2014marketed as a \"psychic thriller\"\u2014was released in London's West End on 16 October 1973. It was released nationwide a few weeks later as the main feature of a double bill; The Wicker Man was its accompanying 'B' feature and\u2014like Don't Look Now\u2014went on to achieve great acclaim. The two films have thematic similarities, and both end with their protagonists being led to preordained fates by a 'child' they believe to be helping.</p><p>The film was among the top British titles at the UK box-office in 1974, second only to Confessions of a Window Cleaner, and ranking in the top twenty of the year overall. Michael Deeley, who was managing director of British Lion Films at the time of the film's release, claimed that the film's US reception was hurt by Paramount Pictures rushing the film into cinemas too early, due to the unexpected failure of Jonathan Livingston Seagull; despite its mismanaged distribution, Peter Bart\u2014from his time at Paramount\u2014recalls it performing \"fairly well\" at the box office. The film had recouped most of its expenses before it was even released, with its $1.1 million budget offset by the fee Paramount paid for the US distribution rights.</p><p>Don't Look Now was chosen by the British Film Institute in 2000 as one of eight classic films from those that had begun to deteriorate to undergo restoration. On completion of the restoration in 2001, the film was given another theatrical release.</p><h4>Home media</h4><p>Don't Look Now has been released on VHS, DVD and Blu-ray. Extras include an introduction by film journalist Alan Jones, an audio commentary by director Nicolas Roeg, a retrospective documentary featurette (\"Looking Back\"), an extract from a 1980s documentary about Roeg (\"Nothing is as it Seems\"), and interviews with Donald Sutherland, composer Pino Donaggio (\"Death in Venice\"), scriptwriter Allan Scott, cinematographer Anthony Richmond and film director Danny Boyle, as well as a \"compressed\" version of the film made by Boyle for a BAFTA tribute.</p><p>A new DVD and Blu-ray release with a 4K digital restoration was released in 2015 by The Criterion Collection. In addition to the \"Death in Venice\" and \"Looking Back\" featurettes which accompanied earlier editions, there is a conversation between editor Graeme Clifford and film writer Bobbie O\u2019Steen, an essay by film critic David Thomson and a Q&A with Roeg at London\u2019s Cin\u00e9 Lumi\u00e8re from 2003. Two new documentaries are also included: the first documentary, \"Something Interesting\", features interviews with Anthony Richmond, Donald Sutherland, Julie Christie and Allan Scott about the making of the film; the second, \"Nicolas Roeg: The Enigma of Film\", features interviews with Danny Boyle and fellow film-maker Steven Soderbergh discussing Roeg's cinematic style.</p><br/><h3>Reception</h3><h4>Critical response and awards</h4><p>At the time of its initial release, Don't Look Now was generally well received by critics, although some criticised it for being \"arty and mechanical\". Jay Cocks for Time, wrote that \"Don't Look Now is such a rich, complex and subtle experience that it demands more than one viewing\", while Variety commented that the film's visual flourishes made it \"much more than merely a well-made psycho-horror thriller\". Pauline Kael writing for The New Yorker was more reserved in her praise, considering the film to be \"the fanciest, most carefully assembled enigma yet put on the screen\" but that there was a \"distasteful clamminess about the picture\", while Gordon Gow of Films and Filming felt that it fell short of the aspirations of Nicolas Roeg's previous two films, Performance and Walkabout, but it was nevertheless a thriller of some depth. Vincent Canby, reviewer for The New York Times, on the other hand, criticised the film for a lack of suspense which he put down to a twist that comes halfway through rather than at the end, and at which point it \"stops being suspenseful and becomes an elegant travelogue that treats us to second-sightseeing in Venice\". Canby also suggested that second sight was not convincing on screen, since it appeared simply like flash-forward which is a standard story-telling device in films, and concluded that \"Not only do you probably have better things to do, but so, I'm sure, do most of the people connected with the film.\"</p><p>British critics were especially enthusiastic about Nicolas Roeg's direction. In the view of Tom Milne of Monthly Film Bulletin, Roeg's combined work on Performance, Walkabout and Don't Look Now put him \"right up at the top as film-maker\". George Melly similarly wrote in The Observer that Roeg had joined \"that handful of names whose appearance at the end of the credit titles automatically creates a sense of anticipation\". Penelope Houston for Sight & Sound also found much to appreciate in Roeg's direction: \"Roeg deploys subtle powers of direction and Hitchcockian misdirection.\" American critics were similarly impressed with Roeg's work on the film. Jay Cocks regarded Don't Look Now to be Roeg's best work by far and that Roeg was one of \"those rare talents that can effect a new way of seeing\". Cocks also felt that the film was a marked improvement on the novella, noting that a reading \"makes one appreciate Roeg and Screenwriters Scott and Bryant all the more. Film and story share certain basic elements of plot and an ending of cruel surprise. The story is detached, almost cursory. Roeg and his collaborators have constructed an intricate, intense speculation about levels of perception and reality.\" Roger Ebert in his review for the Chicago Sun-Times commented that Roeg is \"a genius at filling his frame with threatening forms and compositions\", while Pauline Kael labelled him \"chillingly chic\" in hers. Even Vincent Canby, whose opinion of the film was negative overall, praised Roeg for being able to \"maintain a sense of menace long after the screenplay has any right to expect it\".</p><p>Julie Christie and Donald Sutherland also received praise for their performances. Variety considered Sutherland to be at his most subdued but also at his most effective, while Christie does her \"best work in ages\". Cocks felt that thanks to their superb performances the film had a \"rigorous psychological truth and an emotional timbre\" that most other films in the supernatural genre lacked. Canby considered the \"sincerity of the actors\" to be one of the better aspects of the film, while Kael found Christie especially suited to the part, observing she has the \"anxious face of a modern tragic muse\".</p><p>Roeg's use of Venice was praised too, with Roger Ebert finding that he \"uses Venice as well as she's ever been used in a movie\", and Canby also noted Venice is used to great effect: \"He gets a great performance from Venice, which is all wintery grays, blues and blacks, the color of the pigeons that are always underfoot.\" Variety also found much to admire about the editing, writing that it is \"careful and painstaking (the classically brilliant and erotic love-making scene is merely one of several examples) and plays a vital role in setting the film's mood\".</p><p>Daphne du Maurier was pleased with the adaptation of her story, and wrote to Nicolas Roeg to congratulate him for capturing the essence of John and Laura's relationship. The film was not received well by Venetians, particularly the councillors who were afraid it would scare away tourists.</p><p>At the 27th British Academy Film Awards, Anthony B. Richmond won for Best Cinematography, and Don't Look Now received further nominations in the Best Film, Direction, Actor, Actress, Sound Track and Film Editing categories. It was also nominated in the Best Motion Picture category at the 1974 Edgar Allan Poe Awards.</p><h4>Re-evaluation</h4><p>The reputation of Don't Look Now has grown since its release and it is now regarded as a key work in horror cinema. It has led to some critics re-evaluating their original opinions of it: Roger Ebert, nearly thirty years after his original review, stated that he had come to an \"accommodation\" with his reservations about what he termed the \"admitted weakness of the denouement\". Having gone through the film shot by shot, he came to the conclusion it is a \"masterpiece of physical filmmaking, in the way the photography evokes mood and the editing underlines it with uncertainty\". It was ranked 127th by Sight & Sound in the 2012 edition of their decennial critics poll.</p><p>Don't Look Now is also very well regarded by other industry professionals, placing in the top 100 on Sight & Sound's directors poll, run in tandem with their critics poll. A survey of 1000 people who work across the film and television industry, undertaken by the British Film Institute in 1999, saw the film ranked eighth on their list of top 100 British films of the 20th century. It also topped a similar list organised by Time Out London in 2011, in which 150 film industry professionals were polled. In 2012 Time Out also undertook a poll of the horror industry, in which more than 100 professionals who work within or have connections to the genre selected their favourite horror films, which saw Don't Look Now finish in twelfth position.</p><h4>Influence</h4><p>Ryan Murphy on Don't Look Now.</p><p>Don't Look Now has been much admired by and an influence on subsequent filmmakers. Danny Boyle cites Nicolas Roeg as a key influence on his work and counts it amongst his favourite films, considering it to be \"one of the masterpieces of the last century\". Mark Gatiss, Steve Pemberton, Reece Shearsmith, and Jeremy Dyson drew upon Don't Look Now considerably for their television series The League of Gentlemen; Pemberton ranks it among the top three British horror films of the 1960s and 1970s, and says that he wants things he has written to make audiences feel the way he felt when he watched The Wicker Man and Don't Look Now. Similarly, Ryan Murphy considers his TV series American Horror Story to be a throwback to '60s and '70s psychological horror, citing Don't Look Now, Rosemary's Baby and The Shining as particular examples. Thematic and narrative similarities with Lars von Trier's Antichrist have also been observed, with Antichrist's cinematographer, Anthony Dod Mantle, commenting that he has watched Don't Look Now more times than any other film. Fabrice Du Welz, whose film Vinyan has often been compared to Don't Look Now, has stated that it is a film he is \"obsessed with\", and one of his favourites, while Lynne Ramsay cited it as an influence on We Need to Talk about Kevin, which incidentally is also produced by Roeg's son, Luc. Ami Canaan Mann has also acknowledged she was influenced by atmospheric thrillers such as Picnic at Hanging Rock and Don't Look Now while directing her debut feature, Texas Killing Fields, and Ari Aster acknowledged that it was a key influence on Hereditary.</p><p>Its imagery has been directly referenced in several works. The 2006 James Bond film, Casino Royale contains a small homage where James Bond pursues a female character through Venice, catching glimpses of her through the crowds wearing a red dress. The Bruges set thriller, In Bruges, starring Colin Farrell, includes a number of explicit references; director Martin McDonagh said that the \"Venice of Don't Look Now\" was the template for the depiction of Bruges in his film, and the film includes numerous thematic similarities, including one character stating that the film she is working on is a \"pastiche of Don't Look Now\". Flatliners, a 1990 supernatural thriller directed by Joel Schumacher, also draws explicitly on the red-coated childlike figure by having a character terrorised by a child wearing a red coat; coincidentally, the character who is being tormented is played by Kiefer Sutherland, Donald Sutherland's son. In the 2007 stage play of Don't Look Now, written by Nell Leyshon and directed by Lucy Bailey, the play made a conscious effort to bypass the film and be a faithful adaptation of du Maurier's short story, but it did however retain the iconic red mac from the film as worn by the elusive childlike figure.</p><p>Its influence is less obvious but still apparent in Out of Sight, a 1998 film directed by Steven Soderbergh. The famous intercutting technique used in the sex scene was used to similar effect in a sex scene featuring George Clooney and Jennifer Lopez. The film's imagery and stylistic techniques have served as an inspiration to films such as Schindler's List directed by Steven Spielberg, Memento by Christopher Nolan, The Dark by John Fawcett, Frozen by Juliet McKoen, Submarine by Richard Ayoade, and Snow White and the Huntsman by Rupert Sanders. David Cronenberg regards it as the most frightening film he has seen, and its influence has been detected on Cronenberg's The Brood.</p><p>Nicolas Roeg has never been slow to draw upon the world of pop music for his work, casting Mick Jagger in Performance, David Bowie in The Man Who Fell to Earth and Art Garfunkel in Bad Timing, and in turn his films have served as inspiration for musicians. Big Audio Dynamite wrote a tribute song to Roeg, called \"E=MC2\", which included lyrical references to Don't Look Now\u2014among Roeg's other films\u2014along with clips from it in the video, directed by Luc Roeg, while Sophie Ellis-Bextor performed a \"pop synth homage\" to Don't Look Now with her song, \"Catch You\", and portions of the film were sampled in the M83 song \"America\".</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0069995",
+        "title": "Don't Look Now",
+        "fullTitle": "Don't Look Now (1973)",
+        "type": "Movie",
+        "year": "1973",
+        "posters": [
+            {
+                "id": "D79EoaAArwb0oKDhBDH1FLFKTv.jpg",
+                "link": "https://imdb-api.com/posters/original/D79EoaAArwb0oKDhBDH1FLFKTv.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "htGXlvnKqXz12E5yBS99VJFJJXs.jpg",
+                "link": "https://imdb-api.com/posters/original/htGXlvnKqXz12E5yBS99VJFJJXs.jpg",
+                "aspectRatio": 0.6668421052631579,
+                "language": "en",
+                "width": 1267,
+                "height": 1900
+            },
+            {
+                "id": "vqaKQUXeM1uiOjz9DgmgeRmyQbV.jpg",
+                "link": "https://imdb-api.com/posters/original/vqaKQUXeM1uiOjz9DgmgeRmyQbV.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "vdt5DgRsXcoO5Fd7WkXY1bzLveO.jpg",
+                "link": "https://imdb-api.com/posters/original/vdt5DgRsXcoO5Fd7WkXY1bzLveO.jpg",
+                "aspectRatio": 0.7070707070707071,
+                "language": "en",
+                "width": 700,
+                "height": 990
+            }
+        ],
+        "backdors": [
+            {
+                "id": "gGnJRJHKfk0QtSH8KIMzCxHmuHM.jpg",
+                "link": "https://imdb-api.com/posters/original/gGnJRJHKfk0QtSH8KIMzCxHmuHM.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "447fZmCaaLnByJqBC7NeUkiYrIH.jpg",
+                "link": "https://imdb-api.com/posters/original/447fZmCaaLnByJqBC7NeUkiYrIH.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8VYvVhsHMMNTGaJGHX4yPkHfeKY.jpg",
+                "link": "https://imdb-api.com/posters/original/8VYvVhsHMMNTGaJGHX4yPkHfeKY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "ncR3qobdIDYEAI1DqKmJQbHE8YA.jpg",
+                "link": "https://imdb-api.com/posters/original/ncR3qobdIDYEAI1DqKmJQbHE8YA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0069995",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt0069995",
+        "title": "Don't Look Now",
+        "fullTitle": "Don't Look Now (1973)",
+        "type": "Movie",
+        "year": "1973",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "$1,500,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$108,000"
+    },
+    "tagline": "A psychic thriller.",
+    "keywords": "sex scene,female frontal nudity,dwarf,italy,slow motion scene",
+    "keywordList": [
+        "sex scene",
+        "female frontal nudity",
+        "dwarf",
+        "italy",
+        "slow motion scene"
+    ],
+    "similars": [
+        {
+            "id": "tt0067959",
+            "title": "Walkabout",
+            "fullTitle": "Walkabout (1971)",
+            "year": "1971",
+            "image": "https://imdb-api.com/images/original/MV5BMzI1ZjA3ZDAtYmQ4My00MzZhLWJmYjMtMzc5M2FlMDk2YzExXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two city-bred siblings are stranded in the Australian Outback, where they learn to survive with the aid of an Aboriginal boy on his \"walkabout\": a ritual separation from his tribe.",
+            "directors": "Nicolas Roeg",
+            "stars": "Jenny Agutter, David Gulpilil, Luc Roeg",
+            "genres": "Certificate: GP Adventure, Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0053459",
+            "title": "Eyes Without a Face",
+            "fullTitle": "Eyes Without a Face (1960)",
+            "year": "1960",
+            "image": "https://imdb-api.com/images/original/MV5BNTU4MDRmOGQtZjM3MS00NTNhLTk3NzYtYjEyZmM4ODNhM2Q1XkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A surgeon causes an accident which leaves his daughter disfigured, and goes to extremes to give her a new face.",
+            "directors": "Georges Franju",
+            "stars": "Pierre Brasseur, Alida Valli, Juliette Mayniel",
+            "genres": "Drama, Horror",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0070917",
+            "title": "The Wicker Man",
+            "fullTitle": "The Wicker Man (1973)",
+            "year": "1973",
+            "image": "https://imdb-api.com/images/original/MV5BOWIzY2QyNDQtOWI3Ni00MjEwLTlhYTgtZTgyMThiY2JkMTY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A puritan Police Sergeant is sent to a Scottish island village in search of a missing girl who the townsfolk claim never existed; stranger still are the pagan rites that take place there.",
+            "directors": "Robin Hardy",
+            "stars": "Edward Woodward, Christopher Lee, Diane Cilento",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0054167",
+            "title": "Peeping Tom",
+            "fullTitle": "Peeping Tom (1960)",
+            "year": "1960",
+            "image": "https://imdb-api.com/images/original/MV5BZjM3ZTAzZDYtZmFjZS00YmQ1LWJlOWEtN2I4MDRmYzY5YmRlL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young man murders women, using a movie camera to film their dying expressions of terror.",
+            "directors": "Michael Powell",
+            "stars": "Karlheinz B\u00f6hm, Anna Massey, Moira Shearer",
+            "genres": "Drama, Horror, Thriller",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0080408",
+            "title": "Bad Timing",
+            "fullTitle": "Bad Timing (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BZmE1OTY0YjEtYTIwMS00YTJlLTk5NzMtYzZjOTk2NmIwM2UxXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A psychiatrist, living in Vienna, enters a torrid relationship with a married woman. When she ends up in the hospital from an overdose, an inspector becomes set on discovering the demise of their affair.",
+            "directors": "Nicolas Roeg",
+            "stars": "Art Garfunkel, Theresa Russell, Harvey Keitel",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt0055018",
+            "title": "The Innocents",
+            "fullTitle": "The Innocents (1961)",
+            "year": "1961",
+            "image": "https://imdb-api.com/images/original/MV5BNGQyNjBjNTUtNTM1OS00YzcyLWFhNTgtNTU0MDg3NzBlMDQzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A young governess for two children becomes convinced that the house and grounds are haunted.",
+            "directors": "Jack Clayton",
+            "stars": "Deborah Kerr, Peter Wyngarde, Megs Jenkins",
+            "genres": "Horror",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0074851",
+            "title": "The Man Who Fell to Earth",
+            "fullTitle": "The Man Who Fell to Earth (1976)",
+            "year": "1976",
+            "image": "https://imdb-api.com/images/original/MV5BOTVhM2JhZDAtYWMwMS00NjE5LWI5ZTEtNDQxZmIxMzIxYzVlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An alien must pose as a human to save his dying planet, but a woman and greed of other men create complications.",
+            "directors": "Nicolas Roeg",
+            "stars": "David Bowie, Rip Torn, Candy Clark",
+            "genres": "Drama, Sci-Fi",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt0059646",
+            "title": "Repulsion",
+            "fullTitle": "Repulsion (1965)",
+            "year": "1965",
+            "image": "https://imdb-api.com/images/original/MV5BZTU5ZThjNzAtNjc4NC00OTViLWIxYTYtODFmMTk5Y2NjZjZiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A sex-repulsed woman who disapproves of her sister's boyfriend sinks into depression and has horrific visions of rape and violence.",
+            "directors": "Roman Polanski",
+            "stars": "Catherine Deneuve, Ian Hendry, John Fraser",
+            "genres": "Drama, Horror, Thriller",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0076786",
+            "title": "Suspiria",
+            "fullTitle": "Suspiria (1977)",
+            "year": "1977",
+            "image": "https://imdb-api.com/images/original/MV5BMjRiYTNjODctNGU1Ni00NDg3LTk0NGUtMWU0NjgyZTAyYmNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+            "directors": "Dario Argento",
+            "stars": "Jessica Harper, Stefania Casini, Flavio Bucci",
+            "genres": "Horror",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0066214",
+            "title": "Performance",
+            "fullTitle": "Performance (1970)",
+            "year": "1970",
+            "image": "https://imdb-api.com/images/original/MV5BODBlMGU1ZjItYTY1NS00MjY4LWJlYWUtNTkxOGE3ZWE5NDYxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A violent gangster seeks refuge from the mob in the Bohemian home of a former rock star.",
+            "directors": "Directors: Donald Cammell, Nicolas Roeg",
+            "stars": "James Fox, Mick Jagger, Anita Pallenberg",
+            "genres": "Crime, Drama",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt0076162",
+            "title": "House",
+            "fullTitle": "House (1977)",
+            "year": "1977",
+            "image": "https://imdb-api.com/images/original/MV5BZGI4OThmNmYtODU5My00MDFhLThhMGQtYWI4ZmQ2YjcxYTA1XkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_Ratio0.7684_AL_.jpg",
+            "plot": "A schoolgirl and six of her classmates travel to her aunt's country home, which turns out to be haunted.",
+            "directors": "Nobuhiko \u00d4bayashi",
+            "stars": "Kimiko Ikegami, Miki Jinbo, Kumiko Ohba",
+            "genres": "Comedy, Horror",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0073540",
+            "title": "Picnic at Hanging Rock",
+            "fullTitle": "Picnic at Hanging Rock (1975)",
+            "year": "1975",
+            "image": "https://imdb-api.com/images/original/MV5BNzk4NTljZDEtNDk0Ny00ODkxLWExMzItODVlODc4MDUxN2JkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "During a rural summer picnic, a few students and a teacher from an Australian girls' school vanish without a trace. Their absence frustrates and haunts the people left behind.",
+            "directors": "Peter Weir",
+            "stars": "Rachel Roberts, Anne-Louise Lambert, Vivean Gray",
+            "genres": "Drama, Mystery",
+            "imDbRating": "7.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

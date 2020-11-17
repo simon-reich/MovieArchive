@@ -1,0 +1,1586 @@
+{
+    "id": "tt1555069",
+    "title": "Mary Queen of Scots",
+    "originalTitle": "",
+    "fullTitle": "Mary Queen of Scots (2013)",
+    "type": "Movie",
+    "year": "2013",
+    "image": "https://imdb-api.com/images/original/MV5BNDdiNTJjZDAtYzM1YS00MmY0LWI1YjUtZGIzZDgxOTIxMzlmXkEyXkFqcGdeQXVyMjk0MDkwMjQ@._V1_Ratio0.7015_AL_.jpg",
+    "releaseDate": "2014-11-12",
+    "runtimeMins": "119",
+    "runtimeStr": "1h 59mins",
+    "plot": "A queen who lost three kingdoms. A wife who lost three husbands. A woman who lost her head.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "3 nominations.",
+    "directors": "Thomas Imbach",
+    "directorList": [
+        {
+            "id": "nm0408101",
+            "name": "Thomas Imbach"
+        }
+    ],
+    "writers": "Thomas Imbach, Stefan Zweig, Andrea Staka, Eduard Habsburg",
+    "writerList": [
+        {
+            "id": "nm0408101",
+            "name": "Thomas Imbach"
+        },
+        {
+            "id": "nm0959003",
+            "name": "Stefan Zweig"
+        },
+        {
+            "id": "nm0821620",
+            "name": "Andrea Staka"
+        },
+        {
+            "id": "nm1823355",
+            "name": "Eduard Habsburg"
+        }
+    ],
+    "stars": "Camille Rutherford, Mehdi Dehbi, Sean Biggerstaff, Aneurin Barnard",
+    "starList": [
+        {
+            "id": "nm4166709",
+            "name": "Camille Rutherford"
+        },
+        {
+            "id": "nm1304635",
+            "name": "Mehdi Dehbi"
+        },
+        {
+            "id": "nm0081801",
+            "name": "Sean Biggerstaff"
+        },
+        {
+            "id": "nm2902567",
+            "name": "Aneurin Barnard"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm4166709",
+            "image": "https://imdb-api.com/images/original/MV5BMzA4MTczOTU4Ml5BMl5BanBnXkFtZTgwOTA3NTA0NzE@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Camille Rutherford",
+            "asCharacter": "Mary"
+        },
+        {
+            "id": "nm1304635",
+            "image": "https://imdb-api.com/images/original/MV5BNzlkZDc2OGYtMDE1ZC00NmUwLThkMzUtOGNkY2IyNjJmOThhXkEyXkFqcGdeQXVyODQ4Mjc0Mjg@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Mehdi Dehbi",
+            "asCharacter": "David Riccio"
+        },
+        {
+            "id": "nm0081801",
+            "image": "https://imdb-api.com/images/original/MV5BMTIwNjI1NzM4OF5BMl5BanBnXkFtZTYwMTU1NTY2._V1_Ratio1.2273_AL_.jpg",
+            "name": "Sean Biggerstaff",
+            "asCharacter": "Bothwell"
+        },
+        {
+            "id": "nm2902567",
+            "image": "https://imdb-api.com/images/original/MV5BZTdiMTRmOGEtOTRmOC00Y2RjLWI5MTUtOTc2NThhYjhiN2Y0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Aneurin Barnard",
+            "asCharacter": "Darnley"
+        },
+        {
+            "id": "nm1296102",
+            "image": "https://imdb-api.com/images/original/MV5BZGRiOThlYzAtMmFiYi00YTQ4LTg5NTAtZmJhZTgwOGMzNjlmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Edward Hogg",
+            "asCharacter": "Moray"
+        },
+        {
+            "id": "nm0192889",
+            "image": "https://imdb-api.com/images/original/MV5BMmQzYjNjNDEtOTg2YS00YWMyLTg5MTQtNWYzYmYwOWM0MWQ2XkEyXkFqcGdeQXVyMzA4NDA5NTg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tony Curran",
+            "asCharacter": "John Knox"
+        },
+        {
+            "id": "nm0282982",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fran\u00e7ois Florey",
+            "asCharacter": "French Nobleman"
+        },
+        {
+            "id": "nm0865333",
+            "image": "https://imdb-api.com/images/original/MV5BMzUzNjI5OTY1MV5BMl5BanBnXkFtZTcwODI4Njg4OA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Bruno Todeschini",
+            "asCharacter": "De Croc"
+        },
+        {
+            "id": "nm1301770",
+            "image": "https://imdb-api.com/images/original/MV5BMjgzNTIzY2MtYzM1OS00YTIyLTgxM2QtZDQyZTkzMTc4ZmZiL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Joana Preiss",
+            "asCharacter": "Marie de Guise"
+        },
+        {
+            "id": "nm6932035",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vittoria Turelli",
+            "asCharacter": "Young Mary Seton"
+        },
+        {
+            "id": "nm6932036",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lana Brasileiro",
+            "asCharacter": "Young Mary Livingstone"
+        },
+        {
+            "id": "nm3646923",
+            "image": "https://imdb-api.com/images/original/MV5BYjUzYjk5OWMtNjYwZC00MmUzLWIyMmMtODY0ZGYwZmFlZTdiXkEyXkFqcGdeQXVyNTI0MTczMzA@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Roxane Duran",
+            "asCharacter": "Mary Seton"
+        },
+        {
+            "id": "nm6932037",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ornella Turelli",
+            "asCharacter": "Young Mary Fleming"
+        },
+        {
+            "id": "nm4719349",
+            "image": "https://imdb-api.com/images/original/MV5BM2Y0OTI2MmQtNjEzZi00MjQ5LTk4NjktN2I1YjQwZWUxZjk2XkEyXkFqcGdeQXVyMjg4MTYzMDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gaia Weiss",
+            "asCharacter": "Mary Fleming"
+        },
+        {
+            "id": "nm6932038",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Thilane Bifrare",
+            "asCharacter": "Young Mary Beaton"
+        },
+        {
+            "id": "nm4266988",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Zo\u00e9 Schellenberg",
+            "asCharacter": "Mary Beaton"
+        },
+        {
+            "id": "nm3426620",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "P\u00e9n\u00e9lope L\u00e9v\u00eaque",
+            "asCharacter": "Mary Livingstone"
+        },
+        {
+            "id": "nm6932039",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sebastian Stragiotti-Axanciuc",
+            "asCharacter": "Young Fran\u00e7ois II"
+        },
+        {
+            "id": "nm0751085",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5MDY2NDI3OF5BMl5BanBnXkFtZTcwMzcyOTgxOA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Clive Russell",
+            "asCharacter": "Douglas"
+        },
+        {
+            "id": "nm0360171",
+            "image": "https://imdb-api.com/images/original/MV5BYmMzZmVkMTItNmY3Yy00MDU2LThmNTctOWJmYTNhMThhNTRlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Ian Hanmore",
+            "asCharacter": "Ruthven"
+        },
+        {
+            "id": "nm6932033",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Martyn Jaques",
+            "asCharacter": "Narrator (voice)"
+        },
+        {
+            "id": "nm3082750",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sylvain Levitte",
+            "asCharacter": "Fran\u00e7ois II"
+        },
+        {
+            "id": "nm0251503",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stephan Eicher",
+            "asCharacter": "Henry II"
+        },
+        {
+            "id": "nm3071112",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alain Zaepffel",
+            "asCharacter": "Cardinal"
+        },
+        {
+            "id": "nm1772637",
+            "image": "https://imdb-api.com/images/original/MV5BMjA3NTg3MTE5Ml5BMl5BanBnXkFtZTgwODU1ODMyNDM@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Hassam Ghancy",
+            "asCharacter": "Henry II (voice)"
+        },
+        {
+            "id": "nm0371190",
+            "image": "https://imdb-api.com/images/original/MV5BZjEwMDFkZWEtYzYyZi00MzAyLTgyZjMtMmIxMTViOTE0NmRlXkEyXkFqcGdeQXVyMzI4MDk2NzM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Philip Maurice Hayes",
+            "asCharacter": "English Ambassador (as Phil Hayes)"
+        },
+        {
+            "id": "nm3466571",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lukas Kubik",
+            "asCharacter": "Fianc\u00e9 Lord"
+        },
+        {
+            "id": "nm1268532",
+            "image": "https://imdb-api.com/images/original/MV5BODJjMTRhYTMtNzQ1Zi00NGRmLTk2ZDYtOGVlNWUwNTg3MTgzXkEyXkFqcGdeQXVyMjAxNzYwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ralph Gassmann",
+            "asCharacter": "English Envoy"
+        },
+        {
+            "id": "nm0658424",
+            "image": "https://imdb-api.com/images/original/MV5BNGMxM2FlNjItYWQyNC00MjE1LTliZmUtMDRkMDRhM2NlOTY2XkEyXkFqcGdeQXVyMjExMjIzODQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rebecca Palmer",
+            "asCharacter": "Countess Argyll"
+        },
+        {
+            "id": "nm1229526",
+            "image": "https://imdb-api.com/images/original/MV5BMTA5NzQ1MGYtNDQwZS00ZjIxLTg1ZmEtMzQzOTMzMDFjZWQ3XkEyXkFqcGdeQXVyNDQyMDIwMzI@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Ryan Fletcher",
+            "asCharacter": "Farmer"
+        },
+        {
+            "id": "nm6932034",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anais Tinguely",
+            "asCharacter": "Young Mary"
+        },
+        {
+            "id": "nm0855711",
+            "image": "https://imdb-api.com/images/original/MV5BYTJlZjJjOTgtYmVlMy00YjExLWFkOTgtMzM1NTE5YTgyNjc3XkEyXkFqcGdeQXVyNDE4MDU5OTE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Siegfried Terpoorten",
+            "asCharacter": "Lord"
+        },
+        {
+            "id": "nm6932040",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniel Hunziker",
+            "asCharacter": "Lord"
+        },
+        {
+            "id": "nm4724109",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Olivier Fabrice Falconnier",
+            "asCharacter": "Lord"
+        },
+        {
+            "id": "nm2275435",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3NjM0MTMzN15BMl5BanBnXkFtZTgwNzA0NTUwOTE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Florian Nussbaumer",
+            "asCharacter": "Lord"
+        },
+        {
+            "id": "nm0675919",
+            "image": "https://imdb-api.com/images/original/MV5BODc2NTUyOTUyMl5BMl5BanBnXkFtZTcwNzc1NzUyNQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Milan Peschel",
+            "asCharacter": "Lord"
+        },
+        {
+            "id": "nm6932041",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Docherty",
+            "asCharacter": "Lord"
+        },
+        {
+            "id": "nm6932042",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tuna Oez",
+            "asCharacter": "Lord"
+        },
+        {
+            "id": "nm6932043",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrizia Stotz",
+            "asCharacter": "Knox's Wife"
+        },
+        {
+            "id": "nm0236054",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anne Downie",
+            "asCharacter": "Scottish Farmer (voice)"
+        },
+        {
+            "id": "nm6932044",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Scott Fletcher",
+            "asCharacter": "Scottish Boy (voice)"
+        },
+        {
+            "id": "nm0361618",
+            "image": "https://imdb-api.com/images/original/MV5BMjIyNDI1ODg3N15BMl5BanBnXkFtZTgwNDY2OTY5OTE@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Udo Happel",
+            "asCharacter": "Headsman"
+        },
+        {
+            "id": "nm5487609",
+            "image": "https://imdb-api.com/images/original/MV5BZjkyNzNkNTAtNjA3Yi00MDA0LWJiNzctN2JhMDBjZjZhNmYyXkEyXkFqcGdeQXVyNDY5MTYyNTQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Diana Meierhans",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2594821",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Raphael Toel",
+            "asCharacter": "Scottish Boy"
+        },
+        {
+            "id": "nm4722435",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marine van den Broek",
+            "asCharacter": "Farmer"
+        },
+        {
+            "id": "nm4774362",
+            "image": "https://imdb-api.com/images/original/MV5BYjBkMDI1NTEtMWQyZC00ZmQ4LWE0N2UtYmViNDUwMDA3OTZhXkEyXkFqcGdeQXVyMjk0MDkwMjQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Elo Cinquanta",
+            "asCharacter": "Noble English Lady (uncredited)"
+        },
+        {
+            "id": "nm5326801",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jason Grangier",
+            "asCharacter": "Servant (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt1555069",
+        "title": "Mary Queen of Scots",
+        "fullTitle": "Mary Queen of Scots (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0408101",
+                    "name": "Thomas Imbach",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0408101",
+                    "name": "Thomas Imbach",
+                    "description": "(written by) and"
+                },
+                {
+                    "id": "nm0959003",
+                    "name": "Stefan Zweig",
+                    "description": "(novel) &"
+                },
+                {
+                    "id": "nm0821620",
+                    "name": "Andrea Staka",
+                    "description": "(written by)"
+                },
+                {
+                    "id": "nm1823355",
+                    "name": "Eduard Habsburg",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm4166709",
+                "image": "https://imdb-api.com/images/original/MV5BMzA4MTczOTU4Ml5BMl5BanBnXkFtZTgwOTA3NTA0NzE@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Camille Rutherford",
+                "asCharacter": "Mary"
+            },
+            {
+                "id": "nm1304635",
+                "image": "https://imdb-api.com/images/original/MV5BNzlkZDc2OGYtMDE1ZC00NmUwLThkMzUtOGNkY2IyNjJmOThhXkEyXkFqcGdeQXVyODQ4Mjc0Mjg@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Mehdi Dehbi",
+                "asCharacter": "David Riccio"
+            },
+            {
+                "id": "nm0081801",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwNjI1NzM4OF5BMl5BanBnXkFtZTYwMTU1NTY2._V1_Ratio1.2273_AL_.jpg",
+                "name": "Sean Biggerstaff",
+                "asCharacter": "Bothwell"
+            },
+            {
+                "id": "nm2902567",
+                "image": "https://imdb-api.com/images/original/MV5BZTdiMTRmOGEtOTRmOC00Y2RjLWI5MTUtOTc2NThhYjhiN2Y0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Aneurin Barnard",
+                "asCharacter": "Darnley"
+            },
+            {
+                "id": "nm1296102",
+                "image": "https://imdb-api.com/images/original/MV5BZGRiOThlYzAtMmFiYi00YTQ4LTg5NTAtZmJhZTgwOGMzNjlmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Edward Hogg",
+                "asCharacter": "Moray"
+            },
+            {
+                "id": "nm0192889",
+                "image": "https://imdb-api.com/images/original/MV5BMmQzYjNjNDEtOTg2YS00YWMyLTg5MTQtNWYzYmYwOWM0MWQ2XkEyXkFqcGdeQXVyMzA4NDA5NTg@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Tony Curran",
+                "asCharacter": "John Knox"
+            },
+            {
+                "id": "nm0282982",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Fran\u00e7ois Florey",
+                "asCharacter": "French Nobleman"
+            },
+            {
+                "id": "nm0865333",
+                "image": "https://imdb-api.com/images/original/MV5BMzUzNjI5OTY1MV5BMl5BanBnXkFtZTcwODI4Njg4OA@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Bruno Todeschini",
+                "asCharacter": "De Croc"
+            },
+            {
+                "id": "nm1301770",
+                "image": "https://imdb-api.com/images/original/MV5BMjgzNTIzY2MtYzM1OS00YTIyLTgxM2QtZDQyZTkzMTc4ZmZiL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Joana Preiss",
+                "asCharacter": "Marie de Guise"
+            },
+            {
+                "id": "nm6932035",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Vittoria Turelli",
+                "asCharacter": "Young Mary Seton"
+            },
+            {
+                "id": "nm6932036",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lana Brasileiro",
+                "asCharacter": "Young Mary Livingstone"
+            },
+            {
+                "id": "nm3646923",
+                "image": "https://imdb-api.com/images/original/MV5BYjUzYjk5OWMtNjYwZC00MmUzLWIyMmMtODY0ZGYwZmFlZTdiXkEyXkFqcGdeQXVyNTI0MTczMzA@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Roxane Duran",
+                "asCharacter": "Mary Seton"
+            },
+            {
+                "id": "nm6932037",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ornella Turelli",
+                "asCharacter": "Young Mary Fleming"
+            },
+            {
+                "id": "nm4719349",
+                "image": "https://imdb-api.com/images/original/MV5BM2Y0OTI2MmQtNjEzZi00MjQ5LTk4NjktN2I1YjQwZWUxZjk2XkEyXkFqcGdeQXVyMjg4MTYzMDg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Gaia Weiss",
+                "asCharacter": "Mary Fleming"
+            },
+            {
+                "id": "nm6932038",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Thilane Bifrare",
+                "asCharacter": "Young Mary Beaton"
+            },
+            {
+                "id": "nm4266988",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Zo\u00e9 Schellenberg",
+                "asCharacter": "Mary Beaton"
+            },
+            {
+                "id": "nm3426620",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "P\u00e9n\u00e9lope L\u00e9v\u00eaque",
+                "asCharacter": "Mary Livingstone"
+            },
+            {
+                "id": "nm6932039",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sebastian Stragiotti-Axanciuc",
+                "asCharacter": "Young Fran\u00e7ois II"
+            },
+            {
+                "id": "nm0751085",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5MDY2NDI3OF5BMl5BanBnXkFtZTcwMzcyOTgxOA@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Clive Russell",
+                "asCharacter": "Douglas"
+            },
+            {
+                "id": "nm0360171",
+                "image": "https://imdb-api.com/images/original/MV5BYmMzZmVkMTItNmY3Yy00MDU2LThmNTctOWJmYTNhMThhNTRlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Ian Hanmore",
+                "asCharacter": "Ruthven"
+            },
+            {
+                "id": "nm6932033",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Martyn Jaques",
+                "asCharacter": "Narrator (voice)"
+            },
+            {
+                "id": "nm3082750",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sylvain Levitte",
+                "asCharacter": "Fran\u00e7ois II"
+            },
+            {
+                "id": "nm0251503",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Stephan Eicher",
+                "asCharacter": "Henry II"
+            },
+            {
+                "id": "nm3071112",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alain Zaepffel",
+                "asCharacter": "Cardinal"
+            },
+            {
+                "id": "nm1772637",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3NTg3MTE5Ml5BMl5BanBnXkFtZTgwODU1ODMyNDM@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Hassam Ghancy",
+                "asCharacter": "Henry II (voice)"
+            },
+            {
+                "id": "nm0371190",
+                "image": "https://imdb-api.com/images/original/MV5BZjEwMDFkZWEtYzYyZi00MzAyLTgyZjMtMmIxMTViOTE0NmRlXkEyXkFqcGdeQXVyMzI4MDk2NzM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Philip Maurice Hayes",
+                "asCharacter": "English Ambassador (as Phil Hayes)"
+            },
+            {
+                "id": "nm3466571",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lukas Kubik",
+                "asCharacter": "Fianc\u00e9 Lord"
+            },
+            {
+                "id": "nm1268532",
+                "image": "https://imdb-api.com/images/original/MV5BODJjMTRhYTMtNzQ1Zi00NGRmLTk2ZDYtOGVlNWUwNTg3MTgzXkEyXkFqcGdeQXVyMjAxNzYwOA@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Ralph Gassmann",
+                "asCharacter": "English Envoy"
+            },
+            {
+                "id": "nm0658424",
+                "image": "https://imdb-api.com/images/original/MV5BNGMxM2FlNjItYWQyNC00MjE1LTliZmUtMDRkMDRhM2NlOTY2XkEyXkFqcGdeQXVyMjExMjIzODQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Rebecca Palmer",
+                "asCharacter": "Countess Argyll"
+            },
+            {
+                "id": "nm1229526",
+                "image": "https://imdb-api.com/images/original/MV5BMTA5NzQ1MGYtNDQwZS00ZjIxLTg1ZmEtMzQzOTMzMDFjZWQ3XkEyXkFqcGdeQXVyNDQyMDIwMzI@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Ryan Fletcher",
+                "asCharacter": "Farmer"
+            },
+            {
+                "id": "nm6932034",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anais Tinguely",
+                "asCharacter": "Young Mary"
+            },
+            {
+                "id": "nm0855711",
+                "image": "https://imdb-api.com/images/original/MV5BYTJlZjJjOTgtYmVlMy00YjExLWFkOTgtMzM1NTE5YTgyNjc3XkEyXkFqcGdeQXVyNDE4MDU5OTE@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Siegfried Terpoorten",
+                "asCharacter": "Lord"
+            },
+            {
+                "id": "nm6932040",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Daniel Hunziker",
+                "asCharacter": "Lord"
+            },
+            {
+                "id": "nm4724109",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Olivier Fabrice Falconnier",
+                "asCharacter": "Lord"
+            },
+            {
+                "id": "nm2275435",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3NjM0MTMzN15BMl5BanBnXkFtZTgwNzA0NTUwOTE@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Florian Nussbaumer",
+                "asCharacter": "Lord"
+            },
+            {
+                "id": "nm0675919",
+                "image": "https://imdb-api.com/images/original/MV5BODc2NTUyOTUyMl5BMl5BanBnXkFtZTcwNzc1NzUyNQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Milan Peschel",
+                "asCharacter": "Lord"
+            },
+            {
+                "id": "nm6932041",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "David Docherty",
+                "asCharacter": "Lord"
+            },
+            {
+                "id": "nm6932042",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tuna Oez",
+                "asCharacter": "Lord"
+            },
+            {
+                "id": "nm6932043",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Patrizia Stotz",
+                "asCharacter": "Knox's Wife"
+            },
+            {
+                "id": "nm0236054",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anne Downie",
+                "asCharacter": "Scottish Farmer (voice)"
+            },
+            {
+                "id": "nm6932044",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Scott Fletcher",
+                "asCharacter": "Scottish Boy (voice)"
+            },
+            {
+                "id": "nm0361618",
+                "image": "https://imdb-api.com/images/original/MV5BMjIyNDI1ODg3N15BMl5BanBnXkFtZTgwNDY2OTY5OTE@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Udo Happel",
+                "asCharacter": "Headsman"
+            },
+            {
+                "id": "nm5487609",
+                "image": "https://imdb-api.com/images/original/MV5BZjkyNzNkNTAtNjA3Yi00MDA0LWJiNzctN2JhMDBjZjZhNmYyXkEyXkFqcGdeQXVyNDY5MTYyNTQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Diana Meierhans",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm2594821",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Raphael Toel",
+                "asCharacter": "Scottish Boy"
+            },
+            {
+                "id": "nm4722435",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marine van den Broek",
+                "asCharacter": "Farmer"
+            },
+            {
+                "id": "nm4774362",
+                "image": "https://imdb-api.com/images/original/MV5BYjBkMDI1NTEtMWQyZC00ZmQ4LWE0N2UtYmViNDUwMDA3OTZhXkEyXkFqcGdeQXVyMjk0MDkwMjQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Elo Cinquanta",
+                "asCharacter": "Noble English Lady (uncredited)"
+            },
+            {
+                "id": "nm5326801",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jason Grangier",
+                "asCharacter": "Servant (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm2067199",
+                        "name": "\u00c9milie Bl\u00e9zat",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0361618",
+                        "name": "Udo Happel",
+                        "description": "line producer"
+                    },
+                    {
+                        "id": "nm0408101",
+                        "name": "Thomas Imbach",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm2275435",
+                        "name": "Florian Nussbaumer",
+                        "description": "line producer"
+                    },
+                    {
+                        "id": "nm0821620",
+                        "name": "Andrea Staka",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0047035",
+                        "name": "Sofiya Gubaydulina",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0458430",
+                        "name": "Rainer Klausmann",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm4458049",
+                        "name": "Tom La Belle",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0490694",
+                        "name": "Marie de Laubier",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm1723562",
+                        "name": "Lisa Olah",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0198967",
+                        "name": "Gerald Damovsky",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm3605761",
+                        "name": "Rudolf Jost",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm4723527",
+                        "name": "Monika Bitzi",
+                        "description": "assistant makeup artist"
+                    },
+                    {
+                        "id": "nm4784183",
+                        "name": "Romaric Colombini",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0265242",
+                        "name": "Ronald Fahm",
+                        "description": "key hair stylist"
+                    },
+                    {
+                        "id": "nm0270892",
+                        "name": "Martine Felber",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm2222102",
+                        "name": "Tanja Koller",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm1737031",
+                        "name": "Alex Rouse",
+                        "description": "wig maker"
+                    },
+                    {
+                        "id": "nm0776968",
+                        "name": "Anne-Rose Schwab",
+                        "description": "makeup artist: Lausanne"
+                    },
+                    {
+                        "id": "nm1911284",
+                        "name": "Olivier Seyfrid",
+                        "description": "assistant makeup artist: France"
+                    },
+                    {
+                        "id": "nm0857707",
+                        "name": "Isabelle Theviot",
+                        "description": "assistant makeup artist: France"
+                    },
+                    {
+                        "id": "nm4741442",
+                        "name": "Anja Wiedmann",
+                        "description": "makeup artist: daily"
+                    },
+                    {
+                        "id": "nm1307164",
+                        "name": "Nicole Zingg",
+                        "description": "additional makeup artist"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm3819197",
+                        "name": "Niklas Effenberger",
+                        "description": "third assistant director"
+                    },
+                    {
+                        "id": "nm0663052",
+                        "name": "Lars Parlaska",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm2853916",
+                        "name": "Jana Swienty",
+                        "description": "second second assistant director"
+                    },
+                    {
+                        "id": "nm0846814",
+                        "name": "Lee Tailor",
+                        "description": "second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm4724026",
+                        "name": "Julian Damovsky",
+                        "description": "assistant stand-by props"
+                    },
+                    {
+                        "id": "nm1318742",
+                        "name": "Peggy Dix",
+                        "description": "stand-by props"
+                    },
+                    {
+                        "id": "nm3934089",
+                        "name": "Cecile Grieder",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm4723070",
+                        "name": "Tiphanie Mall",
+                        "description": "assistant production designer"
+                    },
+                    {
+                        "id": "nm2456194",
+                        "name": "Lars Wagener",
+                        "description": "assistant property master"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0117522",
+                        "name": "Peter Br\u00e4ker",
+                        "description": "sound designer"
+                    },
+                    {
+                        "id": "nm4720308",
+                        "name": "Christoph Cramer",
+                        "description": "cable man"
+                    },
+                    {
+                        "id": "nm5562453",
+                        "name": "Markus Forster",
+                        "description": "sound recordist"
+                    },
+                    {
+                        "id": "nm1308710",
+                        "name": "Sascha Heiny",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm9134288",
+                        "name": "Lasse Kr\u00f6ger",
+                        "description": "re-recording assistant"
+                    },
+                    {
+                        "id": "nm0688994",
+                        "name": "Hugo Poletti",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm0002297",
+                        "name": "Oswald Schwander",
+                        "description": "dialogue editor"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm2167603",
+                        "name": "Ronney Afortu",
+                        "description": "colorist"
+                    },
+                    {
+                        "id": "nm2159881",
+                        "name": "Thomas Diesselhorst",
+                        "description": "titles"
+                    },
+                    {
+                        "id": "nm2154835",
+                        "name": "Dirk Frischmuth",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm2166412",
+                        "name": "Frank Hellmann",
+                        "description": "digital intermediate supervisor"
+                    },
+                    {
+                        "id": "nm5754919",
+                        "name": "Tim Klink",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm2172236",
+                        "name": "Markus 'Maggi' Selchow",
+                        "description": "visual effects artist"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0051046",
+                        "name": "Menyh\u00e9rt Ren\u00e9 Balog-Dutomb\u00e9",
+                        "description": "horse master"
+                    },
+                    {
+                        "id": "nm0077822",
+                        "name": "Sandor Bertalan",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm2864811",
+                        "name": "Sandor Czirjak",
+                        "description": "horses stunts"
+                    },
+                    {
+                        "id": "nm1314246",
+                        "name": "Jan Fantys",
+                        "description": "stunt choreography"
+                    },
+                    {
+                        "id": "nm0508180",
+                        "name": "Levente Lezs\u00e1k",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0766565",
+                        "name": "Armin Sauer",
+                        "description": "stunt coordinator"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0016953",
+                        "name": "J\u00fcrg Albrecht",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm4831915",
+                        "name": "Pierre-Olivier Bachmann",
+                        "description": "electrician (second unit)"
+                    },
+                    {
+                        "id": "nm0469722",
+                        "name": "Peter Fritscher",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm1305003",
+                        "name": "Brian D. Goff",
+                        "description": "steadicam"
+                    },
+                    {
+                        "id": "nm0585690",
+                        "name": "Astrid Miegel",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm3665307",
+                        "name": "Beno\u00eet Monney",
+                        "description": "camera trainee: combo"
+                    },
+                    {
+                        "id": "nm1479596",
+                        "name": "Christian Richter",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm2594821",
+                        "name": "Raphael Toel",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm1552498",
+                        "name": "Hugo Veludo",
+                        "description": "second assistant camera"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0205023",
+                        "name": "Leo Davis",
+                        "description": "casting: UK"
+                    },
+                    {
+                        "id": "nm2154115",
+                        "name": "Lissy Holm",
+                        "description": "casting: UK"
+                    },
+                    {
+                        "id": "nm1110716",
+                        "name": "Sonia Rossier",
+                        "description": "extras casting: Switzerland"
+                    },
+                    {
+                        "id": "nm4722435",
+                        "name": "Marine van den Broek",
+                        "description": "extras casting: France"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm4723286",
+                        "name": "L\u00e9onard Berney",
+                        "description": "wardrobe"
+                    },
+                    {
+                        "id": "nm4723744",
+                        "name": "Nina Bolliger",
+                        "description": "seamstress"
+                    },
+                    {
+                        "id": "nm4723471",
+                        "name": "Noelle Br\u00fchwiler",
+                        "description": "seamstress for Mary Stuart"
+                    },
+                    {
+                        "id": "nm4748948",
+                        "name": "Marion Bugnon",
+                        "description": "costume trainee"
+                    },
+                    {
+                        "id": "nm1304351",
+                        "name": "Annina Buri",
+                        "description": "wardrobe"
+                    },
+                    {
+                        "id": "nm4724109",
+                        "name": "Olivier Fabrice Falconnier",
+                        "description": "wardrobe"
+                    },
+                    {
+                        "id": "nm4723983",
+                        "name": "Eva Geiser",
+                        "description": "seamstress"
+                    },
+                    {
+                        "id": "nm4723671",
+                        "name": "Heiner Wiedemann",
+                        "description": "co-costume designer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0016975",
+                        "name": "Rosa Albrecht",
+                        "description": "additional editor"
+                    },
+                    {
+                        "id": "nm6273639",
+                        "name": "Nicole Allemann",
+                        "description": "dailies"
+                    },
+                    {
+                        "id": "nm0152728",
+                        "name": "David Charap",
+                        "description": "additional editor"
+                    },
+                    {
+                        "id": "nm1163973",
+                        "name": "Yannick Coutheron",
+                        "description": "additional editor"
+                    },
+                    {
+                        "id": "nm0369479",
+                        "name": "J\u00f6rg Hauschild",
+                        "description": "additional editor"
+                    },
+                    {
+                        "id": "nm1473587",
+                        "name": "Gion-Reto Killias",
+                        "description": "additional editor"
+                    },
+                    {
+                        "id": "nm4119412",
+                        "name": "Bigna Tomschin",
+                        "description": "assistant editor"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm3135273",
+                        "name": "Martin de Buck",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm1928708",
+                        "name": "Fabrice Gasser",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm3711041",
+                        "name": "Nicolas Jeanpierre",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm2648150",
+                        "name": "Caroline Morel",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm4722435",
+                        "name": "Marine van den Broek",
+                        "description": "assistant location manager"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm1619546",
+                        "name": "Paula Casarin",
+                        "description": "script supervisor"
+                    },
+                    {
+                        "id": "nm3468389",
+                        "name": "Catherine Schelbert",
+                        "description": "script editor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm4631598",
+                        "name": "Olivier Barges",
+                        "description": "driver: France"
+                    },
+                    {
+                        "id": "nm4723238",
+                        "name": "Lyd\u00e9ric Duthuille",
+                        "description": "driver: France"
+                    },
+                    {
+                        "id": "nm4791702",
+                        "name": "Mathias Phillipona",
+                        "description": "driver"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm4631598",
+                        "name": "Olivier Barges",
+                        "description": "set runner"
+                    },
+                    {
+                        "id": "nm4723237",
+                        "name": "Sarah Born",
+                        "description": "assistant to line producer"
+                    },
+                    {
+                        "id": "nm3766533",
+                        "name": "Yves Bouzaglo",
+                        "description": "production assistant / set production assistant"
+                    },
+                    {
+                        "id": "nm4741392",
+                        "name": "Jennifer Braun",
+                        "description": "set runner"
+                    },
+                    {
+                        "id": "nm0131472",
+                        "name": "Jo Cameron Brown",
+                        "description": "dialect coach / dialogue coach"
+                    },
+                    {
+                        "id": "nm7282899",
+                        "name": "Bastien Conus",
+                        "description": "set runner"
+                    },
+                    {
+                        "id": "nm2159881",
+                        "name": "Thomas Diesselhorst",
+                        "description": "scan operator"
+                    },
+                    {
+                        "id": "nm4569364",
+                        "name": "Lyderic Duthuille",
+                        "description": "set runner"
+                    },
+                    {
+                        "id": "nm2262445",
+                        "name": "Maria Lavnikovich",
+                        "description": "Worldwide Sales: for Picture Tree International"
+                    },
+                    {
+                        "id": "nm2454900",
+                        "name": "Jessica Petzold",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm0689482",
+                        "name": "Justin Pollard",
+                        "description": "historical advisor"
+                    },
+                    {
+                        "id": "nm2329065",
+                        "name": "Adam Razvi",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1991187",
+                        "name": "Alec Schulmann",
+                        "description": "Worldwide Sales: for Picture Tree International"
+                    },
+                    {
+                        "id": "nm4742323",
+                        "name": "Anne Rose Schwaab",
+                        "description": "puppet maker"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Biography, Drama, History",
+    "genreList": [
+        {
+            "key": "Biography",
+            "value": "Biography"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "History",
+            "value": "History"
+        }
+    ],
+    "companies": "Okofilm Productions, Sciapode",
+    "companyList": [
+        {
+            "id": "co0290967",
+            "name": "Okofilm Productions"
+        },
+        {
+            "id": "co0154245",
+            "name": "Sciapode"
+        }
+    ],
+    "countries": "Switzerland, France",
+    "countryList": [
+        {
+            "key": "Switzerland",
+            "value": "Switzerland"
+        },
+        {
+            "key": "France",
+            "value": "France"
+        }
+    ],
+    "languages": "English, French",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "French",
+            "value": "French"
+        }
+    ],
+    "contentRating": "",
+    "imDbRating": "5.4",
+    "imDbRatingVotes": "796",
+    "metacriticRating": "",
+    "ratings": {
+        "imDbId": "tt1555069",
+        "title": "Mary Queen of Scots",
+        "fullTitle": "Mary Queen of Scots (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "imDb": "5.4",
+        "metacritic": "",
+        "theMovieDb": "5.0",
+        "rottenTomatoes": "26",
+        "tV_com": "",
+        "filmAffinity": "5.3",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt1555069",
+        "title": "Mary Queen of Scots",
+        "fullTitle": "Mary Queen of Scots (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "language": "en",
+        "titleInLanguage": "Mary Queen of Scots (2013 film)",
+        "url": "https://en.wikipedia.org/wiki/Mary_Queen_of_Scots_(2013_film)",
+        "plotShort": {
+            "plainText": "Mary Queen of Scots (2013 film)\r\nMary Queen of Scots is a 2013 Swiss period drama directed by Thomas Imbach. It is his first film in English and French language starring the bilingual French actress Camille Rutherford. The film portrays the inner life of Mary, the Queen of Scotland. The film is based on Austrian novelist Stefan Zweig's 1935 biography, Mary Stuart, a long-term bestseller in Germany and France but out of print in the UK and the US for decades until 2010. The film was first screened at the 2013 International Film Festival Locarno and was later shown at the 2013 Toronto International Film Festival.",
+            "html": "<h2>Mary Queen of Scots (2013 film)</h2><p>Mary Queen of Scots is a 2013 Swiss period drama directed by Thomas Imbach. It is his first film in English and French language starring the bilingual French actress Camille Rutherford. The film portrays the inner life of Mary, the Queen of Scotland. The film is based on Austrian novelist Stefan Zweig's 1935 biography, Mary Stuart, a long-term bestseller in Germany and France but out of print in the UK and the US for decades until 2010. The film was first screened at the 2013 International Film Festival Locarno and was later shown at the 2013 Toronto International Film Festival.</p>"
+        },
+        "plotFull": {
+            "plainText": "Mary Queen of Scots (2013 film)\r\nMary Queen of Scots is a 2013 Swiss period drama directed by Thomas Imbach. It is his first film in English and French language starring the bilingual French actress Camille Rutherford. The film portrays the inner life of Mary, the Queen of Scotland. The film is based on Austrian novelist Stefan Zweig's 1935 biography, Mary Stuart, a long-term bestseller in Germany and France but out of print in the UK and the US for decades until 2010. The film was first screened at the 2013 International Film Festival Locarno and was later shown at the 2013 Toronto International Film Festival.\r\nPlot\r\nMary, Queen of Scots, awaits her execution by order of Queen Elizabeth I of England. Mary composes a letter to Elizabeth, to whom she feels a close kinship as her cousin and a fellow female monarch. Through flashback, Mary narrates to Elizabeth the events of her life, starting from her birth in Scotland to the French Mary of Guise, who sends her to France as a child for her protection.\r\nMary is raised in French court, where she had for companions her Scottish ladies Mary Beaton, Mary Seton, Mary Fleming and Mary Livingston, as well as the Italian musician David Rizzio. Upon reaching adulthood Mary is married to the Dauphin, Francis, who becomes King of France when his father dies. News arrives that Queen Mary I of England has died and her sister, Elizabeth, has become Queen despite her official status as a bastard. Mary is aware of her own legitimate claim to the English throne; although she writes to Elizabeth promising not to challenge her, she insists on using the English coat of arms and the title \"Queen of France, Scotland and England\".\r\nAfter Francis's early death, Mary returns to Scotland with her ladies and Rizzio. There, she is treated with suspicion and skepticism by her half-brother, Lord Moray, the Protestant clergyman John Knox and other Scottish lords. Mary struggles to ingratiate herself to them, but ends up isolating herself further by relying on Rizzio for political advice, marrying Englishman Darnley without the Lords' consent, and supporting the controversial Scottish border Lord Bothwell. Mary's love for Darnley fades when she learns of his extremism in pursuing the English throne; Mary has strong affection for Elizabeth, and wants to be her heir instead of usurping her.\r\nDarnley conspires with Moray and the Scottish Lords to murder Rizzio in cold blood in front of a heavily pregnant Mary. Afterwards Mary begins to see visions of Rizzio, who warns her of worse things to come. Mary gives birth to her and Darnley's heir, James, but she is effectively separated from Darnley and has a new passion for Bothwell, with whom she has an affair. Soon afterward Darnley is killed in a gunpowder explosion, and Mary marries Bothwell because she is pregnant with his child. The marriage is heavily protested, with the Scottish Lords taking up arms against Mary and Bothwell. Eventually Mary and Bothwell are outnumbered, and Bothwell flees from Scotland while Mary travels to England in the hopes of getting protection from Elizabeth. Instead, Elizabeth has Mary incarcerated, and decades later Mary is executed by order of the cousin she has never met.\r\nCast\r\nCamille Rutherford as Mary\r\nSean Biggerstaff as Bothwell\r\nAneurin Barnard as Darnley\r\nEdward Hogg as Moray\r\nMehdi Dehbi as Rizzio\r\nTony Curran as Knox\r\nClive Russell as Douglas\r\nIan Hanmore as Ruthven\r\nJoana Preiss as Marie de Guise\r\nBruno Todeschini as De Croc\r\nRoxane Duran as Mary Seton\r\nGaia Weiss as Mary Fleming",
+            "html": "<h2>Mary Queen of Scots (2013 film)</h2><p>Mary Queen of Scots is a 2013 Swiss period drama directed by Thomas Imbach. It is his first film in English and French language starring the bilingual French actress Camille Rutherford. The film portrays the inner life of Mary, the Queen of Scotland. The film is based on Austrian novelist Stefan Zweig's 1935 biography, Mary Stuart, a long-term bestseller in Germany and France but out of print in the UK and the US for decades until 2010. The film was first screened at the 2013 International Film Festival Locarno and was later shown at the 2013 Toronto International Film Festival.</p><br/><h3>Plot</h3><p>Mary, Queen of Scots, awaits her execution by order of Queen Elizabeth I of England. Mary composes a letter to Elizabeth, to whom she feels a close kinship as her cousin and a fellow female monarch. Through flashback, Mary narrates to Elizabeth the events of her life, starting from her birth in Scotland to the French Mary of Guise, who sends her to France as a child for her protection.</p><p>Mary is raised in French court, where she had for companions her Scottish ladies Mary Beaton, Mary Seton, Mary Fleming and Mary Livingston, as well as the Italian musician David Rizzio. Upon reaching adulthood Mary is married to the Dauphin, Francis, who becomes King of France when his father dies. News arrives that Queen Mary I of England has died and her sister, Elizabeth, has become Queen despite her official status as a bastard. Mary is aware of her own legitimate claim to the English throne; although she writes to Elizabeth promising not to challenge her, she insists on using the English coat of arms and the title \"Queen of France, Scotland and England\".</p><p>After Francis's early death, Mary returns to Scotland with her ladies and Rizzio. There, she is treated with suspicion and skepticism by her half-brother, Lord Moray, the Protestant clergyman John Knox and other Scottish lords. Mary struggles to ingratiate herself to them, but ends up isolating herself further by relying on Rizzio for political advice, marrying Englishman Darnley without the Lords' consent, and supporting the controversial Scottish border Lord Bothwell. Mary's love for Darnley fades when she learns of his extremism in pursuing the English throne; Mary has strong affection for Elizabeth, and wants to be her heir instead of usurping her.</p><p>Darnley conspires with Moray and the Scottish Lords to murder Rizzio in cold blood in front of a heavily pregnant Mary. Afterwards Mary begins to see visions of Rizzio, who warns her of worse things to come. Mary gives birth to her and Darnley's heir, James, but she is effectively separated from Darnley and has a new passion for Bothwell, with whom she has an affair. Soon afterward Darnley is killed in a gunpowder explosion, and Mary marries Bothwell because she is pregnant with his child. The marriage is heavily protested, with the Scottish Lords taking up arms against Mary and Bothwell. Eventually Mary and Bothwell are outnumbered, and Bothwell flees from Scotland while Mary travels to England in the hopes of getting protection from Elizabeth. Instead, Elizabeth has Mary incarcerated, and decades later Mary is executed by order of the cousin she has never met.</p><br/><h3>Cast</h3><ul><li>Camille Rutherford as Mary</li><li>Sean Biggerstaff as Bothwell</li><li>Aneurin Barnard as Darnley</li><li>Edward Hogg as Moray</li><li>Mehdi Dehbi as Rizzio</li><li>Tony Curran as Knox</li><li>Clive Russell as Douglas</li><li>Ian Hanmore as Ruthven</li><li>Joana Preiss as Marie de Guise</li><li>Bruno Todeschini as De Croc</li><li>Roxane Duran as Mary Seton</li><li>Gaia Weiss as Mary Fleming</li></ul><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt1555069",
+        "title": "Mary Queen of Scots",
+        "fullTitle": "Mary Queen of Scots (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "posters": [
+            {
+                "id": "oF4L9MRnDr3iz1DMKa8D5wxIOxT.jpg",
+                "link": "https://imdb-api.com/posters/original/oF4L9MRnDr3iz1DMKa8D5wxIOxT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdors": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt1555069",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt1555069",
+        "title": "Mary Queen of Scots",
+        "fullTitle": "Mary Queen of Scots (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$10,237"
+    },
+    "tagline": "",
+    "keywords": "queen,royalty,male frontal nudity,nudity,monarchy",
+    "keywordList": [
+        "queen",
+        "royalty",
+        "male frontal nudity",
+        "nudity",
+        "monarchy"
+    ],
+    "similars": [
+        {
+            "id": "tt11887158",
+            "title": "Mary Queen of Scots",
+            "fullTitle": "Mary Queen of Scots (TV Movie 2020)",
+            "year": "TV Movie 2020",
+            "image": "https://imdb-api.com/images/original/MV5BOGM3NTIzYzItY2YyNi00ZTI0LTg3MzctOWE1MTViM2IzZDAxXkEyXkFqcGdeQXVyNzQyOTc4NTI@._V1_Ratio0.8947_AL_.jpg",
+            "plot": "The film is a docudrama about the life and faith of Mary Queen of Scots and her relationship with Queen Elizabeth I of England.",
+            "directors": "Stefano Mazzeo",
+            "stars": "Claire Churchman, Liam Driver, Anthony Plumridge",
+            "genres": "History",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0067402",
+            "title": "Mary, Queen of Scots",
+            "fullTitle": "Mary, Queen of Scots (1971)",
+            "year": "1971",
+            "image": "https://imdb-api.com/images/original/MV5BMGEzYmRmYzctZTdjMC00NWQ4LThiMDUtNzQ5M2VhNDQ1M2ViXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "During the sixteenth century, the Catholic Mary, Queen of Scots engages in over two decades of religious and political conflict with her cousin, the Protestant Queen Elizabeth I of England, amidst political intrigue in her native land.",
+            "directors": "Charles Jarrott",
+            "stars": "Vanessa Redgrave, Glenda Jackson, Patrick McGoohan",
+            "genres": "Biography, Drama, History",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt2328900",
+            "title": "Mary Queen of Scots",
+            "fullTitle": "Mary Queen of Scots (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BNDVmOGI4MTMtYmNmNC00MTliLTlkYjQtYmU2N2EyNDk2YTAwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Mary Stuart's (Saoirse Ronan's) attempt to overthrow her cousin Elizabeth I (Margot Robbie), Queen of England, finds her condemned to years of imprisonment before facing execution.",
+            "directors": "Josie Rourke",
+            "stars": "Saoirse Ronan, Margot Robbie, Jack Lowden",
+            "genres": "Biography, Drama, History",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt0032587",
+            "title": "The Heart of a Queen",
+            "fullTitle": "The Heart of a Queen (1940)",
+            "year": "1940",
+            "image": "https://imdb-api.com/images/original/MV5BNTcxZDZkZTEtMzBjYi00NjUwLTllYjktNjkyMWM0NGUwNGQ3XkEyXkFqcGdeQXVyNjE4OTU1NDE@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "While awaiting her unjust execution at the hands of the treacherous Queen Elizabeth I, the tragic Mary Stuart reflects at the series of cruel political machinations that set up her path to the scaffold.",
+            "directors": "Carl Froelich",
+            "stars": "Zarah Leander, Willy Birgel, Maria Koppenh\u00f6fer",
+            "genres": "Biography, Drama",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt0377184",
+            "title": "Gunpowder, Treason &amp; Plot",
+            "fullTitle": "Gunpowder, Treason &amp; Plot (TV Movie 2004)",
+            "year": "TV Movie 2004",
+            "image": "https://imdb-api.com/images/original/MV5BMDZjNTAzNDMtZmJkOS00YmQyLWJkZTEtYWE2YzJmMTYwMzZmXkEyXkFqcGdeQXVyMjE5NjEyMjM@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Mini series depicting the turbulent and bloody reigns of Scottish monarchs Mary, Queen of Scots and her son King James VI of Scotland who became King James I of England and foiled the Gunpowder Plot.",
+            "directors": "Gillies MacKinnon",
+            "stars": "Vulpe Adrian, Carmen Ungureanu, Cl\u00e9mence Po\u00e9sy",
+            "genres": "Drama, History",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt9499592",
+            "title": "Queen Mary of Scots and her last words",
+            "fullTitle": "Queen Mary of Scots and her last words (Video 2018)",
+            "year": "Video 2018",
+            "image": "https://imdb-api.com/images/original/MV5BNmVlMmI1ZTItODMyYi00ZTEyLWE2M2YtZDlhOTg2MjhjNjYxXkEyXkFqcGdeQXVyNjkyNzY0ODI@._V1_Ratio1.7789_AL_.jpg",
+            "plot": "",
+            "directors": "Shihyun Wang",
+            "stars": "Flying Fez, Morgan Krueger, Melissa McAllister",
+            "genres": "Short, Biography",
+            "imDbRating": "-"
+        },
+        {
+            "id": "tt2456134",
+            "title": "Je ne suis pas mort",
+            "fullTitle": "Je ne suis pas mort (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BM2RjOGU4MjQtMDMzOS00Yzg1LWFkZmQtMGZmMWMzZDllZDdmXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_Ratio0.7368_AL_.jpg",
+            "plot": "Yacine lives with his brother Jamel in a cramped Parisian apartment. He works as a motorcycle courier, although he is also a brilliant political science student. When a delivery job takes ... See full summary \u00bb",
+            "directors": "Mehdi Ben Attia",
+            "stars": "Mehdi Dehbi, Maria de Medeiros, Emmanuel Salinger",
+            "genres": "Drama",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0321897",
+            "title": "Daniel Deronda",
+            "fullTitle": "Daniel Deronda (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BMTIxOTcwNTcxNF5BMl5BanBnXkFtZTYwNjEyNDk5._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Set in Victorian London, Gwendolen Harleth is drawn to Daniel Deronda, a selfless and intelligent gentleman of unknown parentage, but her own desperate need for financial security may destroy her chance at happiness.",
+            "directors": "",
+            "stars": "Jodhi May, Edward Fox, Amanda Root",
+            "genres": "Drama, History, Romance",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt11913474",
+            "title": "Mary Queen of Scot - 1567",
+            "fullTitle": "Mary Queen of Scot - 1567 (Video 2020)",
+            "year": "Video 2020",
+            "image": "https://imdb-api.com/images/original/MV5BNjFkMWQ4MTEtMWMyOC00MjdkLTk4YTAtYTU3YzRhZjlhOGRmXkEyXkFqcGdeQXVyNjkyNzY0ODI@._V1_Ratio0.7368_AL_.jpg",
+            "plot": "",
+            "directors": "Shihyun Wang",
+            "stars": "Morgan Hunt, Madison Rose Jade, Madison Rose Jade",
+            "genres": "Short, Drama",
+            "imDbRating": "-"
+        },
+        {
+            "id": "tt0442632",
+            "title": "Bleak House",
+            "fullTitle": "Bleak House (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BY2ExZDkxM2MtMzBmOS00NWQ4LTk3NGYtM2Y1NzBlM2UzZDFkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A suspenseful tale about the injustices of the 19th Century English legal system.",
+            "directors": "",
+            "stars": "Anna Maxwell Martin, Denis Lawson, Carey Mulligan",
+            "genres": "Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt3989384",
+            "title": "Another South",
+            "fullTitle": "Another South (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BM2FmOGY4OTMtMTJjMC00ZjJhLTgyMWYtMDc0MTQ0MDFjZjMwXkEyXkFqcGdeQXVyNjgzNTgxNjE@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "",
+            "directors": "Gianluca Maria Tavarelli",
+            "stars": "Isabella Ragonese, Francesco Scianna, Mehdi Dehbi",
+            "genres": "Drama",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt3097524",
+            "title": "Lili Rose",
+            "fullTitle": "Lili Rose (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BODMyNGQwMWItZTExOS00YWI2LTlkNzgtOWQ2MjhhMGE1YjUxXkEyXkFqcGdeQXVyNjY1MjEwODM@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "Worker or poker player, Samir and Xavier live from day to day. Bright young woman and future bride, Liza has a future all traced. They and she find themselves by chance for a weekend for a stay as unlikely as initiative.",
+            "directors": "Bruno Ballouard",
+            "stars": "Salom\u00e9 St\u00e9venin, Mehdi Dehbi, Bruno Clairefond",
+            "genres": "Romance",
+            "imDbRating": "6.6"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

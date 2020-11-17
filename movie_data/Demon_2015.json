@@ -1,0 +1,781 @@
+{
+    "id": "tt4935158",
+    "title": "Demon",
+    "originalTitle": "",
+    "fullTitle": "Demon (2015)",
+    "type": "Movie",
+    "year": "2015",
+    "image": "https://imdb-api.com/images/original/MV5BMTU0ODgwMjA1OV5BMl5BanBnXkFtZTgwMTA0ODM2OTE@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2015-10-16",
+    "runtimeMins": "94",
+    "runtimeStr": "1h 34mins",
+    "plot": "A bridegroom is possessed by an unquiet spirit in the midst of his own wedding celebration, in this clever take on the Jewish legend of the dybbuk.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "2 wins & 7 nominations.",
+    "directors": "Marcin Wrona",
+    "directorList": [
+        {
+            "id": "nm1672085",
+            "name": "Marcin Wrona"
+        }
+    ],
+    "writers": "Pawel Maslona, Marcin Wrona",
+    "writerList": [
+        {
+            "id": "nm4377587",
+            "name": "Pawel Maslona"
+        },
+        {
+            "id": "nm1672085",
+            "name": "Marcin Wrona"
+        }
+    ],
+    "stars": "Itay Tiran, Agnieszka Zulewska, Andrzej Grabowski, Tomasz Schuchardt",
+    "starList": [
+        {
+            "id": "nm1553954",
+            "name": "Itay Tiran"
+        },
+        {
+            "id": "nm4521098",
+            "name": "Agnieszka Zulewska"
+        },
+        {
+            "id": "nm0333275",
+            "name": "Andrzej Grabowski"
+        },
+        {
+            "id": "nm3949598",
+            "name": "Tomasz Schuchardt"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm1553954",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3MDE2NDI0Nl5BMl5BanBnXkFtZTgwMDI4NjU3NjE@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Itay Tiran",
+            "asCharacter": "Piotr 'Pyton'"
+        },
+        {
+            "id": "nm4521098",
+            "image": "https://imdb-api.com/images/original/MV5BMjIxNjIwNzkxNl5BMl5BanBnXkFtZTgwMjI4NjU3NjE@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Agnieszka Zulewska",
+            "asCharacter": "Zaneta"
+        },
+        {
+            "id": "nm0333275",
+            "image": "https://imdb-api.com/images/original/MV5BZGQ5YzgyZWMtYTY5Zi00M2YwLTgyOTctODJjZTg5OTQ1YjIxXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Andrzej Grabowski",
+            "asCharacter": "Father of Zaneta"
+        },
+        {
+            "id": "nm3949598",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ0OTcyOTc4Nl5BMl5BanBnXkFtZTgwMzUzMDU2MzE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Tomasz Schuchardt",
+            "asCharacter": "'Jasny'"
+        },
+        {
+            "id": "nm1040273",
+            "image": "https://imdb-api.com/images/original/MV5BNWM4YmNlY2YtMThiMy00MTM4LWJjNjktZGQyODc1NWY3ZGYzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Katarzyna Herman",
+            "asCharacter": "Gabryjelska"
+        },
+        {
+            "id": "nm0941575",
+            "image": "https://imdb-api.com/images/original/MV5BMGUwY2RjZDctNGQ0OS00Y2IyLWI3NjItODcyNjE1Mjc2MzE1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Adam Woronowicz",
+            "asCharacter": "Doctor"
+        },
+        {
+            "id": "nm0696243",
+            "image": "https://imdb-api.com/images/original/MV5BNjM3YjliMzEtZmI4YS00OWIxLWIzYTUtNjAzMDAxMDU3YzU3XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Wlodzimierz Press",
+            "asCharacter": "Teacher"
+        },
+        {
+            "id": "nm4250276",
+            "image": "https://imdb-api.com/images/original/MV5BMjMwNjI5Njc3M15BMl5BanBnXkFtZTgwMzI4NjU3NjE@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Tomasz Zietek",
+            "asCharacter": "Ronaldo"
+        },
+        {
+            "id": "nm0467082",
+            "image": "https://imdb-api.com/images/original/MV5BMjg2NDE0MmItMGIzMC00ZDU4LWI5Y2QtN2Q3YWQ3M2VjZjc3XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Cezary Kosinski",
+            "asCharacter": "Priest"
+        },
+        {
+            "id": "nm1458668",
+            "image": "https://imdb-api.com/images/original/MV5BY2IwYWZmZGQtNzBlNy00MmI2LWI1MzAtYTk1MWFiOGRlODY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Katarzyna Gniewkowska",
+            "asCharacter": "Zofia"
+        },
+        {
+            "id": "nm0054417",
+            "image": "https://imdb-api.com/images/original/MV5BMjQ0MTRhOWItOTRmYS00NTcwLWE5ZWEtOTk3MjRkMzYxYTNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.6818_AL_.jpg",
+            "name": "Maja Barelkowska",
+            "asCharacter": "Aunt"
+        },
+        {
+            "id": "nm3299274",
+            "image": "https://imdb-api.com/images/original/MV5BNDM2ZWViY2MtMDFiMy00ZTEzLWE2ODYtYjNmMjAzYzkwNTUwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.4091_AL_.jpg",
+            "name": "Anna Smolowik",
+            "asCharacter": "Bridesmaid"
+        },
+        {
+            "id": "nm1268200",
+            "image": "https://imdb-api.com/images/original/MV5BNGJiYjdiMzYtMzlhNC00ZmQ5LTk3NzktMzFjODliZTYyM2YwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Maria Debska",
+            "asCharacter": "Hana"
+        },
+        {
+            "id": "nm3987270",
+            "image": "https://imdb-api.com/images/original/MV5BNWI2ZjM0OTEtOWMxMS00YWFjLWE0YzYtNzg0MDkxYWJjNzEwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Piotr Domalewski",
+            "asCharacter": "Dance Leader"
+        },
+        {
+            "id": "nm3973737",
+            "image": "https://imdb-api.com/images/original/MV5BOWQ2YjE5Y2UtMWI1ZC00ZTA5LTkxNWEtOWQzN2NhZTRkZmRlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Filip Plawiak",
+            "asCharacter": "Cousine"
+        },
+        {
+            "id": "nm1293170",
+            "image": "https://imdb-api.com/images/original/MV5BYzVhOTMwNTEtNzY4ZS00NThkLWIyYzMtZDFiYWFlOWVlZjFlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ireneusz Koziol",
+            "asCharacter": "Uncle"
+        },
+        {
+            "id": "nm1845994",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marek Sawicki",
+            "asCharacter": "Uncle"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt4935158",
+        "title": "Demon",
+        "fullTitle": "Demon (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm1672085",
+                    "name": "Marcin Wrona",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm4377587",
+                    "name": "Pawel Maslona",
+                    "description": ""
+                },
+                {
+                    "id": "nm1672085",
+                    "name": "Marcin Wrona",
+                    "description": ""
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm1553954",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3MDE2NDI0Nl5BMl5BanBnXkFtZTgwMDI4NjU3NjE@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Itay Tiran",
+                "asCharacter": "Piotr 'Pyton'"
+            },
+            {
+                "id": "nm4521098",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxNjIwNzkxNl5BMl5BanBnXkFtZTgwMjI4NjU3NjE@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Agnieszka Zulewska",
+                "asCharacter": "Zaneta"
+            },
+            {
+                "id": "nm0333275",
+                "image": "https://imdb-api.com/images/original/MV5BZGQ5YzgyZWMtYTY5Zi00M2YwLTgyOTctODJjZTg5OTQ1YjIxXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Andrzej Grabowski",
+                "asCharacter": "Father of Zaneta"
+            },
+            {
+                "id": "nm3949598",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0OTcyOTc4Nl5BMl5BanBnXkFtZTgwMzUzMDU2MzE@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Tomasz Schuchardt",
+                "asCharacter": "'Jasny'"
+            },
+            {
+                "id": "nm1040273",
+                "image": "https://imdb-api.com/images/original/MV5BNWM4YmNlY2YtMThiMy00MTM4LWJjNjktZGQyODc1NWY3ZGYzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Katarzyna Herman",
+                "asCharacter": "Gabryjelska"
+            },
+            {
+                "id": "nm0941575",
+                "image": "https://imdb-api.com/images/original/MV5BMGUwY2RjZDctNGQ0OS00Y2IyLWI3NjItODcyNjE1Mjc2MzE1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Adam Woronowicz",
+                "asCharacter": "Doctor"
+            },
+            {
+                "id": "nm0696243",
+                "image": "https://imdb-api.com/images/original/MV5BNjM3YjliMzEtZmI4YS00OWIxLWIzYTUtNjAzMDAxMDU3YzU3XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Wlodzimierz Press",
+                "asCharacter": "Teacher"
+            },
+            {
+                "id": "nm4250276",
+                "image": "https://imdb-api.com/images/original/MV5BMjMwNjI5Njc3M15BMl5BanBnXkFtZTgwMzI4NjU3NjE@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Tomasz Zietek",
+                "asCharacter": "Ronaldo"
+            },
+            {
+                "id": "nm0467082",
+                "image": "https://imdb-api.com/images/original/MV5BMjg2NDE0MmItMGIzMC00ZDU4LWI5Y2QtN2Q3YWQ3M2VjZjc3XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Cezary Kosinski",
+                "asCharacter": "Priest"
+            },
+            {
+                "id": "nm1458668",
+                "image": "https://imdb-api.com/images/original/MV5BY2IwYWZmZGQtNzBlNy00MmI2LWI1MzAtYTk1MWFiOGRlODY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Katarzyna Gniewkowska",
+                "asCharacter": "Zofia"
+            },
+            {
+                "id": "nm0054417",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ0MTRhOWItOTRmYS00NTcwLWE5ZWEtOTk3MjRkMzYxYTNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.6818_AL_.jpg",
+                "name": "Maja Barelkowska",
+                "asCharacter": "Aunt"
+            },
+            {
+                "id": "nm3299274",
+                "image": "https://imdb-api.com/images/original/MV5BNDM2ZWViY2MtMDFiMy00ZTEzLWE2ODYtYjNmMjAzYzkwNTUwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.4091_AL_.jpg",
+                "name": "Anna Smolowik",
+                "asCharacter": "Bridesmaid"
+            },
+            {
+                "id": "nm1268200",
+                "image": "https://imdb-api.com/images/original/MV5BNGJiYjdiMzYtMzlhNC00ZmQ5LTk3NzktMzFjODliZTYyM2YwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Maria Debska",
+                "asCharacter": "Hana"
+            },
+            {
+                "id": "nm3987270",
+                "image": "https://imdb-api.com/images/original/MV5BNWI2ZjM0OTEtOWMxMS00YWFjLWE0YzYtNzg0MDkxYWJjNzEwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Piotr Domalewski",
+                "asCharacter": "Dance Leader"
+            },
+            {
+                "id": "nm3973737",
+                "image": "https://imdb-api.com/images/original/MV5BOWQ2YjE5Y2UtMWI1ZC00ZTA5LTkxNWEtOWQzN2NhZTRkZmRlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.2727_AL_.jpg",
+                "name": "Filip Plawiak",
+                "asCharacter": "Cousine"
+            },
+            {
+                "id": "nm1293170",
+                "image": "https://imdb-api.com/images/original/MV5BYzVhOTMwNTEtNzY4ZS00NThkLWIyYzMtZDFiYWFlOWVlZjFlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Ireneusz Koziol",
+                "asCharacter": "Uncle"
+            },
+            {
+                "id": "nm1845994",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marek Sawicki",
+                "asCharacter": "Uncle"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm8781284",
+                        "name": "Zuzanna Hencz",
+                        "description": "co-executive producer"
+                    },
+                    {
+                        "id": "nm7512858",
+                        "name": "Olga Szymanska",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm1672085",
+                        "name": "Marcin Wrona",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm3665852",
+                        "name": "Marcin Macuk",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0671678",
+                        "name": "Krzysztof Penderecki",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1672506",
+                        "name": "Pawel Flis",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm1499575",
+                        "name": "Piotr Kmiecik",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0943327",
+                        "name": "Anna Wunderlich",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm8781284",
+                        "name": "Zuzanna Hencz",
+                        "description": "post-production supervisor"
+                    },
+                    {
+                        "id": "nm5022934",
+                        "name": "Malgorzata Sandecka",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm1265300",
+                        "name": "Bruno Borch\u00f3lski",
+                        "description": "second unit director"
+                    },
+                    {
+                        "id": "nm9770584",
+                        "name": "Malgorzata Suwala",
+                        "description": "assistant director"
+                    },
+                    {
+                        "id": "nm7414860",
+                        "name": "Katarzyna Warzecha",
+                        "description": "assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm1297679",
+                        "name": "Miroslaw Makowski",
+                        "description": "sound on set"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm3752389",
+                        "name": "Grzegorz Mikolajczyk",
+                        "description": "stunt coordinator"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm7122249",
+                        "name": "Krzysztof Zawieja",
+                        "description": "2nd unit camera assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm7859402",
+                        "name": "Jakub Sokolowski",
+                        "description": "digital intermediate specialist"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0229909",
+                        "name": "Jim Dobson",
+                        "description": "publicist"
+                    },
+                    {
+                        "id": "nm7809896",
+                        "name": "Kaya Kolodziejczyk",
+                        "description": "choreographer"
+                    },
+                    {
+                        "id": "nm5022934",
+                        "name": "Malgorzata Sandecka",
+                        "description": "development"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Fantasy, Horror, Thriller",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Fantasy",
+            "value": "Fantasy"
+        },
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Telewizja Polska",
+    "companyList": [
+        {
+            "id": "co0212116",
+            "name": "Telewizja Polska"
+        }
+    ],
+    "countries": "Poland, Israel",
+    "countryList": [
+        {
+            "key": "Poland",
+            "value": "Poland"
+        },
+        {
+            "key": "Israel",
+            "value": "Israel"
+        }
+    ],
+    "languages": "Polish, English, Yiddish, Russian",
+    "languageList": [
+        {
+            "key": "Polish",
+            "value": "Polish"
+        },
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Yiddish",
+            "value": "Yiddish"
+        },
+        {
+            "key": "Russian",
+            "value": "Russian"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "6.1",
+    "imDbRatingVotes": "4837",
+    "metacriticRating": "80",
+    "ratings": {
+        "imDbId": "tt4935158",
+        "title": "Demon",
+        "fullTitle": "Demon (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "imDb": "6.1",
+        "metacritic": "80",
+        "theMovieDb": "6.2",
+        "rottenTomatoes": "93",
+        "tV_com": "",
+        "filmAffinity": "5.1",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt4935158",
+        "title": "Demon",
+        "fullTitle": "Demon (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "language": "en",
+        "titleInLanguage": "Demon (2015 film)",
+        "url": "https://en.wikipedia.org/wiki/Demon_(2015_film)",
+        "plotShort": {
+            "plainText": "Demon (2015 film)\r\nDemon is a 2015 Polish horror film written and directed by Marcin Wrona. It was shown in the Vanguard section of the 2015 Toronto International Film Festival. It was Wrona's last feature film, as he committed suicide on 19 September 2015 while promoting the film at the Gdynia Film Festival.",
+            "html": "<h2>Demon (2015 film)</h2><p>Demon is a 2015 Polish horror film written and directed by Marcin Wrona. It was shown in the Vanguard section of the 2015 Toronto International Film Festival. It was Wrona's last feature film, as he committed suicide on 19 September 2015 while promoting the film at the Gdynia Film Festival.</p>"
+        },
+        "plotFull": {
+            "plainText": "Demon (2015 film)\r\nDemon is a 2015 Polish horror film written and directed by Marcin Wrona. It was shown in the Vanguard section of the 2015 Toronto International Film Festival. It was Wrona's last feature film, as he committed suicide on 19 September 2015 while promoting the film at the Gdynia Film Festival.\r\nPlot\r\nPiotr (Itay Tiran), who has been living and working in England for many years, and Zaneta (Agnieszka Zulewska), a Polish lady, are to be married; they had met only over the internet, but he knew her brother. Piotr speaks Polish awkwardly, remembering more from his ancestors than from personal experience. He moves into a run-down large rural estate previously owned by Zaneta's grandfather.\r\nWhile digging in the yard with a backhoe right before the wedding, Piotr finds a skeleton, which at first he keeps quiet about. He is increasingly haunted by the vision of a woman in a wedding dress - Hana. During the wedding reception this vision draws closer and closer to him, and he has apparent seizures. He is eventually possessed by Hana, the woman in the dress. Zaneta's family is well-to-do, and they want to keep his breakdown quiet from the rest of the wedding guests, so they distract their guests with vodka and loud music while locking Piotr in the basement, first with a doctor, then a priest. Finally, the \"teacher\" (Wlodzimierz Press, who appears to be the only surviving Jewish resident of the town pre-war), realizes that Piotr is speaking Yiddish, and that he is possessed by the spirit of Hana, a lovely Jewish girl he knew before the war who suddenly disappeared.\r\nThe film is a re-telling of a classic dybbuk story and also an allegory for Polish-Jewish relations before and after the war. It is implied that Zaneta's grandfather may have gotten rich in part by \"possessing\" this property once its former Jewish residents were gone.\r\nCast\r\nItay Tiran as Piotr 'Pyton'\r\nAgnieszka Zulewska as Zaneta\r\nTomasz Schuchardt as 'Jasny'\r\nAndrzej Grabowski as Zaneta's father\r\nTomasz Zi\u0119tek as Ronaldo\r\nKatarzyna Gniewkowska as Gabryjelska\r\nMaria D\u0119bska as Hana\r\nAdam Woronowicz as Doctor\r\nReception\r\nCritical response\r\nOn review aggregator Rotten Tomatoes, Demon holds an approval rating of 92%, based on 66 reviews, and an average rating of 7.4/10. It's consensus reads, \"Ambitious and beautifully shot, Demon delivers a gripping -- and sadly final -- testament to the singular talent possessed by director/co-writer Marcin Wrona.\" On Metacritic, the film has a weighted average score of 80 out of 100, based on 19 critics, indicating \"generally positive reviews\".\r\nChuck Bowen from Slant Magazine gave the film 3.5 out of 4 stars, writing, \"Demon offers a tidal wave of unrelieved longing and regret, with a devilish streak of absurdism.\" Giuseppe Sedia of the Krakow Post noted that the character played by Israeli actor Itay Tiran turns out to be \"the most tormented groom ever seen in Polish film\". He added that \"the distastrous reception is drenched in vodka just like the banquet displayed in Wojciech Smarzowski's The Wedding but purged from any black comedy\". Jake Dee from Arrow in the Head rated the film a score of 8/10, writing, \"Shot with a steady and sure-handed formalistic lens, played with credible pathos by all involved, belled with a quizzically unnerving score - despite the humor hampering the horror at times - Demon is a bold and balefully bedeviling Polish delight!\" Justin Chang of the Los Angeles Times praised the film's cinematography, and called it \" A bravura testament to a talent silenced far too soon.\". Joshua Rothkopf from Time Out awarded the film 4 out of 5 stars, writing, \"Nailing a tricky sense of physical anarchy (as well as some far subtler domestic tensions), Marcin Wrona\u2019s Polish import is an eerie, extraordinarily poised piece of horror.\"\r\nThe film was not without its detractors. Joe Leydon from Variety commended the film's atmosphere and absurdist humor, but slammed the film's third act. Chris Nashawaty of Entertainment Weekly rated the film a grade C, writing, \"Heavy on atmosphere and symbolism but light on actual scares, director Marcin Wrona\u2019s generically titled Demon is a so-so meditation on historical amnesia. It\u2019s also so weighted down with mysticism and metaphor it forgets to quicken your pulse or whiten your knuckles.\" The film was also a victim of vote brigading on IMDb.",
+            "html": "<h2>Demon (2015 film)</h2><p>Demon is a 2015 Polish horror film written and directed by Marcin Wrona. It was shown in the Vanguard section of the 2015 Toronto International Film Festival. It was Wrona's last feature film, as he committed suicide on 19 September 2015 while promoting the film at the Gdynia Film Festival.</p><br/><h3>Plot</h3><p>Piotr (Itay Tiran), who has been living and working in England for many years, and Zaneta (Agnieszka Zulewska), a Polish lady, are to be married; they had met only over the internet, but he knew her brother. Piotr speaks Polish awkwardly, remembering more from his ancestors than from personal experience. He moves into a run-down large rural estate previously owned by Zaneta's grandfather.</p><p>While digging in the yard with a backhoe right before the wedding, Piotr finds a skeleton, which at first he keeps quiet about. He is increasingly haunted by the vision of a woman in a wedding dress - Hana. During the wedding reception this vision draws closer and closer to him, and he has apparent seizures. He is eventually possessed by Hana, the woman in the dress. Zaneta's family is well-to-do, and they want to keep his breakdown quiet from the rest of the wedding guests, so they distract their guests with vodka and loud music while locking Piotr in the basement, first with a doctor, then a priest. Finally, the \"teacher\" (Wlodzimierz Press, who appears to be the only surviving Jewish resident of the town pre-war), realizes that Piotr is speaking Yiddish, and that he is possessed by the spirit of Hana, a lovely Jewish girl he knew before the war who suddenly disappeared.</p><p>The film is a re-telling of a classic dybbuk story and also an allegory for Polish-Jewish relations before and after the war. It is implied that Zaneta's grandfather may have gotten rich in part by \"possessing\" this property once its former Jewish residents were gone.</p><br/><h3>Cast</h3><ul><li>Itay Tiran as Piotr 'Pyton'</li><li>Agnieszka Zulewska as Zaneta</li><li>Tomasz Schuchardt as 'Jasny'</li><li>Andrzej Grabowski as Zaneta's father</li><li>Tomasz Zi\u0119tek as Ronaldo</li><li>Katarzyna Gniewkowska as Gabryjelska</li><li>Maria D\u0119bska as Hana</li><li>Adam Woronowicz as Doctor</li></ul><br/><h3>Reception</h3><h4>Critical response</h4><p>On review aggregator Rotten Tomatoes, Demon holds an approval rating of 92%, based on 66 reviews, and an average rating of 7.4/10. It's consensus reads, \"Ambitious and beautifully shot, Demon delivers a gripping -- and sadly final -- testament to the singular talent possessed by director/co-writer Marcin Wrona.\" On Metacritic, the film has a weighted average score of 80 out of 100, based on 19 critics, indicating \"generally positive reviews\".</p><p>Chuck Bowen from Slant Magazine gave the film 3.5 out of 4 stars, writing, \"Demon offers a tidal wave of unrelieved longing and regret, with a devilish streak of absurdism.\" Giuseppe Sedia of the Krakow Post noted that the character played by Israeli actor Itay Tiran turns out to be \"the most tormented groom ever seen in Polish film\". He added that \"the distastrous reception is drenched in vodka just like the banquet displayed in Wojciech Smarzowski's The Wedding but purged from any black comedy\". Jake Dee from Arrow in the Head rated the film a score of 8/10, writing, \"Shot with a steady and sure-handed formalistic lens, played with credible pathos by all involved, belled with a quizzically unnerving score - despite the humor hampering the horror at times - Demon is a bold and balefully bedeviling Polish delight!\" Justin Chang of the Los Angeles Times praised the film's cinematography, and called it \" A bravura testament to a talent silenced far too soon.\". Joshua Rothkopf from Time Out awarded the film 4 out of 5 stars, writing, \"Nailing a tricky sense of physical anarchy (as well as some far subtler domestic tensions), Marcin Wrona\u2019s Polish import is an eerie, extraordinarily poised piece of horror.\"</p><p>The film was not without its detractors. Joe Leydon from Variety commended the film's atmosphere and absurdist humor, but slammed the film's third act. Chris Nashawaty of Entertainment Weekly rated the film a grade C, writing, \"Heavy on atmosphere and symbolism but light on actual scares, director Marcin Wrona\u2019s generically titled Demon is a so-so meditation on historical amnesia. It\u2019s also so weighted down with mysticism and metaphor it forgets to quicken your pulse or whiten your knuckles.\" The film was also a victim of vote brigading on IMDb.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt4935158",
+        "title": "Demon",
+        "fullTitle": "Demon (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "posters": [
+            {
+                "id": "1Lkmicr9GhlVUzn9YVqHkQNka98.jpg",
+                "link": "https://imdb-api.com/posters/original/1Lkmicr9GhlVUzn9YVqHkQNka98.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "oG0hyQ0YQI7b7Fyx3OnWgi5ooiq.jpg",
+                "link": "https://imdb-api.com/posters/original/oG0hyQ0YQI7b7Fyx3OnWgi5ooiq.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 646,
+                "height": 969
+            }
+        ],
+        "backdors": [
+            {
+                "id": "tAhI9ARYeWetpPgwqFiboSdvkvr.jpg",
+                "link": "https://imdb-api.com/posters/original/tAhI9ARYeWetpPgwqFiboSdvkvr.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "cpSo8r82UWC9QW2EE9k0Otfkyan.jpg",
+                "link": "https://imdb-api.com/posters/original/cpSo8r82UWC9QW2EE9k0Otfkyan.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt4935158",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt4935158",
+        "title": "Demon",
+        "fullTitle": "Demon (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "videoId": "vi1793047065",
+        "videoTitle": "Demon",
+        "videoDescription": "Trailer for Demon",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjBjZjg4ZWUtNzE0MC00NmZmLTg1YTAtZjhmYThkZmYzN2ZkXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "12/05/2018 17:09:49",
+        "link": "https://www.imdb.com/video/vi1793047065",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1793047065/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "$13,023, 11 September 2016",
+        "grossUSA": "$104,038",
+        "cumulativeWorldwideGross": "$104,038"
+    },
+    "tagline": "",
+    "keywords": "topless female nudity,wedding dress,sex scene,bare breasts,wedding",
+    "keywordList": [
+        "topless female nudity",
+        "wedding dress",
+        "sex scene",
+        "bare breasts",
+        "wedding"
+    ],
+    "similars": [
+        {
+            "id": "tt1674050",
+            "title": "The Christening",
+            "fullTitle": "The Christening (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BZThmNWEyOTQtOGMwMi00NzIyLTkzZGUtMzdlNDkzZDUwODEwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7368_AL_.jpg",
+            "plot": "Janek comes to Warsaw to become the godfather of his good old friend's baby. During the week before the ceremony the lives of Janek, Michal and his wife Magda change dramatically as the men's criminal past haunts them mercilessly.",
+            "directors": "Marcin Wrona",
+            "stars": "Wojciech Zielinski, Tomasz Schuchardt, Natalia Rybicka",
+            "genres": "Drama, Thriller",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt1471195",
+            "title": "My Flesh My Blood",
+            "fullTitle": "My Flesh My Blood (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMGRjYWM3ZWQtMjI5MS00NGM0LTllNzctM2YwMzcyOWVhMjJjXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "IGOR is a professional boxer whose world comes to a halt when he learns that his brain has been severely damaged from his many years of fighting. Refusing to undergo surgery, he knows that ... See full summary \u00bb",
+            "directors": "Marcin Wrona",
+            "stars": "Eryk Lubos, De Ly Luu, Wojciech Zielinski",
+            "genres": "Drama",
+            "imDbRating": "5.7"
+        },
+        {
+            "id": "tt4291590",
+            "title": "\u00c9volution",
+            "fullTitle": "\u00c9volution (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BNWQxYTIxMWYtZjQzNC00MmQ4LThkYmItODJkZTM5MDg0NTkzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The only residents of young Nicholas' sea-side town are women and boys. When he sees a corpse in the ocean one day, he begins to question his existence and surroundings. Why must he, and all the other boys, be hospitalised?",
+            "directors": "Lucile Hadzihalilovic",
+            "stars": "Marta Blanc, Max Brebant, Roxane Duran",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "5.9"
+        },
+        {
+            "id": "tt5278832",
+            "title": "The Lure",
+            "fullTitle": "The Lure (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BZjhiMDcxM2EtNjllZi00YjJhLTg4MmEtMTg2ZjY2ZmViYjM1XkEyXkFqcGdeQXVyMjYxMzY2NDk@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "In Warsaw, a pair of mermaid sisters are adopted into a cabaret. While one seeks love with humans the other hungers to dine on the human population of the city.",
+            "directors": "Agnieszka Smoczynska",
+            "stars": "Marta Mazurek, Michalina Olszanska, Kinga Preis",
+            "genres": "Comedy, Drama, Fantasy",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt6244888",
+            "title": "Dominus",
+            "fullTitle": "Dominus (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BZWYzNTU2YWYtZjM0MS00YTBjLTgxMTctNTAwYTM0MTM1ZmY2XkEyXkFqcGdeQXVyMTExODI5NDIz._V1_Ratio0.6842_AL_.jpg",
+            "plot": "Anthology film based on Ray Bradbery's stories \"The Black Ferris\" and \"The Scythe\".",
+            "directors": "Directors: Aleksandr Khvan, Marina Tsurtsumia",
+            "stars": "Viktor Yevgrafov, Boris Yukhananov, Yelena Yevseyenko",
+            "genres": "Fantasy, Horror, Mystery",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt0103093",
+            "title": "Tishina",
+            "fullTitle": "Tishina (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ0MDY2OTQyNV5BMl5BanBnXkFtZTgwNjY0MDQxNjE@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "A young sculpturist has been preparing his first exhibition for years. In the autumn of 1962 it becomes a fact. The show provokes a scandal in the society.",
+            "directors": "Dimitar Petkov",
+            "stars": "Hristo Garbov, Joreta Nikolova, Petar Popyordanov",
+            "genres": "Drama",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt6164502",
+            "title": "November",
+            "fullTitle": "November (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNzU0NzIwMTc5M15BMl5BanBnXkFtZTgwOTI0MzI3NDM@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "In a poor Estonian village, a group of peasants use magic and folk remedies to survive the winter, and a young woman tries to get a young man to love her.",
+            "directors": "Rainer Sarnet",
+            "stars": "Rea Lest, J\u00f6rgen Liik, Arvo Kukum\u00e4gi",
+            "genres": "Drama, Fantasy, Horror",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt8259108",
+            "title": "The Demon",
+            "fullTitle": "The Demon (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BNjAxZGY5NDItMmQ3YS00YTUyLTg3MzMtYjFmZmJmNjc2M2E3XkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "One New Year's Eve party takes a disturbing turn in this supernatural horror tale. A group of friends gather and celebrate at an abandoned building to live it up at the end of the year. ... See full summary \u00bb",
+            "directors": "Directors: O. Munguntulga, B. Tsogt-Erdene",
+            "stars": "Enkhtuwshin Baljaa, M. Batzorig, E. Purewjargal",
+            "genres": "Horror",
+            "imDbRating": "4.1"
+        },
+        {
+            "id": "tt7275352",
+            "title": "Demon",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BY2Q5OGUxNTEtMDJlZS00MWE3LWE2MmQtNWFmOTY0NjA3NjAyXkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "When the embodiment of evil rises to destroy Earth and all that we know, can the human race defend itself or will it succumb to the forces of evil. When you enter the world of this terrifying new anthology, things are never what they seem.",
+            "directors": "Dallas King",
+            "stars": "Ramon Antonio, Michael Dionne, Thai Edwards",
+            "genres": "Horror",
+            "imDbRating": "5.4"
+        },
+        {
+            "id": "tt4823434",
+            "title": "Tigers Are Not Afraid",
+            "fullTitle": "Tigers Are Not Afraid (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMTMyN2Q5ODYtMWI3OC00NjBjLWIyYTItNGE5NGJiYzI4NjNjXkEyXkFqcGdeQXVyNDc3MzM3MQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A dark fairy tale about a gang of five children trying to survive the horrific violence of the cartels and the ghosts created every day by the drug war.",
+            "directors": "Issa L\u00f3pez",
+            "stars": "Paola Lara, Juan Ram\u00f3n L\u00f3pez, Nery Arredondo",
+            "genres": "Fantasy, Horror, Mystery",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt2793490",
+            "title": "Starry Eyes",
+            "fullTitle": "Starry Eyes (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BNTY1ODUyODIxOF5BMl5BanBnXkFtZTgwMDcyMjE0MzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A hopeful young starlet uncovers the ominous origins of the Hollywood elite and enters into a deadly agreement in exchange for fame and fortune.",
+            "directors": "Directors: Kevin K\u00f6lsch, Dennis Widmyer",
+            "stars": "Alex Essoe, Amanda Fuller, Noah Segan",
+            "genres": "Drama, Fantasy, Horror",
+            "imDbRating": "6"
+        },
+        {
+            "id": "tt7076834",
+            "title": "Satan's Slaves",
+            "fullTitle": "Satan's Slaves (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNTg3ZjlkMGUtNWYwZC00MGQxLTkxMWQtNTkwNjg5NDlmNDdjXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "After dying from a strange illness that she suffered for 3 years, a mother returns home to pick up her children.",
+            "directors": "Joko Anwar",
+            "stars": "Tara Basro, Bront Palarae, Dimas Aditya",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "6.6"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

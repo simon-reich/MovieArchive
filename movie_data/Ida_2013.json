@@ -1,0 +1,1654 @@
+{
+    "id": "tt2718492",
+    "title": "Ida",
+    "originalTitle": "",
+    "fullTitle": "Ida (2013)",
+    "type": "Movie",
+    "year": "2013",
+    "image": "https://imdb-api.com/images/original/MV5BNjk3NDkzMzMtMGM3MS00YmJkLTkwNmMtZjU5ZWIyNTkzMjJkXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2013-10-25",
+    "runtimeMins": "82",
+    "runtimeStr": "1h 22mins",
+    "plot": "Poland, 1962. Anna, an orphan brought up by nuns in the convent, is a novice. She has to see Wanda, the only living relative, before she takes her vows. Wanda tells Anna about her Jewish roots. Both women start a journey not only to find their family's tragic story, but to see who they really are and where they belong. They question what they used to believe in.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Won 1 Oscar. Another 67 wins & 89 nominations.",
+    "directors": "Pawel Pawlikowski",
+    "directorList": [
+        {
+            "id": "nm0667734",
+            "name": "Pawel Pawlikowski"
+        }
+    ],
+    "writers": "Pawel Pawlikowski, Rebecca Lenkiewicz",
+    "writerList": [
+        {
+            "id": "nm0667734",
+            "name": "Pawel Pawlikowski"
+        },
+        {
+            "id": "nm0501947",
+            "name": "Rebecca Lenkiewicz"
+        }
+    ],
+    "stars": "Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik, Jerzy Trela",
+    "starList": [
+        {
+            "id": "nm0474492",
+            "name": "Agata Kulesza"
+        },
+        {
+            "id": "nm5531398",
+            "name": "Agata Trzebuchowska"
+        },
+        {
+            "id": "nm4221607",
+            "name": "Dawid Ogrodnik"
+        },
+        {
+            "id": "nm0871827",
+            "name": "Jerzy Trela"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0474492",
+            "image": "https://imdb-api.com/images/original/MV5BOTVlYjJjMjMtYmZlNS00MDZiLTg3MWQtYmRmMWNhZTU0ZTEzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Agata Kulesza",
+            "asCharacter": "Wanda"
+        },
+        {
+            "id": "nm5531398",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxMTc0NzQ4NF5BMl5BanBnXkFtZTgwODg3NDU3MzE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Agata Trzebuchowska",
+            "asCharacter": "Anna"
+        },
+        {
+            "id": "nm4221607",
+            "image": "https://imdb-api.com/images/original/MV5BYzlmODQwNGUtMjY2NS00N2UzLTkyMDItYzgwODczNTkxMjM2XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dawid Ogrodnik",
+            "asCharacter": "Lis"
+        },
+        {
+            "id": "nm0871827",
+            "image": "https://imdb-api.com/images/original/MV5BYTljYzU3ZDctMWNlNy00NmQ5LThkZDEtODVmOGM5MDZlZGQzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Jerzy Trela",
+            "asCharacter": "Szymon"
+        },
+        {
+            "id": "nm1167938",
+            "image": "https://imdb-api.com/images/original/MV5BYzcyNTMzMTEtMTBhOS00MDhmLWI0MDgtNmExZmY4OWMzYjIwXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Adam Szyszkowski",
+            "asCharacter": "Feliks"
+        },
+        {
+            "id": "nm0804518",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Halina Skoczynska",
+            "asCharacter": "Mother Superior"
+        },
+        {
+            "id": "nm2251846",
+            "image": "https://imdb-api.com/images/original/MV5BYWNkNzBhNDktMTdjMC00MjQ0LWFhZmYtZWRkZDllMjRiYmRiXkEyXkFqcGdeQXVyMzM1MDY5Njc@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Joanna Kulig",
+            "asCharacter": "Singer"
+        },
+        {
+            "id": "nm4002803",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dorota Kuduk",
+            "asCharacter": "Kaska"
+        },
+        {
+            "id": "nm6322241",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Natalia Lagiewczyk",
+            "asCharacter": "Bronia"
+        },
+        {
+            "id": "nm6322242",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Afrodyta Weselak",
+            "asCharacter": "Marysia"
+        },
+        {
+            "id": "nm0416062",
+            "image": "https://imdb-api.com/images/original/MV5BYjhmNDUyNjktNGM5Yi00YWYxLTljNDMtMmI4ZDliMDE3YjgxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Mariusz Jakus",
+            "asCharacter": "Barman"
+        },
+        {
+            "id": "nm1338684",
+            "image": "https://imdb-api.com/images/original/MV5BNjc1YzRjNTUtNjQwNi00ODhhLTlmOTYtMjMxYjQ0OWY5ZjYxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Izabela Dabrowska",
+            "asCharacter": "Waitress"
+        },
+        {
+            "id": "nm2267962",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Artur Janusiak",
+            "asCharacter": "Policeman"
+        },
+        {
+            "id": "nm0344849",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anna Grzeszczak",
+            "asCharacter": "Neighbour"
+        },
+        {
+            "id": "nm1579355",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jan Wojciech Poradowski",
+            "asCharacter": "Father Andrew (as Jan Wociech Poradowski)"
+        },
+        {
+            "id": "nm0844368",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Konstanty Szwemberg",
+            "asCharacter": "Official"
+        },
+        {
+            "id": "nm0120893",
+            "image": "https://imdb-api.com/images/original/MV5BMDI3N2U5ZDUtYzNhOC00MWI2LTk5MmYtMGU1OTYxYzQxZDNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Pawel Burczyk",
+            "asCharacter": "Prosecutor"
+        },
+        {
+            "id": "nm3471858",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Artur Majewski",
+            "asCharacter": "Wanda's Lover"
+        },
+        {
+            "id": "nm6322244",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Krzysztof Brzezinski",
+            "asCharacter": "Pianist"
+        },
+        {
+            "id": "nm6322245",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Piotr Sadul",
+            "asCharacter": "Bass Player"
+        },
+        {
+            "id": "nm6322246",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lukasz Jerzykowski",
+            "asCharacter": "Guitarist"
+        },
+        {
+            "id": "nm6322247",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Artur Mostowy",
+            "asCharacter": "Drummer"
+        },
+        {
+            "id": "nm0440760",
+            "image": "https://imdb-api.com/images/original/MV5BZDMyMjM3MDAtZDU4Zi00MWFmLWIwMmEtMGQ1NDEwMjUyODQzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Marek Kasprzyk",
+            "asCharacter": "Man in Bar (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt2718492",
+        "title": "Ida",
+        "fullTitle": "Ida (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0667734",
+                    "name": "Pawel Pawlikowski",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0667734",
+                    "name": "Pawel Pawlikowski",
+                    "description": "(screenplay) and"
+                },
+                {
+                    "id": "nm0501947",
+                    "name": "Rebecca Lenkiewicz",
+                    "description": "(screenplay)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0474492",
+                "image": "https://imdb-api.com/images/original/MV5BOTVlYjJjMjMtYmZlNS00MDZiLTg3MWQtYmRmMWNhZTU0ZTEzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Agata Kulesza",
+                "asCharacter": "Wanda"
+            },
+            {
+                "id": "nm5531398",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxMTc0NzQ4NF5BMl5BanBnXkFtZTgwODg3NDU3MzE@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Agata Trzebuchowska",
+                "asCharacter": "Anna"
+            },
+            {
+                "id": "nm4221607",
+                "image": "https://imdb-api.com/images/original/MV5BYzlmODQwNGUtMjY2NS00N2UzLTkyMDItYzgwODczNTkxMjM2XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dawid Ogrodnik",
+                "asCharacter": "Lis"
+            },
+            {
+                "id": "nm0871827",
+                "image": "https://imdb-api.com/images/original/MV5BYTljYzU3ZDctMWNlNy00NmQ5LThkZDEtODVmOGM5MDZlZGQzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.4545_AL_.jpg",
+                "name": "Jerzy Trela",
+                "asCharacter": "Szymon"
+            },
+            {
+                "id": "nm1167938",
+                "image": "https://imdb-api.com/images/original/MV5BYzcyNTMzMTEtMTBhOS00MDhmLWI0MDgtNmExZmY4OWMzYjIwXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Adam Szyszkowski",
+                "asCharacter": "Feliks"
+            },
+            {
+                "id": "nm0804518",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Halina Skoczynska",
+                "asCharacter": "Mother Superior"
+            },
+            {
+                "id": "nm2251846",
+                "image": "https://imdb-api.com/images/original/MV5BYWNkNzBhNDktMTdjMC00MjQ0LWFhZmYtZWRkZDllMjRiYmRiXkEyXkFqcGdeQXVyMzM1MDY5Njc@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Joanna Kulig",
+                "asCharacter": "Singer"
+            },
+            {
+                "id": "nm4002803",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dorota Kuduk",
+                "asCharacter": "Kaska"
+            },
+            {
+                "id": "nm6322241",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Natalia Lagiewczyk",
+                "asCharacter": "Bronia"
+            },
+            {
+                "id": "nm6322242",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Afrodyta Weselak",
+                "asCharacter": "Marysia"
+            },
+            {
+                "id": "nm0416062",
+                "image": "https://imdb-api.com/images/original/MV5BYjhmNDUyNjktNGM5Yi00YWYxLTljNDMtMmI4ZDliMDE3YjgxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Mariusz Jakus",
+                "asCharacter": "Barman"
+            },
+            {
+                "id": "nm1338684",
+                "image": "https://imdb-api.com/images/original/MV5BNjc1YzRjNTUtNjQwNi00ODhhLTlmOTYtMjMxYjQ0OWY5ZjYxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Izabela Dabrowska",
+                "asCharacter": "Waitress"
+            },
+            {
+                "id": "nm2267962",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Artur Janusiak",
+                "asCharacter": "Policeman"
+            },
+            {
+                "id": "nm0344849",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anna Grzeszczak",
+                "asCharacter": "Neighbour"
+            },
+            {
+                "id": "nm1579355",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jan Wojciech Poradowski",
+                "asCharacter": "Father Andrew (as Jan Wociech Poradowski)"
+            },
+            {
+                "id": "nm0844368",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Konstanty Szwemberg",
+                "asCharacter": "Official"
+            },
+            {
+                "id": "nm0120893",
+                "image": "https://imdb-api.com/images/original/MV5BMDI3N2U5ZDUtYzNhOC00MWI2LTk5MmYtMGU1OTYxYzQxZDNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Pawel Burczyk",
+                "asCharacter": "Prosecutor"
+            },
+            {
+                "id": "nm3471858",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Artur Majewski",
+                "asCharacter": "Wanda's Lover"
+            },
+            {
+                "id": "nm6322244",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Krzysztof Brzezinski",
+                "asCharacter": "Pianist"
+            },
+            {
+                "id": "nm6322245",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Piotr Sadul",
+                "asCharacter": "Bass Player"
+            },
+            {
+                "id": "nm6322246",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lukasz Jerzykowski",
+                "asCharacter": "Guitarist"
+            },
+            {
+                "id": "nm6322247",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Artur Mostowy",
+                "asCharacter": "Drummer"
+            },
+            {
+                "id": "nm0440760",
+                "image": "https://imdb-api.com/images/original/MV5BZDMyMjM3MDAtZDU4Zi00MWFmLWIwMmEtMGQ1NDEwMjUyODQzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Marek Kasprzyk",
+                "asCharacter": "Man in Bar (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0008937",
+                        "name": "Eric Abraham",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0246185",
+                        "name": "Piotr Dzieciol",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm2161354",
+                        "name": "Sofie Wanting Hassing",
+                        "description": "associate producer: Denmark"
+                    },
+                    {
+                        "id": "nm2737537",
+                        "name": "Christian Falkenberg Husum",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm5896500",
+                        "name": "Magdalena Malisz",
+                        "description": "line producer"
+                    },
+                    {
+                        "id": "nm2038610",
+                        "name": "Ewa Puszczynska",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0253120",
+                        "name": "Kristian Eidnes Andersen",
+                        "description": "(as Kristian Selin Eidnes Andersen)"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0501755",
+                        "name": "Ryszard Lenczewski",
+                        "description": "director of photography"
+                    },
+                    {
+                        "id": "nm2617994",
+                        "name": "Lukasz Zal",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0436722",
+                        "name": "Jaroslaw Kaminski",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm3666139",
+                        "name": "Alina Trybilo-Falana",
+                        "description": "(as Alina Falana)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm3793682",
+                        "name": "Marcel Slawinski",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0811723",
+                        "name": "Katarzyna Sobanska-Strzalkowska",
+                        "description": "(as Katarzyna Sobanska)"
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm6330714",
+                        "name": "Jagna Dobesz",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm1455938",
+                        "name": "Ola Staszko",
+                        "description": "(as Aleksandra Staszko)"
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm1276201",
+                        "name": "Anna Kieszczynska",
+                        "description": "makeup artist (as Anna Niuta Kieszczynska)"
+                    },
+                    {
+                        "id": "nm2623119",
+                        "name": "Katarzyna Lipinska",
+                        "description": "makeup assistant (as Katarzina Lipinska)"
+                    },
+                    {
+                        "id": "nm6331892",
+                        "name": "Rafal Rodak",
+                        "description": "makeup assistant"
+                    },
+                    {
+                        "id": "nm2766740",
+                        "name": "Tomasz Sielecki",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm6331891",
+                        "name": "Robert Zajac",
+                        "description": "makeup assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm6325175",
+                        "name": "Karolina Aleksa",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm3888974",
+                        "name": "Adam Haracz",
+                        "description": "second second assistant director"
+                    },
+                    {
+                        "id": "nm1450640",
+                        "name": "Marcin Mayzel",
+                        "description": "first first assistant director"
+                    },
+                    {
+                        "id": "nm3233739",
+                        "name": "Wiktor Mentlewicz",
+                        "description": "first assistant director (as Viktor Mentlewicz)"
+                    },
+                    {
+                        "id": "nm4057125",
+                        "name": "Mariusz Wlodarski",
+                        "description": "first assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm6322296",
+                        "name": "Katarzyna Bogdanska",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm3669706",
+                        "name": "Marek Bomba",
+                        "description": "set construction manager"
+                    },
+                    {
+                        "id": "nm6330716",
+                        "name": "Robert Bomba",
+                        "description": "set construction crew"
+                    },
+                    {
+                        "id": "nm6068968",
+                        "name": "Dorota Borkowska",
+                        "description": "assistant art director"
+                    },
+                    {
+                        "id": "nm4667179",
+                        "name": "Tomasz Chudobinski",
+                        "description": "set construction crew"
+                    },
+                    {
+                        "id": "nm5288021",
+                        "name": "Piotr Gaszewski",
+                        "description": "prop assistant"
+                    },
+                    {
+                        "id": "nm6330715",
+                        "name": "Patryk Kowalczyk",
+                        "description": "assistant art director"
+                    },
+                    {
+                        "id": "nm4670954",
+                        "name": "Marek Krol",
+                        "description": "set construction crew"
+                    },
+                    {
+                        "id": "nm6330717",
+                        "name": "Alfred L\u00fcdert",
+                        "description": "set construction crew"
+                    },
+                    {
+                        "id": "nm0713655",
+                        "name": "Andrzej Razniewski",
+                        "description": "props buyer"
+                    },
+                    {
+                        "id": "nm0713654",
+                        "name": "Marek Razniewski",
+                        "description": "prop man"
+                    },
+                    {
+                        "id": "nm5288017",
+                        "name": "Jakub Sniec",
+                        "description": "prop assistant"
+                    },
+                    {
+                        "id": "nm4682804",
+                        "name": "Pawel Sturlis",
+                        "description": "stage hand"
+                    },
+                    {
+                        "id": "nm5580887",
+                        "name": "Agata Trojak-Saribas",
+                        "description": "assistant art director (as Agata Trojak)"
+                    },
+                    {
+                        "id": "nm2940351",
+                        "name": "Krzysztof Zalewski",
+                        "description": "stage hand"
+                    },
+                    {
+                        "id": "nm2766683",
+                        "name": "Piotr Zalewski",
+                        "description": "stage hand"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0216056",
+                        "name": "Michael Dela",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm1314262",
+                        "name": "Piotr Fede",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm1858336",
+                        "name": "Marcin Jachyra",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm0465084",
+                        "name": "Andreas Kongsgaard",
+                        "description": "re-recording mixer / sound editor"
+                    },
+                    {
+                        "id": "nm6331897",
+                        "name": "Mateusz Kosman",
+                        "description": "playback recordist: Toya Studios"
+                    },
+                    {
+                        "id": "nm0467361",
+                        "name": "Michal Kosterkiewicz",
+                        "description": "adr editor / dialogue editor"
+                    },
+                    {
+                        "id": "nm0486248",
+                        "name": "Martin Langenbach",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0528579",
+                        "name": "Claus Lynge",
+                        "description": "re-recording mixer / supervising sound editor and re-recording mixer"
+                    },
+                    {
+                        "id": "nm1297679",
+                        "name": "Miroslaw Makowski",
+                        "description": "on-set sound operator"
+                    },
+                    {
+                        "id": "nm2039982",
+                        "name": "Robert Sedzicki",
+                        "description": "playback recordist"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0556482",
+                        "name": "Slawomir Maslanka",
+                        "description": "pyrotechnic effects"
+                    },
+                    {
+                        "id": "nm1825979",
+                        "name": "Piotr Nowacki",
+                        "description": "pyrotechnic effects"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm6330720",
+                        "name": "Jaroslaw Kapuscinski",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm3201594",
+                        "name": "Radoslaw Rekita",
+                        "description": "computer effects: Stage 2"
+                    },
+                    {
+                        "id": "nm2655797",
+                        "name": "Robert Stasz",
+                        "description": "visual effects producer"
+                    },
+                    {
+                        "id": "nm6335570",
+                        "name": "Michal Truszkowski",
+                        "description": "visual effects producer"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm2396427",
+                        "name": "Maciej A. Maciejewski",
+                        "description": "stunt coordinator (as Maciej Maciejewski)"
+                    },
+                    {
+                        "id": "nm1670631",
+                        "name": "Andrzej Poneta",
+                        "description": "stunt performer"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm5249932",
+                        "name": "Lukasz Brzozowy",
+                        "description": "camera crew: second unit"
+                    },
+                    {
+                        "id": "nm6325174",
+                        "name": "Slawomir Chyla",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm4667203",
+                        "name": "Kamil Ciolkowski",
+                        "description": "cctv operator"
+                    },
+                    {
+                        "id": "nm1291644",
+                        "name": "Krzysztof Ciolkowski",
+                        "description": "focus puller"
+                    },
+                    {
+                        "id": "nm1322709",
+                        "name": "Ireneusz Dybowski",
+                        "description": "grip crew: second unit"
+                    },
+                    {
+                        "id": "nm0264593",
+                        "name": "Yori Fabian",
+                        "description": "camera crew: second unit"
+                    },
+                    {
+                        "id": "nm4511156",
+                        "name": "Pawel Fiwek",
+                        "description": "camera crew: second unit"
+                    },
+                    {
+                        "id": "nm3057170",
+                        "name": "Przemyslaw Gabryjelski",
+                        "description": "camera assistant"
+                    },
+                    {
+                        "id": "nm2808284",
+                        "name": "Michal Grabski",
+                        "description": "camera crew: second unit"
+                    },
+                    {
+                        "id": "nm6832022",
+                        "name": "Przemyslaw Gustowski",
+                        "description": "camera crew: second unit"
+                    },
+                    {
+                        "id": "nm0349151",
+                        "name": "Zbigniew Gustowski",
+                        "description": "camera crew: second unit (as Zbigniew Gutek Gustowski)"
+                    },
+                    {
+                        "id": "nm4682884",
+                        "name": "Sylwester Kazmierczak",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm1323260",
+                        "name": "Tadeusz Kedziak",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm2009314",
+                        "name": "Miroslaw Kowalczyk",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm1337450",
+                        "name": "Robert Lukowski",
+                        "description": "key grip (as Robert Batman Lukowski)"
+                    },
+                    {
+                        "id": "nm6331889",
+                        "name": "Liliana Milewska",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm3666119",
+                        "name": "Marian Mlynarski",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm2838553",
+                        "name": "Tomasz Nowak",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm6327320",
+                        "name": "Janusz Pawlowski",
+                        "description": "generator services"
+                    },
+                    {
+                        "id": "nm6325172",
+                        "name": "Jakub Skrzypczynski",
+                        "description": "camera crew: second unit"
+                    },
+                    {
+                        "id": "nm3665081",
+                        "name": "Krzysztof Strozczyk",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm1755629",
+                        "name": "Michal Wojciechowski",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm3665902",
+                        "name": "Marcin Wojtaszewski",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm1329646",
+                        "name": "Marek Wojtaszewski",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm6327319",
+                        "name": "Andrzej Zarzeka",
+                        "description": "generator services: Hydra Film"
+                    },
+                    {
+                        "id": "nm6325173",
+                        "name": "Marcin Zwierczchowski",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm5905880",
+                        "name": "Krzysztof Ziolkowski",
+                        "description": "assistant camera: second unit (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm5278797",
+                        "name": "Magdalena Bem",
+                        "description": "wardrobe mistress"
+                    },
+                    {
+                        "id": "nm5903166",
+                        "name": "Malgorzata Trzaskowska",
+                        "description": "wardrobe mistress"
+                    },
+                    {
+                        "id": "nm3666134",
+                        "name": "Agata Winska",
+                        "description": "assistant costume designer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm5694064",
+                        "name": "Malgorzata Bereznicka",
+                        "description": "post-production coordinator: Poland"
+                    },
+                    {
+                        "id": "nm6331899",
+                        "name": "Tomasz Czekierda",
+                        "description": "on-set digital crew: DI Factory"
+                    },
+                    {
+                        "id": "nm8836044",
+                        "name": "Brano Danis",
+                        "description": "color timer"
+                    },
+                    {
+                        "id": "nm5811756",
+                        "name": "Michal Herman",
+                        "description": "digital grader: DI Factory"
+                    },
+                    {
+                        "id": "nm4300692",
+                        "name": "Wojciech Janas",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm6331898",
+                        "name": "Zofia Kielak",
+                        "description": "on-set digital crew: DI Factory (as Zofia Syroka)"
+                    },
+                    {
+                        "id": "nm4318925",
+                        "name": "Michal Krajewski",
+                        "description": "conformer: DI Factory / on-set digital crew: DI Factory"
+                    },
+                    {
+                        "id": "nm5811758",
+                        "name": "Maciej Mika",
+                        "description": "master dcp production: DI Factory"
+                    },
+                    {
+                        "id": "nm4317864",
+                        "name": "Kamil Rutkowski",
+                        "description": "digital intermediate technical supervisor: DI Factory"
+                    },
+                    {
+                        "id": "nm1451168",
+                        "name": "Jedrzej Sablinski",
+                        "description": "digital post-production producer: DI Factory"
+                    },
+                    {
+                        "id": "nm4320013",
+                        "name": "Julia Skorupska",
+                        "description": "digital post-production producer: DI Factory"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm6337075",
+                        "name": "Halszka Bukowska",
+                        "description": "location coordinator"
+                    },
+                    {
+                        "id": "nm4080723",
+                        "name": "Jacek Strzelecki",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm2615167",
+                        "name": "Agnieszka Wasiak",
+                        "description": "location coordinator"
+                    },
+                    {
+                        "id": "nm6335875",
+                        "name": "Stanislaw Zalewski",
+                        "description": "location coordinator: Stanzal"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0253120",
+                        "name": "Kristian Eidnes Andersen",
+                        "description": "consultant: music mix (as Kristian Selin Eidnes Andersen)"
+                    },
+                    {
+                        "id": "nm6331896",
+                        "name": "Anna Bilicka",
+                        "description": "music clearances"
+                    },
+                    {
+                        "id": "nm6322244",
+                        "name": "Krzysztof Brzezinski",
+                        "description": "musician: piano"
+                    },
+                    {
+                        "id": "nm6322246",
+                        "name": "Lukasz Jerzykowski",
+                        "description": "musician: guitar"
+                    },
+                    {
+                        "id": "nm6331893",
+                        "name": "Michal Kabojek",
+                        "description": "musician: saxophone (as Michal Kobojek)"
+                    },
+                    {
+                        "id": "nm2251846",
+                        "name": "Joanna Kulig",
+                        "description": "musician: vocals"
+                    },
+                    {
+                        "id": "nm6322247",
+                        "name": "Artur Mostowy",
+                        "description": "musician: drums"
+                    },
+                    {
+                        "id": "nm4221607",
+                        "name": "Dawid Ogrodnik",
+                        "description": "musician: saxophone"
+                    },
+                    {
+                        "id": "nm1447438",
+                        "name": "Lars Rasmussen",
+                        "description": "assistant music editor"
+                    },
+                    {
+                        "id": "nm8954276",
+                        "name": "Piotr Siadul",
+                        "description": "musician: bass"
+                    },
+                    {
+                        "id": "nm1482497",
+                        "name": "Henrik Dam Thomsen",
+                        "description": "musician: cello"
+                    },
+                    {
+                        "id": "nm4171509",
+                        "name": "Jochem Weierink",
+                        "description": "composer: trailer music"
+                    },
+                    {
+                        "id": "nm6331894",
+                        "name": "Zbigniew Zeno",
+                        "description": "musician: saxophone"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm1265765",
+                        "name": "Karolina Foltyn",
+                        "description": "continuity (as Karolina Foltyn-Gmerek)"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm6330718",
+                        "name": "Pawel Gaplinski",
+                        "description": "driver: wardrobe bus"
+                    },
+                    {
+                        "id": "nm2035519",
+                        "name": "Wlodzimierz Kruszona",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm1529177",
+                        "name": "Tadeusz Kupiec",
+                        "description": "driver: low loader"
+                    },
+                    {
+                        "id": "nm5153540",
+                        "name": "Lukasz Mizak",
+                        "description": "driver: low loader, Top Film (as Lukasz Misak)"
+                    },
+                    {
+                        "id": "nm6335872",
+                        "name": "Jan Piatkowski",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm6832025",
+                        "name": "Piotr Sleczkowski",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm6335871",
+                        "name": "Deszko Tanev",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm6335572",
+                        "name": "Piotr Warych",
+                        "description": "consultant: vintage cars"
+                    },
+                    {
+                        "id": "nm1438050",
+                        "name": "Janusz Weclawek",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm6832024",
+                        "name": "Stanzal-Stanislaw Zalewski",
+                        "description": "transportation coordinator"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm5694064",
+                        "name": "Malgorzata Bereznicka",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm6335574",
+                        "name": "Jacek Biernas",
+                        "description": "legal services"
+                    },
+                    {
+                        "id": "nm6335577",
+                        "name": "George Celinski",
+                        "description": "horse and cart coordinator"
+                    },
+                    {
+                        "id": "nm4519962",
+                        "name": "Ben Coren",
+                        "description": "development staff"
+                    },
+                    {
+                        "id": "nm3868826",
+                        "name": "Grzegorz Debowski",
+                        "description": "assistant to director"
+                    },
+                    {
+                        "id": "nm4681852",
+                        "name": "Mieszko Falana",
+                        "description": "extras coordinator"
+                    },
+                    {
+                        "id": "nm6335571",
+                        "name": "Amelia Florczak",
+                        "description": "credits"
+                    },
+                    {
+                        "id": "nm6335575",
+                        "name": "Marcin Glogowski",
+                        "description": "on-set security"
+                    },
+                    {
+                        "id": "nm0375007",
+                        "name": "Elzbieta Heleniak",
+                        "description": "accountant"
+                    },
+                    {
+                        "id": "nm0385904",
+                        "name": "Billy Hinshelwood",
+                        "description": "legal services"
+                    },
+                    {
+                        "id": "nm4580785",
+                        "name": "Kristin Irving",
+                        "description": "development staff"
+                    },
+                    {
+                        "id": "nm6335880",
+                        "name": "Pawel Jasek",
+                        "description": "caterer"
+                    },
+                    {
+                        "id": "nm6335578",
+                        "name": "Maciej Krzywanski",
+                        "description": "street location coordinator"
+                    },
+                    {
+                        "id": "nm6335879",
+                        "name": "Beata Michalek",
+                        "description": "caterer (as Beata Michalec)"
+                    },
+                    {
+                        "id": "nm6335876",
+                        "name": "Sylwester Mruk",
+                        "description": "street location security (as Kemy-Sylwester Mruk)"
+                    },
+                    {
+                        "id": "nm6335878",
+                        "name": "Stanislaw Niemczak",
+                        "description": "caterer"
+                    },
+                    {
+                        "id": "nm6335881",
+                        "name": "Sebastian Panicz",
+                        "description": "caterer"
+                    },
+                    {
+                        "id": "nm6335573",
+                        "name": "Malgorzata Parzynowska",
+                        "description": "consultant: religion"
+                    },
+                    {
+                        "id": "nm6335576",
+                        "name": "Bartosz Sadowski",
+                        "description": "on-set security: Dunez"
+                    },
+                    {
+                        "id": "nm6335874",
+                        "name": "Zdislaw Sowinski",
+                        "description": "traffic coordinator"
+                    },
+                    {
+                        "id": "nm6832026",
+                        "name": "Maciej Szaszkiewicz",
+                        "description": "caterer"
+                    },
+                    {
+                        "id": "nm1533162",
+                        "name": "Maria Szleiermacher",
+                        "description": "accountant"
+                    },
+                    {
+                        "id": "nm4667203",
+                        "name": "Kamil Ciolkowski",
+                        "description": "assistant: previz (uncredited)"
+                    },
+                    {
+                        "id": "nm0501945",
+                        "name": "Ewa Lenkiewicz",
+                        "description": "french adaptation: original version with subtitles (uncredited)"
+                    },
+                    {
+                        "id": "nm6327320",
+                        "name": "Janusz Pawlowski",
+                        "description": "subtitles by (uncredited)"
+                    },
+                    {
+                        "id": "nm6327319",
+                        "name": "Andrzej Zarzeka",
+                        "description": "subtitles by (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0190859",
+                        "name": "Alfonso Cuar\u00f3n",
+                        "description": "special thanks (as Alfonso Cuaron)"
+                    },
+                    {
+                        "id": "nm0255721",
+                        "name": "David Elstein",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0355822",
+                        "name": "Lee Hall",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0361851",
+                        "name": "Cezary Harasimowicz",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0002140",
+                        "name": "Agnieszka Holland",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1016428",
+                        "name": "James Marsh",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm5497982",
+                        "name": "Maria Pawlikowska",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0782036",
+                        "name": "Tanya Seghatchian",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0804592",
+                        "name": "Jerzy Skolimowski",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0844333",
+                        "name": "Malgorzata Szumowska",
+                        "description": "special thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Opus Film, Phoenix Film Investments, Canal+ Polska",
+    "companyList": [
+        {
+            "id": "co0054609",
+            "name": "Opus Film"
+        },
+        {
+            "id": "co0052190",
+            "name": "Phoenix Film Investments"
+        },
+        {
+            "id": "co0043688",
+            "name": "Canal+ Polska"
+        }
+    ],
+    "countries": "Poland, Denmark, France, UK",
+    "countryList": [
+        {
+            "key": "Poland",
+            "value": "Poland"
+        },
+        {
+            "key": "Denmark",
+            "value": "Denmark"
+        },
+        {
+            "key": "France",
+            "value": "France"
+        },
+        {
+            "key": "UK",
+            "value": "UK"
+        }
+    ],
+    "languages": "Polish, Latin, French",
+    "languageList": [
+        {
+            "key": "Polish",
+            "value": "Polish"
+        },
+        {
+            "key": "Latin",
+            "value": "Latin"
+        },
+        {
+            "key": "French",
+            "value": "French"
+        }
+    ],
+    "contentRating": "PG-13",
+    "imDbRating": "7.4",
+    "imDbRatingVotes": "50181",
+    "metacriticRating": "91",
+    "ratings": {
+        "imDbId": "tt2718492",
+        "title": "Ida",
+        "fullTitle": "Ida (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "imDb": "7.4",
+        "metacritic": "91",
+        "theMovieDb": "7.3",
+        "rottenTomatoes": "96",
+        "tV_com": "",
+        "filmAffinity": "6.9",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt2718492",
+        "title": "Ida",
+        "fullTitle": "Ida (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "language": "en",
+        "titleInLanguage": "Ida (film)",
+        "url": "https://en.wikipedia.org/wiki/Ida_(film)",
+        "plotShort": {
+            "plainText": "Ida (film)\r\nIda (Polish:) is a 2013 drama film directed by Pawe\u0142 Pawlikowski and written by Pawlikowski and Rebecca Lenkiewicz. Set in Poland in 1962, it is about a young woman on the verge of taking vows as a Catholic nun. Orphaned as an infant during the German occupation of World War II, she must now meet her aunt. The former Communist state prosecutor and only surviving relative tells her that her parents were Jewish. The two women embark on a road trip into the Polish countryside to learn the fate of their family.\r\nCalled a \"compact masterpiece\" and an \"eerily beautiful road movie\", the film has also been said to \"contain a cosmos of guilt, violence and pain\", even if certain historical events (German occupation of Poland, the Holocaust and Stalinism) remain unsaid: \"none of this is stated, but all of it is built, so to speak, into the atmosphere: the country feels dead, the population sparse\".\r\nIda won the 2015 Academy Award for Best Foreign Language Film, becoming the first Polish film to do so. It had earlier been selected as Best Film of 2014 by the European Film Academy and as Best Film Not in the English Language of 2014 by the British Academy of Film and Television Arts (BAFTA). In 2016, the film was named as the 55th best film of the 21st century, from a poll of 177 film critics from around the world.",
+            "html": "<h2>Ida (film)</h2><p>Ida (Polish:) is a 2013 drama film directed by Pawe\u0142 Pawlikowski and written by Pawlikowski and Rebecca Lenkiewicz. Set in Poland in 1962, it is about a young woman on the verge of taking vows as a Catholic nun. Orphaned as an infant during the German occupation of World War II, she must now meet her aunt. The former Communist state prosecutor and only surviving relative tells her that her parents were Jewish. The two women embark on a road trip into the Polish countryside to learn the fate of their family.</p><p>Called a \"compact masterpiece\" and an \"eerily beautiful road movie\", the film has also been said to \"contain a cosmos of guilt, violence and pain\", even if certain historical events (German occupation of Poland, the Holocaust and Stalinism) remain unsaid: \"none of this is stated, but all of it is built, so to speak, into the atmosphere: the country feels dead, the population sparse\".</p><p>Ida won the 2015 Academy Award for Best Foreign Language Film, becoming the first Polish film to do so. It had earlier been selected as Best Film of 2014 by the European Film Academy and as Best Film Not in the English Language of 2014 by the British Academy of Film and Television Arts (BAFTA). In 2016, the film was named as the 55th best film of the 21st century, from a poll of 177 film critics from around the world.</p>"
+        },
+        "plotFull": {
+            "plainText": "Ida (film)\r\nIda (Polish:) is a 2013 drama film directed by Pawe\u0142 Pawlikowski and written by Pawlikowski and Rebecca Lenkiewicz. Set in Poland in 1962, it is about a young woman on the verge of taking vows as a Catholic nun. Orphaned as an infant during the German occupation of World War II, she must now meet her aunt. The former Communist state prosecutor and only surviving relative tells her that her parents were Jewish. The two women embark on a road trip into the Polish countryside to learn the fate of their family.\r\nCalled a \"compact masterpiece\" and an \"eerily beautiful road movie\", the film has also been said to \"contain a cosmos of guilt, violence and pain\", even if certain historical events (German occupation of Poland, the Holocaust and Stalinism) remain unsaid: \"none of this is stated, but all of it is built, so to speak, into the atmosphere: the country feels dead, the population sparse\".\r\nIda won the 2015 Academy Award for Best Foreign Language Film, becoming the first Polish film to do so. It had earlier been selected as Best Film of 2014 by the European Film Academy and as Best Film Not in the English Language of 2014 by the British Academy of Film and Television Arts (BAFTA). In 2016, the film was named as the 55th best film of the 21st century, from a poll of 177 film critics from around the world.\r\nPlot\r\nIn the 1960s Polish People's Republic, Anna, a young novice nun, is told by her prioress that before she takes her vows she must visit her aunt, Wanda Gruz, who is her only surviving relative. Anna travels to visit her aunt Wanda, a chain-smoking, hard-drinking, sexually promiscuous judge who reveals that Anna's actual name is Ida Lebenstein. Ida's parents had been Jews who were murdered late in the German occupation of Poland during World War II (1939\u201345). Ida was then an infant, and as an orphan she had been raised by the convent. Wanda, who had been a Communist resistance fighter against the German occupation, had become the state prosecutor \"Red Wanda\" who sent \"men to their deaths\".\r\nWanda tells Ida that she should try some worldly sins and pleasures before she decides to take her vows. On their way to their hotel for the night, Wanda picks up a hitchhiker, Lis (Polish for \"fox\"), who turns out to be an alto saxophone player who is going to a gig in the same town. Wanda tries to get Ida interested in Lis, and to come to his show, but she resists until drifting down after hours to watch the little band wrapping up their evening with a song after the crowd has left. Lis is indeed drawn to Ida and talks with her before she leaves for the night to rejoin her aunt who is passed out in their room.\r\nIda wants to find the graves of her parents. Wanda asks her what would happen if she goes to where their bodies are buried and discovers that God is not there. Wanda takes her to the house they were born in and used to own, which is now occupied by a Pole, Feliks Skiba and his family. Wanda had left her young son with Ida's parents (Wanda's sister Roza and brother-in-law) during the war; the Skibas had taken over the home and land, and hidden the Lebensteins from the German authorities. Wanda, a no-nonsense and direct former prosecutor, demands that Feliks tell her where his father is so that he can tell her what happened to the Lebensteins. After some searching they find him close to death in a hospital, where he does remember Roza and speaks well of the Lebensteins but says little else. Feliks does not want his father to die feeling guilty of murder, and asks them to keep his father out of their search. Instead, he agrees to tell them where the bodies are buried if Ida promises that they will leave the Skibas alone and give up any claim to the house.\r\nFeliks takes the women to the burial place in the woods and digs up the bones of their family. He admits to Ida that he took the three into the woods and killed them. Feliks says that because Ida was very small and able to pass for a Christian, he was able to give her to a convent. But Wanda's small son was \"dark and circumcised\". He couldn't pass for a Christian child, and Feliks had killed him along with Ida's parents.\r\nWanda and Ida take the bones to their family burial plot, in an abandoned, overgrown Jewish cemetery in Lublin, and bury them.\r\nWanda and Ida then part ways and return to their previous existences and routines, but they both have been profoundly affected by their experience, and nothing is the same. Although Wanda continues to drink and engage in apparently meaningless casual sex, she is also now mourning not only the loss of her son and sister, but the niece whom she has just met and who reminds her deeply of her sister. Ida returns to the convent but is visibly unenthusiastic about her life there, and even sees some of it with a new perspective. Wanda's melancholy deepens and she ultimately jumps to her death out of her apartment window. Ida returns to attend Wanda's funeral, where she sees Lis again. At Wanda's apartment, Ida changes out of her nun's habit and into Wanda's stilettos and evening gown, tries smoking and drinking, and then goes to Lis' gig, where he later teaches her to dance.\r\nAfter the show Ida and Lis sleep together. Lis suggests they get married, have children, and after that, live \"life as usual.\" The next morning, Ida quietly arises without awakening Lis, dons her convent habit again and leaves.\r\nCast\r\nAgata Kulesza as Wanda Gruz\r\nAgata Trzebuchowska as Anna / Ida Lebenstein\r\nDawid Ogrodnik as Lis\r\nAdam Szyszkowski as Feliks Skiba\r\nJerzy Trela as Szymon Skiba\r\nJoanna Kulig as a singer\r\nProduction\r\nThe director of Ida, Pawe\u0142 Pawlikowski, was born in Poland and lived his first fourteen years there. In 1971 his mother abruptly emigrated with him to England, where he ultimately became a prominent filmmaker. Ida is his first Polish film; in an interview he said that the film \"is an attempt to recover the Poland of my childhood, among many things\". Ida was filmed in Poland with a cast and crew that was drawn primarily from the Polish film industry. The film received crucial early funding from the Polish Film Institute based on a screenplay by Pawlikowski and Rebecca Lenkiewicz, who is an English playwright. Once the support from the Polish Film Institute had been secured, producer Eric Abraham underwrote production of the film.\r\nThe first version of the screenplay was written in English by Lenkiewicz and Pawlikowski, when it had the working title Sister of Mercy. Pawlikowski then translated the screenplay into Polish and further adapted it for filming.\r\nThe character of Wanda Gruz is based on Helena Woli\u0144ska-Brus, although Wanda's life and fate differ significantly from the real-life model. Like the character, Woli\u0144ska-Brus was a Jewish Pole who survived World War II as a member of the Communist resistance. In the postwar Communist regime she was a military prosecutor who was involved in show trials. One notorious example of these led to the 1953 execution of General 'Nil' Fieldorf, a famed resistance fighter. While Woli\u0144ska-Brus may have been involved, she was not the actual prosecutor for that trial. Pawlikowski met her in the 1980s in England, where she'd emigrated in 1971; he's said of her that \"I couldn't square the warm, ironic woman I knew with the ruthless fanatic and Stalinist hangman. This paradox has haunted me for years. I even tried to write a film about her, but couldn\u02bct get my head around or into someone so contradictory.\"\r\nPawlikowski had difficulty in casting the role of Anna/Ida. After he'd interviewed more than 400 actresses, Agata Trzebuchowska was discovered by a friend of Pawlikowski's, who saw her sitting in a cafe in Warsaw reading a book. She had no acting experience or plans to pursue an acting career. She agreed to meet with Pawlikowski because she was a fan of his film My Summer of Love (2004).\r\n\u0141ukasz \u017bal and Ryszard Lenczewski are credited as the cinematographers. Lenczewski has been the cinematographer for Pawlikowski's feature films since Last Resort (2000); unlike Pawlikowski, Lenczewski had worked in Poland as well as England prior to Ida. Ida is filmed in black and white, and uses the now uncommon 4:3 ratio of the horizontal and vertical sizes of the image. When Pawlikowski told the film's producers of these decisions about filming, they reportedly commented, \"Paul, you are no longer a student, don't be silly.\" Lenczewski has commented that, \"We chose black and white and the 1.33 frame because it was evocative of Polish films of that era, the early 1960s. We designed the unusual compositions to make the audience feel uncertain, to watch in a different way.\" The original plan had been for \u017bal to assist Lenczewski. Lenczewski became ill, and \u017bal took over the project.\r\nProduction on Ida was interrupted mid-filming by an early snowstorm. Pawlikowski took advantage of the two-week hiatus to refine the script, find new locations, and rehearse. He credits the break for \"making the film cohere ... in a certain, particular way.\"\r\nIda was edited by Jaros\u0142aw Kami\u0144ski, a veteran of Polish cinema. Pawlikowski's previous English language feature films were edited by David Charap. Except the final scene of the film, there is no background musical score; as Dana Stevens explains, \"the soundtrack contains no extradiegetic music\u2014that is, music the characters aren't listening to themselves\u2014but all the music that's there is significant and carefully chosen, from Wanda's treasured collection of classical LPs to the tinny Polish pop that plays on the car radio as the women drive toward their grim destination.\" As for the final scene, Pawlikowski has said, \"The only piece of music that is non-ambient (from outside the world of the film \u2013 that is not on the radio or played by a band) is the piece of Bach at the end. I was a bit desperate with the final scene, and I tried it out in the mix. It's in a minor key, but it seems serene and to recognize the world and its complexities.\"\r\nCritical reception\r\nIda received widespread acclaim, with critics praising its writing and cinematography. On Rotten Tomatoes, the film holds a 95% approval rating, based on 148 reviews, with an average rating of 8.3/10. The website's critical consensus reads, \"Empathetically written, splendidly acted, and beautifully photographed, Ida finds director Pawel Pawlikowski revisiting his roots to powerful effect.\" On Metacritic, the film holds a score of 91 out of 100, based on 35 reviews, indicating \"universal acclaim.\"\r\nA. O. Scott of the New York Times writes that \"with breathtaking concision and clarity\u201480 minutes of austere, carefully framed black and white\u2014Mr. Pawlikowski penetrates the darkest, thorniest thickets of Polish history, reckoning with the crimes of Stalinism and the Holocaust.\" He concludes that \"Mr. Pawlikowski has made one of the finest European films (and one of the most insightful films about Europe, past and present) in recent memory.\" David Denby of The New Yorker has called Ida a \"compact masterpiece\", and he discusses the film's reticence concerning the history in which it is embedded: \"Between 1939 and 1945, Poland lost a fifth of its population, including three million Jews. In the two years after the war, Communists took over the government under the eyes of the Red Army and the Soviet secret police, the N.K.V.D.. Many Poles who were prominent in resisting the Nazis were accused of preposterous crimes; the independent-minded were shot or hanged. In the movie, none of this is stated, but all of it is built, so to speak, into the atmosphere ...\" Denby considered Ida to be \"by far the best movie of the year\". Peter Debruge was more reserved about the film's success, writing in Variety that \"...dialing things back as much as this film does risks losing the vast majority of viewers along the way, offering an intellectual exercise in lieu of an emotional experience to all but the most rarefied cineastes.\"\r\nIda is partially a \"road movie\" in which the relationship of its two main characters, Anna/Ida (Agata Trzebuchowska) and Wanda (Agata Kulesza), develops as they journey into Poland's hinterlands and into their shared history. Both actresses have received favorable reviews for their performances from several critics. Peter Bradshaw wrote in The Guardian that \"Agata Trzebuchowska is tremendously mysterious as a 17-year-old novitiate in a remote convent: she has the impassivity and inscrutability of youth.\" Riva Reardon writes, \"In her debut role, the actress masterfully negotiates the film's challenging subtlety, offering glimpses into her character with only a slight movement of the corner of her mouth or by simply shifting her uncanny black eyes.\" David Denby writes that \"Wanda tells her of her past in brief fragments, and Kulesza does more with those fragments\u2014adding a gesture, a pause\u2014than anyone since Greta Garbo, who always implied much more than she said.\" Dana Stevens writes that \"As played, stupendously, by the veteran Polish TV, stage, and film actress Agata Kulesza, Wanda is a vortex of a character, as fascinating to spend time with as she is bottomlessly sad.\"\r\nControversy and criticism\r\nThe film was criticized by some for its perspective on Christian\u2013Jewish relations in Poland. Some have argued that the Christian Poles in the film are portrayed negatively as being anti-Semitic and sharing responsibility for the Holocaust with the German occupiers. A letter of complaint has been sent by the right-wing Polish Anti-Defamation League to the Polish Film Institute, which provided significant funding for the film. A petition calling for the addition of explanatory title cards has apparently been signed by about 40,000 Poles; the film does not explicitly note that thousands of Poles were executed by the German occupiers for hiding or helping Jewish Poles. Eric Abraham, one of the producers of Ida, responded \"Are they really suggesting that all films loosely based on historical events should come with contextual captions? Tell that to Mr. Stone and Mr. Spielberg and Mr. von Donnersmarck,\" which refers to the directors of JFK, Lincoln, and The Lives of Others.\r\nConversely, others have argued that the character of Wanda Gruz, who participated in the persecution of those who threatened the Soviet-sponsored postwar regime, perpetuates a stereotype about Polish Jews as collaborators with the regime.\r\nInfluences\r\nSeveral critics have discerned possible influences on Ida from Carl Theodor Dreyer's films and from Robert Bresson's. Thus David Thomson writes enthusiastically that seeing Ida is \"like seeing Carl Dreyer's The Passion of Joan of Arc for the first time\" and that the relationship of Ida and her aunt Wanda is \"worthy of the Bresson of Diary of a Country Priest.\" The Passion of Joan of Arc (1928) is a silent film that is noted as one of the greatest films. M. Leary has expanded on the influence on Ida: \"The actress that plays Ida was apparently noticed at a cafe and drafted in as a blank canvas for this character, who becomes a mute witness in the film to the terror of Jewish genocide and the Soviet aftermath. She is a bit like Dreyer's Joan in that her character is more about a violent march of history than her Catholic subtext.\" Dana Stevens writes that Ida is \"set in the early 1960s, and its stylistic austerity and interest in theological questions often recall the work of Robert Bresson (though Pawlikowski lacks\u2014I think\u2014Bresson's deeply held faith in salvation).\"\r\nOther critics have emphasized stylistic similarities to New Wave films such as the definitive French film The 400 Blows (directed by Fran\u00e7ois Truffaut-1959) and the Polish film Innocent Sorcerers (directed by Andrzej Wajda-1960). There are also similarities with Luis Bu\u00f1uel's Viridiana (1961).\r\nBox office\r\nGrossing more than $3.8 million at the North American box office, the film has been described as a \"crossover hit\", especially for a foreign language film. Nearly 500,000 people watched the film in France, making it one of the most successful Polish-language films ever screened there. The film earned nearly as much in France, $3.2 million, as it did in the US. The film earned $0.3 million in Poland, and less than $0.1 million in Germany.\r\nAccolades\r\nIda was screened in the Special Presentation section at the 2013 Toronto International Film Festival where it won the FIPRESCI Special Presentations award. Among other festivals Ida won Best Film at Gdynia, Warsaw, London, Bydgoszcz, Minsk, Gij\u00f3n, Wiesbaden, Krak\u00f3w. The film is also widely recognized for Agata Kulesza's and Agata Trzebuchowska's performances, and for the cinematography by Ryszard Lenczewski and \u0141ukasz \u017bal.\r\nThe film was honoured by the national Polish Film Academy as the Best Film of 2013, winning in three other categories, and nominated in seven additional categories. The European Film Academy nominated the film in seven categories, winning 5, including Best European Film and People's Choice Award, at the 27th European Film Awards. The Spanish Academy of Arts and Cinematographic Sciences named Ida as Best European Film at the 29th Goya Awards. At the 68th British Academy Film Awards the film won the Award for Best Film Not in the English Language.\r\nAt the 87th Academy Awards it won the award for Best Foreign Language Film, and was also nominated for Best Cinematography.\r\nThe film has received a nomination from Hollywood Foreign Press Association at the 72nd Golden Globe Awards for Best Foreign Language Film, and from International Press Academy at the 19th Satellite Awards for Best Foreign Language Film category.\r\nIt has been also recognised by the Swedish Film Institute (50th Guldbagge Awards), the Danish Film Academy (31st Robert Awards), the French Academy of Arts and Technics of Cinema (40th C\u00e9sar Awards), the Catalan Academy of Cinema (7th Gaud\u00ed Awards).\r\nThe film has been selected by the European Parliament for the Lux Prize.\r\nHome media\r\nIda has been released to DVD in both region 1 and region 2 with English subtitles. It has also been released with subtitles in several other languages. In December 2014 the film was awarded the Lux Prize by the European Parliament; this prize supports subtitling of films into all of the 23 official languages of the European Union.",
+            "html": "<h2>Ida (film)</h2><p>Ida (Polish:) is a 2013 drama film directed by Pawe\u0142 Pawlikowski and written by Pawlikowski and Rebecca Lenkiewicz. Set in Poland in 1962, it is about a young woman on the verge of taking vows as a Catholic nun. Orphaned as an infant during the German occupation of World War II, she must now meet her aunt. The former Communist state prosecutor and only surviving relative tells her that her parents were Jewish. The two women embark on a road trip into the Polish countryside to learn the fate of their family.</p><p>Called a \"compact masterpiece\" and an \"eerily beautiful road movie\", the film has also been said to \"contain a cosmos of guilt, violence and pain\", even if certain historical events (German occupation of Poland, the Holocaust and Stalinism) remain unsaid: \"none of this is stated, but all of it is built, so to speak, into the atmosphere: the country feels dead, the population sparse\".</p><p>Ida won the 2015 Academy Award for Best Foreign Language Film, becoming the first Polish film to do so. It had earlier been selected as Best Film of 2014 by the European Film Academy and as Best Film Not in the English Language of 2014 by the British Academy of Film and Television Arts (BAFTA). In 2016, the film was named as the 55th best film of the 21st century, from a poll of 177 film critics from around the world.</p><br/><h3>Plot</h3><p>In the 1960s Polish People's Republic, Anna, a young novice nun, is told by her prioress that before she takes her vows she must visit her aunt, Wanda Gruz, who is her only surviving relative. Anna travels to visit her aunt Wanda, a chain-smoking, hard-drinking, sexually promiscuous judge who reveals that Anna's actual name is Ida Lebenstein. Ida's parents had been Jews who were murdered late in the German occupation of Poland during World War II (1939\u201345). Ida was then an infant, and as an orphan she had been raised by the convent. Wanda, who had been a Communist resistance fighter against the German occupation, had become the state prosecutor \"Red Wanda\" who sent \"men to their deaths\".</p><p>Wanda tells Ida that she should try some worldly sins and pleasures before she decides to take her vows. On their way to their hotel for the night, Wanda picks up a hitchhiker, Lis (Polish for \"fox\"), who turns out to be an alto saxophone player who is going to a gig in the same town. Wanda tries to get Ida interested in Lis, and to come to his show, but she resists until drifting down after hours to watch the little band wrapping up their evening with a song after the crowd has left. Lis is indeed drawn to Ida and talks with her before she leaves for the night to rejoin her aunt who is passed out in their room.</p><p>Ida wants to find the graves of her parents. Wanda asks her what would happen if she goes to where their bodies are buried and discovers that God is not there. Wanda takes her to the house they were born in and used to own, which is now occupied by a Pole, Feliks Skiba and his family. Wanda had left her young son with Ida's parents (Wanda's sister Roza and brother-in-law) during the war; the Skibas had taken over the home and land, and hidden the Lebensteins from the German authorities. Wanda, a no-nonsense and direct former prosecutor, demands that Feliks tell her where his father is so that he can tell her what happened to the Lebensteins. After some searching they find him close to death in a hospital, where he does remember Roza and speaks well of the Lebensteins but says little else. Feliks does not want his father to die feeling guilty of murder, and asks them to keep his father out of their search. Instead, he agrees to tell them where the bodies are buried if Ida promises that they will leave the Skibas alone and give up any claim to the house.</p><p>Feliks takes the women to the burial place in the woods and digs up the bones of their family. He admits to Ida that he took the three into the woods and killed them. Feliks says that because Ida was very small and able to pass for a Christian, he was able to give her to a convent. But Wanda's small son was \"dark and circumcised\". He couldn't pass for a Christian child, and Feliks had killed him along with Ida's parents.</p><p>Wanda and Ida take the bones to their family burial plot, in an abandoned, overgrown Jewish cemetery in Lublin, and bury them.</p><p>Wanda and Ida then part ways and return to their previous existences and routines, but they both have been profoundly affected by their experience, and nothing is the same. Although Wanda continues to drink and engage in apparently meaningless casual sex, she is also now mourning not only the loss of her son and sister, but the niece whom she has just met and who reminds her deeply of her sister. Ida returns to the convent but is visibly unenthusiastic about her life there, and even sees some of it with a new perspective. Wanda's melancholy deepens and she ultimately jumps to her death out of her apartment window. Ida returns to attend Wanda's funeral, where she sees Lis again. At Wanda's apartment, Ida changes out of her nun's habit and into Wanda's stilettos and evening gown, tries smoking and drinking, and then goes to Lis' gig, where he later teaches her to dance.</p><p>After the show Ida and Lis sleep together. Lis suggests they get married, have children, and after that, live \"life as usual.\" The next morning, Ida quietly arises without awakening Lis, dons her convent habit again and leaves.</p><br/><h3>Cast</h3><ul><li>Agata Kulesza as Wanda Gruz</li><li>Agata Trzebuchowska as Anna / Ida Lebenstein</li><li>Dawid Ogrodnik as Lis</li><li>Adam Szyszkowski as Feliks Skiba</li><li>Jerzy Trela as Szymon Skiba</li><li>Joanna Kulig as a singer</li></ul><br/><h3>Production</h3><p>The director of Ida, Pawe\u0142 Pawlikowski, was born in Poland and lived his first fourteen years there. In 1971 his mother abruptly emigrated with him to England, where he ultimately became a prominent filmmaker. Ida is his first Polish film; in an interview he said that the film \"is an attempt to recover the Poland of my childhood, among many things\". Ida was filmed in Poland with a cast and crew that was drawn primarily from the Polish film industry. The film received crucial early funding from the Polish Film Institute based on a screenplay by Pawlikowski and Rebecca Lenkiewicz, who is an English playwright. Once the support from the Polish Film Institute had been secured, producer Eric Abraham underwrote production of the film.</p><p>The first version of the screenplay was written in English by Lenkiewicz and Pawlikowski, when it had the working title Sister of Mercy. Pawlikowski then translated the screenplay into Polish and further adapted it for filming.</p><p>The character of Wanda Gruz is based on Helena Woli\u0144ska-Brus, although Wanda's life and fate differ significantly from the real-life model. Like the character, Woli\u0144ska-Brus was a Jewish Pole who survived World War II as a member of the Communist resistance. In the postwar Communist regime she was a military prosecutor who was involved in show trials. One notorious example of these led to the 1953 execution of General 'Nil' Fieldorf, a famed resistance fighter. While Woli\u0144ska-Brus may have been involved, she was not the actual prosecutor for that trial. Pawlikowski met her in the 1980s in England, where she'd emigrated in 1971; he's said of her that \"I couldn't square the warm, ironic woman I knew with the ruthless fanatic and Stalinist hangman. This paradox has haunted me for years. I even tried to write a film about her, but couldn\u02bct get my head around or into someone so contradictory.\"</p><p>Pawlikowski had difficulty in casting the role of Anna/Ida. After he'd interviewed more than 400 actresses, Agata Trzebuchowska was discovered by a friend of Pawlikowski's, who saw her sitting in a cafe in Warsaw reading a book. She had no acting experience or plans to pursue an acting career. She agreed to meet with Pawlikowski because she was a fan of his film My Summer of Love (2004).</p><p>\u0141ukasz \u017bal and Ryszard Lenczewski are credited as the cinematographers. Lenczewski has been the cinematographer for Pawlikowski's feature films since Last Resort (2000); unlike Pawlikowski, Lenczewski had worked in Poland as well as England prior to Ida. Ida is filmed in black and white, and uses the now uncommon 4:3 ratio of the horizontal and vertical sizes of the image. When Pawlikowski told the film's producers of these decisions about filming, they reportedly commented, \"Paul, you are no longer a student, don't be silly.\" Lenczewski has commented that, \"We chose black and white and the 1.33 frame because it was evocative of Polish films of that era, the early 1960s. We designed the unusual compositions to make the audience feel uncertain, to watch in a different way.\" The original plan had been for \u017bal to assist Lenczewski. Lenczewski became ill, and \u017bal took over the project.</p><p>Production on Ida was interrupted mid-filming by an early snowstorm. Pawlikowski took advantage of the two-week hiatus to refine the script, find new locations, and rehearse. He credits the break for \"making the film cohere ... in a certain, particular way.\"</p><p>Ida was edited by Jaros\u0142aw Kami\u0144ski, a veteran of Polish cinema. Pawlikowski's previous English language feature films were edited by David Charap. Except the final scene of the film, there is no background musical score; as Dana Stevens explains, \"the soundtrack contains no extradiegetic music\u2014that is, music the characters aren't listening to themselves\u2014but all the music that's there is significant and carefully chosen, from Wanda's treasured collection of classical LPs to the tinny Polish pop that plays on the car radio as the women drive toward their grim destination.\" As for the final scene, Pawlikowski has said, \"The only piece of music that is non-ambient (from outside the world of the film \u2013 that is not on the radio or played by a band) is the piece of Bach at the end. I was a bit desperate with the final scene, and I tried it out in the mix. It's in a minor key, but it seems serene and to recognize the world and its complexities.\"</p><br/><h3>Critical reception</h3><p>Ida received widespread acclaim, with critics praising its writing and cinematography. On Rotten Tomatoes, the film holds a 95% approval rating, based on 148 reviews, with an average rating of 8.3/10. The website's critical consensus reads, \"Empathetically written, splendidly acted, and beautifully photographed, Ida finds director Pawel Pawlikowski revisiting his roots to powerful effect.\" On Metacritic, the film holds a score of 91 out of 100, based on 35 reviews, indicating \"universal acclaim.\"</p><p>A. O. Scott of the New York Times writes that \"with breathtaking concision and clarity\u201480 minutes of austere, carefully framed black and white\u2014Mr. Pawlikowski penetrates the darkest, thorniest thickets of Polish history, reckoning with the crimes of Stalinism and the Holocaust.\" He concludes that \"Mr. Pawlikowski has made one of the finest European films (and one of the most insightful films about Europe, past and present) in recent memory.\" David Denby of The New Yorker has called Ida a \"compact masterpiece\", and he discusses the film's reticence concerning the history in which it is embedded: \"Between 1939 and 1945, Poland lost a fifth of its population, including three million Jews. In the two years after the war, Communists took over the government under the eyes of the Red Army and the Soviet secret police, the N.K.V.D.. Many Poles who were prominent in resisting the Nazis were accused of preposterous crimes; the independent-minded were shot or hanged. In the movie, none of this is stated, but all of it is built, so to speak, into the atmosphere ...\" Denby considered Ida to be \"by far the best movie of the year\". Peter Debruge was more reserved about the film's success, writing in Variety that \"...dialing things back as much as this film does risks losing the vast majority of viewers along the way, offering an intellectual exercise in lieu of an emotional experience to all but the most rarefied cineastes.\"</p><p>Ida is partially a \"road movie\" in which the relationship of its two main characters, Anna/Ida (Agata Trzebuchowska) and Wanda (Agata Kulesza), develops as they journey into Poland's hinterlands and into their shared history. Both actresses have received favorable reviews for their performances from several critics. Peter Bradshaw wrote in The Guardian that \"Agata Trzebuchowska is tremendously mysterious as a 17-year-old novitiate in a remote convent: she has the impassivity and inscrutability of youth.\" Riva Reardon writes, \"In her debut role, the actress masterfully negotiates the film's challenging subtlety, offering glimpses into her character with only a slight movement of the corner of her mouth or by simply shifting her uncanny black eyes.\" David Denby writes that \"Wanda tells her of her past in brief fragments, and Kulesza does more with those fragments\u2014adding a gesture, a pause\u2014than anyone since Greta Garbo, who always implied much more than she said.\" Dana Stevens writes that \"As played, stupendously, by the veteran Polish TV, stage, and film actress Agata Kulesza, Wanda is a vortex of a character, as fascinating to spend time with as she is bottomlessly sad.\"</p><h4>Controversy and criticism</h4><p>The film was criticized by some for its perspective on Christian\u2013Jewish relations in Poland. Some have argued that the Christian Poles in the film are portrayed negatively as being anti-Semitic and sharing responsibility for the Holocaust with the German occupiers. A letter of complaint has been sent by the right-wing Polish Anti-Defamation League to the Polish Film Institute, which provided significant funding for the film. A petition calling for the addition of explanatory title cards has apparently been signed by about 40,000 Poles; the film does not explicitly note that thousands of Poles were executed by the German occupiers for hiding or helping Jewish Poles. Eric Abraham, one of the producers of Ida, responded \"Are they really suggesting that all films loosely based on historical events should come with contextual captions? Tell that to Mr. Stone and Mr. Spielberg and Mr. von Donnersmarck,\" which refers to the directors of JFK, Lincoln, and The Lives of Others.</p><p>Conversely, others have argued that the character of Wanda Gruz, who participated in the persecution of those who threatened the Soviet-sponsored postwar regime, perpetuates a stereotype about Polish Jews as collaborators with the regime.</p><h4>Influences</h4><p>Several critics have discerned possible influences on Ida from Carl Theodor Dreyer's films and from Robert Bresson's. Thus David Thomson writes enthusiastically that seeing Ida is \"like seeing Carl Dreyer's The Passion of Joan of Arc for the first time\" and that the relationship of Ida and her aunt Wanda is \"worthy of the Bresson of Diary of a Country Priest.\" The Passion of Joan of Arc (1928) is a silent film that is noted as one of the greatest films. M. Leary has expanded on the influence on Ida: \"The actress that plays Ida was apparently noticed at a cafe and drafted in as a blank canvas for this character, who becomes a mute witness in the film to the terror of Jewish genocide and the Soviet aftermath. She is a bit like Dreyer's Joan in that her character is more about a violent march of history than her Catholic subtext.\" Dana Stevens writes that Ida is \"set in the early 1960s, and its stylistic austerity and interest in theological questions often recall the work of Robert Bresson (though Pawlikowski lacks\u2014I think\u2014Bresson's deeply held faith in salvation).\"</p><p>Other critics have emphasized stylistic similarities to New Wave films such as the definitive French film The 400 Blows (directed by Fran\u00e7ois Truffaut-1959) and the Polish film Innocent Sorcerers (directed by Andrzej Wajda-1960). There are also similarities with Luis Bu\u00f1uel's Viridiana (1961).</p><br/><h3>Box office</h3><p>Grossing more than $3.8 million at the North American box office, the film has been described as a \"crossover hit\", especially for a foreign language film. Nearly 500,000 people watched the film in France, making it one of the most successful Polish-language films ever screened there. The film earned nearly as much in France, $3.2 million, as it did in the US. The film earned $0.3 million in Poland, and less than $0.1 million in Germany.</p><br/><h3>Accolades</h3><p>Ida was screened in the Special Presentation section at the 2013 Toronto International Film Festival where it won the FIPRESCI Special Presentations award. Among other festivals Ida won Best Film at Gdynia, Warsaw, London, Bydgoszcz, Minsk, Gij\u00f3n, Wiesbaden, Krak\u00f3w. The film is also widely recognized for Agata Kulesza's and Agata Trzebuchowska's performances, and for the cinematography by Ryszard Lenczewski and \u0141ukasz \u017bal.</p><p>The film was honoured by the national Polish Film Academy as the Best Film of 2013, winning in three other categories, and nominated in seven additional categories. The European Film Academy nominated the film in seven categories, winning 5, including Best European Film and People's Choice Award, at the 27th European Film Awards. The Spanish Academy of Arts and Cinematographic Sciences named Ida as Best European Film at the 29th Goya Awards. At the 68th British Academy Film Awards the film won the Award for Best Film Not in the English Language.</p><p>At the 87th Academy Awards it won the award for Best Foreign Language Film, and was also nominated for Best Cinematography.</p><p>The film has received a nomination from Hollywood Foreign Press Association at the 72nd Golden Globe Awards for Best Foreign Language Film, and from International Press Academy at the 19th Satellite Awards for Best Foreign Language Film category.</p><p>It has been also recognised by the Swedish Film Institute (50th Guldbagge Awards), the Danish Film Academy (31st Robert Awards), the French Academy of Arts and Technics of Cinema (40th C\u00e9sar Awards), the Catalan Academy of Cinema (7th Gaud\u00ed Awards).</p><p>The film has been selected by the European Parliament for the Lux Prize.</p><br/><h3>Home media</h3><p>Ida has been released to DVD in both region 1 and region 2 with English subtitles. It has also been released with subtitles in several other languages. In December 2014 the film was awarded the Lux Prize by the European Parliament; this prize supports subtitling of films into all of the 23 official languages of the European Union.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt2718492",
+        "title": "Ida",
+        "fullTitle": "Ida (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "posters": [
+            {
+                "id": "4KEYX6tWdxwCXVPUSHlmegb339t.jpg",
+                "link": "https://imdb-api.com/posters/original/4KEYX6tWdxwCXVPUSHlmegb339t.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "r4JmxkWjdCfJcVCacEVDx4w7GDc.jpg",
+                "link": "https://imdb-api.com/posters/original/r4JmxkWjdCfJcVCacEVDx4w7GDc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdors": [
+            {
+                "id": "c9SvfYLJyai34bafR1AvqD9vAJi.jpg",
+                "link": "https://imdb-api.com/posters/original/c9SvfYLJyai34bafR1AvqD9vAJi.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "lVJjAM3WnGVrXFWuZHDtQ9AvoyR.jpg",
+                "link": "https://imdb-api.com/posters/original/lVJjAM3WnGVrXFWuZHDtQ9AvoyR.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "jy7bPzdIMszhtWLj4CZtUDcsZ7T.jpg",
+                "link": "https://imdb-api.com/posters/original/jy7bPzdIMszhtWLj4CZtUDcsZ7T.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "fnE2TiIwnT8Ulv9dhEeX4ij7kic.jpg",
+                "link": "https://imdb-api.com/posters/original/fnE2TiIwnT8Ulv9dhEeX4ij7kic.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2718492",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt2718492",
+        "title": "Ida",
+        "fullTitle": "Ida (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "videoId": "vi3537877529",
+        "videoTitle": "Ida",
+        "videoDescription": "Trailer for Ida",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzg2MDRjOTQtMTlkYy00NzY3LThlNTItZmYyOTcxYzMwOWY5XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "12/05/2018 17:15:46",
+        "link": "https://www.imdb.com/video/vi3537877529",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3537877529/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "$55,438, 4 May 2014",
+        "grossUSA": "$3,827,060",
+        "cumulativeWorldwideGross": "$11,156,836"
+    },
+    "tagline": "",
+    "keywords": "nun,poland,1960s,convent,jew",
+    "keywordList": [
+        "nun",
+        "poland",
+        "1960s",
+        "convent",
+        "jew"
+    ],
+    "similars": [
+        {
+            "id": "tt6543652",
+            "title": "Cold War",
+            "fullTitle": "Cold War (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BNTJmNzExOGItZTQyMi00YzBlLTk0ZTQtNzAxYmUwZDQwZjU4XkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the 1950s, a music director falls in love with a singer and tries to persuade her to flee communist Poland for France.",
+            "directors": "Pawel Pawlikowski",
+            "stars": "Joanna Kulig, Tomasz Kot, Borys Szyc",
+            "genres": "Drama, History, Music",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt3808342",
+            "title": "Son of Saul",
+            "fullTitle": "Son of Saul (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjFmMzJlMTYtYmRlNy00Zjg5LThmYmYtYmE0NDk3N2MzMjRhXkEyXkFqcGdeQXVyMjc3MTAwNjg@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A Jewish-Hungarian concentration camp prisoner sets out to give a child he mistook for his son a proper burial.",
+            "directors": "L\u00e1szl\u00f3 Nemes",
+            "stars": "G\u00e9za R\u00f6hrig, Levente Moln\u00e1r, Urs Rechn",
+            "genres": "Drama, War",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt1602620",
+            "title": "Amour",
+            "fullTitle": "Amour (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+            "directors": "Michael Haneke",
+            "stars": "Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt2802154",
+            "title": "Leviathan",
+            "fullTitle": "Leviathan (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMmQ3ZDkzN2EtMWM4MS00NzcyLWJiZGUtYjBiNzBlMzYzNWQyL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man's arrival brings further misfortune for Kolya and his family.",
+            "directors": "Andrey Zvyagintsev",
+            "stars": "Aleksey Serebryakov, Elena Lyadova, Roman Madyanov",
+            "genres": "Crime, Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt1149362",
+            "title": "The White Ribbon",
+            "fullTitle": "The White Ribbon (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ2OTYyNzUxOF5BMl5BanBnXkFtZTcwMzUwMDY4Mg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Strange events happen in a small village in the north of Germany during the years before World War I, which seem to be ritual punishment. Who is responsible?",
+            "directors": "Michael Haneke",
+            "stars": "Christian Friedel, Ernst Jacobi, Leonie Benesch",
+            "genres": "Drama, History, Mystery",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt6304162",
+            "title": "Loveless",
+            "fullTitle": "Loveless (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMzU3ODQ3MzQ5Nl5BMl5BanBnXkFtZTgwMDQwMDIzNDM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A couple going through a divorce must team up to find their son who has disappeared during one of their bitter arguments.",
+            "directors": "Andrey Zvyagintsev",
+            "stars": "Maryana Spivak, Aleksey Rozin, Matvey Novikov",
+            "genres": "Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt2737050",
+            "title": "Two Days, One Night",
+            "fullTitle": "Two Days, One Night (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BNjEzZmZkN2EtNTkzOS00MmIyLWE3YjktMDdmZTI4NmM5MzBlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Li\u00e8ge, Belgium. Sandra is a factory worker who discovers that her workmates have opted for a EUR1,000 bonus in exchange for her dismissal. She has only a weekend to convince her colleagues to give up their bonuses in order to keep her job.",
+            "directors": "Directors: Jean-Pierre Dardenne, Luc Dardenne",
+            "stars": "Marion Cotillard, Fabrizio Rongione, Catherine Sal\u00e9e",
+            "genres": "Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0254686",
+            "title": "The Piano Teacher",
+            "fullTitle": "The Piano Teacher (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BZDBkYjYxYjUtMTdmMS00MDJhLWEyNzktYzg2OWY5NWY0Y2QyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A young man romantically pursues his masochistic piano teacher.",
+            "directors": "Michael Haneke",
+            "stars": "Isabelle Huppert, Annie Girardot, Beno\u00eet Magimel",
+            "genres": "Drama",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt4048272",
+            "title": "Toni Erdmann",
+            "fullTitle": "Toni Erdmann (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BYzA4OGQ5NmMtNzM1ZC00YzIxLThmZWQtODkyYTA0ZGI3MGIzXkEyXkFqcGdeQXVyMjQwNjczOTE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A practical joking father tries to reconnect with his hard working daughter by creating an outrageous alter ego and posing as her CEO's life coach.",
+            "directors": "Maren Ade",
+            "stars": "Sandra H\u00fcller, Peter Simonischek, Michael Wittenborn",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt1032846",
+            "title": "4 Months, 3 Weeks and 2 Days",
+            "fullTitle": "4 Months, 3 Weeks and 2 Days (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3NDY2MDg0MF5BMl5BanBnXkFtZTYwODcwODc4._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A woman assists her friend in arranging an illegal abortion in 1980s Romania.",
+            "directors": "Cristian Mungiu",
+            "stars": "Anamaria Marinca, Laura Vasiliu, Vlad Ivanov",
+            "genres": "Drama",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt0376968",
+            "title": "The Return",
+            "fullTitle": "The Return (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BODI1YTAzZmQtYjg5Ny00ODc1LTgxYTEtOWRlYmYzNzAwMDY5XkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "In the Russian wilderness, two brothers face a range of new, conflicting emotions when their father - a man they know only through a single photograph - resurfaces.",
+            "directors": "Andrey Zvyagintsev",
+            "stars": "Vladimir Garin, Ivan Dobronravov, Konstantin Lavronenko",
+            "genres": "Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt2076220",
+            "title": "Holy Motors",
+            "fullTitle": "Holy Motors (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "From dawn to dusk, a few hours in the shadowy life of a mystic man named Monsieur Oscar.",
+            "directors": "Leos Carax",
+            "stars": "Denis Lavant, Edith Scob, Eva Mendes",
+            "genres": "Drama, Fantasy",
+            "imDbRating": "7.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

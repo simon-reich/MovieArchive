@@ -1,0 +1,988 @@
+{
+    "id": "tt3141498",
+    "title": "The Nightmare",
+    "originalTitle": "Der Nachtmahr",
+    "fullTitle": "The Nightmare (2015)",
+    "type": "Movie",
+    "year": "2015",
+    "image": "https://imdb-api.com/images/original/MV5BMTg4OTg0NzU3MF5BMl5BanBnXkFtZTgwMDc5ODM5MzI@._V1_Ratio0.7090_AL_.jpg",
+    "releaseDate": "2016-05-26",
+    "runtimeMins": "92",
+    "runtimeStr": "1h 32mins",
+    "plot": "It's summer. One endless, sexy party under the open sky. Tina and her friends are living the dream of a whole generation of decadent Berlin-party-kids. But after one excessive night she's haunted by a mysterious ugly creature in nightmares she has. The only person she talks about her fears to is her psychologist. His advice is to confront her fears and to reach out to the creature. At first Tina refuses but after she hears about her parents' plans to put her in a mental hospital she starts talking to the creature. She slowly realizes that the creature is an incarnation of her fears and that it has the same feelings she does. Afraid of being called a freak she starts hiding the creature in her room. After a while she even gets close to it. It's almost like a relationship with a wild stray animal. For the first time in her life, it almost seems as if Tina has the courage to be herself. But then her parents and her friends see the creature...",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "1 win & 3 nominations.",
+    "directors": "Akiz",
+    "directorList": [
+        {
+            "id": "nm0097095",
+            "name": "Akiz"
+        }
+    ],
+    "writers": "Akiz",
+    "writerList": [
+        {
+            "id": "nm0097095",
+            "name": "Akiz"
+        }
+    ],
+    "stars": "Carolyn Genzkow, Sina Tkotsch, Wilson Gonzalez, Arnd Klawitter",
+    "starList": [
+        {
+            "id": "nm2481137",
+            "name": "Carolyn Genzkow"
+        },
+        {
+            "id": "nm0864736",
+            "name": "Sina Tkotsch"
+        },
+        {
+            "id": "nm0643806",
+            "name": "Wilson Gonzalez"
+        },
+        {
+            "id": "nm0458486",
+            "name": "Arnd Klawitter"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm2481137",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carolyn Genzkow",
+            "asCharacter": "Tina"
+        },
+        {
+            "id": "nm0864736",
+            "image": "https://imdb-api.com/images/original/MV5BMmM0ZGQ4ZmUtMDY4Yi00ZTk5LThmYzQtZmVkMWUyNGVmOGNmXkEyXkFqcGdeQXVyNDE4MDU5OTE@._V1_Ratio1.6364_AL_.jpg",
+            "name": "Sina Tkotsch",
+            "asCharacter": "Barbara"
+        },
+        {
+            "id": "nm0643806",
+            "image": "https://imdb-api.com/images/original/MV5BMzNkNzZhMTgtMDc0MS00NTRiLWJiYTAtNzY3MTdiNTBhODc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Wilson Gonzalez",
+            "asCharacter": "Adam (as Wilson Gonzalez Ochsenknecht)"
+        },
+        {
+            "id": "nm0458486",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arnd Klawitter",
+            "asCharacter": "Tinas Vater"
+        },
+        {
+            "id": "nm0420889",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julika Jenkins",
+            "asCharacter": "Tinas Mutter"
+        },
+        {
+            "id": "nm3123593",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aram Arami",
+            "asCharacter": "Rashid"
+        },
+        {
+            "id": "nm0046514",
+            "image": "https://imdb-api.com/images/original/MV5BZWUwZjM3ZjUtMDAyMC00MmQ1LWFmNTgtMWNhMGM1MTVkYjNkXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Oliver Bigalke",
+            "asCharacter": "Veterin\u00e4r Dr. Brunk"
+        },
+        {
+            "id": "nm1981574",
+            "image": "https://imdb-api.com/images/original/MV5BZGRmZDk0ZmUtNDVkZC00NTUwLWI0YzYtMzEwMjc2NGI2NzY1XkEyXkFqcGdeQXVyNjg4OTE3MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Epp",
+            "asCharacter": "Polizist Schonrath"
+        },
+        {
+            "id": "nm4835473",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lynn Femme",
+            "asCharacter": "Monika"
+        },
+        {
+            "id": "nm0330371",
+            "image": "https://imdb-api.com/images/original/MV5BMTU1MjA3NTUzMl5BMl5BanBnXkFtZTYwOTA4NzE0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kim Gordon",
+            "asCharacter": "Lehrerin"
+        },
+        {
+            "id": "nm5320471",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Moritz Leu",
+            "asCharacter": "Pascal"
+        },
+        {
+            "id": "nm2967007",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lucia Luciano",
+            "asCharacter": "Julia"
+        },
+        {
+            "id": "nm6829763",
+            "image": "https://imdb-api.com/images/original/MV5BNTg0YTljYzktYWIwYi00MTQzLWE1NTMtOGMxMTJjODhlOTQ3XkEyXkFqcGdeQXVyNTYzNjk5OTk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vanessa Most",
+            "asCharacter": "M\u00e4dchen"
+        },
+        {
+            "id": "nm7693815",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nura Habib Omer",
+            "asCharacter": "Ashley"
+        },
+        {
+            "id": "nm0696614",
+            "image": "https://imdb-api.com/images/original/MV5BMzU4YmI0NjItMjQ2ZS00MWZmLTk2YzUtMTIxMTE0MTYyOGYxXkEyXkFqcGdeQXVyMTk5OTk0Mjg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Uwe Preuss",
+            "asCharacter": "Sicherheitsmann I"
+        },
+        {
+            "id": "nm4235194",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Rilla",
+            "asCharacter": "Sicherheitsmann II"
+        },
+        {
+            "id": "nm0770449",
+            "image": "https://imdb-api.com/images/original/MV5BOGQ5ODNmYTUtZGViMS00NzgyLThhYWEtZmY0NTk2MTkyNWY4XkEyXkFqcGdeQXVyNjI5MDg5Nzk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Alexander Scheer",
+            "asCharacter": "Psychiater"
+        },
+        {
+            "id": "nm3489166",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Til Schindler",
+            "asCharacter": "Tom"
+        },
+        {
+            "id": "nm1078064",
+            "image": "https://imdb-api.com/images/original/MV5BNjcxNjk3MDkxM15BMl5BanBnXkFtZTgwNTE2NzI2MDI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Arnel Taci",
+            "asCharacter": "Kevin"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt3141498",
+        "title": "The Nightmare",
+        "fullTitle": "The Nightmare (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0097095",
+                    "name": "Akiz",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0097095",
+                    "name": "Akiz",
+                    "description": ""
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm2481137",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Carolyn Genzkow",
+                "asCharacter": "Tina"
+            },
+            {
+                "id": "nm0864736",
+                "image": "https://imdb-api.com/images/original/MV5BMmM0ZGQ4ZmUtMDY4Yi00ZTk5LThmYzQtZmVkMWUyNGVmOGNmXkEyXkFqcGdeQXVyNDE4MDU5OTE@._V1_Ratio1.6364_AL_.jpg",
+                "name": "Sina Tkotsch",
+                "asCharacter": "Barbara"
+            },
+            {
+                "id": "nm0643806",
+                "image": "https://imdb-api.com/images/original/MV5BMzNkNzZhMTgtMDc0MS00NTRiLWJiYTAtNzY3MTdiNTBhODc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Wilson Gonzalez",
+                "asCharacter": "Adam (as Wilson Gonzalez Ochsenknecht)"
+            },
+            {
+                "id": "nm0458486",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Arnd Klawitter",
+                "asCharacter": "Tinas Vater"
+            },
+            {
+                "id": "nm0420889",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Julika Jenkins",
+                "asCharacter": "Tinas Mutter"
+            },
+            {
+                "id": "nm3123593",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Aram Arami",
+                "asCharacter": "Rashid"
+            },
+            {
+                "id": "nm0046514",
+                "image": "https://imdb-api.com/images/original/MV5BZWUwZjM3ZjUtMDAyMC00MmQ1LWFmNTgtMWNhMGM1MTVkYjNkXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Oliver Bigalke",
+                "asCharacter": "Veterin\u00e4r Dr. Brunk"
+            },
+            {
+                "id": "nm1981574",
+                "image": "https://imdb-api.com/images/original/MV5BZGRmZDk0ZmUtNDVkZC00NTUwLWI0YzYtMzEwMjc2NGI2NzY1XkEyXkFqcGdeQXVyNjg4OTE3MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Epp",
+                "asCharacter": "Polizist Schonrath"
+            },
+            {
+                "id": "nm4835473",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lynn Femme",
+                "asCharacter": "Monika"
+            },
+            {
+                "id": "nm0330371",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1MjA3NTUzMl5BMl5BanBnXkFtZTYwOTA4NzE0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kim Gordon",
+                "asCharacter": "Lehrerin"
+            },
+            {
+                "id": "nm5320471",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Moritz Leu",
+                "asCharacter": "Pascal"
+            },
+            {
+                "id": "nm2967007",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lucia Luciano",
+                "asCharacter": "Julia"
+            },
+            {
+                "id": "nm6829763",
+                "image": "https://imdb-api.com/images/original/MV5BNTg0YTljYzktYWIwYi00MTQzLWE1NTMtOGMxMTJjODhlOTQ3XkEyXkFqcGdeQXVyNTYzNjk5OTk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Vanessa Most",
+                "asCharacter": "M\u00e4dchen"
+            },
+            {
+                "id": "nm7693815",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nura Habib Omer",
+                "asCharacter": "Ashley"
+            },
+            {
+                "id": "nm0696614",
+                "image": "https://imdb-api.com/images/original/MV5BMzU4YmI0NjItMjQ2ZS00MWZmLTk2YzUtMTIxMTE0MTYyOGYxXkEyXkFqcGdeQXVyMTk5OTk0Mjg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Uwe Preuss",
+                "asCharacter": "Sicherheitsmann I"
+            },
+            {
+                "id": "nm4235194",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joe Rilla",
+                "asCharacter": "Sicherheitsmann II"
+            },
+            {
+                "id": "nm0770449",
+                "image": "https://imdb-api.com/images/original/MV5BOGQ5ODNmYTUtZGViMS00NzgyLThhYWEtZmY0NTk2MTkyNWY4XkEyXkFqcGdeQXVyNjI5MDg5Nzk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Alexander Scheer",
+                "asCharacter": "Psychiater"
+            },
+            {
+                "id": "nm3489166",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Til Schindler",
+                "asCharacter": "Tom"
+            },
+            {
+                "id": "nm1078064",
+                "image": "https://imdb-api.com/images/original/MV5BNjcxNjk3MDkxM15BMl5BanBnXkFtZTgwNTE2NzI2MDI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Arnel Taci",
+                "asCharacter": "Kevin"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0097095",
+                        "name": "Akiz",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm1358156",
+                        "name": "Daniel Baur",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm3855034",
+                        "name": "Amir Hamz",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm3998754",
+                        "name": "Simon R\u00fchlemann",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0800323",
+                        "name": "Oliver Simon",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm3106691",
+                        "name": "Rainer Spix",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0819719",
+                        "name": "Christian Springer",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm1477652",
+                        "name": "Christoph Blaser",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0434763",
+                        "name": "Steffen Kahles",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm2528841",
+                        "name": "Clemens Baumeister",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0097095",
+                        "name": "Akiz",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm3308813",
+                        "name": "Anna-Kristin Nekarda",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm1214240",
+                        "name": "Philipp Virus",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm1598357",
+                        "name": "Silke Koch",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0920876",
+                        "name": "Karen Wendland",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm4547448",
+                        "name": "Laura B\u00fcchel",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm4521331",
+                        "name": "Nina D\u00fcffort",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm6864294",
+                        "name": "Marlen Elstner",
+                        "description": "additional makeup artist"
+                    },
+                    {
+                        "id": "nm0494009",
+                        "name": "Lena Lazzarotto",
+                        "description": "makeup artist"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm3913143",
+                        "name": "Benjamin Lange",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm7190649",
+                        "name": "Anika Wagner",
+                        "description": "second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm5005182",
+                        "name": "Ren\u00e9 Helfrich",
+                        "description": "property master: indoor"
+                    },
+                    {
+                        "id": "nm3342759",
+                        "name": "Bea Kosubek",
+                        "description": "set dresser"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm5220595",
+                        "name": "Manfred Mvi\u00e9 Bauche",
+                        "description": "sound designer"
+                    },
+                    {
+                        "id": "nm1434718",
+                        "name": "Leo Brunnsteiner",
+                        "description": "dialogue editor / sound designer"
+                    },
+                    {
+                        "id": "nm0299820",
+                        "name": "Joo F\u00fcrst",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm4692256",
+                        "name": "Benjamin E.G. Gruber",
+                        "description": "sound"
+                    },
+                    {
+                        "id": "nm3409781",
+                        "name": "Florian Holzner",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm3625074",
+                        "name": "Manuel Vogt",
+                        "description": "boom operator / sound"
+                    },
+                    {
+                        "id": "nm4754326",
+                        "name": "Holger Wisniewski",
+                        "description": "foley editor"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0097095",
+                        "name": "Akiz",
+                        "description": "creature creator / model maker"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm2167603",
+                        "name": "Ronney Afortu",
+                        "description": "colorist"
+                    },
+                    {
+                        "id": "nm4767189",
+                        "name": "Sebastian Brandhuber",
+                        "description": "animator"
+                    },
+                    {
+                        "id": "nm2159881",
+                        "name": "Thomas Diesselhorst",
+                        "description": "digital artist"
+                    },
+                    {
+                        "id": "nm3758913",
+                        "name": "Francesco Faranna",
+                        "description": "digital effects"
+                    },
+                    {
+                        "id": "nm4413964",
+                        "name": "Christian Friesser",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm4552464",
+                        "name": "Christoph Hoffmann",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm2699946",
+                        "name": "Moritz Krappel",
+                        "description": "lead td"
+                    },
+                    {
+                        "id": "nm5432542",
+                        "name": "Sarah Neuner",
+                        "description": "visual effects producer"
+                    },
+                    {
+                        "id": "nm6672220",
+                        "name": "Emil Pfeifer",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm4552471",
+                        "name": "Sven Rabe",
+                        "description": "visual effects supervisor"
+                    },
+                    {
+                        "id": "nm4767201",
+                        "name": "Nakil Shabani",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm4259663",
+                        "name": "Constantin von Zitzewitz",
+                        "description": "lead compositor"
+                    },
+                    {
+                        "id": "nm2661993",
+                        "name": "Daniel S. Yuhlmann",
+                        "description": "lead character animator"
+                    },
+                    {
+                        "id": "nm5891566",
+                        "name": "Nicole Rothermel",
+                        "description": "digital effects (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm3508674",
+                        "name": "Alex Bloom",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm3218201",
+                        "name": "Benjamin Erdenberger",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm3477385",
+                        "name": "Jana Fitzner",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm6325655",
+                        "name": "Sara Gfr\u00f6rer",
+                        "description": "assistant light"
+                    },
+                    {
+                        "id": "nm2775787",
+                        "name": "Simon Preissinger",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm3359449",
+                        "name": "Johannes P\u00e4ch",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm8380242",
+                        "name": "Bernhard Russow",
+                        "description": "aerial camera operator"
+                    },
+                    {
+                        "id": "nm4440551",
+                        "name": "Oliver Schorch",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm5395368",
+                        "name": "Alex Schuh",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm3121546",
+                        "name": "Ugur Yildirim",
+                        "description": "digital image technician"
+                    }
+                ]
+            },
+            {
+                "job": "Animation Department",
+                "items": [
+                    {
+                        "id": "nm2661993",
+                        "name": "Daniel S. Yuhlmann",
+                        "description": "lead character animator"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm5914617",
+                        "name": "Nicole 'Polle' Petsch",
+                        "description": "assistant costume designer"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0097095",
+                        "name": "Akiz",
+                        "description": "composer: additional music"
+                    },
+                    {
+                        "id": "nm1076538",
+                        "name": "Milena Fessmann",
+                        "description": "music supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm2667192",
+                        "name": "Florian Eberhorn",
+                        "description": "english subtitles: translator"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Horror, Mystery",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        }
+    ],
+    "companies": "OOO-Films, Bon Voyage Films, Liga_01 Computerfilm",
+    "companyList": [
+        {
+            "id": "co0539666",
+            "name": "OOO-Films"
+        },
+        {
+            "id": "co0557281",
+            "name": "Bon Voyage Films"
+        },
+        {
+            "id": "co0213127",
+            "name": "Liga_01 Computerfilm"
+        }
+    ],
+    "countries": "Germany",
+    "countryList": [
+        {
+            "key": "Germany",
+            "value": "Germany"
+        }
+    ],
+    "languages": "English, German",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "German",
+            "value": "German"
+        }
+    ],
+    "contentRating": "",
+    "imDbRating": "6.6",
+    "imDbRatingVotes": "2442",
+    "metacriticRating": "",
+    "ratings": {
+        "imDbId": "tt3141498",
+        "title": "The Nightmare",
+        "fullTitle": "The Nightmare (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "imDb": "6.6",
+        "metacritic": "",
+        "theMovieDb": "6.6",
+        "rottenTomatoes": "50",
+        "tV_com": "",
+        "filmAffinity": "5.8",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt3141498",
+        "title": "The Nightmare",
+        "fullTitle": "The Nightmare (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "language": "en",
+        "titleInLanguage": "The Nightmare (2015 German film)",
+        "url": "https://en.wikipedia.org/wiki/The_Nightmare_(2015_German_film)",
+        "plotShort": {
+            "plainText": "The Nightmare (2015 German film)\r\nThe Nightmare (German: Der Nachtmahr) is a 2015 German drama and psychological horror film directed by Achim Bornhak. The title and themes are inspired by the otherwise unrelated painting The Nightmare by Swiss painter Henry Fuseli. Rock musician Kim Gordon (Sonic Youth) has a cameo as an English poetry teacher.",
+            "html": "<h2>The Nightmare (2015 German film)</h2><p>The Nightmare (German: Der Nachtmahr) is a 2015 German drama and psychological horror film directed by Achim Bornhak. The title and themes are inspired by the otherwise unrelated painting The Nightmare by Swiss painter Henry Fuseli. Rock musician Kim Gordon (Sonic Youth) has a cameo as an English poetry teacher.</p>"
+        },
+        "plotFull": {
+            "plainText": "The Nightmare (2015 German film)\r\nThe Nightmare (German: Der Nachtmahr) is a 2015 German drama and psychological horror film directed by Achim Bornhak. The title and themes are inspired by the otherwise unrelated painting The Nightmare by Swiss painter Henry Fuseli. Rock musician Kim Gordon (Sonic Youth) has a cameo as an English poetry teacher.\r\nPlot\r\nThe film opens with a warning about its intense usage of strobe lights and disorienting sound profiles.\r\nDuring a hot summer in Berlin the 17-year old Tina and her friends travel to a late-evening party at a public swimming pool. One of the girls tells Tina about a misshapen embryo shown to students during biology class. She takes a photograph of Tina with her smartphone to morph her into the picture. Later someone else also shows her someone getting run over by a car in a video on his smartphone. During the party Tina notices a bizarre creature in the forest and is so frightened that she wants to go home. Once back at the car she notices her necklace is missing and spots pieces of it on the street. As she gets out the car and cobbles it back together a car passes by and smacks her down.\r\nA few moments later Tina wakes up, apparently not hurt fatally. A feeling of d\u00e9j\u00e0-vu strikes her, as scenes similar to what happened before take place again, including her getting in the car and noticing her necklace is gone.\r\nAt home Tina notices the strange creature from before raiding the kitchen fridge. She warns her parents and later security personnel to check whether there was an intruder in the home, but none of them find any evidence and don't seem to be able to see the creature. Tina talks with her therapist, and he advises her to approach and touch the creature. She follows his advice and discovers it seems to be real. Not only that, but they seem to have a strange physical sensory connection: whenever it hurts itself - or is hurt by others - Tina also experiences pain.\r\nTina starts to like the creature and brings food to her room to feed it. At a certain moment her parents hear the creature's noise, open her bedroom door and to their horror notice she is sleeping next to it on her bed. They take her away and try to catch it with help from police officers and animal control specialists. As the creature is incapacitated with a tranquilizer dart, Tina also collapses in a coma. The creature is brought to a hospital for further investigation.\r\nTina wakes up and confronts her parents about the creature, but they have no idea what she is talking about. Back in school Tina is mocked and alienated by her former friends who all heard what happened and assume she is losing her mind. Despite the fact that they planned to throw a birthday party for her, she is not invited by them and her parents want to keep her at home, since her mental condition is so bad. She celebrates her 18th birthday at home with her parents but discovers they plan to send her to a mental hospital. Angry, she sneaks out that night, steals her parents' car, saves the creature from the hospital, and goes to the party.\r\nAt the party she meets her friends and the boy she had an eye on the entire time. They kiss for the first time, but then other people notice the creature. As others try to harm it she goes over and defends him, but her parents - who also arrived at the scene - throw a stone sculpture at it.\r\nThe final scene shows Tina waking up in the back of the moving car, while the creature is behind the wheel. She feels comforted and together they drive away.\r\nCast\r\nCarolyn Genzkow - Tina\r\nSina Tkotsch - Barbara\r\nWilson Gonzalez Ochsenknecht - Adam\r\nArnd Klawitter - Tina's father\r\nJulika Jenkins - Tina's mother\r\nAram Arami - Rashid\r\nMichael Epp - police officer Schonrath\r\nKim Gordon - English teacher\r\nAwards\r\nThe picture won the Youth Jury Prize and Oecumenical Jury Prize at the Max Oph\u00fcls Prize Film Festival (2016) and the award for Best Foreign Picture at the 12th Fantaspoa Festival in Brazil, in 2016.\r\nRecognition\r\nJay Bauman of the website RedLetterMedia liked the film on his Twitter account and named it \"a really good mood piece. Loved the driving soundtrack and uneasy, wide angle lens camera work.\"",
+            "html": "<h2>The Nightmare (2015 German film)</h2><p>The Nightmare (German: Der Nachtmahr) is a 2015 German drama and psychological horror film directed by Achim Bornhak. The title and themes are inspired by the otherwise unrelated painting The Nightmare by Swiss painter Henry Fuseli. Rock musician Kim Gordon (Sonic Youth) has a cameo as an English poetry teacher.</p><br/><h3>Plot</h3><p>The film opens with a warning about its intense usage of strobe lights and disorienting sound profiles.</p><p>During a hot summer in Berlin the 17-year old Tina and her friends travel to a late-evening party at a public swimming pool. One of the girls tells Tina about a misshapen embryo shown to students during biology class. She takes a photograph of Tina with her smartphone to morph her into the picture. Later someone else also shows her someone getting run over by a car in a video on his smartphone. During the party Tina notices a bizarre creature in the forest and is so frightened that she wants to go home. Once back at the car she notices her necklace is missing and spots pieces of it on the street. As she gets out the car and cobbles it back together a car passes by and smacks her down.</p><p>A few moments later Tina wakes up, apparently not hurt fatally. A feeling of d\u00e9j\u00e0-vu strikes her, as scenes similar to what happened before take place again, including her getting in the car and noticing her necklace is gone.</p><p>At home Tina notices the strange creature from before raiding the kitchen fridge. She warns her parents and later security personnel to check whether there was an intruder in the home, but none of them find any evidence and don't seem to be able to see the creature. Tina talks with her therapist, and he advises her to approach and touch the creature. She follows his advice and discovers it seems to be real. Not only that, but they seem to have a strange physical sensory connection: whenever it hurts itself - or is hurt by others - Tina also experiences pain.</p><p>Tina starts to like the creature and brings food to her room to feed it. At a certain moment her parents hear the creature's noise, open her bedroom door and to their horror notice she is sleeping next to it on her bed. They take her away and try to catch it with help from police officers and animal control specialists. As the creature is incapacitated with a tranquilizer dart, Tina also collapses in a coma. The creature is brought to a hospital for further investigation.</p><p>Tina wakes up and confronts her parents about the creature, but they have no idea what she is talking about. Back in school Tina is mocked and alienated by her former friends who all heard what happened and assume she is losing her mind. Despite the fact that they planned to throw a birthday party for her, she is not invited by them and her parents want to keep her at home, since her mental condition is so bad. She celebrates her 18th birthday at home with her parents but discovers they plan to send her to a mental hospital. Angry, she sneaks out that night, steals her parents' car, saves the creature from the hospital, and goes to the party.</p><p>At the party she meets her friends and the boy she had an eye on the entire time. They kiss for the first time, but then other people notice the creature. As others try to harm it she goes over and defends him, but her parents - who also arrived at the scene - throw a stone sculpture at it.</p><p>The final scene shows Tina waking up in the back of the moving car, while the creature is behind the wheel. She feels comforted and together they drive away.</p><br/><h3>Cast</h3><ul><li>Carolyn Genzkow - Tina</li><li>Sina Tkotsch - Barbara</li><li>Wilson Gonzalez Ochsenknecht - Adam</li><li>Arnd Klawitter - Tina's father</li><li>Julika Jenkins - Tina's mother</li><li>Aram Arami - Rashid</li><li>Michael Epp - police officer Schonrath</li><li>Kim Gordon - English teacher</li></ul><br/><h3>Awards</h3><p>The picture won the Youth Jury Prize and Oecumenical Jury Prize at the Max Oph\u00fcls Prize Film Festival (2016) and the award for Best Foreign Picture at the 12th Fantaspoa Festival in Brazil, in 2016.</p><br/><h3>Recognition</h3><p>Jay Bauman of the website RedLetterMedia liked the film on his Twitter account and named it \"a really good mood piece. Loved the driving soundtrack and uneasy, wide angle lens camera work.\"</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt3141498",
+        "title": "The Nightmare",
+        "fullTitle": "The Nightmare (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "posters": [
+            {
+                "id": "l3TfWO9biIWnLgdJAOsTn3w9NY7.jpg",
+                "link": "https://imdb-api.com/posters/original/l3TfWO9biIWnLgdJAOsTn3w9NY7.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "de",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdors": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt3141498",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt3141498",
+        "title": "The Nightmare",
+        "fullTitle": "The Nightmare (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "EUR80,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "",
+    "keywords": "fridge,car accident,creature,peeing,party",
+    "keywordList": [
+        "fridge",
+        "car accident",
+        "creature",
+        "peeing",
+        "party"
+    ],
+    "similars": [
+        {
+            "id": "tt3317522",
+            "title": "The Nightmare",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTkwNjcwOTMyMl5BMl5BanBnXkFtZTgwNTQ0MzE2NTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A look at a frightening condition that plagues thousands; sleep paralysis.",
+            "directors": "Rodney Ascher",
+            "stars": "Siegfried Peters, Elise Robson, Stephen Joseph",
+            "genres": "Documentary, Horror",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt1296077",
+            "title": "Sennentuntschi: Curse of the Alps",
+            "fullTitle": "Sennentuntschi: Curse of the Alps (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMzEyODU2NDUxOF5BMl5BanBnXkFtZTgwMzA4Mzk1MTE@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "Three lonely herdsmen starved of female companionship creates the girl of their dreams, from a broom, some straw and a few rags. The creation - Sennentuntschi, lives and breathe to cook, clean and look after the three.",
+            "directors": "Michael Steiner",
+            "stars": "Roxane Mesquida, Nicholas Ofczarek, Andrea Zogg",
+            "genres": "Horror, Mystery",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt2847438",
+            "title": "Der Bunker",
+            "fullTitle": "Der Bunker (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjQyNTk1OTcyOV5BMl5BanBnXkFtZTgwNzgxOTkzNjE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A young student seeks quiet and solitude to focus on an important work but ends up as the teacher of a peculiar boy who is home-schooled by his parents in an isolated bunker mansion. THE ... See full summary \u00bb",
+            "directors": "Nikias Chryssos",
+            "stars": "Pit Bukowski, Daniel Fripan, Oona von Maydell",
+            "genres": "Comedy, Drama, Horror",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt2822400",
+            "title": "Tore tanzt",
+            "fullTitle": "Tore tanzt (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzOTAxNDcxNF5BMl5BanBnXkFtZTgwNzE0ODM5MTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The young Tore seeks in Hamburg a new life among the religious group called The Jesus Freaks. When he by accident meets a family and helps them to repair their car, he believes that a ... See full summary \u00bb",
+            "directors": "Katrin Gebbe",
+            "stars": "Julius Feldmeier, Sascha Alexander Gersak, Annika Kuhl",
+            "genres": "Crime, Drama, Horror",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt1941600",
+            "title": "Masks",
+            "fullTitle": "Masks (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BZDBmYjRkZDUtNzQyNi00NjU0LWIyODktODIyMDY0YTM3ODQ2XkEyXkFqcGdeQXVyMTI5NzkyMA@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "In the 70s Matteusz Gdula invented an acting method that was supposed to make every actor \"shine\". Still, lots of his students die mysteriously and Gdula commits suicide. His method gets ... See full summary \u00bb",
+            "directors": "Andreas Marschall",
+            "stars": "Susen Ermich, Magdalena Ritter, Julita Witt",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "5.7"
+        },
+        {
+            "id": "tt2401181",
+            "title": "Der Samurai",
+            "fullTitle": "Der Samurai (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMjA3ODU0Njg4Nl5BMl5BanBnXkFtZTgwNzY5MzMzNjE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A wolf strives through the woods around an isolated German village. Jakob the young local police officer is onto him, but scents something more in the darkness. What he finds is a man, it ... See full summary \u00bb",
+            "directors": "Till Kleinert",
+            "stars": "Michel Diercks, Pit Bukowski, Uwe Preuss",
+            "genres": "Fantasy, Horror, Thriller",
+            "imDbRating": "5.7"
+        },
+        {
+            "id": "tt4701908",
+            "title": "Dearest Sister",
+            "fullTitle": "Dearest Sister (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BNTQ1NzEyZWMtNzZkZi00ZTQ2LThiNGUtM2EyZDAxZjZkYWZkXkEyXkFqcGdeQXVyMzgzNTU0NzU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A village girl travels to the Lao capital, Vientiane, to care for her rich cousin who has lost her sight and gained the ability to communicate with the dead.",
+            "directors": "Mattie Do",
+            "stars": "Amphaiphun Phommapunya, Vilouna Phetmany, Tambet Tuisk",
+            "genres": "Drama, Horror",
+            "imDbRating": "6"
+        },
+        {
+            "id": "tt2076372",
+            "title": "Toad Road",
+            "fullTitle": "Toad Road (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMjIyNTc3NDkyN15BMl5BanBnXkFtZTcwNjMwNTA3OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A portrait of contemporary youth culture, where the lines between reality and fiction are blurred with often frightening results.",
+            "directors": "Jason Banker",
+            "stars": "James Davidson, Sara Anne Jones, Whitleigh Higuera",
+            "genres": "Horror",
+            "imDbRating": "5.1"
+        },
+        {
+            "id": "tt0764639",
+            "title": "Eight Miles High",
+            "fullTitle": "Eight Miles High (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BZDMyOTVkNGQtYjBjOC00YTg3LThkNmEtNDVmNWU5ODUwYzAxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzA3Njg4MzY@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Akiz's movie focuses on the restless life of Uschi Obermaier, the icon of the 1968 movement in Germany and groupie. At the age of 16, Uschi is bored by her job in a photo lab, but soon ... See full summary \u00bb",
+            "directors": "Akiz",
+            "stars": "Natalia Avelon, Matthias Schweigh\u00f6fer, David Scheller",
+            "genres": "Biography, Comedy, Drama",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt4071086",
+            "title": "Wild",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMWI4MWMzN2YtOWE4NS00OTdkLThmYzItZmRiMTZmMjg4YjY1XkEyXkFqcGdeQXVyMzYwMTkzNTQ@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "An anarchist young woman breaks the tacit contract with civilization and fearlessly decides on a life without hypocrisy or an obligatory safety net.",
+            "directors": "Nicolette Krebitz",
+            "stars": "Lilith Stangenberg, Georg Friedrich, Nelson",
+            "genres": "Drama",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt3398436",
+            "title": "German Angst",
+            "fullTitle": "German Angst (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjE2MjUwMTA1M15BMl5BanBnXkFtZTgwNjA5ODM5MDE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Three German tales of love, sex and death in Berlin from Germany's most shocking directors.",
+            "directors": "Directors: J\u00f6rg Buttgereit, Michal Kosakowski, and 1 more credit \u00bb",
+            "stars": "Lola Gave, Axel Holst, Michael Zenner",
+            "genres": "Drama, Fantasy, Horror",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt7323600",
+            "title": "Hagazussa",
+            "fullTitle": "Hagazussa (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNDZkMjEzZDMtMDU5ZS00YzY5LWFkMTgtYTcwNzY1MWIxN2Q3XkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Paranoia & Superstition in 15th Century Europe.",
+            "directors": "Lukas Feigelfeld",
+            "stars": "Aleksandra Cwen, Celina Peter, Claudia Martini",
+            "genres": "Drama, Horror",
+            "imDbRating": "5.9"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

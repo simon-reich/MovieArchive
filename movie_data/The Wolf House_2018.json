@@ -1,0 +1,576 @@
+{
+    "id": "tt8173728",
+    "title": "The Wolf House",
+    "originalTitle": "La Casa Lobo",
+    "fullTitle": "The Wolf House (2018)",
+    "type": "Movie",
+    "year": "2018",
+    "image": "https://imdb-api.com/images/original/MV5BOGYwNzc3YmEtYjNlMS00OWM0LTg3ZjEtZjMxMDFlMTk0YThmXkEyXkFqcGdeQXVyOTE4MDA1NDI@._V1_Ratio0.7015_AL_.jpg",
+    "releaseDate": "2018-11-01",
+    "runtimeMins": "75",
+    "runtimeStr": "1h 15mins",
+    "plot": "Tells the story of Maria, a young woman who takes refuge in a house in southern Chile after escaping from a German colony.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "4 wins & 6 nominations.",
+    "directors": "Joaqu\u00edn Coci\u00f1a, Crist\u00f3bal Le\u00f3n",
+    "directorList": [
+        {
+            "id": "nm4860666",
+            "name": "Joaqu\u00edn Coci\u00f1a"
+        },
+        {
+            "id": "nm4860365",
+            "name": "Crist\u00f3bal Le\u00f3n"
+        }
+    ],
+    "writers": "Joaqu\u00edn Coci\u00f1a, Crist\u00f3bal Le\u00f3n, Alejandra Moffat",
+    "writerList": [
+        {
+            "id": "nm4860666",
+            "name": "Joaqu\u00edn Coci\u00f1a"
+        },
+        {
+            "id": "nm4860365",
+            "name": "Crist\u00f3bal Le\u00f3n"
+        },
+        {
+            "id": "nm3450186",
+            "name": "Alejandra Moffat"
+        }
+    ],
+    "stars": "Amalia Kassai, Rainer Krause",
+    "starList": [
+        {
+            "id": "nm8404408",
+            "name": "Amalia Kassai"
+        },
+        {
+            "id": "nm3018234",
+            "name": "Rainer Krause"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm8404408",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Amalia Kassai",
+            "asCharacter": "Mar\u00eda"
+        },
+        {
+            "id": "nm3018234",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rainer Krause",
+            "asCharacter": "Wolf (as Rainer Krausse)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt8173728",
+        "title": "The Wolf House",
+        "fullTitle": "The Wolf House (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm4860666",
+                    "name": "Joaqu\u00edn Coci\u00f1a",
+                    "description": ""
+                },
+                {
+                    "id": "nm4860365",
+                    "name": "Crist\u00f3bal Le\u00f3n",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm4860666",
+                    "name": "Joaqu\u00edn Coci\u00f1a",
+                    "description": ""
+                },
+                {
+                    "id": "nm4860365",
+                    "name": "Crist\u00f3bal Le\u00f3n",
+                    "description": ""
+                },
+                {
+                    "id": "nm3450186",
+                    "name": "Alejandra Moffat",
+                    "description": ""
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm8404408",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Amalia Kassai",
+                "asCharacter": "Mar\u00eda"
+            },
+            {
+                "id": "nm3018234",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rainer Krause",
+                "asCharacter": "Wolf (as Rainer Krausse)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm4081331",
+                        "name": "Niles Atallah",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm5538918",
+                        "name": "Catalina Vergara",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm4860666",
+                        "name": "Joaqu\u00edn Coci\u00f1a",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm4860365",
+                        "name": "Crist\u00f3bal Le\u00f3n",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm4860666",
+                        "name": "Joaqu\u00edn Coci\u00f1a",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm4735158",
+                        "name": "Natalia Geisse",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm4860365",
+                        "name": "Crist\u00f3bal Le\u00f3n",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm6103067",
+                        "name": "Pablo Bahamondez",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0261089",
+                        "name": "Roberto Espinoza",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm1878521",
+                        "name": "Claudio Vargas",
+                        "description": "sound designer"
+                    }
+                ]
+            },
+            {
+                "job": "Animation Department",
+                "items": [
+                    {
+                        "id": "nm4860666",
+                        "name": "Joaqu\u00edn Coci\u00f1a",
+                        "description": "animator"
+                    },
+                    {
+                        "id": "nm4860365",
+                        "name": "Crist\u00f3bal Le\u00f3n",
+                        "description": "animator"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Animation, Drama, Horror",
+    "genreList": [
+        {
+            "key": "Animation",
+            "value": "Animation"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Horror",
+            "value": "Horror"
+        }
+    ],
+    "companies": "Diluvio, Globo Rojo Films",
+    "companyList": [
+        {
+            "id": "co0314164",
+            "name": "Diluvio"
+        },
+        {
+            "id": "co0537437",
+            "name": "Globo Rojo Films"
+        }
+    ],
+    "countries": "Chile, Germany",
+    "countryList": [
+        {
+            "key": "Chile",
+            "value": "Chile"
+        },
+        {
+            "key": "Germany",
+            "value": "Germany"
+        }
+    ],
+    "languages": "Spanish, German",
+    "languageList": [
+        {
+            "key": "Spanish",
+            "value": "Spanish"
+        },
+        {
+            "key": "German",
+            "value": "German"
+        }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "7.5",
+    "imDbRatingVotes": "719",
+    "metacriticRating": "92",
+    "ratings": {
+        "imDbId": "tt8173728",
+        "title": "The Wolf House",
+        "fullTitle": "The Wolf House (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "imDb": "7.5",
+        "metacritic": "92",
+        "theMovieDb": "7.7",
+        "rottenTomatoes": "100",
+        "tV_com": "",
+        "filmAffinity": "6.4",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt8173728",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "language": null,
+        "titleInLanguage": null,
+        "url": null,
+        "plotShort": {
+            "plainText": "",
+            "html": ""
+        },
+        "plotFull": {
+            "plainText": "",
+            "html": ""
+        },
+        "errorMessage": "Wikipedia not founded in 'en' language"
+    },
+    "posters": {
+        "imDbId": "tt8173728",
+        "title": "The Wolf House",
+        "fullTitle": "The Wolf House (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "posters": [
+            {
+                "id": "WkqlMUpC9f5dFCZIxmQSvs6MAI.jpg",
+                "link": "https://imdb-api.com/posters/original/WkqlMUpC9f5dFCZIxmQSvs6MAI.jpg",
+                "aspectRatio": 0.6673618352450469,
+                "language": "es",
+                "width": 640,
+                "height": 959
+            },
+            {
+                "id": "5pziEjQsEQCsZxRLdMbK56mfsfS.jpg",
+                "link": "https://imdb-api.com/posters/original/5pziEjQsEQCsZxRLdMbK56mfsfS.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "ydEHUS04x9kmANWrGeOUNPPA2Tv.jpg",
+                "link": "https://imdb-api.com/posters/original/ydEHUS04x9kmANWrGeOUNPPA2Tv.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 782,
+                "height": 1173
+            },
+            {
+                "id": "psS8a2sMP6BlD2d68o77lIJceHI.jpg",
+                "link": "https://imdb-api.com/posters/original/psS8a2sMP6BlD2d68o77lIJceHI.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "tcR1S0s8c3z2Pc8h7eScm1nETR4.jpg",
+                "link": "https://imdb-api.com/posters/original/tcR1S0s8c3z2Pc8h7eScm1nETR4.jpg",
+                "aspectRatio": 0.7135416666666666,
+                "language": "es",
+                "width": 685,
+                "height": 960
+            },
+            {
+                "id": "u0DCCMHNs9BQTQpXGQ4eIf6n0qZ.jpg",
+                "link": "https://imdb-api.com/posters/original/u0DCCMHNs9BQTQpXGQ4eIf6n0qZ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 500,
+                "height": 750
+            }
+        ],
+        "backdors": [
+            {
+                "id": "u4CVC9VVpbfxxFqf8fcaPVegUmZ.jpg",
+                "link": "https://imdb-api.com/posters/original/u4CVC9VVpbfxxFqf8fcaPVegUmZ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "obHrG0vCNr4LU4XTnRgUJ8KrvuN.jpg",
+                "link": "https://imdb-api.com/posters/original/obHrG0vCNr4LU4XTnRgUJ8KrvuN.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "cgbKtsmnPp8EKva9ipEqtApXQvu.jpg",
+                "link": "https://imdb-api.com/posters/original/cgbKtsmnPp8EKva9ipEqtApXQvu.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "buW9k4bgxeVFLVlcdqXOtP6Bh2k.jpg",
+                "link": "https://imdb-api.com/posters/original/buW9k4bgxeVFLVlcdqXOtP6Bh2k.jpg",
+                "aspectRatio": 1.7786458333333333,
+                "language": "en",
+                "width": 1366,
+                "height": 768
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt8173728",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt8173728",
+        "title": "The Wolf House",
+        "fullTitle": "The Wolf House (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "videoId": "vi1843772697",
+        "videoTitle": "Tr\u00e1iler [OV]",
+        "videoDescription": null,
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTUxZmIwZDgtMjUwNy00Mjk4LWI4ODAtMDkzYjUzNGU4NjgzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "04/03/2019 08:04:05",
+        "link": "https://www.imdb.com/video/vi1843772697",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1843772697/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$245,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$1,970"
+    },
+    "tagline": "",
+    "keywords": "colonia dignidad,germany,chile,stop motion,house",
+    "keywordList": [
+        "colonia dignidad",
+        "germany",
+        "chile",
+        "stop motion",
+        "house"
+    ],
+    "similars": [
+        {
+            "id": "tt1999845",
+            "title": "Boro in the Box",
+            "fullTitle": "Boro in the Box (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BZDI3YTY1NTYtNWM0Mi00OGY0LWI1NTUtMjJkYTkwZWFiNmJkXkEyXkFqcGdeQXVyNjk2ODk3MTU@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A fantasized portrayal of Polish auteur Walerian Borowczyk: Boro in the Box discovers a cruel and obscene world. He experiences banal yet colorful adventures, caressing erotic birds and organic cameras in a phantasmagorical Alphabet.",
+            "directors": "Bertrand Mandico",
+            "stars": "Elina L\u00f6wensohn, Thierry Benoiton, Jacques Malnou",
+            "genres": "Short, Fantasy",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt2850834",
+            "title": "La r\u00e9surrection des natures mortes (Living Still Life)",
+            "fullTitle": "La r\u00e9surrection des natures mortes (Living Still Life) (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BODdlOTdhZDItNmFkZi00YTZiLTk4YWEtODZlZWZlNmM2YTc1XkEyXkFqcGdeQXVyNjk2ODk3MTU@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "Fi\u00e8vre, an enigmatic woman, collects dead animals. She brings hem to life through animated films. One day, a man comes to see Fi\u00e8vre: his wife is dead...",
+            "directors": "Bertrand Mandico",
+            "stars": "Elina L\u00f6wensohn, Jean-Marc Montmont",
+            "genres": "Short, Sci-Fi",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt8506134",
+            "title": "Trees Down Here",
+            "fullTitle": "Trees Down Here (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BNmY5MWUyMzgtNmMzMi00MjQzLTkwZmMtODFjY2U3YjRiMWI2XkEyXkFqcGdeQXVyNjgxODk1MTM@._V1_Ratio1.3368_AL_.jpg",
+            "plot": "In this short film of Cowan Court, Rivers has turned his camera onto the interactions between architecture and landscape within which the students of Churchill College, University of Cambridge live and work.",
+            "directors": "Ben Rivers",
+            "stars": "",
+            "genres": "Documentary, Short",
+            "imDbRating": "5.6"
+        },
+        {
+            "id": "tt4713312",
+            "title": "Wolf House",
+            "fullTitle": "Wolf House (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwNTc1NTc3MF5BMl5BanBnXkFtZTgwMjk4NDUwMDI@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Six friends on a camping trip think they have discovered, and killed, a sasquatch. But what they have actually unleashed is something more evil, more ancient and more deadly than they could ever imagine - an army of supernatural terrors that will hunt them until no one remains.",
+            "directors": "Directors: Ken Cosentino, Matt D. Lord",
+            "stars": "Jessica Bell, Ken Cosentino, Marcus Ganci-Rotella",
+            "genres": "Horror",
+            "imDbRating": "2.6"
+        },
+        {
+            "id": "tt8306938",
+            "title": "Ultra pulpe",
+            "fullTitle": "Ultra pulpe (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BNmJmMTQ1MTgtMjA4Zi00NjllLTkyODgtZWYzYWZkODA1YTUwXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "An abandoned seaside resort. The shooting for a fantasy film about the end of an era wraps up. Two women, both members of the film crew, one an actress, the other a director, Apocalypse and... See full summary \u00bb",
+            "directors": "Bertrand Mandico",
+            "stars": "Pauline Jacquard, Elina L\u00f6wensohn, Anne Lise Maulin",
+            "genres": "Short, Comedy, Fantasy",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt9264020",
+            "title": "From Its Mouth Came a River of High-End Residential Appliances",
+            "fullTitle": "From Its Mouth Came a River of High-End Residential Appliances (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BM2Y4YmZmNzMtMDExOC00ODlkLWFkNGMtMWJhYTNkMzYxZDI2XkEyXkFqcGdeQXVyNDQ4MTYyNTQ@._V1_Ratio1.7789_AL_.jpg",
+            "plot": "A drone's-eye-view recording leads the audience through Hong Kong's dragon gates, a series of gaps in high-rises that allow dragons to fly from the mountains to the sea while a character ... See full summary \u00bb",
+            "directors": "Jon Wang",
+            "stars": "Jon Wang",
+            "genres": "Documentary, Short",
+            "imDbRating": "5.9"
+        },
+        {
+            "id": "tt3166582",
+            "title": "Los Andes",
+            "fullTitle": "Los Andes (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BZGUwMDI3YWItYWYzNy00MWM4LWE1ZTEtOGJlZTk4MzljZDMzXkEyXkFqcGdeQXVyOTE4MDA1NDI@._V1_Ratio1.4947_AL_.jpg",
+            "plot": "An office is possessed by a divine force that has come to prophecy the rise of a new golden civilization in The Andes.",
+            "directors": "Directors: Joaqu\u00edn Coci\u00f1a, Crist\u00f3bal Le\u00f3n",
+            "stars": "",
+            "genres": "Animation, Short",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt6515470",
+            "title": "Rey",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYzU1MDcwNzktMThhOS00ODBiLWEyN2UtYWU4N2ZjYjZlMGNhXkEyXkFqcGdeQXVyMjM5MzQ1NzU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1860, a French lawyer dreamed of becoming the King of Patagonia. And he did just that. Or so it seems.",
+            "directors": "Niles Atallah",
+            "stars": "Rodrigo Lisboa, Claudio Riveros",
+            "genres": "Biography, Drama, Fantasy",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt6340640",
+            "title": "The Wild Boys",
+            "fullTitle": "The Wild Boys (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BODg5NDNkY2EtYmQxMy00ODg1LWExMGEtY2MxMmMyOTkyMzgxXkEyXkFqcGdeQXVyNjY0MTgwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "At the beginning of the 20th century on the island of La R\u00e9union, five adolescents of good family, enamored with the occult, commit a savage crime. A Dutch Captain takes them in charge for ... See full summary \u00bb",
+            "directors": "Bertrand Mandico",
+            "stars": "Pauline Lorillard, Vimala Pons, Diane Rouxel",
+            "genres": "Adventure, Drama, Fantasy",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt2190253",
+            "title": "The Arc",
+            "fullTitle": "The Arc (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMTAwOTUwMjEtN2Q5OS00MGE5LTk4MzItNTNmYzI4ZTU2YzkyXkEyXkFqcGdeQXVyOTE4MDA1NDI@._V1_Ratio1.3789_AL_.jpg",
+            "plot": "An intergalactic traveler cares for various beasts aboard a ship. An unexpected disaster will give rise to a new type of creature.",
+            "directors": "Directors: Joaqu\u00edn Coci\u00f1a, Crist\u00f3bal Le\u00f3n",
+            "stars": "",
+            "genres": "Short, Drama",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt6855898",
+            "title": "The Dead Nation",
+            "fullTitle": "The Dead Nation (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNGE5OTEwMzUtZThiOC00YTQ5LWFhYzItOGY5ZmYwYTg3OTNmXkEyXkFqcGdeQXVyMjQxNjA1MzU@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "A film constructed using the opposition of what a huge collection of recently discovered glass-plate photographs from the 30's and 40's tell us about Romania and what they do not show.",
+            "directors": "Radu Jude",
+            "stars": "Radu Jude",
+            "genres": "Documentary, History, War",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt5368088",
+            "title": "Ears, Nose and Throat",
+            "fullTitle": "Ears, Nose and Throat (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BNzdjZmFjOTQtMjVkZi00YzM0LWE5N2ItNTdjNjBhNTU3OWYzXkEyXkFqcGdeQXVyMTEwMzQzODU@._V1_Ratio1.3158_AL_.jpg",
+            "plot": "During an Ear, Nose and Throat examination, Shadeena Brooks recounts a horrible event that she eye witnessed.",
+            "directors": "Kevin Jerome Everson",
+            "stars": "Shadeena Brooks, Eric Mansfield, Heather Honeycutt",
+            "genres": "Short",
+            "imDbRating": "6.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

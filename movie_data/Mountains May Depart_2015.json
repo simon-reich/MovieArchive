@@ -1,0 +1,998 @@
+{
+    "id": "tt3740778",
+    "title": "Mountains May Depart",
+    "originalTitle": "Shan he gu ren",
+    "fullTitle": "Mountains May Depart (2015)",
+    "type": "Movie",
+    "year": "2015",
+    "image": "https://imdb-api.com/images/original/MV5BMjMwNjgyMjk1OV5BMl5BanBnXkFtZTgwMzgzNDc5NzE@._V1_Ratio0.7015_AL_.jpg",
+    "releaseDate": "2015-10-30",
+    "runtimeMins": "126",
+    "runtimeStr": "2h 6mins",
+    "plot": "China, 1999. Childhood friends Liangzi and Zhang are both in love with Tao, the town beauty. Tao eventually decides to marry the wealthier Zhang. They soon have a son he names Dollar... From China to Australia, the lives, loves, hopes and disillusions of a family over two generations in a society changing at breakneck speed.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "25 wins & 39 nominations.",
+    "directors": "Zhangke Jia",
+    "directorList": [
+        {
+            "id": "nm0422605",
+            "name": "Zhangke Jia"
+        }
+    ],
+    "writers": "Zhangke Jia",
+    "writerList": [
+        {
+            "id": "nm0422605",
+            "name": "Zhangke Jia"
+        }
+    ],
+    "stars": "Tao Zhao, Yi Zhang, Jing Dong Liang, Zijian Dong",
+    "starList": [
+        {
+            "id": "nm0955504",
+            "name": "Tao Zhao"
+        },
+        {
+            "id": "nm3589263",
+            "name": "Yi Zhang"
+        },
+        {
+            "id": "nm0508644",
+            "name": "Jing Dong Liang"
+        },
+        {
+            "id": "nm6039993",
+            "name": "Zijian Dong"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0955504",
+            "image": "https://imdb-api.com/images/original/MV5BMTAxNzQyNDI1NjdeQTJeQWpwZ15BbWU3MDMyNTMzODg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tao Zhao",
+            "asCharacter": "Shen Tao (as Zhao Tao)"
+        },
+        {
+            "id": "nm3589263",
+            "image": "https://imdb-api.com/images/original/MV5BMTY4ODE5NzMxM15BMl5BanBnXkFtZTgwNzk2Mjc1MjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Yi Zhang",
+            "asCharacter": "Zhang Jinsheng (as Zhang Yi)"
+        },
+        {
+            "id": "nm0508644",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jing Dong Liang",
+            "asCharacter": "Liang Jangjung aka Liangzi (as Liang Jingdong)"
+        },
+        {
+            "id": "nm6039993",
+            "image": "https://imdb-api.com/images/original/MV5BZjcwNDBjYzYtZWY5OC00NWY2LWFjZTQtZDE1ODRjMGU2OTBjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Zijian Dong",
+            "asCharacter": "Zhang Daole aka Dollar (as Dong Zijian)"
+        },
+        {
+            "id": "nm0151827",
+            "image": "https://imdb-api.com/images/original/MV5BYmI2ODRlYWEtMDdiMC00ZjZlLWFmOWYtNzI4MzE5YWJiYzFjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sylvia Chang",
+            "asCharacter": "Mia"
+        },
+        {
+            "id": "nm2385917",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0NDk2NTM3N15BMl5BanBnXkFtZTcwMjkzMDAyMg@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Sanming Han",
+            "asCharacter": "Liangzi's friend"
+        },
+        {
+            "id": "nm5154864",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrick Harvey",
+            "asCharacter": "Train Passenger"
+        },
+        {
+            "id": "nm5254462",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Russell Lambe",
+            "asCharacter": "Golfer"
+        },
+        {
+            "id": "nm4702646",
+            "image": "https://imdb-api.com/images/original/MV5BZTJiOGJlNmMtZWQ0ZS00OTlkLWFiNGItMjIzODQ2MzE3OWIyXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lu Liu",
+            "asCharacter": "Liang's Wife"
+        },
+        {
+            "id": "nm7981345",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Min Liu",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm8075473",
+            "image": "https://imdb-api.com/images/original/MV5BMGI5ZTk4ODMtNGZiOS00NGViLWFkMmMtNTg5ZjgzNTM4MmUwXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Zishan Rong",
+            "asCharacter": "Zhang Daole aka Dollar (Child)"
+        },
+        {
+            "id": "nm7580123",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anna Sasson",
+            "asCharacter": "Travel clerk"
+        },
+        {
+            "id": "nm7580124",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yee Yang",
+            "asCharacter": "Travel clerk"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt3740778",
+        "title": "Mountains May Depart",
+        "fullTitle": "Mountains May Depart (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0422605",
+                    "name": "Zhangke Jia",
+                    "description": "(as Jia Zhang-ke)"
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0422605",
+                    "name": "Zhangke Jia",
+                    "description": "(written by) (as Jia Zhang-ke)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0955504",
+                "image": "https://imdb-api.com/images/original/MV5BMTAxNzQyNDI1NjdeQTJeQWpwZ15BbWU3MDMyNTMzODg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Tao Zhao",
+                "asCharacter": "Shen Tao (as Zhao Tao)"
+            },
+            {
+                "id": "nm3589263",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4ODE5NzMxM15BMl5BanBnXkFtZTgwNzk2Mjc1MjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Yi Zhang",
+                "asCharacter": "Zhang Jinsheng (as Zhang Yi)"
+            },
+            {
+                "id": "nm0508644",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jing Dong Liang",
+                "asCharacter": "Liang Jangjung aka Liangzi (as Liang Jingdong)"
+            },
+            {
+                "id": "nm6039993",
+                "image": "https://imdb-api.com/images/original/MV5BZjcwNDBjYzYtZWY5OC00NWY2LWFjZTQtZDE1ODRjMGU2OTBjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Zijian Dong",
+                "asCharacter": "Zhang Daole aka Dollar (as Dong Zijian)"
+            },
+            {
+                "id": "nm0151827",
+                "image": "https://imdb-api.com/images/original/MV5BYmI2ODRlYWEtMDdiMC00ZjZlLWFmOWYtNzI4MzE5YWJiYzFjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sylvia Chang",
+                "asCharacter": "Mia"
+            },
+            {
+                "id": "nm2385917",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0NDk2NTM3N15BMl5BanBnXkFtZTcwMjkzMDAyMg@@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Sanming Han",
+                "asCharacter": "Liangzi's friend"
+            },
+            {
+                "id": "nm5154864",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Patrick Harvey",
+                "asCharacter": "Train Passenger"
+            },
+            {
+                "id": "nm5254462",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Russell Lambe",
+                "asCharacter": "Golfer"
+            },
+            {
+                "id": "nm4702646",
+                "image": "https://imdb-api.com/images/original/MV5BZTJiOGJlNmMtZWQ0ZS00OTlkLWFiNGItMjIzODQ2MzE3OWIyXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lu Liu",
+                "asCharacter": "Liang's Wife"
+            },
+            {
+                "id": "nm7981345",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Min Liu",
+                "asCharacter": ""
+            },
+            {
+                "id": "nm8075473",
+                "image": "https://imdb-api.com/images/original/MV5BMGI5ZTk4ODMtNGZiOS00NGViLWFkMmMtNTg5ZjgzNTM4MmUwXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Zishan Rong",
+                "asCharacter": "Zhang Daole aka Dollar (Child)"
+            },
+            {
+                "id": "nm7580123",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anna Sasson",
+                "asCharacter": "Travel clerk"
+            },
+            {
+                "id": "nm7580124",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Yee Yang",
+                "asCharacter": "Travel clerk"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm4961092",
+                        "name": "Patrick Andr\u00e9",
+                        "description": "co-producer (as Patrick Andre)"
+                    },
+                    {
+                        "id": "nm1193981",
+                        "name": "R\u00e9mi Burah",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0406774",
+                        "name": "Sh\u00f4z\u00f4 Ichiyama",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0422605",
+                        "name": "Zhangke Jia",
+                        "description": "executive producer (as Jia Zhang-ke)"
+                    },
+                    {
+                        "id": "nm6199386",
+                        "name": "Elisha Karmitz",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0439768",
+                        "name": "Nathana\u00ebl Karmitz",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0442930",
+                        "name": "Kazumi Kawashiro",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm5651728",
+                        "name": "Shiyu Liu",
+                        "description": "executive producer (as Liu Shiyu)"
+                    },
+                    {
+                        "id": "nm0605271",
+                        "name": "Masayuki Mori",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm5398118",
+                        "name": "Olivier P\u00e8re",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm5668013",
+                        "name": "Jianping Qian",
+                        "description": "associate producer (as Qian Jianping)"
+                    },
+                    {
+                        "id": "nm1284187",
+                        "name": "Zhonglun Ren",
+                        "description": "executive producer (as Ren Zhonglun)"
+                    },
+                    {
+                        "id": "nm0755406",
+                        "name": "Y\u00fbji Sadai",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm6497405",
+                        "name": "Juliette Schrameck",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm8658924",
+                        "name": "Hong Wang",
+                        "description": "associate producer (as Wang Hong)"
+                    },
+                    {
+                        "id": "nm10913588",
+                        "name": "Shuai Wei",
+                        "description": "associate producer (as Wei Shuai)"
+                    },
+                    {
+                        "id": "nm7988367",
+                        "name": "Wanli Xing",
+                        "description": "line producer"
+                    },
+                    {
+                        "id": "nm3827059",
+                        "name": "Dong Zhang",
+                        "description": "associate producer (as Zhang Dong)"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0360463",
+                        "name": "Yoshihiro Hanno",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0950454",
+                        "name": "Nelson Lik-wai Yu",
+                        "description": "(as Yu Lik Wai)"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm4567502",
+                        "name": "Matthieu Laclau",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm3214540",
+                        "name": "Jacqueline Olivier",
+                        "description": "(as Jacqueline Alliss) (casting director, Western Australia)"
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm2375188",
+                        "name": "Qiang Liu",
+                        "description": "(as Liu Qiang)"
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm4406154",
+                        "name": "Shinji Hashimoto",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm7988366",
+                        "name": "Honggui Tan",
+                        "description": "hair stylist"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm7905553",
+                        "name": "Cl\u00e9mentine Le Roy",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm6703248",
+                        "name": "Justine O.",
+                        "description": "production manager"
+                    },
+                    {
+                        "id": "nm4938888",
+                        "name": "Claire Patronik",
+                        "description": "production manager"
+                    },
+                    {
+                        "id": "nm2925386",
+                        "name": "Celia Simonnet",
+                        "description": "post-producer"
+                    },
+                    {
+                        "id": "nm3827059",
+                        "name": "Dong Zhang",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm3880055",
+                        "name": "Matt Hodgkinson",
+                        "description": "additional assistant director"
+                    },
+                    {
+                        "id": "nm7987898",
+                        "name": "Jian-Jun Wang",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm10264792",
+                        "name": "Jing Wang",
+                        "description": "assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm4514253",
+                        "name": "Yong Wang",
+                        "description": "assistant art director"
+                    },
+                    {
+                        "id": "nm7988365",
+                        "name": "Chungang Zhao",
+                        "description": "property master"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0156685",
+                        "name": "Eric Chevallier",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm1297631",
+                        "name": "Rapha\u00ebl Devillers",
+                        "description": "sound mix technician"
+                    },
+                    {
+                        "id": "nm5198262",
+                        "name": "Antoine Gervais",
+                        "description": "sound mix technician"
+                    },
+                    {
+                        "id": "nm1072318",
+                        "name": "Olivier Goinard",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm4701878",
+                        "name": "Juliette Heintz",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm7987899",
+                        "name": "Zhong Lin Si",
+                        "description": "assistant sound"
+                    },
+                    {
+                        "id": "nm1093648",
+                        "name": "Gregory Vincent",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0955433",
+                        "name": "Yang Zhang",
+                        "description": "sound designer (as Zhang Yang)"
+                    },
+                    {
+                        "id": "nm3583812",
+                        "name": "Anne Carbillet",
+                        "description": "Sound stage facilities provider (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm6176319",
+                        "name": "Laurie Kotfila",
+                        "description": "i/o supervisor"
+                    },
+                    {
+                        "id": "nm4299646",
+                        "name": "Anthony Lestremau",
+                        "description": "post production supervisor"
+                    },
+                    {
+                        "id": "nm7988368",
+                        "name": "Antoine Rous\u00e9",
+                        "description": "visual effects supervisor: France"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0010998",
+                        "name": "Grant Adams",
+                        "description": "steadicam operator: Australia"
+                    },
+                    {
+                        "id": "nm4223255",
+                        "name": "Arthur Bienkowski",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm3579175",
+                        "name": "Karina Davies",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm8322388",
+                        "name": "Ben Hunt",
+                        "description": "d.i.t"
+                    },
+                    {
+                        "id": "nm2376377",
+                        "name": "Li Tian",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm1176838",
+                        "name": "Jianjun Wang",
+                        "description": "first assistant camera"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm6332182",
+                        "name": "Hua Li",
+                        "description": "key costumer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm7941580",
+                        "name": "Kevin Le Dortz",
+                        "description": "colorist"
+                    },
+                    {
+                        "id": "nm3419232",
+                        "name": "Noel Smyth",
+                        "description": "assistant editor"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm3503759",
+                        "name": "Brett Dowson",
+                        "description": "location manager: Australia"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm5984961",
+                        "name": "Jennifer Beale",
+                        "description": "unit nurse"
+                    },
+                    {
+                        "id": "nm6963790",
+                        "name": "J\u00e9r\u00e9mie Charrier",
+                        "description": "press assistance"
+                    },
+                    {
+                        "id": "nm1781500",
+                        "name": "Mathilde Incerti",
+                        "description": "press: France"
+                    },
+                    {
+                        "id": "nm4895277",
+                        "name": "Maya Kavanagh",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm9311338",
+                        "name": "Ivy Li",
+                        "description": "producer's assistant: Alan Lindsay"
+                    },
+                    {
+                        "id": "nm6358227",
+                        "name": "Jess Parker",
+                        "description": "catering coordinator"
+                    },
+                    {
+                        "id": "nm6411310",
+                        "name": "Nicola Ripley",
+                        "description": "catering coordinator"
+                    },
+                    {
+                        "id": "nm2549800",
+                        "name": "Kate Separovich",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm6963790",
+                        "name": "J\u00e9r\u00e9mie Charrier",
+                        "description": "press attach\u00e9: France (uncredited)"
+                    },
+                    {
+                        "id": "nm1781500",
+                        "name": "Mathilde Incerti",
+                        "description": "press attach\u00e9: France (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0001005",
+                        "name": "Jane Campion",
+                        "description": "thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Romance",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Romance",
+            "value": "Romance"
+        }
+    ],
+    "companies": "Shanghai Film Group, Xstream Pictures, MK2 Productions",
+    "companyList": [
+        {
+            "id": "co0155133",
+            "name": "Shanghai Film Group"
+        },
+        {
+            "id": "co0427475",
+            "name": "Xstream Pictures"
+        },
+        {
+            "id": "co0022545",
+            "name": "MK2 Productions"
+        }
+    ],
+    "countries": "China, France, Japan",
+    "countryList": [
+        {
+            "key": "China",
+            "value": "China"
+        },
+        {
+            "key": "France",
+            "value": "France"
+        },
+        {
+            "key": "Japan",
+            "value": "Japan"
+        }
+    ],
+    "languages": "Chinese, Mandarin, Cantonese, English",
+    "languageList": [
+        {
+            "key": "Chinese",
+            "value": "Chinese"
+        },
+        {
+            "key": "Mandarin",
+            "value": "Mandarin"
+        },
+        {
+            "key": "Cantonese",
+            "value": "Cantonese"
+        },
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "6.9",
+    "imDbRatingVotes": "4785",
+    "metacriticRating": "79",
+    "ratings": {
+        "imDbId": "tt3740778",
+        "title": "Mountains May Depart",
+        "fullTitle": "Mountains May Depart (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "imDb": "6.9",
+        "metacritic": "79",
+        "theMovieDb": "7.1",
+        "rottenTomatoes": "91",
+        "tV_com": "",
+        "filmAffinity": "6.5",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt3740778",
+        "title": "Mountains May Depart",
+        "fullTitle": "Mountains May Depart (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "language": "en",
+        "titleInLanguage": "Mountains May Depart",
+        "url": "https://en.wikipedia.org/wiki/Mountains_May_Depart",
+        "plotShort": {
+            "plainText": "Mountains May Depart\r\nMountains May Depart (Chinese: \u5c71\u6cb3\u6545\u4eba) is a 2015 drama film directed by Jia Zhangke. The film is Jia's eighth feature film. It competed for the Palme d'Or at the 2015 Cannes Film Festival. It has also been selected to be shown in the Special Presentations section of the 2015 Toronto International Film Festival. It was released in China on 30 October 2015.",
+            "html": "<h2>Mountains May Depart</h2><p>Mountains May Depart (Chinese: \u5c71\u6cb3\u6545\u4eba) is a 2015 drama film directed by Jia Zhangke. The film is Jia's eighth feature film. It competed for the Palme d'Or at the 2015 Cannes Film Festival. It has also been selected to be shown in the Special Presentations section of the 2015 Toronto International Film Festival. It was released in China on 30 October 2015.</p>"
+        },
+        "plotFull": {
+            "plainText": "Mountains May Depart\r\nMountains May Depart (Chinese: \u5c71\u6cb3\u6545\u4eba) is a 2015 drama film directed by Jia Zhangke. The film is Jia's eighth feature film. It competed for the Palme d'Or at the 2015 Cannes Film Festival. It has also been selected to be shown in the Special Presentations section of the 2015 Toronto International Film Festival. It was released in China on 30 October 2015.\r\nPlot\r\nThe film is divided into three parts. The first part is set in the medium-sized town of Fenyang (in the northern Shanxi province) in 1999. 25-year-old shopkeeper Tao (Zhao Tao) is torn between two suitors. Jingsheng (Zhang Yi) is a well-off gas station owner whom she has little connection with but could drastically improve her material living conditions. She feels closer to Liangzi (Liang Jingdong), a poor laborer in a local coal mine. When confronted by both men, Tao decides to marry Jingsheng in the hope of leaving Fenyang.\r\nIn 2014, Tao is now divorced from Jingsheng and still living in Fenyang, running the prosperous gas station and being a prominent and generous woman in the city. Jingsheng has since remarried and lives in Shanghai, and has become wealthy from investments. Liangzi works as a miner near Handan, in the neighboring province of Hebei, and has gotten ill. Most of the second act focuses on Tao and Jingsheng's son, Daole (pronounced Dollar in English) aged 7, who comes to visit her for the funeral of her father. Tao is upset by Daole's distance, which she acknowledges is due to their cultural differences - a product of Jingsheng's fascination with globalization. Tao, knowing they are fated to be apart, decides to ride the slow train with Daole, instead of sending him on a plane back to Shanghai. As a parting gift, Tao makes Daole a set of keys for her house so that he can return to his mother's home whenever he wants.\r\nIn 2025, Daole (now currently called Dollar) is attending college in Australia. He is constantly fighting with his father over his desire to drop out of college and have the freedom he was never granted in his childhood. He meets Mia, his Chinese language teacher, an older woman for whom he develops feelings and eventually begins a relationship with. Dollar shares with Mia how he still carries the keys his mother gave him when he was a young boy, and that he fears she may die, even though they have not talked for years. Mia convinces him to fly back to China with her so that he can see Tao. The film ends with Tao dancing to \"Go West\", recalling the beginning of the film when, as a young woman, she was dancing merrily with all of her then fellows (making waves with their arms, \"wave\" being incidentally the translation of the first name \"Tao\" in English), full of hope for a better life. Any reunion with Daole (Dollar) is not seen.\r\nCast\r\nZhao Tao\r\nZhang Yi\r\nLiang Jingdong\r\nDong Zijian\r\nSylvia Chang\r\nRong Zishan\r\nLiang Yonghao\r\nLiu Lu\r\nYuan Wenqian\r\nReception\r\nBox office\r\nThe film earned CN\u00a532.22 million at the Chinese box office.\r\nCritical reception\r\nMountains May Depart holds a 79/100 average on review aggregation site Metacritic. Peter Bradshaw of The Guardian wrote, \"Jia Zhang-ke\u2019s Mountains May Depart is a mysterious and in its way staggeringly ambitious piece of work from a film-maker whose creativity is evolving before our eyes.\"\r\nScott Foundas of Variety states \"Mountains May Depart is never less than a work of soaring ambition and deeply felt humanism, as Jia longs not so much to turn back the hands of time, but to ever so slightly slow them down.\"\r\nDerek Elley of Film Business Asia gave it a 5 out of 10, calling the film a \"weakly written saga of friendship goes way off the rails in the final part.\"\r\nMusic\r\n\"Go West\" (1993) by the Pet Shop Boys\r\n\"Take care\" (Chinese: \u73cd\u91cd, 1990) by Sally Yeh (Chinese: \u8449\u5029\u6587)\r\nGo West plays a prominent role in the film, as the film opens to a scene on New Year's Eve 1999 with Tao dancing to the song and closes in 2025 with a scene of Tao crying and dancing to the song near the old pagoda. In an interview with AV Club Zhangke states that he was attempting to evoke a \"collective history for that generation.\"",
+            "html": "<h2>Mountains May Depart</h2><p>Mountains May Depart (Chinese: \u5c71\u6cb3\u6545\u4eba) is a 2015 drama film directed by Jia Zhangke. The film is Jia's eighth feature film. It competed for the Palme d'Or at the 2015 Cannes Film Festival. It has also been selected to be shown in the Special Presentations section of the 2015 Toronto International Film Festival. It was released in China on 30 October 2015.</p><br/><h3>Plot</h3><p>The film is divided into three parts. The first part is set in the medium-sized town of Fenyang (in the northern Shanxi province) in 1999. 25-year-old shopkeeper Tao (Zhao Tao) is torn between two suitors. Jingsheng (Zhang Yi) is a well-off gas station owner whom she has little connection with but could drastically improve her material living conditions. She feels closer to Liangzi (Liang Jingdong), a poor laborer in a local coal mine. When confronted by both men, Tao decides to marry Jingsheng in the hope of leaving Fenyang.</p><p>In 2014, Tao is now divorced from Jingsheng and still living in Fenyang, running the prosperous gas station and being a prominent and generous woman in the city. Jingsheng has since remarried and lives in Shanghai, and has become wealthy from investments. Liangzi works as a miner near Handan, in the neighboring province of Hebei, and has gotten ill. Most of the second act focuses on Tao and Jingsheng's son, Daole (pronounced Dollar in English) aged 7, who comes to visit her for the funeral of her father. Tao is upset by Daole's distance, which she acknowledges is due to their cultural differences - a product of Jingsheng's fascination with globalization. Tao, knowing they are fated to be apart, decides to ride the slow train with Daole, instead of sending him on a plane back to Shanghai. As a parting gift, Tao makes Daole a set of keys for her house so that he can return to his mother's home whenever he wants.</p><p>In 2025, Daole (now currently called Dollar) is attending college in Australia. He is constantly fighting with his father over his desire to drop out of college and have the freedom he was never granted in his childhood. He meets Mia, his Chinese language teacher, an older woman for whom he develops feelings and eventually begins a relationship with. Dollar shares with Mia how he still carries the keys his mother gave him when he was a young boy, and that he fears she may die, even though they have not talked for years. Mia convinces him to fly back to China with her so that he can see Tao. The film ends with Tao dancing to \"Go West\", recalling the beginning of the film when, as a young woman, she was dancing merrily with all of her then fellows (making waves with their arms, \"wave\" being incidentally the translation of the first name \"Tao\" in English), full of hope for a better life. Any reunion with Daole (Dollar) is not seen.</p><br/><h3>Cast</h3><ul><li>Zhao Tao</li><li>Zhang Yi</li><li>Liang Jingdong</li><li>Dong Zijian</li><li>Sylvia Chang</li><li>Rong Zishan</li><li>Liang Yonghao</li><li>Liu Lu</li><li>Yuan Wenqian</li></ul><br/><h3>Reception</h3><h4>Box office</h4><p>The film earned CN\u00a532.22 million at the Chinese box office.</p><h4>Critical reception</h4><p>Mountains May Depart holds a 79/100 average on review aggregation site Metacritic. Peter Bradshaw of The Guardian wrote, \"Jia Zhang-ke\u2019s Mountains May Depart is a mysterious and in its way staggeringly ambitious piece of work from a film-maker whose creativity is evolving before our eyes.\"</p><p>Scott Foundas of Variety states \"Mountains May Depart is never less than a work of soaring ambition and deeply felt humanism, as Jia longs not so much to turn back the hands of time, but to ever so slightly slow them down.\"</p><p>Derek Elley of Film Business Asia gave it a 5 out of 10, calling the film a \"weakly written saga of friendship goes way off the rails in the final part.\"</p><br/><h3>Music</h3><ul><li>\"Go West\" (1993) by the Pet Shop Boys</li><li>\"Take care\" (Chinese: \u73cd\u91cd, 1990) by Sally Yeh (Chinese: \u8449\u5029\u6587)</li></ul><p>Go West plays a prominent role in the film, as the film opens to a scene on New Year's Eve 1999 with Tao dancing to the song and closes in 2025 with a scene of Tao crying and dancing to the song near the old pagoda. In an interview with AV Club Zhangke states that he was attempting to evoke a \"collective history for that generation.\"</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt3740778",
+        "title": "Mountains May Depart",
+        "fullTitle": "Mountains May Depart (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "posters": [
+            {
+                "id": "h1GXDCnicxHz0b3wWv57U6N6h64.jpg",
+                "link": "https://imdb-api.com/posters/original/h1GXDCnicxHz0b3wWv57U6N6h64.jpg",
+                "aspectRatio": 0.6788866259334692,
+                "language": "en",
+                "width": 2000,
+                "height": 2946
+            },
+            {
+                "id": "zMg4uP2Ev8lIZr1kOvHrPOM8teA.jpg",
+                "link": "https://imdb-api.com/posters/original/zMg4uP2Ev8lIZr1kOvHrPOM8teA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "84fGPejj09AZddu8eoPiEKgpWuW.jpg",
+                "link": "https://imdb-api.com/posters/original/84fGPejj09AZddu8eoPiEKgpWuW.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdors": [
+            {
+                "id": "gAJgUS1DfkamTfvwehp0enR8dJ3.jpg",
+                "link": "https://imdb-api.com/posters/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt3740778",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt3740778",
+        "title": "Mountains May Depart",
+        "fullTitle": "Mountains May Depart (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "videoId": "vi4084511257",
+        "videoTitle": "Official Trailer",
+        "videoDescription": "The life of Tao, and those close to her, is explored in three different time periods: 1999, 2014, and 2025.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE1NzE4Mjg0OF5BMl5BanBnXkFtZTgwNDgyNDM1NzE@._V1_.jpg",
+        "uploadDate": "12/22/2015 10:32:00",
+        "link": "https://www.imdb.com/video/vi4084511257",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi4084511257/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "$5,550, 14 February 2016",
+        "grossUSA": "$82,913",
+        "cumulativeWorldwideGross": "$5,215,660"
+    },
+    "tagline": "",
+    "keywords": "year 2025,year 2014,year 1999,death of father,teacher student relationship",
+    "keywordList": [
+        "year 2025",
+        "year 2014",
+        "year 1999",
+        "death of father",
+        "teacher student relationship"
+    ],
+    "similars": [
+        {
+            "id": "tt2852400",
+            "title": "A Touch of Sin",
+            "fullTitle": "A Touch of Sin (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BZDdlZDIxYzAtOTEyNy00ZTJlLTkwMDMtYjMyNWJiM2JkNWIwXkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Four independent stories set in modern China about random acts of violence.",
+            "directors": "Zhangke Jia",
+            "stars": "Wu Jiang, Baoqiang Wang, Tao Zhao",
+            "genres": "Action, Drama",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt7298400",
+            "title": "Ash Is Purest White",
+            "fullTitle": "Ash Is Purest White (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BMzIyZTIzNmItZGIwMS00MGViLWEzZTgtYTBiYTYwMTI4YjgzXkEyXkFqcGdeQXVyMjUzMTYzMDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A story of violent love within a time frame spanning from 2001 to 2017.",
+            "directors": "Zhangke Jia",
+            "stars": "Tao Zhao, Fan Liao, Yi'nan Diao",
+            "genres": "Crime, Drama, Romance",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt1103963",
+            "title": "24 cities",
+            "fullTitle": "24 cities (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BOGQ3NDI3M2ItYTMwYi00NGVjLWJjZGYtNWI2NjhkYmRiNzI2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "When a factory is being torn down in Chengdu, China, workers reflect on their experiences and the importance of the factory in their lives.",
+            "directors": "Zhangke Jia",
+            "stars": "Jianbin Chen, Joan Chen, Liping L\u00fc",
+            "genres": "Drama",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0144020",
+            "title": "Xiao Wu",
+            "fullTitle": "Xiao Wu (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BZGMxNTE1NzQtZmI3OS00MzJlLWI1NzQtNjcxYjBkMDBmZTE4XkEyXkFqcGdeQXVyNDg1ODgxMzQ@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "Little pocket thief Wu never got away from the streets like his friends did. He realises that he is alone, as his old buddy doesn't invite him for his wedding. When he falls in love with a ... See full summary \u00bb",
+            "directors": "Zhangke Jia",
+            "stars": "Hongwei Wang, Hongjian Hao, Baitao Zuo",
+            "genres": "Drama",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0423176",
+            "title": "The World",
+            "fullTitle": "The World (2004)",
+            "year": "2004",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzNTk1Mzc0Ml5BMl5BanBnXkFtZTcwMDIzODEzMQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "An exploration on the impact of urbanization and globalization on a traditional culture.",
+            "directors": "Zhangke Jia",
+            "stars": "Tao Zhao, Taishen Cheng, Jue Jing",
+            "genres": "Drama",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0318025",
+            "title": "Unknown Pleasures",
+            "fullTitle": "Unknown Pleasures (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BMTExMzE1MzgxODFeQTJeQWpwZ15BbWU3MDk4NTA1MjE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Two unemployed Chinese teenagers have trouble resisting the temptations of the Western world.",
+            "directors": "Zhangke Jia",
+            "stars": "Wei Wei Zhao, Qiong Wu, Tao Zhao",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt1094286",
+            "title": "Wuyong",
+            "fullTitle": "Wuyong (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BNWQ4Y2NhNDMtNjdjOC00ZmYzLWJlYWQtMzU1ZGEwMzQ0OGUxXkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "About people around fashion and clothing industry in China.",
+            "directors": "Zhangke Jia",
+            "stars": "Ke Ma",
+            "genres": "Documentary",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt0855784",
+            "title": "Dong",
+            "fullTitle": "Dong (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BMDdmMmUwZDctODZiNi00ZGE4LTg2MjAtODMyOTQzZTBjNDEwXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "China's greatest living filmmaker Jia Zhangke (Platform, The World) travels with acclaimed painter Liu Xiaodong from China to Thailand as they meet everyday workers in the throes of social ... See full summary \u00bb",
+            "directors": "Zhangke Jia",
+            "stars": "Xiaodong Liu, Sanming Han",
+            "genres": "Documentary, Drama",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt1054062",
+            "title": "Xiaoshan Going Home",
+            "fullTitle": "Xiaoshan Going Home (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BNmRmMzRmNDctMTliZC00ZjcyLWEyY2ItMjkwNGVkNTZkNTgwXkEyXkFqcGdeQXVyNDg1ODgxMzQ@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "A cook living in Beijing, whose employment is coming to an end, plans to return home to his rural village for the New Year. He approaches several of his old friends, also working in the ... See full summary \u00bb",
+            "directors": "Zhangke Jia",
+            "stars": "Shuzhe Dong, Hongwei Wang, Sheng Yao",
+            "genres": "Drama",
+            "imDbRating": "6"
+        },
+        {
+            "id": "tt0258885",
+            "title": "Plattform",
+            "fullTitle": "Plattform (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BNDFhZmQwNzktYzEwZS00MGU1LWIzOGUtNDhiNTMyY2YzNGVhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A theatre troupe from rural Fenyang struggles under the decline of communism and rise of popular culture in China in the 1980s.",
+            "directors": "Zhangke Jia",
+            "stars": "Hongwei Wang, Tao Zhao, Jing Dong Liang",
+            "genres": "Drama, History",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt1646103",
+            "title": "I Wish I Knew",
+            "fullTitle": "I Wish I Knew (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BN2Q4MzY3ZjAtODE1Ny00N2E1LWJjZjYtZjYxZWJjNmIwNjU0XkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Focuses on the people, their stories and architecture spanning from the mid-1800s, when Shanghai was opened as a trading port, to the present day.",
+            "directors": "Zhangke Jia",
+            "stars": "Michelangelo Antonioni, Yindi Cao, Hsin-i Chang",
+            "genres": "Documentary, History",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt7820502",
+            "title": "Where Has the Time Gone?",
+            "fullTitle": "Where Has the Time Gone? (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BZTg4NGQ0MjItMGM0Ny00NjllLWI4NDItYWQyNTBjMzdmNTQ1XkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "A short film omnibus featuring the work of five directors representing five countries involved in the 2017 BRICS summit, an annual international relations conference held between Brazil, Russia, India, China and South Africa.",
+            "directors": "Directors: Madhur Bhandarkar, Aleksey Fedorchenko, and 3 more credits \u00bb",
+            "stars": "Rodrigo Bolzan, Parvin Dabas, Master Devrath",
+            "genres": "Drama",
+            "imDbRating": "5.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

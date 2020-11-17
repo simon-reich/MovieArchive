@@ -1,0 +1,1484 @@
+{
+    "id": "tt2359024",
+    "title": "Blue Ruin",
+    "originalTitle": "",
+    "fullTitle": "Blue Ruin (2013)",
+    "type": "Movie",
+    "year": "2013",
+    "image": "https://imdb-api.com/images/original/MV5BMTY4NTM2MDg5OV5BMl5BanBnXkFtZTgwMDA3OTAwMTE@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2014-04-30",
+    "runtimeMins": "90",
+    "runtimeStr": "1h 30mins",
+    "plot": "A mysterious outsider's quiet life is turned upside down when he returns to his childhood home to carry out an act of vengeance. Proving himself an amateur assassin, he winds up in a brutal fight to protect his estranged family.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "7 wins & 20 nominations.",
+    "directors": "Jeremy Saulnier",
+    "directorList": [
+        {
+            "id": "nm1099918",
+            "name": "Jeremy Saulnier"
+        }
+    ],
+    "writers": "Jeremy Saulnier",
+    "writerList": [
+        {
+            "id": "nm1099918",
+            "name": "Jeremy Saulnier"
+        }
+    ],
+    "stars": "Macon Blair, Devin Ratray, Amy Hargreaves, Kevin Kolack",
+    "starList": [
+        {
+            "id": "nm0086301",
+            "name": "Macon Blair"
+        },
+        {
+            "id": "nm0711864",
+            "name": "Devin Ratray"
+        },
+        {
+            "id": "nm0362955",
+            "name": "Amy Hargreaves"
+        },
+        {
+            "id": "nm0463828",
+            "name": "Kevin Kolack"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0086301",
+            "image": "https://imdb-api.com/images/original/MV5BMjY4MDIyMjk4OV5BMl5BanBnXkFtZTcwMjc0NTI0OQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Macon Blair",
+            "asCharacter": "Dwight"
+        },
+        {
+            "id": "nm2418861",
+            "image": "https://imdb-api.com/images/original/MV5BMGU1MzkyZjktZDhiOC00NTJiLWExYmYtMThhZjkwNTVkMTc3XkEyXkFqcGdeQXVyMTI4ODMzNjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ydaiber Orozco",
+            "asCharacter": "Amanda (Rental Houser Mother)"
+        },
+        {
+            "id": "nm7455374",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ronald Sarcos",
+            "asCharacter": "Eric (Rental House Father)"
+        },
+        {
+            "id": "nm5165184",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dani Santiago",
+            "asCharacter": "Daughter #1"
+        },
+        {
+            "id": "nm7455375",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Adrian Santiago",
+            "asCharacter": "Daughter #2"
+        },
+        {
+            "id": "nm7455376",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Fredericks",
+            "asCharacter": "Metal Detector Couple"
+        },
+        {
+            "id": "nm7455377",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elizabeth Fredericks",
+            "asCharacter": "Metal Detector Couple"
+        },
+        {
+            "id": "nm1047715",
+            "image": "https://imdb-api.com/images/original/MV5BMzg1ZmEzZmUtYmQ0YS00ZWZlLWE1MTAtZTYwOGE3MDhlYTFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sidn\u00e9 Anderson",
+            "asCharacter": "Officer Eddy"
+        },
+        {
+            "id": "nm4795866",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brooke Bennett",
+            "asCharacter": "Smoking Girl"
+        },
+        {
+            "id": "nm7455379",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ellen Danaher",
+            "asCharacter": "Pawn Shop Clerk"
+        },
+        {
+            "id": "nm2566606",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Katie Kramer",
+            "asCharacter": "Supermarket Cashier"
+        },
+        {
+            "id": "nm4046697",
+            "image": "https://imdb-api.com/images/original/MV5BMTAwYzkxNzktN2VhNS00Nzc2LWIyODMtMGRlNmE4ZmVlMzQxXkEyXkFqcGdeQXVyMjQ5OTk2NTU@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Shelley Illmensee",
+            "asCharacter": "SUV Driver"
+        },
+        {
+            "id": "nm0463828",
+            "image": "https://imdb-api.com/images/original/MV5BMTY5NDcxNjYwM15BMl5BanBnXkFtZTcwMDU3ODgzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kevin Kolack",
+            "asCharacter": "Teddy Cleland"
+        },
+        {
+            "id": "nm1834025",
+            "image": "https://imdb-api.com/images/original/MV5BMjEzMTE3NTIxNV5BMl5BanBnXkFtZTcwODE3NDA1OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Stacy Rock",
+            "asCharacter": "Hope Cleland (Cousin)"
+        },
+        {
+            "id": "nm0000589",
+            "image": "https://imdb-api.com/images/original/MV5BMzM0ZTYzNTktNjU4OS00ODU4LWE4YmYtYmExZTA2YzRlMjE1XkEyXkFqcGdeQXVyMzYwMzY5NTU@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Eve Plumb",
+            "asCharacter": "Kris Cleland (Sister)"
+        },
+        {
+            "id": "nm1708556",
+            "image": "https://imdb-api.com/images/original/MV5BOTJkYWU1N2EtZjU4Ny00OGU5LThiMjgtZmE0MzVhZWRkZDk1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Brent Werzner",
+            "asCharacter": "Carl Cleland"
+        },
+        {
+            "id": "nm3664430",
+            "image": "https://imdb-api.com/images/original/MV5BOTc1MjIxMTA1Nl5BMl5BanBnXkFtZTgwODMyNDYzMDI@._V1_Ratio1.5000_AL_.jpg",
+            "name": "David Thompson",
+            "asCharacter": "William (as David W. Thompson)"
+        },
+        {
+            "id": "nm7455380",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sandy Barnett",
+            "asCharacter": "Wade Cleland, Jr."
+        },
+        {
+            "id": "nm1575921",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Obie Sims",
+            "asCharacter": "Corrections Officer"
+        },
+        {
+            "id": "nm7455381",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John D. McKemy",
+            "asCharacter": "Tractor Trailer Driver"
+        },
+        {
+            "id": "nm0362955",
+            "image": "https://imdb-api.com/images/original/MV5BMjM3YmQxOGEtODY5MC00ODFmLWJkY2MtOTk0OGMzNWZlNjhhXkEyXkFqcGdeQXVyMTY1NjI4ODk@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Amy Hargreaves",
+            "asCharacter": "Sam"
+        },
+        {
+            "id": "nm7455382",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ella Saulnier",
+            "asCharacter": "Sam's Daughter"
+        },
+        {
+            "id": "nm7455383",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "No\u00eblle Saulnier",
+            "asCharacter": "Sam's Daughter"
+        },
+        {
+            "id": "nm4533384",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Abigail Horton",
+            "asCharacter": "Babysitter (as Abby Horton)"
+        },
+        {
+            "id": "nm3439927",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniel L. Kelly",
+            "asCharacter": "Ketchup Man (as Daniel Kelly)"
+        },
+        {
+            "id": "nm7455385",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Plantz",
+            "asCharacter": "Pharmacy Clerk"
+        },
+        {
+            "id": "nm7455386",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gina Byrne",
+            "asCharacter": "Triage Nurse"
+        },
+        {
+            "id": "nm0176922",
+            "image": "https://imdb-api.com/images/original/MV5BMzc1OTA2YzctOTNkMi00OGEyLWE3NDktY2E5ODZiOTJmNzU1XkEyXkFqcGdeQXVyMzE2MDM0Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Bonnie Johnson",
+            "asCharacter": "Margaret Gaffney"
+        },
+        {
+            "id": "nm3583100",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Erica Genereux Smith",
+            "asCharacter": "Rock Girl"
+        },
+        {
+            "id": "nm0711864",
+            "image": "https://imdb-api.com/images/original/MV5BYjRjZmY1MTgtNDVhZS00YWVkLTk1OGEtMTI3YmE0MTdjODc3XkEyXkFqcGdeQXVyMTUyODIwNDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Devin Ratray",
+            "asCharacter": "Ben Gaffney"
+        },
+        {
+            "id": "nm1563349",
+            "image": "https://imdb-api.com/images/original/MV5BMzgxMmFhMTgtYWE4ZS00ZGEzLWEwNjYtYzM1ODQyODQ0ZjBlXkEyXkFqcGdeQXVyNjEyNDMwMDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lee Eddy",
+            "asCharacter": "Newscaster (voice) (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt2359024",
+        "title": "Blue Ruin",
+        "fullTitle": "Blue Ruin (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm1099918",
+                    "name": "Jeremy Saulnier",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm1099918",
+                    "name": "Jeremy Saulnier",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0086301",
+                "image": "https://imdb-api.com/images/original/MV5BMjY4MDIyMjk4OV5BMl5BanBnXkFtZTcwMjc0NTI0OQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Macon Blair",
+                "asCharacter": "Dwight"
+            },
+            {
+                "id": "nm2418861",
+                "image": "https://imdb-api.com/images/original/MV5BMGU1MzkyZjktZDhiOC00NTJiLWExYmYtMThhZjkwNTVkMTc3XkEyXkFqcGdeQXVyMTI4ODMzNjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ydaiber Orozco",
+                "asCharacter": "Amanda (Rental Houser Mother)"
+            },
+            {
+                "id": "nm7455374",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ronald Sarcos",
+                "asCharacter": "Eric (Rental House Father)"
+            },
+            {
+                "id": "nm5165184",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dani Santiago",
+                "asCharacter": "Daughter #1"
+            },
+            {
+                "id": "nm7455375",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Adrian Santiago",
+                "asCharacter": "Daughter #2"
+            },
+            {
+                "id": "nm7455376",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "George Fredericks",
+                "asCharacter": "Metal Detector Couple"
+            },
+            {
+                "id": "nm7455377",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Elizabeth Fredericks",
+                "asCharacter": "Metal Detector Couple"
+            },
+            {
+                "id": "nm1047715",
+                "image": "https://imdb-api.com/images/original/MV5BMzg1ZmEzZmUtYmQ0YS00ZWZlLWE1MTAtZTYwOGE3MDhlYTFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sidn\u00e9 Anderson",
+                "asCharacter": "Officer Eddy"
+            },
+            {
+                "id": "nm4795866",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Brooke Bennett",
+                "asCharacter": "Smoking Girl"
+            },
+            {
+                "id": "nm7455379",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ellen Danaher",
+                "asCharacter": "Pawn Shop Clerk"
+            },
+            {
+                "id": "nm2566606",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Katie Kramer",
+                "asCharacter": "Supermarket Cashier"
+            },
+            {
+                "id": "nm4046697",
+                "image": "https://imdb-api.com/images/original/MV5BMTAwYzkxNzktN2VhNS00Nzc2LWIyODMtMGRlNmE4ZmVlMzQxXkEyXkFqcGdeQXVyMjQ5OTk2NTU@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Shelley Illmensee",
+                "asCharacter": "SUV Driver"
+            },
+            {
+                "id": "nm0463828",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5NDcxNjYwM15BMl5BanBnXkFtZTcwMDU3ODgzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kevin Kolack",
+                "asCharacter": "Teddy Cleland"
+            },
+            {
+                "id": "nm1834025",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzMTE3NTIxNV5BMl5BanBnXkFtZTcwODE3NDA1OA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Stacy Rock",
+                "asCharacter": "Hope Cleland (Cousin)"
+            },
+            {
+                "id": "nm0000589",
+                "image": "https://imdb-api.com/images/original/MV5BMzM0ZTYzNTktNjU4OS00ODU4LWE4YmYtYmExZTA2YzRlMjE1XkEyXkFqcGdeQXVyMzYwMzY5NTU@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Eve Plumb",
+                "asCharacter": "Kris Cleland (Sister)"
+            },
+            {
+                "id": "nm1708556",
+                "image": "https://imdb-api.com/images/original/MV5BOTJkYWU1N2EtZjU4Ny00OGU5LThiMjgtZmE0MzVhZWRkZDk1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Brent Werzner",
+                "asCharacter": "Carl Cleland"
+            },
+            {
+                "id": "nm3664430",
+                "image": "https://imdb-api.com/images/original/MV5BOTc1MjIxMTA1Nl5BMl5BanBnXkFtZTgwODMyNDYzMDI@._V1_Ratio1.5000_AL_.jpg",
+                "name": "David Thompson",
+                "asCharacter": "William (as David W. Thompson)"
+            },
+            {
+                "id": "nm7455380",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sandy Barnett",
+                "asCharacter": "Wade Cleland, Jr."
+            },
+            {
+                "id": "nm1575921",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Obie Sims",
+                "asCharacter": "Corrections Officer"
+            },
+            {
+                "id": "nm7455381",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John D. McKemy",
+                "asCharacter": "Tractor Trailer Driver"
+            },
+            {
+                "id": "nm0362955",
+                "image": "https://imdb-api.com/images/original/MV5BMjM3YmQxOGEtODY5MC00ODFmLWJkY2MtOTk0OGMzNWZlNjhhXkEyXkFqcGdeQXVyMTY1NjI4ODk@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Amy Hargreaves",
+                "asCharacter": "Sam"
+            },
+            {
+                "id": "nm7455382",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ella Saulnier",
+                "asCharacter": "Sam's Daughter"
+            },
+            {
+                "id": "nm7455383",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "No\u00eblle Saulnier",
+                "asCharacter": "Sam's Daughter"
+            },
+            {
+                "id": "nm4533384",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Abigail Horton",
+                "asCharacter": "Babysitter (as Abby Horton)"
+            },
+            {
+                "id": "nm3439927",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Daniel L. Kelly",
+                "asCharacter": "Ketchup Man (as Daniel Kelly)"
+            },
+            {
+                "id": "nm7455385",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John Plantz",
+                "asCharacter": "Pharmacy Clerk"
+            },
+            {
+                "id": "nm7455386",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gina Byrne",
+                "asCharacter": "Triage Nurse"
+            },
+            {
+                "id": "nm0176922",
+                "image": "https://imdb-api.com/images/original/MV5BMzc1OTA2YzctOTNkMi00OGEyLWE3NDktY2E5ODZiOTJmNzU1XkEyXkFqcGdeQXVyMzE2MDM0Mw@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Bonnie Johnson",
+                "asCharacter": "Margaret Gaffney"
+            },
+            {
+                "id": "nm3583100",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Erica Genereux Smith",
+                "asCharacter": "Rock Girl"
+            },
+            {
+                "id": "nm0711864",
+                "image": "https://imdb-api.com/images/original/MV5BYjRjZmY1MTgtNDVhZS00YWVkLTk1OGEtMTI3YmE0MTdjODc3XkEyXkFqcGdeQXVyMTUyODIwNDE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Devin Ratray",
+                "asCharacter": "Ben Gaffney"
+            },
+            {
+                "id": "nm1563349",
+                "image": "https://imdb-api.com/images/original/MV5BMzgxMmFhMTgtYWE4ZS00ZGEzLWEwNjYtYzM1ODQyODQ0ZjBlXkEyXkFqcGdeQXVyNjEyNDMwMDM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lee Eddy",
+                "asCharacter": "Newscaster (voice) (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0086301",
+                        "name": "Macon Blair",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm3587141",
+                        "name": "Tyler Byrne",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm9246536",
+                        "name": "Rosemary Edwards",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm9246537",
+                        "name": "Eileen McGrath",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm1373794",
+                        "name": "Alex Orr",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm2568423",
+                        "name": "Richard Peete",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm9246538",
+                        "name": "Karen Saulnier",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm1957272",
+                        "name": "Skei Saulnier",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm3346403",
+                        "name": "Vincent Savino",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm1507013",
+                        "name": "Anish Savjani",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0946739",
+                        "name": "Devoe Yates",
+                        "description": "associate producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm1298270",
+                        "name": "Brooke Blair",
+                        "description": "(original score by)"
+                    },
+                    {
+                        "id": "nm1957540",
+                        "name": "Will Blair",
+                        "description": "(original score by)"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1099918",
+                        "name": "Jeremy Saulnier",
+                        "description": "(photographed by)"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm2240723",
+                        "name": "Julia Bloch",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0438247",
+                        "name": "Harley Kaplan",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm3791557",
+                        "name": "Brandon Powers",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm2859319",
+                        "name": "Kaet McAnneny",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm2074175",
+                        "name": "Brian Rzepka",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm4795866",
+                        "name": "Brooke Bennett",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm4046697",
+                        "name": "Shelley Illmensee",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm2656455",
+                        "name": "Katie Middleton",
+                        "description": "special makeup effects artist: Toby Sells Creature Make up FX Shop"
+                    },
+                    {
+                        "id": "nm2597573",
+                        "name": "Mark James Ross",
+                        "description": "special effects makeup artist: Toby Sells Creature Make up FX Shop / special makeup effects artist: shop supervisor: Toby Sells Creature Make Up FX Shop"
+                    },
+                    {
+                        "id": "nm0783443",
+                        "name": "Toby Sells",
+                        "description": "special makeup effects artist / special makeup effects designer: Toby Sells Creature Make up FX Shop"
+                    },
+                    {
+                        "id": "nm4753733",
+                        "name": "Rich Krusell",
+                        "description": "special makeup effects artist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm3587141",
+                        "name": "Tyler Byrne",
+                        "description": "production supervisor"
+                    },
+                    {
+                        "id": "nm1373794",
+                        "name": "Alex Orr",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm2566606",
+                        "name": "Katie Kramer",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm3542382",
+                        "name": "Cameron Morton",
+                        "description": "second second assistant director"
+                    },
+                    {
+                        "id": "nm1373794",
+                        "name": "Alex Orr",
+                        "description": "first assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm5309352",
+                        "name": "Mike Anderson",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm6337903",
+                        "name": "Michael Peete",
+                        "description": "graphics designer"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm2044540",
+                        "name": "Colin Alexander",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm3878733",
+                        "name": "Juan Bertr\u00e1n",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm4612013",
+                        "name": "Pablo D\u00edez Casajuana",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm2260365",
+                        "name": "Dan Flosdorf",
+                        "description": "sound designer / sound effects editor"
+                    },
+                    {
+                        "id": "nm3753894",
+                        "name": "MacAulay Flynt",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm2550666",
+                        "name": "Evan Mangiamele",
+                        "description": "additional sound editor"
+                    },
+                    {
+                        "id": "nm1269422",
+                        "name": "Iv\u00e1n Mayoral",
+                        "description": "sound mixer: Spanish dialogue"
+                    },
+                    {
+                        "id": "nm5105317",
+                        "name": "Elizabeth McClanahan",
+                        "description": "additional sound editor"
+                    },
+                    {
+                        "id": "nm2100876",
+                        "name": "Cory Melious",
+                        "description": "dialogue editor / re-recording mixer / sound effects editor / supervising sound editor"
+                    },
+                    {
+                        "id": "nm2762473",
+                        "name": "Gloria Pitagorsky",
+                        "description": "sound producer"
+                    },
+                    {
+                        "id": "nm2149607",
+                        "name": "Keith Reynaud",
+                        "description": "additional sound editor"
+                    },
+                    {
+                        "id": "nm6572589",
+                        "name": "Nick Scarcella",
+                        "description": "additional sound editor (as Nicholas Scarcella)"
+                    },
+                    {
+                        "id": "nm2415980",
+                        "name": "Matt Snedecor",
+                        "description": "sound designer"
+                    },
+                    {
+                        "id": "nm4131527",
+                        "name": "Franklin Vaughan",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm3252115",
+                        "name": "Eric Warzecha",
+                        "description": "dialogue editor"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0783443",
+                        "name": "Toby Sells",
+                        "description": "special effects supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm2051594",
+                        "name": "Justin Ball",
+                        "description": "visual effects supervisor"
+                    },
+                    {
+                        "id": "nm4347194",
+                        "name": "Jason Bowers",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm5491628",
+                        "name": "Sam Claitor",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm1951619",
+                        "name": "Chris Connolly",
+                        "description": "additional visual effects artist"
+                    },
+                    {
+                        "id": "nm5472415",
+                        "name": "Matt DiNardo",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm4268984",
+                        "name": "Phylicia Feldman",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm1886705",
+                        "name": "Andrea Hernandez",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm5377553",
+                        "name": "Craig Houston",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm4527529",
+                        "name": "Seung Joo Lee",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm1323419",
+                        "name": "C.J. LePage",
+                        "description": "digital compositor (as Carl CJ Lepage)"
+                    },
+                    {
+                        "id": "nm4550472",
+                        "name": "Jose L. Marin",
+                        "description": "compositor (as Jose Marin)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm2452649",
+                        "name": "Ryan Dickie",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm2762724",
+                        "name": "Rommel Genciana",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm3687094",
+                        "name": "David Gettens",
+                        "description": "second unit gaffer"
+                    },
+                    {
+                        "id": "nm4533384",
+                        "name": "Abigail Horton",
+                        "description": "assistant camera"
+                    },
+                    {
+                        "id": "nm4716737",
+                        "name": "Joshua Koenig",
+                        "description": "second assistant camera (as Josh Koenig)"
+                    },
+                    {
+                        "id": "nm4256087",
+                        "name": "Carlos Valdes-Lora",
+                        "description": "key grip"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm4096236",
+                        "name": "Tamara Nicole Pilblad",
+                        "description": "casting associate"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm1384119",
+                        "name": "Alex Bickel",
+                        "description": "digital intermediate colorist"
+                    },
+                    {
+                        "id": "nm4439164",
+                        "name": "Michael Howell",
+                        "description": "color assist (as Mike Howell)"
+                    },
+                    {
+                        "id": "nm4190994",
+                        "name": "Alek Rost",
+                        "description": "digital intermediate producer"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm1917906",
+                        "name": "Lauren Waymouth",
+                        "description": "additional locations"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm3906120",
+                        "name": "Patricia E. Gillespie",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm4785989",
+                        "name": "Conor Byrne",
+                        "description": "title designer"
+                    },
+                    {
+                        "id": "nm2332784",
+                        "name": "Andr\u00e9 Des Rochers",
+                        "description": "legal services"
+                    },
+                    {
+                        "id": "nm2950291",
+                        "name": "Andy Edmunds",
+                        "description": "film commissioner"
+                    },
+                    {
+                        "id": "nm5639016",
+                        "name": "James Cody Hunt",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm4549908",
+                        "name": "Lance Kilby",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm4696360",
+                        "name": "Phil Pinto",
+                        "description": "title designer"
+                    },
+                    {
+                        "id": "nm4669978",
+                        "name": "Emily Pontecorvo",
+                        "description": "assistant to producers"
+                    },
+                    {
+                        "id": "nm7467056",
+                        "name": "Edouard Sonet",
+                        "description": "french subtitles"
+                    },
+                    {
+                        "id": "nm4299398",
+                        "name": "Anita Surendran",
+                        "description": "legal services"
+                    },
+                    {
+                        "id": "nm4596039",
+                        "name": "Stephen Turro",
+                        "description": "key set production assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm1636752",
+                        "name": "Shashi Balooja",
+                        "description": "thanks"
+                    },
+                    {
+                        "id": "nm1899688",
+                        "name": "Emilie Georges",
+                        "description": "thanks"
+                    },
+                    {
+                        "id": "nm5467643",
+                        "name": "Lino M. Gomes",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1780039",
+                        "name": "Nick Shumaker",
+                        "description": "thanks (as Nicholas Shumaker)"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Crime, Drama, Thriller",
+    "genreList": [
+        {
+            "key": "Crime",
+            "value": "Crime"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "The Lab of Madness, Film Science, Neighborhood Watch",
+    "companyList": [
+        {
+            "id": "co0153703",
+            "name": "The Lab of Madness"
+        },
+        {
+            "id": "co0160719",
+            "name": "Film Science"
+        },
+        {
+            "id": "co0395263",
+            "name": "Neighborhood Watch"
+        }
+    ],
+    "countries": "USA, France",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        },
+        {
+            "key": "France",
+            "value": "France"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.1",
+    "imDbRatingVotes": "62814",
+    "metacriticRating": "78",
+    "ratings": {
+        "imDbId": "tt2359024",
+        "title": "Blue Ruin",
+        "fullTitle": "Blue Ruin (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "imDb": "7.1",
+        "metacritic": "78",
+        "theMovieDb": "6.8",
+        "rottenTomatoes": "96",
+        "tV_com": "",
+        "filmAffinity": "6.2",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt2359024",
+        "title": "Blue Ruin",
+        "fullTitle": "Blue Ruin (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "language": "en",
+        "titleInLanguage": "Blue Ruin",
+        "url": "https://en.wikipedia.org/wiki/Blue_Ruin",
+        "plotShort": {
+            "plainText": "Blue Ruin\r\nBlue Ruin is a 2013 American thriller film written and directed by Jeremy Saulnier and starring Macon Blair. The film premiered at the Cannes Film Festival as part of the Directors' Fortnight section on May 17, 2013, where it won the FIPRESCI Prize. Saulnier funded production on the film through a successful Kickstarter campaign, which MTV.com called \"the perfect example of what crowdfunding can accomplish.\" The film was nominated for the John Cassavetes Award at the 2015 Independent Spirit Awards.",
+            "html": "<h2>Blue Ruin</h2><p>Blue Ruin is a 2013 American thriller film written and directed by Jeremy Saulnier and starring Macon Blair. The film premiered at the Cannes Film Festival as part of the Directors' Fortnight section on May 17, 2013, where it won the FIPRESCI Prize. Saulnier funded production on the film through a successful Kickstarter campaign, which MTV.com called \"the perfect example of what crowdfunding can accomplish.\" The film was nominated for the John Cassavetes Award at the 2015 Independent Spirit Awards.</p>"
+        },
+        "plotFull": {
+            "plainText": "Blue Ruin\r\nBlue Ruin is a 2013 American thriller film written and directed by Jeremy Saulnier and starring Macon Blair. The film premiered at the Cannes Film Festival as part of the Directors' Fortnight section on May 17, 2013, where it won the FIPRESCI Prize. Saulnier funded production on the film through a successful Kickstarter campaign, which MTV.com called \"the perfect example of what crowdfunding can accomplish.\" The film was nominated for the John Cassavetes Award at the 2015 Independent Spirit Awards.\r\nPlot\r\nDwight Evans, living as a beach vagrant, lives out of his car and scavenges for food and money. A policewoman tells him that Wade Cleland, the man who murdered Dwight's parents twenty years ago, is to be released from prison. Dwight returns to his hometown in Virginia and watches the Clelands collect Wade from prison in a limousine. He steals a gun enroute but it was locked, and Dwight ditches the gun. The Clelands go to a local club to celebrate Wade's release. Dwight follows Wade to the club's restroom and, after a fight, fatally stabs him. Realizing he dropped his car keys in the club, Dwight steals the Clelands' limousine. As he drives away he discovers a teenage boy, William Cleland, in the back and lets him go.\r\nAfter cleaning himself up, Dwight visits his sister, Sam, for the first time in years and tells her that he has killed Wade. Sam is shocked but glad. As the killing has gone unreported on the news, Dwight surmises that the Clelands have decided to seek revenge without police involvement. Sam flees her home with her daughters and Dwight waits in the family house for the Clelands' attack. Wade's two brothers arrive in the car Dwight left outside the club. As Dwight escapes, he runs over Teddy Cleland and he places the unconscious body in the trunk. Before Dwight drives away, Teddy's brother Carl shoots him in the thigh with a crossbow.\r\nAfter attempting surgery on himself, Dwight has the wound treated at a hospital. He returns to Sam's house to clean up the mess. He tracks down an old high school friend, Ben, who lends him a rifle. On Ben's land, Dwight interrogates Teddy at gunpoint. Teddy tells him that Wade was not his parents' killer. Dwight's father and Wade Sr.'s wife were having an affair. In revenge Wade's now deceased father killed his dad and his mother's death was unfortunate. She just happened to be in the car when Wade Sr. ambushed it. Wade Jr. took the blame as his father was dying from cancer and the family did not want him to die in prison. Teddy wrestles Dwight's rifle from him, but Ben shoots him dead from a concealed position. To keep Ben from further involvement, Dwight removes the battery from Ben's car.\r\nDwight goes to the Cleland house and finds it empty. He searches it for guns, dumps them in a lake, and waits to ambush the Clelands. He leaves a message on the house answering machine asking them to leave Sam out of the dispute. Carl, his older sister, Kris, and their cousin, Hope, return and listen to Dwight's message. When it becomes clear that the Clelands intend to kill Sam, Dwight shoots and kills Carl. He then holds the women at gunpoint while explaining his dilemma about whether to kill all the family members. William enters through another door and shoots Dwight with a shotgun. The women yell at William to kill Dwight. Dwight, severely wounded, disarms William and tells him to leave with his car. As William leaves, Dwight tells the women that William is his half-brother. Hope attempts to attack Dwight as Kris reaches for a TEC-9 hidden under a recliner and fires wildly at Dwight. She shoots and kills Hope in the process. Dwight returns fire mortally wounding Kris, but not before he is shot by her. Dwight dies on the floor, while mumbling that the keys are in the car.\r\nCast\r\nEvans family:\r\nCleland family:\r\nSidn\u00e9 Anderson as Officer Eddy\r\nBonnie Johnson as Margaret Gaffney\r\nProduction\r\nBlair and Saulnier had been making movies together growing up and hoped to make a living out of it; however, as they both became older with families, they realized that that might not happen. After the disappointing reception of their horror comedy Murder Party, the two wanted to make one last film together. Saulnier said, \"We embraced the fact that we had to wrap up this childhood arc\u2014this insane fantasy of wanting to be filmmakers\u2014and just make a film that was right and true.\" The concept of a revenge story appealed to Saulnier, who said that it \"was just about grounding the film in a very mundane scenario that needed so little exposition.\" The film's plot also serves as a critique for Saulnier of films that he enjoyed growing up. In particular, several violent crimes in the early years of the 2010s \"made miserable\", and he said he \"couldn't do a film that was akin to those awesome genre spectacles of my youth\" in said climate.\r\nThe film was financed with help from a successful Kickstarter campaign in 2012 asking for $35,000 and money from Saulnier's own savings. Saulnier initially did not want to use the crowd funding platform, as he felt conflicted about asking for help, specifically that donors could not invest in the back end through the site. However, he eventually realized that the positive outweighed the negative. Saulnier said that when making the pitch video for the campaign \"I faced my worst nightmare\" as he was camera shy.\r\nReception\r\nBox office\r\nBlue Ruin opened in 7 theaters in North America and earned $32,608 in its opening weekend averaging $4,658 per theater and ranking #52 at the box office. The film ultimately earned $258,384 domestically and $719,241 internationally for a total of $977,625. The film then was given a VOD release on April 25, 2014. followed by a home video release on July 22, 2014.\r\nCritical reception\r\nRotten Tomatoes, a review aggregator, reports that 96% of 135 surveyed critics gave the film a positive review; the average rating is 8 out of 10. The critical consensus states \"Smart, stripped-down, and thrillingly grim, Blue Ruin proves that a well-told revenge story can still leave its audience on the edge of their seat.\" The film also has a score of 77 out of 100 on Metacritic based on 33 critics, indicating \"generally favorable reviews\".\r\nTop ten lists\r\nBlue Ruin was listed on many critics' top ten lists for 2013.\r\n1st \u2013 Chase Whale, Twitch Film\r\n1st \u2013 Josh Bell, Las Vegas Weekly\r\n2nd \u2013 William Goss, Austin Chronicle\r\n5th \u2013 Marc Doyle, Metacritic\r\n7th \u2013 James Rocchi, The Wrap\r\n8th \u2013 Russ Fischer, Slash Film\r\n8th \u2013 A.A. Dowd, The A.V. Club\r\n8th \u2013 Haleigh Foutch, Collider\r\n10th \u2013 Nathan Rabin, The Dissolve",
+            "html": "<h2>Blue Ruin</h2><p>Blue Ruin is a 2013 American thriller film written and directed by Jeremy Saulnier and starring Macon Blair. The film premiered at the Cannes Film Festival as part of the Directors' Fortnight section on May 17, 2013, where it won the FIPRESCI Prize. Saulnier funded production on the film through a successful Kickstarter campaign, which MTV.com called \"the perfect example of what crowdfunding can accomplish.\" The film was nominated for the John Cassavetes Award at the 2015 Independent Spirit Awards.</p><br/><h3>Plot</h3><p>Dwight Evans, living as a beach vagrant, lives out of his car and scavenges for food and money. A policewoman tells him that Wade Cleland, the man who murdered Dwight's parents twenty years ago, is to be released from prison. Dwight returns to his hometown in Virginia and watches the Clelands collect Wade from prison in a limousine. He steals a gun enroute but it was locked, and Dwight ditches the gun. The Clelands go to a local club to celebrate Wade's release. Dwight follows Wade to the club's restroom and, after a fight, fatally stabs him. Realizing he dropped his car keys in the club, Dwight steals the Clelands' limousine. As he drives away he discovers a teenage boy, William Cleland, in the back and lets him go.</p><p>After cleaning himself up, Dwight visits his sister, Sam, for the first time in years and tells her that he has killed Wade. Sam is shocked but glad. As the killing has gone unreported on the news, Dwight surmises that the Clelands have decided to seek revenge without police involvement. Sam flees her home with her daughters and Dwight waits in the family house for the Clelands' attack. Wade's two brothers arrive in the car Dwight left outside the club. As Dwight escapes, he runs over Teddy Cleland and he places the unconscious body in the trunk. Before Dwight drives away, Teddy's brother Carl shoots him in the thigh with a crossbow.</p><p>After attempting surgery on himself, Dwight has the wound treated at a hospital. He returns to Sam's house to clean up the mess. He tracks down an old high school friend, Ben, who lends him a rifle. On Ben's land, Dwight interrogates Teddy at gunpoint. Teddy tells him that Wade was not his parents' killer. Dwight's father and Wade Sr.'s wife were having an affair. In revenge Wade's now deceased father killed his dad and his mother's death was unfortunate. She just happened to be in the car when Wade Sr. ambushed it. Wade Jr. took the blame as his father was dying from cancer and the family did not want him to die in prison. Teddy wrestles Dwight's rifle from him, but Ben shoots him dead from a concealed position. To keep Ben from further involvement, Dwight removes the battery from Ben's car.</p><p>Dwight goes to the Cleland house and finds it empty. He searches it for guns, dumps them in a lake, and waits to ambush the Clelands. He leaves a message on the house answering machine asking them to leave Sam out of the dispute. Carl, his older sister, Kris, and their cousin, Hope, return and listen to Dwight's message. When it becomes clear that the Clelands intend to kill Sam, Dwight shoots and kills Carl. He then holds the women at gunpoint while explaining his dilemma about whether to kill all the family members. William enters through another door and shoots Dwight with a shotgun. The women yell at William to kill Dwight. Dwight, severely wounded, disarms William and tells him to leave with his car. As William leaves, Dwight tells the women that William is his half-brother. Hope attempts to attack Dwight as Kris reaches for a TEC-9 hidden under a recliner and fires wildly at Dwight. She shoots and kills Hope in the process. Dwight returns fire mortally wounding Kris, but not before he is shot by her. Dwight dies on the floor, while mumbling that the keys are in the car.</p><br/><h3>Cast</h3><p>Evans family:</p><p>Cleland family:</p><ul><li>Sidn\u00e9 Anderson as Officer Eddy</li><li>Bonnie Johnson as Margaret Gaffney</li></ul><br/><h3>Production</h3><p>Blair and Saulnier had been making movies together growing up and hoped to make a living out of it; however, as they both became older with families, they realized that that might not happen. After the disappointing reception of their horror comedy Murder Party, the two wanted to make one last film together. Saulnier said, \"We embraced the fact that we had to wrap up this childhood arc\u2014this insane fantasy of wanting to be filmmakers\u2014and just make a film that was right and true.\" The concept of a revenge story appealed to Saulnier, who said that it \"was just about grounding the film in a very mundane scenario that needed so little exposition.\" The film's plot also serves as a critique for Saulnier of films that he enjoyed growing up. In particular, several violent crimes in the early years of the 2010s \"made miserable\", and he said he \"couldn't do a film that was akin to those awesome genre spectacles of my youth\" in said climate.</p><p>The film was financed with help from a successful Kickstarter campaign in 2012 asking for $35,000 and money from Saulnier's own savings. Saulnier initially did not want to use the crowd funding platform, as he felt conflicted about asking for help, specifically that donors could not invest in the back end through the site. However, he eventually realized that the positive outweighed the negative. Saulnier said that when making the pitch video for the campaign \"I faced my worst nightmare\" as he was camera shy.</p><br/><h3>Reception</h3><h4>Box office</h4><p>Blue Ruin opened in 7 theaters in North America and earned $32,608 in its opening weekend averaging $4,658 per theater and ranking #52 at the box office. The film ultimately earned $258,384 domestically and $719,241 internationally for a total of $977,625. The film then was given a VOD release on April 25, 2014. followed by a home video release on July 22, 2014.</p><h4>Critical reception</h4><p>Rotten Tomatoes, a review aggregator, reports that 96% of 135 surveyed critics gave the film a positive review; the average rating is 8 out of 10. The critical consensus states \"Smart, stripped-down, and thrillingly grim, Blue Ruin proves that a well-told revenge story can still leave its audience on the edge of their seat.\" The film also has a score of 77 out of 100 on Metacritic based on 33 critics, indicating \"generally favorable reviews\".</p><h4>Top ten lists</h4><p>Blue Ruin was listed on many critics' top ten lists for 2013.</p><ul><li>1st \u2013 Chase Whale, Twitch Film</li><li>1st \u2013 Josh Bell, Las Vegas Weekly</li><li>2nd \u2013 William Goss, Austin Chronicle</li><li>5th \u2013 Marc Doyle, Metacritic</li><li>7th \u2013 James Rocchi, The Wrap</li><li>8th \u2013 Russ Fischer, Slash Film</li><li>8th \u2013 A.A. Dowd, The A.V. Club</li><li>8th \u2013 Haleigh Foutch, Collider</li><li>10th \u2013 Nathan Rabin, The Dissolve</li></ul><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt2359024",
+        "title": "Blue Ruin",
+        "fullTitle": "Blue Ruin (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "posters": [
+            {
+                "id": "q0itEsso2drJXqH9kfdidxIT5dF.jpg",
+                "link": "https://imdb-api.com/posters/original/q0itEsso2drJXqH9kfdidxIT5dF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "de",
+                "width": 1400,
+                "height": 2100
+            }
+        ],
+        "backdors": [
+            {
+                "id": "AcEBzrNmY60gJplQnp3tYw33vu1.jpg",
+                "link": "https://imdb-api.com/posters/original/AcEBzrNmY60gJplQnp3tYw33vu1.jpg",
+                "aspectRatio": 1.7785977859778597,
+                "language": "en",
+                "width": 1446,
+                "height": 813
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2359024",
+        "title": "Blue Ruin",
+        "fullTitle": "Blue Ruin (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "items": [
+            {
+                "title": "Macon Blair in Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNTMzNDgwODI3NF5BMl5BanBnXkFtZTgwMjUyNzMxMTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Macon Blair in Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk5NDE2NjAwN15BMl5BanBnXkFtZTgwMjk1OTk4MDE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Macon Blair in Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNDA4MDgxNTI3OF5BMl5BanBnXkFtZTgwNTk1OTk4MDE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4NTM2MDg5OV5BMl5BanBnXkFtZTgwMDA3OTAwMTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYjIxYmRlMjItMWZjYy00NjMxLWFkMTgtNzQwMGM3NWNlZjk2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMThhY2MxODAtMmE1ZC00MzUxLTg0ODMtMjM5MWFkNjc3YWQ1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYmE4NTVjYzQtZTYwMy00YTEzLTkwNjMtOTU1MDUzYmRlNzBmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMmE3ZTQ4NDgtMjJjNC00NDdjLTlmMGItMDljZDQzYTAyZDYxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZDljMDZkMGUtNWQ5MS00NGRjLWI5MmYtNTc1ODJkNDkwYTRkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BOTk3NzZkMDEtMGUwZi00ZDUzLTliMDgtZmMzMzEwMzIyNTM5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNGRmM2Q0MTktM2E5ZC00ZTNjLWI5YTEtY2JlZGE1Y2QwOTAxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMmQ5ZWM3NWYtMmI5ZS00MGJmLThkNjUtOTFlMmFlNjQxYzU4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BN2E4MjhlMjgtNTVmMS00ZGVkLWIxMzItOTZkMjU2YjlhMDYxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMmFjYmFhZjItZmZiMi00MWZkLWFiOTYtYzJjNGM5OTNmZGU2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZWE4YmQ2NzAtNzE5Ny00ODBlLWFkZjEtOGRmZTYxMTA3N2IzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZThjNGY5ODctODQwOS00OTQ3LWE4YTAtZTgyNGEzZjg4MGYxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNDU0NmQ2NzQtNzRmZC00MjA3LWJhZDQtNDVjNTE1ODlkNjAzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZjA4MzcyNzAtMTQ5Mi00NWNjLWFiYWUtYTZjZTI4YjZlNmVjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYjlkNDQ4ZGQtN2VmZi00MzUxLWJhYzMtNDM0NWI0ZTNjNzc1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNDEwNjlkMGEtMjg1ZS00ZDQ4LWIwZDYtNGUyNmY3N2M1NTc3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BY2FkYjljNjItZTYxYy00Nzc3LWI4MjUtZDkyYTIxN2U3MjQ1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZWVjZDc4OTAtNTNhMS00M2ZiLThkNjctMzIwYjJlMjkzZGMzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZDJhN2MyOWQtZmYwNy00YWZiLTg4MWYtNWFkNGE2Y2M5ZDdiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZmY3ZDRhYjktNWI3NS00OWE4LTljMTUtNmM5YWYyNjRkYWI2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZjFjM2JmNDUtNmFhNS00ZGEzLTk1MmEtNmVkNDUxYjBiY2JlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BM2EwMDBmNzUtYWM1Yy00M2JlLTk4MDAtMTE1MWRiMzExZmY5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BN2Y1ZDBiYjUtZTIwZi00MjJkLWExMWMtNzQ5ZjI3YzBiMjIyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BY2Q2YzRkZjAtM2Y5MC00MWQyLTgxYzEtYzA5ZmM2ODcyMGU2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BOWYwYzlmYzUtMTUzZC00ODU1LTgwNzUtYzBkZDY2ZjkyMDRjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BOWM2M2EzZTAtNGI1Mi00MzVkLWFmMjAtNGZhNDUyZDJhZDhjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNzg0NzMyMzctNTkwNS00NDJkLWFiNTktMjgyNDVkZTY1MjlmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZDYzNjI2NjAtMGQxOC00YzNjLWI5NDktNDNlNTJiMTg0YjAzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMWQ0OGRmYTEtNDg2MS00YzU0LTg5YzQtMjNjZTYzOTM5YzFjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BOGJkYTg5MDUtNGFmNy00MDczLTk2YzUtMDU4MDgyNmU1YzFkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZDY3ZGJlYjMtNmViZC00OTE1LTg4YjQtMzI2ZGVjMDI5ZGM5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMDZmMWU5MWItNmY3MS00NGMwLTllMTYtOTE2NzM1M2ZhZGQ1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BODUxZTIxZTctZGI2OC00Njc0LTkwNDctNDY1YzMwMjUzNzFlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMmEzN2Y0YjgtMWRjMS00NGVlLTk1NzYtY2M2YjFjM2IzNmFjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BOTAwZWY4MzYtYjQzNC00ZWUyLWJlZWEtYTYzZWJjYzc2NjZiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMzc5ZjQ0ZWEtNWJhNi00MTJmLWFmNzUtZDQ3ZDg1ZTNkZmYwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BOWY4NjdhOTAtZDY1Yy00YmFiLTg4NGUtZDUxZjdjNTllMjNhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BN2M4MGY1ODEtNDBlNS00NzQ0LWEzOWItMjA2NjQ4NTc4YjY4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYjkyMWEyNDItYzIxNi00ZWRmLTg1NGItNDRmNjVlY2QxYWY4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYWY4YWQ1YjItODc2YS00NmU5LWFlOTQtYzdkZGVmYzJiMjI3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNGVhOGVmYjYtNzQ2Mi00NDY5LWJlY2ItYmM2NDIyNjJmZjM4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYWMyNTIwZDMtMDM1ZS00N2MyLWFhNDktMDFiM2Q5MDc2M2U4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYTBhMDE4NmItOGFiNC00Y2JiLWIzMTktYjY3NmRlMTcyOTk0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Blue Ruin (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMGI1YTI0MjgtYWZjYi00NGE1LTgzZGQtMTg2NDQ0NGFmNzRhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt2359024",
+        "title": "Blue Ruin",
+        "fullTitle": "Blue Ruin (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "videoId": "vi3065752345",
+        "videoTitle": "Festival Trailer",
+        "videoDescription": "A mysterious outsider's quiet life is turned upside down when he returns to his childhood home to carry out an act of vengeance. Proving himself an amateur assassin, he winds up in a brutal fight to protect his estranged family.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTYxMjE3MTU5OV5BMl5BanBnXkFtZTgwOTA4NTk5MDE@._V1_.jpg",
+        "uploadDate": "01/18/2014 23:38:52",
+        "link": "https://www.imdb.com/video/vi3065752345",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3065752345/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$420,000 (estimated)",
+        "openingWeekendUSA": "$32,608, 27 April 2014",
+        "grossUSA": "$258,384",
+        "cumulativeWorldwideGross": "$993,313"
+    },
+    "tagline": "A Man With Nothing To Lose Is A Man With Nothing To Fear.",
+    "keywords": "crowdfunded,vengeance,neo noir,written by director,automobile",
+    "keywordList": [
+        "crowdfunded",
+        "vengeance",
+        "neo noir",
+        "written by director",
+        "automobile"
+    ],
+    "similars": [
+        {
+            "id": "tt4062536",
+            "title": "Green Room",
+            "fullTitle": "Green Room (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.",
+            "directors": "Jeremy Saulnier",
+            "stars": "Anton Yelchin, Imogen Poots, Alia Shawkat",
+            "genres": "Horror, Music, Thriller",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt0878695",
+            "title": "Murder Party",
+            "fullTitle": "Murder Party (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTUyMDgzMzI0M15BMl5BanBnXkFtZTcwNjU2MDU1MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A random invitation to a Halloween party leads a man into the hands of a rogue collective intent on murdering him for the sake of their art, sparking a bloodbath of mishap, mayhem and hilarity.",
+            "directors": "Jeremy Saulnier",
+            "stars": "Chris Sharp, Kate Porterfield, Tess Porterfield Lovell",
+            "genres": "Comedy, Drama, Horror",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt5057140",
+            "title": "Hold the Dark",
+            "fullTitle": "Hold the Dark (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BMjMwOTQ1MzM3M15BMl5BanBnXkFtZTgwODQyNDQxNjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After the deaths of three children suspected to be killed by wolves, writer Russell Core is hired by the the mother of a missing six-year-old boy to track down and locate her son in the Alaskan wilderness.",
+            "directors": "Jeremy Saulnier",
+            "stars": "Jeffrey Wright, Alexander Skarsg\u00e5rd, James Badge Dale",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "5.6"
+        },
+        {
+            "id": "tt2400463",
+            "title": "The Invitation",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzODMwNDkzOF5BMl5BanBnXkFtZTgwNDA4NzA1ODE@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A man accepts an invitation to a dinner party hosted by his ex-wife, an unsettling affair that reopens old wounds and creates new tensions.",
+            "directors": "Karyn Kusama",
+            "stars": "Logan Marshall-Green, Emayatzy Corinealdi, Michiel Huisman",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt2494362",
+            "title": "Bone Tomahawk",
+            "fullTitle": "Bone Tomahawk (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMzQ0MzE4OTUzMF5BMl5BanBnXkFtZTgwODAyNzI3NjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the dying days of the old west, an elderly sheriff and his posse set out to rescue their town's doctor from cannibalistic cave dwellers.",
+            "directors": "S. Craig Zahler",
+            "stars": "Kurt Russell, Patrick Wilson, Matthew Fox",
+            "genres": "Drama, Horror, Western",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt4846232",
+            "title": "Good Time",
+            "fullTitle": "Good Time (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNGQ3Y2VjNmUtMDdiMC00YTE1LWI5NmUtZDIzMTJmODQyNDU4XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+            "directors": "Directors: Benny Safdie, Josh Safdie",
+            "stars": "Robert Pattinson, Benny Safdie, Jennifer Jason Leigh",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt3235888",
+            "title": "It Follows",
+            "fullTitle": "It Follows (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+            "directors": "David Robert Mitchell",
+            "stars": "Maika Monroe, Keir Gilchrist, Olivia Luccardi",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt5657856",
+            "title": "Brawl in Cell Block 99",
+            "fullTitle": "Brawl in Cell Block 99 (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMzQ4MjEyNjg4Nl5BMl5BanBnXkFtZTgwOTY1NDEzMzI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A former boxer-turned-drug runner lands in a prison battleground after a deal gets deadly.",
+            "directors": "S. Craig Zahler",
+            "stars": "Vince Vaughn, Jennifer Carpenter, Don Johnson",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt2316411",
+            "title": "Enemy",
+            "fullTitle": "Enemy (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man seeks out his exact look-alike after spotting him in a movie.",
+            "directors": "Denis Villeneuve",
+            "stars": "Jake Gyllenhaal, M\u00e9lanie Laurent, Sarah Gadon",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt5710514",
+            "title": "I Don't Feel at Home in This World Anymore.",
+            "fullTitle": "I Don't Feel at Home in This World Anymore. (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BYmM5Zjg5ZWEtYmQwOS00NmFmLTgxYzktYTJkZmY3OGM4NDQyXkEyXkFqcGdeQXVyNjk4NjM5Nzc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a depressed woman is burgled, she finds a new sense of purpose by tracking down the thieves alongside her obnoxious neighbour. But they soon find themselves dangerously out of their depth against a pack of degenerate criminals.",
+            "directors": "Macon Blair",
+            "stars": "Melanie Lynskey, Chris Doubek, Marilyn Faith Hickey",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt1179031",
+            "title": "Cold in July",
+            "fullTitle": "Cold in July (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMTc4NTU4MTY2Nl5BMl5BanBnXkFtZTgwNDM5MjQ2MTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a protective father meets a murderous ex-con, both need to deviate from the path they are on as they soon find themselves entangled in a downwards spiral of lies and violence while having to confront their own inner psyche.",
+            "directors": "Jim Mickle",
+            "stars": "Michael C. Hall, Sam Shepard, Don Johnson",
+            "genres": "Crime, Thriller",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt2980592",
+            "title": "The Guest",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A soldier introduces himself to the Peterson family, claiming to be a friend of their son who died in action. After the young man is welcomed into their home, a series of accidental deaths seem to be connected to his presence.",
+            "directors": "Adam Wingard",
+            "stars": "Dan Stevens, Sheila Kelley, Maika Monroe",
+            "genres": "Action, Comedy, Crime",
+            "imDbRating": "6.7"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

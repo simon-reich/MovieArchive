@@ -1,0 +1,3528 @@
+{
+    "id": "tt0106519",
+    "title": "Carlito's Way",
+    "originalTitle": "",
+    "fullTitle": "Carlito's Way (1993)",
+    "type": "Movie",
+    "year": "1993",
+    "image": "https://imdb-api.com/images/original/MV5BN2I2N2Q1YmMtMzZkMC00Y2JjLWJmOWUtNjc2OTM2ZTk1MjUyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1993-11-12",
+    "runtimeMins": "144",
+    "runtimeStr": "2h 24mins",
+    "plot": "A Puerto Rican ex-con pledges to stay away from his former drug dealing ways but finds himself being dragged back by his past connections and the naive machinations of his lawyer and best friend. Hoping to raise enough money to get away from New York, Carlito Brigante takes on the job of running a nightclub, renews an affair with a dancer but old associates and old instincts suck him back into a world of violence and mistrust.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Nominated for 2 Golden Globes. Another 2 wins & 6 nominations.",
+    "directors": "Brian De Palma",
+    "directorList": [
+        {
+            "id": "nm0000361",
+            "name": "Brian De Palma"
+        }
+    ],
+    "writers": "Edwin Torres, David Koepp",
+    "writerList": [
+        {
+            "id": "nm0868620",
+            "name": "Edwin Torres"
+        },
+        {
+            "id": "nm0462895",
+            "name": "David Koepp"
+        }
+    ],
+    "stars": "Al Pacino, Sean Penn, Penelope Ann Miller, John Leguizamo",
+    "starList": [
+        {
+            "id": "nm0000199",
+            "name": "Al Pacino"
+        },
+        {
+            "id": "nm0000576",
+            "name": "Sean Penn"
+        },
+        {
+            "id": "nm0000542",
+            "name": "Penelope Ann Miller"
+        },
+        {
+            "id": "nm0000491",
+            "name": "John Leguizamo"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000199",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Al Pacino",
+            "asCharacter": "Carlito"
+        },
+        {
+            "id": "nm0000576",
+            "image": "https://imdb-api.com/images/original/MV5BMTc1NjMzMjY3NF5BMl5BanBnXkFtZTcwMzkxNjQzMg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sean Penn",
+            "asCharacter": "Kleinfeld"
+        },
+        {
+            "id": "nm0000542",
+            "image": "https://imdb-api.com/images/original/MV5BYmJlN2M0N2QtYWRkOS00YzVjLTlkYzktN2Q1ODdmNDNhNDNiXkEyXkFqcGdeQXVyMjUxOTcxNTI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Penelope Ann Miller",
+            "asCharacter": "Gail"
+        },
+        {
+            "id": "nm0000491",
+            "image": "https://imdb-api.com/images/original/MV5BNTEyMjMxNDg5NF5BMl5BanBnXkFtZTcwNzczOTY4MQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "John Leguizamo",
+            "asCharacter": "Benny Blanco"
+        },
+        {
+            "id": "nm0736917",
+            "image": "https://imdb-api.com/images/original/MV5BYjZkNzZjNjEtZmM1YS00ZTMzLWI1ZTktYTMzYjJjNmFjNDUzXkEyXkFqcGdeQXVyMDIyNTY0OQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ingrid Rogers",
+            "asCharacter": "Steffie"
+        },
+        {
+            "id": "nm0350079",
+            "image": "https://imdb-api.com/images/original/MV5BNzYyNjIyOTU2NF5BMl5BanBnXkFtZTcwODk3ODcxMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Luis Guzm\u00e1n",
+            "asCharacter": "Pachanga (as Luis Guzman)"
+        },
+        {
+            "id": "nm0714310",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxNTc4ODE1MF5BMl5BanBnXkFtZTcwMjA5NzY5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Rebhorn",
+            "asCharacter": "Norwalk"
+        },
+        {
+            "id": "nm0802759",
+            "image": "https://imdb-api.com/images/original/MV5BMjExMTUxNTY3MF5BMl5BanBnXkFtZTgwNDY2NDA5NzE@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Joseph Siravo",
+            "asCharacter": "Vinnie Taglialucci"
+        },
+        {
+            "id": "nm0001557",
+            "image": "https://imdb-api.com/images/original/MV5BNDQzOTg4NzA2Nl5BMl5BanBnXkFtZTcwMzkwNjkxMg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Viggo Mortensen",
+            "asCharacter": "Lalin"
+        },
+        {
+            "id": "nm0286561",
+            "image": "https://imdb-api.com/images/original/MV5BNzZlNDM4NmEtODFlMC00ZmI2LWExNDMtNjA1NDQ0ZjllYTUwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Richard Foronjy",
+            "asCharacter": "Pete Amadesso"
+        },
+        {
+            "id": "nm0691672",
+            "image": "https://imdb-api.com/images/original/MV5BMzNkOTY1NjgtZGVkYi00MjQxLWFlZjAtNTM3ZjAxOTExNTlmXkEyXkFqcGdeQXVyNjU0ODkwMTU@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Jorge Porcel",
+            "asCharacter": "Saso (Ron)"
+        },
+        {
+            "id": "nm0591800",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Frank Minucci",
+            "asCharacter": "Tony Taglialucci"
+        },
+        {
+            "id": "nm0664499",
+            "image": "https://imdb-api.com/images/original/MV5BMTI4MzQ3ODM2Nl5BMl5BanBnXkFtZTYwODMxNjI3._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adrian Pasdar",
+            "asCharacter": "Frankie"
+        },
+        {
+            "id": "nm0651159",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2OTY2NDQzOF5BMl5BanBnXkFtZTcwNDcyMzIzNw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "John Ortiz",
+            "asCharacter": "Guajiro (as John Augstin Ortiz)"
+        },
+        {
+            "id": "nm0757774",
+            "image": "https://imdb-api.com/images/original/MV5BNTYyMTgzNzkyOF5BMl5BanBnXkFtZTgwNTQ5MDU0MDI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "\u00c1ngel Salazar",
+            "asCharacter": "Walberto"
+        },
+        {
+            "id": "nm0411436",
+            "image": "https://imdb-api.com/images/original/MV5BYzllYWE0NTUtZTVjNS00MmVhLWIxYWQtZmNjZGVlZWUwN2RhXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Al Israel",
+            "asCharacter": "Rolando"
+        },
+        {
+            "id": "nm0043173",
+            "image": "https://imdb-api.com/images/original/MV5BMTEwNjAwMjQ2ODZeQTJeQWpwZ15BbWU3MDY2ODI2MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rick Aviles",
+            "asCharacter": "Quisqueya"
+        },
+        {
+            "id": "nm0844969",
+            "image": "https://imdb-api.com/images/original/MV5BZjE2M2I2ZTItOGI5Zi00OWFkLThjYTAtYmY0YzA5N2I5YmQxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Jaime S\u00e1nchez",
+            "asCharacter": "Rudy (as Jaime Sanchez)"
+        },
+        {
+            "id": "nm0759336",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Edmonte Salvato",
+            "asCharacter": "Joe Battaglia (Big Guy)"
+        },
+        {
+            "id": "nm0005196",
+            "image": "https://imdb-api.com/images/original/MV5BNjIyNzA5MDQ0NV5BMl5BanBnXkFtZTYwNjcwNTc0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Mazursky",
+            "asCharacter": "Judge Feinstein"
+        },
+        {
+            "id": "nm0846095",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tera Tabrizi",
+            "asCharacter": "Club Date"
+        },
+        {
+            "id": "nm0797304",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "V\u00edctor Sierra",
+            "asCharacter": "Kid"
+        },
+        {
+            "id": "nm0179641",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Caesar Cordova",
+            "asCharacter": "Barber"
+        },
+        {
+            "id": "nm0781218",
+            "image": "https://imdb-api.com/images/original/MV5BMjc5OTM0NDItZDgwNS00YWY5LTkzNjUtYTNiZGEyZjM3MzI1XkEyXkFqcGdeQXVyMjEzMTQ2MzU@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jon Seda",
+            "asCharacter": "Dominican"
+        },
+        {
+            "id": "nm0729413",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ruben Rivera",
+            "asCharacter": "Dominican"
+        },
+        {
+            "id": "nm0541046",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sherie Mambru",
+            "asCharacter": "Girlfriend"
+        },
+        {
+            "id": "nm0379525",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brenda Hernandez",
+            "asCharacter": "Girlfriend"
+        },
+        {
+            "id": "nm0763574",
+            "image": "https://imdb-api.com/images/original/MV5BNGQ4OWE1MjEtMTBkOS00MDhkLTk4MDEtNGZkMTBlNThjZGNiXkEyXkFqcGdeQXVyMzcxMDA1NQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Elliot Santiago",
+            "asCharacter": "Knifeman"
+        },
+        {
+            "id": "nm0273975",
+            "image": "https://imdb-api.com/images/original/MV5BMTczMjc1NjIzN15BMl5BanBnXkFtZTcwMTc5MzYzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Frank Ferrara",
+            "asCharacter": "Manzanero"
+        },
+        {
+            "id": "nm0398467",
+            "image": "https://imdb-api.com/images/original/MV5BY2I0MmNhYjctOTdjMi00ZDFhLWFmMmYtMTMzZTczMDFlNzk4XkEyXkFqcGdeQXVyMTM3ODUyMzk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Hoyt",
+            "asCharacter": "Club Bouncer"
+        },
+        {
+            "id": "nm0957257",
+            "image": "https://imdb-api.com/images/original/MV5BNWM3OWNjNTktZGJkOS00YmM2LTk5ZWItMmU5MWE3ODFjODdmXkEyXkFqcGdeQXVyMTI1NDgzMzI@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Chuck Zito",
+            "asCharacter": "Club Bouncer"
+        },
+        {
+            "id": "nm0699922",
+            "image": "https://imdb-api.com/images/original/MV5BMjAyNDE0OTMzMl5BMl5BanBnXkFtZTcwNzc5MTY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steven Puente",
+            "asCharacter": "Club Bouncer"
+        },
+        {
+            "id": "nm0190962",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony Cucci",
+            "asCharacter": "Club Bouncer"
+        },
+        {
+            "id": "nm0766534",
+            "image": "https://imdb-api.com/images/original/MV5BNjI4YTBmMmQtZGY3My00MjBlLTgyZDUtMWUzMjRhMmRiYWI1L2ltYWdlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Alfred Sauchelli Jr.",
+            "asCharacter": "Bodyguard"
+        },
+        {
+            "id": "nm0129336",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anthony Catanese",
+            "asCharacter": "Bodyguard"
+        },
+        {
+            "id": "nm0916751",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sam Weber",
+            "asCharacter": "Bodyguard"
+        },
+        {
+            "id": "nm0957273",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sonny Zito",
+            "asCharacter": "Bodyguard"
+        },
+        {
+            "id": "nm0574984",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Walter T. Meade",
+            "asCharacter": "Jackson Corrections Officer"
+        },
+        {
+            "id": "nm0352803",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Hadge",
+            "asCharacter": "Diamond Room Man"
+        },
+        {
+            "id": "nm0183573",
+            "image": "https://imdb-api.com/images/original/MV5BMjEzNjgyNTU5N15BMl5BanBnXkFtZTcwMTQyMDkzNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Richard Council",
+            "asCharacter": "Diamond Room Man"
+        },
+        {
+            "id": "nm0518383",
+            "image": "https://imdb-api.com/images/original/MV5BZmFhZTZmZTQtMzVlMi00OGQxLTlkOGEtNjU0ODk2NTIxYzI0XkEyXkFqcGdeQXVyMTg1OTQ0Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lindsey Baker",
+            "asCharacter": "Diamond Room Dancer (as Lindsay Lombardi)"
+        },
+        {
+            "id": "nm0119874",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Bulleit",
+            "asCharacter": "Louie"
+        },
+        {
+            "id": "nm0359781",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Crystal Haney",
+            "asCharacter": "Estate Party Woman"
+        },
+        {
+            "id": "nm0592702",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gregory Mitchell",
+            "asCharacter": "Italian at Copa (as Gregory Misciagno)"
+        },
+        {
+            "id": "nm0330917",
+            "image": "https://imdb-api.com/images/original/MV5BZGIxOGNhMDMtMmY3ZS00OGQzLWExMDItZjcwOGMzMmJmNjFkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Mel Gorham",
+            "asCharacter": "Pachanga's Date"
+        },
+        {
+            "id": "nm0803157",
+            "image": "https://imdb-api.com/images/original/MV5BMjM5NTU4MTYzMl5BMl5BanBnXkFtZTgwNzIwNDIyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Rocco Sisto",
+            "asCharacter": "Panama Hatman"
+        },
+        {
+            "id": "nm0278125",
+            "image": "https://imdb-api.com/images/original/MV5BNGFlOTI2MzAtNThlMi00MjdkLTk4ZjYtMzk5ZDhlNjc1ZjVkXkEyXkFqcGdeQXVyMDg5NDc5MA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "John Finn",
+            "asCharacter": "Duncan"
+        },
+        {
+            "id": "nm0850211",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzNzAzOTQzM15BMl5BanBnXkFtZTcwNzkxMDUzMQ@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Brian Tarantina",
+            "asCharacter": "Speller"
+        },
+        {
+            "id": "nm0864222",
+            "image": "https://imdb-api.com/images/original/MV5BNjc4NzAxNDM5MV5BMl5BanBnXkFtZTcwMDYzMTI5NQ@@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Jaime Tirelli",
+            "asCharacter": "Valentin"
+        },
+        {
+            "id": "nm0390892",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Owen Hollander",
+            "asCharacter": "Cab Driver"
+        },
+        {
+            "id": "nm0092948",
+            "image": "https://imdb-api.com/images/original/MV5BNmE4ZmMzZmMtYjkyNC00YzEwLWJhZDgtZmUzMGZhYTI0OWRkXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.8182_AL_.jpg",
+            "name": "John Michael Bolger",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0221820",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ralph Destino Jr.",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0422044",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2Mjk3NjM3Nl5BMl5BanBnXkFtZTgwNzc1NDYxNjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vincent Jerman-Jerosa",
+            "asCharacter": "Cop (as Vincent Jerosa)"
+        },
+        {
+            "id": "nm0866327",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Luke Toma",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0682886",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Frank Pietrangolare",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0790613",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Sheehan",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0245000",
+            "image": "https://imdb-api.com/images/original/MV5BZjc4MGFlMjktNjZjOC00NmY2LTkxNjItNDI1OTFjMGRlZjg0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dean Rader-Duval",
+            "asCharacter": "Med Tech"
+        },
+        {
+            "id": "nm0133932",
+            "image": "https://imdb-api.com/images/original/MV5BMTI2ODMyMjUzNl5BMl5BanBnXkFtZTYwMDkwOTE3._V1_Ratio1.5455_AL_.jpg",
+            "name": "Gene Canfield",
+            "asCharacter": "Train Conductor"
+        },
+        {
+            "id": "nm0500912",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sharmagne Leland-St. John",
+            "asCharacter": "Woman at Grand Central"
+        },
+        {
+            "id": "nm0729401",
+            "image": "https://imdb-api.com/images/original/MV5BYWU0ODYwM2YtY2I2My00OWNjLTlkYTMtYzlhNGE0OTI3OTNmXkEyXkFqcGdeQXVyMjYwNTM2MjQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rene Rivera",
+            "asCharacter": "Bartender"
+        },
+        {
+            "id": "nm0881809",
+            "image": "https://imdb-api.com/images/original/MV5BNGQ0MDNkMmMtM2ViNC00YTYzLTgwODItMzkwZjgwMjIwNGQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Orlando Urdaneta",
+            "asCharacter": "Bartender"
+        },
+        {
+            "id": "nm0369965",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Troy A. Hawes",
+            "asCharacter": "Solicitor at Go-Go Club"
+        },
+        {
+            "id": "nm0725822",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kim Rideout",
+            "asCharacter": "Gail's Friend at Dance Studio"
+        },
+        {
+            "id": "nm0052881",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Drita Barak",
+            "asCharacter": "Club Patron"
+        },
+        {
+            "id": "nm0106837",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christopher Bregman",
+            "asCharacter": "Club Patron"
+        },
+        {
+            "id": "nm0712945",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Natalia Ray",
+            "asCharacter": "Club Patron"
+        },
+        {
+            "id": "nm0176829",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Conzo",
+            "asCharacter": "Club Patron"
+        },
+        {
+            "id": "nm0514053",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gaetano Lisi",
+            "asCharacter": "Club Patron (as Gaetano 'Tom' Lisi)"
+        },
+        {
+            "id": "nm0631393",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Debra Niewald",
+            "asCharacter": "Club Patron"
+        },
+        {
+            "id": "nm0614160",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christina Murphy",
+            "asCharacter": "Waitress"
+        },
+        {
+            "id": "nm0650903",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julieta Ortega",
+            "asCharacter": "Waitress (as Juliette Ortega)"
+        },
+        {
+            "id": "nm0358600",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mary Hammett",
+            "asCharacter": "Waitress (as Mary C. Hammett)"
+        },
+        {
+            "id": "nm0071218",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Debbie Benitez",
+            "asCharacter": "Dancer"
+        },
+        {
+            "id": "nm0558511",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Roberta Mathes",
+            "asCharacter": "Dancer"
+        },
+        {
+            "id": "nm0727884",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Freddy Rios",
+            "asCharacter": "Dancer"
+        },
+        {
+            "id": "nm0708732",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Ramos",
+            "asCharacter": "Dancer"
+        },
+        {
+            "id": "nm0652205",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yelba Osorio",
+            "asCharacter": "Blanco's Girlfriend (as Yelba Matamoros)"
+        },
+        {
+            "id": "nm0890709",
+            "image": "https://imdb-api.com/images/original/MV5BMTY1NTQ4MTY5Ml5BMl5BanBnXkFtZTcwODI2OTU2OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nelson Vasquez",
+            "asCharacter": "Blanco Associate"
+        },
+        {
+            "id": "nm0201845",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jason Daryn",
+            "asCharacter": "Party Waiter"
+        },
+        {
+            "id": "nm0107271",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dan Brennan",
+            "asCharacter": "Party Guest"
+        },
+        {
+            "id": "nm0602930",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael P. Moran",
+            "asCharacter": "Party Guest (as Michael Moran)"
+        },
+        {
+            "id": "nm0665114",
+            "image": "https://imdb-api.com/images/original/MV5BMjE2MDMxNDA3NV5BMl5BanBnXkFtZTYwNDE3OTU1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vincent Pastore",
+            "asCharacter": "Copa Wiseguy"
+        },
+        {
+            "id": "nm0665101",
+            "image": "https://imdb-api.com/images/original/MV5BMTgzZjFhOTgtZjdjYS00NTE3LWJkMjktYzA0N2I3ZTFiNjQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Garry Pastore",
+            "asCharacter": "Copa Wiseguy (as Garry Blackwood)"
+        },
+        {
+            "id": "nm0483701",
+            "image": "https://imdb-api.com/images/original/MV5BOTQwNTYwMjIxOV5BMl5BanBnXkFtZTcwNDE1ODExOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Cynthia LaMontagne",
+            "asCharacter": "Woman at Elevator (as Cynthia Lamontagne)"
+        },
+        {
+            "id": "nm0226195",
+            "image": "https://imdb-api.com/images/original/MV5BMzhlMTA5YmMtNmM3Yy00OWM5LTllZTItYWU5NjAyMzU5OTAzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Bo Dietl",
+            "asCharacter": "Casino Man"
+        },
+        {
+            "id": "nm0441344",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kato",
+            "asCharacter": "Casino Man"
+        },
+        {
+            "id": "nm0588539",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James V. Miller",
+            "asCharacter": "Black Jack Dealer"
+        },
+        {
+            "id": "nm0004711",
+            "image": "https://imdb-api.com/images/original/MV5BMjExMzIwMTYwN15BMl5BanBnXkFtZTYwMTIwNTQ0._V1_Ratio0.7727_AL_.jpg",
+            "name": "Marc Anthony",
+            "asCharacter": "Latin Band at Disco"
+        },
+        {
+            "id": "nm1353005",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cindy Birch",
+            "asCharacter": "Afro Waitress (uncredited)"
+        },
+        {
+            "id": "nm2782582",
+            "image": "https://imdb-api.com/images/original/MV5BMTgzNzM1NDIwNV5BMl5BanBnXkFtZTcwMDc3MTQwNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Boston",
+            "asCharacter": "Convention Delegate (uncredited)"
+        },
+        {
+            "id": "nm4098959",
+            "image": "https://imdb-api.com/images/original/MV5BZGI1NGIxYjEtZjlhNC00NWZhLTk2YzQtZjFlNjBmNmY4ZWQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.1364_AL_.jpg",
+            "name": "Marisol Carrere",
+            "asCharacter": "Club Patron / Salsa Dancer (uncredited)"
+        },
+        {
+            "id": "nm3173241",
+            "image": "https://imdb-api.com/images/original/MV5BZWRkNWJjM2QtZDY5My00MjAwLWI5ZTItOTdmOGI1ZDhjZTk4XkEyXkFqcGdeQXVyMjAwNjY1NjY@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Dono Cunningham",
+            "asCharacter": "Subway Car Rider (uncredited)"
+        },
+        {
+            "id": "nm1039758",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert DaGasta",
+            "asCharacter": "Hippie (uncredited)"
+        },
+        {
+            "id": "nm1498920",
+            "image": "https://imdb-api.com/images/original/MV5BYWY5MjQ0NzItOWY5MC00YWQ0LThkNmEtMGMxYWQ2Nzk4Zjk5XkEyXkFqcGdeQXVyNDg3MjQ4OTQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jaclyn Dietl",
+            "asCharacter": "Lead Salsa Dancer (uncredited)"
+        },
+        {
+            "id": "nm0280657",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jack Fitzstephens",
+            "asCharacter": "Train Announcer (uncredited)"
+        },
+        {
+            "id": "nm5952619",
+            "image": "https://imdb-api.com/images/original/MV5BMjE3Mzg4Mjg5Ml5BMl5BanBnXkFtZTgwNjE1ODcyMTE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Garlan Green",
+            "asCharacter": "On-Air Personality (uncredited)"
+        },
+        {
+            "id": "nm1537846",
+            "image": "https://imdb-api.com/images/original/MV5BM2QxYzY0OWEtYzljMS00NDUzLTgxOGQtMGM4ODJlNTZhOGFjL2ltYWdlXkEyXkFqcGdeQXVyMzA5NjI4Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Pete Macnamara",
+            "asCharacter": "Brazilian Band Member (uncredited)"
+        },
+        {
+            "id": "nm0540634",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles Malota",
+            "asCharacter": "Party Attendee By Pool (uncredited)"
+        },
+        {
+            "id": "nm0546833",
+            "image": "https://imdb-api.com/images/original/MV5BNmM5MzdiNjgtZWNhNy00YTkxLThlNjItOGFmYjMxNGJkODMzXkEyXkFqcGdeQXVyMjc5Mjk2MQ@@._V1_Ratio1.0455_AL_.jpg",
+            "name": "Daniel Margotta",
+            "asCharacter": "Monchin (uncredited)"
+        },
+        {
+            "id": "nm1833926",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daisy Martinez",
+            "asCharacter": "Party Extra (uncredited)"
+        },
+        {
+            "id": "nm3738963",
+            "image": "https://imdb-api.com/images/original/MV5BOTIzMDdkZmQtZTY0MC00M2NmLWE3YjgtZTc3YmQ5YmE4MmFlXkEyXkFqcGdeQXVyMTA5ODA2ODM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mike Mitchell Jr.",
+            "asCharacter": "Kid On Train (uncredited)"
+        },
+        {
+            "id": "nm1046181",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Moffa",
+            "asCharacter": "Subway Patron (uncredited)"
+        },
+        {
+            "id": "nm8859030",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Moss",
+            "asCharacter": "Man on the Train (uncredited)"
+        },
+        {
+            "id": "nm0612734",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3NDE2MjkzNl5BMl5BanBnXkFtZTgwMjI3MTM5MzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Coati Mundi",
+            "asCharacter": "Street Musician (uncredited)"
+        },
+        {
+            "id": "nm0434560",
+            "image": "https://imdb-api.com/images/original/MV5BNjRiZjI1ZmQtYTgxZi00ZDFhLWJmOTItYzE4YzhhYjc0YmZhXkEyXkFqcGdeQXVyMzA4ODEzNQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Antone Pag\u00e1n",
+            "asCharacter": "Pacino's Puerto Rican Coach (uncredited)"
+        },
+        {
+            "id": "nm4799369",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Pont",
+            "asCharacter": "Club DJ (uncredited)"
+        },
+        {
+            "id": "nm0709337",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Angel Ramirez Jr.",
+            "asCharacter": "Club Dancer (uncredited)"
+        },
+        {
+            "id": "nm1575218",
+            "image": "https://imdb-api.com/images/original/MV5BMmYxNDA1M2UtNzNhZS00MWQ2LWJiNjktY2QyODQ4NjJhOTY0XkEyXkFqcGdeQXVyMTA0Nzc2ODY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Cice Rivera",
+            "asCharacter": "Waitress (uncredited)"
+        },
+        {
+            "id": "nm2839794",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ron Rivera",
+            "asCharacter": "Latino (uncredited)"
+        },
+        {
+            "id": "nm7752151",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jacqueline Frances Santiago",
+            "asCharacter": "Salsa Dancer (uncredited)"
+        },
+        {
+            "id": "nm0763639",
+            "image": "https://imdb-api.com/images/original/MV5BMWVmOTJiODctYTMyYy00MzAwLWIwZGYtYmI5ZWQ0NTk4NWVjXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_Ratio1.7727_AL_.jpg",
+            "name": "Saundra Santiago",
+            "asCharacter": "Club Patron Dancing with Carlito (uncredited)"
+        },
+        {
+            "id": "nm3659978",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alberto Suarez",
+            "asCharacter": "Thug On Train (uncredited)"
+        },
+        {
+            "id": "nm3499195",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Denise Vasquez",
+            "asCharacter": "Salsa Dancer / Cocktail Waitress (uncredited)"
+        },
+        {
+            "id": "nm1061592",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Enrique Veloz",
+            "asCharacter": "Club Patron (uncredited)"
+        },
+        {
+            "id": "nm0917253",
+            "image": "https://imdb-api.com/images/original/MV5BNzU2Nzc3NTg2M15BMl5BanBnXkFtZTYwMzI2NjYy._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bill Weeden",
+            "asCharacter": "Party Animal (uncredited)"
+        },
+        {
+            "id": "nm5453354",
+            "image": "https://imdb-api.com/images/original/MV5BNDk1MDc3YzAtMWQ0Yy00NGJlLWE4MTYtYTFlNTA2OGViZDc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kyle Wyatt",
+            "asCharacter": "Club Dancer / Street Patron (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0106519",
+        "title": "Carlito's Way",
+        "fullTitle": "Carlito's Way (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000361",
+                    "name": "Brian De Palma",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0868620",
+                    "name": "Edwin Torres",
+                    "description": "(novels)"
+                },
+                {
+                    "id": "nm0462895",
+                    "name": "David Koepp",
+                    "description": "(screenplay)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000199",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_Ratio0.7273_AL_.jpg",
+                "name": "Al Pacino",
+                "asCharacter": "Carlito"
+            },
+            {
+                "id": "nm0000576",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1NjMzMjY3NF5BMl5BanBnXkFtZTcwMzkxNjQzMg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sean Penn",
+                "asCharacter": "Kleinfeld"
+            },
+            {
+                "id": "nm0000542",
+                "image": "https://imdb-api.com/images/original/MV5BYmJlN2M0N2QtYWRkOS00YzVjLTlkYzktN2Q1ODdmNDNhNDNiXkEyXkFqcGdeQXVyMjUxOTcxNTI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Penelope Ann Miller",
+                "asCharacter": "Gail"
+            },
+            {
+                "id": "nm0000491",
+                "image": "https://imdb-api.com/images/original/MV5BNTEyMjMxNDg5NF5BMl5BanBnXkFtZTcwNzczOTY4MQ@@._V1_Ratio0.8182_AL_.jpg",
+                "name": "John Leguizamo",
+                "asCharacter": "Benny Blanco"
+            },
+            {
+                "id": "nm0736917",
+                "image": "https://imdb-api.com/images/original/MV5BYjZkNzZjNjEtZmM1YS00ZTMzLWI1ZTktYTMzYjJjNmFjNDUzXkEyXkFqcGdeQXVyMDIyNTY0OQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ingrid Rogers",
+                "asCharacter": "Steffie"
+            },
+            {
+                "id": "nm0350079",
+                "image": "https://imdb-api.com/images/original/MV5BNzYyNjIyOTU2NF5BMl5BanBnXkFtZTcwODk3ODcxMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Luis Guzm\u00e1n",
+                "asCharacter": "Pachanga (as Luis Guzman)"
+            },
+            {
+                "id": "nm0714310",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxNTc4ODE1MF5BMl5BanBnXkFtZTcwMjA5NzY5Mg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "James Rebhorn",
+                "asCharacter": "Norwalk"
+            },
+            {
+                "id": "nm0802759",
+                "image": "https://imdb-api.com/images/original/MV5BMjExMTUxNTY3MF5BMl5BanBnXkFtZTgwNDY2NDA5NzE@._V1_Ratio1.2727_AL_.jpg",
+                "name": "Joseph Siravo",
+                "asCharacter": "Vinnie Taglialucci"
+            },
+            {
+                "id": "nm0001557",
+                "image": "https://imdb-api.com/images/original/MV5BNDQzOTg4NzA2Nl5BMl5BanBnXkFtZTcwMzkwNjkxMg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Viggo Mortensen",
+                "asCharacter": "Lalin"
+            },
+            {
+                "id": "nm0286561",
+                "image": "https://imdb-api.com/images/original/MV5BNzZlNDM4NmEtODFlMC00ZmI2LWExNDMtNjA1NDQ0ZjllYTUwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.2273_AL_.jpg",
+                "name": "Richard Foronjy",
+                "asCharacter": "Pete Amadesso"
+            },
+            {
+                "id": "nm0691672",
+                "image": "https://imdb-api.com/images/original/MV5BMzNkOTY1NjgtZGVkYi00MjQxLWFlZjAtNTM3ZjAxOTExNTlmXkEyXkFqcGdeQXVyNjU0ODkwMTU@._V1_Ratio1.2727_AL_.jpg",
+                "name": "Jorge Porcel",
+                "asCharacter": "Saso (Ron)"
+            },
+            {
+                "id": "nm0591800",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Frank Minucci",
+                "asCharacter": "Tony Taglialucci"
+            },
+            {
+                "id": "nm0664499",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4MzQ3ODM2Nl5BMl5BanBnXkFtZTYwODMxNjI3._V1_Ratio0.7273_AL_.jpg",
+                "name": "Adrian Pasdar",
+                "asCharacter": "Frankie"
+            },
+            {
+                "id": "nm0651159",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2OTY2NDQzOF5BMl5BanBnXkFtZTcwNDcyMzIzNw@@._V1_Ratio0.8182_AL_.jpg",
+                "name": "John Ortiz",
+                "asCharacter": "Guajiro (as John Augstin Ortiz)"
+            },
+            {
+                "id": "nm0757774",
+                "image": "https://imdb-api.com/images/original/MV5BNTYyMTgzNzkyOF5BMl5BanBnXkFtZTgwNTQ5MDU0MDI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "\u00c1ngel Salazar",
+                "asCharacter": "Walberto"
+            },
+            {
+                "id": "nm0411436",
+                "image": "https://imdb-api.com/images/original/MV5BYzllYWE0NTUtZTVjNS00MmVhLWIxYWQtZmNjZGVlZWUwN2RhXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Al Israel",
+                "asCharacter": "Rolando"
+            },
+            {
+                "id": "nm0043173",
+                "image": "https://imdb-api.com/images/original/MV5BMTEwNjAwMjQ2ODZeQTJeQWpwZ15BbWU3MDY2ODI2MDg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Rick Aviles",
+                "asCharacter": "Quisqueya"
+            },
+            {
+                "id": "nm0844969",
+                "image": "https://imdb-api.com/images/original/MV5BZjE2M2I2ZTItOGI5Zi00OWFkLThjYTAtYmY0YzA5N2I5YmQxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+                "name": "Jaime S\u00e1nchez",
+                "asCharacter": "Rudy (as Jaime Sanchez)"
+            },
+            {
+                "id": "nm0759336",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Edmonte Salvato",
+                "asCharacter": "Joe Battaglia (Big Guy)"
+            },
+            {
+                "id": "nm0005196",
+                "image": "https://imdb-api.com/images/original/MV5BNjIyNzA5MDQ0NV5BMl5BanBnXkFtZTYwNjcwNTc0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Paul Mazursky",
+                "asCharacter": "Judge Feinstein"
+            },
+            {
+                "id": "nm0846095",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tera Tabrizi",
+                "asCharacter": "Club Date"
+            },
+            {
+                "id": "nm0797304",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "V\u00edctor Sierra",
+                "asCharacter": "Kid"
+            },
+            {
+                "id": "nm0179641",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Caesar Cordova",
+                "asCharacter": "Barber"
+            },
+            {
+                "id": "nm0781218",
+                "image": "https://imdb-api.com/images/original/MV5BMjc5OTM0NDItZDgwNS00YWY5LTkzNjUtYTNiZGEyZjM3MzI1XkEyXkFqcGdeQXVyMjEzMTQ2MzU@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Jon Seda",
+                "asCharacter": "Dominican"
+            },
+            {
+                "id": "nm0729413",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ruben Rivera",
+                "asCharacter": "Dominican"
+            },
+            {
+                "id": "nm0541046",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sherie Mambru",
+                "asCharacter": "Girlfriend"
+            },
+            {
+                "id": "nm0379525",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Brenda Hernandez",
+                "asCharacter": "Girlfriend"
+            },
+            {
+                "id": "nm0763574",
+                "image": "https://imdb-api.com/images/original/MV5BNGQ4OWE1MjEtMTBkOS00MDhkLTk4MDEtNGZkMTBlNThjZGNiXkEyXkFqcGdeQXVyMzcxMDA1NQ@@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Elliot Santiago",
+                "asCharacter": "Knifeman"
+            },
+            {
+                "id": "nm0273975",
+                "image": "https://imdb-api.com/images/original/MV5BMTczMjc1NjIzN15BMl5BanBnXkFtZTcwMTc5MzYzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Frank Ferrara",
+                "asCharacter": "Manzanero"
+            },
+            {
+                "id": "nm0398467",
+                "image": "https://imdb-api.com/images/original/MV5BY2I0MmNhYjctOTdjMi00ZDFhLWFmMmYtMTMzZTczMDFlNzk4XkEyXkFqcGdeQXVyMTM3ODUyMzk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "John Hoyt",
+                "asCharacter": "Club Bouncer"
+            },
+            {
+                "id": "nm0957257",
+                "image": "https://imdb-api.com/images/original/MV5BNWM3OWNjNTktZGJkOS00YmM2LTk5ZWItMmU5MWE3ODFjODdmXkEyXkFqcGdeQXVyMTI1NDgzMzI@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Chuck Zito",
+                "asCharacter": "Club Bouncer"
+            },
+            {
+                "id": "nm0699922",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyNDE0OTMzMl5BMl5BanBnXkFtZTcwNzc5MTY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Steven Puente",
+                "asCharacter": "Club Bouncer"
+            },
+            {
+                "id": "nm0190962",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tony Cucci",
+                "asCharacter": "Club Bouncer"
+            },
+            {
+                "id": "nm0766534",
+                "image": "https://imdb-api.com/images/original/MV5BNjI4YTBmMmQtZGY3My00MjBlLTgyZDUtMWUzMjRhMmRiYWI1L2ltYWdlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Alfred Sauchelli Jr.",
+                "asCharacter": "Bodyguard"
+            },
+            {
+                "id": "nm0129336",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anthony Catanese",
+                "asCharacter": "Bodyguard"
+            },
+            {
+                "id": "nm0916751",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sam Weber",
+                "asCharacter": "Bodyguard"
+            },
+            {
+                "id": "nm0957273",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sonny Zito",
+                "asCharacter": "Bodyguard"
+            },
+            {
+                "id": "nm0574984",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Walter T. Meade",
+                "asCharacter": "Jackson Corrections Officer"
+            },
+            {
+                "id": "nm0352803",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michael Hadge",
+                "asCharacter": "Diamond Room Man"
+            },
+            {
+                "id": "nm0183573",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzNjgyNTU5N15BMl5BanBnXkFtZTcwMTQyMDkzNw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Richard Council",
+                "asCharacter": "Diamond Room Man"
+            },
+            {
+                "id": "nm0518383",
+                "image": "https://imdb-api.com/images/original/MV5BZmFhZTZmZTQtMzVlMi00OGQxLTlkOGEtNjU0ODk2NTIxYzI0XkEyXkFqcGdeQXVyMTg1OTQ0Nw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lindsey Baker",
+                "asCharacter": "Diamond Room Dancer (as Lindsay Lombardi)"
+            },
+            {
+                "id": "nm0119874",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "James Bulleit",
+                "asCharacter": "Louie"
+            },
+            {
+                "id": "nm0359781",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Crystal Haney",
+                "asCharacter": "Estate Party Woman"
+            },
+            {
+                "id": "nm0592702",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gregory Mitchell",
+                "asCharacter": "Italian at Copa (as Gregory Misciagno)"
+            },
+            {
+                "id": "nm0330917",
+                "image": "https://imdb-api.com/images/original/MV5BZGIxOGNhMDMtMmY3ZS00OGQzLWExMDItZjcwOGMzMmJmNjFkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Mel Gorham",
+                "asCharacter": "Pachanga's Date"
+            },
+            {
+                "id": "nm0803157",
+                "image": "https://imdb-api.com/images/original/MV5BMjM5NTU4MTYzMl5BMl5BanBnXkFtZTgwNzIwNDIyMjE@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Rocco Sisto",
+                "asCharacter": "Panama Hatman"
+            },
+            {
+                "id": "nm0278125",
+                "image": "https://imdb-api.com/images/original/MV5BNGFlOTI2MzAtNThlMi00MjdkLTk4ZjYtMzk5ZDhlNjc1ZjVkXkEyXkFqcGdeQXVyMDg5NDc5MA@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "John Finn",
+                "asCharacter": "Duncan"
+            },
+            {
+                "id": "nm0850211",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzNzAzOTQzM15BMl5BanBnXkFtZTcwNzkxMDUzMQ@@._V1_Ratio1.2727_AL_.jpg",
+                "name": "Brian Tarantina",
+                "asCharacter": "Speller"
+            },
+            {
+                "id": "nm0864222",
+                "image": "https://imdb-api.com/images/original/MV5BNjc4NzAxNDM5MV5BMl5BanBnXkFtZTcwMDYzMTI5NQ@@._V1_Ratio2.3182_AL_.jpg",
+                "name": "Jaime Tirelli",
+                "asCharacter": "Valentin"
+            },
+            {
+                "id": "nm0390892",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Owen Hollander",
+                "asCharacter": "Cab Driver"
+            },
+            {
+                "id": "nm0092948",
+                "image": "https://imdb-api.com/images/original/MV5BNmE4ZmMzZmMtYjkyNC00YzEwLWJhZDgtZmUzMGZhYTI0OWRkXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.8182_AL_.jpg",
+                "name": "John Michael Bolger",
+                "asCharacter": "Cop"
+            },
+            {
+                "id": "nm0221820",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ralph Destino Jr.",
+                "asCharacter": "Cop"
+            },
+            {
+                "id": "nm0422044",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2Mjk3NjM3Nl5BMl5BanBnXkFtZTgwNzc1NDYxNjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Vincent Jerman-Jerosa",
+                "asCharacter": "Cop (as Vincent Jerosa)"
+            },
+            {
+                "id": "nm0866327",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Luke Toma",
+                "asCharacter": "Cop"
+            },
+            {
+                "id": "nm0682886",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Frank Pietrangolare",
+                "asCharacter": "Cop"
+            },
+            {
+                "id": "nm0790613",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mike Sheehan",
+                "asCharacter": "Cop"
+            },
+            {
+                "id": "nm0245000",
+                "image": "https://imdb-api.com/images/original/MV5BZjc4MGFlMjktNjZjOC00NmY2LTkxNjItNDI1OTFjMGRlZjg0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dean Rader-Duval",
+                "asCharacter": "Med Tech"
+            },
+            {
+                "id": "nm0133932",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2ODMyMjUzNl5BMl5BanBnXkFtZTYwMDkwOTE3._V1_Ratio1.5455_AL_.jpg",
+                "name": "Gene Canfield",
+                "asCharacter": "Train Conductor"
+            },
+            {
+                "id": "nm0500912",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sharmagne Leland-St. John",
+                "asCharacter": "Woman at Grand Central"
+            },
+            {
+                "id": "nm0729401",
+                "image": "https://imdb-api.com/images/original/MV5BYWU0ODYwM2YtY2I2My00OWNjLTlkYTMtYzlhNGE0OTI3OTNmXkEyXkFqcGdeQXVyMjYwNTM2MjQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Rene Rivera",
+                "asCharacter": "Bartender"
+            },
+            {
+                "id": "nm0881809",
+                "image": "https://imdb-api.com/images/original/MV5BNGQ0MDNkMmMtM2ViNC00YTYzLTgwODItMzkwZjgwMjIwNGQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Orlando Urdaneta",
+                "asCharacter": "Bartender"
+            },
+            {
+                "id": "nm0369965",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Troy A. Hawes",
+                "asCharacter": "Solicitor at Go-Go Club"
+            },
+            {
+                "id": "nm0725822",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kim Rideout",
+                "asCharacter": "Gail's Friend at Dance Studio"
+            },
+            {
+                "id": "nm0052881",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Drita Barak",
+                "asCharacter": "Club Patron"
+            },
+            {
+                "id": "nm0106837",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Christopher Bregman",
+                "asCharacter": "Club Patron"
+            },
+            {
+                "id": "nm0712945",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Natalia Ray",
+                "asCharacter": "Club Patron"
+            },
+            {
+                "id": "nm0176829",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joe Conzo",
+                "asCharacter": "Club Patron"
+            },
+            {
+                "id": "nm0514053",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gaetano Lisi",
+                "asCharacter": "Club Patron (as Gaetano 'Tom' Lisi)"
+            },
+            {
+                "id": "nm0631393",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Debra Niewald",
+                "asCharacter": "Club Patron"
+            },
+            {
+                "id": "nm0614160",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Christina Murphy",
+                "asCharacter": "Waitress"
+            },
+            {
+                "id": "nm0650903",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Julieta Ortega",
+                "asCharacter": "Waitress (as Juliette Ortega)"
+            },
+            {
+                "id": "nm0358600",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mary Hammett",
+                "asCharacter": "Waitress (as Mary C. Hammett)"
+            },
+            {
+                "id": "nm0071218",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Debbie Benitez",
+                "asCharacter": "Dancer"
+            },
+            {
+                "id": "nm0558511",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Roberta Mathes",
+                "asCharacter": "Dancer"
+            },
+            {
+                "id": "nm0727884",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Freddy Rios",
+                "asCharacter": "Dancer"
+            },
+            {
+                "id": "nm0708732",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mike Ramos",
+                "asCharacter": "Dancer"
+            },
+            {
+                "id": "nm0652205",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Yelba Osorio",
+                "asCharacter": "Blanco's Girlfriend (as Yelba Matamoros)"
+            },
+            {
+                "id": "nm0890709",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1NTQ4MTY5Ml5BMl5BanBnXkFtZTcwODI2OTU2OA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Nelson Vasquez",
+                "asCharacter": "Blanco Associate"
+            },
+            {
+                "id": "nm0201845",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jason Daryn",
+                "asCharacter": "Party Waiter"
+            },
+            {
+                "id": "nm0107271",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dan Brennan",
+                "asCharacter": "Party Guest"
+            },
+            {
+                "id": "nm0602930",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michael P. Moran",
+                "asCharacter": "Party Guest (as Michael Moran)"
+            },
+            {
+                "id": "nm0665114",
+                "image": "https://imdb-api.com/images/original/MV5BMjE2MDMxNDA3NV5BMl5BanBnXkFtZTYwNDE3OTU1._V1_Ratio0.7273_AL_.jpg",
+                "name": "Vincent Pastore",
+                "asCharacter": "Copa Wiseguy"
+            },
+            {
+                "id": "nm0665101",
+                "image": "https://imdb-api.com/images/original/MV5BMTgzZjFhOTgtZjdjYS00NTE3LWJkMjktYzA0N2I3ZTFiNjQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Garry Pastore",
+                "asCharacter": "Copa Wiseguy (as Garry Blackwood)"
+            },
+            {
+                "id": "nm0483701",
+                "image": "https://imdb-api.com/images/original/MV5BOTQwNTYwMjIxOV5BMl5BanBnXkFtZTcwNDE1ODExOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Cynthia LaMontagne",
+                "asCharacter": "Woman at Elevator (as Cynthia Lamontagne)"
+            },
+            {
+                "id": "nm0226195",
+                "image": "https://imdb-api.com/images/original/MV5BMzhlMTA5YmMtNmM3Yy00OWM5LTllZTItYWU5NjAyMzU5OTAzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Bo Dietl",
+                "asCharacter": "Casino Man"
+            },
+            {
+                "id": "nm0441344",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kato",
+                "asCharacter": "Casino Man"
+            },
+            {
+                "id": "nm0588539",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "James V. Miller",
+                "asCharacter": "Black Jack Dealer"
+            },
+            {
+                "id": "nm0004711",
+                "image": "https://imdb-api.com/images/original/MV5BMjExMzIwMTYwN15BMl5BanBnXkFtZTYwMTIwNTQ0._V1_Ratio0.7727_AL_.jpg",
+                "name": "Marc Anthony",
+                "asCharacter": "Latin Band at Disco"
+            },
+            {
+                "id": "nm1353005",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Cindy Birch",
+                "asCharacter": "Afro Waitress (uncredited)"
+            },
+            {
+                "id": "nm2782582",
+                "image": "https://imdb-api.com/images/original/MV5BMTgzNzM1NDIwNV5BMl5BanBnXkFtZTcwMDc3MTQwNQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "David Boston",
+                "asCharacter": "Convention Delegate (uncredited)"
+            },
+            {
+                "id": "nm4098959",
+                "image": "https://imdb-api.com/images/original/MV5BZGI1NGIxYjEtZjlhNC00NWZhLTk2YzQtZjFlNjBmNmY4ZWQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.1364_AL_.jpg",
+                "name": "Marisol Carrere",
+                "asCharacter": "Club Patron / Salsa Dancer (uncredited)"
+            },
+            {
+                "id": "nm3173241",
+                "image": "https://imdb-api.com/images/original/MV5BZWRkNWJjM2QtZDY5My00MjAwLWI5ZTItOTdmOGI1ZDhjZTk4XkEyXkFqcGdeQXVyMjAwNjY1NjY@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Dono Cunningham",
+                "asCharacter": "Subway Car Rider (uncredited)"
+            },
+            {
+                "id": "nm1039758",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Robert DaGasta",
+                "asCharacter": "Hippie (uncredited)"
+            },
+            {
+                "id": "nm1498920",
+                "image": "https://imdb-api.com/images/original/MV5BYWY5MjQ0NzItOWY5MC00YWQ0LThkNmEtMGMxYWQ2Nzk4Zjk5XkEyXkFqcGdeQXVyNDg3MjQ4OTQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jaclyn Dietl",
+                "asCharacter": "Lead Salsa Dancer (uncredited)"
+            },
+            {
+                "id": "nm0280657",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jack Fitzstephens",
+                "asCharacter": "Train Announcer (uncredited)"
+            },
+            {
+                "id": "nm5952619",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3Mzg4Mjg5Ml5BMl5BanBnXkFtZTgwNjE1ODcyMTE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Garlan Green",
+                "asCharacter": "On-Air Personality (uncredited)"
+            },
+            {
+                "id": "nm1537846",
+                "image": "https://imdb-api.com/images/original/MV5BM2QxYzY0OWEtYzljMS00NDUzLTgxOGQtMGM4ODJlNTZhOGFjL2ltYWdlXkEyXkFqcGdeQXVyMzA5NjI4Mw@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Pete Macnamara",
+                "asCharacter": "Brazilian Band Member (uncredited)"
+            },
+            {
+                "id": "nm0540634",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Charles Malota",
+                "asCharacter": "Party Attendee By Pool (uncredited)"
+            },
+            {
+                "id": "nm0546833",
+                "image": "https://imdb-api.com/images/original/MV5BNmM5MzdiNjgtZWNhNy00YTkxLThlNjItOGFmYjMxNGJkODMzXkEyXkFqcGdeQXVyMjc5Mjk2MQ@@._V1_Ratio1.0455_AL_.jpg",
+                "name": "Daniel Margotta",
+                "asCharacter": "Monchin (uncredited)"
+            },
+            {
+                "id": "nm1833926",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Daisy Martinez",
+                "asCharacter": "Party Extra (uncredited)"
+            },
+            {
+                "id": "nm3738963",
+                "image": "https://imdb-api.com/images/original/MV5BOTIzMDdkZmQtZTY0MC00M2NmLWE3YjgtZTc3YmQ5YmE4MmFlXkEyXkFqcGdeQXVyMTA5ODA2ODM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Mike Mitchell Jr.",
+                "asCharacter": "Kid On Train (uncredited)"
+            },
+            {
+                "id": "nm1046181",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joe Moffa",
+                "asCharacter": "Subway Patron (uncredited)"
+            },
+            {
+                "id": "nm8859030",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "David Moss",
+                "asCharacter": "Man on the Train (uncredited)"
+            },
+            {
+                "id": "nm0612734",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3NDE2MjkzNl5BMl5BanBnXkFtZTgwMjI3MTM5MzE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Coati Mundi",
+                "asCharacter": "Street Musician (uncredited)"
+            },
+            {
+                "id": "nm0434560",
+                "image": "https://imdb-api.com/images/original/MV5BNjRiZjI1ZmQtYTgxZi00ZDFhLWJmOTItYzE4YzhhYjc0YmZhXkEyXkFqcGdeQXVyMzA4ODEzNQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Antone Pag\u00e1n",
+                "asCharacter": "Pacino's Puerto Rican Coach (uncredited)"
+            },
+            {
+                "id": "nm4799369",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mike Pont",
+                "asCharacter": "Club DJ (uncredited)"
+            },
+            {
+                "id": "nm0709337",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Angel Ramirez Jr.",
+                "asCharacter": "Club Dancer (uncredited)"
+            },
+            {
+                "id": "nm1575218",
+                "image": "https://imdb-api.com/images/original/MV5BMmYxNDA1M2UtNzNhZS00MWQ2LWJiNjktY2QyODQ4NjJhOTY0XkEyXkFqcGdeQXVyMTA0Nzc2ODY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Cice Rivera",
+                "asCharacter": "Waitress (uncredited)"
+            },
+            {
+                "id": "nm2839794",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ron Rivera",
+                "asCharacter": "Latino (uncredited)"
+            },
+            {
+                "id": "nm7752151",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jacqueline Frances Santiago",
+                "asCharacter": "Salsa Dancer (uncredited)"
+            },
+            {
+                "id": "nm0763639",
+                "image": "https://imdb-api.com/images/original/MV5BMWVmOTJiODctYTMyYy00MzAwLWIwZGYtYmI5ZWQ0NTk4NWVjXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_Ratio1.7727_AL_.jpg",
+                "name": "Saundra Santiago",
+                "asCharacter": "Club Patron Dancing with Carlito (uncredited)"
+            },
+            {
+                "id": "nm3659978",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alberto Suarez",
+                "asCharacter": "Thug On Train (uncredited)"
+            },
+            {
+                "id": "nm3499195",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Denise Vasquez",
+                "asCharacter": "Salsa Dancer / Cocktail Waitress (uncredited)"
+            },
+            {
+                "id": "nm1061592",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Enrique Veloz",
+                "asCharacter": "Club Patron (uncredited)"
+            },
+            {
+                "id": "nm0917253",
+                "image": "https://imdb-api.com/images/original/MV5BNzU2Nzc3NTg2M15BMl5BanBnXkFtZTYwMzI2NjYy._V1_Ratio0.7273_AL_.jpg",
+                "name": "Bill Weeden",
+                "asCharacter": "Party Animal (uncredited)"
+            },
+            {
+                "id": "nm5453354",
+                "image": "https://imdb-api.com/images/original/MV5BNDk1MDc3YzAtMWQ0Yy00NGJlLWE4MTYtYTFlNTA2OGViZDc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kyle Wyatt",
+                "asCharacter": "Club Dancer / Street Patron (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0106840",
+                        "name": "Martin Bregman",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0106841",
+                        "name": "Michael Bregman",
+                        "description": "producer (as Michael S. Bregman)"
+                    },
+                    {
+                        "id": "nm0126653",
+                        "name": "Willi B\u00e4r",
+                        "description": "producer (as Willi Baer)"
+                    },
+                    {
+                        "id": "nm0007156",
+                        "name": "Ortwin Freyermuth",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0828516",
+                        "name": "Judith Stevens",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0834870",
+                        "name": "Louis A. Stroller",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0236462",
+                        "name": "Patrick Doyle",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0005664",
+                        "name": "Stephen H. Burum",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0090867",
+                        "name": "Kristina Boden",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0659597",
+                        "name": "Bill Pankow",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0863659",
+                        "name": "Bonnie Timmermann",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0843129",
+                        "name": "Richard Sylbert",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0093395",
+                        "name": "Gregory Bolton",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0005319",
+                        "name": "Leslie Pope",
+                        "description": "(as Leslie A. Pope)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0111538",
+                        "name": "Aude Bronson-Howard",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0072402",
+                        "name": "Lydia Bensimmon",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0090554",
+                        "name": "Margot Boccia",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm0120713",
+                        "name": "Milton Buras",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0471710",
+                        "name": "Michael Kriston",
+                        "description": "key hair stylist"
+                    },
+                    {
+                        "id": "nm0490730",
+                        "name": "Michael Laudati",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm0528144",
+                        "name": "Craig Lyman",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm0610921",
+                        "name": "Cynthia Mudd",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm0702757",
+                        "name": "John Quaglia",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0771434",
+                        "name": "Peggy Schierholz",
+                        "description": "hair stylist (as Peggy Shierholz)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0828516",
+                        "name": "Judith Stevens",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0339056",
+                        "name": "Adam Greenhaus",
+                        "description": "dga trainee"
+                    },
+                    {
+                        "id": "nm0389083",
+                        "name": "Sam Hoffman",
+                        "description": "second second assistant director"
+                    },
+                    {
+                        "id": "nm0498588",
+                        "name": "Jerry Leeds",
+                        "description": "assistant director: second unit"
+                    },
+                    {
+                        "id": "nm0776980",
+                        "name": "Eric Schwab",
+                        "description": "second unit director"
+                    },
+                    {
+                        "id": "nm0812864",
+                        "name": "Chris Soldo",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0830282",
+                        "name": "Daniel M. Stillman",
+                        "description": "second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm1226473",
+                        "name": "William Armstrong",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0069732",
+                        "name": "Shirley Belwood",
+                        "description": "assistant property master (as Shirley J. Belwood)"
+                    },
+                    {
+                        "id": "nm1088686",
+                        "name": "Martin Bernstein",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm0112229",
+                        "name": "Roland Brooks",
+                        "description": "chargeman scenic artist"
+                    },
+                    {
+                        "id": "nm0123088",
+                        "name": "Sam Burrell",
+                        "description": "construction grip"
+                    },
+                    {
+                        "id": "nm0133927",
+                        "name": "Deborah Canfield",
+                        "description": "props (as Deborah Canfield Devlin)"
+                    },
+                    {
+                        "id": "nm0133937",
+                        "name": "Philip Canfield",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm0182346",
+                        "name": "Thomas Costabile",
+                        "description": "construction foreman (as Tom Costabile)"
+                    },
+                    {
+                        "id": "nm0193036",
+                        "name": "Michael Curry Jr.",
+                        "description": "carpenter (as Mike Curry Jr.)"
+                    },
+                    {
+                        "id": "nm0226774",
+                        "name": "Katy Dilkes",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0308976",
+                        "name": "Joseph Garzero",
+                        "description": "stand-by scenic"
+                    },
+                    {
+                        "id": "nm0407614",
+                        "name": "Laura Iler",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm0440985",
+                        "name": "Barbara A. Kastner",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm0462850",
+                        "name": "Robin Koenig",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm0495316",
+                        "name": "Michael Leather",
+                        "description": "props (as Mike Leather)"
+                    },
+                    {
+                        "id": "nm0534142",
+                        "name": "Todd MacNicholl",
+                        "description": "construction grip"
+                    },
+                    {
+                        "id": "nm0625237",
+                        "name": "Chris T. Nelson",
+                        "description": "set dresser (as Chris Nelson)"
+                    },
+                    {
+                        "id": "nm0697908",
+                        "name": "Carl Prinzi",
+                        "description": "key construction grip"
+                    },
+                    {
+                        "id": "nm0707665",
+                        "name": "John Ralbovsky",
+                        "description": "scenic foreman (as John A. Ralbovsky)"
+                    },
+                    {
+                        "id": "nm0733428",
+                        "name": "Bruno Robotti",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0778512",
+                        "name": "Joseph Sciretta",
+                        "description": "shop electrician (as Joe Sciretta)"
+                    },
+                    {
+                        "id": "nm0841763",
+                        "name": "Bruce Swanson",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm0843125",
+                        "name": "Jonathan Sylbert",
+                        "description": "art department assistant"
+                    },
+                    {
+                        "id": "nm0871073",
+                        "name": "Sylvia Trapanese",
+                        "description": "shop person"
+                    },
+                    {
+                        "id": "nm0921070",
+                        "name": "Anne Wenniger",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm0951683",
+                        "name": "Denis Zack",
+                        "description": "set dresser (as Dennis Zack)"
+                    },
+                    {
+                        "id": "nm0031237",
+                        "name": "Henry Antonacchio",
+                        "description": "carpenter (uncredited)"
+                    },
+                    {
+                        "id": "nm0036708",
+                        "name": "Jacqueline Arnot",
+                        "description": "set dresser (uncredited)"
+                    },
+                    {
+                        "id": "nm0006732",
+                        "name": "Nancy Deren",
+                        "description": "assistant art director (uncredited)"
+                    },
+                    {
+                        "id": "nm0343337",
+                        "name": "Bruce Lee Gross",
+                        "description": "lead man (uncredited)"
+                    },
+                    {
+                        "id": "nm0581211",
+                        "name": "John Merrick",
+                        "description": "construction grip (uncredited)"
+                    },
+                    {
+                        "id": "nm0698199",
+                        "name": "Mary Prlain",
+                        "description": "assistant set dresser (uncredited)"
+                    },
+                    {
+                        "id": "nm0795414",
+                        "name": "Chris Shriver",
+                        "description": "first assistant art director (uncredited)"
+                    },
+                    {
+                        "id": "nm0922197",
+                        "name": "Laura Jean West",
+                        "description": "set dresser (uncredited)"
+                    },
+                    {
+                        "id": "nm0940167",
+                        "name": "Patricia Woodbridge",
+                        "description": "assistant art director (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0078121",
+                        "name": "Louis Bertini",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0119824",
+                        "name": "Kristine Bulakowski",
+                        "description": "assistant sound editor (as Kris Bulakowski)"
+                    },
+                    {
+                        "id": "nm0162758",
+                        "name": "Richard P. Cirincione",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0181006",
+                        "name": "Sara Corrigan",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0225226",
+                        "name": "Lee Dichter",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0266435",
+                        "name": "Neil Fallon",
+                        "description": "sound playback"
+                    },
+                    {
+                        "id": "nm0295381",
+                        "name": "Susan Sklar Friedman",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0003484",
+                        "name": "Tony Grocki",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0344835",
+                        "name": "Marlena Grzaslewicz",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0466287",
+                        "name": "Dan Korintus",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0493796",
+                        "name": "Les Lazarowitz",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm0506014",
+                        "name": "Hal Levinsohn",
+                        "description": "adr editor"
+                    },
+                    {
+                        "id": "nm0553732",
+                        "name": "Tony Martinez",
+                        "description": "adr editor"
+                    },
+                    {
+                        "id": "nm0567117",
+                        "name": "Jane McCulley",
+                        "description": "adr supervisor"
+                    },
+                    {
+                        "id": "nm0592547",
+                        "name": "Eytan Mirsky",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0610690",
+                        "name": "Branka Mrkic",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0622473",
+                        "name": "James H. Nau",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0641825",
+                        "name": "T.J. O'Mara",
+                        "description": "boom operator (as Terence J. O'Mara)"
+                    },
+                    {
+                        "id": "nm0643882",
+                        "name": "Peter Odabashian",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0651070",
+                        "name": "Anthony Ortiz",
+                        "description": "sound recordist"
+                    },
+                    {
+                        "id": "nm0770733",
+                        "name": "Maurice Schell",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0818534",
+                        "name": "Ira Spiegel",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0822603",
+                        "name": "Stuart Stanley",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm0842091",
+                        "name": "Bill Sweeney",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0917056",
+                        "name": "Michael J. Wechsler",
+                        "description": "Apprentice Sound Editor"
+                    },
+                    {
+                        "id": "nm0770733",
+                        "name": "Maurice Schell",
+                        "description": "foley artist (uncredited)"
+                    },
+                    {
+                        "id": "nm0888582",
+                        "name": "Brian Vancho",
+                        "description": "foley artist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0077225",
+                        "name": "Mark Bero",
+                        "description": "special effects assistant"
+                    },
+                    {
+                        "id": "nm0127490",
+                        "name": "Wilfred Caban",
+                        "description": "special effects assistant"
+                    },
+                    {
+                        "id": "nm0456993",
+                        "name": "Steven Kirshoff",
+                        "description": "special effects coordinator"
+                    },
+                    {
+                        "id": "nm0871507",
+                        "name": "Bill Traynor",
+                        "description": "special effects (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm0022615",
+                        "name": "Isa Alsup",
+                        "description": "compositor (uncredited)"
+                    },
+                    {
+                        "id": "nm0160935",
+                        "name": "Daniel Chuba",
+                        "description": "visual effects producer (uncredited)"
+                    },
+                    {
+                        "id": "nm0003065",
+                        "name": "Steven T Puri",
+                        "description": "visual effects & main/end title coordinator (uncredited)"
+                    },
+                    {
+                        "id": "nm2428368",
+                        "name": "Rebecca Ramsey",
+                        "description": "title producer (uncredited)"
+                    },
+                    {
+                        "id": "nm0719230",
+                        "name": "Linda Renaud",
+                        "description": "I/O manager (uncredited)"
+                    },
+                    {
+                        "id": "nm0737258",
+                        "name": "Wendy Rogers",
+                        "description": "lead animator: PDI (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm1183872",
+                        "name": "G.A. Aguilar",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0042052",
+                        "name": "Edward J. Aulisi",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0148844",
+                        "name": "Al Cerullo",
+                        "description": "stunt pilot"
+                    },
+                    {
+                        "id": "nm0262722",
+                        "name": "E.J. Evans",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0273945",
+                        "name": "Frank Ferrara Jr.",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0365598",
+                        "name": "Gene Harrison",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0366179",
+                        "name": "Buddy Joe Hooker",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0505225",
+                        "name": "Jim Lovelett",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0528324",
+                        "name": "Jalil Jay Lynch",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0592405",
+                        "name": "Mike Mirkin",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0709555",
+                        "name": "Chad Randall",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0717661",
+                        "name": "Dave Reilly",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0914293",
+                        "name": "Eddie L. Watkins",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0004227",
+                        "name": "Dick Ziker",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0957257",
+                        "name": "Chuck Zito",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0031734",
+                        "name": "Nancy Ellen Anzalone",
+                        "description": "utility stunts (uncredited)"
+                    },
+                    {
+                        "id": "nm0127362",
+                        "name": "John Cenatiempo",
+                        "description": "stunts (uncredited)"
+                    },
+                    {
+                        "id": "nm0440257",
+                        "name": "Mikal Kartvedt",
+                        "description": "stunts (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0011825",
+                        "name": "Alan Adelman",
+                        "description": "lighting designer: disco club"
+                    },
+                    {
+                        "id": "nm0021080",
+                        "name": "Stuart Allen",
+                        "description": "crane operator: Louma crane"
+                    },
+                    {
+                        "id": "nm0068905",
+                        "name": "James R. Belletier",
+                        "description": "second assistant camera (as James Belletier)"
+                    },
+                    {
+                        "id": "nm0216321",
+                        "name": "Michael J. Delaney",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0225144",
+                        "name": "Craig DiBona",
+                        "description": "camera operator (as Craig Dibona)"
+                    },
+                    {
+                        "id": "nm0232905",
+                        "name": "John Donohue",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0278243",
+                        "name": "James W. Finnerty",
+                        "description": "best boy (as Jimmy Finnerty Jr.)"
+                    },
+                    {
+                        "id": "nm0280531",
+                        "name": "James Fitzpatrick",
+                        "description": "best boy"
+                    },
+                    {
+                        "id": "nm0280556",
+                        "name": "Kevin Fitzpatrick",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0285674",
+                        "name": "Harry Ford",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0325837",
+                        "name": "Louis Goldman",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm0331554",
+                        "name": "Brad Goss",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0387219",
+                        "name": "Petr Hlinomaz",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0404134",
+                        "name": "Larry Huston",
+                        "description": "first assistant camera Steadicam"
+                    },
+                    {
+                        "id": "nm0450112",
+                        "name": "Tom Kerwick",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0473463",
+                        "name": "Ondrej Kubicek",
+                        "description": "camera trainee"
+                    },
+                    {
+                        "id": "nm0488282",
+                        "name": "Ed Larkin",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0523307",
+                        "name": "Dave Lowry",
+                        "description": "dolly grip (as David Lowry)"
+                    },
+                    {
+                        "id": "nm0544496",
+                        "name": "Jim Manzione",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0566227",
+                        "name": "Larry McConkey",
+                        "description": "steadicam operator"
+                    },
+                    {
+                        "id": "nm0567095",
+                        "name": "Jim McCullagh",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0567908",
+                        "name": "Michael 'Flash' McDonald",
+                        "description": "electrician (as Mike McDonald)"
+                    },
+                    {
+                        "id": "nm0569004",
+                        "name": "Robert McGavin",
+                        "description": "rigging gaffer (as Bobby McGavin)"
+                    },
+                    {
+                        "id": "nm0573048",
+                        "name": "Kevin McMahon",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0587969",
+                        "name": "Billy Miller",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0588609",
+                        "name": "Jim Miller",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0588931",
+                        "name": "Matt Miller",
+                        "description": "rigging grip"
+                    },
+                    {
+                        "id": "nm0434560",
+                        "name": "Antone Pag\u00e1n",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0711749",
+                        "name": "Scott Rathner",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm0778515",
+                        "name": "Robert Sciretta",
+                        "description": "best boy (as Bobby Sciretta)"
+                    },
+                    {
+                        "id": "nm0830875",
+                        "name": "Robert Stocklin",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0170180",
+                        "name": "Paul Colangelo",
+                        "description": "second assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm0172420",
+                        "name": "Joe Collins",
+                        "description": "second assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm0671019",
+                        "name": "Douglas Pellegrino",
+                        "description": "first assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm0726075",
+                        "name": "Lance Rieck",
+                        "description": "second assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm0727422",
+                        "name": "Frank Rinato",
+                        "description": "second assistant camera (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0234072",
+                        "name": "Carrol Dorrian",
+                        "description": "extras casting assistant"
+                    },
+                    {
+                        "id": "nm0256208",
+                        "name": "Fleet Emerson",
+                        "description": "extras casting assistant"
+                    },
+                    {
+                        "id": "nm0269615",
+                        "name": "Sylvia Fay",
+                        "description": "extras casting"
+                    },
+                    {
+                        "id": "nm0002625",
+                        "name": "Alison E. McBryde",
+                        "description": "casting assistant"
+                    },
+                    {
+                        "id": "nm0568327",
+                        "name": "Timothy McDowell",
+                        "description": "extras casting assistant (as Tim McDowell)"
+                    },
+                    {
+                        "id": "nm0469488",
+                        "name": "David H. Kramer",
+                        "description": "adr voice casting (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0026901",
+                        "name": "Jill E. Anderson",
+                        "description": "extras wardrobe supervisor"
+                    },
+                    {
+                        "id": "nm0120835",
+                        "name": "Mark Burchard",
+                        "description": "wardrobe supervisor"
+                    },
+                    {
+                        "id": "nm0274087",
+                        "name": "Irene Ferrari",
+                        "description": "costumer"
+                    },
+                    {
+                        "id": "nm0281670",
+                        "name": "Frank L. Fleming",
+                        "description": "extras wardrobe assistant (as Frank Fleming)"
+                    },
+                    {
+                        "id": "nm0369490",
+                        "name": "Barbara Hause",
+                        "description": "extras wardrobe supervisor (as Barbara J. Hause)"
+                    },
+                    {
+                        "id": "nm0004444",
+                        "name": "Askia Won-Ling Jacob",
+                        "description": "costumer (as Askia Jacob)"
+                    },
+                    {
+                        "id": "nm0732533",
+                        "name": "David C. Robinson",
+                        "description": "assistant costume designer"
+                    },
+                    {
+                        "id": "nm0762619",
+                        "name": "Patricia Sanftner",
+                        "description": "extras wardrobe supervisor (as Pat Sanftner)"
+                    },
+                    {
+                        "id": "nm0788320",
+                        "name": "Laura Jean Shannon",
+                        "description": "extras wardrobe assistant"
+                    },
+                    {
+                        "id": "nm0852446",
+                        "name": "Hartsell Taylor",
+                        "description": "costumer"
+                    },
+                    {
+                        "id": "nm0850806",
+                        "name": "Lawrence Tarzy",
+                        "description": "costumer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0031983",
+                        "name": "Jennifer Apel",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm0086180",
+                        "name": "Sue Blainey",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm0101089",
+                        "name": "Patricia Bowers",
+                        "description": "first assistant editor (as Trissy Bowers)"
+                    },
+                    {
+                        "id": "nm0214874",
+                        "name": "Keiko Deguchi",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm0385153",
+                        "name": "Carol Hillson",
+                        "description": "assistant editor (as Carol Ann Hillson)"
+                    },
+                    {
+                        "id": "nm0399523",
+                        "name": "Ray Hubley",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0573944",
+                        "name": "Dennis McNeill",
+                        "description": "color timer"
+                    },
+                    {
+                        "id": "nm0470426",
+                        "name": "Keri Weisblum",
+                        "description": "post-production assistant (as Keri Kravitz)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0087514",
+                        "name": "Lyda Blank",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm0181940",
+                        "name": "Daniel Coss",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm0287865",
+                        "name": "Jan Foster",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm0662202",
+                        "name": "Deborah Parker",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm0777725",
+                        "name": "Mariano Schwed",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm0921089",
+                        "name": "Bart Wenrich",
+                        "description": "assistant location manager"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0039157",
+                        "name": "Lawrence Ashmore",
+                        "description": "orchestrator"
+                    },
+                    {
+                        "id": "nm0073177",
+                        "name": "Jellybean Ben\u00edtez",
+                        "description": "music supervisor (as Jellybean Benitez)"
+                    },
+                    {
+                        "id": "nm0469242",
+                        "name": "William Kraft",
+                        "description": "conductor"
+                    },
+                    {
+                        "id": "nm0583602",
+                        "name": "Nicholas Meyers",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0618899",
+                        "name": "David Nadien",
+                        "description": "music contractor (as David Nadian)"
+                    },
+                    {
+                        "id": "nm0695968",
+                        "name": "Roy Prendergast",
+                        "description": "supervising music editor"
+                    },
+                    {
+                        "id": "nm0724162",
+                        "name": "John Richards",
+                        "description": "music engineer"
+                    },
+                    {
+                        "id": "nm0734641",
+                        "name": "Maggie Rodford",
+                        "description": "music coordinator"
+                    },
+                    {
+                        "id": "nm0737387",
+                        "name": "David Rogow",
+                        "description": "assistant music editor"
+                    },
+                    {
+                        "id": "nm0068291",
+                        "name": "John Bell",
+                        "description": "orchestrator (uncredited)"
+                    },
+                    {
+                        "id": "nm2036352",
+                        "name": "Tom Boyd",
+                        "description": "oboe soloist (uncredited)"
+                    },
+                    {
+                        "id": "nm1537846",
+                        "name": "Pete Macnamara",
+                        "description": "music arranger (uncredited)"
+                    },
+                    {
+                        "id": "nm0608585",
+                        "name": "John Moses",
+                        "description": "musician: clarinet (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0878551",
+                        "name": "Lynne Twentyman",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm0175258",
+                        "name": "Francis Connolly Jr.",
+                        "description": "picture cars"
+                    },
+                    {
+                        "id": "nm0358779",
+                        "name": "Steven R. Hammond",
+                        "description": "transportation captain (as Steve Hammond)"
+                    },
+                    {
+                        "id": "nm0374150",
+                        "name": "Tom Heilig",
+                        "description": "transportation co-captain"
+                    },
+                    {
+                        "id": "nm0193125",
+                        "name": "Richard Curry",
+                        "description": "driver: Mr. Pacino (uncredited)"
+                    },
+                    {
+                        "id": "nm0389598",
+                        "name": "Patrick Hogan",
+                        "description": "driver (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0008042",
+                        "name": "Price Abbott",
+                        "description": "assistant: Al Pacino"
+                    },
+                    {
+                        "id": "nm0016618",
+                        "name": "Robert C. Albertell",
+                        "description": "set production assistant (as Robert Albertell)"
+                    },
+                    {
+                        "id": "nm0049867",
+                        "name": "Brooks Baldwin",
+                        "description": "dialect coach"
+                    },
+                    {
+                        "id": "nm0054172",
+                        "name": "Bridget M. Bardach",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm0071218",
+                        "name": "Debbie Benitez",
+                        "description": "choreographer"
+                    },
+                    {
+                        "id": "nm0076353",
+                        "name": "Paul F. Bernard",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0098235",
+                        "name": "Andy Bostinto",
+                        "description": "physical trainer"
+                    },
+                    {
+                        "id": "nm0107311",
+                        "name": "Jeanne Brennan",
+                        "description": "assistant production coordinator"
+                    },
+                    {
+                        "id": "nm0122630",
+                        "name": "Daniel Burns",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0133708",
+                        "name": "Charlie Candelario",
+                        "description": "technical advisor"
+                    },
+                    {
+                        "id": "nm0135747",
+                        "name": "Bill Capucilli",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm0148335",
+                        "name": "Kevin Center",
+                        "description": "office production assistant"
+                    },
+                    {
+                        "id": "nm0176830",
+                        "name": "Joseph Conzo",
+                        "description": "technical advisor"
+                    },
+                    {
+                        "id": "nm0187928",
+                        "name": "Lou Crisa",
+                        "description": "assistant: Al Pacino / security officer"
+                    },
+                    {
+                        "id": "nm1055291",
+                        "name": "Jennifer D'Angelo Kircher",
+                        "description": "set production assistant (as Jennifer D'Angelo)"
+                    },
+                    {
+                        "id": "nm0226195",
+                        "name": "Bo Dietl",
+                        "description": "security officer"
+                    },
+                    {
+                        "id": "nm0242669",
+                        "name": "Linda Dunn",
+                        "description": "assistant: Martin Bregman"
+                    },
+                    {
+                        "id": "nm0258631",
+                        "name": "Michelle Erb",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0277087",
+                        "name": "David 'Flip' Filippi",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0322292",
+                        "name": "Ed Gleason",
+                        "description": "video"
+                    },
+                    {
+                        "id": "nm0337722",
+                        "name": "Christina Green",
+                        "description": "office production assistant"
+                    },
+                    {
+                        "id": "nm0385431",
+                        "name": "Elizabeth Himelstein",
+                        "description": "dialect coach"
+                    },
+                    {
+                        "id": "nm0386773",
+                        "name": "Ronnie Hisaw",
+                        "description": "assistant auditor"
+                    },
+                    {
+                        "id": "nm0394944",
+                        "name": "Jeffrey Hornaday",
+                        "description": "choreographer"
+                    },
+                    {
+                        "id": "nm0402782",
+                        "name": "Delroy Hunter",
+                        "description": "parking coordinator"
+                    },
+                    {
+                        "id": "nm0413005",
+                        "name": "Sean Jablonski",
+                        "description": "office production assistant"
+                    },
+                    {
+                        "id": "nm0483701",
+                        "name": "Cynthia LaMontagne",
+                        "description": "production assistant: Brian DePalma (as Cynthia Lamontagne)"
+                    },
+                    {
+                        "id": "nm0547775",
+                        "name": "Geni Marino",
+                        "description": "assistant: Martin Bregman"
+                    },
+                    {
+                        "id": "nm0552441",
+                        "name": "Jackie Martin",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm0569257",
+                        "name": "Kathleen McGill",
+                        "description": "production controller"
+                    },
+                    {
+                        "id": "nm0598843",
+                        "name": "Jenny Montalbano Hind",
+                        "description": "assistant: Michael S. Bregman"
+                    },
+                    {
+                        "id": "nm0651185",
+                        "name": "Lisa Jeanne Ortiz",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0684366",
+                        "name": "Jennifer Nicholas Pinkham",
+                        "description": "assistant: Louis A. Stroller"
+                    },
+                    {
+                        "id": "nm0687341",
+                        "name": "Morris Pliskow",
+                        "description": "auditor: Bregman/Baer"
+                    },
+                    {
+                        "id": "nm0728328",
+                        "name": "Michael Risoli",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0742055",
+                        "name": "Ned Rosen",
+                        "description": "assistant: Brian Depalma"
+                    },
+                    {
+                        "id": "nm0762133",
+                        "name": "Lapacazo M. Sandoval",
+                        "description": "publicist"
+                    },
+                    {
+                        "id": "nm0789754",
+                        "name": "Hope Shaw",
+                        "description": "assistant auditor"
+                    },
+                    {
+                        "id": "nm0789803",
+                        "name": "Jonathan H. Shaw",
+                        "description": "set production assistant (as Jonathan Harris Shaw)"
+                    },
+                    {
+                        "id": "nm0809473",
+                        "name": "Norma Smith",
+                        "description": "auditor"
+                    },
+                    {
+                        "id": "nm0841547",
+                        "name": "Hail Swam",
+                        "description": "security officer"
+                    },
+                    {
+                        "id": "nm0868620",
+                        "name": "Edwin Torres",
+                        "description": "technical consultant (as Judge Edwin Torres)"
+                    },
+                    {
+                        "id": "nm0868867",
+                        "name": "Karen Torres",
+                        "description": "office production assistant"
+                    },
+                    {
+                        "id": "nm0870706",
+                        "name": "Arlene Trainoff",
+                        "description": "assistant: David Koepp"
+                    },
+                    {
+                        "id": "nm0919587",
+                        "name": "Kathy Welch",
+                        "description": "payroll clerk"
+                    },
+                    {
+                        "id": "nm0128671",
+                        "name": "John Cahill",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0178204",
+                        "name": "Kyle Cooper",
+                        "description": "title designer (uncredited)"
+                    },
+                    {
+                        "id": "nm1638633",
+                        "name": "Colleen Davie Janes",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0389928",
+                        "name": "Christer Hokanson",
+                        "description": "main title editorial (uncredited)"
+                    },
+                    {
+                        "id": "nm0395025",
+                        "name": "Jay Horne",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0401828",
+                        "name": "David Hummel",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0431927",
+                        "name": "Tim Judge",
+                        "description": "executive assistant: Al Pacino (uncredited)"
+                    },
+                    {
+                        "id": "nm0458488",
+                        "name": "Michael Klawitter",
+                        "description": "production executive (uncredited)"
+                    },
+                    {
+                        "id": "nm3092259",
+                        "name": "Julie Manoogian",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0656133",
+                        "name": "Christine Page",
+                        "description": "acting and dialogue coach: Mr. Porcel (uncredited)"
+                    },
+                    {
+                        "id": "nm0674103",
+                        "name": "Bob Perkis",
+                        "description": "production consultant (uncredited)"
+                    },
+                    {
+                        "id": "nm0727659",
+                        "name": "Michael Ringston",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0746435",
+                        "name": "Shea Rowan",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0770733",
+                        "name": "Maurice Schell",
+                        "description": "adr loop group (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0434560",
+                        "name": "Antone Pag\u00e1n",
+                        "description": "grateful acknowledgment"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Crime, Drama, Thriller",
+    "genreList": [
+        {
+            "key": "Crime",
+            "value": "Crime"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Universal Pictures, Epic Productions, Bregman/Baer Productions",
+    "companyList": [
+        {
+            "id": "co0005073",
+            "name": "Universal Pictures"
+        },
+        {
+            "id": "co0008929",
+            "name": "Epic Productions"
+        },
+        {
+            "id": "co0043292",
+            "name": "Bregman/Baer Productions"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English, Spanish",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Spanish",
+            "value": "Spanish"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.9",
+    "imDbRatingVotes": "192629",
+    "metacriticRating": "65",
+    "ratings": {
+        "imDbId": "tt0106519",
+        "title": "Carlito's Way",
+        "fullTitle": "Carlito's Way (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "imDb": "7.9",
+        "metacritic": "65",
+        "theMovieDb": "7.8",
+        "rottenTomatoes": "81",
+        "tV_com": "9.0",
+        "filmAffinity": "7.9",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0106519",
+        "title": "Carlito's Way",
+        "fullTitle": "Carlito's Way (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "language": "en",
+        "titleInLanguage": "Carlito's Way",
+        "url": "https://en.wikipedia.org/wiki/Carlito%27s_Way",
+        "plotShort": {
+            "plainText": "Carlito's Way\r\nCarlito's Way is a 1993 American crime film directed by Brian De Palma, based on the novels Carlito's Way and After Hours by Judge Edwin Torres. The film adaptation was scripted by David Koepp. It stars Al Pacino, Sean Penn, Penelope Ann Miller, Luis Guzman, John Leguizamo, Jorge Porcel, Joseph Siravo and Viggo Mortensen.\r\nThe film stars Pacino as Carlito Brigante, a Puerto Rican criminal who vows to go straight and to retire in paradise. However, his criminal past proves difficult to escape, and he unwittingly ends up being dragged into the same activities that got him imprisoned in the first place. The film is based mainly on After Hours, but used the title of the first novel to avoid it being confused with Martin Scorsese's 1985 film of the same name.\r\nCarlito's Way received a mixed response from critics, with a similar lukewarm result at the box office, but has subsequently become a cult film. Both Penn and Miller received Golden Globe nominations for their performances. A prequel titled Carlito's Way: Rise to Power, based on the first novel, was released direct-to-video in 2005.",
+            "html": "<h2>Carlito's Way</h2><p>Carlito's Way is a 1993 American crime film directed by Brian De Palma, based on the novels Carlito's Way and After Hours by Judge Edwin Torres. The film adaptation was scripted by David Koepp. It stars Al Pacino, Sean Penn, Penelope Ann Miller, Luis Guzman, John Leguizamo, Jorge Porcel, Joseph Siravo and Viggo Mortensen.</p><p>The film stars Pacino as Carlito Brigante, a Puerto Rican criminal who vows to go straight and to retire in paradise. However, his criminal past proves difficult to escape, and he unwittingly ends up being dragged into the same activities that got him imprisoned in the first place. The film is based mainly on After Hours, but used the title of the first novel to avoid it being confused with Martin Scorsese's 1985 film of the same name.</p><p>Carlito's Way received a mixed response from critics, with a similar lukewarm result at the box office, but has subsequently become a cult film. Both Penn and Miller received Golden Globe nominations for their performances. A prequel titled Carlito's Way: Rise to Power, based on the first novel, was released direct-to-video in 2005.</p>"
+        },
+        "plotFull": {
+            "plainText": "Carlito's Way\r\nCarlito's Way is a 1993 American crime film directed by Brian De Palma, based on the novels Carlito's Way and After Hours by Judge Edwin Torres. The film adaptation was scripted by David Koepp. It stars Al Pacino, Sean Penn, Penelope Ann Miller, Luis Guzman, John Leguizamo, Jorge Porcel, Joseph Siravo and Viggo Mortensen.\r\nThe film stars Pacino as Carlito Brigante, a Puerto Rican criminal who vows to go straight and to retire in paradise. However, his criminal past proves difficult to escape, and he unwittingly ends up being dragged into the same activities that got him imprisoned in the first place. The film is based mainly on After Hours, but used the title of the first novel to avoid it being confused with Martin Scorsese's 1985 film of the same name.\r\nCarlito's Way received a mixed response from critics, with a similar lukewarm result at the box office, but has subsequently become a cult film. Both Penn and Miller received Golden Globe nominations for their performances. A prequel titled Carlito's Way: Rise to Power, based on the first novel, was released direct-to-video in 2005.\r\nPlot\r\nIn 1975, after having served five years of a 30-year prison sentence, Carlito Brigante is freed on a legal technicality exploited by his close friend and lawyer, Dave Kleinfeld. Carlito vows to be through with his criminal activities but is persuaded to accompany his young cousin Guajiro to a drug deal held at a bar. Guajiro is betrayed and killed by his suppliers and Carlito is forced to shoot his way out. Later, Carlito takes Guajiro's $30,000 from the botched deal and uses it to buy into a nightclub owned by a gambling addict named Saso with the intention of saving $75,000 to retire to the Caribbean.\r\nAs nightclub co-owner, Carlito declines several offers for a business partnership with a hot-headed young gangster from the Bronx named Benny Blanco. Carlito also rekindles his romance with his former girlfriend Gail (who calls him \u201cCharlie\u201d), a ballet dancer who moonlights as a stripper. Kleinfeld develops a love interest with Benny's girlfriend, Steffie, a waitress at the club. Benny's frustration with Carlito's constant rejections boils over and he confronts Carlito one night at his table. Carlito publicly humiliates Benny, who reacts by manhandling Steffie. Fueled by his now-extensive use of alcohol and cocaine, Kleinfeld brazenly pulls out a gun and threatens to kill Benny, but Carlito intervenes. Despite being personally threatened by Benny himself, Carlito lets Benny go unharmed; a decision which alienates Carlito's bodyguard Pachanga.\r\nKleinfeld, who stole $1 million in payoff money from his Italian Mafia boss client, Anthony Taglialucci, is coerced into providing his yacht to help Taglialucci break out of the Rikers Island prison barge. Kleinfeld begs for Carlito's assistance in the prison break, and Carlito reluctantly agrees. Under cover of night, Carlito, Kleinfeld, and Taglialucci's son, Frankie, sail to a floating buoy outside of the barge where Taglialucci is waiting. As they pull Taglialucci aboard, Kleinfeld kills him and Frankie and dumps their bodies in the East River. Carlito immediately severs his ties with Kleinfeld and decides to leave town with Gail. The next day, Kleinfeld barely survives a retaliatory assassination attempt at his office.\r\nCarlito is apprehended by police and taken to the office of District Attorney Norwalk, where he is played a tape of Kleinfeld offering to testify to false criminal allegations against Carlito. Norwalk advises that he is aware that Carlito is an accomplice to the Taglialucci murders in an attempt to leverage him into betraying Kleinfeld, but Carlito refuses. Carlito visits Kleinfeld in the hospital, where Kleinfeld confesses to selling Carlito out. Having noticed a suspicious man dressed in a police uniform waiting in the lobby, Carlito secretly unloads Kleinfeld's revolver and leaves. The man is Taglialucci's other son, Vinnie, seeking vengeance for his brother and father. Vinnie sneaks into Kleinfeld's room and shoots him dead.\r\nCarlito buys train tickets to Miami for himself and Gail, now pregnant. When he stops by his club to get the stashed money, Carlito is met by a group of East Harlem Italian gangsters led by Vinnie. The Italians plan on killing Carlito, but he manages to slip out through a secret exit. The Italians pursue him throughout the city's subway system and into Grand Central Terminal, where they engage in a gunfight. Carlito kills all of his pursuers except Vinnie, who is shot and killed by police. As Carlito runs to catch the train where Gail and Pachanga are waiting for him, he is ambushed by Benny, who shoots Carlito several times with a silenced gun. Pachanga admits to Carlito that he is now working for Benny, only to be shot dead by Benny as well. Carlito hands a tearful Gail the money and tells her to escape with their unborn child and start a new life. Carlito is wheeled away on a gurney to be taken to hospital. As he dies, Carlito stares at a billboard with a Caribbean beach and a picture of a woman. The billboard then comes to life in his mind, and the woman, now Gail, starts dancing.\r\nCast\r\nAl Pacino as Carlito Brigante (called \u201cCharlie\u201d by Gail). Pacino came to Carlito's Way directly from his Oscar-winning role in Scent of a Woman. To get into the character, he accompanied Torres through East Harlem. There he could absorb the sights and atmosphere. Pacino first envisioned Carlito with a ponytail. But after his visits to Harlem he quickly realized such a hairstyle was uncommon among the local men. The beard was Pacino's idea. The black leather coat just fit into the period setting.\r\nSean Penn as David Kleinfeld. For the pivotal role of Carlito's sleazy lawyer and best friend, Penn was lured back from early retirement by the challenge of playing the corrupt lawyer. Taking the role meant that he could finance his movie The Crossing Guard and work with Pacino. De Palma and Penn sat down and discussed what '70s mob lawyers looked like. Often, men in the entertainment business can look more bizarre than the talent they represent. Penn shaved the hair on the front of his forehead to give the appearance of a receding hairline. He permed the rest. Alan Dershowitz, believing that Penn was attempting to look like him, threatened the filmmakers with a defamation lawsuit.\r\nPenelope Ann Miller as Gail. At the time, Miller was 29 years old to Pacino's 53. Casting for Gail proved difficult because of the character's striptease scenes. The character needed someone who was both a talented dancer and actor.\r\nJohn Leguizamo as Benny Blanco. Leguizamo completed the main cast as \"Benny Blanco from the Bronx\", an up-and-coming gangster who is determined to exceed Carlito's reputation but lacks any sense of ethics.\r\nLuis Guzm\u00e1n as Pachanga. In Koepp's first draft of the screenplay, Pachanga spoke in a very heavy slang style. Following rumbles from the Latino cast and crew, Koepp toned this down.\r\nJorge Porcel as Saso\r\nIngrid Rogers as Steffie\r\nJames Rebhorn as District Attorney Norwalk\r\nJoseph Siravo as Vincent Taglialucci\r\nFrank Minucci as Anthony Taglialucci\r\nAdrian Pasdar as Frank Taglialucci\r\nViggo Mortensen as Lalin\r\nJohn Augstin Ortiz as Guajiro\r\nJaime S\u00e1nchez as Rudy\r\nProduction\r\nPacino first heard about Carlito Brigante in a YMCA gym in New York City in 1973. Pacino was working out for his movie Serpico when he met New York state supreme court Judge Edwin Torres (the author who was writing the novels Carlito's Way and After Hours). When the novels were completed Al read them and liked them, especially the character of Carlito. Inspiration for the novels came from Torres' background, things that were most familiar to him: the East Harlem barrio where he was born and raised in an atmosphere of racial gangs, drugs and poverty. In 1989, Pacino faced a $6 million lawsuit from producer Elliott Kastner. Kastner claimed Pacino had gone back on an agreement to star in his version of a Carlito movie with Marlon Brando as criminal lawyer David Kleinfeld. The suit was dropped and the project was abandoned.\r\nPacino went to producer Martin Bregman with the intention of getting a Carlito film made. First thing on the list was to get a script written that would portray Carlito Brigante's world and provide a suitable showcase for Pacino's talents. David Koepp had just finished writing the script for Bregman's forthcoming The Shadow when producer Michael S. Bregman suggested him to write the script for Carlito's Way. The decision came that the screenplay would be based on the second novel After Hours. Carlito at this stage would match closer with Pacino's age. Although based primarily on the second novel, the title Carlito's Way remained, mainly because of the existence of Martin Scorsese's movie After Hours. Bregman would work closely with Koepp for two years to develop the shooting script for Carlito's Way.\r\nKoepp wrestled with the voice-over throughout the writing process. Initially the voice-over was to take place in the hospital, but De Palma suggested the train station platform. The hospital scenes were written 25 to 30 times because the actors had trouble with the sequence, with Pacino even thinking that Carlito would not go to the hospital. With one final re-write Koepp managed to make the scene work to Pacino's satisfaction. In the novels Kleinfeld does not die, but De Palma has a huge sense of justice and retribution. He could not have Carlito killed off and have Kleinfeld live.\r\nAt one point, The Long Good Friday director, John Mackenzie, was linked with the film. When Carlito's Way and its sequel After Hours were optioned, Martin Bregman had Abel Ferrara in mind. However, when Bregman and Ferrara parted ways, De Palma was brought in. Bregman explained that this decision was not about \"getting the old team back together\", rather than making use of the best talent available. De Palma, reluctantly, read the script and as soon as Spanish-speaking characters cropped up he feared it would be Scarface all over again. He said that he did not want to make another Spanish-speaking gangster movie. When De Palma finally did read it all the way through, he realized it was not what he thought it was. De Palma liked the script and envisioned it as a noir movie. Bregman supervised casting throughout the various stages of pre-production, and carefully selected the creative team who would make the film a reality. This included production designer Richard Sylbert, editor Bill Pankow, costume designer Aude Bronson-Howard and director of photography Stephen Burum.\r\nInitially, filming began on March 22, 1993, though the first scheduled shoot, the Grand Central Station climax, had to be changed when Pacino showed up on crutches. Instead, the tension-building pool hall sequence, where Carlito accompanies his young cousin Guajiro on an ill-fated drug deal, started the production. Because the film was heavily character based and featured little action, the early pool sequence had to be elaborate and set up right. A huge amount of time was spent setting it up and filming it. After the film studio had viewed a cut of the pool hall sequence, a note was passed onto the crew stating that they felt the scene was too long. De Palma spent more time adding to the sequence and with the help of editor Bill Pankow made it work. The producers came back saying \"much better shorter.\"\r\nApart from the poster sequence, which was shot in Florida, the entire movie was filmed on location in New York. De Palma roamed Manhattan searching for suitable visual locations. A tenement on 115th Street became the site of Carlito's homecoming: the barrio scene. The courtroom, in which Carlito thanks the prosecutor, was shot in Judge Torres's workplace, the State Supreme Court Building at 60 Centre Street. The Club Paradise was initially in a West Side brownstone as the model for the book's postprandial premises. But this was considered too cramped for filming. A multi-level bistro club designed by De Palma took shape at the Kaufman-Astoria Studios in Long Island City, in a style of 1970's art deco disco.\r\nTony Taglialucci's escape from Rikers Island, a night shoot mid-river, was considered impossible. Instead, the production used a Brooklyn shipyard where Kleinfeld's boat was lowered into an empty \"lock\" into which river water was pumped. Smoke machines and towers of space lights were installed.\r\nFor a climactic finale, De Palma staged a chase from the platform of the Harlem-125th Street (Metro-North) Station to the escalators of Grand Central Terminal. For the shoot, trains were re-routed and timed so that Pacino and his pursuers could dart from car to hurtling car. The length of the escalator scene during the climactic shoot out at Grand Central Station caused a headache for editor Pankow. He had to piece together the sequences so that the audience would be so tied up in the action that they would not be thinking about how long the escalator was running.\r\nReception\r\nCarlito's Way wrapped on July 20, 1993, and was released on 3 November 1993. Critical response to the theatrical release was somewhat lukewarm. The film was criticized for re-treading old ground, mainly De Palma's own Scarface and The Untouchables. Roger Ebert stated in his review that the film is one of De Palma's finest with some of the best set-pieces he has done. Patrick Doyle was praised on his scoring of the film soundtrack, which was described as \"elegiac\" and \"hauntingly beautiful,\" which \"displays Doyle as one of the major talents of modern film scoring.\" Peter Travers (of Rolling Stone) criticised the film for Pacino's \"Rican\" accent slipping into his \"Southern drawl from Scent of a Woman\", \"De Palma's erratic pacing and derivative shootouts\" and \"what might have been if Carlito's Way had forged new ground and not gone down smokin' in the shadow of Scarface.\"\r\nOn the Siskel & Ebert show, Ebert gave the film a thumbs up while Siskel gave it a thumbs down. Owen Gleiberman (from Entertainment Weekly) described the film as \"a competent and solidly unsurprising urban-underworld thriller\" and is \"okay entertainment,\" but went on to say that the plot would have worked better \"as a lean and mean Miami Vice episode.\" The film has an approval rating of 81% on Rotten Tomatoes based on 47 reviews, with a weighted average of 7.01/10. The site's consensus states: \"Carlito's Way reunites De Palma and Pacino for a more wistful take on the crime epic, delivering a stylish thriller with a beating heart beneath its pyrotechnic performances and set pieces.\"\r\nBregman was surprised about some of the negative reviews, but stated that some of the same reviewers have since \"retracted\" their views upon further discussions of the film. A few weeks before the film's premiere, De Palma told the crew not to get their hopes up about the film's reception. He correctly predicted that Pacino, having just won an Oscar, would be criticized; Koepp, having just done Jurassic Park, would \"suck\"; Penn would be \"brilliant\" because he had not done anything for a while; and he himself, having not been forgiven for The Bonfire of the Vanities, would not quite be embraced.\r\nCarlito's Way premiered with an opening weekend box office taking of over $9 million. At the end of its theatrical run, the film had grossed over $36 million in the United States and $63 million worldwide. Sean Penn and Penelope Ann Miller both received Golden Globe nominations for their respective roles as Kleinfeld and Gail. The post cinematic appreciation of the film was later highlighted when the French publication Cahiers du cin\u00e9ma named it as Best film of the 1990s along with The Bridges of Madison County and Goodbye South, Goodbye.\r\nAccolades\r\nMusic\r\nPatrick Doyle composed the original score, while Musical supervisor Jellybean Benitez supplemented the soundtrack with elements of salsa, merengue and other authentic styles.\r\nScore\r\nSoundtrack\r\nReleases\r\nThe film was released on VHS, and on LaserDisc in standard and widescreen versions. It was later released on DVD in 2004, with an Ultimate Edition following in 2005. The Ultimate Edition DVD includes deleted scenes, an interview with De Palma, a making-of documentary, and more. In 2007, an HD DVD version was released, which features the same bonus material as the Ultimate Edition. The film was released on Blu-ray on May 18, 2010.\r\nPrequel\r\nA prequel based on Edwin Torres' first novel was released direct-to-video in 2005, with the title Carlito's Way: Rise to Power. Critically panned, the film nevertheless received Torres's blessing as an accurate adaptation of the first novel.\r\nIn popular culture\r\nSamples from this movie have been used by many bands including Slipknot and Overkill. Carlito's threatening monologue was sampled for the intro in Brooklyn's Finest by Jay-Z featuring The Notorious B.I.G.",
+            "html": "<h2>Carlito's Way</h2><p>Carlito's Way is a 1993 American crime film directed by Brian De Palma, based on the novels Carlito's Way and After Hours by Judge Edwin Torres. The film adaptation was scripted by David Koepp. It stars Al Pacino, Sean Penn, Penelope Ann Miller, Luis Guzman, John Leguizamo, Jorge Porcel, Joseph Siravo and Viggo Mortensen.</p><p>The film stars Pacino as Carlito Brigante, a Puerto Rican criminal who vows to go straight and to retire in paradise. However, his criminal past proves difficult to escape, and he unwittingly ends up being dragged into the same activities that got him imprisoned in the first place. The film is based mainly on After Hours, but used the title of the first novel to avoid it being confused with Martin Scorsese's 1985 film of the same name.</p><p>Carlito's Way received a mixed response from critics, with a similar lukewarm result at the box office, but has subsequently become a cult film. Both Penn and Miller received Golden Globe nominations for their performances. A prequel titled Carlito's Way: Rise to Power, based on the first novel, was released direct-to-video in 2005.</p><br/><h3>Plot</h3><p>In 1975, after having served five years of a 30-year prison sentence, Carlito Brigante is freed on a legal technicality exploited by his close friend and lawyer, Dave Kleinfeld. Carlito vows to be through with his criminal activities but is persuaded to accompany his young cousin Guajiro to a drug deal held at a bar. Guajiro is betrayed and killed by his suppliers and Carlito is forced to shoot his way out. Later, Carlito takes Guajiro's $30,000 from the botched deal and uses it to buy into a nightclub owned by a gambling addict named Saso with the intention of saving $75,000 to retire to the Caribbean.</p><p>As nightclub co-owner, Carlito declines several offers for a business partnership with a hot-headed young gangster from the Bronx named Benny Blanco. Carlito also rekindles his romance with his former girlfriend Gail (who calls him \u201cCharlie\u201d), a ballet dancer who moonlights as a stripper. Kleinfeld develops a love interest with Benny's girlfriend, Steffie, a waitress at the club. Benny's frustration with Carlito's constant rejections boils over and he confronts Carlito one night at his table. Carlito publicly humiliates Benny, who reacts by manhandling Steffie. Fueled by his now-extensive use of alcohol and cocaine, Kleinfeld brazenly pulls out a gun and threatens to kill Benny, but Carlito intervenes. Despite being personally threatened by Benny himself, Carlito lets Benny go unharmed; a decision which alienates Carlito's bodyguard Pachanga.</p><p>Kleinfeld, who stole $1 million in payoff money from his Italian Mafia boss client, Anthony Taglialucci, is coerced into providing his yacht to help Taglialucci break out of the Rikers Island prison barge. Kleinfeld begs for Carlito's assistance in the prison break, and Carlito reluctantly agrees. Under cover of night, Carlito, Kleinfeld, and Taglialucci's son, Frankie, sail to a floating buoy outside of the barge where Taglialucci is waiting. As they pull Taglialucci aboard, Kleinfeld kills him and Frankie and dumps their bodies in the East River. Carlito immediately severs his ties with Kleinfeld and decides to leave town with Gail. The next day, Kleinfeld barely survives a retaliatory assassination attempt at his office.</p><p>Carlito is apprehended by police and taken to the office of District Attorney Norwalk, where he is played a tape of Kleinfeld offering to testify to false criminal allegations against Carlito. Norwalk advises that he is aware that Carlito is an accomplice to the Taglialucci murders in an attempt to leverage him into betraying Kleinfeld, but Carlito refuses. Carlito visits Kleinfeld in the hospital, where Kleinfeld confesses to selling Carlito out. Having noticed a suspicious man dressed in a police uniform waiting in the lobby, Carlito secretly unloads Kleinfeld's revolver and leaves. The man is Taglialucci's other son, Vinnie, seeking vengeance for his brother and father. Vinnie sneaks into Kleinfeld's room and shoots him dead.</p><p>Carlito buys train tickets to Miami for himself and Gail, now pregnant. When he stops by his club to get the stashed money, Carlito is met by a group of East Harlem Italian gangsters led by Vinnie. The Italians plan on killing Carlito, but he manages to slip out through a secret exit. The Italians pursue him throughout the city's subway system and into Grand Central Terminal, where they engage in a gunfight. Carlito kills all of his pursuers except Vinnie, who is shot and killed by police. As Carlito runs to catch the train where Gail and Pachanga are waiting for him, he is ambushed by Benny, who shoots Carlito several times with a silenced gun. Pachanga admits to Carlito that he is now working for Benny, only to be shot dead by Benny as well. Carlito hands a tearful Gail the money and tells her to escape with their unborn child and start a new life. Carlito is wheeled away on a gurney to be taken to hospital. As he dies, Carlito stares at a billboard with a Caribbean beach and a picture of a woman. The billboard then comes to life in his mind, and the woman, now Gail, starts dancing.</p><br/><h3>Cast</h3><ul><li>Al Pacino as Carlito Brigante (called \u201cCharlie\u201d by Gail). Pacino came to Carlito's Way directly from his Oscar-winning role in Scent of a Woman. To get into the character, he accompanied Torres through East Harlem. There he could absorb the sights and atmosphere. Pacino first envisioned Carlito with a ponytail. But after his visits to Harlem he quickly realized such a hairstyle was uncommon among the local men. The beard was Pacino's idea. The black leather coat just fit into the period setting.</li><li>Sean Penn as David Kleinfeld. For the pivotal role of Carlito's sleazy lawyer and best friend, Penn was lured back from early retirement by the challenge of playing the corrupt lawyer. Taking the role meant that he could finance his movie The Crossing Guard and work with Pacino. De Palma and Penn sat down and discussed what '70s mob lawyers looked like. Often, men in the entertainment business can look more bizarre than the talent they represent. Penn shaved the hair on the front of his forehead to give the appearance of a receding hairline. He permed the rest. Alan Dershowitz, believing that Penn was attempting to look like him, threatened the filmmakers with a defamation lawsuit.</li><li>Penelope Ann Miller as Gail. At the time, Miller was 29 years old to Pacino's 53. Casting for Gail proved difficult because of the character's striptease scenes. The character needed someone who was both a talented dancer and actor.</li><li>John Leguizamo as Benny Blanco. Leguizamo completed the main cast as \"Benny Blanco from the Bronx\", an up-and-coming gangster who is determined to exceed Carlito's reputation but lacks any sense of ethics.</li><li>Luis Guzm\u00e1n as Pachanga. In Koepp's first draft of the screenplay, Pachanga spoke in a very heavy slang style. Following rumbles from the Latino cast and crew, Koepp toned this down.</li><li>Jorge Porcel as Saso</li><li>Ingrid Rogers as Steffie</li><li>James Rebhorn as District Attorney Norwalk</li><li>Joseph Siravo as Vincent Taglialucci</li><li>Frank Minucci as Anthony Taglialucci</li><li>Adrian Pasdar as Frank Taglialucci</li><li>Viggo Mortensen as Lalin</li><li>John Augstin Ortiz as Guajiro</li><li>Jaime S\u00e1nchez as Rudy</li></ul><br/><h3>Production</h3><p>Pacino first heard about Carlito Brigante in a YMCA gym in New York City in 1973. Pacino was working out for his movie Serpico when he met New York state supreme court Judge Edwin Torres (the author who was writing the novels Carlito's Way and After Hours). When the novels were completed Al read them and liked them, especially the character of Carlito. Inspiration for the novels came from Torres' background, things that were most familiar to him: the East Harlem barrio where he was born and raised in an atmosphere of racial gangs, drugs and poverty. In 1989, Pacino faced a $6 million lawsuit from producer Elliott Kastner. Kastner claimed Pacino had gone back on an agreement to star in his version of a Carlito movie with Marlon Brando as criminal lawyer David Kleinfeld. The suit was dropped and the project was abandoned.</p><p>Pacino went to producer Martin Bregman with the intention of getting a Carlito film made. First thing on the list was to get a script written that would portray Carlito Brigante's world and provide a suitable showcase for Pacino's talents. David Koepp had just finished writing the script for Bregman's forthcoming The Shadow when producer Michael S. Bregman suggested him to write the script for Carlito's Way. The decision came that the screenplay would be based on the second novel After Hours. Carlito at this stage would match closer with Pacino's age. Although based primarily on the second novel, the title Carlito's Way remained, mainly because of the existence of Martin Scorsese's movie After Hours. Bregman would work closely with Koepp for two years to develop the shooting script for Carlito's Way.</p><p>Koepp wrestled with the voice-over throughout the writing process. Initially the voice-over was to take place in the hospital, but De Palma suggested the train station platform. The hospital scenes were written 25 to 30 times because the actors had trouble with the sequence, with Pacino even thinking that Carlito would not go to the hospital. With one final re-write Koepp managed to make the scene work to Pacino's satisfaction. In the novels Kleinfeld does not die, but De Palma has a huge sense of justice and retribution. He could not have Carlito killed off and have Kleinfeld live.</p><p>At one point, The Long Good Friday director, John Mackenzie, was linked with the film. When Carlito's Way and its sequel After Hours were optioned, Martin Bregman had Abel Ferrara in mind. However, when Bregman and Ferrara parted ways, De Palma was brought in. Bregman explained that this decision was not about \"getting the old team back together\", rather than making use of the best talent available. De Palma, reluctantly, read the script and as soon as Spanish-speaking characters cropped up he feared it would be Scarface all over again. He said that he did not want to make another Spanish-speaking gangster movie. When De Palma finally did read it all the way through, he realized it was not what he thought it was. De Palma liked the script and envisioned it as a noir movie. Bregman supervised casting throughout the various stages of pre-production, and carefully selected the creative team who would make the film a reality. This included production designer Richard Sylbert, editor Bill Pankow, costume designer Aude Bronson-Howard and director of photography Stephen Burum.</p><p>Initially, filming began on March 22, 1993, though the first scheduled shoot, the Grand Central Station climax, had to be changed when Pacino showed up on crutches. Instead, the tension-building pool hall sequence, where Carlito accompanies his young cousin Guajiro on an ill-fated drug deal, started the production. Because the film was heavily character based and featured little action, the early pool sequence had to be elaborate and set up right. A huge amount of time was spent setting it up and filming it. After the film studio had viewed a cut of the pool hall sequence, a note was passed onto the crew stating that they felt the scene was too long. De Palma spent more time adding to the sequence and with the help of editor Bill Pankow made it work. The producers came back saying \"much better shorter.\"</p><p>Apart from the poster sequence, which was shot in Florida, the entire movie was filmed on location in New York. De Palma roamed Manhattan searching for suitable visual locations. A tenement on 115th Street became the site of Carlito's homecoming: the barrio scene. The courtroom, in which Carlito thanks the prosecutor, was shot in Judge Torres's workplace, the State Supreme Court Building at 60 Centre Street. The Club Paradise was initially in a West Side brownstone as the model for the book's postprandial premises. But this was considered too cramped for filming. A multi-level bistro club designed by De Palma took shape at the Kaufman-Astoria Studios in Long Island City, in a style of 1970's art deco disco.</p><p>Tony Taglialucci's escape from Rikers Island, a night shoot mid-river, was considered impossible. Instead, the production used a Brooklyn shipyard where Kleinfeld's boat was lowered into an empty \"lock\" into which river water was pumped. Smoke machines and towers of space lights were installed.</p><p>For a climactic finale, De Palma staged a chase from the platform of the Harlem-125th Street (Metro-North) Station to the escalators of Grand Central Terminal. For the shoot, trains were re-routed and timed so that Pacino and his pursuers could dart from car to hurtling car. The length of the escalator scene during the climactic shoot out at Grand Central Station caused a headache for editor Pankow. He had to piece together the sequences so that the audience would be so tied up in the action that they would not be thinking about how long the escalator was running.</p><br/><h3>Reception</h3><p>Carlito's Way wrapped on July 20, 1993, and was released on 3 November 1993. Critical response to the theatrical release was somewhat lukewarm. The film was criticized for re-treading old ground, mainly De Palma's own Scarface and The Untouchables. Roger Ebert stated in his review that the film is one of De Palma's finest with some of the best set-pieces he has done. Patrick Doyle was praised on his scoring of the film soundtrack, which was described as \"elegiac\" and \"hauntingly beautiful,\" which \"displays Doyle as one of the major talents of modern film scoring.\" Peter Travers (of Rolling Stone) criticised the film for Pacino's \"Rican\" accent slipping into his \"Southern drawl from Scent of a Woman\", \"De Palma's erratic pacing and derivative shootouts\" and \"what might have been if Carlito's Way had forged new ground and not gone down smokin' in the shadow of Scarface.\"</p><p>On the Siskel & Ebert show, Ebert gave the film a thumbs up while Siskel gave it a thumbs down. Owen Gleiberman (from Entertainment Weekly) described the film as \"a competent and solidly unsurprising urban-underworld thriller\" and is \"okay entertainment,\" but went on to say that the plot would have worked better \"as a lean and mean Miami Vice episode.\" The film has an approval rating of 81% on Rotten Tomatoes based on 47 reviews, with a weighted average of 7.01/10. The site's consensus states: \"Carlito's Way reunites De Palma and Pacino for a more wistful take on the crime epic, delivering a stylish thriller with a beating heart beneath its pyrotechnic performances and set pieces.\"</p><p>Bregman was surprised about some of the negative reviews, but stated that some of the same reviewers have since \"retracted\" their views upon further discussions of the film. A few weeks before the film's premiere, De Palma told the crew not to get their hopes up about the film's reception. He correctly predicted that Pacino, having just won an Oscar, would be criticized; Koepp, having just done Jurassic Park, would \"suck\"; Penn would be \"brilliant\" because he had not done anything for a while; and he himself, having not been forgiven for The Bonfire of the Vanities, would not quite be embraced.</p><p>Carlito's Way premiered with an opening weekend box office taking of over $9 million. At the end of its theatrical run, the film had grossed over $36 million in the United States and $63 million worldwide. Sean Penn and Penelope Ann Miller both received Golden Globe nominations for their respective roles as Kleinfeld and Gail. The post cinematic appreciation of the film was later highlighted when the French publication Cahiers du cin\u00e9ma named it as Best film of the 1990s along with The Bridges of Madison County and Goodbye South, Goodbye.</p><h4>Accolades</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Award</th><th>Category</th><th>Subject</th><th>Result</th></tr><tr><td><span>CFCA Award</span></td><td><span>Best Supporting Actor</span></td><td><span>Sean Penn</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span class=\"mw-redirect\">David di Donatello Awards</span></td><td><span>Best Foreign Actor</span></td><td><span>Al Pacino</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"2\"><span class=\"mw-redirect\">Golden Globe Awards</span></td><td><span>Best Supporting Actor \u2013 Motion Picture</span></td><td>Sean Penn</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Supporting Actress \u2013 Motion Picture</span></td><td><span>Penelope Ann Miller</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Nastro d'Argento</span></td><td>Best Male Dubbing</td><td><span>Giancarlo Giannini</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr></tbody></table><br/><h3>Music</h3><p>Patrick Doyle composed the original score, while Musical supervisor Jellybean Benitez supplemented the soundtrack with elements of salsa, merengue and other authentic styles.</p><h4>Score</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th colspan=\"2\" class=\"summary album\" style=\"text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro\">Carlito's Way: Original Motion Picture Score</th></tr><tr><td colspan=\"2\" style=\"text-align:center\"></td></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\"><span>Film score</span> by <div class=\"contributor\" style=\"display:inline\">Patrick Doyle</div></th></tr><tr><th scope=\"row\">Released</th><td class=\"published\">1993</td></tr><tr><th scope=\"row\"><span>Genre</span></th><td class=\"category hlist\"><span>Soundtrack</span></td></tr><tr><th scope=\"row\"><span>Label</span></th><td class=\"hlist\">Varese Sarabande</td></tr></tbody></table><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th class=\"tlheader\" scope=\"col\" style=\"width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee\"><abbr title=\"Number\">No.</abbr></th><th class=\"tlheader\" scope=\"col\" style=\"width:100%;text-align:left;background-color:#eee\">Title</th><th class=\"tlheader\" scope=\"col\" style=\"width:4em;padding-right:10px;text-align:right;background-color:#eee\">Length</th></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1.</td><td style=\"vertical-align:top\">\"Carlito's Way\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">05:17</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2.</td><td style=\"vertical-align:top\">\"Carlito And Gail\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">04:05</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3.</td><td style=\"vertical-align:top\">\"The Cafe\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">01:59</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4.</td><td style=\"vertical-align:top\">\"Laline\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">02:36</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5.</td><td style=\"vertical-align:top\">\"You're Over, Man\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">02:09</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6.</td><td style=\"vertical-align:top\">\"Where's My Cheesecake?\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">02:12</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">7.</td><td style=\"vertical-align:top\">\"The Buoy\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">04:04</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">8.</td><td style=\"vertical-align:top\">\"The Elevator\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">01:45</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">9.</td><td style=\"vertical-align:top\">\"There's An Angle Here\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">02:18</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">10.</td><td style=\"vertical-align:top\">\"Grand Central\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">10:08</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">11.</td><td style=\"vertical-align:top\">\"Remember Me\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">04:52</td></tr></tbody></table><h4>Soundtrack</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th colspan=\"2\" class=\"summary album\" style=\"text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro\">Carlito's Way: Music From The Motion Picture</th></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\"><span>Soundtrack album</span> by <div class=\"contributor\" style=\"display:inline\">Various Artists</div></th></tr><tr><th scope=\"row\">Released</th><td class=\"published\">November 9, 1993</td></tr><tr><th scope=\"row\"><span>Genre</span></th><td class=\"category hlist\"><span>Soundtrack</span></td></tr><tr><th scope=\"row\"><span>Label</span></th><td class=\"hlist\">Sony</td></tr></tbody></table><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th class=\"tlheader\" scope=\"col\" style=\"width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee\"><abbr title=\"Number\">No.</abbr></th><th class=\"tlheader\" scope=\"col\" style=\"width:60%;text-align:left;background-color:#eee\">Title</th><th class=\"tlheader\" scope=\"col\" style=\"width:40%;text-align:left;background-color:#eee\">Artist</th><th class=\"tlheader\" scope=\"col\" style=\"width:4em;padding-right:10px;text-align:right;background-color:#eee\">Length</th></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1.</td><td style=\"vertical-align:top\">\"<span>I Love Music</span>\"</td><td style=\"vertical-align:top\"><span>Rozalla</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2.</td><td style=\"vertical-align:top\">\"<span>Rock the Boat</span>\"</td><td style=\"vertical-align:top\"><span>The Hues Corporation</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3.</td><td style=\"vertical-align:top\">\"<span>That's the Way (I Like It)</span>\"</td><td style=\"vertical-align:top\"><span>KC and the Sunshine Band</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4.</td><td style=\"vertical-align:top\">\"<span>Rock Your Baby</span>\"</td><td style=\"vertical-align:top\">Ed Terry</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5.</td><td style=\"vertical-align:top\">\"Parece Mentira\"</td><td style=\"vertical-align:top\"><span>Marc Anthony</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6.</td><td style=\"vertical-align:top\">\"<span>Back Stabbers</span>\"</td><td style=\"vertical-align:top\"><span>The O'Jays</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">7.</td><td style=\"vertical-align:top\">\"<span>TSOP (The Sound of Philadelphia)</span>\"</td><td style=\"vertical-align:top\"><span>MFSB</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">8.</td><td style=\"vertical-align:top\">\"<span class=\"mw-redirect\">Got to be Real</span>\"</td><td style=\"vertical-align:top\"><span>Cheryl Lynn</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">9.</td><td style=\"vertical-align:top\">\"<span>Lady Marmalade</span>\"</td><td style=\"vertical-align:top\"><span>Labelle</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">10.</td><td style=\"vertical-align:top\">\"<span>Pillow Talk</span>\"</td><td style=\"vertical-align:top\">Sinoa</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">11.</td><td style=\"vertical-align:top\">\"El Watusi\"</td><td style=\"vertical-align:top\"><span>Ray Barretto</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">12.</td><td style=\"vertical-align:top\">\"<span>Oye Como Va</span>\"</td><td style=\"vertical-align:top\"><span>Santana</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">13.</td><td style=\"vertical-align:top\">\"<span>You Are So Beautiful</span>\"</td><td style=\"vertical-align:top\"><span>Billy Preston</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">&nbsp;</td></tr></tbody></table><br/><h3>Releases</h3><p>The film was released on VHS, and on LaserDisc in standard and widescreen versions. It was later released on DVD in 2004, with an Ultimate Edition following in 2005. The Ultimate Edition DVD includes deleted scenes, an interview with De Palma, a making-of documentary, and more. In 2007, an HD DVD version was released, which features the same bonus material as the Ultimate Edition. The film was released on Blu-ray on May 18, 2010.</p><br/><h3>Prequel</h3><p>A prequel based on Edwin Torres' first novel was released direct-to-video in 2005, with the title Carlito's Way: Rise to Power. Critically panned, the film nevertheless received Torres's blessing as an accurate adaptation of the first novel.</p><br/><h3>In popular culture</h3><p>Samples from this movie have been used by many bands including Slipknot and Overkill. Carlito's threatening monologue was sampled for the intro in Brooklyn's Finest by Jay-Z featuring The Notorious B.I.G.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0106519",
+        "title": "Carlito's Way",
+        "fullTitle": "Carlito's Way (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "posters": [
+            {
+                "id": "hkQajMiBArTH6JwEgjfsrl746qn.jpg",
+                "link": "https://imdb-api.com/posters/original/hkQajMiBArTH6JwEgjfsrl746qn.jpg",
+                "aspectRatio": 0.6719524281466799,
+                "language": "en",
+                "width": 1356,
+                "height": 2018
+            }
+        ],
+        "backdors": [
+            {
+                "id": "hx17ANqNlmXQA3AqlUb4RnP08Yo.jpg",
+                "link": "https://imdb-api.com/posters/original/hx17ANqNlmXQA3AqlUb4RnP08Yo.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "zWcutIcqIs5qTuGKOAtr9jwzwhB.jpg",
+                "link": "https://imdb-api.com/posters/original/zWcutIcqIs5qTuGKOAtr9jwzwhB.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "vAwzxl6XB69RmDiyzj8GGV6P7B2.jpg",
+                "link": "https://imdb-api.com/posters/original/vAwzxl6XB69RmDiyzj8GGV6P7B2.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "6MTsSmvRlye6cdHHTX8lB0yRqYd.jpg",
+                "link": "https://imdb-api.com/posters/original/6MTsSmvRlye6cdHHTX8lB0yRqYd.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "lDNnNiaLrndquuT6Eiz4BQmkHf.jpg",
+                "link": "https://imdb-api.com/posters/original/lDNnNiaLrndquuT6Eiz4BQmkHf.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "AkqHrUnvJalgzQkOd30IhxjhZki.jpg",
+                "link": "https://imdb-api.com/posters/original/AkqHrUnvJalgzQkOd30IhxjhZki.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8B1LObhqaq44lowDLD8T4ht6DUD.jpg",
+                "link": "https://imdb-api.com/posters/original/8B1LObhqaq44lowDLD8T4ht6DUD.jpg",
+                "aspectRatio": 1.7781774580335732,
+                "language": "en",
+                "width": 1483,
+                "height": 834
+            },
+            {
+                "id": "dqf2uDLUDhqJIaPAZNVoIpTUeq0.jpg",
+                "link": "https://imdb-api.com/posters/original/dqf2uDLUDhqJIaPAZNVoIpTUeq0.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "mZx5ftDKvY6sHdVEZfcezavH5hM.jpg",
+                "link": "https://imdb-api.com/posters/original/mZx5ftDKvY6sHdVEZfcezavH5hM.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "uk2l3lwDK9V6mrYU1sauwcTsXIr.jpg",
+                "link": "https://imdb-api.com/posters/original/uk2l3lwDK9V6mrYU1sauwcTsXIr.jpg",
+                "aspectRatio": 1.7781774580335732,
+                "language": "en",
+                "width": 1483,
+                "height": 834
+            },
+            {
+                "id": "enGGh6qnfPD0J14hI5HCEV50rFT.jpg",
+                "link": "https://imdb-api.com/posters/original/enGGh6qnfPD0J14hI5HCEV50rFT.jpg",
+                "aspectRatio": 1.7781774580335732,
+                "language": "en",
+                "width": 1483,
+                "height": 834
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0106519",
+        "title": "Carlito's Way",
+        "fullTitle": "Carlito's Way (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "items": [
+            {
+                "title": "Martin Bregman in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMzY0Njg1NTgyN15BMl5BanBnXkFtZTcwNDIyNTgwMw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzNjI5OTk3OV5BMl5BanBnXkFtZTcwNDEyNTgwMw@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Penelope Ann Miller in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwOTM0NTMwOF5BMl5BanBnXkFtZTcwMDAyNTgwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Penelope Ann Miller in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgzNDY5NDU0N15BMl5BanBnXkFtZTcwMTcxNTgwMw@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Rogers in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQwMTA2ODEzM15BMl5BanBnXkFtZTcwMjgxNTgwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Leguizamo in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3NjcwMjA0OF5BMl5BanBnXkFtZTcwNzUxNTgwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0NjQwMDY5OV5BMl5BanBnXkFtZTcwMjQxNTgwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and \u00c1ngel Salazar in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5ODAyMTg5OV5BMl5BanBnXkFtZTcwMTMxNTgwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Brian De Palma in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwMDc4NDcwOV5BMl5BanBnXkFtZTcwNzgwNTgwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5OTYyMzk1N15BMl5BanBnXkFtZTcwNTkwNTgwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Brian De Palma in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2ODM5ODg4MV5BMl5BanBnXkFtZTcwMTExNTgwMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MTY2MzE0MV5BMl5BanBnXkFtZTcwOTExNTgwMw@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino, Penelope Ann Miller, and Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BNzk2NDc3NTE3N15BMl5BanBnXkFtZTcwODcwNTgwMw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3ODU4MTY5Ml5BMl5BanBnXkFtZTcwODUwNTgwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino at an event for Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4YjY0NmEtNDEzMS00ZmE4LTgyNWUtMGU5NjFmOWE0Y2RhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI5MTYzMjAzNV5BMl5BanBnXkFtZTcwNDM2MjE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BNjU1OTE5NDIyNl5BMl5BanBnXkFtZTYwMjg1NDg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNTE5NDg4N15BMl5BanBnXkFtZTYwMDExMjE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5ODE1MTI1NF5BMl5BanBnXkFtZTYwODY3NDI5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA3MTU5MzE1MDheQTJeQWpwZ15BbWU2MDY0NDU0OQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1NzM0MDcxN15BMl5BanBnXkFtZTYwNDI2NjQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIzNzY0NjA1N15BMl5BanBnXkFtZTYwMzgyOTY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BNzM5MTc5MTQ3N15BMl5BanBnXkFtZTcwMTU3NzAzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Penelope Ann Miller in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMzJlNGQ3NzEtYTQwOC00NTczLThjMTMtOGZlZWEzOWI3NjZjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMGEwOTZjM2EtMzMwYy00M2E1LWE0NDktMjRmYjljMGRhNWE5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BODkwMzJhNTItMjQzMC00OWQxLTk2YjAtOGY3ZmEwOWIxYmZkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYTc2OGY4NmYtMzQ4Ny00YWQ0LWJhMTAtYjMxNThlMmJhZTM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYzVmMGU0MWItMDY2YS00YmUyLThmNzEtNTY1OGMzMGEyYTYxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJmZjhmNjgtZGFjNS00N2RjLWI0ZTctM2I3YWZjYTUzZWY4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BODdhOTc5ZDEtM2U1OS00ZGVmLThhNjAtMDc4ZmJjMDMyYjgwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BM2I3MTA5OTktNjgyMy00ODUzLTgwMDgtZjhlZTE1Y2VkZmIzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYTU2OGRhMTYtZGJlOS00YTc4LTk2MjYtNjczZTZmYmQ3MmU4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQyYjU5YTgtMGYxMy00OGEwLTk2YmItOTRlNTYxNWI2MTRlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Penelope Ann Miller in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BNDI0MTkwZTAtYWEyOS00OTc0LWE2YWYtYzQ3NjBkN2I1NTZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMGVmZmNkOTEtMjJlMS00Zjc1LWJlZTgtZDAzOTYwZTk1NjZiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Luis Guzm\u00e1n in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BOWI4MWU1MzItYTczNC00MzhjLThhMjItMTU5NzI2NDZhMjQwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BZWJiYWEyNzgtMzQ0MC00OGUzLTk3OTgtMmZlYmIyNDMwOGI3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and John Leguizamo in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BN2ZmM2RkMTItNTE4Yi00ZmM3LWJhYzEtN2U4ZGE3M2YyZjc3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYmI2Y2VlOWQtOThiOS00N2Q0LWJmODMtZTNlNzE2MzAxZTY5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Sean Penn and Ingrid Rogers in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BOTRjOWE2NzMtZDY0NC00N2VjLTljZDAtN2UwNTZkMTA0YTI5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMDRmZjhhNDgtMDVlMy00ZjU0LWIxNWEtOWQ0YzliZWYwOTMxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMGJhZWY0MTctMGJlMy00YmU0LWJmYjgtZGVlODgwN2E1Y2E0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BOGE5NDFjMGItOWRkYy00ZDIzLTk2Y2ItNDRiYzAzOWE1M2I3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BNjA4NzBlY2MtNTk3Ni00ODE2LTg5YzktZTRhOWM5ZjQ3MWYyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYzllMWUxODYtNmQyZS00YTQwLWEzYzctMTNjMWUwZjkzYjg1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino and Sean Penn in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMmMyOTczMmItOTU3Yy00MjI1LTliMjUtYjA0YjZjY2ZiYmZkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Al Pacino in Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BZjM2MjNjOTUtNThmZi00M2MyLTgxNzMtMGZkOTAwMzg1NDhmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Carlito's Way (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMmM2MjNmOGYtZTk3Yy00ZjBmLTk0ZjgtMTgxZWI0NDUxOTVlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0106519",
+        "title": "Carlito's Way",
+        "fullTitle": "Carlito's Way (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "videoId": "vi431816985",
+        "videoTitle": "Carlito's Way",
+        "videoDescription": "Theatrical Trailer from Universal Pictures",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzEwMjNmZWMtNGE4Zi00MjYyLTk3ZGYtNTBlM2RhYjAzNWVmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 13:02:23",
+        "link": "https://www.imdb.com/video/vi431816985",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi431816985/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$30,000,000 (estimated)",
+        "openingWeekendUSA": "$9,116,675, 14 November 1993",
+        "grossUSA": "$36,948,322",
+        "cumulativeWorldwideGross": "$63,851,527"
+    },
+    "tagline": "In his world, you got to shoot your way out. He wanted out. He'd do anything to get there.",
+    "keywords": "mafia,breasts,female nudity,go go dancer,female frontal nudity",
+    "keywordList": [
+        "mafia",
+        "breasts",
+        "female nudity",
+        "go go dancer",
+        "female frontal nudity"
+    ],
+    "similars": [
+        {
+            "id": "tt0119008",
+            "title": "Donnie Brasco",
+            "fullTitle": "Donnie Brasco (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BYzMzMDZkYWEtODIzNS00YjI3LTkxNTktOWEyZGM3ZWI2MWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.",
+            "directors": "Mike Newell",
+            "stars": "Al Pacino, Johnny Depp, Michael Madsen",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0070666",
+            "title": "Serpico",
+            "fullTitle": "Serpico (1973)",
+            "year": "1973",
+            "image": "https://imdb-api.com/images/original/MV5BYTU4ZTI0NzAtYzMwNi00YmMxLThmZWItNTY5NzgyMDAwYWVhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.",
+            "directors": "Sidney Lumet",
+            "stars": "Al Pacino, John Randolph, Jack Kehoe",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0094226",
+            "title": "The Untouchables",
+            "fullTitle": "The Untouchables (1987)",
+            "year": "1987",
+            "image": "https://imdb-api.com/images/original/MV5BYTVjYWJmMWQtYWU4Ni00MWY3LWI2YmMtNTI5MDE0MWVmMmEzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him.",
+            "directors": "Brian De Palma",
+            "stars": "Kevin Costner, Sean Connery, Robert De Niro",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt0072890",
+            "title": "Dog Day Afternoon",
+            "fullTitle": "Dog Day Afternoon (1975)",
+            "year": "1975",
+            "image": "https://imdb-api.com/images/original/MV5BMzljMjBhODItYTYyYi00NzMwLTkyZDQtNjQ4MWU0MzhmNDU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man robs a bank to pay for his lover's operation, which turns into a hostage situation and a media circus.",
+            "directors": "Sidney Lumet",
+            "stars": "Al Pacino, John Cazale, Penelope Allen",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0105323",
+            "title": "Scent of a Woman",
+            "fullTitle": "Scent of a Woman (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BZTM3ZjA3NTctZThkYy00ODYyLTk2ZjItZmE0MmZlMTk3YjQwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A prep school student needing money agrees to \"babysit\" a blind man, but the job is not at all what he anticipated.",
+            "directors": "Martin Brest",
+            "stars": "Al Pacino, Chris O'Donnell, James Rebhorn",
+            "genres": "Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0118971",
+            "title": "The Devil's Advocate",
+            "fullTitle": "The Devil's Advocate (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BM2M2MDJhMDgtMmJkYy00MTgzLTkyZTktODM5NzE1MWUyNDA4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "An exceptionally adept Florida lawyer is offered a job at a high-end New York City law firm with a high-end boss - the biggest opportunity of his career to date.",
+            "directors": "Taylor Hackford",
+            "stars": "Keanu Reeves, Al Pacino, Charlize Theron",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0106489",
+            "title": "A Bronx Tale",
+            "fullTitle": "A Bronx Tale (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BMTczOTczNjE3Ml5BMl5BanBnXkFtZTgwODEzMzg5MTI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.",
+            "directors": "Robert De Niro",
+            "stars": "Robert De Niro, Chazz Palminteri, Lillo Brancato",
+            "genres": "Crime, Drama, Romance",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0140352",
+            "title": "The Insider",
+            "fullTitle": "The Insider (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BODg0YjAzNDQtOGFkMi00Yzk2LTg1NzYtYTNjY2UwZTM2ZDdkL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes expos\u00e9 on Big Tobacco.",
+            "directors": "Michael Mann",
+            "stars": "Russell Crowe, Al Pacino, Christopher Plummer",
+            "genres": "Biography, Drama, Thriller",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0101540",
+            "title": "Cape Fear",
+            "fullTitle": "Cape Fear (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BNjdhNzZlYzYtYTBlNS00NTJiLWI2ZWUtMDI2YzI2MzM5NjY4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A convicted rapist, released from prison after serving a fourteen-year sentence, stalks the family of the lawyer who originally defended him.",
+            "directors": "Martin Scorsese",
+            "stars": "Robert De Niro, Nick Nolte, Jessica Lange",
+            "genres": "Crime, Thriller",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0086250",
+            "title": "Scarface",
+            "fullTitle": "Scarface (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+            "directors": "Brian De Palma",
+            "stars": "Al Pacino, Michelle Pfeiffer, Steven Bauer",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0112641",
+            "title": "Casino",
+            "fullTitle": "Casino (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
+            "directors": "Martin Scorsese",
+            "stars": "Robert De Niro, Sharon Stone, Joe Pesci",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0099674",
+            "title": "The Godfather: Part III",
+            "fullTitle": "The Godfather: Part III (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BNTc1YjhiNzktMjEyNS00YmNhLWExYjItZDhkNWJjZjYxOWZiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing.",
+            "directors": "Francis Ford Coppola",
+            "stars": "Al Pacino, Diane Keaton, Andy Garcia",
+            "genres": "Crime, Drama",
+            "imDbRating": "7.6"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

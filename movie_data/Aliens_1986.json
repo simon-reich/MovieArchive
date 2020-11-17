@@ -1,0 +1,2696 @@
+{
+    "id": "tt0090605",
+    "title": "Aliens",
+    "originalTitle": "",
+    "fullTitle": "Aliens (1986)",
+    "type": "Movie",
+    "year": "1986",
+    "image": "https://imdb-api.com/images/original/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1986-07-18",
+    "runtimeMins": "137",
+    "runtimeStr": "2h 17mins",
+    "plot": "57 years after Ellen Ripley had a close encounter with the reptilian alien creature from the first movie, she is called back, this time, to help a group of highly trained colonial marines fight off against the sinister extraterrestrials. But this time, the aliens have taken over a space colony on the moon LV-426. When the colonial marines are called upon to search the deserted space colony, they later find out that they are up against more than what they bargained for. Using specially modified machine guns and enough firepower, it's either fight or die as the space marines battle against the aliens. As the Marines do their best to defend themselves, Ripley must attempt to protect a young girl who is the sole survivor of the decimated space colony.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #73 | Won 2 Oscars. Another 18 wins & 23 nominations.",
+    "directors": "James Cameron",
+    "directorList": [
+        {
+            "id": "nm0000116",
+            "name": "James Cameron"
+        }
+    ],
+    "writers": "James Cameron, David Giler, Walter Hill, Dan O'Bannon, Ronald Shusett",
+    "writerList": [
+        {
+            "id": "nm0000116",
+            "name": "James Cameron"
+        },
+        {
+            "id": "nm0318429",
+            "name": "David Giler"
+        },
+        {
+            "id": "nm0001353",
+            "name": "Walter Hill"
+        },
+        {
+            "id": "nm0639321",
+            "name": "Dan O'Bannon"
+        },
+        {
+            "id": "nm0795953",
+            "name": "Ronald Shusett"
+        }
+    ],
+    "stars": "Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser",
+    "starList": [
+        {
+            "id": "nm0000244",
+            "name": "Sigourney Weaver"
+        },
+        {
+            "id": "nm0000299",
+            "name": "Michael Biehn"
+        },
+        {
+            "id": "nm0001343",
+            "name": "Carrie Henn"
+        },
+        {
+            "id": "nm0001663",
+            "name": "Paul Reiser"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000244",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sigourney Weaver",
+            "asCharacter": "Ripley"
+        },
+        {
+            "id": "nm0001343",
+            "image": "https://imdb-api.com/images/original/MV5BMTI4OTY5Nzg5NV5BMl5BanBnXkFtZTcwMzM0ODEyMw@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Carrie Henn",
+            "asCharacter": "Newt"
+        },
+        {
+            "id": "nm0000299",
+            "image": "https://imdb-api.com/images/original/MV5BMTM2OTI1MTEyOV5BMl5BanBnXkFtZTcwMzM5NTQ4NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Biehn",
+            "asCharacter": "Corporal Hicks"
+        },
+        {
+            "id": "nm0001663",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1MjUwMjI4M15BMl5BanBnXkFtZTcwNzc0NTg3NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Reiser",
+            "asCharacter": "Burke"
+        },
+        {
+            "id": "nm0000448",
+            "image": "https://imdb-api.com/images/original/MV5BY2ZlZTc5ZWUtZmZiMi00YWNlLTlmNTMtZWI0MGFmMjBmOWVjXkEyXkFqcGdeQXVyMzIzODQxNzk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lance Henriksen",
+            "asCharacter": "Bishop"
+        },
+        {
+            "id": "nm0000200",
+            "image": "https://imdb-api.com/images/original/MV5BNjY2NTQwOTAyNV5BMl5BanBnXkFtZTcwNTUyNjYwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bill Paxton",
+            "asCharacter": "Private Hudson"
+        },
+        {
+            "id": "nm0394054",
+            "image": "https://imdb-api.com/images/original/MV5BMTg1Njc1ODkwOF5BMl5BanBnXkFtZTcwOTkxMzkwNw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "William Hope",
+            "asCharacter": "Lieutenant Gorman"
+        },
+        {
+            "id": "nm0001280",
+            "image": "https://imdb-api.com/images/original/MV5BYjQ3ZDBiZjctNTM3Ni00ZDM1LTk1YmItOGFiODg4ZDhjNmRkXkEyXkFqcGdeQXVyNDA5MzE2MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jenette Goldstein",
+            "asCharacter": "Private Vasquez"
+        },
+        {
+            "id": "nm0559922",
+            "image": "https://imdb-api.com/images/original/MV5BMmJiNmI5OTUtYTZhZC00YzY2LWI3ZjQtZDY1MTNmNzIxOWJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.0455_AL_.jpg",
+            "name": "Al Matthews",
+            "asCharacter": "Sergeant Apone"
+        },
+        {
+            "id": "nm0001679",
+            "image": "https://imdb-api.com/images/original/MV5BMTk2NDc0MTUxNV5BMl5BanBnXkFtZTcwMDUzMjE5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mark Rolston",
+            "asCharacter": "Private Drake"
+        },
+        {
+            "id": "nm0743768",
+            "image": "https://imdb-api.com/images/original/MV5BMjIwMTQzZDgtMDQ1Ny00NTQ5LWJiYzctMDZmMWZhY2U3MzU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ricco Ross",
+            "asCharacter": "Private Frost"
+        },
+        {
+            "id": "nm0384876",
+            "image": "https://imdb-api.com/images/original/MV5BMTExMjE2ODE4MDJeQTJeQWpwZ15BbWU2MDQwNTQ2Nw@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Colette Hiller",
+            "asCharacter": "Corporal Ferro"
+        },
+        {
+            "id": "nm0440511",
+            "image": "https://imdb-api.com/images/original/MV5BMmRhYTg5ZTYtZWExZS00ZThjLWI0ODItZjA4ZjIzZDZjZmJjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Daniel Kash",
+            "asCharacter": "Private Spunkmeyer"
+        },
+        {
+            "id": "nm0778992",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0MjgxODEzNV5BMl5BanBnXkFtZTcwNjUwMzkxOA@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Cynthia Dale Scott",
+            "asCharacter": "Corporal Dietrich (as Cynthia Scott)"
+        },
+        {
+            "id": "nm0864150",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tip Tipping",
+            "asCharacter": "Private Crowe"
+        },
+        {
+            "id": "nm0824365",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Trevor Steedman",
+            "asCharacter": "Private Wierzbowski"
+        },
+        {
+            "id": "nm0561792",
+            "image": "https://imdb-api.com/images/original/MV5BMzBlZGI5YTgtMGJlOS00YmNlLTlhZWYtMWRjMGFhZTQyNzYxL2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Maxwell",
+            "asCharacter": "Van Leuwen"
+        },
+        {
+            "id": "nm0171438",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Valerie Colgan",
+            "asCharacter": "ECA Rep"
+        },
+        {
+            "id": "nm0689797",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alan Polonsky",
+            "asCharacter": "Insurance Man"
+        },
+        {
+            "id": "nm0019544",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alibe Parsons",
+            "asCharacter": "Med Tech"
+        },
+        {
+            "id": "nm0265629",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Blain Fairman",
+            "asCharacter": "Doctor"
+        },
+        {
+            "id": "nm0171292",
+            "image": "https://imdb-api.com/images/original/MV5BMjIzODI5Mzc0NV5BMl5BanBnXkFtZTcwOTY0MTI3NA@@._V1_Ratio1.5455_AL_.jpg",
+            "name": "Barbara Coles",
+            "asCharacter": "Cocooned Woman"
+        },
+        {
+            "id": "nm0867562",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carl Toop",
+            "asCharacter": "Alien Warrior"
+        },
+        {
+            "id": "nm0498727",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Lees",
+            "asCharacter": "Power Loader Operator"
+        },
+        {
+            "id": "nm0035628",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Armstrong",
+            "asCharacter": "Lydecker (uncredited)"
+        },
+        {
+            "id": "nm0070779",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0NzkyMTIyM15BMl5BanBnXkFtZTgwMDk3NDQ5ODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jay Benedict",
+            "asCharacter": "Newt's Father (uncredited)"
+        },
+        {
+            "id": "nm0208999",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Holly De Jong",
+            "asCharacter": "Newt's Mother (uncredited)"
+        },
+        {
+            "id": "nm0326349",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jill Goldston",
+            "asCharacter": "Worker in Corridor (Special Edition) (uncredited)"
+        },
+        {
+            "id": "nm0377158",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christopher Henn",
+            "asCharacter": "Newt's Brother (uncredited)"
+        },
+        {
+            "id": "nm0408876",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elizabeth Inglis",
+            "asCharacter": "Amanda Ripley-Mclaren (uncredited)"
+        },
+        {
+            "id": "nm0567881",
+            "image": "https://imdb-api.com/images/original/MV5BMjVjNDdkYzEtYjA4OC00MmFhLWFhOTEtMzFhNTA1ZTE1NjkyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Mac McDonald",
+            "asCharacter": "Simpson (uncredited)"
+        },
+        {
+            "id": "nm0589645",
+            "image": "https://imdb-api.com/images/original/MV5BMmQzMjM2YWItMDc3Yi00ZGU1LWI2MjYtYzcxMWIxNzNjMzMzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Stuart Milligan",
+            "asCharacter": "Salvage Team Leader (uncredited)"
+        },
+        {
+            "id": "nm0792384",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Sherman",
+            "asCharacter": "Salvage Team Leader (voice) (uncredited)"
+        },
+        {
+            "id": "nm0916051",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chris Webb",
+            "asCharacter": "Alien Warrior (uncredited)"
+        },
+        {
+            "id": "nm0940430",
+            "image": "https://imdb-api.com/images/original/MV5BMTMxNDgyMjk1M15BMl5BanBnXkFtZTcwNDk2MzIyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tom Woodruff Jr.",
+            "asCharacter": "Salvager (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0090605",
+        "title": "Aliens",
+        "fullTitle": "Aliens (1986)",
+        "type": "Movie",
+        "year": "1986",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000116",
+                    "name": "James Cameron",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000116",
+                    "name": "James Cameron",
+                    "description": "(story by) and"
+                },
+                {
+                    "id": "nm0318429",
+                    "name": "David Giler",
+                    "description": "(story by) &"
+                },
+                {
+                    "id": "nm0001353",
+                    "name": "Walter Hill",
+                    "description": "(story by)"
+                },
+                {
+                    "id": "nm0639321",
+                    "name": "Dan O'Bannon",
+                    "description": "(based on characters created by) and"
+                },
+                {
+                    "id": "nm0795953",
+                    "name": "Ronald Shusett",
+                    "description": "(based on characters created by)"
+                },
+                {
+                    "id": "nm0000116",
+                    "name": "James Cameron",
+                    "description": "(screenplay by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000244",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sigourney Weaver",
+                "asCharacter": "Ripley"
+            },
+            {
+                "id": "nm0001343",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4OTY5Nzg5NV5BMl5BanBnXkFtZTcwMzM0ODEyMw@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Carrie Henn",
+                "asCharacter": "Newt"
+            },
+            {
+                "id": "nm0000299",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2OTI1MTEyOV5BMl5BanBnXkFtZTcwMzM5NTQ4NA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Biehn",
+                "asCharacter": "Corporal Hicks"
+            },
+            {
+                "id": "nm0001663",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MjUwMjI4M15BMl5BanBnXkFtZTcwNzc0NTg3NA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Paul Reiser",
+                "asCharacter": "Burke"
+            },
+            {
+                "id": "nm0000448",
+                "image": "https://imdb-api.com/images/original/MV5BY2ZlZTc5ZWUtZmZiMi00YWNlLTlmNTMtZWI0MGFmMjBmOWVjXkEyXkFqcGdeQXVyMzIzODQxNzk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lance Henriksen",
+                "asCharacter": "Bishop"
+            },
+            {
+                "id": "nm0000200",
+                "image": "https://imdb-api.com/images/original/MV5BNjY2NTQwOTAyNV5BMl5BanBnXkFtZTcwNTUyNjYwMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Bill Paxton",
+                "asCharacter": "Private Hudson"
+            },
+            {
+                "id": "nm0394054",
+                "image": "https://imdb-api.com/images/original/MV5BMTg1Njc1ODkwOF5BMl5BanBnXkFtZTcwOTkxMzkwNw@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "William Hope",
+                "asCharacter": "Lieutenant Gorman"
+            },
+            {
+                "id": "nm0001280",
+                "image": "https://imdb-api.com/images/original/MV5BYjQ3ZDBiZjctNTM3Ni00ZDM1LTk1YmItOGFiODg4ZDhjNmRkXkEyXkFqcGdeQXVyNDA5MzE2MDg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jenette Goldstein",
+                "asCharacter": "Private Vasquez"
+            },
+            {
+                "id": "nm0559922",
+                "image": "https://imdb-api.com/images/original/MV5BMmJiNmI5OTUtYTZhZC00YzY2LWI3ZjQtZDY1MTNmNzIxOWJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.0455_AL_.jpg",
+                "name": "Al Matthews",
+                "asCharacter": "Sergeant Apone"
+            },
+            {
+                "id": "nm0001679",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2NDc0MTUxNV5BMl5BanBnXkFtZTcwMDUzMjE5Mg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Mark Rolston",
+                "asCharacter": "Private Drake"
+            },
+            {
+                "id": "nm0743768",
+                "image": "https://imdb-api.com/images/original/MV5BMjIwMTQzZDgtMDQ1Ny00NTQ5LWJiYzctMDZmMWZhY2U3MzU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Ricco Ross",
+                "asCharacter": "Private Frost"
+            },
+            {
+                "id": "nm0384876",
+                "image": "https://imdb-api.com/images/original/MV5BMTExMjE2ODE4MDJeQTJeQWpwZ15BbWU2MDQwNTQ2Nw@@._V1_Ratio1.4545_AL_.jpg",
+                "name": "Colette Hiller",
+                "asCharacter": "Corporal Ferro"
+            },
+            {
+                "id": "nm0440511",
+                "image": "https://imdb-api.com/images/original/MV5BMmRhYTg5ZTYtZWExZS00ZThjLWI0ODItZjA4ZjIzZDZjZmJjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Daniel Kash",
+                "asCharacter": "Private Spunkmeyer"
+            },
+            {
+                "id": "nm0778992",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0MjgxODEzNV5BMl5BanBnXkFtZTcwNjUwMzkxOA@@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Cynthia Dale Scott",
+                "asCharacter": "Corporal Dietrich (as Cynthia Scott)"
+            },
+            {
+                "id": "nm0864150",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tip Tipping",
+                "asCharacter": "Private Crowe"
+            },
+            {
+                "id": "nm0824365",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Trevor Steedman",
+                "asCharacter": "Private Wierzbowski"
+            },
+            {
+                "id": "nm0561792",
+                "image": "https://imdb-api.com/images/original/MV5BMzBlZGI5YTgtMGJlOS00YmNlLTlhZWYtMWRjMGFhZTQyNzYxL2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Paul Maxwell",
+                "asCharacter": "Van Leuwen"
+            },
+            {
+                "id": "nm0171438",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Valerie Colgan",
+                "asCharacter": "ECA Rep"
+            },
+            {
+                "id": "nm0689797",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alan Polonsky",
+                "asCharacter": "Insurance Man"
+            },
+            {
+                "id": "nm0019544",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alibe Parsons",
+                "asCharacter": "Med Tech"
+            },
+            {
+                "id": "nm0265629",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Blain Fairman",
+                "asCharacter": "Doctor"
+            },
+            {
+                "id": "nm0171292",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzODI5Mzc0NV5BMl5BanBnXkFtZTcwOTY0MTI3NA@@._V1_Ratio1.5455_AL_.jpg",
+                "name": "Barbara Coles",
+                "asCharacter": "Cocooned Woman"
+            },
+            {
+                "id": "nm0867562",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Carl Toop",
+                "asCharacter": "Alien Warrior"
+            },
+            {
+                "id": "nm0498727",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John Lees",
+                "asCharacter": "Power Loader Operator"
+            },
+            {
+                "id": "nm0035628",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "William Armstrong",
+                "asCharacter": "Lydecker (uncredited)"
+            },
+            {
+                "id": "nm0070779",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0NzkyMTIyM15BMl5BanBnXkFtZTgwMDk3NDQ5ODE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jay Benedict",
+                "asCharacter": "Newt's Father (uncredited)"
+            },
+            {
+                "id": "nm0208999",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Holly De Jong",
+                "asCharacter": "Newt's Mother (uncredited)"
+            },
+            {
+                "id": "nm0326349",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jill Goldston",
+                "asCharacter": "Worker in Corridor (Special Edition) (uncredited)"
+            },
+            {
+                "id": "nm0377158",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Christopher Henn",
+                "asCharacter": "Newt's Brother (uncredited)"
+            },
+            {
+                "id": "nm0408876",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Elizabeth Inglis",
+                "asCharacter": "Amanda Ripley-Mclaren (uncredited)"
+            },
+            {
+                "id": "nm0567881",
+                "image": "https://imdb-api.com/images/original/MV5BMjVjNDdkYzEtYjA4OC00MmFhLWFhOTEtMzFhNTA1ZTE1NjkyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Mac McDonald",
+                "asCharacter": "Simpson (uncredited)"
+            },
+            {
+                "id": "nm0589645",
+                "image": "https://imdb-api.com/images/original/MV5BMmQzMjM2YWItMDc3Yi00ZGU1LWI2MjYtYzcxMWIxNzNjMzMzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.9545_AL_.jpg",
+                "name": "Stuart Milligan",
+                "asCharacter": "Salvage Team Leader (uncredited)"
+            },
+            {
+                "id": "nm0792384",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bob Sherman",
+                "asCharacter": "Salvage Team Leader (voice) (uncredited)"
+            },
+            {
+                "id": "nm0916051",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Chris Webb",
+                "asCharacter": "Alien Warrior (uncredited)"
+            },
+            {
+                "id": "nm0940430",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNDgyMjk1M15BMl5BanBnXkFtZTcwNDk2MzIyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Tom Woodruff Jr.",
+                "asCharacter": "Salvager (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0140826",
+                        "name": "Gordon Carroll",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0318429",
+                        "name": "David Giler",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0001353",
+                        "name": "Walter Hill",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0005036",
+                        "name": "Gale Anne Hurd",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0000035",
+                        "name": "James Horner",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0000939",
+                        "name": "Adrian Biddle",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0522487",
+                        "name": "Ray Lovejoy",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0483682",
+                        "name": "Peter Lamont",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0010070",
+                        "name": "Terry Ackland-Snow",
+                        "description": "supervising art director (as Terence Ackland-Snow)"
+                    },
+                    {
+                        "id": "nm0183772",
+                        "name": "Ken Court",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0202700",
+                        "name": "Bert Davey",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0390407",
+                        "name": "Fred Hole",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0483675",
+                        "name": "Michael Lamont",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0758605",
+                        "name": "Crispian Sallis",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0692364",
+                        "name": "Emma Porteous",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0101010",
+                        "name": "Elaine Bowerbank",
+                        "description": "chief hair stylist"
+                    },
+                    {
+                        "id": "nm0730228",
+                        "name": "Peter Robb-King",
+                        "description": "makeup supervisor"
+                    },
+                    {
+                        "id": "nm0123060",
+                        "name": "Everett Burrell",
+                        "description": "special makeup effects (uncredited)"
+                    },
+                    {
+                        "id": "nm0307123",
+                        "name": "Tony Gardner",
+                        "description": "Stan Winston's creature effects crew (uncredited)"
+                    },
+                    {
+                        "id": "nm0834090",
+                        "name": "Melissa Street",
+                        "description": "assistant makeup artist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0178855",
+                        "name": "Mo Coppitters",
+                        "description": "unit production manager"
+                    },
+                    {
+                        "id": "nm0363349",
+                        "name": "Hugh Harlow",
+                        "description": "production supervisor"
+                    },
+                    {
+                        "id": "nm0924034",
+                        "name": "Gil Whelan",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0185633",
+                        "name": "Derek Cracknell",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0511245",
+                        "name": "Melvin Lind",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm0935644",
+                        "name": "Stan Winston",
+                        "description": "second unit director"
+                    },
+                    {
+                        "id": "nm0908441",
+                        "name": "Julian Wall",
+                        "description": "second assistant director (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0095632",
+                        "name": "Alan Booth",
+                        "description": "chargehand carpenter"
+                    },
+                    {
+                        "id": "nm0167803",
+                        "name": "Ron Cobb",
+                        "description": "conceptual designer"
+                    },
+                    {
+                        "id": "nm0372479",
+                        "name": "Bert Hearn",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm0574927",
+                        "name": "Syd Mead",
+                        "description": "conceptual artist"
+                    },
+                    {
+                        "id": "nm0658451",
+                        "name": "Sid Palmer",
+                        "description": "production buyer (as Sidney Palmer)"
+                    },
+                    {
+                        "id": "nm0801249",
+                        "name": "Vic Simpson",
+                        "description": "construction manager"
+                    },
+                    {
+                        "id": "nm0091096",
+                        "name": "Janice Body",
+                        "description": "graphics artist (uncredited)"
+                    },
+                    {
+                        "id": "nm0095520",
+                        "name": "Michael Boone",
+                        "description": "draughtsman (uncredited)"
+                    },
+                    {
+                        "id": "nm0160950",
+                        "name": "Mick Chubbock",
+                        "description": "plasterer (uncredited)"
+                    },
+                    {
+                        "id": "nm0307123",
+                        "name": "Tony Gardner",
+                        "description": "artistic supervisor: miniature effects unit (uncredited)"
+                    },
+                    {
+                        "id": "nm0365052",
+                        "name": "Mark Harris",
+                        "description": "technical set dresser (uncredited)"
+                    },
+                    {
+                        "id": "nm0416816",
+                        "name": "Paul James",
+                        "description": "supervising plasterer (uncredited)"
+                    },
+                    {
+                        "id": "nm10417704",
+                        "name": "Robert A. Kennedy",
+                        "description": "property assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0483687",
+                        "name": "Simon Lamont",
+                        "description": "art department assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm2090685",
+                        "name": "Stuart Land",
+                        "description": "sculpture (uncredited)"
+                    },
+                    {
+                        "id": "nm0684827",
+                        "name": "Maciek Piotrowski",
+                        "description": "sketch artist (uncredited)"
+                    },
+                    {
+                        "id": "nm0727306",
+                        "name": "Tony Rimmington",
+                        "description": "draughtsman (uncredited)"
+                    },
+                    {
+                        "id": "nm0006953",
+                        "name": "Colin Thurston",
+                        "description": "prop storeman (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0141821",
+                        "name": "Michael A. Carter",
+                        "description": "dubbing mixer"
+                    },
+                    {
+                        "id": "nm0153335",
+                        "name": "Roy Charman",
+                        "description": "sound recordist"
+                    },
+                    {
+                        "id": "nm0329056",
+                        "name": "Dev Goodman",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0367242",
+                        "name": "Graham V. Hartstone",
+                        "description": "chief dubbing mixer"
+                    },
+                    {
+                        "id": "nm0395364",
+                        "name": "Peter Horrocks",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0460938",
+                        "name": "Jack T. Knight",
+                        "description": "sound editor (as Jack Knight)"
+                    },
+                    {
+                        "id": "nm0494449",
+                        "name": "Nicolas Le Messurier",
+                        "description": "dubbing mixer"
+                    },
+                    {
+                        "id": "nm0524944",
+                        "name": "Archie Ludski",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0657603",
+                        "name": "Alan Paley",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0679760",
+                        "name": "Rocky Phelan",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm0789216",
+                        "name": "Don Sharpe",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0089887",
+                        "name": "Chris Blunden",
+                        "description": "assistant sound editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0112455",
+                        "name": "Scott Brose",
+                        "description": "sound editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0329057",
+                        "name": "Deveril Goodman",
+                        "description": "sound editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0663205",
+                        "name": "William Parnell",
+                        "description": "sound editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0673964",
+                        "name": "Jeffrey Perkins",
+                        "description": "re-recording mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm0811004",
+                        "name": "Otto Snel",
+                        "description": "re-recording mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm0835381",
+                        "name": "Lionel Strutt",
+                        "description": "adr mixer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0047581",
+                        "name": "Norman Baillie",
+                        "description": "workshop supervisor"
+                    },
+                    {
+                        "id": "nm0095775",
+                        "name": "Nigel Booth",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0123707",
+                        "name": "Ron Burton",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0125307",
+                        "name": "Trevor Butterfield",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0129653",
+                        "name": "Julian Caldow",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0142205",
+                        "name": "Ron Cartwright",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0205294",
+                        "name": "Philomena Davis",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0242422",
+                        "name": "Michael Dunleavy",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0276563",
+                        "name": "Greg Figiel",
+                        "description": "creature effects crew (as Gregory Figiel)"
+                    },
+                    {
+                        "id": "nm0278014",
+                        "name": "Nick Finlayson",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0319266",
+                        "name": "Alec Gillis",
+                        "description": "creature effects coordinator"
+                    },
+                    {
+                        "id": "nm0363363",
+                        "name": "Matthew Harlow",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0383571",
+                        "name": "Graham High",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0444577",
+                        "name": "Dave Keen",
+                        "description": "creature effects crew (as David Keen)"
+                    },
+                    {
+                        "id": "nm0484939",
+                        "name": "Richard J. Landon",
+                        "description": "creature effects coordinator (as Richard Landon)"
+                    },
+                    {
+                        "id": "nm0493989",
+                        "name": "Rick Lazzarini",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0522576",
+                        "name": "Ray Lovell",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0532285",
+                        "name": "Lindsay MacGowan",
+                        "description": "creature effects crew (as Lindsay McGowan)"
+                    },
+                    {
+                        "id": "nm0536752",
+                        "name": "Shane Mahan",
+                        "description": "creature effects coordinator"
+                    },
+                    {
+                        "id": "nm0606661",
+                        "name": "John Morris",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0635759",
+                        "name": "Stephen Norrington",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0653789",
+                        "name": "Christine Overs",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0681848",
+                        "name": "Peter Pickering",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0724624",
+                        "name": "John Richardson",
+                        "description": "special effects supervisor"
+                    },
+                    {
+                        "id": "nm0731907",
+                        "name": "John Robertson",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0738541",
+                        "name": "Ian Rolph",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0741569",
+                        "name": "Matt Rose",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0742603",
+                        "name": "John Rosengrant",
+                        "description": "creature effects coordinator"
+                    },
+                    {
+                        "id": "nm0836308",
+                        "name": "Bill Sturgeon",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0926502",
+                        "name": "Willie Whitten",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0926647",
+                        "name": "Paul Whybrow",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0930998",
+                        "name": "Joss Williams",
+                        "description": "senior special effects technician"
+                    },
+                    {
+                        "id": "nm0931248",
+                        "name": "Mark Williams",
+                        "description": "creature effects crew"
+                    },
+                    {
+                        "id": "nm0935644",
+                        "name": "Stan Winston",
+                        "description": "alien effects creator"
+                    },
+                    {
+                        "id": "nm0940430",
+                        "name": "Tom Woodruff Jr.",
+                        "description": "creature effects coordinator"
+                    },
+                    {
+                        "id": "nm0074205",
+                        "name": "Howard Berger",
+                        "description": "sculptor (uncredited)"
+                    },
+                    {
+                        "id": "nm0122414",
+                        "name": "Michael Burnett",
+                        "description": "miniature effects unit (uncredited)"
+                    },
+                    {
+                        "id": "nm0149608",
+                        "name": "Dave Chagouri",
+                        "description": "special effects (uncredited)"
+                    },
+                    {
+                        "id": "nm2602927",
+                        "name": "Aashish Chanana",
+                        "description": "special effects (uncredited)"
+                    },
+                    {
+                        "id": "nm0168363",
+                        "name": "Simon Cockren",
+                        "description": "special effects assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm1062266",
+                        "name": "Edward J. Franklin",
+                        "description": "special effects crew (uncredited)"
+                    },
+                    {
+                        "id": "nm0382088",
+                        "name": "Simon Hewitt",
+                        "description": "video effects technician (uncredited)"
+                    },
+                    {
+                        "id": "nm0007049",
+                        "name": "Garth Inns",
+                        "description": "special effects crew (uncredited)"
+                    },
+                    {
+                        "id": "nm0416946",
+                        "name": "Steven James",
+                        "description": "creature effects crew (uncredited)"
+                    },
+                    {
+                        "id": "nm0453139",
+                        "name": "Crit Killen",
+                        "description": "minatures (uncredited)"
+                    },
+                    {
+                        "id": "nm4552446",
+                        "name": "Ken Morris",
+                        "description": "special effects (uncredited)"
+                    },
+                    {
+                        "id": "nm1643196",
+                        "name": "Tim Turner",
+                        "description": "miniature effects assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0930024",
+                        "name": "Andy Williams",
+                        "description": "special effects technician (uncredited)"
+                    },
+                    {
+                        "id": "nm1180439",
+                        "name": "Steven Woodcock",
+                        "description": "model maker (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm10151090",
+                        "name": "Brendan Guy Joseph Alimo",
+                        "description": "visual effects designer"
+                    },
+                    {
+                        "id": "nm0027193",
+                        "name": "Michael Anderson",
+                        "description": "camera operator: visual effects unit"
+                    },
+                    {
+                        "id": "nm0029635",
+                        "name": "Jonathan Angell",
+                        "description": "senior special effects technician: visual effects unit"
+                    },
+                    {
+                        "id": "nm0079068",
+                        "name": "Doug Beswick",
+                        "description": "mechanical armature design: visual effects unit"
+                    },
+                    {
+                        "id": "nm0113881",
+                        "name": "John Brown",
+                        "description": "senior special effects technician: visual effects unit"
+                    },
+                    {
+                        "id": "nm0213113",
+                        "name": "Leslie Dear",
+                        "description": "camera operator: visual effects unit"
+                    },
+                    {
+                        "id": "nm0227162",
+                        "name": "Aris V. Dimalanta",
+                        "description": "digital restoration artist"
+                    },
+                    {
+                        "id": "nm0295684",
+                        "name": "Paul Frift",
+                        "description": "assistant director: visual effects unit"
+                    },
+                    {
+                        "id": "nm0310523",
+                        "name": "Robert Gavin",
+                        "description": "special effects editor: visual effects unit"
+                    },
+                    {
+                        "id": "nm0382075",
+                        "name": "Richard Hewitt",
+                        "description": "video effects supervisor"
+                    },
+                    {
+                        "id": "nm0424644",
+                        "name": "Brian Johnson",
+                        "description": "visual effects supervisor: post production"
+                    },
+                    {
+                        "id": "nm0461506",
+                        "name": "Christopher Knowles",
+                        "description": "assistant director: visual effects unit (as Chris Knowles)"
+                    },
+                    {
+                        "id": "nm0514330",
+                        "name": "David Litchfield",
+                        "description": "camera operator: visual effects unit"
+                    },
+                    {
+                        "id": "nm0565957",
+                        "name": "Pat McClung",
+                        "description": "miniatures technical supervisor: visual effects unit"
+                    },
+                    {
+                        "id": "nm1820395",
+                        "name": "Sarah McGrail",
+                        "description": "digital restoration artist"
+                    },
+                    {
+                        "id": "nm0590382",
+                        "name": "Digby Milner",
+                        "description": "senior special effects technician: visual effects unit"
+                    },
+                    {
+                        "id": "nm0602086",
+                        "name": "Roy Moores",
+                        "description": "process photographer: visual effects unit"
+                    },
+                    {
+                        "id": "nm1059089",
+                        "name": "Phil Notaro",
+                        "description": "mechanical armature design: visual effects unit"
+                    },
+                    {
+                        "id": "nm0642965",
+                        "name": "Harry Oakes",
+                        "description": "camera operator: visual effects unit"
+                    },
+                    {
+                        "id": "nm0751392",
+                        "name": "Peter Russell",
+                        "description": "art director: visual effects unit"
+                    },
+                    {
+                        "id": "nm2857567",
+                        "name": "Barry Saunders",
+                        "description": "construction manager: visual effects unit"
+                    },
+                    {
+                        "id": "nm0804737",
+                        "name": "Dennis Skotak",
+                        "description": "visual effects supervisor"
+                    },
+                    {
+                        "id": "nm0804738",
+                        "name": "Robert Skotak",
+                        "description": "visual effects supervisor"
+                    },
+                    {
+                        "id": "nm0810466",
+                        "name": "Brian Smithies",
+                        "description": "miniature floor effects supervisor: visual effects unit"
+                    },
+                    {
+                        "id": "nm0819405",
+                        "name": "Sarah Spooner",
+                        "description": "production secretary: visual effects unit"
+                    },
+                    {
+                        "id": "nm0821228",
+                        "name": "Charles Staffell",
+                        "description": "process photographer: visual effects unit"
+                    },
+                    {
+                        "id": "nm0864598",
+                        "name": "Paul Tivers",
+                        "description": "unit production manager: visual effects unit"
+                    },
+                    {
+                        "id": "nm0923978",
+                        "name": "Wally Wheeler",
+                        "description": "gaffer: visual effects unit"
+                    },
+                    {
+                        "id": "nm2042177",
+                        "name": "Tony White",
+                        "description": "titles and video graphics design: visual effects unit"
+                    },
+                    {
+                        "id": "nm0037087",
+                        "name": "Larry Arpin",
+                        "description": "visual effects (uncredited)"
+                    },
+                    {
+                        "id": "nm0003445",
+                        "name": "Steven Begg",
+                        "description": "Visual effects technician (uncredited)"
+                    },
+                    {
+                        "id": "nm0072659",
+                        "name": "Suzanne M. Benson",
+                        "description": "visual effects (uncredited)"
+                    },
+                    {
+                        "id": "nm0091100",
+                        "name": "Martin Body",
+                        "description": "rotoscope artist (uncredited)"
+                    },
+                    {
+                        "id": "nm0128975",
+                        "name": "Zoe Cain",
+                        "description": "visual effects trainee (uncredited)"
+                    },
+                    {
+                        "id": "nm0161343",
+                        "name": "Alan Church",
+                        "description": "optical camera operator (uncredited)"
+                    },
+                    {
+                        "id": "nm0167612",
+                        "name": "Andrew Coates",
+                        "description": "rotoscope artist (uncredited)"
+                    },
+                    {
+                        "id": "nm0251886",
+                        "name": "Andrew Eio",
+                        "description": "motion control programmer (uncredited)"
+                    },
+                    {
+                        "id": "nm0307123",
+                        "name": "Tony Gardner",
+                        "description": "cosmetic supervisor: miniature effects unit (uncredited)"
+                    },
+                    {
+                        "id": "nm1094267",
+                        "name": "John Lee",
+                        "description": "model maker (uncredited)"
+                    },
+                    {
+                        "id": "nm0548716",
+                        "name": "Alan G. Markowitz",
+                        "description": "visual effects supervisor (uncredited)"
+                    },
+                    {
+                        "id": "nm0578350",
+                        "name": "Peter Melrose",
+                        "description": "matte artist (uncredited)"
+                    },
+                    {
+                        "id": "nm0647364",
+                        "name": "Tim Ollive",
+                        "description": "optical compositing (uncredited)"
+                    },
+                    {
+                        "id": "nm0663668",
+                        "name": "Julian Parry",
+                        "description": "effects crew: Los Angeles (uncredited)"
+                    },
+                    {
+                        "id": "nm0744875",
+                        "name": "Jay Roth",
+                        "description": "model maker (uncredited)"
+                    },
+                    {
+                        "id": "nm0746748",
+                        "name": "Tony Rowland",
+                        "description": "camera grip (uncredited)"
+                    },
+                    {
+                        "id": "nm0872130",
+                        "name": "Adrian Trent",
+                        "description": "assistant visual effects editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0874018",
+                        "name": "Peter Truckel",
+                        "description": "motion control camera (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0078306",
+                        "name": "Elanor Bertram",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0186426",
+                        "name": "Simon Crane",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0189085",
+                        "name": "Sue Crosland",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0219778",
+                        "name": "Steve Dent",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0271403",
+                        "name": "Stuart Fell",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0372153",
+                        "name": "Louise Head",
+                        "description": "stunt double #1: Carrie Henn"
+                    },
+                    {
+                        "id": "nm0422498",
+                        "name": "Jazzer Jeyes",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0564506",
+                        "name": "Sean McCabe",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0694101",
+                        "name": "Eddie Powell",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0787449",
+                        "name": "Kiran Shah",
+                        "description": "stunt double #2: Carrie Henn"
+                    },
+                    {
+                        "id": "nm0820787",
+                        "name": "Stuart St. Paul",
+                        "description": "stunts: Queen Alien - right-hand side"
+                    },
+                    {
+                        "id": "nm0915912",
+                        "name": "Malcolm Weaver",
+                        "description": "stunts: Queen Alien - left-hand side"
+                    },
+                    {
+                        "id": "nm0916051",
+                        "name": "Chris Webb",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0922916",
+                        "name": "Bill Weston",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0923001",
+                        "name": "Paul Weston",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0924939",
+                        "name": "Jason White",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0193297",
+                        "name": "Clive Curtis",
+                        "description": "stunt double: Frost (uncredited)"
+                    },
+                    {
+                        "id": "nm0004081",
+                        "name": "Tom Delmar",
+                        "description": "stunts (uncredited)"
+                    },
+                    {
+                        "id": "nm0004233",
+                        "name": "Nick Gillard",
+                        "description": "stunts (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0401760",
+                        "name": "Martin Hume",
+                        "description": "camera focus"
+                    },
+                    {
+                        "id": "nm0449027",
+                        "name": "Martin Kenzie",
+                        "description": "camera focus"
+                    },
+                    {
+                        "id": "nm0640677",
+                        "name": "Shaun O'Dell",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm0671962",
+                        "name": "Bob Penn",
+                        "description": "still photographer (as Robert Penn)"
+                    },
+                    {
+                        "id": "nm0857668",
+                        "name": "Jack Thetford",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0941499",
+                        "name": "David Worley",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm2498927",
+                        "name": "Kevin Brookner",
+                        "description": "video operator (uncredited)"
+                    },
+                    {
+                        "id": "nm0146670",
+                        "name": "Pete Cavaciuti",
+                        "description": "steadicam operator (uncredited)"
+                    },
+                    {
+                        "id": "nm0004040",
+                        "name": "Michael Condro",
+                        "description": "first assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm0352917",
+                        "name": "Stewart Hadley",
+                        "description": "generator operator (uncredited)"
+                    },
+                    {
+                        "id": "nm10217139",
+                        "name": "Mark Ingleton",
+                        "description": "electrician (uncredited)"
+                    },
+                    {
+                        "id": "nm0448941",
+                        "name": "Paul Kenward",
+                        "description": "focus puller (uncredited)"
+                    },
+                    {
+                        "id": "nm0465285",
+                        "name": "Rolf Konow",
+                        "description": "specials photographer (uncredited)"
+                    },
+                    {
+                        "id": "nm0567554",
+                        "name": "Michael McDermott",
+                        "description": "gaffer: second unit (uncredited)"
+                    },
+                    {
+                        "id": "nm1256225",
+                        "name": "Pat Miller",
+                        "description": "electrician (uncredited)"
+                    },
+                    {
+                        "id": "nm5838799",
+                        "name": "Sharon Parker-Frazier",
+                        "description": "camera operator (uncredited)"
+                    },
+                    {
+                        "id": "nm0676104",
+                        "name": "Jan Pester",
+                        "description": "Steadicam operator (uncredited)"
+                    },
+                    {
+                        "id": "nm0780518",
+                        "name": "Nigel Seal",
+                        "description": "assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm0912770",
+                        "name": "Chris Warren",
+                        "description": "video assist operator (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0270670",
+                        "name": "Jane Feinberg",
+                        "description": "casting: USA"
+                    },
+                    {
+                        "id": "nm0272067",
+                        "name": "Mike Fenton",
+                        "description": "casting: USA"
+                    },
+                    {
+                        "id": "nm0783620",
+                        "name": "Mary Selway",
+                        "description": "casting: UK"
+                    },
+                    {
+                        "id": "nm0852677",
+                        "name": "Judy Taylor",
+                        "description": "casting: USA"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0629471",
+                        "name": "Tiny Nicholls",
+                        "description": "costume supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0092422",
+                        "name": "Peter Boita",
+                        "description": "associate editor"
+                    },
+                    {
+                        "id": "nm0365335",
+                        "name": "Simon Harris",
+                        "description": "second assistant editor"
+                    },
+                    {
+                        "id": "nm0761822",
+                        "name": "Phil Sanderson",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0357424",
+                        "name": "Robert Hambling",
+                        "description": "assistant editor (uncredited)"
+                    },
+                    {
+                        "id": "nm1776409",
+                        "name": "Brian Q. Kelley",
+                        "description": "editor: additional material for special edition (uncredited)"
+                    },
+                    {
+                        "id": "nm0536635",
+                        "name": "Steve Maguire",
+                        "description": "assistant editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0663205",
+                        "name": "William Parnell",
+                        "description": "first assistant editor (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0731214",
+                        "name": "Jay Roberts",
+                        "description": "location auditor"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm1060023",
+                        "name": "Robin Clarke",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0166665",
+                        "name": "Michael Clifford",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0289696",
+                        "name": "Randall Frakes",
+                        "description": "synthesizer effects"
+                    },
+                    {
+                        "id": "nm0308191",
+                        "name": "Robert Garrett",
+                        "description": "synthesizer effects (as Robert Garret)"
+                    },
+                    {
+                        "id": "nm0402137",
+                        "name": "Craig Huxley",
+                        "description": "Enterprise Synclavier Sound Package, Blaster Beam, Piano"
+                    },
+                    {
+                        "id": "nm0574507",
+                        "name": "Greig McRitchie",
+                        "description": "orchestrator (as Greg McRitchie)"
+                    },
+                    {
+                        "id": "nm0866839",
+                        "name": "Eric Tomlinson",
+                        "description": "music recording engineer"
+                    },
+                    {
+                        "id": "nm0881005",
+                        "name": "Ian Underwood",
+                        "description": "synthesizer effects"
+                    },
+                    {
+                        "id": "nm0247867",
+                        "name": "Nigel Eaton",
+                        "description": "musician (uncredited)"
+                    },
+                    {
+                        "id": "nm0000035",
+                        "name": "James Horner",
+                        "description": "conductor (uncredited) / music producer (uncredited)"
+                    },
+                    {
+                        "id": "nm1499772",
+                        "name": "London Symphony Orchestra",
+                        "description": "music performed by (uncredited)"
+                    },
+                    {
+                        "id": "nm0811004",
+                        "name": "Otto Snel",
+                        "description": "music pre-dub mixer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0226785",
+                        "name": "Diana Dill",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0032153",
+                        "name": "Polly Apostolof",
+                        "description": "assistant to producer"
+                    },
+                    {
+                        "id": "nm0071826",
+                        "name": "Jill Bennett",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm0293398",
+                        "name": "Geoff Freeman",
+                        "description": "unit publicist"
+                    },
+                    {
+                        "id": "nm0317592",
+                        "name": "H.R. Giger",
+                        "description": "original alien designer"
+                    },
+                    {
+                        "id": "nm0875968",
+                        "name": "Paul Tucker",
+                        "description": "production controller"
+                    },
+                    {
+                        "id": "nm0877670",
+                        "name": "Joyce Turner",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm0040469",
+                        "name": "Simon Atherton",
+                        "description": "armorer (uncredited)"
+                    },
+                    {
+                        "id": "nm0000116",
+                        "name": "James Cameron",
+                        "description": "queen alien designer (uncredited)"
+                    },
+                    {
+                        "id": "nm0257679",
+                        "name": "Terry English",
+                        "description": "armor designer (uncredited)"
+                    },
+                    {
+                        "id": "nm0281944",
+                        "name": "Andrew Fletcher",
+                        "description": "armorer (uncredited)"
+                    },
+                    {
+                        "id": "nm0365634",
+                        "name": "J. Randolph Harrison",
+                        "description": "production assistant (uncredited)"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Action, Adventure, Sci-Fi, Thriller",
+    "genreList": [
+        {
+            "key": "Action",
+            "value": "Action"
+        },
+        {
+            "key": "Adventure",
+            "value": "Adventure"
+        },
+        {
+            "key": "Sci-Fi",
+            "value": "Sci-Fi"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Twentieth Century Fox, Brandywine Productions, SLM Production Group",
+    "companyList": [
+        {
+            "id": "co0000756",
+            "name": "Twentieth Century Fox"
+        },
+        {
+            "id": "co0132161",
+            "name": "Brandywine Productions"
+        },
+        {
+            "id": "co0142386",
+            "name": "SLM Production Group"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "8.3",
+    "imDbRatingVotes": "627413",
+    "metacriticRating": "84",
+    "ratings": {
+        "imDbId": "tt0090605",
+        "title": "Aliens",
+        "fullTitle": "Aliens (1986)",
+        "type": "Movie",
+        "year": "1986",
+        "imDb": "8.3",
+        "metacritic": "84",
+        "theMovieDb": "7.9",
+        "rottenTomatoes": "97",
+        "tV_com": "8.7",
+        "filmAffinity": "7.4",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0090605",
+        "title": "Aliens",
+        "fullTitle": "Aliens (1986)",
+        "type": "Movie",
+        "year": "1986",
+        "language": "en",
+        "titleInLanguage": "Aliens (film)",
+        "url": "https://en.wikipedia.org/wiki/Aliens_(film)",
+        "plotShort": {
+            "plainText": "Aliens (film)\r\nAliens is a 1986 American science fiction action film written and directed by James Cameron, produced by Gale Anne Hurd and starring Sigourney Weaver. It is the second installment of the Alien franchise. The film follows Weaver's character Ellen Ripley as she returns to the moon where her crew encountered the hostile Alien creature, this time accompanied by a unit of space marines. Additional roles are played by Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Jenette Goldstein, William Hope, Al Matthews, and Bill Paxton.\r\nGordon Carroll, David Giler, and Walter Hill of Brandywine Productions, who produced the first film and its later sequels, served as executive producers on Aliens. They were interested in a follow-up to Alien as soon as its 1979 release, but the new management at 20th Century Fox postponed those plans until 1983. Brandywine picked Cameron to write after reading his script for The Terminator; when that film became a hit in 1984, Fox greenlit Aliens with Cameron as director and a budget of approximately $18 million. It was filmed in England at Pinewood Studios and at a decommissioned power plant in Acton, London.\r\nAliens was released on July 18, 1986, and grossed $180 million worldwide. It was nominated for seven Academy Awards, including a Best Actress nomination for Sigourney Weaver, winning both Sound Effects Editing and Visual Effects. It won eight Saturn Awards (Best Science Fiction Film, Best Actress for Weaver, Best Supporting Actor for Paxton, Best Supporting Actress for Goldstein, and Best Direction and Best Writing for Cameron), and a Hugo Award for Best Dramatic Presentation. Empire magazine voted it the \"Greatest Film Sequel of All Time\". Aliens was the seventh-highest-grossing film of 1986 in North America.\r\nA sequel, Alien 3, was released in 1992, with Weaver reprising her role as Ripley and Henriksen as Bishop in the film.",
+            "html": "<h2>Aliens (film)</h2><p>Aliens is a 1986 American science fiction action film written and directed by James Cameron, produced by Gale Anne Hurd and starring Sigourney Weaver. It is the second installment of the Alien franchise. The film follows Weaver's character Ellen Ripley as she returns to the moon where her crew encountered the hostile Alien creature, this time accompanied by a unit of space marines. Additional roles are played by Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Jenette Goldstein, William Hope, Al Matthews, and Bill Paxton.</p><p>Gordon Carroll, David Giler, and Walter Hill of Brandywine Productions, who produced the first film and its later sequels, served as executive producers on Aliens. They were interested in a follow-up to Alien as soon as its 1979 release, but the new management at 20th Century Fox postponed those plans until 1983. Brandywine picked Cameron to write after reading his script for The Terminator; when that film became a hit in 1984, Fox greenlit Aliens with Cameron as director and a budget of approximately $18 million. It was filmed in England at Pinewood Studios and at a decommissioned power plant in Acton, London.</p><p>Aliens was released on July 18, 1986, and grossed $180 million worldwide. It was nominated for seven Academy Awards, including a Best Actress nomination for Sigourney Weaver, winning both Sound Effects Editing and Visual Effects. It won eight Saturn Awards (Best Science Fiction Film, Best Actress for Weaver, Best Supporting Actor for Paxton, Best Supporting Actress for Goldstein, and Best Direction and Best Writing for Cameron), and a Hugo Award for Best Dramatic Presentation. Empire magazine voted it the \"Greatest Film Sequel of All Time\". Aliens was the seventh-highest-grossing film of 1986 in North America.</p><p>A sequel, Alien 3, was released in 1992, with Weaver reprising her role as Ripley and Henriksen as Bishop in the film.</p>"
+        },
+        "plotFull": {
+            "plainText": "Aliens (film)\r\nAliens is a 1986 American science fiction action film written and directed by James Cameron, produced by Gale Anne Hurd and starring Sigourney Weaver. It is the second installment of the Alien franchise. The film follows Weaver's character Ellen Ripley as she returns to the moon where her crew encountered the hostile Alien creature, this time accompanied by a unit of space marines. Additional roles are played by Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Jenette Goldstein, William Hope, Al Matthews, and Bill Paxton.\r\nGordon Carroll, David Giler, and Walter Hill of Brandywine Productions, who produced the first film and its later sequels, served as executive producers on Aliens. They were interested in a follow-up to Alien as soon as its 1979 release, but the new management at 20th Century Fox postponed those plans until 1983. Brandywine picked Cameron to write after reading his script for The Terminator; when that film became a hit in 1984, Fox greenlit Aliens with Cameron as director and a budget of approximately $18 million. It was filmed in England at Pinewood Studios and at a decommissioned power plant in Acton, London.\r\nAliens was released on July 18, 1986, and grossed $180 million worldwide. It was nominated for seven Academy Awards, including a Best Actress nomination for Sigourney Weaver, winning both Sound Effects Editing and Visual Effects. It won eight Saturn Awards (Best Science Fiction Film, Best Actress for Weaver, Best Supporting Actor for Paxton, Best Supporting Actress for Goldstein, and Best Direction and Best Writing for Cameron), and a Hugo Award for Best Dramatic Presentation. Empire magazine voted it the \"Greatest Film Sequel of All Time\". Aliens was the seventh-highest-grossing film of 1986 in North America.\r\nA sequel, Alien 3, was released in 1992, with Weaver reprising her role as Ripley and Henriksen as Bishop in the film.\r\nPlot\r\nFor 57 years, Ellen Ripley has been in stasis in an escape shuttle after destroying her ship, the Nostromo, to escape a lethal alien creature that slaughtered her crew. She is rescued and debriefed by her employers at the Weyland-Yutani Corporation, but they are skeptical of her claims that her crew found alien eggs in a derelict ship on the exomoon LV-426, as it is now the site of the terraforming colony Hadleys Hope.\r\nAfter contact is lost with the colony, Weyland-Yutani representative Carter Burke and Colonial Marine Lieutenant Gorman ask Ripley to accompany them to investigate. Still traumatized from her alien encounter, she agrees on the condition that they exterminate the creatures. Aboard the spaceship USS Sulaco, she is introduced to the Colonial Marines and the android Bishop.\r\nA dropship delivers the expedition to the surface of LV-426, where they find the colony deserted. Inside, they find makeshift barricades and battle signs, but no bodies; two live facehuggers in containment tanks; and a traumatized young girl nicknamed Newt, the sole survivor. The crew locates the colonists grouped beneath the fusion-powered atmosphere processing station. They head to the location, descending into corridors covered in alien secretions.\r\nAt the center of the station, the marines find the colonists cocooned, serving as incubators for the creatures' offspring. The marines kill an infant alien after it bursts from a colonist's chest, rousing multiple adult aliens who ambush the marines, killing or capturing many of them. When the inexperienced Gorman panics, Ripley assumes command, taking control of their armored personnel carrier, and rams the nest to rescue Corporal Hicks, and Privates Hudson and Vasquez. Hicks orders the dropship to recover the survivors, but a stowaway alien kills the pilots, causing it to crash into the station. The remaining group barricades themselves inside the colony.\r\nRipley discovers that Burke had ordered the colonists to investigate the derelict spaceship containing the alien eggs, intending to become wealthy by recovering alien specimens for use as biological weapons. She threatens to expose him, but Bishop informs the group that the dropship crash damaged the power plant cooling system, and it will soon explode and destroy the colony. He volunteers to crawl through extensive piping conduits to reach the colony's transmitter and remotely pilot the Sulaco's remaining dropship to the surface.\r\nRipley and Newt fall asleep in the medical laboratory, awakening to find themselves locked in the room with the two facehuggers, which have been released from their tanks. Ripley triggers a fire alarm to alert the marines, who rescue them and kill the creatures. Ripley accuses Burke of releasing the facehuggers so that they would impregnate her and Newt, allowing him to smuggle the embryos past Earth's quarantine, and of planning to kill the rest of the marines so that no one could contradict his version of events. The power is suddenly cut, and aliens assault through the ceiling. In the ensuing firefight, Burke flees but is cornered by an alien and killed, while Hudson is captured after covering the others' retreat. Gorman and the injured Vasquez sacrifice themselves to stall the aliens; Hicks is injured, and Newt is captured.\r\nRipley and Hicks reach Bishop in the second dropship, but Ripley refuses to abandon Newt. The group travels to the processing station, allowing a heavily armed Ripley to enter the hive and rescue Newt. As they escape, the two encounter the alien queen in her egg chamber. When an egg begins to open, Ripley uses her flamethrower to destroy the eggs and the queen's ovipositor. Pursued by the enraged queen, Ripley and Newt reunite with Bishop and Hicks on the dropship. All four escape moments before the station explodes with the colony consumed by the nuclear blast.\r\nOn the Sulaco, the group is ambushed by the queen, who stowed away in the ship's landing gear. The queen tears Bishop in half and advances on Newt, but Ripley battles the creature using an exosuit cargo-loader and expels it through an airlock into space. Ripley, Newt, Hicks, and the critically damaged Bishop enter hypersleep for their return trip to Earth.\r\nCast\r\nSigourney Weaver as Ellen Ripley: A Warrant officer and the sole survivor of an alien attack on her ship, the Nostromo\r\nMichael Biehn as Corporal Dwayne Hicks: Apone's second-in-command\r\nPaul Reiser as Carter J. Burke: A Weyland-Yutani Corporation representative\r\nLance Henriksen as Bishop: An android serving as the executive officer aboard the Sulaco\r\nCarrie Henn as Rebecca \"Newt\" Jorden: A young girl living in a human colony on exomoon LV-426\r\nBill Paxton as Private Hudson: The Colonial Marines' technician\r\nWilliam Hope as Lieutenant Gorman: The Marines' inexperienced commanding officer\r\nJenette Goldstein as Private Vasquez: one of two of the Marines' Smart Gunners\r\nAl Matthews as Sergeant Apone: One of the Marines' commanding officers.\r\nAlso featured are Mark Rolston as Private Drake, Ricco Ross as Private Frost, Colette Hiller as Corporal Ferro, Daniel Kash as Private Spunkmeyer, Cynthia Dale Scott as Corporal Dietrich, the Marines' corpsman, Tip Tipping as Private Crowe, and Trevor Steedman as Private Wierzbowski. Paul Maxwell portrays Van Leuwen, the head of the review board that revokes Ripley's flight license, and Carl Toop portrays the aliens and alien queen.\r\nDevelopment\r\nConception\r\nDavid Giler declared in 1979 Brandywine Productions were intent on \"immediately making a sequel\" to Alien, having the full support of 20th Century Fox president Alan Ladd Jr.. However, that year Ladd left amid Fox's transition to new owners Marc Rich and Marvin Davis, and the new studio management had no interest in the sequel. Giler accused new president Norman Levy of being the one that held back the film's production; Levy would later declare that \"It was a movie I wanted to make,\" but he felt another Alien would prove too costly. In the meantime, Giler and partners Walter Hill and Gordon Carroll sued Fox regarding the disbursement of the Alien profits. By the time the lawsuit was settled in 1983, Fox had new executives that got interested in continuing Alien. Giler pitched the project to one of the executives as a cross between Hill's Southern Comfort and The Magnificent Seven.\r\nWhile the producers and development executive Larry Wilson sought a writer for Alien II, Wilson came across James Cameron's screenplay for The Terminator, and passed the script to Giler, feeling Cameron was right for the job. Giler then approached Cameron, who was completing pre-production of The Terminator. A fan of the original Alien, Cameron was interested in crafting a sequel and entered a self-imposed seclusion to brainstorm a concept for Alien II. After four days Cameron produced an initial 45-page treatment, although the Fox management put the film on hiatus, as some disliked the pitch, and they felt that Alien had not generated enough profit to warrant a sequel. A scheduling conflict with actor Arnold Schwarzenegger caused filming of The Terminator to be delayed by nine months (as Schwarzenegger was filming Conan the Destroyer), allowing Cameron additional time to write a script for Aliens. While filming The Terminator, Cameron wrote 90 pages for Aliens, and although the script was not finished, Fox's new president Larry Gordon was impressed and told him that if The Terminator was a success, he would be able to direct Aliens. Cameron even declared that he spent production of The Terminator thinking on which elements of that film could \"make a good dry run\" for the Alien sequel.\r\nFollowing the success of The Terminator, Cameron and producing partner Gale Anne Hurd were given approval to direct and produce the sequel to Alien, scheduled for a 1986 release. Cameron was enticed by the opportunity to create a new world and opted not to follow the same formula as Alien, but to create a worthy combat sequel focusing \"more on terror, less on horror\". Sigourney Weaver, who played Ripley in Alien, had doubts about the project, but after meeting Cameron she expressed interest in revisiting her character. 20th Century Fox, however, refused to sign a contract with Weaver over a payment dispute and asked Cameron to write a story excluding Ripley. He refused on the grounds that Fox had indicated that Weaver had signed on when he began writing the script. With Cameron's persistence, Fox signed the contract, and Weaver obtained a salary of $1 million, a sum 30 times what she was paid for the first film (and equivalent to $2,400,000 in present-day terms). Weaver nicknamed her role in the Alien sequel \"Rambolina\", referring to John Rambo of the Rambo series, and stated that she approached the role as akin to the titular role in Henry V or women warriors in Chinese classical literature.\r\nCameron drew inspiration for the Aliens story from the Vietnam War, a situation in which a technologically superior force was mired in a hostile foreign environment: \"Their training and technology are inappropriate for the specifics, and that can be seen as analogous to the inability of superior American firepower to conquer the unseen enemy in Vietnam: a lot of firepower and very little wisdom, and it didn't work.\" The attitude of the Colonial Marines was influenced by the Vietnam War; they are portrayed as cocky and confident of their inevitable victory, but when they find themselves facing a technologically inferior but more determined enemy, the outcome is not what they expect. Cameron listed Robert A. Heinlein's novel Starship Troopers as a major influence that led to the incorporation of various themes and phrases, such as the terms \"the drop\" and \"bug hunt\" as well as the cargo-loader exoskeleton.\r\nCasting\r\nCameron opted to hire actors who had, or could imitate, American accents. After over 3,000 individuals in the United Kingdom were unsuccessfully auditioned, American actors were chosen instead, including three who had previously worked with Cameron on The Terminator: Lance Henriksen, Bill Paxton, and Michael Biehn. Actors who played Marines were asked to read Robert A. Heinlein's novel Starship Troopers and undergo military training, which included running, lifting weights, learning salutes, marches, deployments, and maneuvers, for two weeks. Cameron wanted the Marines to train together so that they would form bonds that would show on-screen. Sigourney Weaver, William Hope, and Paul Reiser were absent from training because of other obligations, but Cameron felt that this suited their characters as \"outsiders\" in the film.\r\nWeaver reprised her role from Alien. Biehn was hastily cast a week after filming had commenced, and thus was not present for the military training that the other actors playing Marines went through James Remar was originally cast as Hicks but left the project over creative differences with Cameron. In an interview on episode #128 of the Sidebar podcast, Remar stated that he was replaced due to being fired after he was arrested for drug possession. Only a few shots of him remain in the film, which is where the team first enters the alien hive, only his back is seen. This was because those sequences were too expensive to re-shoot.\r\nAccording to the casting director, Newt was the most difficult role to cast: School children were auditioned, but many of them had acted in commercials and were accustomed to smiling after saying their lines. Henn, from Atwater, California, was chosen out of 500 children for the role, although she had no previous acting experience. She received a Saturn Award for Best Performance by a Younger Actor, but chose not to pursue an acting career, and became a teacher. Matthews attributed his casting to his military experience.\r\nFilming\r\nAliens was filmed over ten months on a budget of $18 million at Pinewood Studios in England. Cameron, bound by a low budget and a deadline, found it difficult to adjust to what Paxton called the \"indentured\" working practices of the British crew, such as the tea breaks that brought production to a halt. Many of the crew had worked on Alien and were fiercely loyal to Ridley Scott, and they believed the 31-year-old Cameron was too young and inexperienced to direct. In response, he arranged a screening of The Terminator, which had not yet been released in the UK, but many of the crew did not attend. They also mocked producer Gale Anne Hurd, insisting that she was only receiving the producer credit because she was married to Cameron. Cameron clashed with the original director of photography Dick Bush when Bush started production saying the schedule couldn't be met and when he insisted on lighting the alien nest set brightly. Cameron insisted on a dark, foreboding nest, relying on the lights from the Marines' armor. After Bush was fired, the crew walked out. Hurd managed to coax the team back to work, and Adrian Biddle was hired as Bush's replacement.\r\nSome scenes of the alien nest were shot at the decommissioned Acton Lane Power Station in Acton, London. The crew thought it was a perfect place to film because of its grilled walkways and numerous corridors, but had to spend money to remove asbestos from the station. The Atmosphere Processor set was not dismantled after filming, and was reused in 1989 as the Axis Chemicals set for Batman (1989).\r\nMusic\r\nMusic composer James Horner felt he was not given enough time to create a musical score. Horner arrived in England and expected the film to be completed and to write the score in six weeks, which he thought was a sufficient amount of time. Horner, however, discovered that filming and editing were still taking place, and he was unable to view the film. He visited the sets and editing rooms for three weeks and found that editor Ray Lovejoy was barely keeping up with the workload for reasons of time restrictions. Horner believed Cameron was preoccupied with sound effects, citing that Cameron spent two days with the sound engineer creating the sounds for the pulse rifles. He also complained that he was given an outdated recording studio; the score was recorded with the London Symphony Orchestra at Abbey Road Studios, a then-30-year-old studio that was barely able to patch in synthesizers or use the electronic equipment that Horner required.\r\nSix weeks from theatrical release, no dubbing had taken place and the score had not been written as Horner was unable to view the completed film. The final cue for the scene in which Ripley battles the alien queen was written overnight. Cameron completely reworked the scene, leaving Horner to rewrite the music. As Gale Hurd did not have much music production experience, she and Cameron denied Horner's request to push the film back four weeks so he could finish the score. Horner felt that, given more time, he could get the score to 100% of his satisfaction rather than the 80% he estimated he had been able to achieve. The score was recorded in roughly four days. Despite his troubles, Horner received an Academy Award nomination (his first) for Best Original Score.\r\nHorner stated that tensions between himself and Cameron were so high during post-production that he assumed they would never work together again. Horner believed that Cameron's film schedules were too short and stressful. The two parted ways until 1997 when Cameron, impressed with Horner's score for Braveheart, asked him to compose the score for Titanic.\r\nDesign\r\nEarly concept art was created by Syd Mead, who had previously worked on Blade Runner, 2010, and Tron. One of the original designs for the spaceship Sulaco was spherical, but it was redesigned as the ship would be out of frame due to the film's aspect ratio. Cameron showed Mead his own concept art, and the final result was described as \"rocket gun that carries stuff\". Concept artists were asked to incorporate subliminal acknowledgments to the Vietnam War, which included designing the dropship as a combination of a F-4 Phantom II and AH-1 Cobra.\r\nBritish Airways was re-equipping several of its aircraft tug tractors, and the crew managed to purchase a 635 hp Hunslet ATT 77 tug to use as the armored personnel carrier. It initially weighed 70 short tons (64,000 kg), and although the crew removed 35 short tons (32,000 kg) of lead ballast, the power station floor had to be reinforced to support the weight. The crew used many \"junk\" items in the set designs, such as Ripley's toilet, which came from a Boeing 707. Lockers, helicopter engines, and vending machines were used as set elements in the opening hypersleep scene. Production designer Peter Lamont was asked to reduce the cost of several scenes, including the not-yet-filmed Colonial Marine hypersleep sequence. Gale Hurd wanted to cut the scene altogether, but Lamont and Cameron felt it was important to the sequence of the film. To save on cost, only four hypersleep chambers were created, and a mirror was used to create the illusion that there were twelve in the scene. Instead of using hydraulics, the chambers were opened and closed by wires operated by puppeteers.\r\nWeapons used by the Colonial Marines were based on fully functional weapons. British armorers used guns they found to be the most reliable when firing blanks and those which looked futuristic. The 'pulse rifles' were created from a Thompson SMG, with an attached forend of a Franchi SPAS-12 shotgun and a Remington 12-gauge Model 870P receiver with barrel. The 'smart guns' carried by Vasquez and Drake were based on the German MG 42 machine gun and were maneuvered with Steadicam-like harnesses created using old motorcycle parts. The crew found flamethrowers the most difficult weapon to create and use, as they were the heaviest and most dangerous.\r\nAside from the alien queen, designed by Cameron himself, the aliens were inspired by H. R. Giger's designs for the original. The only change was removing the translucent dome that gave the creature's head its sleek shape in Alien, exposing the ridged, spined cranium beneath. Cameron felt the dome was too fragile for the practical effects, and also felt that the cranium design was more visually interesting without it.\r\nVisual effects\r\nBrothers Robert and Dennis Skotak were hired to supervise the visual effects, having previously worked with Cameron on several Roger Corman movies. Two stages were used to construct the colony on LV-426, using miniature models that were, on average, six feet tall and three feet wide. Filming the miniatures was difficult because of the weather; the wind would blow over the props; however, it proved helpful to give the effect of weather on the planet. Cameron used these miniatures and several effects to make scenes look larger than they really were, including rear projection, mirrors, beam splitters, camera splits and foreground miniatures. Due to budget limits, Cameron said he had to pay for the robotic arm used to cut into Ripley's shuttle in the opening scene. Practical effects supervisor John Richardson (who won a special effects Oscar for his part in the film) declared his biggest challenge was creating the forklift power-loader exoskeletons, which required only three months of work and had Cameron complaining about visual details during construction. The model could not stand on its own, requiring either wires dangling from the shoulders or a pole through the back attached to a crane. While Sigourney Weaver was inside the power loader model, a stunt man standing behind it would move the arms and legs.\r\nThe alien suits were made more flexible and durable than the ones used in Alien to expand on the creatures' movements and allow them to crawl and jump. Dancers, gymnasts, and stunt men were hired to portray the aliens. Various 8-foot-tall (2.4 m) mannequins also were created to make aliens that stood in inhuman poses, and could have their bodies exploded to simulate gunshot wounds. Stan Winston's team created fully articulated facehuggers that could move their fingers; these were moved by wires hidden on the scenery or the actors' clothing. The one that walked towards Ripley had a mechanism akin to a pull toy, with pulleys that moved the fingers, and its jump combined three models shot separately: the walking facehugger, a stationary model dangling on a table leg, and another model being pulled towards the camera.\r\nAccording to production staff, scenes involving the alien queen were the most difficult to film. A life-sized mockup was created by Stan Winston's company in the United States to see how it would operate. Once the testing was complete, the crew working on the queen flew to England and began work creating the final version. Standing at 14 feet (4.3 m) tall, it was operated using a mixture of puppeteers, control rods, hydraulics, cables, and a crane above to support it. Two puppeteers were inside the suit operating its arms, and 16 were required to move it. All sequences involving the full-size queen were filmed in-camera with no post-production manipulation. Additionally, a miniature alien queen was used for certain shots.\r\nRelease\r\nBox office\r\nEagerly anticipated by fans following the success of Alien, Aliens was released in North America on July 18, 1986, and August 29 in the United Kingdom. In North America, the film opened in 1,437 theaters with an average opening gross of $6,995 and a weekend gross of $10,052,042. It was #1 at the North American box office for four consecutive weeks, grossing $85,160,248. Aliens was the seventh-highest-grossing film of 1986 in North America. The film's worldwide total gross has been stated as high as $180 million, making Aliens one of the highest-grossing R-rated films at the time. In 1992, Fox noted the worldwide gross was $157 million.\r\nCritical reception\r\nAliens received universal acclaim. Test and pre-screenings were unable to take place due to the film not being completed until its week of release. Once it was released in cinemas, critical reaction was very positive. Audiences polled by CinemaScore gave the film an average grade of \"A\" on an A+ to F scale.\r\nCritic Roger Ebert gave the film 3.5 stars out of 4 and called it \"painfully and unremittingly intense\" and a \"superb example of filmmaking craft.\" He also stated \"when I walked out of the theater, there were knots in my stomach from the film's roller-coaster ride of violence.\" Walter Goodman of The New York Times said it was a \"flaming, flashing, crashing, crackling blow-'em-up show that keeps you popping from your seat despite your better instincts and the basically conventional scare tactics.\" Time magazine featured the film on the cover of its July 28, 1986, issue, calling it the \"summer's scariest movie\". Time reviewer Richard Schickel declared the film \"a sequel that exceeds its predecessor in the reach of its appeal while giving Weaver new emotional dimensions to explore.\" The selection of Aliens for a Time cover was attributed to the successful reception of the film, as well as its novel example of a science-fiction action heroine. Echoing Time's assessment, Dave Kehr of the Chicago Reader called the film \"one sequel that surpasses the original.\" On the negative side, Gene Siskel described Aliens as \"one extremely violent, protracted attack on the senses\" and that \"toward the end, the film resorts to placing a young girl in jeopardy in a pathetic attempt to pander to who knows what audience. Some people have praised the technical excellence of Aliens. Well, the Eiffel Tower is technically impressive, but I wouldn't want to watch it fall apart on people for two hours.\"\r\nAccolades\r\nAliens was nominated for seven Academy Awards including Best Actress, Best Original Score, Best Sound, Best Film Editing, and Best Art Direction. It won two awards for Sound Effects Editing and Visual Effects. Sigourney Weaver received her first Academy Award nomination for Best Actress and although she did not win, it was considered a landmark nomination for an actress to be considered for a science-fiction/horror film, a genre which previously was given little recognition.\r\nAliens received four BAFTA award nominations and won in the category of Visual Effects. It won eight Saturn Awards in the film categories of actress (Sigourney Weaver), supporting actor (Bill Paxton), supporting actress (Jenette Goldstein), performance by a younger actor (Carrie Henn), direction (James Cameron), writing (James Cameron), special effects (Stan Winston and the L.A. Effects Group), and science-fiction film.\r\nTime magazine named Aliens in its Best of '86 list calling it a \"technically awesome blend of the horror, sci-fi and service-comedy genres.\" In 2007, Entertainment Weekly named Aliens as the second-best action movie of all time behind Die Hard. In a Rotten Tomatoes analysis of the top 100 science-fiction films, Aliens ranks tenth among the best-reviewed films of the genre. In 2004, Aliens was ranked 35th on Bravo's \"100 Scariest Movie Moments\" for the scene in which Ripley and Newt are attacked by facehuggers; the original Alien was ranked second for the chestburster scene. IGN ranked it third in its \"Top 25 Action Films of All Time\", stating that \"there won't be an Alien movie as scary\u2014or exciting\u2014as this one made ever again.\"Empire voted it the 'Greatest Film Sequel Of All Time'.\r\nThe film is also recognized by American Film Institute in the 2003 list AFI's 100 Years...100 Heroes & Villains: Ellen Ripley as the #8 hero.\r\nPost-release\r\nHome media\r\nAliens was first released on VHS in 1987, finishing as the tenth-best-selling title of the year. A \"special edition\" of Aliens that restored 17 minutes of deleted footage was released in the UK on VHS on April 5, 1990 and in the US on LaserDisc in 1991 and on VHS the following year. These additions include a segment showing Newt's family first encountering the derelict spacecraft on LV-426, Ripley's learning that her daughter died during the years she was in hypersleep, a scene in the operations building in which the Marines use sentry guns against the aliens, and several extended dialogue scenes between Ripley and the Marines. These scenes had been deleted from the original theatrical release as 20th Century Fox representatives thought the film was showing \"too much nothing\" and spent an unnecessary amount of time building suspense.\r\nMost of the special edition's footage was first seen when the film made its broadcast television debut on CBS in 1989, but two additional sequences concerning Burke's transmission to the colony about the derelict, and the Jorden family's subsequent discovery of the same, were added to the initial LaserDisc release. According to Cameron, the visual effects for the scene were incomplete, so he went back to the Skotak brothers and had them finish the sequences. All currently available versions of the special edition contain these scenes.\r\nThe special edition was released as part of The Alien Legacy 20th Anniversary Edition DVD box set in 1999 along with Alien, Alien 3, and Alien Resurrection. Both the theatrical version and the special edition were released again in 2003 as part of the Alien Quadrilogy DVD box set along with similar versions of Alien, Alien 3, and Alien Resurrection. A separate two-disc \"special collector's edition\" DVD of Aliens was released on January 6, 2004, containing the same material as the two Aliens discs in the Quadrilogy set. Additional content in these versions included an audio commentary for the special edition featuring director James Cameron, producer Gale Hurd, special effects artists and crew members. The second disc included special features relating to pre-production, production, and post-production. The film was first made available on Blu-ray in the 2010 box set Alien Anthology, before receiving a stand-alone release the following year. Fox released the 30th-anniversary Blu-ray of the movie on September 13, 2016.\r\nInterpretation and analysis\r\nPhilosopher Stephen Mulhall has remarked that the four Alien films represent an artistic rendering of the difficulties faced by the woman's \"voice\" to have itself heard in a masculinist society because Ripley continually encounters males who try to silence her and to force her to submit to their desires. Mulhall sees this depicted in several events in Aliens, particularly the inquest scene in which Ripley's explanation for the deaths and destruction of the Nostromo as well as her attempts to warn the board members of the Alien danger are met with officious disdain. However, Mulhall believes that Ripley's relationship with Hicks illustrates that Aliens \"is devoted ... to the possibility of modes of masculinity that seek not to stifle but rather to accommodate the female voice, and modes of femininity that can acknowledge and incorporate something more or other of masculinity than our worst nightmares of it.\"\r\nSeveral movie academics, including Barbara Creed, have remarked on the color and lighting symbolism in the Alien franchise, which offsets white, strongly lit environments (spaceships, corporate offices) against darker, dirtier, \"corrupted\" settings (derelict alien ship, abandoned industrial facilities). These black touches contrast or even attempt to take over the purity of the white elements. Others, such as Kile M. Ortigo of Emory University, agree with this interpretation and point to the Sulaco with its \"sterilized, white interior\".\r\nWhile some claim that the shape of the Sulaco was based on a submarine, the design has most often been described as a \"gun in space\" resembling the rifles used in the movie. Author Roz Kaveney called the opening shot of the ship traveling through space \"fetishistic\" and \"shark-like\", \"an image of brutal strength and ingenious efficiency\"\u2014while the militarized interior of the Sulaco (designed by Ron Cobb) is contrasted to the organic interior of the Nostromo in the first movie (also designed by Cobb). David McIntee noted the homage the scene pays to the opening tour through the Nostromo in Alien.\r\nRoger Luckhurst in his 2014 book on the original Alien film, compared its underlying worldview to that of Aliens stating, \"Even if Alien was a piece of leftist science fiction, the core of (its) myth could be inflected the other way. James Cameron's Aliens would be a defiantly Reaganite version of the story\u2014pumped, militarized, libertarian and driven by a staunch defense of the nuclear family.\"\r\nThe android character Bishop has been the subject of literary and philosophical analysis as a high-profile fictional android conforming to science-fiction author Isaac Asimov's Three Laws of Robotics and as a model of a compliant, potentially self-aware machine. His portrayal has been studied by writers for the University of Texas Press for its implications relating to how humans deal with the presence of an \"Other\", as Ripley treats them with fear and suspicion after the android Ash tried to kill her in the original Alien movie, and a form of \"hi-tech racism and android apartheid\" is present throughout the series. This is seen as part of a larger trend of technophobia in films before the 1990s, with Bishop's role being particularly significant as he doubly proves his worth at the end of the film, thus confounding Ripley's expectations.\r\nCultural impact\r\nLasting reception\r\nThe film has remained critically acclaimed over the years. In a 2000 review, film critic James Berardinelli said \"When it comes to the logical marriage of action, adventure, and science fiction, few films are as effective or accomplished as Aliens.\" Austin Chronicle contributor Marjorie Baumgarten labeled the film in 2002 as \"a non-stop action fest.\" In 2016, James Charisma of Playboy ranked the film #6 on a list of \"15 Sequels That Are Way Better Than the Originals\".\r\nAliens holds a 97% approval rating on Rotten Tomatoes based on 74 reviews, and an average rating of 8.99/10. The site's critical consensus reads, \"While Alien was a marvel of slow-building, atmospheric tension, Aliens packs a much more visceral punch, and features a typically strong performance from Sigourney Weaver.\" It also holds a score of 84 out of 100 based on 22 critics on Metacritic, indicating \"universal acclaim\". Aliens was also featured in Empire Magazine's 500 Greatest Movies of All Time poll at #30 in 2008, in Empire's 301 Greatest Films of All Time poll at #19 in 2014 and in Empire's recent The 100 Greatest Movies of All Time poll at #15.\r\nMerchandise\r\nIn 2013, National Entertainment Collectibles Association (NECA) released the first wave of highly detailed human and alien action figures from the respective film. NECA's Reel Toys worked directly with actors from the Alien franchise to release realistic figures based on select characters they portrayed in the films. NECA has released seven-inch figures based on characters such as Corporal Hicks, Private Hudson, and Bishop. During winter 2014, it was announced there would be multiple figures of Ripley, Sigourney Weaver's character from the Alien films. NECA worked directly with Weaver to develop these action figures, which are the first to feature her likeness.\r\nThree pinball adaptation of Aliens were also released, with two virtual and one physical. The first pinball adaptation of the film was one of four virtual tables in the 1999 computer game Sci-Fi Pinball, with the other three based on the first two Predator films, Buffy the Vampire Slayer and The Fly. On April 26, 2016 Zen Studios released the Aliens vs. Pinball add-on pack for Zen Pinball 2, Pinball FX 2 and Pinball FX 3, which contained a digital pinball adaptation of the film featuring 3-D animated figures of Ripley and the Xenomorph Queen and omitting the film's graphic violence and strong profanity. Nearly a year later, the short-lived Heighway Pinball developed and released a physical pinball adaptation of the first two films of the Alien franchise.\r\nSequel\r\nA sequel, Alien 3, was released in 1992.",
+            "html": "<h2>Aliens (film)</h2><p>Aliens is a 1986 American science fiction action film written and directed by James Cameron, produced by Gale Anne Hurd and starring Sigourney Weaver. It is the second installment of the Alien franchise. The film follows Weaver's character Ellen Ripley as she returns to the moon where her crew encountered the hostile Alien creature, this time accompanied by a unit of space marines. Additional roles are played by Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Jenette Goldstein, William Hope, Al Matthews, and Bill Paxton.</p><p>Gordon Carroll, David Giler, and Walter Hill of Brandywine Productions, who produced the first film and its later sequels, served as executive producers on Aliens. They were interested in a follow-up to Alien as soon as its 1979 release, but the new management at 20th Century Fox postponed those plans until 1983. Brandywine picked Cameron to write after reading his script for The Terminator; when that film became a hit in 1984, Fox greenlit Aliens with Cameron as director and a budget of approximately $18 million. It was filmed in England at Pinewood Studios and at a decommissioned power plant in Acton, London.</p><p>Aliens was released on July 18, 1986, and grossed $180 million worldwide. It was nominated for seven Academy Awards, including a Best Actress nomination for Sigourney Weaver, winning both Sound Effects Editing and Visual Effects. It won eight Saturn Awards (Best Science Fiction Film, Best Actress for Weaver, Best Supporting Actor for Paxton, Best Supporting Actress for Goldstein, and Best Direction and Best Writing for Cameron), and a Hugo Award for Best Dramatic Presentation. Empire magazine voted it the \"Greatest Film Sequel of All Time\". Aliens was the seventh-highest-grossing film of 1986 in North America.</p><p>A sequel, Alien 3, was released in 1992, with Weaver reprising her role as Ripley and Henriksen as Bishop in the film.</p><br/><h3>Plot</h3><p>For 57 years, Ellen Ripley has been in stasis in an escape shuttle after destroying her ship, the Nostromo, to escape a lethal alien creature that slaughtered her crew. She is rescued and debriefed by her employers at the Weyland-Yutani Corporation, but they are skeptical of her claims that her crew found alien eggs in a derelict ship on the exomoon LV-426, as it is now the site of the terraforming colony Hadleys Hope.</p><p>After contact is lost with the colony, Weyland-Yutani representative Carter Burke and Colonial Marine Lieutenant Gorman ask Ripley to accompany them to investigate. Still traumatized from her alien encounter, she agrees on the condition that they exterminate the creatures. Aboard the spaceship USS Sulaco, she is introduced to the Colonial Marines and the android Bishop.</p><p>A dropship delivers the expedition to the surface of LV-426, where they find the colony deserted. Inside, they find makeshift barricades and battle signs, but no bodies; two live facehuggers in containment tanks; and a traumatized young girl nicknamed Newt, the sole survivor. The crew locates the colonists grouped beneath the fusion-powered atmosphere processing station. They head to the location, descending into corridors covered in alien secretions.</p><p>At the center of the station, the marines find the colonists cocooned, serving as incubators for the creatures' offspring. The marines kill an infant alien after it bursts from a colonist's chest, rousing multiple adult aliens who ambush the marines, killing or capturing many of them. When the inexperienced Gorman panics, Ripley assumes command, taking control of their armored personnel carrier, and rams the nest to rescue Corporal Hicks, and Privates Hudson and Vasquez. Hicks orders the dropship to recover the survivors, but a stowaway alien kills the pilots, causing it to crash into the station. The remaining group barricades themselves inside the colony.</p><p>Ripley discovers that Burke had ordered the colonists to investigate the derelict spaceship containing the alien eggs, intending to become wealthy by recovering alien specimens for use as biological weapons. She threatens to expose him, but Bishop informs the group that the dropship crash damaged the power plant cooling system, and it will soon explode and destroy the colony. He volunteers to crawl through extensive piping conduits to reach the colony's transmitter and remotely pilot the Sulaco's remaining dropship to the surface.</p><p>Ripley and Newt fall asleep in the medical laboratory, awakening to find themselves locked in the room with the two facehuggers, which have been released from their tanks. Ripley triggers a fire alarm to alert the marines, who rescue them and kill the creatures. Ripley accuses Burke of releasing the facehuggers so that they would impregnate her and Newt, allowing him to smuggle the embryos past Earth's quarantine, and of planning to kill the rest of the marines so that no one could contradict his version of events. The power is suddenly cut, and aliens assault through the ceiling. In the ensuing firefight, Burke flees but is cornered by an alien and killed, while Hudson is captured after covering the others' retreat. Gorman and the injured Vasquez sacrifice themselves to stall the aliens; Hicks is injured, and Newt is captured.</p><p>Ripley and Hicks reach Bishop in the second dropship, but Ripley refuses to abandon Newt. The group travels to the processing station, allowing a heavily armed Ripley to enter the hive and rescue Newt. As they escape, the two encounter the alien queen in her egg chamber. When an egg begins to open, Ripley uses her flamethrower to destroy the eggs and the queen's ovipositor. Pursued by the enraged queen, Ripley and Newt reunite with Bishop and Hicks on the dropship. All four escape moments before the station explodes with the colony consumed by the nuclear blast.</p><p>On the Sulaco, the group is ambushed by the queen, who stowed away in the ship's landing gear. The queen tears Bishop in half and advances on Newt, but Ripley battles the creature using an exosuit cargo-loader and expels it through an airlock into space. Ripley, Newt, Hicks, and the critically damaged Bishop enter hypersleep for their return trip to Earth.</p><br/><h3>Cast</h3><ul><li>Sigourney Weaver as Ellen Ripley: A Warrant officer and the sole survivor of an alien attack on her ship, the Nostromo</li><li>Michael Biehn as Corporal Dwayne Hicks: Apone's second-in-command</li><li>Paul Reiser as Carter J. Burke: A Weyland-Yutani Corporation representative</li><li>Lance Henriksen as Bishop: An android serving as the executive officer aboard the Sulaco</li><li>Carrie Henn as Rebecca \"Newt\" Jorden: A young girl living in a human colony on exomoon LV-426</li><li>Bill Paxton as Private Hudson: The Colonial Marines' technician</li><li>William Hope as Lieutenant Gorman: The Marines' inexperienced commanding officer</li><li>Jenette Goldstein as Private Vasquez: one of two of the Marines' Smart Gunners</li><li>Al Matthews as Sergeant Apone: One of the Marines' commanding officers.</li></ul><p>Also featured are Mark Rolston as Private Drake, Ricco Ross as Private Frost, Colette Hiller as Corporal Ferro, Daniel Kash as Private Spunkmeyer, Cynthia Dale Scott as Corporal Dietrich, the Marines' corpsman, Tip Tipping as Private Crowe, and Trevor Steedman as Private Wierzbowski. Paul Maxwell portrays Van Leuwen, the head of the review board that revokes Ripley's flight license, and Carl Toop portrays the aliens and alien queen.</p><br/><h3>Development</h3><h4>Conception</h4><p>David Giler declared in 1979 Brandywine Productions were intent on \"immediately making a sequel\" to Alien, having the full support of 20th Century Fox president Alan Ladd Jr.. However, that year Ladd left amid Fox's transition to new owners Marc Rich and Marvin Davis, and the new studio management had no interest in the sequel. Giler accused new president Norman Levy of being the one that held back the film's production; Levy would later declare that \"It was a movie I wanted to make,\" but he felt another Alien would prove too costly. In the meantime, Giler and partners Walter Hill and Gordon Carroll sued Fox regarding the disbursement of the Alien profits. By the time the lawsuit was settled in 1983, Fox had new executives that got interested in continuing Alien. Giler pitched the project to one of the executives as a cross between Hill's Southern Comfort and The Magnificent Seven.</p><p>While the producers and development executive Larry Wilson sought a writer for Alien II, Wilson came across James Cameron's screenplay for The Terminator, and passed the script to Giler, feeling Cameron was right for the job. Giler then approached Cameron, who was completing pre-production of The Terminator. A fan of the original Alien, Cameron was interested in crafting a sequel and entered a self-imposed seclusion to brainstorm a concept for Alien II. After four days Cameron produced an initial 45-page treatment, although the Fox management put the film on hiatus, as some disliked the pitch, and they felt that Alien had not generated enough profit to warrant a sequel. A scheduling conflict with actor Arnold Schwarzenegger caused filming of The Terminator to be delayed by nine months (as Schwarzenegger was filming Conan the Destroyer), allowing Cameron additional time to write a script for Aliens. While filming The Terminator, Cameron wrote 90 pages for Aliens, and although the script was not finished, Fox's new president Larry Gordon was impressed and told him that if The Terminator was a success, he would be able to direct Aliens. Cameron even declared that he spent production of The Terminator thinking on which elements of that film could \"make a good dry run\" for the Alien sequel.</p><p>Following the success of The Terminator, Cameron and producing partner Gale Anne Hurd were given approval to direct and produce the sequel to Alien, scheduled for a 1986 release. Cameron was enticed by the opportunity to create a new world and opted not to follow the same formula as Alien, but to create a worthy combat sequel focusing \"more on terror, less on horror\". Sigourney Weaver, who played Ripley in Alien, had doubts about the project, but after meeting Cameron she expressed interest in revisiting her character. 20th Century Fox, however, refused to sign a contract with Weaver over a payment dispute and asked Cameron to write a story excluding Ripley. He refused on the grounds that Fox had indicated that Weaver had signed on when he began writing the script. With Cameron's persistence, Fox signed the contract, and Weaver obtained a salary of $1 million, a sum 30 times what she was paid for the first film (and equivalent to $2,400,000 in present-day terms). Weaver nicknamed her role in the Alien sequel \"Rambolina\", referring to John Rambo of the Rambo series, and stated that she approached the role as akin to the titular role in Henry V or women warriors in Chinese classical literature.</p><p>Cameron drew inspiration for the Aliens story from the Vietnam War, a situation in which a technologically superior force was mired in a hostile foreign environment: \"Their training and technology are inappropriate for the specifics, and that can be seen as analogous to the inability of superior American firepower to conquer the unseen enemy in Vietnam: a lot of firepower and very little wisdom, and it didn't work.\" The attitude of the Colonial Marines was influenced by the Vietnam War; they are portrayed as cocky and confident of their inevitable victory, but when they find themselves facing a technologically inferior but more determined enemy, the outcome is not what they expect. Cameron listed Robert A. Heinlein's novel Starship Troopers as a major influence that led to the incorporation of various themes and phrases, such as the terms \"the drop\" and \"bug hunt\" as well as the cargo-loader exoskeleton.</p><h4>Casting</h4><p>Cameron opted to hire actors who had, or could imitate, American accents. After over 3,000 individuals in the United Kingdom were unsuccessfully auditioned, American actors were chosen instead, including three who had previously worked with Cameron on The Terminator: Lance Henriksen, Bill Paxton, and Michael Biehn. Actors who played Marines were asked to read Robert A. Heinlein's novel Starship Troopers and undergo military training, which included running, lifting weights, learning salutes, marches, deployments, and maneuvers, for two weeks. Cameron wanted the Marines to train together so that they would form bonds that would show on-screen. Sigourney Weaver, William Hope, and Paul Reiser were absent from training because of other obligations, but Cameron felt that this suited their characters as \"outsiders\" in the film.</p><p>Weaver reprised her role from Alien. Biehn was hastily cast a week after filming had commenced, and thus was not present for the military training that the other actors playing Marines went through James Remar was originally cast as Hicks but left the project over creative differences with Cameron. In an interview on episode #128 of the Sidebar podcast, Remar stated that he was replaced due to being fired after he was arrested for drug possession. Only a few shots of him remain in the film, which is where the team first enters the alien hive, only his back is seen. This was because those sequences were too expensive to re-shoot.</p><p>According to the casting director, Newt was the most difficult role to cast: School children were auditioned, but many of them had acted in commercials and were accustomed to smiling after saying their lines. Henn, from Atwater, California, was chosen out of 500 children for the role, although she had no previous acting experience. She received a Saturn Award for Best Performance by a Younger Actor, but chose not to pursue an acting career, and became a teacher. Matthews attributed his casting to his military experience.</p><h4>Filming</h4><p>Aliens was filmed over ten months on a budget of $18 million at Pinewood Studios in England. Cameron, bound by a low budget and a deadline, found it difficult to adjust to what Paxton called the \"indentured\" working practices of the British crew, such as the tea breaks that brought production to a halt. Many of the crew had worked on Alien and were fiercely loyal to Ridley Scott, and they believed the 31-year-old Cameron was too young and inexperienced to direct. In response, he arranged a screening of The Terminator, which had not yet been released in the UK, but many of the crew did not attend. They also mocked producer Gale Anne Hurd, insisting that she was only receiving the producer credit because she was married to Cameron. Cameron clashed with the original director of photography Dick Bush when Bush started production saying the schedule couldn't be met and when he insisted on lighting the alien nest set brightly. Cameron insisted on a dark, foreboding nest, relying on the lights from the Marines' armor. After Bush was fired, the crew walked out. Hurd managed to coax the team back to work, and Adrian Biddle was hired as Bush's replacement.</p><p>Some scenes of the alien nest were shot at the decommissioned Acton Lane Power Station in Acton, London. The crew thought it was a perfect place to film because of its grilled walkways and numerous corridors, but had to spend money to remove asbestos from the station. The Atmosphere Processor set was not dismantled after filming, and was reused in 1989 as the Axis Chemicals set for Batman (1989).</p><h4>Music</h4><p>Music composer James Horner felt he was not given enough time to create a musical score. Horner arrived in England and expected the film to be completed and to write the score in six weeks, which he thought was a sufficient amount of time. Horner, however, discovered that filming and editing were still taking place, and he was unable to view the film. He visited the sets and editing rooms for three weeks and found that editor Ray Lovejoy was barely keeping up with the workload for reasons of time restrictions. Horner believed Cameron was preoccupied with sound effects, citing that Cameron spent two days with the sound engineer creating the sounds for the pulse rifles. He also complained that he was given an outdated recording studio; the score was recorded with the London Symphony Orchestra at Abbey Road Studios, a then-30-year-old studio that was barely able to patch in synthesizers or use the electronic equipment that Horner required.</p><p>Six weeks from theatrical release, no dubbing had taken place and the score had not been written as Horner was unable to view the completed film. The final cue for the scene in which Ripley battles the alien queen was written overnight. Cameron completely reworked the scene, leaving Horner to rewrite the music. As Gale Hurd did not have much music production experience, she and Cameron denied Horner's request to push the film back four weeks so he could finish the score. Horner felt that, given more time, he could get the score to 100% of his satisfaction rather than the 80% he estimated he had been able to achieve. The score was recorded in roughly four days. Despite his troubles, Horner received an Academy Award nomination (his first) for Best Original Score.</p><p>Horner stated that tensions between himself and Cameron were so high during post-production that he assumed they would never work together again. Horner believed that Cameron's film schedules were too short and stressful. The two parted ways until 1997 when Cameron, impressed with Horner's score for Braveheart, asked him to compose the score for Titanic.</p><br/><h3>Design</h3><p>Early concept art was created by Syd Mead, who had previously worked on Blade Runner, 2010, and Tron. One of the original designs for the spaceship Sulaco was spherical, but it was redesigned as the ship would be out of frame due to the film's aspect ratio. Cameron showed Mead his own concept art, and the final result was described as \"rocket gun that carries stuff\". Concept artists were asked to incorporate subliminal acknowledgments to the Vietnam War, which included designing the dropship as a combination of a F-4 Phantom II and AH-1 Cobra.</p><p>British Airways was re-equipping several of its aircraft tug tractors, and the crew managed to purchase a 635 hp Hunslet ATT 77 tug to use as the armored personnel carrier. It initially weighed 70 short tons (64,000 kg), and although the crew removed 35 short tons (32,000 kg) of lead ballast, the power station floor had to be reinforced to support the weight. The crew used many \"junk\" items in the set designs, such as Ripley's toilet, which came from a Boeing 707. Lockers, helicopter engines, and vending machines were used as set elements in the opening hypersleep scene. Production designer Peter Lamont was asked to reduce the cost of several scenes, including the not-yet-filmed Colonial Marine hypersleep sequence. Gale Hurd wanted to cut the scene altogether, but Lamont and Cameron felt it was important to the sequence of the film. To save on cost, only four hypersleep chambers were created, and a mirror was used to create the illusion that there were twelve in the scene. Instead of using hydraulics, the chambers were opened and closed by wires operated by puppeteers.</p><p>Weapons used by the Colonial Marines were based on fully functional weapons. British armorers used guns they found to be the most reliable when firing blanks and those which looked futuristic. The 'pulse rifles' were created from a Thompson SMG, with an attached forend of a Franchi SPAS-12 shotgun and a Remington 12-gauge Model 870P receiver with barrel. The 'smart guns' carried by Vasquez and Drake were based on the German MG 42 machine gun and were maneuvered with Steadicam-like harnesses created using old motorcycle parts. The crew found flamethrowers the most difficult weapon to create and use, as they were the heaviest and most dangerous.</p><p>Aside from the alien queen, designed by Cameron himself, the aliens were inspired by H. R. Giger's designs for the original. The only change was removing the translucent dome that gave the creature's head its sleek shape in Alien, exposing the ridged, spined cranium beneath. Cameron felt the dome was too fragile for the practical effects, and also felt that the cranium design was more visually interesting without it.</p><h4>Visual effects</h4><p>Brothers Robert and Dennis Skotak were hired to supervise the visual effects, having previously worked with Cameron on several Roger Corman movies. Two stages were used to construct the colony on LV-426, using miniature models that were, on average, six feet tall and three feet wide. Filming the miniatures was difficult because of the weather; the wind would blow over the props; however, it proved helpful to give the effect of weather on the planet. Cameron used these miniatures and several effects to make scenes look larger than they really were, including rear projection, mirrors, beam splitters, camera splits and foreground miniatures. Due to budget limits, Cameron said he had to pay for the robotic arm used to cut into Ripley's shuttle in the opening scene. Practical effects supervisor John Richardson (who won a special effects Oscar for his part in the film) declared his biggest challenge was creating the forklift power-loader exoskeletons, which required only three months of work and had Cameron complaining about visual details during construction. The model could not stand on its own, requiring either wires dangling from the shoulders or a pole through the back attached to a crane. While Sigourney Weaver was inside the power loader model, a stunt man standing behind it would move the arms and legs.</p><p>The alien suits were made more flexible and durable than the ones used in Alien to expand on the creatures' movements and allow them to crawl and jump. Dancers, gymnasts, and stunt men were hired to portray the aliens. Various 8-foot-tall (2.4 m) mannequins also were created to make aliens that stood in inhuman poses, and could have their bodies exploded to simulate gunshot wounds. Stan Winston's team created fully articulated facehuggers that could move their fingers; these were moved by wires hidden on the scenery or the actors' clothing. The one that walked towards Ripley had a mechanism akin to a pull toy, with pulleys that moved the fingers, and its jump combined three models shot separately: the walking facehugger, a stationary model dangling on a table leg, and another model being pulled towards the camera.</p><p>According to production staff, scenes involving the alien queen were the most difficult to film. A life-sized mockup was created by Stan Winston's company in the United States to see how it would operate. Once the testing was complete, the crew working on the queen flew to England and began work creating the final version. Standing at 14 feet (4.3 m) tall, it was operated using a mixture of puppeteers, control rods, hydraulics, cables, and a crane above to support it. Two puppeteers were inside the suit operating its arms, and 16 were required to move it. All sequences involving the full-size queen were filmed in-camera with no post-production manipulation. Additionally, a miniature alien queen was used for certain shots.</p><br/><h3>Release</h3><h4>Box office</h4><p>Eagerly anticipated by fans following the success of Alien, Aliens was released in North America on July 18, 1986, and August 29 in the United Kingdom. In North America, the film opened in 1,437 theaters with an average opening gross of $6,995 and a weekend gross of $10,052,042. It was #1 at the North American box office for four consecutive weeks, grossing $85,160,248. Aliens was the seventh-highest-grossing film of 1986 in North America. The film's worldwide total gross has been stated as high as $180 million, making Aliens one of the highest-grossing R-rated films at the time. In 1992, Fox noted the worldwide gross was $157 million.</p><h4>Critical reception</h4><p>Aliens received universal acclaim. Test and pre-screenings were unable to take place due to the film not being completed until its week of release. Once it was released in cinemas, critical reaction was very positive. Audiences polled by CinemaScore gave the film an average grade of \"A\" on an A+ to F scale.</p><p>Critic Roger Ebert gave the film 3.5 stars out of 4 and called it \"painfully and unremittingly intense\" and a \"superb example of filmmaking craft.\" He also stated \"when I walked out of the theater, there were knots in my stomach from the film's roller-coaster ride of violence.\" Walter Goodman of The New York Times said it was a \"flaming, flashing, crashing, crackling blow-'em-up show that keeps you popping from your seat despite your better instincts and the basically conventional scare tactics.\" Time magazine featured the film on the cover of its July 28, 1986, issue, calling it the \"summer's scariest movie\". Time reviewer Richard Schickel declared the film \"a sequel that exceeds its predecessor in the reach of its appeal while giving Weaver new emotional dimensions to explore.\" The selection of Aliens for a Time cover was attributed to the successful reception of the film, as well as its novel example of a science-fiction action heroine. Echoing Time's assessment, Dave Kehr of the Chicago Reader called the film \"one sequel that surpasses the original.\" On the negative side, Gene Siskel described Aliens as \"one extremely violent, protracted attack on the senses\" and that \"toward the end, the film resorts to placing a young girl in jeopardy in a pathetic attempt to pander to who knows what audience. Some people have praised the technical excellence of Aliens. Well, the Eiffel Tower is technically impressive, but I wouldn't want to watch it fall apart on people for two hours.\"</p><h4>Accolades</h4><p>Aliens was nominated for seven Academy Awards including Best Actress, Best Original Score, Best Sound, Best Film Editing, and Best Art Direction. It won two awards for Sound Effects Editing and Visual Effects. Sigourney Weaver received her first Academy Award nomination for Best Actress and although she did not win, it was considered a landmark nomination for an actress to be considered for a science-fiction/horror film, a genre which previously was given little recognition.</p><p>Aliens received four BAFTA award nominations and won in the category of Visual Effects. It won eight Saturn Awards in the film categories of actress (Sigourney Weaver), supporting actor (Bill Paxton), supporting actress (Jenette Goldstein), performance by a younger actor (Carrie Henn), direction (James Cameron), writing (James Cameron), special effects (Stan Winston and the L.A. Effects Group), and science-fiction film.</p><p>Time magazine named Aliens in its Best of '86 list calling it a \"technically awesome blend of the horror, sci-fi and service-comedy genres.\" In 2007, Entertainment Weekly named Aliens as the second-best action movie of all time behind Die Hard. In a Rotten Tomatoes analysis of the top 100 science-fiction films, Aliens ranks tenth among the best-reviewed films of the genre. In 2004, Aliens was ranked 35th on Bravo's \"100 Scariest Movie Moments\" for the scene in which Ripley and Newt are attacked by facehuggers; the original Alien was ranked second for the chestburster scene. IGN ranked it third in its \"Top 25 Action Films of All Time\", stating that \"there won't be an Alien movie as scary\u2014or exciting\u2014as this one made ever again.\"Empire voted it the 'Greatest Film Sequel Of All Time'.</p><p>The film is also recognized by American Film Institute in the 2003 list AFI's 100 Years...100 Heroes & Villains: Ellen Ripley as the #8 hero.</p><br/><h3>Post-release</h3><h4>Home media</h4><p>Aliens was first released on VHS in 1987, finishing as the tenth-best-selling title of the year. A \"special edition\" of Aliens that restored 17 minutes of deleted footage was released in the UK on VHS on April 5, 1990 and in the US on LaserDisc in 1991 and on VHS the following year. These additions include a segment showing Newt's family first encountering the derelict spacecraft on LV-426, Ripley's learning that her daughter died during the years she was in hypersleep, a scene in the operations building in which the Marines use sentry guns against the aliens, and several extended dialogue scenes between Ripley and the Marines. These scenes had been deleted from the original theatrical release as 20th Century Fox representatives thought the film was showing \"too much nothing\" and spent an unnecessary amount of time building suspense.</p><p>Most of the special edition's footage was first seen when the film made its broadcast television debut on CBS in 1989, but two additional sequences concerning Burke's transmission to the colony about the derelict, and the Jorden family's subsequent discovery of the same, were added to the initial LaserDisc release. According to Cameron, the visual effects for the scene were incomplete, so he went back to the Skotak brothers and had them finish the sequences. All currently available versions of the special edition contain these scenes.</p><p>The special edition was released as part of The Alien Legacy 20th Anniversary Edition DVD box set in 1999 along with Alien, Alien 3, and Alien Resurrection. Both the theatrical version and the special edition were released again in 2003 as part of the Alien Quadrilogy DVD box set along with similar versions of Alien, Alien 3, and Alien Resurrection. A separate two-disc \"special collector's edition\" DVD of Aliens was released on January 6, 2004, containing the same material as the two Aliens discs in the Quadrilogy set. Additional content in these versions included an audio commentary for the special edition featuring director James Cameron, producer Gale Hurd, special effects artists and crew members. The second disc included special features relating to pre-production, production, and post-production. The film was first made available on Blu-ray in the 2010 box set Alien Anthology, before receiving a stand-alone release the following year. Fox released the 30th-anniversary Blu-ray of the movie on September 13, 2016.</p><h4>Interpretation and analysis</h4><p>Philosopher Stephen Mulhall has remarked that the four Alien films represent an artistic rendering of the difficulties faced by the woman's \"voice\" to have itself heard in a masculinist society because Ripley continually encounters males who try to silence her and to force her to submit to their desires. Mulhall sees this depicted in several events in Aliens, particularly the inquest scene in which Ripley's explanation for the deaths and destruction of the Nostromo as well as her attempts to warn the board members of the Alien danger are met with officious disdain. However, Mulhall believes that Ripley's relationship with Hicks illustrates that Aliens \"is devoted ... to the possibility of modes of masculinity that seek not to stifle but rather to accommodate the female voice, and modes of femininity that can acknowledge and incorporate something more or other of masculinity than our worst nightmares of it.\"</p><p>Several movie academics, including Barbara Creed, have remarked on the color and lighting symbolism in the Alien franchise, which offsets white, strongly lit environments (spaceships, corporate offices) against darker, dirtier, \"corrupted\" settings (derelict alien ship, abandoned industrial facilities). These black touches contrast or even attempt to take over the purity of the white elements. Others, such as Kile M. Ortigo of Emory University, agree with this interpretation and point to the Sulaco with its \"sterilized, white interior\".</p><p>While some claim that the shape of the Sulaco was based on a submarine, the design has most often been described as a \"gun in space\" resembling the rifles used in the movie. Author Roz Kaveney called the opening shot of the ship traveling through space \"fetishistic\" and \"shark-like\", \"an image of brutal strength and ingenious efficiency\"\u2014while the militarized interior of the Sulaco (designed by Ron Cobb) is contrasted to the organic interior of the Nostromo in the first movie (also designed by Cobb). David McIntee noted the homage the scene pays to the opening tour through the Nostromo in Alien.</p><p>Roger Luckhurst in his 2014 book on the original Alien film, compared its underlying worldview to that of Aliens stating, \"Even if Alien was a piece of leftist science fiction, the core of (its) myth could be inflected the other way. James Cameron's Aliens would be a defiantly Reaganite version of the story\u2014pumped, militarized, libertarian and driven by a staunch defense of the nuclear family.\"</p><p>The android character Bishop has been the subject of literary and philosophical analysis as a high-profile fictional android conforming to science-fiction author Isaac Asimov's Three Laws of Robotics and as a model of a compliant, potentially self-aware machine. His portrayal has been studied by writers for the University of Texas Press for its implications relating to how humans deal with the presence of an \"Other\", as Ripley treats them with fear and suspicion after the android Ash tried to kill her in the original Alien movie, and a form of \"hi-tech racism and android apartheid\" is present throughout the series. This is seen as part of a larger trend of technophobia in films before the 1990s, with Bishop's role being particularly significant as he doubly proves his worth at the end of the film, thus confounding Ripley's expectations.</p><br/><h3>Cultural impact</h3><h4>Lasting reception</h4><p>The film has remained critically acclaimed over the years. In a 2000 review, film critic James Berardinelli said \"When it comes to the logical marriage of action, adventure, and science fiction, few films are as effective or accomplished as Aliens.\" Austin Chronicle contributor Marjorie Baumgarten labeled the film in 2002 as \"a non-stop action fest.\" In 2016, James Charisma of Playboy ranked the film #6 on a list of \"15 Sequels That Are Way Better Than the Originals\".</p><p>Aliens holds a 97% approval rating on Rotten Tomatoes based on 74 reviews, and an average rating of 8.99/10. The site's critical consensus reads, \"While Alien was a marvel of slow-building, atmospheric tension, Aliens packs a much more visceral punch, and features a typically strong performance from Sigourney Weaver.\" It also holds a score of 84 out of 100 based on 22 critics on Metacritic, indicating \"universal acclaim\". Aliens was also featured in Empire Magazine's 500 Greatest Movies of All Time poll at #30 in 2008, in Empire's 301 Greatest Films of All Time poll at #19 in 2014 and in Empire's recent The 100 Greatest Movies of All Time poll at #15.</p><h4>Merchandise</h4><p>In 2013, National Entertainment Collectibles Association (NECA) released the first wave of highly detailed human and alien action figures from the respective film. NECA's Reel Toys worked directly with actors from the Alien franchise to release realistic figures based on select characters they portrayed in the films. NECA has released seven-inch figures based on characters such as Corporal Hicks, Private Hudson, and Bishop. During winter 2014, it was announced there would be multiple figures of Ripley, Sigourney Weaver's character from the Alien films. NECA worked directly with Weaver to develop these action figures, which are the first to feature her likeness.</p><p>Three pinball adaptation of Aliens were also released, with two virtual and one physical. The first pinball adaptation of the film was one of four virtual tables in the 1999 computer game Sci-Fi Pinball, with the other three based on the first two Predator films, Buffy the Vampire Slayer and The Fly. On April 26, 2016 Zen Studios released the Aliens vs. Pinball add-on pack for Zen Pinball 2, Pinball FX 2 and Pinball FX 3, which contained a digital pinball adaptation of the film featuring 3-D animated figures of Ripley and the Xenomorph Queen and omitting the film's graphic violence and strong profanity. Nearly a year later, the short-lived Heighway Pinball developed and released a physical pinball adaptation of the first two films of the Alien franchise.</p><br/><h3>Sequel</h3><p>A sequel, Alien 3, was released in 1992.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0090605",
+        "title": "Aliens",
+        "fullTitle": "Aliens (1986)",
+        "type": "Movie",
+        "year": "1986",
+        "posters": [
+            {
+                "id": "3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+                "link": "https://imdb-api.com/posters/original/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "e8vFQ0lXadQGSAsbQumEAur8Z7T.jpg",
+                "link": "https://imdb-api.com/posters/original/e8vFQ0lXadQGSAsbQumEAur8Z7T.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "xwdPTZyyBa4U3V2N0EmozTCeEAY.jpg",
+                "link": "https://imdb-api.com/posters/original/xwdPTZyyBa4U3V2N0EmozTCeEAY.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "qSaOo9JCDCFc1cvYiBzEooPe36U.jpg",
+                "link": "https://imdb-api.com/posters/original/qSaOo9JCDCFc1cvYiBzEooPe36U.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "it",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "36pLA8iRP7ROgXVCLdwByzIWZQ.jpg",
+                "link": "https://imdb-api.com/posters/original/36pLA8iRP7ROgXVCLdwByzIWZQ.jpg",
+                "aspectRatio": 0.666,
+                "language": "pl",
+                "width": 999,
+                "height": 1500
+            },
+            {
+                "id": "e3Id4pTfiMNECNdharWtK8iUyVR.jpg",
+                "link": "https://imdb-api.com/posters/original/e3Id4pTfiMNECNdharWtK8iUyVR.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "sdqP5tJArASAPDrAAJw4vF2K5Sq.jpg",
+                "link": "https://imdb-api.com/posters/original/sdqP5tJArASAPDrAAJw4vF2K5Sq.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "uk",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "3eHFrdmBENZMbutlNMguqTAl3bf.jpg",
+                "link": "https://imdb-api.com/posters/original/3eHFrdmBENZMbutlNMguqTAl3bf.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "uafMg29wVV4XvxPS59s8nBBbP4i.jpg",
+                "link": "https://imdb-api.com/posters/original/uafMg29wVV4XvxPS59s8nBBbP4i.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "bRkoqnmuqcL2nEkUFQRUPqOxNKN.jpg",
+                "link": "https://imdb-api.com/posters/original/bRkoqnmuqcL2nEkUFQRUPqOxNKN.jpg",
+                "aspectRatio": 0.667853962600178,
+                "language": "en",
+                "width": 750,
+                "height": 1123
+            },
+            {
+                "id": "oOCvDVtUaHCn47xxJhroGRiw0Wy.jpg",
+                "link": "https://imdb-api.com/posters/original/oOCvDVtUaHCn47xxJhroGRiw0Wy.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "ru",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "yc2MINuzcmWpKpqD0O85o3flvI9.jpg",
+                "link": "https://imdb-api.com/posters/original/yc2MINuzcmWpKpqD0O85o3flvI9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "sv",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "qVR4Hytqf4d4Z2TG593XZ9vuqZh.jpg",
+                "link": "https://imdb-api.com/posters/original/qVR4Hytqf4d4Z2TG593XZ9vuqZh.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "2Dg8f673w1FgT4KesMrU8iLO2Ac.jpg",
+                "link": "https://imdb-api.com/posters/original/2Dg8f673w1FgT4KesMrU8iLO2Ac.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "1XeDaMWpp9kFbIMrru87qKpeqI8.jpg",
+                "link": "https://imdb-api.com/posters/original/1XeDaMWpp9kFbIMrru87qKpeqI8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "v4CtXyaQc5HOSAzP1CWAVd0mVNT.jpg",
+                "link": "https://imdb-api.com/posters/original/v4CtXyaQc5HOSAzP1CWAVd0mVNT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "2pfTZiNxhpJDpsqvfwsrbu2wCMt.jpg",
+                "link": "https://imdb-api.com/posters/original/2pfTZiNxhpJDpsqvfwsrbu2wCMt.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dCmXNVy6p9ovfDRJd4eV3P2yAWN.jpg",
+                "link": "https://imdb-api.com/posters/original/dCmXNVy6p9ovfDRJd4eV3P2yAWN.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "1DLM0nSQsO5Cq1ImdIkXJIVgImP.jpg",
+                "link": "https://imdb-api.com/posters/original/1DLM0nSQsO5Cq1ImdIkXJIVgImP.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "wDmD5WuEgvOKvG737ACf4ktDEoA.jpg",
+                "link": "https://imdb-api.com/posters/original/wDmD5WuEgvOKvG737ACf4ktDEoA.jpg",
+                "aspectRatio": 0.6665458499456325,
+                "language": "uk",
+                "width": 1839,
+                "height": 2759
+            },
+            {
+                "id": "8W0NX4Ejn4eO1JSXk7aMHDqn2Fr.jpg",
+                "link": "https://imdb-api.com/posters/original/8W0NX4Ejn4eO1JSXk7aMHDqn2Fr.jpg",
+                "aspectRatio": 0.7115135834411385,
+                "language": "ja",
+                "width": 550,
+                "height": 773
+            },
+            {
+                "id": "7q0VmsRshlqClasi3Dk2KGFtyzg.jpg",
+                "link": "https://imdb-api.com/posters/original/7q0VmsRshlqClasi3Dk2KGFtyzg.jpg",
+                "aspectRatio": 0.7087517934002869,
+                "language": "zh",
+                "width": 988,
+                "height": 1394
+            },
+            {
+                "id": "bqxZuSZjA1jGj0o00EubYVMNK1R.jpg",
+                "link": "https://imdb-api.com/posters/original/bqxZuSZjA1jGj0o00EubYVMNK1R.jpg",
+                "aspectRatio": 0.707852193995381,
+                "language": "uk",
+                "width": 1839,
+                "height": 2598
+            },
+            {
+                "id": "xHXM4n8ozA8NKFRwidgDyysQX8E.jpg",
+                "link": "https://imdb-api.com/posters/original/xHXM4n8ozA8NKFRwidgDyysQX8E.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "sTtc0wbEFOuDWpwR4IdCvlC2gCu.jpg",
+                "link": "https://imdb-api.com/posters/original/sTtc0wbEFOuDWpwR4IdCvlC2gCu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "hu",
+                "width": 1300,
+                "height": 1950
+            },
+            {
+                "id": "392X5xmDQhZvCCBaq85l1Z20RsL.jpg",
+                "link": "https://imdb-api.com/posters/original/392X5xmDQhZvCCBaq85l1Z20RsL.jpg",
+                "aspectRatio": 0.7090909090909091,
+                "language": "ko",
+                "width": 741,
+                "height": 1045
+            },
+            {
+                "id": "z2I9yjEijpZVCmApnp3OPWXqEgU.jpg",
+                "link": "https://imdb-api.com/posters/original/z2I9yjEijpZVCmApnp3OPWXqEgU.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "70IEboc3kAwqBD6VZuNh0nipIuF.jpg",
+                "link": "https://imdb-api.com/posters/original/70IEboc3kAwqBD6VZuNh0nipIuF.jpg",
+                "aspectRatio": 0.7034822370735139,
+                "language": "hi",
+                "width": 2000,
+                "height": 2843
+            },
+            {
+                "id": "bn6OHP4jjNb9X64xfM69BQBu0BS.jpg",
+                "link": "https://imdb-api.com/posters/original/bn6OHP4jjNb9X64xfM69BQBu0BS.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "cEEizIC3BNqxWgKEvuMrfWIB3R8.jpg",
+                "link": "https://imdb-api.com/posters/original/cEEizIC3BNqxWgKEvuMrfWIB3R8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "de",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "bHvnlFiToNGqZziqjUzCioaRNeL.jpg",
+                "link": "https://imdb-api.com/posters/original/bHvnlFiToNGqZziqjUzCioaRNeL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "lrq7TfmkNjq3E7GTSEKI0BXdMgB.jpg",
+                "link": "https://imdb-api.com/posters/original/lrq7TfmkNjq3E7GTSEKI0BXdMgB.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+                "link": "https://imdb-api.com/posters/original/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "cN4b517ZBGuWCAmjXHwBMNI620V.jpg",
+                "link": "https://imdb-api.com/posters/original/cN4b517ZBGuWCAmjXHwBMNI620V.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "13OtonhC3ODSKMp1ULrAZnsOASx.jpg",
+                "link": "https://imdb-api.com/posters/original/13OtonhC3ODSKMp1ULrAZnsOASx.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "cs",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "6BAxwuVIfw2ztziRv3tpSKPuXas.jpg",
+                "link": "https://imdb-api.com/posters/original/6BAxwuVIfw2ztziRv3tpSKPuXas.jpg",
+                "aspectRatio": 0.7053333333333334,
+                "language": "ja",
+                "width": 529,
+                "height": 750
+            },
+            {
+                "id": "yZDuRnrrD8wtObB0A96andqceM9.jpg",
+                "link": "https://imdb-api.com/posters/original/yZDuRnrrD8wtObB0A96andqceM9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "tinxK3vM1YWtB92msDl5qWVNYMF.jpg",
+                "link": "https://imdb-api.com/posters/original/tinxK3vM1YWtB92msDl5qWVNYMF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "eBhfKABknZzzSKH0r1JRB1Sw4Yr.jpg",
+                "link": "https://imdb-api.com/posters/original/eBhfKABknZzzSKH0r1JRB1Sw4Yr.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "du3ZxHnuoj1EIc2r5ZopmDiwZll.jpg",
+                "link": "https://imdb-api.com/posters/original/du3ZxHnuoj1EIc2r5ZopmDiwZll.jpg",
+                "aspectRatio": 0.706,
+                "language": "bg",
+                "width": 706,
+                "height": 1000
+            }
+        ],
+        "backdors": [
+            {
+                "id": "gXUdQLbo6eqaTby2cEjFQW1jyVV.jpg",
+                "link": "https://imdb-api.com/posters/original/gXUdQLbo6eqaTby2cEjFQW1jyVV.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "qmYNTdx13WGRPWiIzYN8FEAYCXP.jpg",
+                "link": "https://imdb-api.com/posters/original/qmYNTdx13WGRPWiIzYN8FEAYCXP.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "a1m0OVUMaGrQAfLVJya2HTRp3SE.jpg",
+                "link": "https://imdb-api.com/posters/original/a1m0OVUMaGrQAfLVJya2HTRp3SE.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "7t7kSGa8SABYHI91r9txLV4i0jW.jpg",
+                "link": "https://imdb-api.com/posters/original/7t7kSGa8SABYHI91r9txLV4i0jW.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "es",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "sJfDC6aPHO8xAHJ8FDvte9TQxbG.jpg",
+                "link": "https://imdb-api.com/posters/original/sJfDC6aPHO8xAHJ8FDvte9TQxbG.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nmfHxuMnpT8ZKSremCILzFLOFG2.jpg",
+                "link": "https://imdb-api.com/posters/original/nmfHxuMnpT8ZKSremCILzFLOFG2.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "aR8xkfamFzqQDO3jpmKCS5mse58.jpg",
+                "link": "https://imdb-api.com/posters/original/aR8xkfamFzqQDO3jpmKCS5mse58.jpg",
+                "aspectRatio": 1.775933609958506,
+                "language": "de",
+                "width": 1712,
+                "height": 964
+            },
+            {
+                "id": "x7iOrNOKnLAiGdT9Ffhfkei54Ye.jpg",
+                "link": "https://imdb-api.com/posters/original/x7iOrNOKnLAiGdT9Ffhfkei54Ye.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0090605",
+        "title": "Aliens",
+        "fullTitle": "Aliens (1986)",
+        "type": "Movie",
+        "year": "1986",
+        "items": [
+            {
+                "title": "Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3NzU5NDE0MF5BMl5BanBnXkFtZTgwNjAxNzE5MDI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "James Cameron and Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BNzA4MDgwOTE4NF5BMl5BanBnXkFtZTgwODAwNzc5OTE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "James Cameron, Sigourney Weaver, and Michael Biehn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BNDM2ODYyMDcxNV5BMl5BanBnXkFtZTgwOTAwNzc5OTE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0ODgyMDkwNV5BMl5BanBnXkFtZTgwMDEwNzc5OTE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Bill Paxton, Sigourney Weaver, Michael Biehn, Jenette Goldstein, and Paul Reiser in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0NDcwMjY3MV5BMl5BanBnXkFtZTgwMTEwNzc5OTE@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BNTM4ODE0MDcwN15BMl5BanBnXkFtZTgwMjEwNzc5OTE@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "James Cameron and Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1NzQyNDYyMF5BMl5BanBnXkFtZTgwMzEwNzc5OTE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver and Carrie Henn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4NTMyODA4NV5BMl5BanBnXkFtZTcwODY0MTI3NA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Barbara Coles in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzODI5Mzc0NV5BMl5BanBnXkFtZTcwOTY0MTI3NA@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver and Michael Biehn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NjMzNjMwMV5BMl5BanBnXkFtZTcwMDc0MTI3NA@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxMDM2MDY5OF5BMl5BanBnXkFtZTcwMTc0MTI3NA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0MzgyODQ3OF5BMl5BanBnXkFtZTcwMjc0MTI3NA@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA2MTE0MDg5M15BMl5BanBnXkFtZTcwOTkzODEyMw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1NDE5NDIxMl5BMl5BanBnXkFtZTcwNjkzODEyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lance Henriksen in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzOTE4MzM5NV5BMl5BanBnXkFtZTcwNzkzODEyMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Carrie Henn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzNDAwODUwMF5BMl5BanBnXkFtZTcwODkzODEyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Paxton, Sigourney Weaver, Michael Biehn, Lance Henriksen, Jenette Goldstein, Paul Reiser, Mark Rolston, Colette Hiller, William Hope, Daniel Kash, Al Matthews, Ricco Ross, Cynthia Dale Scott, Trevor Steedman, and Tip Tipping in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIyMTIyOTQ2OV5BMl5BanBnXkFtZTcwMDA0ODEyMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver and Carrie Henn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA5Njc3MzU2ODdeQTJeQWpwZ15BbWU3MDEwNDgxMjM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver and Carrie Henn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3ODM2OTY3OV5BMl5BanBnXkFtZTcwMjA0ODEyMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jenette Goldstein in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg1MDU0OTgzOF5BMl5BanBnXkFtZTcwMTM0ODEyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5MTQxNTE3Nl5BMl5BanBnXkFtZTcwMjM0ODEyMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Carrie Henn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4OTY5Nzg5NV5BMl5BanBnXkFtZTcwMzM0ODEyMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Barbara Coles in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2ODA4MTAxNV5BMl5BanBnXkFtZTcwNDM0ODEyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5MjQyMjI4NF5BMl5BanBnXkFtZTYwMDk0NDY3._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver and Carrie Henn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4MTMyNjcyNl5BMl5BanBnXkFtZTYwMTk0NDY3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyNjE1NjM5MF5BMl5BanBnXkFtZTYwMzk0NDY3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver and Carrie Henn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3MTkzMTg5NV5BMl5BanBnXkFtZTYwNTk0NDY3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2NDQ5NDM4NV5BMl5BanBnXkFtZTYwNzk0NDY3._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1MDQ5MTM4NF5BMl5BanBnXkFtZTYwMDA1NDY3._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver, Michael Biehn, Jenette Goldstein, and Carrie Henn in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIyMDU3MTAzOV5BMl5BanBnXkFtZTYwMjA1NDY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Colette Hiller and Carl Toop in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTExMjE2ODE4MDJeQTJeQWpwZ15BbWU2MDQwNTQ2Nw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Tom Delmar Stuntman. The stunt crew as Aliens had a monster ball on James Cameron's 'Aliens' .jpg",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxMjY4Mzg2M15BMl5BanBnXkFtZTcwODcyNTEzMQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwNDk3OTUwOF5BMl5BanBnXkFtZTcwNjY0MTI3NA@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "James Cameron in Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIzMzQyNzMwN15BMl5BanBnXkFtZTYwODA1NDY3._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Lance Henriksen at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMzM3NTc3MjMzOV5BMl5BanBnXkFtZTgwNDAyODI1OTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lance Henriksen at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI1NDAzNTY1MF5BMl5BanBnXkFtZTgwNTAyODI1OTE@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Paul Reiser at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTEwNzE4MDY4MDNeQTJeQWpwZ15BbWU4MDQ3NDYyNTkx._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Biehn at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3MTUxOTU2N15BMl5BanBnXkFtZTgwNTc0NjI1OTE@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "James Cameron at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BNjc4MDA0Mzc4M15BMl5BanBnXkFtZTgwNjc0NjI1OTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Paxton, Sigourney Weaver, and Lance Henriksen at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3MDUyMzUyMl5BMl5BanBnXkFtZTgwNzc0NjI1OTE@._V1_Ratio1.5800_AL_.jpg"
+            },
+            {
+                "title": "Bill Paxton at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5MzA2NzkyOF5BMl5BanBnXkFtZTgwODc0NjI1OTE@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "James Cameron, Bill Paxton, Sigourney Weaver, Michael Biehn, Lance Henriksen, Carrie Henn, Paul Reiser, and Gale Anne Hurd at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BNDM5NzEzOTY4Nl5BMl5BanBnXkFtZTgwOTc0NjI1OTE@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI5NTM0Nzc5OV5BMl5BanBnXkFtZTgwMTg0NjI1OTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sigourney Weaver at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgxNjkxODE5Ml5BMl5BanBnXkFtZTgwMjg0NjI1OTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "James Cameron at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2NzEyODY1Nl5BMl5BanBnXkFtZTgwMjc0NjI1OTE@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Lance Henriksen at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BNTE5ODI0OTAxM15BMl5BanBnXkFtZTgwMzc0NjI1OTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carrie Henn at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NTY0NjEzM15BMl5BanBnXkFtZTgwMzQyMzA1OTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Carrie Henn at an event for Aliens (1986)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2MjQzMjg1M15BMl5BanBnXkFtZTgwOTMyMzA1OTE@._V1_Ratio1.5000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0090605",
+        "title": "Aliens",
+        "fullTitle": "Aliens (1986)",
+        "type": "Movie",
+        "year": "1986",
+        "videoId": "vi368744473",
+        "videoTitle": "Aliens",
+        "videoDescription": "Trailer 5 for Aliens",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTUxNTQ1YzItYzVmNS00YWEzLTljNTEtYWJkZTVlMjJlZmQ4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "12/19/2010 06:05:43",
+        "link": "https://www.imdb.com/video/vi368744473",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi368744473/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$18,500,000 (estimated)",
+        "openingWeekendUSA": "$10,052,042, 20 July 1986",
+        "grossUSA": "$85,160,248",
+        "cumulativeWorldwideGross": "$131,335,326"
+    },
+    "tagline": "This time there's more.",
+    "keywords": "alien,rescue mission,soldier,monster,death of daughter",
+    "keywordList": [
+        "alien",
+        "rescue mission",
+        "soldier",
+        "monster",
+        "death of daughter"
+    ],
+    "similars": [
+        {
+            "id": "tt0078748",
+            "title": "Alien",
+            "fullTitle": "Alien (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+            "directors": "Ridley Scott",
+            "stars": "Sigourney Weaver, Tom Skerritt, John Hurt",
+            "genres": "Horror, Sci-Fi",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0103644",
+            "title": "Alien 3",
+            "fullTitle": "Alien 3 (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BYTNiYmQzNTctNzAyZC00ODY2LWE3ZjgtODU1NDA0NGI5ZDY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After her last encounter, Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor.",
+            "directors": "David Fincher",
+            "stars": "Sigourney Weaver, Charles S. Dutton, Charles Dance",
+            "genres": "Action, Horror, Sci-Fi",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt0118583",
+            "title": "Alien: Resurrection",
+            "fullTitle": "Alien: Resurrection (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BNDljNGZkNmItNDlmMi00YzJhLWJiYWUtNGY4OGEwNmY0ODg4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth.",
+            "directors": "Jean-Pierre Jeunet",
+            "stars": "Sigourney Weaver, Winona Ryder, Dominique Pinon",
+            "genres": "Action, Horror, Sci-Fi",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt0103064",
+            "title": "Terminator 2: Judgment Day",
+            "fullTitle": "Terminator 2: Judgment Day (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+            "directors": "James Cameron",
+            "stars": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+            "genres": "Action, Sci-Fi",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0088247",
+            "title": "The Terminator",
+            "fullTitle": "The Terminator (1984)",
+            "year": "1984",
+            "image": "https://imdb-api.com/images/original/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1984, a human soldier is tasked to stop an indestructible cyborg killing machine, both sent from 2029, from executing a young woman, whose unborn son is the key to humanity's future salvation.",
+            "directors": "James Cameron",
+            "stars": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",
+            "genres": "Action, Sci-Fi",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0095016",
+            "title": "Die Hard",
+            "fullTitle": "Die Hard (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+            "directors": "John McTiernan",
+            "stars": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
+            "genres": "Action, Thriller",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0088763",
+            "title": "Back to the Future",
+            "fullTitle": "Back to the Future (1985)",
+            "year": "1985",
+            "image": "https://imdb-api.com/images/original/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+            "directors": "Robert Zemeckis",
+            "stars": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+            "genres": "Adventure, Comedy, Sci-Fi",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0082971",
+            "title": "Raiders of the Lost Ark",
+            "fullTitle": "Raiders of the Lost Ark (1981)",
+            "year": "1981",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+            "directors": "Steven Spielberg",
+            "stars": "Harrison Ford, Karen Allen, Paul Freeman",
+            "genres": "Action, Adventure",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0086190",
+            "title": "Star Wars: Episode VI - Return of the Jedi",
+            "fullTitle": "Star Wars: Episode VI - Return of the Jedi (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+            "directors": "Richard Marquand",
+            "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0076759",
+            "title": "Star Wars: Episode IV - A New Hope",
+            "fullTitle": "Star Wars: Episode IV - A New Hope (1977)",
+            "year": "1977",
+            "image": "https://imdb-api.com/images/original/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+            "directors": "George Lucas",
+            "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0107290",
+            "title": "Jurassic Park",
+            "fullTitle": "Jurassic Park (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+            "directors": "Steven Spielberg",
+            "stars": "Sam Neill, Laura Dern, Jeff Goldblum",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt1446714",
+            "title": "Prometheus",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
+            "directors": "Ridley Scott",
+            "stars": "Noomi Rapace, Logan Marshall-Green, Michael Fassbender",
+            "genres": "Adventure, Mystery, Sci-Fi",
+            "imDbRating": "7"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

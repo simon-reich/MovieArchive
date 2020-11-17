@@ -1,0 +1,2789 @@
+{
+    "id": "tt1263670",
+    "title": "Crazy Heart",
+    "originalTitle": "",
+    "fullTitle": "Crazy Heart (2009)",
+    "type": "Movie",
+    "year": "2009",
+    "image": "https://imdb-api.com/images/original/MV5BMTU0NDc5NjgzNl5BMl5BanBnXkFtZTcwNzc0NDIzMw@@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2010-02-05",
+    "runtimeMins": "112",
+    "runtimeStr": "1h 52mins",
+    "plot": "Bad Blake is a broken-down, hard-living country music singer who's had way too many marriages, far too many years on the road and one too many drinks way too many times. And yet, Bad can't help but reach for salvation with the help of Jean, a journalist who discovers the real man behind the musician.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Won 2 Oscars. Another 37 wins & 33 nominations.",
+    "directors": "Scott Cooper",
+    "directorList": [
+        {
+            "id": "nm0178376",
+            "name": "Scott Cooper"
+        }
+    ],
+    "writers": "Scott Cooper, Thomas Cobb",
+    "writerList": [
+        {
+            "id": "nm0178376",
+            "name": "Scott Cooper"
+        },
+        {
+            "id": "nm3084575",
+            "name": "Thomas Cobb"
+        }
+    ],
+    "stars": "Jeff Bridges, Maggie Gyllenhaal, Colin Farrell, James Keane",
+    "starList": [
+        {
+            "id": "nm0000313",
+            "name": "Jeff Bridges"
+        },
+        {
+            "id": "nm0350454",
+            "name": "Maggie Gyllenhaal"
+        },
+        {
+            "id": "nm0268199",
+            "name": "Colin Farrell"
+        },
+        {
+            "id": "nm0443856",
+            "name": "James Keane"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000313",
+            "image": "https://imdb-api.com/images/original/MV5BNTU1NjM4MDYzMl5BMl5BanBnXkFtZTcwMjIwMjMyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jeff Bridges",
+            "asCharacter": "Bad Blake"
+        },
+        {
+            "id": "nm0443856",
+            "image": "https://imdb-api.com/images/original/MV5BMTM0MTcwNzYyN15BMl5BanBnXkFtZTcwOTY3NzEzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Keane",
+            "asCharacter": "Manager"
+        },
+        {
+            "id": "nm2485687",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anna Felix",
+            "asCharacter": "Barmaid"
+        },
+        {
+            "id": "nm0379200",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ4MDYwMTI1N15BMl5BanBnXkFtZTgwODQ1Njg5MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Herman",
+            "asCharacter": "Jack Greene"
+        },
+        {
+            "id": "nm0101005",
+            "image": "https://imdb-api.com/images/original/MV5BNzdmZjMwMzgtNWIzZS00NTQ5LWEzZjMtMTBiNDZkNTcyYzNmXkEyXkFqcGdeQXVyODQxMzk1NQ@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Tom Bower",
+            "asCharacter": "Bill Wilson"
+        },
+        {
+            "id": "nm1123709",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2NDI0MjEzMV5BMl5BanBnXkFtZTcwODgwNDc0NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ryan Bingham",
+            "asCharacter": "Tony"
+        },
+        {
+            "id": "nm0335275",
+            "image": "https://imdb-api.com/images/original/MV5BMTA3OTQ3ODE0OTheQTJeQWpwZ15BbWU3MDcyNzc4MTQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Beth Grant",
+            "asCharacter": "Jo Ann"
+        },
+        {
+            "id": "nm0224496",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rick Dial",
+            "asCharacter": "Wesley Barnes"
+        },
+        {
+            "id": "nm0350454",
+            "image": "https://imdb-api.com/images/original/MV5BMTM1MjY3NzA4NF5BMl5BanBnXkFtZTcwNzE4MjMyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Maggie Gyllenhaal",
+            "asCharacter": "Jean Craddock"
+        },
+        {
+            "id": "nm1833916",
+            "image": "https://imdb-api.com/images/original/MV5BMDQ0NDM1MzMtZWE4YS00YTQ5LWFjOWQtZDgxOGZmODZlNTQ0XkEyXkFqcGdeQXVyMTM2ODU4NjM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Debrianna Mansini",
+            "asCharacter": "Ann"
+        },
+        {
+            "id": "nm3269381",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jerry Handy",
+            "asCharacter": "Cowboy (as Jerry Hardy)"
+        },
+        {
+            "id": "nm3711886",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jack Nation",
+            "asCharacter": "Buddy"
+        },
+        {
+            "id": "nm1758558",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3OTE5ODQ3MF5BMl5BanBnXkFtZTcwOTAyNjIzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ryil Adamson",
+            "asCharacter": "Ralphie"
+        },
+        {
+            "id": "nm0646511",
+            "image": "https://imdb-api.com/images/original/MV5BMjE3NTUzNTQyN15BMl5BanBnXkFtZTYwNjEwNjgy._V1_Ratio0.7273_AL_.jpg",
+            "name": "J. Michael Oliva",
+            "asCharacter": "Bear (as J. Michael 'Yak' Oliva)"
+        },
+        {
+            "id": "nm0544391",
+            "image": "https://imdb-api.com/images/original/MV5BMTY1NTIwMzc2N15BMl5BanBnXkFtZTgwNjM1NTU1NzE@._V1_Ratio0.8636_AL_.jpg",
+            "name": "David Manzanares",
+            "asCharacter": "Nick"
+        },
+        {
+            "id": "nm0268199",
+            "image": "https://imdb-api.com/images/original/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Colin Farrell",
+            "asCharacter": "Tommy Sweet"
+        },
+        {
+            "id": "nm1080822",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chad Brummett",
+            "asCharacter": "Young Guy"
+        },
+        {
+            "id": "nm2045365",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jose Jacinto Marquez",
+            "asCharacter": "Older Hispanic Man (as Jose Marquez)"
+        },
+        {
+            "id": "nm1543329",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "LeAnne Lynch",
+            "asCharacter": "Nurse (as Le Anne Lynch)"
+        },
+        {
+            "id": "nm0549884",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Marquez",
+            "asCharacter": "Doctor"
+        },
+        {
+            "id": "nm0000380",
+            "image": "https://imdb-api.com/images/original/MV5BMjk1MjA2Mjc2MF5BMl5BanBnXkFtZTcwOTE4MTUwMg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Duvall",
+            "asCharacter": "Wayne"
+        },
+        {
+            "id": "nm3049500",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Richard W. Gallegos",
+            "asCharacter": "Jesus / Juan (as Richard Gallegos)"
+        },
+        {
+            "id": "nm1897812",
+            "image": "https://imdb-api.com/images/original/MV5BMTQyMTA4NTc5OF5BMl5BanBnXkFtZTcwNzI2MTIzOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Brian Gleason",
+            "asCharacter": "Steven Reynolds"
+        },
+        {
+            "id": "nm2365299",
+            "image": "https://imdb-api.com/images/original/MV5BZDkwOTAyODktYmM3My00ODU1LWI2NjctZGUxN2Y3ZmZiZGZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Harry Zinn",
+            "asCharacter": "Bartender"
+        },
+        {
+            "id": "nm0077595",
+            "image": "https://imdb-api.com/images/original/MV5BMTMxODM0NTU3NF5BMl5BanBnXkFtZTcwNjc1MTgzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Josh Berry",
+            "asCharacter": "Security Guard"
+        },
+        {
+            "id": "nm0827429",
+            "image": "https://imdb-api.com/images/original/MV5BMGVmNDFhMjgtODc2Ni00ZTVlLWFjMGUtYzhkYmMyNzliNWVlXkEyXkFqcGdeQXVyNDkxNDczMQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "William Sterchi",
+            "asCharacter": "Pat"
+        },
+        {
+            "id": "nm2113171",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Valerie Adams",
+            "asCharacter": "Rehab Patient / Driver (uncredited)"
+        },
+        {
+            "id": "nm1124900",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chris Bentley",
+            "asCharacter": "Record Company Executive (uncredited)"
+        },
+        {
+            "id": "nm6688949",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Derek Blakeney",
+            "asCharacter": "Concert Patron / Security Guard / Mall Patron (uncredited)"
+        },
+        {
+            "id": "nm5134147",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cade Borek",
+            "asCharacter": "Restaurant Twin (uncredited)"
+        },
+        {
+            "id": "nm5134217",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Luke Borek",
+            "asCharacter": "Restaurant Twin (uncredited)"
+        },
+        {
+            "id": "nm3598505",
+            "image": "https://imdb-api.com/images/original/MV5BNjY0MDQ0ODM2NV5BMl5BanBnXkFtZTgwODcyNzUzNzE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Tina Borek",
+            "asCharacter": "Woman in Restaurant (uncredited)"
+        },
+        {
+            "id": "nm3139906",
+            "image": "https://imdb-api.com/images/original/MV5BOGNiZDhlMGMtZTA4OC00ODg0LTg2NGQtMGJmMTdjZmFiYWM5XkEyXkFqcGdeQXVyMjIwNjgwMDg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Steven Ray Byrd",
+            "asCharacter": "Tommy Sweet Security (uncredited)"
+        },
+        {
+            "id": "nm9541494",
+            "image": "https://imdb-api.com/images/original/MV5BNGRjMGJlY2QtZmEzYi00MzVjLTkzMmQtYjQ0ZDM0ODQ0OWRiXkEyXkFqcGdeQXVyODQyMjk4NDQ@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Cindy Cook",
+            "asCharacter": "Audience Member (uncredited)"
+        },
+        {
+            "id": "nm0179960",
+            "image": "https://imdb-api.com/images/original/MV5BNzczNzkzMjcwM15BMl5BanBnXkFtZTgwMzE2MTQwNDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Annie Corley",
+            "asCharacter": "Donna (uncredited)"
+        },
+        {
+            "id": "nm3087475",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chad DeGroot",
+            "asCharacter": "Roadie (uncredited)"
+        },
+        {
+            "id": "nm3082812",
+            "image": "https://imdb-api.com/images/original/MV5BMTY4NTAzOTEwOV5BMl5BanBnXkFtZTgwNjM3MDAwMTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Hayley Derryberry",
+            "asCharacter": "Fan Taking Photo (uncredited)"
+        },
+        {
+            "id": "nm2672980",
+            "image": "https://imdb-api.com/images/original/MV5BNTNiY2Q1MmQtYTVlNy00MDA5LTgzZTMtM2IyZGRiMTg4YzRiXkEyXkFqcGdeQXVyNDI4MDA1NDc@._V1_Ratio0.7727_AL_.jpg",
+            "name": "John H. Euber",
+            "asCharacter": "Rehab patient (uncredited)"
+        },
+        {
+            "id": "nm2604509",
+            "image": "https://imdb-api.com/images/original/MV5BZjFhZDIxYzUtMjM5NS00NTdhLWE0OTgtYzZkYzRmMjFlNTZiXkEyXkFqcGdeQXVyMTE0ODIwMDM1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jeffrey Feingold",
+            "asCharacter": "Dirk - Singer (uncredited)"
+        },
+        {
+            "id": "nm3164114",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nicole Gramlich",
+            "asCharacter": "Shopper in Hall (uncredited)"
+        },
+        {
+            "id": "nm2835559",
+            "image": "https://imdb-api.com/images/original/MV5BNjMyZTI4NDUtMTFjYy00MzA0LThiMmEtZjJlOWVkM2Y0OWFjXkEyXkFqcGdeQXVyNTQ4MDc0OA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Brent Lambert",
+            "asCharacter": "Record Executive (uncredited)"
+        },
+        {
+            "id": "nm3569295",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cynthia Lee",
+            "asCharacter": "Office Worker (uncredited)"
+        },
+        {
+            "id": "nm6735744",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Beth Lucero",
+            "asCharacter": "Mall Patron (uncredited)"
+        },
+        {
+            "id": "nm3290674",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Neal Powell",
+            "asCharacter": "Bar Patron / Bowler (uncredited)"
+        },
+        {
+            "id": "nm3549411",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David T. Quan",
+            "asCharacter": "Mall Business Person (uncredited)"
+        },
+        {
+            "id": "nm5039409",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Rishe",
+            "asCharacter": "Evangelo's Patron (uncredited)"
+        },
+        {
+            "id": "nm5694705",
+            "image": "https://imdb-api.com/images/original/MV5BYWMwYWZlNTctNGMxZi00NTUxLTgwMzUtNjNlMTg5MzU4ZWQwXkEyXkFqcGdeQXVyNjMzMTA2NDI@._V1_Ratio1.0909_AL_.jpg",
+            "name": "Denny Shoopman",
+            "asCharacter": "Security / roadie (uncredited)"
+        },
+        {
+            "id": "nm0799776",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3MzM4NTg5MF5BMl5BanBnXkFtZTcwMTgxMzMzMQ@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "J. Nathan Simmons",
+            "asCharacter": "Tommy Sweet Roadie (uncredited)"
+        },
+        {
+            "id": "nm3122196",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Blake Williams",
+            "asCharacter": "Bar Patron (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt1263670",
+        "title": "Crazy Heart",
+        "fullTitle": "Crazy Heart (2009)",
+        "type": "Movie",
+        "year": "2009",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0178376",
+                    "name": "Scott Cooper",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0178376",
+                    "name": "Scott Cooper",
+                    "description": "(written by)"
+                },
+                {
+                    "id": "nm3084575",
+                    "name": "Thomas Cobb",
+                    "description": "(novel)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000313",
+                "image": "https://imdb-api.com/images/original/MV5BNTU1NjM4MDYzMl5BMl5BanBnXkFtZTcwMjIwMjMyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jeff Bridges",
+                "asCharacter": "Bad Blake"
+            },
+            {
+                "id": "nm0443856",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0MTcwNzYyN15BMl5BanBnXkFtZTcwOTY3NzEzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "James Keane",
+                "asCharacter": "Manager"
+            },
+            {
+                "id": "nm2485687",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Anna Felix",
+                "asCharacter": "Barmaid"
+            },
+            {
+                "id": "nm0379200",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4MDYwMTI1N15BMl5BanBnXkFtZTgwODQ1Njg5MDE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Paul Herman",
+                "asCharacter": "Jack Greene"
+            },
+            {
+                "id": "nm0101005",
+                "image": "https://imdb-api.com/images/original/MV5BNzdmZjMwMzgtNWIzZS00NTQ5LWEzZjMtMTBiNDZkNTcyYzNmXkEyXkFqcGdeQXVyODQxMzk1NQ@@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Tom Bower",
+                "asCharacter": "Bill Wilson"
+            },
+            {
+                "id": "nm1123709",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NDI0MjEzMV5BMl5BanBnXkFtZTcwODgwNDc0NA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ryan Bingham",
+                "asCharacter": "Tony"
+            },
+            {
+                "id": "nm0335275",
+                "image": "https://imdb-api.com/images/original/MV5BMTA3OTQ3ODE0OTheQTJeQWpwZ15BbWU3MDcyNzc4MTQ@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Beth Grant",
+                "asCharacter": "Jo Ann"
+            },
+            {
+                "id": "nm0224496",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rick Dial",
+                "asCharacter": "Wesley Barnes"
+            },
+            {
+                "id": "nm0350454",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1MjY3NzA4NF5BMl5BanBnXkFtZTcwNzE4MjMyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Maggie Gyllenhaal",
+                "asCharacter": "Jean Craddock"
+            },
+            {
+                "id": "nm1833916",
+                "image": "https://imdb-api.com/images/original/MV5BMDQ0NDM1MzMtZWE4YS00YTQ5LWFjOWQtZDgxOGZmODZlNTQ0XkEyXkFqcGdeQXVyMTM2ODU4NjM@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Debrianna Mansini",
+                "asCharacter": "Ann"
+            },
+            {
+                "id": "nm3269381",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jerry Handy",
+                "asCharacter": "Cowboy (as Jerry Hardy)"
+            },
+            {
+                "id": "nm3711886",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jack Nation",
+                "asCharacter": "Buddy"
+            },
+            {
+                "id": "nm1758558",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3OTE5ODQ3MF5BMl5BanBnXkFtZTcwOTAyNjIzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ryil Adamson",
+                "asCharacter": "Ralphie"
+            },
+            {
+                "id": "nm0646511",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3NTUzNTQyN15BMl5BanBnXkFtZTYwNjEwNjgy._V1_Ratio0.7273_AL_.jpg",
+                "name": "J. Michael Oliva",
+                "asCharacter": "Bear (as J. Michael 'Yak' Oliva)"
+            },
+            {
+                "id": "nm0544391",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1NTIwMzc2N15BMl5BanBnXkFtZTgwNjM1NTU1NzE@._V1_Ratio0.8636_AL_.jpg",
+                "name": "David Manzanares",
+                "asCharacter": "Nick"
+            },
+            {
+                "id": "nm0268199",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Colin Farrell",
+                "asCharacter": "Tommy Sweet"
+            },
+            {
+                "id": "nm1080822",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Chad Brummett",
+                "asCharacter": "Young Guy"
+            },
+            {
+                "id": "nm2045365",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jose Jacinto Marquez",
+                "asCharacter": "Older Hispanic Man (as Jose Marquez)"
+            },
+            {
+                "id": "nm1543329",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "LeAnne Lynch",
+                "asCharacter": "Nurse (as Le Anne Lynch)"
+            },
+            {
+                "id": "nm0549884",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "William Marquez",
+                "asCharacter": "Doctor"
+            },
+            {
+                "id": "nm0000380",
+                "image": "https://imdb-api.com/images/original/MV5BMjk1MjA2Mjc2MF5BMl5BanBnXkFtZTcwOTE4MTUwMg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Robert Duvall",
+                "asCharacter": "Wayne"
+            },
+            {
+                "id": "nm3049500",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Richard W. Gallegos",
+                "asCharacter": "Jesus / Juan (as Richard Gallegos)"
+            },
+            {
+                "id": "nm1897812",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMTA4NTc5OF5BMl5BanBnXkFtZTcwNzI2MTIzOA@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Brian Gleason",
+                "asCharacter": "Steven Reynolds"
+            },
+            {
+                "id": "nm2365299",
+                "image": "https://imdb-api.com/images/original/MV5BZDkwOTAyODktYmM3My00ODU1LWI2NjctZGUxN2Y3ZmZiZGZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Harry Zinn",
+                "asCharacter": "Bartender"
+            },
+            {
+                "id": "nm0077595",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxODM0NTU3NF5BMl5BanBnXkFtZTcwNjc1MTgzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Josh Berry",
+                "asCharacter": "Security Guard"
+            },
+            {
+                "id": "nm0827429",
+                "image": "https://imdb-api.com/images/original/MV5BMGVmNDFhMjgtODc2Ni00ZTVlLWFjMGUtYzhkYmMyNzliNWVlXkEyXkFqcGdeQXVyNDkxNDczMQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "William Sterchi",
+                "asCharacter": "Pat"
+            },
+            {
+                "id": "nm2113171",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Valerie Adams",
+                "asCharacter": "Rehab Patient / Driver (uncredited)"
+            },
+            {
+                "id": "nm1124900",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Chris Bentley",
+                "asCharacter": "Record Company Executive (uncredited)"
+            },
+            {
+                "id": "nm6688949",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Derek Blakeney",
+                "asCharacter": "Concert Patron / Security Guard / Mall Patron (uncredited)"
+            },
+            {
+                "id": "nm5134147",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Cade Borek",
+                "asCharacter": "Restaurant Twin (uncredited)"
+            },
+            {
+                "id": "nm5134217",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Luke Borek",
+                "asCharacter": "Restaurant Twin (uncredited)"
+            },
+            {
+                "id": "nm3598505",
+                "image": "https://imdb-api.com/images/original/MV5BNjY0MDQ0ODM2NV5BMl5BanBnXkFtZTgwODcyNzUzNzE@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Tina Borek",
+                "asCharacter": "Woman in Restaurant (uncredited)"
+            },
+            {
+                "id": "nm3139906",
+                "image": "https://imdb-api.com/images/original/MV5BOGNiZDhlMGMtZTA4OC00ODg0LTg2NGQtMGJmMTdjZmFiYWM5XkEyXkFqcGdeQXVyMjIwNjgwMDg@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Steven Ray Byrd",
+                "asCharacter": "Tommy Sweet Security (uncredited)"
+            },
+            {
+                "id": "nm9541494",
+                "image": "https://imdb-api.com/images/original/MV5BNGRjMGJlY2QtZmEzYi00MzVjLTkzMmQtYjQ0ZDM0ODQ0OWRiXkEyXkFqcGdeQXVyODQyMjk4NDQ@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Cindy Cook",
+                "asCharacter": "Audience Member (uncredited)"
+            },
+            {
+                "id": "nm0179960",
+                "image": "https://imdb-api.com/images/original/MV5BNzczNzkzMjcwM15BMl5BanBnXkFtZTgwMzE2MTQwNDE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Annie Corley",
+                "asCharacter": "Donna (uncredited)"
+            },
+            {
+                "id": "nm3087475",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Chad DeGroot",
+                "asCharacter": "Roadie (uncredited)"
+            },
+            {
+                "id": "nm3082812",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4NTAzOTEwOV5BMl5BanBnXkFtZTgwNjM3MDAwMTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Hayley Derryberry",
+                "asCharacter": "Fan Taking Photo (uncredited)"
+            },
+            {
+                "id": "nm2672980",
+                "image": "https://imdb-api.com/images/original/MV5BNTNiY2Q1MmQtYTVlNy00MDA5LTgzZTMtM2IyZGRiMTg4YzRiXkEyXkFqcGdeQXVyNDI4MDA1NDc@._V1_Ratio0.7727_AL_.jpg",
+                "name": "John H. Euber",
+                "asCharacter": "Rehab patient (uncredited)"
+            },
+            {
+                "id": "nm2604509",
+                "image": "https://imdb-api.com/images/original/MV5BZjFhZDIxYzUtMjM5NS00NTdhLWE0OTgtYzZkYzRmMjFlNTZiXkEyXkFqcGdeQXVyMTE0ODIwMDM1._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jeffrey Feingold",
+                "asCharacter": "Dirk - Singer (uncredited)"
+            },
+            {
+                "id": "nm3164114",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nicole Gramlich",
+                "asCharacter": "Shopper in Hall (uncredited)"
+            },
+            {
+                "id": "nm2835559",
+                "image": "https://imdb-api.com/images/original/MV5BNjMyZTI4NDUtMTFjYy00MzA0LThiMmEtZjJlOWVkM2Y0OWFjXkEyXkFqcGdeQXVyNTQ4MDc0OA@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Brent Lambert",
+                "asCharacter": "Record Executive (uncredited)"
+            },
+            {
+                "id": "nm3569295",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Cynthia Lee",
+                "asCharacter": "Office Worker (uncredited)"
+            },
+            {
+                "id": "nm6735744",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Beth Lucero",
+                "asCharacter": "Mall Patron (uncredited)"
+            },
+            {
+                "id": "nm3290674",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michael Neal Powell",
+                "asCharacter": "Bar Patron / Bowler (uncredited)"
+            },
+            {
+                "id": "nm3549411",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "David T. Quan",
+                "asCharacter": "Mall Business Person (uncredited)"
+            },
+            {
+                "id": "nm5039409",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "James Rishe",
+                "asCharacter": "Evangelo's Patron (uncredited)"
+            },
+            {
+                "id": "nm5694705",
+                "image": "https://imdb-api.com/images/original/MV5BYWMwYWZlNTctNGMxZi00NTUxLTgwMzUtNjNlMTg5MzU4ZWQwXkEyXkFqcGdeQXVyNjMzMTA2NDI@._V1_Ratio1.0909_AL_.jpg",
+                "name": "Denny Shoopman",
+                "asCharacter": "Security / roadie (uncredited)"
+            },
+            {
+                "id": "nm0799776",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3MzM4NTg5MF5BMl5BanBnXkFtZTcwMTgxMzMzMQ@@._V1_Ratio0.8636_AL_.jpg",
+                "name": "J. Nathan Simmons",
+                "asCharacter": "Tommy Sweet Roadie (uncredited)"
+            },
+            {
+                "id": "nm3122196",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Blake Williams",
+                "asCharacter": "Bar Patron (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0069798",
+                        "name": "Leslie Belzberg",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm3665102",
+                        "name": "Eric Brenner",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0000313",
+                        "name": "Jeff Bridges",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0122439",
+                        "name": "T Bone Burnett",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0003437",
+                        "name": "Judy Cairo",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0137548",
+                        "name": "Rob Carliner",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0178376",
+                        "name": "Scott Cooper",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0000380",
+                        "name": "Robert Duvall",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0770472",
+                        "name": "Gina Scheerer",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0801121",
+                        "name": "Michael A. Simpson",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0909479",
+                        "name": "Alton Walpole",
+                        "description": "line producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0116775",
+                        "name": "Stephen Bruton",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0122439",
+                        "name": "T Bone Burnett",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0548718",
+                        "name": "Barry Markowitz",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0006777",
+                        "name": "John Axelrad",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0285701",
+                        "name": "Jeffrey Ford",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm2274256",
+                        "name": "Lindsay Graham",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0894611",
+                        "name": "Mary Vernieu",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0435859",
+                        "name": "Waldemar Kalinowski",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0003639",
+                        "name": "Ben Zeller",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0193055",
+                        "name": "Carla Curry",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0355521",
+                        "name": "Doug Hall",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0034687",
+                        "name": "Enid Arias",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0206602",
+                        "name": "Tarra D. Day",
+                        "description": "department head makeup artist (as Tarra Day)"
+                    },
+                    {
+                        "id": "nm0483869",
+                        "name": "Mary Hedges Lampert",
+                        "description": "hair stylist (as Mary Lampert)"
+                    },
+                    {
+                        "id": "nm0994733",
+                        "name": "Jennifer Santiago",
+                        "description": "key hair stylist (as Jennifer A. Santiago)"
+                    },
+                    {
+                        "id": "nm0787309",
+                        "name": "Geordie Sheffer",
+                        "description": "department head hair stylist"
+                    },
+                    {
+                        "id": "nm1951684",
+                        "name": "Sheila Trujillo-Gomez",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm1005173",
+                        "name": "Danlee Winegar",
+                        "description": "makeup artist (as Danlee A. Winegar)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0865150",
+                        "name": "Dawn Todd Curfman",
+                        "description": "production supervisor (as Dawn Todd)"
+                    },
+                    {
+                        "id": "nm0909479",
+                        "name": "Alton Walpole",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm1712298",
+                        "name": "Sarah Lemon",
+                        "description": "second second assistant director (as Sarah B. Lemon)"
+                    },
+                    {
+                        "id": "nm0643726",
+                        "name": "Chemen Ochoa",
+                        "description": "key second assistant director (as Chemen A. Ochoa)"
+                    },
+                    {
+                        "id": "nm0643751",
+                        "name": "Kaaren F. Ochoa",
+                        "description": "first assistant director (as Kaaren Ochoa)"
+                    },
+                    {
+                        "id": "nm1639343",
+                        "name": "Marcia Woske",
+                        "description": "additional second second assistant director (as Marcia A. Woske)"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm2160190",
+                        "name": "Wil Albarez",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm3296545",
+                        "name": "Eric Arellanes",
+                        "description": "general foreman"
+                    },
+                    {
+                        "id": "nm2304444",
+                        "name": "David D. Baumann",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm1153556",
+                        "name": "Patrick Boyles",
+                        "description": "paint gang boss"
+                    },
+                    {
+                        "id": "nm0125438",
+                        "name": "Doug Butts",
+                        "description": "welder"
+                    },
+                    {
+                        "id": "nm2984095",
+                        "name": "Shawn Caffrey",
+                        "description": "propmaker"
+                    },
+                    {
+                        "id": "nm2900267",
+                        "name": "Thomas L. Caldwell",
+                        "description": "greens foreman"
+                    },
+                    {
+                        "id": "nm0154761",
+                        "name": "Lance Cheatham",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm2576318",
+                        "name": "Ralph Diaz",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm3923547",
+                        "name": "Steven Fode",
+                        "description": "laborer"
+                    },
+                    {
+                        "id": "nm0302730",
+                        "name": "Chris Gallegos",
+                        "description": "propmaker (as Chris J. Gallegos)"
+                    },
+                    {
+                        "id": "nm2196919",
+                        "name": "Lyn Gawron",
+                        "description": "art department coordinator"
+                    },
+                    {
+                        "id": "nm2116504",
+                        "name": "Linda R. Gore",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm3130193",
+                        "name": "Doug Gray",
+                        "description": "propmaker"
+                    },
+                    {
+                        "id": "nm2888666",
+                        "name": "Graham Griswold",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm3298841",
+                        "name": "Paul Harman",
+                        "description": "sign writer"
+                    },
+                    {
+                        "id": "nm2759379",
+                        "name": "Jean Harrison",
+                        "description": "art department intern"
+                    },
+                    {
+                        "id": "nm1834825",
+                        "name": "Mary Holyoke",
+                        "description": "buyer"
+                    },
+                    {
+                        "id": "nm3923651",
+                        "name": "Richard Hughes",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm3923603",
+                        "name": "Mari Kempes",
+                        "description": "art department intern"
+                    },
+                    {
+                        "id": "nm1321853",
+                        "name": "Christopher Martin",
+                        "description": "key greens"
+                    },
+                    {
+                        "id": "nm1177467",
+                        "name": "Jose Mendoza",
+                        "description": "painter (as Jose L. Mendoza)"
+                    },
+                    {
+                        "id": "nm2960132",
+                        "name": "Jesus A. Murillo",
+                        "description": "painter (as Jesus Antonio Murillo)"
+                    },
+                    {
+                        "id": "nm1786281",
+                        "name": "Randy Ortega",
+                        "description": "paint foreman (as Randy E. Ortega)"
+                    },
+                    {
+                        "id": "nm2880843",
+                        "name": "Scott Plunket",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm1804969",
+                        "name": "Macario Rivera",
+                        "description": "paint foreman"
+                    },
+                    {
+                        "id": "nm2852052",
+                        "name": "Nicole Sahd",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm2893051",
+                        "name": "David Lee Servoss",
+                        "description": "set dresser (as David Servoss)"
+                    },
+                    {
+                        "id": "nm0786380",
+                        "name": "Randy Severs",
+                        "description": "propmaker"
+                    },
+                    {
+                        "id": "nm0794270",
+                        "name": "Phil Shirey",
+                        "description": "leadman"
+                    },
+                    {
+                        "id": "nm2228559",
+                        "name": "Juan Souter",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm3108976",
+                        "name": "David Thompson",
+                        "description": "set dresser (as David J. Thompson)"
+                    },
+                    {
+                        "id": "nm2374825",
+                        "name": "Lawrence Tolle",
+                        "description": "assistant property master"
+                    },
+                    {
+                        "id": "nm3569468",
+                        "name": "Angelo Tomarchio",
+                        "description": "propmaker"
+                    },
+                    {
+                        "id": "nm3415415",
+                        "name": "David Trujillo",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm3416743",
+                        "name": "Robert P. Trujillo",
+                        "description": "set dresser (as Robert Trujillo)"
+                    },
+                    {
+                        "id": "nm2939988",
+                        "name": "Alfredo Ventura",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm3773557",
+                        "name": "Robert A. Vigil",
+                        "description": "labor foreman (as Robert Vigil)"
+                    },
+                    {
+                        "id": "nm2980154",
+                        "name": "Gina Zaritsky",
+                        "description": "graphic artist"
+                    },
+                    {
+                        "id": "nm2454155",
+                        "name": "Colin Zaug",
+                        "description": "on-set dresser"
+                    },
+                    {
+                        "id": "nm2426037",
+                        "name": "Carl Zeller",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm1446578",
+                        "name": "Evelyn Zeller",
+                        "description": "draper (as Evelyn Rios Zeller)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm1219804",
+                        "name": "Rick Alexander",
+                        "description": "additional sound mixer (as Richard Alexander) / dialogue editor (as Richard Alexander)"
+                    },
+                    {
+                        "id": "nm1883845",
+                        "name": "Robert Althoff",
+                        "description": "sound recordist"
+                    },
+                    {
+                        "id": "nm0042042",
+                        "name": "Paul Aulicino",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0053203",
+                        "name": "Gregg Barbanell",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0055921",
+                        "name": "Joe Barnett",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0065725",
+                        "name": "Todd Beckett",
+                        "description": "additional sound mixer"
+                    },
+                    {
+                        "id": "nm1028496",
+                        "name": "Joe Cappelletti",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm0136909",
+                        "name": "Bayard Carey",
+                        "description": "production sound mixer"
+                    },
+                    {
+                        "id": "nm1369287",
+                        "name": "Patrick Cusack",
+                        "description": "additional sound effects editor / assistant sound editor"
+                    },
+                    {
+                        "id": "nm0214014",
+                        "name": "Andrew DeCristofaro",
+                        "description": "supervising sound designer / supervising sound editor"
+                    },
+                    {
+                        "id": "nm0265584",
+                        "name": "Paula Fairfield",
+                        "description": "supervising sound designer / supervising sound editor"
+                    },
+                    {
+                        "id": "nm2436552",
+                        "name": "Kimberly Jimenez",
+                        "description": "additional audio support"
+                    },
+                    {
+                        "id": "nm3927774",
+                        "name": "Jesse Johnstone",
+                        "description": "sound recordist"
+                    },
+                    {
+                        "id": "nm0459662",
+                        "name": "Rick Kline",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0461719",
+                        "name": "Jeff Knudsen",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm0614873",
+                        "name": "Carla Murray",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0637810",
+                        "name": "Nancy Nugent",
+                        "description": "dialogue editor (as Nancy Nugent Title)"
+                    },
+                    {
+                        "id": "nm0668403",
+                        "name": "Michael Payne",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0692319",
+                        "name": "Troy Porter",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm0810981",
+                        "name": "Zac Sneesby",
+                        "description": "utility sound"
+                    },
+                    {
+                        "id": "nm0831625",
+                        "name": "Patrick Stoltz",
+                        "description": "additional audio support (as Pat Stoltz)"
+                    },
+                    {
+                        "id": "nm0836515",
+                        "name": "John C. Stuver",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0839964",
+                        "name": "Lucy Sustar",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm0914138",
+                        "name": "Mathew Waters",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0267718",
+                        "name": "Russell Farmarco",
+                        "description": "adr editor (uncredited)"
+                    },
+                    {
+                        "id": "nm3032449",
+                        "name": "Justin Herman",
+                        "description": "sound mix technician (uncredited)"
+                    },
+                    {
+                        "id": "nm0434901",
+                        "name": "Pamela Kahn",
+                        "description": "foley artist (uncredited)"
+                    },
+                    {
+                        "id": "nm1707290",
+                        "name": "Jason Oliver",
+                        "description": "adr recordist (uncredited)"
+                    },
+                    {
+                        "id": "nm2526634",
+                        "name": "John Soukup",
+                        "description": "sound transfer (uncredited)"
+                    },
+                    {
+                        "id": "nm0956713",
+                        "name": "Greg Zimmerman",
+                        "description": "adr recordist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm3462752",
+                        "name": "Brett Cole",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0368619",
+                        "name": "Scott Hastings",
+                        "description": "special effects coordinator"
+                    },
+                    {
+                        "id": "nm1081434",
+                        "name": "Joel Hobbie",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm2655678",
+                        "name": "Danny Maldanado",
+                        "description": "special effects foreman"
+                    },
+                    {
+                        "id": "nm3923498",
+                        "name": "Mike Rogers",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm2851487",
+                        "name": "Adam Rosen",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm2110329",
+                        "name": "Dusty Webb",
+                        "description": "special effects technician"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0146178",
+                        "name": "Loyd Catlett",
+                        "description": "stunt player (as Lloyd Catlett)"
+                    },
+                    {
+                        "id": "nm2186394",
+                        "name": "Ed Duran",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0331814",
+                        "name": "Al Goto",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0812787",
+                        "name": "Russell Solberg",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm2348945",
+                        "name": "Laurence Chavez",
+                        "description": "utility stunts (uncredited)"
+                    },
+                    {
+                        "id": "nm2186394",
+                        "name": "Ed Duran",
+                        "description": "utility stunts (uncredited)"
+                    },
+                    {
+                        "id": "nm0468697",
+                        "name": "John Koyama",
+                        "description": "stunts (uncredited)"
+                    },
+                    {
+                        "id": "nm0713472",
+                        "name": "Mark Rayner",
+                        "description": "stunts (uncredited)"
+                    },
+                    {
+                        "id": "nm0812787",
+                        "name": "Russell Solberg",
+                        "description": "stunt double: Jeff Bridges (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0027540",
+                        "name": "Troy Anderson",
+                        "description": "lighting technician (as Troy K. Anderson)"
+                    },
+                    {
+                        "id": "nm0051392",
+                        "name": "Liza Bambenek",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm2863237",
+                        "name": "Free Bear",
+                        "description": "video assist"
+                    },
+                    {
+                        "id": "nm0126002",
+                        "name": "Chip Byrd",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm3923773",
+                        "name": "Greg Byrd",
+                        "description": "camera production assistant"
+                    },
+                    {
+                        "id": "nm1184614",
+                        "name": "Beau Chaput",
+                        "description": "steadicam operator"
+                    },
+                    {
+                        "id": "nm3563804",
+                        "name": "Morgan Davis",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm3422373",
+                        "name": "Dwight Dollins",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0260889",
+                        "name": "Harland Espeset",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm1004288",
+                        "name": "Tobin Espeset",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm1005987",
+                        "name": "Ryan Eustis",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm2900031",
+                        "name": "Frank Eyers",
+                        "description": "video playback"
+                    },
+                    {
+                        "id": "nm1107475",
+                        "name": "David Hammer",
+                        "description": "technocrane technician"
+                    },
+                    {
+                        "id": "nm2522163",
+                        "name": "Ian Hanna",
+                        "description": "grip (as Ian J. Hanna)"
+                    },
+                    {
+                        "id": "nm0381979",
+                        "name": "Greg Hewett",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm2428332",
+                        "name": "Trevor Howe",
+                        "description": "best boy grip / key rigging grip"
+                    },
+                    {
+                        "id": "nm0102427",
+                        "name": "Aubrey Husar",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm2900493",
+                        "name": "Jack C. Jones",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0429287",
+                        "name": "Steve Jones",
+                        "description": "lighting technician (as Steve B. Jones)"
+                    },
+                    {
+                        "id": "nm0466442",
+                        "name": "Kurt Kornemann",
+                        "description": "crane operator"
+                    },
+                    {
+                        "id": "nm2733510",
+                        "name": "Frank Larson",
+                        "description": "loader"
+                    },
+                    {
+                        "id": "nm0514341",
+                        "name": "Steven Litecky",
+                        "description": "chief lighting technician"
+                    },
+                    {
+                        "id": "nm0516993",
+                        "name": "Lynn Lockwood",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm3923566",
+                        "name": "Jonathan N. Lutes",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm1859032",
+                        "name": "Sean Mallon",
+                        "description": "best boy electric"
+                    },
+                    {
+                        "id": "nm3750899",
+                        "name": "Brian Malone",
+                        "description": "best boy rigging grip"
+                    },
+                    {
+                        "id": "nm0548718",
+                        "name": "Barry Markowitz",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm3297616",
+                        "name": "Lea E. Miller",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm3923777",
+                        "name": "Taylor Myers",
+                        "description": "camera production assistant"
+                    },
+                    {
+                        "id": "nm1006069",
+                        "name": "Lee Nakagawa",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0780958",
+                        "name": "Lorey Sebastian",
+                        "description": "unit still photographer"
+                    },
+                    {
+                        "id": "nm0825771",
+                        "name": "Josh Steinberg",
+                        "description": "dolly grip"
+                    },
+                    {
+                        "id": "nm2550212",
+                        "name": "Jim Threadgill",
+                        "description": "best boy rigging grip (as James Threadgill)"
+                    },
+                    {
+                        "id": "nm0908258",
+                        "name": "Timothy N. Walker",
+                        "description": "first assistant camera (as Tim Walker) / first assistant camera"
+                    },
+                    {
+                        "id": "nm3454381",
+                        "name": "Dale Glenn Waseta",
+                        "description": "key video assist"
+                    },
+                    {
+                        "id": "nm2381221",
+                        "name": "Cody West",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0942800",
+                        "name": "Sean Wright",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm2955395",
+                        "name": "Elizabeth Cash",
+                        "description": "second assistant camera (uncredited)"
+                    },
+                    {
+                        "id": "nm1638777",
+                        "name": "Justin Hartery",
+                        "description": "second assistant camera: \"b\" camera (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm3021636",
+                        "name": "Karin Aragon",
+                        "description": "extras casting assistant (as Karin M. Aragon)"
+                    },
+                    {
+                        "id": "nm0092790",
+                        "name": "Jo Edna Boldin",
+                        "description": "casting: New Mexico"
+                    },
+                    {
+                        "id": "nm2274256",
+                        "name": "Lindsay Graham",
+                        "description": "casting associate: Los Angeles"
+                    },
+                    {
+                        "id": "nm0449815",
+                        "name": "Tina Kerr",
+                        "description": "extras casting"
+                    },
+                    {
+                        "id": "nm1874875",
+                        "name": "Marie A. Kohl",
+                        "description": "casting associate: New Mexico"
+                    },
+                    {
+                        "id": "nm1680829",
+                        "name": "Hannah Macpherson",
+                        "description": "casting assistant: New Mexico (as Hannah MacPherson)"
+                    },
+                    {
+                        "id": "nm11398198",
+                        "name": "Steven Raye Stanard",
+                        "description": "Talent manager"
+                    },
+                    {
+                        "id": "nm1028496",
+                        "name": "Joe Cappelletti",
+                        "description": "adr voice casting (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm1673523",
+                        "name": "Aleah Ames",
+                        "description": "key set costumer"
+                    },
+                    {
+                        "id": "nm0148373",
+                        "name": "Nancy Ceo",
+                        "description": "assistant costume designer (as Nancea Ceo)"
+                    },
+                    {
+                        "id": "nm3415936",
+                        "name": "Michelle Duval",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm2544734",
+                        "name": "Jennifer Gingery",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm3429761",
+                        "name": "Hillary Higgins",
+                        "description": "wardrobe production assistant (as Hillary A. Higgins)"
+                    },
+                    {
+                        "id": "nm2513657",
+                        "name": "Cherlyn Schaefer",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm3284988",
+                        "name": "Rosanna Dill",
+                        "description": "wardrobe production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm1358563",
+                        "name": "Suzanne Scott",
+                        "description": "costume assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0189285",
+                        "name": "Tom Cross",
+                        "description": "additional editor"
+                    },
+                    {
+                        "id": "nm1121444",
+                        "name": "Greg Curry",
+                        "description": "colorist: high-definition dailies"
+                    },
+                    {
+                        "id": "nm0492190",
+                        "name": "Paul Lavoie",
+                        "description": "digital intermediate producer"
+                    },
+                    {
+                        "id": "nm2347163",
+                        "name": "Kiran Pallegadda",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0677143",
+                        "name": "Erik Peterson",
+                        "description": "digital conform editor"
+                    },
+                    {
+                        "id": "nm3168767",
+                        "name": "Rachel Varnell",
+                        "description": "post-production coordinator"
+                    },
+                    {
+                        "id": "nm2164371",
+                        "name": "Walter Volpatto",
+                        "description": "color timer / digital intermediate artist"
+                    },
+                    {
+                        "id": "nm0615562",
+                        "name": "Dan Muscarella",
+                        "description": "color timer (uncredited)"
+                    },
+                    {
+                        "id": "nm0697446",
+                        "name": "Pablo Prietto",
+                        "description": "first assistant editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0776203",
+                        "name": "Bill Schultz",
+                        "description": "digital intermediate executive (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0544391",
+                        "name": "David Manzanares",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm3647701",
+                        "name": "Lorenzo Vigil",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm2855136",
+                        "name": "Jason Wetter",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm2656321",
+                        "name": "Hilton Clay Peres",
+                        "description": "location scout (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm2920382",
+                        "name": "Paul Ackling",
+                        "description": "guitar technician"
+                    },
+                    {
+                        "id": "nm2355848",
+                        "name": "Jay Bellerose",
+                        "description": "musician: drums"
+                    },
+                    {
+                        "id": "nm1123709",
+                        "name": "Ryan Bingham",
+                        "description": "musician: vocals, guitars, Tony and the Renegades"
+                    },
+                    {
+                        "id": "nm0097683",
+                        "name": "Fernand Bos",
+                        "description": "supervising music editor"
+                    },
+                    {
+                        "id": "nm0116775",
+                        "name": "Stephen Bruton",
+                        "description": "musician: guitar, mandolin"
+                    },
+                    {
+                        "id": "nm3764683",
+                        "name": "Tom Canning",
+                        "description": "musician: piano"
+                    },
+                    {
+                        "id": "nm2915858",
+                        "name": "Dennis Crouch",
+                        "description": "musician: bass"
+                    },
+                    {
+                        "id": "nm3928446",
+                        "name": "Elijah Ford",
+                        "description": "musician: bass, Tony and the Renegades"
+                    },
+                    {
+                        "id": "nm1995007",
+                        "name": "Rodney Gurule",
+                        "description": "music playback"
+                    },
+                    {
+                        "id": "nm2467504",
+                        "name": "Joel Guzman",
+                        "description": "musician: squeeze box"
+                    },
+                    {
+                        "id": "nm2781621",
+                        "name": "Larry Jenkins",
+                        "description": "music consultant"
+                    },
+                    {
+                        "id": "nm0469234",
+                        "name": "Robert Kraft",
+                        "description": "executive in charge of music"
+                    },
+                    {
+                        "id": "nm0500603",
+                        "name": "Greg Leisz",
+                        "description": "musician: pedal steel"
+                    },
+                    {
+                        "id": "nm0522412",
+                        "name": "Roger Love",
+                        "description": "vocal coach: Jeff Bridges and Colin Farrell"
+                    },
+                    {
+                        "id": "nm1619203",
+                        "name": "Gavin Lurssen",
+                        "description": "music mastering engineer"
+                    },
+                    {
+                        "id": "nm4768347",
+                        "name": "Murphy Maddux",
+                        "description": "composer: \"Searching (for Someone Like You)\""
+                    },
+                    {
+                        "id": "nm1635114",
+                        "name": "Buddy Miller",
+                        "description": "musician: guitar"
+                    },
+                    {
+                        "id": "nm1003746",
+                        "name": "Mike Piersante",
+                        "description": "music engineer"
+                    },
+                    {
+                        "id": "nm0689388",
+                        "name": "Jeffrey Pollack",
+                        "description": "music supervisor (as Jeff Pollack)"
+                    },
+                    {
+                        "id": "nm3926195",
+                        "name": "Corby Shaub",
+                        "description": "musician: guitar, Tony and the Renegades"
+                    },
+                    {
+                        "id": "nm0804531",
+                        "name": "Ivy Skoff",
+                        "description": "music contractor / music production coordinator"
+                    },
+                    {
+                        "id": "nm3925511",
+                        "name": "Matt Smith",
+                        "description": "musician: drums, Tony and the Renegades"
+                    },
+                    {
+                        "id": "nm0888165",
+                        "name": "Adrian Van Velsen",
+                        "description": "music editor (as Adrian van Velsen)"
+                    },
+                    {
+                        "id": "nm0912985",
+                        "name": "Patrick Warren",
+                        "description": "musician: keyboards"
+                    },
+                    {
+                        "id": "nm1999311",
+                        "name": "Sara Watkins",
+                        "description": "musician: fiddle"
+                    },
+                    {
+                        "id": "nm3981785",
+                        "name": "Paul Bliven",
+                        "description": "composer: additional material (uncredited)"
+                    },
+                    {
+                        "id": "nm0097683",
+                        "name": "Fernand Bos",
+                        "description": "musician (uncredited)"
+                    },
+                    {
+                        "id": "nm1407018",
+                        "name": "Mike Knobloch",
+                        "description": "music executive (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0448107",
+                        "name": "Joanna Kennedy",
+                        "description": "script supervisor"
+                    },
+                    {
+                        "id": "nm0593560",
+                        "name": "Mamie Mitchell",
+                        "description": "script supervisor"
+                    },
+                    {
+                        "id": "nm1195542",
+                        "name": "Benjamin Meade",
+                        "description": "continuity expert (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm1006057",
+                        "name": "Robert Molitor",
+                        "description": "transportation captain (as Robert 'Bear' Molitor)"
+                    },
+                    {
+                        "id": "nm0705367",
+                        "name": "Marty Radcliff",
+                        "description": "transportation captain (as Norman Marty Radcliff)"
+                    },
+                    {
+                        "id": "nm2512187",
+                        "name": "Lyle Christensen",
+                        "description": "camera car driver (uncredited)"
+                    },
+                    {
+                        "id": "nm2323168",
+                        "name": "Jason Doutree",
+                        "description": "driver (uncredited)"
+                    },
+                    {
+                        "id": "nm2899470",
+                        "name": "Walter J. Russell",
+                        "description": "driver: cast (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm3202735",
+                        "name": "Niki Aukerman",
+                        "description": "office production assistant (as Nicole Auckerman)"
+                    },
+                    {
+                        "id": "nm2881567",
+                        "name": "Paul Baca",
+                        "description": "set medic (as Paul 'Cow' Baca)"
+                    },
+                    {
+                        "id": "nm2494759",
+                        "name": "Jon Baran",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm2932817",
+                        "name": "Cory L. Bol",
+                        "description": "travel coordinator (as Cory Lynn Bol)"
+                    },
+                    {
+                        "id": "nm3214766",
+                        "name": "Robert Anthony Brass",
+                        "description": "office production assistant"
+                    },
+                    {
+                        "id": "nm2893485",
+                        "name": "Perry L. Coomans",
+                        "description": "key craft service"
+                    },
+                    {
+                        "id": "nm1393409",
+                        "name": "J.J. Dalton",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm3923735",
+                        "name": "Donald L. Draper",
+                        "description": "key craft service"
+                    },
+                    {
+                        "id": "nm3136839",
+                        "name": "Tiffany Dyer",
+                        "description": "production secretary"
+                    },
+                    {
+                        "id": "nm2562325",
+                        "name": "Susan Foley",
+                        "description": "set production assistant (as Sue Foley)"
+                    },
+                    {
+                        "id": "nm3923590",
+                        "name": "Darin Foster",
+                        "description": "chase crew: Santa Fe Balloons"
+                    },
+                    {
+                        "id": "nm0295579",
+                        "name": "Eddie Frierson",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm3923501",
+                        "name": "Gregory Garcia",
+                        "description": "chase crew: Santa Fee Balloons"
+                    },
+                    {
+                        "id": "nm2753497",
+                        "name": "Colin Garza",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm3633521",
+                        "name": "Alina Gatti",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0331920",
+                        "name": "Eric Gotthelf",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm2851195",
+                        "name": "Dia Hahn",
+                        "description": "studio teacher"
+                    },
+                    {
+                        "id": "nm0370077",
+                        "name": "Amy Hawkins",
+                        "description": "payroll accountant (as Amy S. Hawkins)"
+                    },
+                    {
+                        "id": "nm0380621",
+                        "name": "Scott Herrick",
+                        "description": "first assistant accountant (as Scott W. Herrick)"
+                    },
+                    {
+                        "id": "nm3923776",
+                        "name": "Jeanne Hertz",
+                        "description": "chase crew: Santa Fe Balloons"
+                    },
+                    {
+                        "id": "nm1512156",
+                        "name": "Kate Higgins",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm2842003",
+                        "name": "Lisa H. Jackson",
+                        "description": "accounting clerk"
+                    },
+                    {
+                        "id": "nm0415811",
+                        "name": "Marabina Jaimes",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm1132552",
+                        "name": "Shea Kammer",
+                        "description": "post-production accountant"
+                    },
+                    {
+                        "id": "nm2397156",
+                        "name": "Wendy R. Kennedy",
+                        "description": "assistant to producers"
+                    },
+                    {
+                        "id": "nm3923753",
+                        "name": "Micki Lando-Brown",
+                        "description": "chase crew: Santa Fe Balloons"
+                    },
+                    {
+                        "id": "nm3923513",
+                        "name": "Johnny Lewis",
+                        "description": "balloon pilot: Santa Fe Balloons"
+                    },
+                    {
+                        "id": "nm1002479",
+                        "name": "Barbara Long",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm2666915",
+                        "name": "Ismael Martinez",
+                        "description": "key set production assistant (as Ismael 'Mello' Martinez)"
+                    },
+                    {
+                        "id": "nm3303076",
+                        "name": "Diane Min Fa",
+                        "description": "set medic (as Diane Minfa)"
+                    },
+                    {
+                        "id": "nm2098872",
+                        "name": "Walter E. Myal",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm2874619",
+                        "name": "Dale O'Malley",
+                        "description": "set medic"
+                    },
+                    {
+                        "id": "nm0728492",
+                        "name": "Carol Bach y Rita",
+                        "description": "loop group (as Carol Bachyrita)"
+                    },
+                    {
+                        "id": "nm0732480",
+                        "name": "Cindy Robinson",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm0734989",
+                        "name": "Al Rodrigo",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm0818022",
+                        "name": "Louise Spencer",
+                        "description": "unit publicist (as Louise A. Spencer)"
+                    },
+                    {
+                        "id": "nm0860103",
+                        "name": "Elaine K. Thompson",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm2497554",
+                        "name": "Robert Vertrees",
+                        "description": "production assistant: Los Ageles"
+                    },
+                    {
+                        "id": "nm3048966",
+                        "name": "Carlos Villareal",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm3643824",
+                        "name": "Claire Caldwell",
+                        "description": "intern (uncredited)"
+                    },
+                    {
+                        "id": "nm2672980",
+                        "name": "John H. Euber",
+                        "description": "stand-in for rick dial (uncredited)"
+                    },
+                    {
+                        "id": "nm3646951",
+                        "name": "Mateo Frazier",
+                        "description": "film liaison (uncredited)"
+                    },
+                    {
+                        "id": "nm0352727",
+                        "name": "Michael Haddad",
+                        "description": "craft service (uncredited)"
+                    },
+                    {
+                        "id": "nm0615562",
+                        "name": "Dan Muscarella",
+                        "description": "laboratory timer (uncredited)"
+                    },
+                    {
+                        "id": "nm0636940",
+                        "name": "Ante Novakovic",
+                        "description": "assistant: Colin Farrell (uncredited)"
+                    },
+                    {
+                        "id": "nm3413949",
+                        "name": "Rebecca Pavlik",
+                        "description": "stand-in (uncredited)"
+                    },
+                    {
+                        "id": "nm5288323",
+                        "name": "Josh Ricks",
+                        "description": "production accountant: mtv program enterprises (uncredited)"
+                    },
+                    {
+                        "id": "nm2426970",
+                        "name": "Adam W. Rosen",
+                        "description": "legal services (uncredited)"
+                    },
+                    {
+                        "id": "nm2137342",
+                        "name": "Christian Skibinski",
+                        "description": "online promotion: Germany (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm2548827",
+                        "name": "Andy Bowers",
+                        "description": "the producers wish to thank: The Montgomery Gentry Band"
+                    },
+                    {
+                        "id": "nm2546698",
+                        "name": "Frank Bowers",
+                        "description": "the producers wish to thank: The Montgomery Gentry Band"
+                    },
+                    {
+                        "id": "nm0116775",
+                        "name": "Stephen Bruton",
+                        "description": "this film is dedicated to the memory of"
+                    },
+                    {
+                        "id": "nm4768271",
+                        "name": "Ava Cooper",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm4767571",
+                        "name": "Jocelyn Cooper",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm4767842",
+                        "name": "Stella Cooper",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm4768168",
+                        "name": "Tod Eason",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm1627752",
+                        "name": "Troy Gentry",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm3923624",
+                        "name": "Ernest Hammons",
+                        "description": "the producers wish to thank: The Montgomery Gentry Band"
+                    },
+                    {
+                        "id": "nm2628826",
+                        "name": "Tobi Elizabeth Ives",
+                        "description": "the producers wish to thank (as Tobi Ives)"
+                    },
+                    {
+                        "id": "nm3923534",
+                        "name": "Garrett James",
+                        "description": "the producers wish to thank: The Montgomery Gentry Band"
+                    },
+                    {
+                        "id": "nm0445313",
+                        "name": "Toby Keith",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm2545297",
+                        "name": "Eddie Kilgallon",
+                        "description": "the producers wish to thank: The Montgomery Gentry Band (as Edward Kilgallon)"
+                    },
+                    {
+                        "id": "nm4514230",
+                        "name": "Kathern Kinsey",
+                        "description": "the producers wish to thank: jewelry design"
+                    },
+                    {
+                        "id": "nm3923659",
+                        "name": "James Matejek",
+                        "description": "the producers wish to thank: The Montgomery Gentry Band"
+                    },
+                    {
+                        "id": "nm1651174",
+                        "name": "Eddie Montgomery",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm4100905",
+                        "name": "Kris Rabie",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm2594477",
+                        "name": "Jennifer Schwalenberg",
+                        "description": "the producers wish to thank"
+                    },
+                    {
+                        "id": "nm2547789",
+                        "name": "Randy Sorrels",
+                        "description": "the producers wish to thank: The Montgomery Gentry Band (as Randy Sorrells)"
+                    },
+                    {
+                        "id": "nm2220887",
+                        "name": "Lisa Strout",
+                        "description": "the producers wish to thank"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Music, Romance",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Music",
+            "value": "Music"
+        },
+        {
+            "key": "Romance",
+            "value": "Romance"
+        }
+    ],
+    "companies": "Fox Searchlight Pictures, Informant Media, Butcher's Run Films",
+    "companyList": [
+        {
+            "id": "co0028932",
+            "name": "Fox Searchlight Pictures"
+        },
+        {
+            "id": "co0242459",
+            "name": "Informant Media"
+        },
+        {
+            "id": "co0073152",
+            "name": "Butcher's Run Films"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English, Spanish",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Spanish",
+            "value": "Spanish"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.2",
+    "imDbRatingVotes": "81861",
+    "metacriticRating": "83",
+    "ratings": {
+        "imDbId": "tt1263670",
+        "title": "Crazy Heart",
+        "fullTitle": "Crazy Heart (2009)",
+        "type": "Movie",
+        "year": "2009",
+        "imDb": "7.2",
+        "metacritic": "83",
+        "theMovieDb": "7.0",
+        "rottenTomatoes": "90",
+        "tV_com": "",
+        "filmAffinity": "6.7",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt1263670",
+        "title": "Crazy Heart",
+        "fullTitle": "Crazy Heart (2009)",
+        "type": "Movie",
+        "year": "2009",
+        "language": "en",
+        "titleInLanguage": "Crazy Heart",
+        "url": "https://en.wikipedia.org/wiki/Crazy_Heart",
+        "plotShort": {
+            "plainText": "Crazy Heart\r\nCrazy Heart is a 2009 American drama film, written and directed by Scott Cooper, in his directorial debut. Based on the 1987 novel of the same name by Thomas Cobb, the film centers around a down-and-out country music singer-songwriter (Jeff Bridges) who tries to turn his life around after beginning a relationship with a young journalist (Maggie Gyllenhaal). Other supporting roles are played by Colin Farrell, Robert Duvall, and child actor Jack Nation. Bridges, Farrell, and Duvall also sing in the film.\r\nThe novel on which the film was based was inspired by country singer Hank Thompson. Filming took place during 2008 in New Mexico (Albuquerque, Espa\u00f1ola, Galisteo, Santa Fe), in Houston, Texas, and in Los Angeles, California. Original music for the film was composed by T Bone Burnett, Stephen Bruton, Ryan Bingham and others.\r\nThe film was produced for $7 million by Country Music Television, and was originally acquired by Paramount Vantage for a direct-to-video release, but was later purchased for theatrical distribution by Fox Searchlight Pictures. It opened in limited release in the U.S. on December 16, 2009. From its meager budget it amassed domestic earnings of $39.5 million plus $7.9 international for worldwide total of $47.4 million. The film ends with a dedication to musician Stephen Bruton, who died the same year the film was made.\r\nThe film was met with acclaim and was nominated for three Academy Awards at the 82nd Academy Awards, winning two: Best Actor for Bridges and Best Original Song for \"The Weary Kind\" written by Ryan Bingham and T Bone Burnett.",
+            "html": "<h2>Crazy Heart</h2><p>Crazy Heart is a 2009 American drama film, written and directed by Scott Cooper, in his directorial debut. Based on the 1987 novel of the same name by Thomas Cobb, the film centers around a down-and-out country music singer-songwriter (Jeff Bridges) who tries to turn his life around after beginning a relationship with a young journalist (Maggie Gyllenhaal). Other supporting roles are played by Colin Farrell, Robert Duvall, and child actor Jack Nation. Bridges, Farrell, and Duvall also sing in the film.</p><p>The novel on which the film was based was inspired by country singer Hank Thompson. Filming took place during 2008 in New Mexico (Albuquerque, Espa\u00f1ola, Galisteo, Santa Fe), in Houston, Texas, and in Los Angeles, California. Original music for the film was composed by T Bone Burnett, Stephen Bruton, Ryan Bingham and others.</p><p>The film was produced for $7 million by Country Music Television, and was originally acquired by Paramount Vantage for a direct-to-video release, but was later purchased for theatrical distribution by Fox Searchlight Pictures. It opened in limited release in the U.S. on December 16, 2009. From its meager budget it amassed domestic earnings of $39.5 million plus $7.9 international for worldwide total of $47.4 million. The film ends with a dedication to musician Stephen Bruton, who died the same year the film was made.</p><p>The film was met with acclaim and was nominated for three Academy Awards at the 82nd Academy Awards, winning two: Best Actor for Bridges and Best Original Song for \"The Weary Kind\" written by Ryan Bingham and T Bone Burnett.</p>"
+        },
+        "plotFull": {
+            "plainText": "Crazy Heart\r\nCrazy Heart is a 2009 American drama film, written and directed by Scott Cooper, in his directorial debut. Based on the 1987 novel of the same name by Thomas Cobb, the film centers around a down-and-out country music singer-songwriter (Jeff Bridges) who tries to turn his life around after beginning a relationship with a young journalist (Maggie Gyllenhaal). Other supporting roles are played by Colin Farrell, Robert Duvall, and child actor Jack Nation. Bridges, Farrell, and Duvall also sing in the film.\r\nThe novel on which the film was based was inspired by country singer Hank Thompson. Filming took place during 2008 in New Mexico (Albuquerque, Espa\u00f1ola, Galisteo, Santa Fe), in Houston, Texas, and in Los Angeles, California. Original music for the film was composed by T Bone Burnett, Stephen Bruton, Ryan Bingham and others.\r\nThe film was produced for $7 million by Country Music Television, and was originally acquired by Paramount Vantage for a direct-to-video release, but was later purchased for theatrical distribution by Fox Searchlight Pictures. It opened in limited release in the U.S. on December 16, 2009. From its meager budget it amassed domestic earnings of $39.5 million plus $7.9 international for worldwide total of $47.4 million. The film ends with a dedication to musician Stephen Bruton, who died the same year the film was made.\r\nThe film was met with acclaim and was nominated for three Academy Awards at the 82nd Academy Awards, winning two: Best Actor for Bridges and Best Original Song for \"The Weary Kind\" written by Ryan Bingham and T Bone Burnett.\r\nPlot\r\nOtis \"Bad\" Blake is a 57-year-old alcoholic singer-songwriter who was once a country music star. He now earns a modest living by singing and playing his guitar in small town bars across the southwestern United States. Having a history of failed marriages (four that he admits to, although a reference is made to a fifth he does not discuss) Blake is without a family. He has a son, aged 28, with whom he has not had contact in 24 years. He is mostly on the road performing, staying in cheap motels and travelling alone in his 1977 Chevrolet Suburban. The film opens with his arrival at a bowling alley for a show.\r\nIn Santa Fe he meets Jean Craddock, a young journalist after a story, divorced and with a four-year-old son, Buddy. She interviews Blake one evening after his gig, and then as they become close, Jean visits again ostensibly to gather more material, and the two enter into a relationship. Jean and her son become a catalyst for Blake beginning to get his life back on track. In doing so, he lets himself be pushed into renewing a professional relationship with Tommy Sweet, a popular and successful country music star he once mentored, and plays as the opening act at one of Tommy's concerts, despite his initial balking and wounded pride at being the opening act to his former student. He asks Tommy to record an album with him, but Tommy says his record company insists on a couple more solo albums before a duet project can be recorded. He instead suggests that Blake concentrate on writing new songs that Tommy can record solo, telling him he writes better songs than anyone else.\r\nBlake's drinking soon gets out of control and he ends up running off the road while driving drunk. In the hospital, the doctor informs him that although he only sustained a broken ankle from the crash, he is slowly killing himself, and must stop drinking and smoking and lose 25 pounds if he wants to live more than a few more years. Blake's relationship with Jean makes him start to rethink his life. While in Houston, he calls up his son to make amends, only to have his son tell him that his mother, Bad's ex-wife, has died. His relationship with Jean starts to look up, with her visiting him with her son Buddy. After a situation where Blake loses Buddy briefly at a shopping mall while drinking at a bar, Jean breaks up with him.\r\nAfter losing Jean and her son, who were becoming his only family, Blake resolves to quit drinking. After going through a treatment program at a rehab center, and with support from his Alcoholics Anonymous group and his old friend Wayne, Blake finally manages to get sober. Having cleaned up his act, he tries to reunite with Jean, but she tells him that the best thing he can do for her and Buddy is to leave them alone. After losing Jean, Blake finishes writing a song that he thinks is his best ever, \"The Weary Kind\", and sells it to Tommy.\r\nSixteen months later, Tommy plays \"The Weary Kind\" to an appreciative audience while Blake watches backstage, as his manager presents him with another of the large royalty checks for the song. As Blake is leaving, Jean approaches him, saying she has come to the show as writer for a large music publication. As they catch up, Blake sees an engagement ring on Jean's finger and tells her that she deserves a good man. He offers her the money from the royalty check for Buddy to have on his 18th birthday, which Jean initially refuses but eventually accepts after Blake says the song would not exist without her, and states that \"it isn't money.\" Jean asks if Blake would like to see Buddy again, but Blake declines saying it might be too unsettling for the boy. The film ends with Jean asking Blake for another interview, after which they walk away happily, chatting with each other with the Santa Fe hilltops in the background.\r\nCast\r\nJeff Bridges as Otis \"Bad\" Blake\r\nMaggie Gyllenhaal as Jean Craddock\r\nColin Farrell as Tommy Sweet\r\nRobert Duvall as Wayne Kramer\r\nPaul Herman as Jack Greene\r\nJack Nation as Buddy, Jean's son\r\nRyan Bingham as Tony of Tony and the Renegades, backup group at bowling alley\r\nRick Dial as Wesley Barnes, Jean's uncle, Santa Fe piano player\r\nProduction\r\nDevelopment of original novel\r\nThe New York Times said the novel, written by Thomas Cobb, \"also functions as a shrewd and funny running critique of contemporary country music.\" Cobb based the character \"Bad\" Blake on country music entertainer Hank Thompson, Ramblin' Jack Elliott and Cobb's doctoral advisor in graduate school, Donald Barthelme; Cobb studied with Barthelme in a creative writing class in the University of Houston in the 1980s. When Cobb struggled between using an \"upbeat\" ending and a \"downbeat\" ending, Barthelme suggested that Cobb use the \"downbeat\" ending. The nickname \"Bad\" came from a sentence that popped into Cobb's mind, \"Bad's got the sweats again.\" The name \"Blake\" came from W. Glenn Blake, a friend from graduate school who is now a senior editor at Boulevard magazine, and some people Cobb knew in Tucson, Arizona. The book, which was out of print since its original publication, went into print again when the film was released.\r\nPre-production\r\nThe process of creating a film adaptation took many years because the concept was optioned, but was never produced into an actual adaptation until director Scott Cooper produced the film. Cobb assumed that the film would use a more upbeat ending, because the Hollywood film industry often prefers \"things that are generally positive\". According to Cobb, he had nothing to do with the making of the film. The shooting of a sequence depicting the novel's ending - in which Bad falls off the wagon and dies of a heart attack - occurred; Cooper wanted to use it as the ending, but he did not get final authority to do so. A sequence of Bad Blake visiting his son in Los Angeles was also cut from the final film.\r\nBridges initially passed on the role when he was first offered it. He explained to Vanity Fair that although he liked the script, he realized that the songs would make or break it and at the time the film had no musical attachments. A year later he talked with T Bone Burnett, who was approached to work on the film's soundtrack; together they both agreed to work on the film, and Bridges joined the project.\r\nMusic\r\nThe album entitled Crazy Heart: Original Motion Picture Soundtrack was released in 2009 to accompany the film. The 23-track album contains many songs written by Burnett, Bruton, and Bingham, but also some by John Goodwin, Bob Neuwirth, Sam Hopkins, Gary Nicholson, Townes Van Zandt, Sam Philips, Greg Brown, Billy Joe Shaver, and Eddy Shaver\r\nThe songs are performed by various artists including actors Bridges, Farrell, and Duvall, as well as singers Bingham (who sings the theme song \"The Weary Kind\" and plays Tony in the film), Buck Owens, The Louvin Brothers, Lightnin' Hopkins, Waylon Jennings, Townes Van Zandt, and Sam Philips.\r\nAt the 82nd Grammy Awards, the theme song \"The Weary Kind\" by Ryan Bingham won for Best Song Written For Motion Picture, Television Or Other Visual Media and the soundtrack also won for Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media.\r\nReception\r\nCritical response\r\nReview aggregator website Rotten Tomatoes reports that 91% of critics have given the film a positive review based on 207 reviews, with an average score of 7.42/10. The consensus reads, \"Thanks to a captivating performance from Jeff Bridges, Crazy Heart transcends its overly familiar origins and finds new meaning in an old story.\" On Metacritic the film holds a score of 83 out of 100, indicating \"universal acclaim\".\r\nCritics mainly praised the performance of Jeff Bridges as Bad Blake, with many claiming he elevated the film above its seemingly conventional story and languid pace. Tom Long from Detroit News writes, \"It's a bit too easy, a bit too familiar, and maybe even a bit too much fun. But the easy magic Bridges brings to the screen makes it all work.\" The Toronto Star 's Linda Barnard attests that \"some goodwill evaporates in the final reel, when a few false endings lead to a choice that's not the best one for Crazy Heart, but the generosity of Bridges' performance puts us in a forgiving mood.\"\r\nJeff Bridges' performance earned him the Academy Award for Best Actor, as well as Best Actor prizes from the Los Angeles Film Critics Association, Broadcast Film Critics Association, Golden Globe Awards, Screen Actors Guild and the Independent Spirit Awards. Bridges also received nominations from the Chicago Film Critics Association, London Critics Circle, Online Film Critics Society and the Satellite Awards. Gyllenhaal was nominated for an Academy Award for Best Supporting Actress for her performance. The song \"The Weary Kind\" earned Ryan Bingham and T Bone Burnett the 2009 Academy Award for Best Original Song and a Golden Globe.\r\nAccolades\r\nHome media\r\nThe film was released on April 20, 2010, on DVD and Blu-ray. The single-disc DVDs special features included six deleted scenes, while the Blu-ray 2-disc set contained eight deleted scenes (including one in which Bad reunites with his son), plus two alternative music cuts and a short documentary in which the stars discuss \"What Brought Them to Crazy Heart\".",
+            "html": "<h2>Crazy Heart</h2><p>Crazy Heart is a 2009 American drama film, written and directed by Scott Cooper, in his directorial debut. Based on the 1987 novel of the same name by Thomas Cobb, the film centers around a down-and-out country music singer-songwriter (Jeff Bridges) who tries to turn his life around after beginning a relationship with a young journalist (Maggie Gyllenhaal). Other supporting roles are played by Colin Farrell, Robert Duvall, and child actor Jack Nation. Bridges, Farrell, and Duvall also sing in the film.</p><p>The novel on which the film was based was inspired by country singer Hank Thompson. Filming took place during 2008 in New Mexico (Albuquerque, Espa\u00f1ola, Galisteo, Santa Fe), in Houston, Texas, and in Los Angeles, California. Original music for the film was composed by T Bone Burnett, Stephen Bruton, Ryan Bingham and others.</p><p>The film was produced for $7 million by Country Music Television, and was originally acquired by Paramount Vantage for a direct-to-video release, but was later purchased for theatrical distribution by Fox Searchlight Pictures. It opened in limited release in the U.S. on December 16, 2009. From its meager budget it amassed domestic earnings of $39.5 million plus $7.9 international for worldwide total of $47.4 million. The film ends with a dedication to musician Stephen Bruton, who died the same year the film was made.</p><p>The film was met with acclaim and was nominated for three Academy Awards at the 82nd Academy Awards, winning two: Best Actor for Bridges and Best Original Song for \"The Weary Kind\" written by Ryan Bingham and T Bone Burnett.</p><br/><h3>Plot</h3><p>Otis \"Bad\" Blake is a 57-year-old alcoholic singer-songwriter who was once a country music star. He now earns a modest living by singing and playing his guitar in small town bars across the southwestern United States. Having a history of failed marriages (four that he admits to, although a reference is made to a fifth he does not discuss) Blake is without a family. He has a son, aged 28, with whom he has not had contact in 24 years. He is mostly on the road performing, staying in cheap motels and travelling alone in his 1977 Chevrolet Suburban. The film opens with his arrival at a bowling alley for a show.</p><p>In Santa Fe he meets Jean Craddock, a young journalist after a story, divorced and with a four-year-old son, Buddy. She interviews Blake one evening after his gig, and then as they become close, Jean visits again ostensibly to gather more material, and the two enter into a relationship. Jean and her son become a catalyst for Blake beginning to get his life back on track. In doing so, he lets himself be pushed into renewing a professional relationship with Tommy Sweet, a popular and successful country music star he once mentored, and plays as the opening act at one of Tommy's concerts, despite his initial balking and wounded pride at being the opening act to his former student. He asks Tommy to record an album with him, but Tommy says his record company insists on a couple more solo albums before a duet project can be recorded. He instead suggests that Blake concentrate on writing new songs that Tommy can record solo, telling him he writes better songs than anyone else.</p><p>Blake's drinking soon gets out of control and he ends up running off the road while driving drunk. In the hospital, the doctor informs him that although he only sustained a broken ankle from the crash, he is slowly killing himself, and must stop drinking and smoking and lose 25 pounds if he wants to live more than a few more years. Blake's relationship with Jean makes him start to rethink his life. While in Houston, he calls up his son to make amends, only to have his son tell him that his mother, Bad's ex-wife, has died. His relationship with Jean starts to look up, with her visiting him with her son Buddy. After a situation where Blake loses Buddy briefly at a shopping mall while drinking at a bar, Jean breaks up with him.</p><p>After losing Jean and her son, who were becoming his only family, Blake resolves to quit drinking. After going through a treatment program at a rehab center, and with support from his Alcoholics Anonymous group and his old friend Wayne, Blake finally manages to get sober. Having cleaned up his act, he tries to reunite with Jean, but she tells him that the best thing he can do for her and Buddy is to leave them alone. After losing Jean, Blake finishes writing a song that he thinks is his best ever, \"The Weary Kind\", and sells it to Tommy.</p><p>Sixteen months later, Tommy plays \"The Weary Kind\" to an appreciative audience while Blake watches backstage, as his manager presents him with another of the large royalty checks for the song. As Blake is leaving, Jean approaches him, saying she has come to the show as writer for a large music publication. As they catch up, Blake sees an engagement ring on Jean's finger and tells her that she deserves a good man. He offers her the money from the royalty check for Buddy to have on his 18th birthday, which Jean initially refuses but eventually accepts after Blake says the song would not exist without her, and states that \"it isn't money.\" Jean asks if Blake would like to see Buddy again, but Blake declines saying it might be too unsettling for the boy. The film ends with Jean asking Blake for another interview, after which they walk away happily, chatting with each other with the Santa Fe hilltops in the background.</p><br/><h3>Cast</h3><ul><li>Jeff Bridges as Otis \"Bad\" Blake</li><li>Maggie Gyllenhaal as Jean Craddock</li><li>Colin Farrell as Tommy Sweet</li><li>Robert Duvall as Wayne Kramer</li><li>Paul Herman as Jack Greene</li><li>Jack Nation as Buddy, Jean's son</li><li>Ryan Bingham as Tony of Tony and the Renegades, backup group at bowling alley</li><li>Rick Dial as Wesley Barnes, Jean's uncle, Santa Fe piano player</li></ul><br/><h3>Production</h3><h4>Development of original novel</h4><p>The New York Times said the novel, written by Thomas Cobb, \"also functions as a shrewd and funny running critique of contemporary country music.\" Cobb based the character \"Bad\" Blake on country music entertainer Hank Thompson, Ramblin' Jack Elliott and Cobb's doctoral advisor in graduate school, Donald Barthelme; Cobb studied with Barthelme in a creative writing class in the University of Houston in the 1980s. When Cobb struggled between using an \"upbeat\" ending and a \"downbeat\" ending, Barthelme suggested that Cobb use the \"downbeat\" ending. The nickname \"Bad\" came from a sentence that popped into Cobb's mind, \"Bad's got the sweats again.\" The name \"Blake\" came from W. Glenn Blake, a friend from graduate school who is now a senior editor at Boulevard magazine, and some people Cobb knew in Tucson, Arizona. The book, which was out of print since its original publication, went into print again when the film was released.</p><h4>Pre-production</h4><p>The process of creating a film adaptation took many years because the concept was optioned, but was never produced into an actual adaptation until director Scott Cooper produced the film. Cobb assumed that the film would use a more upbeat ending, because the Hollywood film industry often prefers \"things that are generally positive\". According to Cobb, he had nothing to do with the making of the film. The shooting of a sequence depicting the novel's ending - in which Bad falls off the wagon and dies of a heart attack - occurred; Cooper wanted to use it as the ending, but he did not get final authority to do so. A sequence of Bad Blake visiting his son in Los Angeles was also cut from the final film.</p><p>Bridges initially passed on the role when he was first offered it. He explained to Vanity Fair that although he liked the script, he realized that the songs would make or break it and at the time the film had no musical attachments. A year later he talked with T Bone Burnett, who was approached to work on the film's soundtrack; together they both agreed to work on the film, and Bridges joined the project.</p><h4>Music</h4><p>The album entitled Crazy Heart: Original Motion Picture Soundtrack was released in 2009 to accompany the film. The 23-track album contains many songs written by Burnett, Bruton, and Bingham, but also some by John Goodwin, Bob Neuwirth, Sam Hopkins, Gary Nicholson, Townes Van Zandt, Sam Philips, Greg Brown, Billy Joe Shaver, and Eddy Shaver</p><p>The songs are performed by various artists including actors Bridges, Farrell, and Duvall, as well as singers Bingham (who sings the theme song \"The Weary Kind\" and plays Tony in the film), Buck Owens, The Louvin Brothers, Lightnin' Hopkins, Waylon Jennings, Townes Van Zandt, and Sam Philips.</p><p>At the 82nd Grammy Awards, the theme song \"The Weary Kind\" by Ryan Bingham won for Best Song Written For Motion Picture, Television Or Other Visual Media and the soundtrack also won for Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media.</p><br/><h3>Reception</h3><h4>Critical response</h4><p>Review aggregator website Rotten Tomatoes reports that 91% of critics have given the film a positive review based on 207 reviews, with an average score of 7.42/10. The consensus reads, \"Thanks to a captivating performance from Jeff Bridges, Crazy Heart transcends its overly familiar origins and finds new meaning in an old story.\" On Metacritic the film holds a score of 83 out of 100, indicating \"universal acclaim\".</p><p>Critics mainly praised the performance of Jeff Bridges as Bad Blake, with many claiming he elevated the film above its seemingly conventional story and languid pace. Tom Long from Detroit News writes, \"It's a bit too easy, a bit too familiar, and maybe even a bit too much fun. But the easy magic Bridges brings to the screen makes it all work.\" The Toronto Star 's Linda Barnard attests that \"some goodwill evaporates in the final reel, when a few false endings lead to a choice that's not the best one for Crazy Heart, but the generosity of Bridges' performance puts us in a forgiving mood.\"</p><p>Jeff Bridges' performance earned him the Academy Award for Best Actor, as well as Best Actor prizes from the Los Angeles Film Critics Association, Broadcast Film Critics Association, Golden Globe Awards, Screen Actors Guild and the Independent Spirit Awards. Bridges also received nominations from the Chicago Film Critics Association, London Critics Circle, Online Film Critics Society and the Satellite Awards. Gyllenhaal was nominated for an Academy Award for Best Supporting Actress for her performance. The song \"The Weary Kind\" earned Ryan Bingham and T Bone Burnett the 2009 Academy Award for Best Original Song and a Golden Globe.</p><h4>Accolades</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Year</th><th>Association</th><th>Category</th><th>Nominated work</th><th>Result</th></tr><tr><td rowspan=\"5\">2009</td><td rowspan=\"2\"><span class=\"mw-redirect\">Satellite Award</span></td><td><span class=\"mw-redirect\">Satellite Award for Best Actor - Motion Picture</span></td><td>Jeff Bridges</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Satellite Award for Best Original Song</span></td><td>\"The Weary Kind\"</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Los Angeles Film Critics Association</span></td><td><span>Los Angeles Film Critics Association Award for Best Actor</span></td><td>Jeff Bridges</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Las Vegas Film Critics Society</td><td>Las Vegas Film Critics Society Award for Best Song</td><td>\"The Weary Kind\"</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Chicago Film Critics Association</span></td><td><span>Chicago Film Critics Association Award for Best Actor</span></td><td>Jeff Bridges</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"12\">2010</td><td rowspan=\"3\"><span class=\"mw-redirect\">Academy Award</span></td><td><span>Academy Award for Best Actor</span></td><td>Jeff Bridges</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Academy Award for Best Supporting Actress</span></td><td>Maggie Gyllenhaal</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Academy Award for Best Original Song</span></td><td>\"The Weary Kind\"</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"2\"><span>British Academy Film Awards</span></td><td><span>BAFTA Award for Best Actor in a Leading Role</span></td><td>Jeff Bridges</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span class=\"mw-redirect\">BAFTA Award for Best Film Music</span></td><td>T Bone Burnett, Stephen Bruton</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"2\"><span class=\"mw-redirect\">Broadcast Film Critics Association Award</span></td><td><span class=\"mw-redirect\">Broadcast Film Critics Association Award for Best Actor</span></td><td>Jeff Bridges</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span class=\"mw-redirect\">Broadcast Film Critics Association Award for Best Song</span></td><td>\"The Weary Kind\"</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"2\"><span class=\"mw-redirect\">Golden Globe Award</span></td><td><span class=\"mw-redirect\">Golden Globe Award for Best Actor - Motion Picture Drama</span></td><td>Jeff Bridges</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Golden Globe Award for Best Original Song</span></td><td>\"The Weary Kind\"</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"2\"><span>Independent Spirit Awards</span></td><td><span>Independent Spirit Award for Best First Feature</span></td><td><span>Scott Cooper</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Independent Spirit Award for Best Male Lead</span></td><td>Jeff Bridges</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span class=\"mw-redirect\">Screen Actors Guild Award</span></td><td><span>Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role</span></td><td>Jeff Bridges</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr></tbody></table><br/><h3>Home media</h3><p>The film was released on April 20, 2010, on DVD and Blu-ray. The single-disc DVDs special features included six deleted scenes, while the Blu-ray 2-disc set contained eight deleted scenes (including one in which Bad reunites with his son), plus two alternative music cuts and a short documentary in which the stars discuss \"What Brought Them to Crazy Heart\".</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt1263670",
+        "title": "Crazy Heart",
+        "fullTitle": "Crazy Heart (2009)",
+        "type": "Movie",
+        "year": "2009",
+        "posters": [
+            {
+                "id": "zwao2YMsqf27IzNEtDNWSe0W9jH.jpg",
+                "link": "https://imdb-api.com/posters/original/zwao2YMsqf27IzNEtDNWSe0W9jH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            }
+        ],
+        "backdors": [
+            {
+                "id": "AqOE4sRNgZsq6FIJ5j0ku9N0YKS.jpg",
+                "link": "https://imdb-api.com/posters/original/AqOE4sRNgZsq6FIJ5j0ku9N0YKS.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt1263670",
+        "title": "Crazy Heart",
+        "fullTitle": "Crazy Heart (2009)",
+        "type": "Movie",
+        "year": "2009",
+        "items": [
+            {
+                "title": "Jeff Bridges in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MTc4MzU5Ml5BMl5BanBnXkFtZTcwOTI1NTQwMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Maggie Gyllenhaal in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2MzAwMDM5MF5BMl5BanBnXkFtZTcwMDM1NTQwMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Robert Duvall in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNTc2Njc4Nl5BMl5BanBnXkFtZTcwMTM1NTQwMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Scott Cooper in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3OTUzNTI1OF5BMl5BanBnXkFtZTcwMjM1NTQwMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3MTc2NDk1Ml5BMl5BanBnXkFtZTcwMzM1NTQwMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges, Scott Cooper, and Maggie Gyllenhaal in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0MzkwODEyMF5BMl5BanBnXkFtZTcwMDg4MTk5Mg@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Maggie Gyllenhaal in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM4OTY0MTQxMF5BMl5BanBnXkFtZTcwMTg4MTk5Mg@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BNDA5MjY3Njk5Nl5BMl5BanBnXkFtZTcwMTg1OTg5Mg@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Maggie Gyllenhaal in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BOTM3MTIwMzM4OV5BMl5BanBnXkFtZTcwMjg1OTg5Mg@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges in Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkwNTQ2MjcxNF5BMl5BanBnXkFtZTcwMzg1OTg5Mg@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjExOTE5NDYyN15BMl5BanBnXkFtZTcwNjcyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Skeet Ulrich at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIyMzExMjg4Ml5BMl5BanBnXkFtZTcwNzcyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BNDM4Mjk5MDE3NV5BMl5BanBnXkFtZTcwODcyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzMzE3MTY0N15BMl5BanBnXkFtZTcwOTcyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Duvall at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2NDQyMjU5NV5BMl5BanBnXkFtZTcwMDgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Gary Busey and Steffanie Busey at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE2MjYwNTczOF5BMl5BanBnXkFtZTcwMTgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jacqueline Bisset at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI5MDE5ODkwNl5BMl5BanBnXkFtZTcwMjgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyNzg0MTc2M15BMl5BanBnXkFtZTcwMzgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxMDU1NDg2OV5BMl5BanBnXkFtZTcwNDgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE2NDI4NDc2Nl5BMl5BanBnXkFtZTcwNTgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2ODczNDI0NV5BMl5BanBnXkFtZTcwNjgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI5MDk1ODA4MV5BMl5BanBnXkFtZTcwNzgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNDA4OTE2Nl5BMl5BanBnXkFtZTcwODgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sharon Stone at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcwMzUxOTUzNl5BMl5BanBnXkFtZTcwOTgyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sharon Stone at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2ODY3NDM0MV5BMl5BanBnXkFtZTcwMDkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2MDIzNTQ0MF5BMl5BanBnXkFtZTcwMTkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sharon Stone and Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5NzY3NjE1OF5BMl5BanBnXkFtZTcwMjkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Olivia Wilde at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczMjIzMjM5MV5BMl5BanBnXkFtZTcwMzkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Olivia Wilde at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0MjI0Mjc1OV5BMl5BanBnXkFtZTcwNDkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Duvall at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NzM3MTIyNF5BMl5BanBnXkFtZTcwNTkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jacqueline Bisset at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5MDg1MTE2M15BMl5BanBnXkFtZTcwNjkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Gary Busey and Steffanie Busey at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAxMzM0NzYxMF5BMl5BanBnXkFtZTcwNzkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sharon Stone at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5NTcyNTkwN15BMl5BanBnXkFtZTcwODkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3OTA4MDkzMF5BMl5BanBnXkFtZTcwOTkyMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "T Bone Burnett and Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAxMjM3NjQ3MV5BMl5BanBnXkFtZTcwMDAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and T Bone Burnett at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2MDQ1ODUyOV5BMl5BanBnXkFtZTcwMTAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Scott Cooper at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1ODYzNTI3Nl5BMl5BanBnXkFtZTcwMjAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Diane Lane and Josh Brolin at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4ODE2MTU1OF5BMl5BanBnXkFtZTcwMzAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Robert Duvall at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MzM5NzU5NV5BMl5BanBnXkFtZTcwNDAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges and Robert Duvall at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0MjkwNzIxMF5BMl5BanBnXkFtZTcwNTAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges, Robert Duvall, and Scott Cooper at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1Mjg3NzA5NV5BMl5BanBnXkFtZTcwNjAzMDUwMw@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Robert Duvall and Scott Cooper at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyMjQ5NTExMV5BMl5BanBnXkFtZTcwNzAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Scott Cooper and Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3MDMzNTE2M15BMl5BanBnXkFtZTcwODAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Duvall and Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BNTQ1MzUzNjg2MF5BMl5BanBnXkFtZTcwOTAzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Duvall and Maggie Gyllenhaal at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk5MjkyNzQ3Nl5BMl5BanBnXkFtZTcwMDEzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges, T Bone Burnett, and Ryan Bingham at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyNTk0NjAzNl5BMl5BanBnXkFtZTcwMTEzMDUwMw@@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Bridges at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3Mjc3MTEzMl5BMl5BanBnXkFtZTcwMjEzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Dwight Yoakam at an event for Crazy Heart (2009)",
+                "image": "https://imdb-api.com/images/original/MV5BNjUzNTA4NzA3NV5BMl5BanBnXkFtZTcwMzEzMDUwMw@@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt1263670",
+        "title": "Crazy Heart",
+        "fullTitle": "Crazy Heart (2009)",
+        "type": "Movie",
+        "year": "2009",
+        "videoId": "vi3193439513",
+        "videoTitle": "Crazy Heart - Trailer #1",
+        "videoDescription": "Trailer for the new film Crazy Heart, starring Jeff Bridges, Maggie Gyllenhaal, Colin Farrell and Robert Duvall.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTQ4MjMzNDE3Nl5BMl5BanBnXkFtZTcwNDA5ODk5Mg@@._V1_.jpg",
+        "uploadDate": "11/18/2009 10:51:39",
+        "link": "https://www.imdb.com/video/vi3193439513",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3193439513/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$7,000,000 (estimated)",
+        "openingWeekendUSA": "$82,664, 20 December 2009",
+        "grossUSA": "$39,464,306",
+        "cumulativeWorldwideGross": "$47,405,566"
+    },
+    "tagline": "The harder the life, the sweeter the song.",
+    "keywords": "country music,alcoholism,musician,journalist,country western singer",
+    "keywordList": [
+        "country music",
+        "alcoholism",
+        "musician",
+        "journalist",
+        "country western singer"
+    ],
+    "similars": [
+        {
+            "id": "tt0929632",
+            "title": "Precious",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3NDM4ODMwNl5BMl5BanBnXkFtZTcwMTYyNDIzMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In New York City's Harlem circa 1987, an overweight, abused, illiterate teen who is pregnant with her second child is invited to enroll in an alternative school in hopes that her life can head in a new direction.",
+            "directors": "Lee Daniels",
+            "stars": "Gabourey Sidibe, Mo'Nique, Paula Patton",
+            "genres": "Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt1013753",
+            "title": "Milk",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTI2OTM5NjUzMV5BMl5BanBnXkFtZTcwMzY1MTM5MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of Harvey Milk, and his struggles as an American gay activist who fought for gay rights and became California's first openly gay elected official.",
+            "directors": "Gus Van Sant",
+            "stars": "Sean Penn, Josh Brolin, Emile Hirsch",
+            "genres": "Biography, Drama",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0854678",
+            "title": "Taxi to the Dark Side",
+            "fullTitle": "Taxi to the Dark Side (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxNzMxNzA3OF5BMl5BanBnXkFtZTcwODgyMzU1MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Alex Gibney exposes the haunting details of the USA's torture and interrogation practices during the War in Afghanistan.",
+            "directors": "Alex Gibney",
+            "stars": "Alex Gibney, Brian Keith Allen, Moazzam Begg",
+            "genres": "Documentary, Crime, News",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt1155592",
+            "title": "Man on Wire",
+            "fullTitle": "Man on Wire (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMTMxNTk3NDY1NV5BMl5BanBnXkFtZTcwNDk0ODg3MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A look at tightrope walker Philippe Petit's daring, but illegal, high-wire routine performed between New York City's World Trade Center's twin towers in 1974, what some consider, \"the artistic crime of the century\".",
+            "directors": "James Marsh",
+            "stars": "Philippe Petit, Jean Fran\u00e7ois Heckel, Jean-Louis Blondeau",
+            "genres": "Documentary, Biography, History",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0379725",
+            "title": "Capote",
+            "fullTitle": "Capote (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BMTczMzU0MjM1MV5BMl5BanBnXkFtZTcwMjczNzgyNA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1959, Truman Capote learns of the murder of a Kansas family and decides to write a book about the case. While researching for his novel In Cold Blood, Capote forms a relationship with one of the killers, Perry Smith, who is on death row.",
+            "directors": "Bennett Miller",
+            "stars": "Philip Seymour Hoffman, Clifton Collins Jr., Catherine Keener",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0350258",
+            "title": "Ray",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.",
+            "directors": "Taylor Hackford",
+            "stars": "Jamie Foxx, Regina King, Kerry Washington",
+            "genres": "Biography, Drama, Music",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0455590",
+            "title": "The Last King of Scotland",
+            "fullTitle": "The Last King of Scotland (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BMjM1NTkxNjkzMl5BMl5BanBnXkFtZTgwNDgwMDAxMzE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970s.",
+            "directors": "Kevin Macdonald",
+            "stars": "James McAvoy, Forest Whitaker, Gillian Anderson",
+            "genres": "Biography, Drama, History",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0365737",
+            "title": "Syriana",
+            "fullTitle": "Syriana (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BMjA2MTQwMTg0N15BMl5BanBnXkFtZTcwOTE5NjEzMQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A politically charged epic about the state of the oil industry in the hands of those personally involved in and affected by it.",
+            "directors": "Stephen Gaghan",
+            "stars": "George Clooney, Matt Damon, Amanda Peet",
+            "genres": "Drama, Thriller",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt0388789",
+            "title": "Born Into Brothels: Calcutta's Red Light Kids",
+            "fullTitle": "Born Into Brothels: Calcutta's Red Light Kids (2004)",
+            "year": "2004",
+            "image": "https://imdb-api.com/images/original/MV5BMTY0Nzc4NDEwNl5BMl5BanBnXkFtZTcwMjMyNzcyMQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two documentary filmmakers chronicle their time in Sonagchi, Calcutta and the relationships they developed with children of prostitutes who work the city's notorious red light district.",
+            "directors": "Directors: Zana Briski, Ross Kauffman",
+            "stars": "Kochi, Avijit Halder, Shanti Das",
+            "genres": "Documentary, Biography, News",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0387131",
+            "title": "The Constant Gardener",
+            "fullTitle": "The Constant Gardener (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BOWZkODhlZjQtMzdiYi00MDg2LTgxZDItN2IxMDZhMWE0MDdmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A widower is determined to get to the bottom of a potentially explosive secret involving his wife's murder, big business, and corporate corruption.",
+            "directors": "Fernando Meirelles",
+            "stars": "Ralph Fiennes, Rachel Weisz, Danny Huston",
+            "genres": "Drama, Mystery, Romance",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0375063",
+            "title": "Sideways",
+            "fullTitle": "Sideways (2004)",
+            "year": "2004",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0Mjg3MzkxOV5BMl5BanBnXkFtZTYwNDU1OTY3._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two men reaching middle age with not much to show but disappointment embark on a week-long road trip through California's wine country, just as one is about to take a trip down the aisle.",
+            "directors": "Alexander Payne",
+            "stars": "Paul Giamatti, Thomas Haden Church, Virginia Madsen",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0465538",
+            "title": "Michael Clayton",
+            "fullTitle": "Michael Clayton (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTc0NTU5MjI2MV5BMl5BanBnXkFtZTcwMTg5NTQzMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A law firm brings in its \"fixer\" to remedy the situation after a lawyer has a breakdown while representing a chemical company that he knows is guilty in a multibillion-dollar class action suit.",
+            "directors": "Tony Gilroy",
+            "stars": "George Clooney, Tilda Swinton, Tom Wilkinson",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "7.2"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

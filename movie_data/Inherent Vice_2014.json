@@ -1,0 +1,3282 @@
+{
+    "id": "tt1791528",
+    "title": "Inherent Vice",
+    "originalTitle": "",
+    "fullTitle": "Inherent Vice (2014)",
+    "type": "Movie",
+    "year": "2014",
+    "image": "https://imdb-api.com/images/original/MV5BMjI2ODQ2NzUwMl5BMl5BanBnXkFtZTgwNjU3NTE4MjE@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2015-01-09",
+    "runtimeMins": "148",
+    "runtimeStr": "2h 28mins",
+    "plot": "During the psychedelic 60s and 70s Larry \"Doc\" Sportello is surprised by his former girlfriend and her plot for her billionaire boyfriend, his wife, and her boyfriend. A plan for kidnapping gets shaken up by the oddball characters entangled in this groovy kidnapping romp based upon the novel by Thomas Pynchon.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Nominated for 2 Oscars. Another 16 wins & 94 nominations.",
+    "directors": "Paul Thomas Anderson",
+    "directorList": [
+        {
+            "id": "nm0000759",
+            "name": "Paul Thomas Anderson"
+        }
+    ],
+    "writers": "Paul Thomas Anderson, Thomas Pynchon",
+    "writerList": [
+        {
+            "id": "nm0000759",
+            "name": "Paul Thomas Anderson"
+        },
+        {
+            "id": "nm1535410",
+            "name": "Thomas Pynchon"
+        }
+    ],
+    "stars": "Joaquin Phoenix, Josh Brolin, Owen Wilson, Katherine Waterston",
+    "starList": [
+        {
+            "id": "nm0001618",
+            "name": "Joaquin Phoenix"
+        },
+        {
+            "id": "nm0000982",
+            "name": "Josh Brolin"
+        },
+        {
+            "id": "nm0005562",
+            "name": "Owen Wilson"
+        },
+        {
+            "id": "nm2239702",
+            "name": "Katherine Waterston"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm1827079",
+            "image": "https://imdb-api.com/images/original/MV5BMTQxMDEzMjI4NV5BMl5BanBnXkFtZTcwOTc1MzMyNw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Joanna Newsom",
+            "asCharacter": "Sortil\u00e8ge"
+        },
+        {
+            "id": "nm2239702",
+            "image": "https://imdb-api.com/images/original/MV5BODE2NzIwOTQ1MV5BMl5BanBnXkFtZTgwMzIyMjQ1MDI@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Katherine Waterston",
+            "asCharacter": "Shasta Fay Hepworth"
+        },
+        {
+            "id": "nm0001618",
+            "image": "https://imdb-api.com/images/original/MV5BZGMyY2Q4NTEtMWVkZS00NzcwLTkzNmQtYzBlMWZhZGNhMDhkXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Joaquin Phoenix",
+            "asCharacter": "Larry \"Doc\" Sportello"
+        },
+        {
+            "id": "nm5713860",
+            "image": "https://imdb-api.com/images/original/MV5BOTk3MmJmYWYtNTY0My00YjI1LTk3NzktMWYyMmFkZTBjMDczXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jordan Christian Hearn",
+            "asCharacter": "Denis"
+        },
+        {
+            "id": "nm4293207",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Taylor Bonin",
+            "asCharacter": "Ensenada Slim"
+        },
+        {
+            "id": "nm0075588",
+            "image": "https://imdb-api.com/images/original/MV5BMjExMTk2NDkxM15BMl5BanBnXkFtZTgwNzkwMDEwMDE@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Jeannie Berlin",
+            "asCharacter": "Aunt Reet"
+        },
+        {
+            "id": "nm0000982",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Josh Brolin",
+            "asCharacter": "Lt. Det. Christian F. \"Bigfoot\" Bjornsen"
+        },
+        {
+            "id": "nm0000616",
+            "image": "https://imdb-api.com/images/original/MV5BOWE1NWRlZTgtZTM5YS00YTc3LThmNDMtZGFkYTFjZWQzYzJmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Eric Roberts",
+            "asCharacter": "Michael Z. Wolfmann"
+        },
+        {
+            "id": "nm0005583",
+            "image": "https://imdb-api.com/images/original/MV5BNDA1Mzc0Nzg5N15BMl5BanBnXkFtZTgwMzkwNTc1NDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Serena Scott Thomas",
+            "asCharacter": "Sloane Wolfmann"
+        },
+        {
+            "id": "nm0748973",
+            "image": "https://imdb-api.com/images/original/MV5BMTMzOTQwMzAyOF5BMl5BanBnXkFtZTYwNzA1OTc0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Maya Rudolph",
+            "asCharacter": "Petunia Leeway"
+        },
+        {
+            "id": "nm2218784",
+            "image": "https://imdb-api.com/images/original/MV5BMTYxMDczNzg4M15BMl5BanBnXkFtZTcwMjY0NjM2Mw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Martin Dew",
+            "asCharacter": "Dr. Buddy Tubeside"
+        },
+        {
+            "id": "nm0931324",
+            "image": "https://imdb-api.com/images/original/MV5BMjE1MTI1NjUxMV5BMl5BanBnXkFtZTgwNTUyODM0MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Kenneth Williams",
+            "asCharacter": "Tariq Khalil"
+        },
+        {
+            "id": "nm2186865",
+            "image": "https://imdb-api.com/images/original/MV5BNjllNmMzNWYtM2JjMS00ODg4LTk2OWEtYWE3OTc1NzMzMGM2XkEyXkFqcGdeQXVyNTc0NTQ3MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Hong Chau",
+            "asCharacter": "Jade"
+        },
+        {
+            "id": "nm1711948",
+            "image": "https://imdb-api.com/images/original/MV5BYmVmNzFlYTgtYTI5YS00NTRmLTg2OWMtOThiNDZhZGI5MDIzXkEyXkFqcGdeQXVyMjMxODc1NTQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Shannon Collis",
+            "asCharacter": "Bambi"
+        },
+        {
+            "id": "nm0625247",
+            "image": "https://imdb-api.com/images/original/MV5BYjgyZDMwZmYtMTQwMC00OTU3LTk2MGUtY2ZjZmMzNmU4NWQ5XkEyXkFqcGdeQXVyMzExMzQ3MA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Christopher Allen Nelson",
+            "asCharacter": "Glenn Charlock"
+        },
+        {
+            "id": "nm0001125",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzODQ4NzU1N15BMl5BanBnXkFtZTcwOTUzMzc5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Benicio Del Toro",
+            "asCharacter": "Sauncho Smilax, Esq"
+        },
+        {
+            "id": "nm2637109",
+            "image": "https://imdb-api.com/images/original/MV5BZjA3NmIyZTctYmY5Yi00YmQwLWE0MDEtMWE2ZDg2NWE4Y2Q5XkEyXkFqcGdeQXVyMTU2OTAxOTc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Catherine Haena Kim",
+            "asCharacter": "News Reporter"
+        },
+        {
+            "id": "nm0540441",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0NDM5OTE0N15BMl5BanBnXkFtZTcwMzMzNjM0Nw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Jena Malone",
+            "asCharacter": "Hope Harlingen"
+        },
+        {
+            "id": "nm0005562",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwMzQ4ODYxMV5BMl5BanBnXkFtZTcwNDAwMTc2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Owen Wilson",
+            "asCharacter": "Coy Harlingen"
+        },
+        {
+            "id": "nm6967423",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vivienne Khaledi",
+            "asCharacter": "Amethyst Harlingen"
+        },
+        {
+            "id": "nm1545721",
+            "image": "https://imdb-api.com/images/original/MV5BMjAyMDY5NzA0MV5BMl5BanBnXkFtZTgwMDk1NDc1MjE@._V1_Ratio1.5455_AL_.jpg",
+            "name": "Yvette Yates Redick",
+            "asCharacter": "Luz (as Yvette Yates)"
+        },
+        {
+            "id": "nm0800896",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andrew Simpson",
+            "asCharacter": "Riggs Warbling"
+        },
+        {
+            "id": "nm4404619",
+            "image": "https://imdb-api.com/images/original/MV5BMDk0YzQ2NWYtZmM2Ny00OWIwLWFkNzAtYmVjMDYxYzEzYzA0XkEyXkFqcGdeQXVyMjczNDY4MTk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Joe Dioletto",
+            "asCharacter": "Cop with Bigfoot"
+        },
+        {
+            "id": "nm0000702",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3MDcxMDA5Ml5BMl5BanBnXkFtZTgwNDM1NTU5MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Reese Witherspoon",
+            "asCharacter": "Deputy D.A. Penny Kimball"
+        },
+        {
+            "id": "nm0415382",
+            "image": "https://imdb-api.com/images/original/MV5BM2U4ZGUxZjctNWUzZS00ZjRjLWI1ODMtM2FjNWNkNmFlYzA2XkEyXkFqcGdeQXVyMTUxNzU2OQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sam Jaeger",
+            "asCharacter": "Agent Flatweed"
+        },
+        {
+            "id": "nm3985937",
+            "image": "https://imdb-api.com/images/original/MV5BM2I1YmMzNDktOWE1ZC00MGNiLThjZDUtZWUzYmE4NWVhOWYwXkEyXkFqcGdeQXVyMTAyMzUyMjg0._V1_Ratio0.9545_AL_.jpg",
+            "name": "Timothy Simons",
+            "asCharacter": "Agent Borderline"
+        },
+        {
+            "id": "nm0446438",
+            "image": "https://imdb-api.com/images/original/MV5BMTk5MTQ4NTAzOV5BMl5BanBnXkFtZTcwODkwNTgxOA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jack Kelly",
+            "asCharacter": "Burke Stodger (archive footage)"
+        },
+        {
+            "id": "nm3255459",
+            "image": "https://imdb-api.com/images/original/MV5BMTgxMjgxOTMzN15BMl5BanBnXkFtZTgwNDQ5MzM4NjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jillian Bell",
+            "asCharacter": "Chlorinda"
+        },
+        {
+            "id": "nm3348818",
+            "image": "https://imdb-api.com/images/original/MV5BOGRhODcyZjAtODE5ZS00MDU3LWFlNjYtNDBlNmZhNDlmMGNlXkEyXkFqcGdeQXVyMjA1ODI3Nzk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Christian Williams",
+            "asCharacter": "Smedley"
+        },
+        {
+            "id": "nm4703750",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "The Growlers",
+            "asCharacter": "The Boards"
+        },
+        {
+            "id": "nm0068643",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3Nzg0Nzg4OF5BMl5BanBnXkFtZTcwMjMwNDk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Belladonna",
+            "asCharacter": "Clancy Charlock (as Michelle Sinclair)"
+        },
+        {
+            "id": "nm3633521",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alina Gatti",
+            "asCharacter": "Howdy Doper's Phone Voice (voice)"
+        },
+        {
+            "id": "nm1285544",
+            "image": "https://imdb-api.com/images/original/MV5BMjA3MTg4MDg3MV5BMl5BanBnXkFtZTgwMzc4MDYxODE@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Elaine Tan",
+            "asCharacter": "Xandra"
+        },
+        {
+            "id": "nm0001737",
+            "image": "https://imdb-api.com/images/original/MV5BMTY1MDIyMDY1N15BMl5BanBnXkFtZTgwNzMzMDE5NTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Martin Short",
+            "asCharacter": "Dr. Rudy Blatnoyd, D.D.S."
+        },
+        {
+            "id": "nm1199888",
+            "image": "https://imdb-api.com/images/original/MV5BNTMwYmI5ZTAtYWM3OS00NTQ3LWI3MTUtMDExOWM5MDc3NGM0XkEyXkFqcGdeQXVyODM0NDI0NjU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sasha Pieterse",
+            "asCharacter": "Japonica Fenway"
+        },
+        {
+            "id": "nm1569067",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwMjExMjMzNV5BMl5BanBnXkFtZTcwMjk5NzA1Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Wilson Bethel",
+            "asCharacter": "LAPD Officer #1"
+        },
+        {
+            "id": "nm2981082",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0NDg2NTU5NV5BMl5BanBnXkFtZTgwOTA0NzY4NjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Anders Holm",
+            "asCharacter": "LAPD Officer #2"
+        },
+        {
+            "id": "nm6967427",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Emmet Unverzagt",
+            "asCharacter": "Bigfoot's Kid"
+        },
+        {
+            "id": "nm0563070",
+            "image": "https://imdb-api.com/images/original/MV5BMTIxMzI1MjU2NV5BMl5BanBnXkFtZTYwOTg0MzQz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jefferson Mays",
+            "asCharacter": "Dr. Threeply"
+        },
+        {
+            "id": "nm0838058",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Erica Sullivan",
+            "asCharacter": "Dr. Lily Hammer"
+        },
+        {
+            "id": "nm0278897",
+            "image": "https://imdb-api.com/images/original/MV5BZjgyZDRlZTgtY2U2NC00ZWIxLWI3ZGItMzEyNGE0Yjk2MTA1XkEyXkFqcGdeQXVyODI3ODE1Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Eva Fisher",
+            "asCharacter": "Dr. Threeply's Assistant #1 (as Eva Simone Fisher)"
+        },
+        {
+            "id": "nm2539366",
+            "image": "https://imdb-api.com/images/original/MV5BNzJiYWZhZWQtZGZiNi00NTYzLWE5NmItN2JjNTM2ZDNjYmNmXkEyXkFqcGdeQXVyNzc5MTg1NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jackie Michele Johnson",
+            "asCharacter": "Dr. Threeply's Assistant #2"
+        },
+        {
+            "id": "nm3087281",
+            "image": "https://imdb-api.com/images/original/MV5BNDcyZGVhZTItMTcwMy00N2I5LTg4MTYtNzMzMzIzM2ZiMTgwXkEyXkFqcGdeQXVyMjQ5NTU3ODQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Katie Schwartz",
+            "asCharacter": "Kimberly"
+        },
+        {
+            "id": "nm2618495",
+            "image": "https://imdb-api.com/images/original/MV5BMTg4MTE1MDA0N15BMl5BanBnXkFtZTgwOTI2MDkyOTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Charley Morgan",
+            "asCharacter": "Dr. Igor"
+        },
+        {
+            "id": "nm2077124",
+            "image": "https://imdb-api.com/images/original/MV5BMmRjMTUyYTctYTIzMy00OTEyLWI0ZWMtNzUxMzY0NmIxMjA5XkEyXkFqcGdeQXVyNDIxMDQ5MTU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Keith Jardine",
+            "asCharacter": "Puck Beaverton"
+        },
+        {
+            "id": "nm0593273",
+            "image": "https://imdb-api.com/images/original/MV5BMjMxOTg1MTEyNl5BMl5BanBnXkFtZTgwNzM2MzM0MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Delaina Mitchell",
+            "asCharacter": "Mrs. Chastity Bjornsen"
+        },
+        {
+            "id": "nm1443310",
+            "image": "https://imdb-api.com/images/original/MV5BMjZhYTMyZjMtNzI1Mi00ZDc2LWE3MjUtODg1NzJkODA5MzkxXkEyXkFqcGdeQXVyMjkyMzM5MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Cotter",
+            "asCharacter": "Rhus Frothingham"
+        },
+        {
+            "id": "nm0574513",
+            "image": "https://imdb-api.com/images/original/MV5BYmUzOWZkNDItODhlOS00OWNkLWJmMWUtNGRiYzEwZWMwMWExL2ltYWdlXkEyXkFqcGdeQXVyNjg4ODU1MTc@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Peter McRobbie",
+            "asCharacter": "Adrian Prussia"
+        },
+        {
+            "id": "nm5557763",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shannon C. Sullivan",
+            "asCharacter": "Adrian Prussia's Secretary"
+        },
+        {
+            "id": "nm0233027",
+            "image": "https://imdb-api.com/images/original/MV5BNWIzNTAyZTktZmYzMC00MmQ1LWFhOTItYmZhZGViMWYwNzdjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Martin Donovan",
+            "asCharacter": "Crocker Fenway"
+        },
+        {
+            "id": "nm0501489",
+            "image": "https://imdb-api.com/images/original/MV5BMzE5ZTZhNTctYjQyNi00ZDlkLThlZWUtZjkxNzQ2NjAyMWU1XkEyXkFqcGdeQXVyOTE1NTc1OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Samantha Lemole",
+            "asCharacter": "Golden Fang Mother"
+        },
+        {
+            "id": "nm2167128",
+            "image": "https://imdb-api.com/images/original/MV5BMzRmZDJmOWQtODIyNC00ZmNlLWEwZGEtNjhiMTE2MmE4MmNlXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_Ratio1.7273_AL_.jpg",
+            "name": "Madison Leisle",
+            "asCharacter": "Golden Fang Daughter"
+        },
+        {
+            "id": "nm6967429",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Liam Van Joosten",
+            "asCharacter": "Golden Fang Son"
+        },
+        {
+            "id": "nm7132511",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matt Doyle",
+            "asCharacter": "Golden Fang Father"
+        },
+        {
+            "id": "nm1269866",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Prak",
+            "asCharacter": "Buddhist Monk"
+        },
+        {
+            "id": "nm1543212",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0MjQ3MzE5M15BMl5BanBnXkFtZTcwODI5NTgyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Amy Ferguson",
+            "asCharacter": "Bodhi"
+        },
+        {
+            "id": "nm2730808",
+            "image": "https://imdb-api.com/images/original/MV5BODg5N2JkMjctODc1NC00YjE1LTlmNzQtNWFiNWVlMGY4NTM5XkEyXkFqcGdeQXVyMTkyOTc4MTM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Emma Dumont",
+            "asCharacter": "Zinnia"
+        },
+        {
+            "id": "nm3792581",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Scott Aschenbrenner",
+            "asCharacter": "Jesus Guard (uncredited)"
+        },
+        {
+            "id": "nm5780395",
+            "image": "https://imdb-api.com/images/original/MV5BNzdmNGY1NjMtZjhiYS00YWUwLTk4YmQtZDVhY2JmZWQ0OWRmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ashleigh Biller",
+            "asCharacter": "Patient (uncredited)"
+        },
+        {
+            "id": "nm3858621",
+            "image": "https://imdb-api.com/images/original/MV5BMzBkNmUxODgtZThiNC00ZmVhLTgyYzEtZTM0NmZiNDU5MzcxXkEyXkFqcGdeQXVyMjI1ODI1ODY@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Christina Bobrowsky",
+            "asCharacter": "Patient (uncredited)"
+        },
+        {
+            "id": "nm3574153",
+            "image": "https://imdb-api.com/images/original/MV5BNTc5ZTI1OGMtOGQ0Yy00N2M0LTkxODktNmE1MWFiNmY5OWY4XkEyXkFqcGdeQXVyMjE5NDAwNTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter Bonilla",
+            "asCharacter": "Police Officer (uncredited)"
+        },
+        {
+            "id": "nm4157172",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gregoer Boru",
+            "asCharacter": "Recording Tech (uncredited)"
+        },
+        {
+            "id": "nm1615516",
+            "image": "https://imdb-api.com/images/original/MV5BODZiOGJhYzktZDM4NC00ZWRhLTk0ZjAtZTk4OWM1OTY2ZDQyXkEyXkFqcGdeQXVyNDA4NDIyNzk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Marianne Bourg",
+            "asCharacter": "Beach Girl (uncredited)"
+        },
+        {
+            "id": "nm3779341",
+            "image": "https://imdb-api.com/images/original/MV5BYzY1ODY3MWUtNTY4NS00MThjLWI2ZTYtNjgwZmNkNWU0NTNmXkEyXkFqcGdeQXVyMTA2OTAxNjY0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Toyia Brown",
+            "asCharacter": "Harmony (uncredited)"
+        },
+        {
+            "id": "nm1148015",
+            "image": "https://imdb-api.com/images/original/MV5BYmI1NjU5YTAtMTIzYy00OTc0LWFmNjItOGZkNTI2ZGVhMDAxXkEyXkFqcGdeQXVyMzEwMTI2Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Stu Brumbaugh",
+            "asCharacter": "Groupie (uncredited)"
+        },
+        {
+            "id": "nm2757001",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Will C.",
+            "asCharacter": "Commando (uncredited)"
+        },
+        {
+            "id": "nm4802057",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Seth Cash",
+            "asCharacter": "Detective (uncredited)"
+        },
+        {
+            "id": "nm4166902",
+            "image": "https://imdb-api.com/images/original/MV5BMTY2NDk0NTE5Ml5BMl5BanBnXkFtZTgwNzg2MzYwNDE@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Elizabeth Colunga",
+            "asCharacter": "Patient (uncredited)"
+        },
+        {
+            "id": "nm4320749",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Emma Cooper",
+            "asCharacter": "Groupie (uncredited)"
+        },
+        {
+            "id": "nm3050597",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1MTYxNzcyNl5BMl5BanBnXkFtZTgwMDQwOTYyNzE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Mars Crain",
+            "asCharacter": "Tariq (uncredited)"
+        },
+        {
+            "id": "nm1824246",
+            "image": "https://imdb-api.com/images/original/MV5BODhjNjBhYzYtN2RhYS00NGJkLTkzYzMtYWJjMTZmZTRiMGYzXkEyXkFqcGdeQXVyOTg0MTYxMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jordan David",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm4539804",
+            "image": "https://imdb-api.com/images/original/MV5BODZjZTgyY2EtN2UzYy00MzdiLTk2NzAtNGJlZTIwZmYyM2M2XkEyXkFqcGdeQXVyMjg5MzUxODc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nick de Graffenreid",
+            "asCharacter": "Patient (uncredited)"
+        },
+        {
+            "id": "nm6041789",
+            "image": "https://imdb-api.com/images/original/MV5BMWJmY2M2MmItOGFlNS00NGIzLWFhZjMtZjRlOWQxODFiMDhkXkEyXkFqcGdeQXVyMTc1NDE3MjA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adam Dorsey",
+            "asCharacter": "Jesus Guard (uncredited)"
+        },
+        {
+            "id": "nm3385473",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1ODgwMjE1Nl5BMl5BanBnXkFtZTcwODQ5OTg2Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ken Edling",
+            "asCharacter": "Judge (uncredited)"
+        },
+        {
+            "id": "nm3314504",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jenna Emery",
+            "asCharacter": "Groupie (uncredited)"
+        },
+        {
+            "id": "nm6412629",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Al Function",
+            "asCharacter": "Biker (uncredited)"
+        },
+        {
+            "id": "nm3231819",
+            "image": "https://imdb-api.com/images/original/MV5BNTRlN2JlMGYtMDcxZS00ODRlLTk3MDItZDllYWRlZjAwZmNmXkEyXkFqcGdeQXVyMzcyMTYxMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Brandy Futch",
+            "asCharacter": "Flight Attendant (uncredited)"
+        },
+        {
+            "id": "nm5491905",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lauren Goncher",
+            "asCharacter": "Dental Assistant (uncredited)"
+        },
+        {
+            "id": "nm3102674",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ellen Ho",
+            "asCharacter": "Chinese Waitress (uncredited)"
+        },
+        {
+            "id": "nm2333146",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jessica Huss",
+            "asCharacter": "Speed Freak (uncredited)"
+        },
+        {
+            "id": "nm5956345",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Raiden Integra",
+            "asCharacter": "Patient (uncredited)"
+        },
+        {
+            "id": "nm2578570",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dallas James",
+            "asCharacter": "Auto Mechanic (uncredited)"
+        },
+        {
+            "id": "nm2562008",
+            "image": "https://imdb-api.com/images/original/MV5BYzdhNzk3N2UtN2I3NS00OTY4LTkyNjEtNGE4YmJiOTBjNjZmXkEyXkFqcGdeQXVyMTYwMTA5MzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Christopher Karl Johnson",
+            "asCharacter": "Mr. Robinson (uncredited)"
+        },
+        {
+            "id": "nm5282587",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Laura Kranz",
+            "asCharacter": "Chryskylodon Patient (uncredited)"
+        },
+        {
+            "id": "nm4924308",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Timothy Lally",
+            "asCharacter": "Commando (uncredited)"
+        },
+        {
+            "id": "nm4753258",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Adeana Lane",
+            "asCharacter": "Beach Girl (uncredited)"
+        },
+        {
+            "id": "nm1626112",
+            "image": "https://imdb-api.com/images/original/MV5BZWM5YjY2M2YtNGMyNS00ZmU2LWExNGQtNjllODFlZGM2MzI3XkEyXkFqcGdeQXVyNDE5Njk2Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kira Legg",
+            "asCharacter": "Groupie (uncredited)"
+        },
+        {
+            "id": "nm5525831",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tracy Ann Lisa",
+            "asCharacter": "District Attorney (uncredited)"
+        },
+        {
+            "id": "nm0518135",
+            "image": "https://imdb-api.com/images/original/MV5BOGNkODRkZjMtNDJiNy00ODg1LWEwYjQtYTc4ZGYwMjEwMjdmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Blue LoLan",
+            "asCharacter": "Patient (uncredited)"
+        },
+        {
+            "id": "nm3391079",
+            "image": "https://imdb-api.com/images/original/MV5BY2Y4M2JmZWYtYmI4My00YjFiLThlYjItOWY1OWI0OTE3MDliXkEyXkFqcGdeQXVyMjg3MDA4NzA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dakota Lupo",
+            "asCharacter": "Chief Chanter (uncredited)"
+        },
+        {
+            "id": "nm4094499",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jacob Lyman",
+            "asCharacter": "Mormon FBI Agent (uncredited)"
+        },
+        {
+            "id": "nm4817753",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Amanda Maddox",
+            "asCharacter": "Flight Attendant (uncredited)"
+        },
+        {
+            "id": "nm5202725",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Emilee Madrak",
+            "asCharacter": "Groupie (uncredited)"
+        },
+        {
+            "id": "nm6102967",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sophia Markov",
+            "asCharacter": "Amethyst Harlingen (uncredited)"
+        },
+        {
+            "id": "nm6102968",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Victoria Markov",
+            "asCharacter": "Amethyst Harlingen (uncredited)"
+        },
+        {
+            "id": "nm3948170",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kirstin Masters",
+            "asCharacter": "Dental Assistant (uncredited)"
+        },
+        {
+            "id": "nm6567774",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Zach McMahon",
+            "asCharacter": "Officer #2 (uncredited)"
+        },
+        {
+            "id": "nm0633271",
+            "image": "https://imdb-api.com/images/original/MV5BMzU1MjcxMjI1NF5BMl5BanBnXkFtZTcwNjc1OTQ4Mg@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Richard Nixon",
+            "asCharacter": "Self (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm2500963",
+            "image": "https://imdb-api.com/images/original/MV5BOGRmM2E1NDctODY4ZC00OWI4LTg0ZGEtYWE4YzY1OTZhYTFmXkEyXkFqcGdeQXVyMjI2Njg3Mg@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Shaun Parker",
+            "asCharacter": "Commando (uncredited)"
+        },
+        {
+            "id": "nm6101622",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brook Power",
+            "asCharacter": "Hippie girl (uncredited)"
+        },
+        {
+            "id": "nm1331176",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rodney J. Richards",
+            "asCharacter": "Adrian Prussia Friend (uncredited)"
+        },
+        {
+            "id": "nm2649551",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Laura Rossi",
+            "asCharacter": "Groupie (uncredited)"
+        },
+        {
+            "id": "nm4856281",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Philip Ruiz",
+            "asCharacter": "Hippie in Commune (uncredited)"
+        },
+        {
+            "id": "nm2109255",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Osamu Saito",
+            "asCharacter": "Japanese waiter Kenichiro (uncredited)"
+        },
+        {
+            "id": "nm2972943",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joel Shock",
+            "asCharacter": "Police officer (uncredited)"
+        },
+        {
+            "id": "nm3439723",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matthew Skomo",
+            "asCharacter": "Detective (uncredited)"
+        },
+        {
+            "id": "nm3869524",
+            "image": "https://imdb-api.com/images/original/MV5BYzRiYjZiZDUtZTk0Zi00MTIyLWI2ODAtMTM3ZTEzOGVkOTEwXkEyXkFqcGdeQXVyMjI0Mzg4MzA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chantal Thuy",
+            "asCharacter": "Groupie (uncredited)"
+        },
+        {
+            "id": "nm3680598",
+            "image": "https://imdb-api.com/images/original/MV5BNWYxMTQ3YjgtM2JiYS00OWQwLWIyMzUtZWQ1OTllYWQ2Y2UxXkEyXkFqcGdeQXVyODc5NDM0MDk@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Diana Elizabeth Torres",
+            "asCharacter": "Lourdes (uncredited)"
+        },
+        {
+            "id": "nm5355015",
+            "image": "https://imdb-api.com/images/original/MV5BNDUxZDRkNWMtNmRjOC00YzgwLWE2MDQtMjYzOWMwZTBlZmQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "JC Tremblay",
+            "asCharacter": "Chanter (uncredited)"
+        },
+        {
+            "id": "nm5821340",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Twombley",
+            "asCharacter": "Biker (uncredited)"
+        },
+        {
+            "id": "nm1679478",
+            "image": "https://imdb-api.com/images/original/MV5BMzkxZTk1YzAtMGM4ZS00YWYxLTkyMjItY2U5MjA2MjY2NDliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steven Wiig",
+            "asCharacter": "Portola Barkeep (uncredited)"
+        },
+        {
+            "id": "nm5883783",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniel Yobaccio",
+            "asCharacter": "Patient (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt1791528",
+        "title": "Inherent Vice",
+        "fullTitle": "Inherent Vice (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000759",
+                    "name": "Paul Thomas Anderson",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000759",
+                    "name": "Paul Thomas Anderson",
+                    "description": "(written for the screen by)"
+                },
+                {
+                    "id": "nm1535410",
+                    "name": "Thomas Pynchon",
+                    "description": "(based on the novel by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm1827079",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxMDEzMjI4NV5BMl5BanBnXkFtZTcwOTc1MzMyNw@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Joanna Newsom",
+                "asCharacter": "Sortil\u00e8ge"
+            },
+            {
+                "id": "nm2239702",
+                "image": "https://imdb-api.com/images/original/MV5BODE2NzIwOTQ1MV5BMl5BanBnXkFtZTgwMzIyMjQ1MDI@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Katherine Waterston",
+                "asCharacter": "Shasta Fay Hepworth"
+            },
+            {
+                "id": "nm0001618",
+                "image": "https://imdb-api.com/images/original/MV5BZGMyY2Q4NTEtMWVkZS00NzcwLTkzNmQtYzBlMWZhZGNhMDhkXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Joaquin Phoenix",
+                "asCharacter": "Larry \"Doc\" Sportello"
+            },
+            {
+                "id": "nm5713860",
+                "image": "https://imdb-api.com/images/original/MV5BOTk3MmJmYWYtNTY0My00YjI1LTk3NzktMWYyMmFkZTBjMDczXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jordan Christian Hearn",
+                "asCharacter": "Denis"
+            },
+            {
+                "id": "nm4293207",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Taylor Bonin",
+                "asCharacter": "Ensenada Slim"
+            },
+            {
+                "id": "nm0075588",
+                "image": "https://imdb-api.com/images/original/MV5BMjExMTk2NDkxM15BMl5BanBnXkFtZTgwNzkwMDEwMDE@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Jeannie Berlin",
+                "asCharacter": "Aunt Reet"
+            },
+            {
+                "id": "nm0000982",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Josh Brolin",
+                "asCharacter": "Lt. Det. Christian F. \"Bigfoot\" Bjornsen"
+            },
+            {
+                "id": "nm0000616",
+                "image": "https://imdb-api.com/images/original/MV5BOWE1NWRlZTgtZTM5YS00YTc3LThmNDMtZGFkYTFjZWQzYzJmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Eric Roberts",
+                "asCharacter": "Michael Z. Wolfmann"
+            },
+            {
+                "id": "nm0005583",
+                "image": "https://imdb-api.com/images/original/MV5BNDA1Mzc0Nzg5N15BMl5BanBnXkFtZTgwMzkwNTc1NDE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Serena Scott Thomas",
+                "asCharacter": "Sloane Wolfmann"
+            },
+            {
+                "id": "nm0748973",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzOTQwMzAyOF5BMl5BanBnXkFtZTYwNzA1OTc0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Maya Rudolph",
+                "asCharacter": "Petunia Leeway"
+            },
+            {
+                "id": "nm2218784",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxMDczNzg4M15BMl5BanBnXkFtZTcwMjY0NjM2Mw@@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Martin Dew",
+                "asCharacter": "Dr. Buddy Tubeside"
+            },
+            {
+                "id": "nm0931324",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MTI1NjUxMV5BMl5BanBnXkFtZTgwNTUyODM0MTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Kenneth Williams",
+                "asCharacter": "Tariq Khalil"
+            },
+            {
+                "id": "nm2186865",
+                "image": "https://imdb-api.com/images/original/MV5BNjllNmMzNWYtM2JjMS00ODg4LTk2OWEtYWE3OTc1NzMzMGM2XkEyXkFqcGdeQXVyNTc0NTQ3MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Hong Chau",
+                "asCharacter": "Jade"
+            },
+            {
+                "id": "nm1711948",
+                "image": "https://imdb-api.com/images/original/MV5BYmVmNzFlYTgtYTI5YS00NTRmLTg2OWMtOThiNDZhZGI5MDIzXkEyXkFqcGdeQXVyMjMxODc1NTQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Shannon Collis",
+                "asCharacter": "Bambi"
+            },
+            {
+                "id": "nm0625247",
+                "image": "https://imdb-api.com/images/original/MV5BYjgyZDMwZmYtMTQwMC00OTU3LTk2MGUtY2ZjZmMzNmU4NWQ5XkEyXkFqcGdeQXVyMzExMzQ3MA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Christopher Allen Nelson",
+                "asCharacter": "Glenn Charlock"
+            },
+            {
+                "id": "nm0001125",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzODQ4NzU1N15BMl5BanBnXkFtZTcwOTUzMzc5Mg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Benicio Del Toro",
+                "asCharacter": "Sauncho Smilax, Esq"
+            },
+            {
+                "id": "nm2637109",
+                "image": "https://imdb-api.com/images/original/MV5BZjA3NmIyZTctYmY5Yi00YmQwLWE0MDEtMWE2ZDg2NWE4Y2Q5XkEyXkFqcGdeQXVyMTU2OTAxOTc@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Catherine Haena Kim",
+                "asCharacter": "News Reporter"
+            },
+            {
+                "id": "nm0540441",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0NDM5OTE0N15BMl5BanBnXkFtZTcwMzMzNjM0Nw@@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Jena Malone",
+                "asCharacter": "Hope Harlingen"
+            },
+            {
+                "id": "nm0005562",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwMzQ4ODYxMV5BMl5BanBnXkFtZTcwNDAwMTc2NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Owen Wilson",
+                "asCharacter": "Coy Harlingen"
+            },
+            {
+                "id": "nm6967423",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Vivienne Khaledi",
+                "asCharacter": "Amethyst Harlingen"
+            },
+            {
+                "id": "nm1545721",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyMDY5NzA0MV5BMl5BanBnXkFtZTgwMDk1NDc1MjE@._V1_Ratio1.5455_AL_.jpg",
+                "name": "Yvette Yates Redick",
+                "asCharacter": "Luz (as Yvette Yates)"
+            },
+            {
+                "id": "nm0800896",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Andrew Simpson",
+                "asCharacter": "Riggs Warbling"
+            },
+            {
+                "id": "nm4404619",
+                "image": "https://imdb-api.com/images/original/MV5BMDk0YzQ2NWYtZmM2Ny00OWIwLWFkNzAtYmVjMDYxYzEzYzA0XkEyXkFqcGdeQXVyMjczNDY4MTk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Joe Dioletto",
+                "asCharacter": "Cop with Bigfoot"
+            },
+            {
+                "id": "nm0000702",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3MDcxMDA5Ml5BMl5BanBnXkFtZTgwNDM1NTU5MDE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Reese Witherspoon",
+                "asCharacter": "Deputy D.A. Penny Kimball"
+            },
+            {
+                "id": "nm0415382",
+                "image": "https://imdb-api.com/images/original/MV5BM2U4ZGUxZjctNWUzZS00ZjRjLWI1ODMtM2FjNWNkNmFlYzA2XkEyXkFqcGdeQXVyMTUxNzU2OQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sam Jaeger",
+                "asCharacter": "Agent Flatweed"
+            },
+            {
+                "id": "nm3985937",
+                "image": "https://imdb-api.com/images/original/MV5BM2I1YmMzNDktOWE1ZC00MGNiLThjZDUtZWUzYmE4NWVhOWYwXkEyXkFqcGdeQXVyMTAyMzUyMjg0._V1_Ratio0.9545_AL_.jpg",
+                "name": "Timothy Simons",
+                "asCharacter": "Agent Borderline"
+            },
+            {
+                "id": "nm0446438",
+                "image": "https://imdb-api.com/images/original/MV5BMTk5MTQ4NTAzOV5BMl5BanBnXkFtZTcwODkwNTgxOA@@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Jack Kelly",
+                "asCharacter": "Burke Stodger (archive footage)"
+            },
+            {
+                "id": "nm3255459",
+                "image": "https://imdb-api.com/images/original/MV5BMTgxMjgxOTMzN15BMl5BanBnXkFtZTgwNDQ5MzM4NjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jillian Bell",
+                "asCharacter": "Chlorinda"
+            },
+            {
+                "id": "nm3348818",
+                "image": "https://imdb-api.com/images/original/MV5BOGRhODcyZjAtODE5ZS00MDU3LWFlNjYtNDBlNmZhNDlmMGNlXkEyXkFqcGdeQXVyMjA1ODI3Nzk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Christian Williams",
+                "asCharacter": "Smedley"
+            },
+            {
+                "id": "nm4703750",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "The Growlers",
+                "asCharacter": "The Boards"
+            },
+            {
+                "id": "nm0068643",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3Nzg0Nzg4OF5BMl5BanBnXkFtZTcwMjMwNDk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Belladonna",
+                "asCharacter": "Clancy Charlock (as Michelle Sinclair)"
+            },
+            {
+                "id": "nm3633521",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alina Gatti",
+                "asCharacter": "Howdy Doper's Phone Voice (voice)"
+            },
+            {
+                "id": "nm1285544",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3MTg4MDg3MV5BMl5BanBnXkFtZTgwMzc4MDYxODE@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Elaine Tan",
+                "asCharacter": "Xandra"
+            },
+            {
+                "id": "nm0001737",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1MDIyMDY1N15BMl5BanBnXkFtZTgwNzMzMDE5NTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Martin Short",
+                "asCharacter": "Dr. Rudy Blatnoyd, D.D.S."
+            },
+            {
+                "id": "nm1199888",
+                "image": "https://imdb-api.com/images/original/MV5BNTMwYmI5ZTAtYWM3OS00NTQ3LWI3MTUtMDExOWM5MDc3NGM0XkEyXkFqcGdeQXVyODM0NDI0NjU@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sasha Pieterse",
+                "asCharacter": "Japonica Fenway"
+            },
+            {
+                "id": "nm1569067",
+                "image": "https://imdb-api.com/images/original/MV5BMTQwMjExMjMzNV5BMl5BanBnXkFtZTcwMjk5NzA1Nw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Wilson Bethel",
+                "asCharacter": "LAPD Officer #1"
+            },
+            {
+                "id": "nm2981082",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0NDg2NTU5NV5BMl5BanBnXkFtZTgwOTA0NzY4NjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Anders Holm",
+                "asCharacter": "LAPD Officer #2"
+            },
+            {
+                "id": "nm6967427",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Emmet Unverzagt",
+                "asCharacter": "Bigfoot's Kid"
+            },
+            {
+                "id": "nm0563070",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxMzI1MjU2NV5BMl5BanBnXkFtZTYwOTg0MzQz._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jefferson Mays",
+                "asCharacter": "Dr. Threeply"
+            },
+            {
+                "id": "nm0838058",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Erica Sullivan",
+                "asCharacter": "Dr. Lily Hammer"
+            },
+            {
+                "id": "nm0278897",
+                "image": "https://imdb-api.com/images/original/MV5BZjgyZDRlZTgtY2U2NC00ZWIxLWI3ZGItMzEyNGE0Yjk2MTA1XkEyXkFqcGdeQXVyODI3ODE1Nw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Eva Fisher",
+                "asCharacter": "Dr. Threeply's Assistant #1 (as Eva Simone Fisher)"
+            },
+            {
+                "id": "nm2539366",
+                "image": "https://imdb-api.com/images/original/MV5BNzJiYWZhZWQtZGZiNi00NTYzLWE5NmItN2JjNTM2ZDNjYmNmXkEyXkFqcGdeQXVyNzc5MTg1NA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jackie Michele Johnson",
+                "asCharacter": "Dr. Threeply's Assistant #2"
+            },
+            {
+                "id": "nm3087281",
+                "image": "https://imdb-api.com/images/original/MV5BNDcyZGVhZTItMTcwMy00N2I5LTg4MTYtNzMzMzIzM2ZiMTgwXkEyXkFqcGdeQXVyMjQ5NTU3ODQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Katie Schwartz",
+                "asCharacter": "Kimberly"
+            },
+            {
+                "id": "nm2618495",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4MTE1MDA0N15BMl5BanBnXkFtZTgwOTI2MDkyOTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Charley Morgan",
+                "asCharacter": "Dr. Igor"
+            },
+            {
+                "id": "nm2077124",
+                "image": "https://imdb-api.com/images/original/MV5BMmRjMTUyYTctYTIzMy00OTEyLWI0ZWMtNzUxMzY0NmIxMjA5XkEyXkFqcGdeQXVyNDIxMDQ5MTU@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Keith Jardine",
+                "asCharacter": "Puck Beaverton"
+            },
+            {
+                "id": "nm0593273",
+                "image": "https://imdb-api.com/images/original/MV5BMjMxOTg1MTEyNl5BMl5BanBnXkFtZTgwNzM2MzM0MjE@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Delaina Mitchell",
+                "asCharacter": "Mrs. Chastity Bjornsen"
+            },
+            {
+                "id": "nm1443310",
+                "image": "https://imdb-api.com/images/original/MV5BMjZhYTMyZjMtNzI1Mi00ZDc2LWE3MjUtODg1NzJkODA5MzkxXkEyXkFqcGdeQXVyMjkyMzM5MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Cotter",
+                "asCharacter": "Rhus Frothingham"
+            },
+            {
+                "id": "nm0574513",
+                "image": "https://imdb-api.com/images/original/MV5BYmUzOWZkNDItODhlOS00OWNkLWJmMWUtNGRiYzEwZWMwMWExL2ltYWdlXkEyXkFqcGdeQXVyNjg4ODU1MTc@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Peter McRobbie",
+                "asCharacter": "Adrian Prussia"
+            },
+            {
+                "id": "nm5557763",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Shannon C. Sullivan",
+                "asCharacter": "Adrian Prussia's Secretary"
+            },
+            {
+                "id": "nm0233027",
+                "image": "https://imdb-api.com/images/original/MV5BNWIzNTAyZTktZmYzMC00MmQ1LWFhOTItYmZhZGViMWYwNzdjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Martin Donovan",
+                "asCharacter": "Crocker Fenway"
+            },
+            {
+                "id": "nm0501489",
+                "image": "https://imdb-api.com/images/original/MV5BMzE5ZTZhNTctYjQyNi00ZDlkLThlZWUtZjkxNzQ2NjAyMWU1XkEyXkFqcGdeQXVyOTE1NTc1OA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Samantha Lemole",
+                "asCharacter": "Golden Fang Mother"
+            },
+            {
+                "id": "nm2167128",
+                "image": "https://imdb-api.com/images/original/MV5BMzRmZDJmOWQtODIyNC00ZmNlLWEwZGEtNjhiMTE2MmE4MmNlXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_Ratio1.7273_AL_.jpg",
+                "name": "Madison Leisle",
+                "asCharacter": "Golden Fang Daughter"
+            },
+            {
+                "id": "nm6967429",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Liam Van Joosten",
+                "asCharacter": "Golden Fang Son"
+            },
+            {
+                "id": "nm7132511",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Matt Doyle",
+                "asCharacter": "Golden Fang Father"
+            },
+            {
+                "id": "nm1269866",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "David Prak",
+                "asCharacter": "Buddhist Monk"
+            },
+            {
+                "id": "nm1543212",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0MjQ3MzE5M15BMl5BanBnXkFtZTcwODI5NTgyMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Amy Ferguson",
+                "asCharacter": "Bodhi"
+            },
+            {
+                "id": "nm2730808",
+                "image": "https://imdb-api.com/images/original/MV5BODg5N2JkMjctODc1NC00YjE1LTlmNzQtNWFiNWVlMGY4NTM5XkEyXkFqcGdeQXVyMTkyOTc4MTM@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Emma Dumont",
+                "asCharacter": "Zinnia"
+            },
+            {
+                "id": "nm3792581",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Scott Aschenbrenner",
+                "asCharacter": "Jesus Guard (uncredited)"
+            },
+            {
+                "id": "nm5780395",
+                "image": "https://imdb-api.com/images/original/MV5BNzdmNGY1NjMtZjhiYS00YWUwLTk4YmQtZDVhY2JmZWQ0OWRmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ashleigh Biller",
+                "asCharacter": "Patient (uncredited)"
+            },
+            {
+                "id": "nm3858621",
+                "image": "https://imdb-api.com/images/original/MV5BMzBkNmUxODgtZThiNC00ZmVhLTgyYzEtZTM0NmZiNDU5MzcxXkEyXkFqcGdeQXVyMjI1ODI1ODY@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Christina Bobrowsky",
+                "asCharacter": "Patient (uncredited)"
+            },
+            {
+                "id": "nm3574153",
+                "image": "https://imdb-api.com/images/original/MV5BNTc5ZTI1OGMtOGQ0Yy00N2M0LTkxODktNmE1MWFiNmY5OWY4XkEyXkFqcGdeQXVyMjE5NDAwNTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Peter Bonilla",
+                "asCharacter": "Police Officer (uncredited)"
+            },
+            {
+                "id": "nm4157172",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gregoer Boru",
+                "asCharacter": "Recording Tech (uncredited)"
+            },
+            {
+                "id": "nm1615516",
+                "image": "https://imdb-api.com/images/original/MV5BODZiOGJhYzktZDM4NC00ZWRhLTk0ZjAtZTk4OWM1OTY2ZDQyXkEyXkFqcGdeQXVyNDA4NDIyNzk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Marianne Bourg",
+                "asCharacter": "Beach Girl (uncredited)"
+            },
+            {
+                "id": "nm3779341",
+                "image": "https://imdb-api.com/images/original/MV5BYzY1ODY3MWUtNTY4NS00MThjLWI2ZTYtNjgwZmNkNWU0NTNmXkEyXkFqcGdeQXVyMTA2OTAxNjY0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Toyia Brown",
+                "asCharacter": "Harmony (uncredited)"
+            },
+            {
+                "id": "nm1148015",
+                "image": "https://imdb-api.com/images/original/MV5BYmI1NjU5YTAtMTIzYy00OTc0LWFmNjItOGZkNTI2ZGVhMDAxXkEyXkFqcGdeQXVyMzEwMTI2Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Stu Brumbaugh",
+                "asCharacter": "Groupie (uncredited)"
+            },
+            {
+                "id": "nm2757001",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Will C.",
+                "asCharacter": "Commando (uncredited)"
+            },
+            {
+                "id": "nm4802057",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Seth Cash",
+                "asCharacter": "Detective (uncredited)"
+            },
+            {
+                "id": "nm4166902",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2NDk0NTE5Ml5BMl5BanBnXkFtZTgwNzg2MzYwNDE@._V1_Ratio1.8636_AL_.jpg",
+                "name": "Elizabeth Colunga",
+                "asCharacter": "Patient (uncredited)"
+            },
+            {
+                "id": "nm4320749",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Emma Cooper",
+                "asCharacter": "Groupie (uncredited)"
+            },
+            {
+                "id": "nm3050597",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1MTYxNzcyNl5BMl5BanBnXkFtZTgwMDQwOTYyNzE@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Mars Crain",
+                "asCharacter": "Tariq (uncredited)"
+            },
+            {
+                "id": "nm1824246",
+                "image": "https://imdb-api.com/images/original/MV5BODhjNjBhYzYtN2RhYS00NGJkLTkzYzMtYWJjMTZmZTRiMGYzXkEyXkFqcGdeQXVyOTg0MTYxMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jordan David",
+                "asCharacter": "(uncredited)"
+            },
+            {
+                "id": "nm4539804",
+                "image": "https://imdb-api.com/images/original/MV5BODZjZTgyY2EtN2UzYy00MzdiLTk2NzAtNGJlZTIwZmYyM2M2XkEyXkFqcGdeQXVyMjg5MzUxODc@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Nick de Graffenreid",
+                "asCharacter": "Patient (uncredited)"
+            },
+            {
+                "id": "nm6041789",
+                "image": "https://imdb-api.com/images/original/MV5BMWJmY2M2MmItOGFlNS00NGIzLWFhZjMtZjRlOWQxODFiMDhkXkEyXkFqcGdeQXVyMTc1NDE3MjA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Adam Dorsey",
+                "asCharacter": "Jesus Guard (uncredited)"
+            },
+            {
+                "id": "nm3385473",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1ODgwMjE1Nl5BMl5BanBnXkFtZTcwODQ5OTg2Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ken Edling",
+                "asCharacter": "Judge (uncredited)"
+            },
+            {
+                "id": "nm3314504",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jenna Emery",
+                "asCharacter": "Groupie (uncredited)"
+            },
+            {
+                "id": "nm6412629",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Al Function",
+                "asCharacter": "Biker (uncredited)"
+            },
+            {
+                "id": "nm3231819",
+                "image": "https://imdb-api.com/images/original/MV5BNTRlN2JlMGYtMDcxZS00ODRlLTk3MDItZDllYWRlZjAwZmNmXkEyXkFqcGdeQXVyMzcyMTYxMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Brandy Futch",
+                "asCharacter": "Flight Attendant (uncredited)"
+            },
+            {
+                "id": "nm5491905",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lauren Goncher",
+                "asCharacter": "Dental Assistant (uncredited)"
+            },
+            {
+                "id": "nm3102674",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ellen Ho",
+                "asCharacter": "Chinese Waitress (uncredited)"
+            },
+            {
+                "id": "nm2333146",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jessica Huss",
+                "asCharacter": "Speed Freak (uncredited)"
+            },
+            {
+                "id": "nm5956345",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Raiden Integra",
+                "asCharacter": "Patient (uncredited)"
+            },
+            {
+                "id": "nm2578570",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dallas James",
+                "asCharacter": "Auto Mechanic (uncredited)"
+            },
+            {
+                "id": "nm2562008",
+                "image": "https://imdb-api.com/images/original/MV5BYzdhNzk3N2UtN2I3NS00OTY4LTkyNjEtNGE4YmJiOTBjNjZmXkEyXkFqcGdeQXVyMTYwMTA5MzI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Christopher Karl Johnson",
+                "asCharacter": "Mr. Robinson (uncredited)"
+            },
+            {
+                "id": "nm5282587",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Laura Kranz",
+                "asCharacter": "Chryskylodon Patient (uncredited)"
+            },
+            {
+                "id": "nm4924308",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Timothy Lally",
+                "asCharacter": "Commando (uncredited)"
+            },
+            {
+                "id": "nm4753258",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Adeana Lane",
+                "asCharacter": "Beach Girl (uncredited)"
+            },
+            {
+                "id": "nm1626112",
+                "image": "https://imdb-api.com/images/original/MV5BZWM5YjY2M2YtNGMyNS00ZmU2LWExNGQtNjllODFlZGM2MzI3XkEyXkFqcGdeQXVyNDE5Njk2Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kira Legg",
+                "asCharacter": "Groupie (uncredited)"
+            },
+            {
+                "id": "nm5525831",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tracy Ann Lisa",
+                "asCharacter": "District Attorney (uncredited)"
+            },
+            {
+                "id": "nm0518135",
+                "image": "https://imdb-api.com/images/original/MV5BOGNkODRkZjMtNDJiNy00ODg1LWEwYjQtYTc4ZGYwMjEwMjdmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Blue LoLan",
+                "asCharacter": "Patient (uncredited)"
+            },
+            {
+                "id": "nm3391079",
+                "image": "https://imdb-api.com/images/original/MV5BY2Y4M2JmZWYtYmI4My00YjFiLThlYjItOWY1OWI0OTE3MDliXkEyXkFqcGdeQXVyMjg3MDA4NzA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dakota Lupo",
+                "asCharacter": "Chief Chanter (uncredited)"
+            },
+            {
+                "id": "nm4094499",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jacob Lyman",
+                "asCharacter": "Mormon FBI Agent (uncredited)"
+            },
+            {
+                "id": "nm4817753",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Amanda Maddox",
+                "asCharacter": "Flight Attendant (uncredited)"
+            },
+            {
+                "id": "nm5202725",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Emilee Madrak",
+                "asCharacter": "Groupie (uncredited)"
+            },
+            {
+                "id": "nm6102967",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sophia Markov",
+                "asCharacter": "Amethyst Harlingen (uncredited)"
+            },
+            {
+                "id": "nm6102968",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Victoria Markov",
+                "asCharacter": "Amethyst Harlingen (uncredited)"
+            },
+            {
+                "id": "nm3948170",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kirstin Masters",
+                "asCharacter": "Dental Assistant (uncredited)"
+            },
+            {
+                "id": "nm6567774",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Zach McMahon",
+                "asCharacter": "Officer #2 (uncredited)"
+            },
+            {
+                "id": "nm0633271",
+                "image": "https://imdb-api.com/images/original/MV5BMzU1MjcxMjI1NF5BMl5BanBnXkFtZTcwNjc1OTQ4Mg@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Richard Nixon",
+                "asCharacter": "Self (archive footage) (uncredited)"
+            },
+            {
+                "id": "nm2500963",
+                "image": "https://imdb-api.com/images/original/MV5BOGRmM2E1NDctODY4ZC00OWI4LTg0ZGEtYWE4YzY1OTZhYTFmXkEyXkFqcGdeQXVyMjI2Njg3Mg@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Shaun Parker",
+                "asCharacter": "Commando (uncredited)"
+            },
+            {
+                "id": "nm6101622",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Brook Power",
+                "asCharacter": "Hippie girl (uncredited)"
+            },
+            {
+                "id": "nm1331176",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rodney J. Richards",
+                "asCharacter": "Adrian Prussia Friend (uncredited)"
+            },
+            {
+                "id": "nm2649551",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Laura Rossi",
+                "asCharacter": "Groupie (uncredited)"
+            },
+            {
+                "id": "nm4856281",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Philip Ruiz",
+                "asCharacter": "Hippie in Commune (uncredited)"
+            },
+            {
+                "id": "nm2109255",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Osamu Saito",
+                "asCharacter": "Japanese waiter Kenichiro (uncredited)"
+            },
+            {
+                "id": "nm2972943",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joel Shock",
+                "asCharacter": "Police officer (uncredited)"
+            },
+            {
+                "id": "nm3439723",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Matthew Skomo",
+                "asCharacter": "Detective (uncredited)"
+            },
+            {
+                "id": "nm3869524",
+                "image": "https://imdb-api.com/images/original/MV5BYzRiYjZiZDUtZTk0Zi00MTIyLWI2ODAtMTM3ZTEzOGVkOTEwXkEyXkFqcGdeQXVyMjI0Mzg4MzA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Chantal Thuy",
+                "asCharacter": "Groupie (uncredited)"
+            },
+            {
+                "id": "nm3680598",
+                "image": "https://imdb-api.com/images/original/MV5BNWYxMTQ3YjgtM2JiYS00OWQwLWIyMzUtZWQ1OTllYWQ2Y2UxXkEyXkFqcGdeQXVyODc5NDM0MDk@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Diana Elizabeth Torres",
+                "asCharacter": "Lourdes (uncredited)"
+            },
+            {
+                "id": "nm5355015",
+                "image": "https://imdb-api.com/images/original/MV5BNDUxZDRkNWMtNmRjOC00YzgwLWE2MDQtMjYzOWMwZTBlZmQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "JC Tremblay",
+                "asCharacter": "Chanter (uncredited)"
+            },
+            {
+                "id": "nm5821340",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michael Twombley",
+                "asCharacter": "Biker (uncredited)"
+            },
+            {
+                "id": "nm1679478",
+                "image": "https://imdb-api.com/images/original/MV5BMzkxZTk1YzAtMGM4ZS00YWYxLTkyMjItY2U5MjA2MjY2NDliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Steven Wiig",
+                "asCharacter": "Portola Barkeep (uncredited)"
+            },
+            {
+                "id": "nm5883783",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Daniel Yobaccio",
+                "asCharacter": "Patient (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0000759",
+                        "name": "Paul Thomas Anderson",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm4791912",
+                        "name": "Eli Bush",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm1479274",
+                        "name": "Albert Chi",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0526917",
+                        "name": "Daniel Lupi",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm6518391",
+                        "name": "Steven Mnuchin",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0748784",
+                        "name": "Scott Rudin",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0783280",
+                        "name": "JoAnne Sellar",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0814114",
+                        "name": "Adam Somner",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0339351",
+                        "name": "Jonny Greenwood",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0005696",
+                        "name": "Robert Elswit",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0428655",
+                        "name": "Leslie Jones",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0474697",
+                        "name": "Cassandra Kulukundis",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0186477",
+                        "name": "David Crank",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm1968338",
+                        "name": "Ruth De Jong",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0920099",
+                        "name": "Amy Wells",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0108775",
+                        "name": "Mark Bridges",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0214912",
+                        "name": "Patricia Dehaney",
+                        "description": "key hair stylist (as Patricia Dehaney-Le May)"
+                    },
+                    {
+                        "id": "nm1714333",
+                        "name": "Anthony Gordon",
+                        "description": "additional makeup artist"
+                    },
+                    {
+                        "id": "nm1776218",
+                        "name": "Roxane Griffin",
+                        "description": "key hair stylist"
+                    },
+                    {
+                        "id": "nm1330746",
+                        "name": "Miia Kovero",
+                        "description": "hair department head"
+                    },
+                    {
+                        "id": "nm0642495",
+                        "name": "Valli O'Reilly",
+                        "description": "additional makeup artist"
+                    },
+                    {
+                        "id": "nm2294062",
+                        "name": "Susan Stepanian",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm0930666",
+                        "name": "Gigi Williams",
+                        "description": "makeup department head"
+                    },
+                    {
+                        "id": "nm0070873",
+                        "name": "David Beneke",
+                        "description": "dental prosthetics (uncredited)"
+                    },
+                    {
+                        "id": "nm2129738",
+                        "name": "Kymber Blake",
+                        "description": "makeup artist (uncredited)"
+                    },
+                    {
+                        "id": "nm0093689",
+                        "name": "Gina Bonacquisti",
+                        "description": "additional hair (uncredited)"
+                    },
+                    {
+                        "id": "nm3096286",
+                        "name": "Crystal M. Cook",
+                        "description": "additional hair (uncredited)"
+                    },
+                    {
+                        "id": "nm2583561",
+                        "name": "Nikki Smith",
+                        "description": "additional hair stylist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0292396",
+                        "name": "Erica Frauman",
+                        "description": "post-production supervisor"
+                    },
+                    {
+                        "id": "nm0315202",
+                        "name": "Karen Ruth Getchell",
+                        "description": "production supervisor"
+                    },
+                    {
+                        "id": "nm0810423",
+                        "name": "Kelley Smith-Wait",
+                        "description": "executive in charge of production"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm1052790",
+                        "name": "Eric Richard Lasko",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm0814114",
+                        "name": "Adam Somner",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm2656512",
+                        "name": "Trevor Tavares",
+                        "description": "second second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0146802",
+                        "name": "Matthew Cavaliero",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm3126763",
+                        "name": "Jeremy Cisneros",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm1378816",
+                        "name": "Chad R. Davis",
+                        "description": "on-set dresser"
+                    },
+                    {
+                        "id": "nm1265643",
+                        "name": "Doug Dow",
+                        "description": "labor foreman"
+                    },
+                    {
+                        "id": "nm2340300",
+                        "name": "Penelope Franco Gilmore",
+                        "description": "set dresser: day player (as Penelope Franco)"
+                    },
+                    {
+                        "id": "nm0529160",
+                        "name": "Sean Lyons",
+                        "description": "charge scenic"
+                    },
+                    {
+                        "id": "nm1619976",
+                        "name": "Conner McKinley",
+                        "description": "art department coordinator"
+                    },
+                    {
+                        "id": "nm0584966",
+                        "name": "John Micheletos",
+                        "description": "leadman"
+                    },
+                    {
+                        "id": "nm0663475",
+                        "name": "Anthony D. Parrillo",
+                        "description": "set designer"
+                    },
+                    {
+                        "id": "nm0676883",
+                        "name": "Lars Petersen",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm0724960",
+                        "name": "Kim Richey",
+                        "description": "assistant property master"
+                    },
+                    {
+                        "id": "nm2745401",
+                        "name": "Jonathan Robertson",
+                        "description": "propmaker foreman"
+                    },
+                    {
+                        "id": "nm2332108",
+                        "name": "Jill Rolie-December",
+                        "description": "head buyer"
+                    },
+                    {
+                        "id": "nm5801302",
+                        "name": "Leslie Ross",
+                        "description": "stand by painter"
+                    },
+                    {
+                        "id": "nm2384466",
+                        "name": "Dorothy Street",
+                        "description": "additional graphic designer"
+                    },
+                    {
+                        "id": "nm0838161",
+                        "name": "John L. Sullivan",
+                        "description": "key prop maker"
+                    },
+                    {
+                        "id": "nm2246403",
+                        "name": "Nandor Szilagy",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm1364643",
+                        "name": "Karen Teneyck",
+                        "description": "graphic designer"
+                    },
+                    {
+                        "id": "nm0901564",
+                        "name": "Steven C. Voll",
+                        "description": "set construction foreman"
+                    },
+                    {
+                        "id": "nm0916166",
+                        "name": "Josh Webb",
+                        "description": "set dresser"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0004198",
+                        "name": "David Acord",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm5352517",
+                        "name": "Kevin Bolen",
+                        "description": "mix technician"
+                    },
+                    {
+                        "id": "nm0233382",
+                        "name": "Kelly Doran",
+                        "description": "sound utility"
+                    },
+                    {
+                        "id": "nm0317355",
+                        "name": "Luke Dunn Gielmuda",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0254208",
+                        "name": "Coya Elliott",
+                        "description": "first assistant sound editor"
+                    },
+                    {
+                        "id": "nm0306583",
+                        "name": "Andrea Gard",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm4623035",
+                        "name": "Jordan O'Neill",
+                        "description": "datasat sound mastering engineer"
+                    },
+                    {
+                        "id": "nm0698099",
+                        "name": "John Pritchett",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm0703972",
+                        "name": "Richard Quinn",
+                        "description": "dialogue supervisor"
+                    },
+                    {
+                        "id": "nm0727503",
+                        "name": "Frank Rinella",
+                        "description": "foley artist / foley supervisor"
+                    },
+                    {
+                        "id": "nm0731001",
+                        "name": "David M. Roberts",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm0769042",
+                        "name": "Christopher Scarabosio",
+                        "description": "re-recording mixer / sound designer / supervising sound editor"
+                    },
+                    {
+                        "id": "nm2522313",
+                        "name": "Brad Semenoff",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0784836",
+                        "name": "Tony Sereno",
+                        "description": "mix technician"
+                    },
+                    {
+                        "id": "nm0805271",
+                        "name": "Steve Slanec",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0975268",
+                        "name": "Doug Winningham",
+                        "description": "foley editor (as Dug Winningham)"
+                    },
+                    {
+                        "id": "nm0003214",
+                        "name": "Matthew Wood",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm1462048",
+                        "name": "Ryan Young",
+                        "description": "adr recordist (as Ryan D. Young)"
+                    },
+                    {
+                        "id": "nm5544545",
+                        "name": "Scott Levine",
+                        "description": "digital editorial services (uncredited)"
+                    },
+                    {
+                        "id": "nm0670503",
+                        "name": "David Peifer",
+                        "description": "digital editorial services (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0227901",
+                        "name": "Bart Dion",
+                        "description": "special effects coordinator"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm3994230",
+                        "name": "Rachel Berry",
+                        "description": "visual effects producer: Crazy Horse Effects"
+                    },
+                    {
+                        "id": "nm4004814",
+                        "name": "Kyle Dutton",
+                        "description": "visual effects coordinator: Crazy Horse Effects"
+                    },
+                    {
+                        "id": "nm2776313",
+                        "name": "Christina Graff",
+                        "description": "visual effects producer: Crazy Horse Effects"
+                    },
+                    {
+                        "id": "nm0333794",
+                        "name": "Paul Graff",
+                        "description": "visual effects supervisor: Crazy Horse Effects"
+                    },
+                    {
+                        "id": "nm0701208",
+                        "name": "Anne Putnam Kolbe",
+                        "description": "visual effects executive"
+                    },
+                    {
+                        "id": "nm4685401",
+                        "name": "Blake Loyd",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm5897395",
+                        "name": "Aryel Melek-Shalom",
+                        "description": "lead cg artist: Crazy Horse Effects"
+                    },
+                    {
+                        "id": "nm0582205",
+                        "name": "Steven Messing",
+                        "description": "digital matte artist"
+                    },
+                    {
+                        "id": "nm0674149",
+                        "name": "Sharon Perl-Collins",
+                        "description": "visual effects accountant"
+                    },
+                    {
+                        "id": "nm6299425",
+                        "name": "Tessa Roehl",
+                        "description": "visual effects coordinator: Crazy Horse Effects"
+                    },
+                    {
+                        "id": "nm3024800",
+                        "name": "Brian Sales",
+                        "description": "compositing supervisor: Crazy Horse Effects"
+                    },
+                    {
+                        "id": "nm3824642",
+                        "name": "Christian Zeiler",
+                        "description": "digital compositor: Crazy Horse Effects"
+                    },
+                    {
+                        "id": "nm4541855",
+                        "name": "Sreyans Bardia",
+                        "description": "visual effects head of production: BOTVFX (uncredited)"
+                    },
+                    {
+                        "id": "nm3927988",
+                        "name": "Tristan M. Child",
+                        "description": "visual effects production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm4165007",
+                        "name": "Hetal Jain",
+                        "description": "visual effects producer: BOTVFX (uncredited)"
+                    },
+                    {
+                        "id": "nm5023589",
+                        "name": "Whitman Lindstrom",
+                        "description": "matte painter (uncredited)"
+                    },
+                    {
+                        "id": "nm7178836",
+                        "name": "Prakash Pathak",
+                        "description": "production and technical support (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0296758",
+                        "name": "Jeremy Fry",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm1887263",
+                        "name": "Benjamin Hoffman",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0445022",
+                        "name": "Dennis Keiffer",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm2438948",
+                        "name": "Eric Linden",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0566176",
+                        "name": "Tom McComas",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0589203",
+                        "name": "Rick Miller",
+                        "description": "stunt driver"
+                    },
+                    {
+                        "id": "nm0658293",
+                        "name": "Jim Palmer",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm1313479",
+                        "name": "Kenny Richards",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0731243",
+                        "name": "Jimmy N. Roberts",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm0777379",
+                        "name": "Myke Schwartz",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0779907",
+                        "name": "Wesley Scott",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0800720",
+                        "name": "Monty L. Simons",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0906010",
+                        "name": "Mark Aaron Wagner",
+                        "description": "stunt driver / stunt performer"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0026540",
+                        "name": "Colin Anderson",
+                        "description": "camera operator / steadicam operator"
+                    },
+                    {
+                        "id": "nm0062177",
+                        "name": "Michael Bauman",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0094815",
+                        "name": "Mike Bonnaud",
+                        "description": "rigging gaffer"
+                    },
+                    {
+                        "id": "nm1028267",
+                        "name": "Raynee Borchardt",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0113533",
+                        "name": "Erik L. Brown",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm1528916",
+                        "name": "Alejandro J. Castillo",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm2768379",
+                        "name": "Ryan Creasy",
+                        "description": "camera intern"
+                    },
+                    {
+                        "id": "nm0191175",
+                        "name": "Steven Cueva",
+                        "description": "first assistant camera: \"b\" camera"
+                    },
+                    {
+                        "id": "nm0199485",
+                        "name": "Thomas M. Dangcil",
+                        "description": "additional lighting technician"
+                    },
+                    {
+                        "id": "nm0203298",
+                        "name": "Donald D. Davidson",
+                        "description": "rigging electric"
+                    },
+                    {
+                        "id": "nm1629561",
+                        "name": "Rusty Davis",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm5026322",
+                        "name": "Twojay Dhillon",
+                        "description": "additional steadicam operator: day player"
+                    },
+                    {
+                        "id": "nm2434281",
+                        "name": "Danny Durr",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0315096",
+                        "name": "Mike Gerzevitz",
+                        "description": "rigging electrician"
+                    },
+                    {
+                        "id": "nm0326059",
+                        "name": "David Goldsmith",
+                        "description": "key video assist"
+                    },
+                    {
+                        "id": "nm0400153",
+                        "name": "Douglas Huete-Soto",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0260019",
+                        "name": "Steve Irwin",
+                        "description": "video playback supervisor"
+                    },
+                    {
+                        "id": "nm0475203",
+                        "name": "Jeff Kunkel",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0477291",
+                        "name": "T. Sano Kwong",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm1543806",
+                        "name": "Frankie Martinez",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0564733",
+                        "name": "Hugh McCallum",
+                        "description": "additional grip"
+                    },
+                    {
+                        "id": "nm3588677",
+                        "name": "Alaina McManus",
+                        "description": "film loader"
+                    },
+                    {
+                        "id": "nm1139956",
+                        "name": "Matthew Mebane",
+                        "description": "second assistant camera: \"b\" camera"
+                    },
+                    {
+                        "id": "nm4744165",
+                        "name": "Mike Morales",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm4491485",
+                        "name": "Adam Neas",
+                        "description": "grip (as Adam George Neas)"
+                    },
+                    {
+                        "id": "nm0705980",
+                        "name": "Brad Rea",
+                        "description": "\"a\" camera dolly grip"
+                    },
+                    {
+                        "id": "nm5674748",
+                        "name": "Sean Roberts",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0862661",
+                        "name": "Aaron Ali Tichenor",
+                        "description": "second assistant camera: \"a\" camera"
+                    },
+                    {
+                        "id": "nm0866188",
+                        "name": "Michael Tolochko",
+                        "description": "assistant chief lighting technician"
+                    },
+                    {
+                        "id": "nm2166376",
+                        "name": "Brian Udoff",
+                        "description": "additional film loader"
+                    },
+                    {
+                        "id": "nm0916334",
+                        "name": "Wilson Webb",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm1044194",
+                        "name": "Michael Witczak",
+                        "description": "rigging electrician"
+                    },
+                    {
+                        "id": "nm0777368",
+                        "name": "Michael J. Schwartz",
+                        "description": "rigging electrician (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0053149",
+                        "name": "John Barba",
+                        "description": "casting associate"
+                    },
+                    {
+                        "id": "nm0228996",
+                        "name": "Tracy Dixon",
+                        "description": "extras casting director"
+                    },
+                    {
+                        "id": "nm0382887",
+                        "name": "Joseph Hicks",
+                        "description": "extras casting"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm2914576",
+                        "name": "Paul Black",
+                        "description": "costumer"
+                    },
+                    {
+                        "id": "nm0150382",
+                        "name": "Lola Bullion Chambers",
+                        "description": "costumer"
+                    },
+                    {
+                        "id": "nm5887314",
+                        "name": "Jillian K. Clark",
+                        "description": "wardrobe assistant"
+                    },
+                    {
+                        "id": "nm0186049",
+                        "name": "Wendy M. Craig",
+                        "description": "second costume supervisor"
+                    },
+                    {
+                        "id": "nm2841580",
+                        "name": "Sahar Halabi",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm1109492",
+                        "name": "Demetricus Holloway",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm3929642",
+                        "name": "Felicia Leilani Jarvis",
+                        "description": "costumer"
+                    },
+                    {
+                        "id": "nm2654274",
+                        "name": "Kristen Kopp",
+                        "description": "assistant costume designer"
+                    },
+                    {
+                        "id": "nm5503027",
+                        "name": "Claire Marie Lere",
+                        "description": "costume assistant (as Claire Atiee)"
+                    },
+                    {
+                        "id": "nm5615941",
+                        "name": "Beth Miller",
+                        "description": "wardrobe assistant"
+                    },
+                    {
+                        "id": "nm0483160",
+                        "name": "Grace Pyke",
+                        "description": "key costumer"
+                    },
+                    {
+                        "id": "nm1167872",
+                        "name": "Hayley Stuppel",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm1206258",
+                        "name": "Jennifer Wolf",
+                        "description": "costumer"
+                    },
+                    {
+                        "id": "nm0939225",
+                        "name": "Lisa Wong",
+                        "description": "background costumer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm1519080",
+                        "name": "Gabriel Diaz",
+                        "description": "post-production assistant"
+                    },
+                    {
+                        "id": "nm2019227",
+                        "name": "Andrew Hegele",
+                        "description": "marketing editor"
+                    },
+                    {
+                        "id": "nm1425140",
+                        "name": "Andy Jurgensen",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm4593083",
+                        "name": "Cortney Lynn Kammerer",
+                        "description": "post-production coordinator"
+                    },
+                    {
+                        "id": "nm0451153",
+                        "name": "Afnahn Khan",
+                        "description": "post production executive"
+                    },
+                    {
+                        "id": "nm0615562",
+                        "name": "Dan Muscarella",
+                        "description": "color timer"
+                    },
+                    {
+                        "id": "nm1656743",
+                        "name": "Jason Pelham",
+                        "description": "digital intermediate producer"
+                    },
+                    {
+                        "id": "nm0857525",
+                        "name": "Kostas Theodosiou",
+                        "description": "digital intermediate colorist"
+                    },
+                    {
+                        "id": "nm5190769",
+                        "name": "Christina E. Wasell",
+                        "description": "dailies producer (as Christina Wasell)"
+                    },
+                    {
+                        "id": "nm3976157",
+                        "name": "Tim Weyers",
+                        "description": "post-production coordinator"
+                    },
+                    {
+                        "id": "nm2958221",
+                        "name": "Brian Gee",
+                        "description": "Fotokem Assistant Editor (uncredited)"
+                    },
+                    {
+                        "id": "nm1898328",
+                        "name": "Daniel Sessoms",
+                        "description": "nextlab operator (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0068072",
+                        "name": "Brad Bell",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm1491266",
+                        "name": "Scott Fitzgerald",
+                        "description": "key assistant location manager"
+                    },
+                    {
+                        "id": "nm4487223",
+                        "name": "Kalif Fuller",
+                        "description": "additional locations"
+                    },
+                    {
+                        "id": "nm4795990",
+                        "name": "Jeffrey A. Hunter",
+                        "description": "key assistant location manager"
+                    },
+                    {
+                        "id": "nm0456827",
+                        "name": "Alex Kivlen",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm4445754",
+                        "name": "Joshua Zev Nathan",
+                        "description": "additional locations"
+                    },
+                    {
+                        "id": "nm0667327",
+                        "name": "Robert Paulsen",
+                        "description": "key assistant location manager"
+                    },
+                    {
+                        "id": "nm2968958",
+                        "name": "Ed Portillo",
+                        "description": "location site rep"
+                    },
+                    {
+                        "id": "nm3190563",
+                        "name": "Chelsea Wehner",
+                        "description": "locations coordinator"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm7089563",
+                        "name": "Jon Alexander",
+                        "description": "assistant score engineer"
+                    },
+                    {
+                        "id": "nm2997073",
+                        "name": "John Barrett",
+                        "description": "music scoring engineer"
+                    },
+                    {
+                        "id": "nm7661461",
+                        "name": "Shye Ben-Tzur",
+                        "description": "musician: flute"
+                    },
+                    {
+                        "id": "nm0169559",
+                        "name": "Linda Cohen",
+                        "description": "music supervisor"
+                    },
+                    {
+                        "id": "nm0212677",
+                        "name": "Clive Deamer",
+                        "description": "musician: drums (as Clive Deemer)"
+                    },
+                    {
+                        "id": "nm1140093",
+                        "name": "Michael Z. Gordon",
+                        "description": "provider: original music"
+                    },
+                    {
+                        "id": "nm0339313",
+                        "name": "Colin Greenwood",
+                        "description": "musician: bass"
+                    },
+                    {
+                        "id": "nm0339351",
+                        "name": "Jonny Greenwood",
+                        "description": "musician: all other instruments"
+                    },
+                    {
+                        "id": "nm6413418",
+                        "name": "Graeme Stewart",
+                        "description": "music editor / score engineer / score mixer / score producer"
+                    },
+                    {
+                        "id": "nm0956137",
+                        "name": "Robert Ziegler",
+                        "description": "conductor / orchestrator"
+                    },
+                    {
+                        "id": "nm6166316",
+                        "name": "Andrew Townend",
+                        "description": "music copyist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm1055493",
+                        "name": "Jillian Giacomini",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm3079753",
+                        "name": "Deidre Backs",
+                        "description": "dot coordinator"
+                    },
+                    {
+                        "id": "nm0060344",
+                        "name": "Ted Basso",
+                        "description": "production van driver operator"
+                    },
+                    {
+                        "id": "nm2925218",
+                        "name": "Marc Lipman",
+                        "description": "production driver"
+                    },
+                    {
+                        "id": "nm2493435",
+                        "name": "Marco Lupi",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm3099894",
+                        "name": "Michael A. Moreno",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm1404590",
+                        "name": "Chris Raines",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm0763333",
+                        "name": "Michael Santana",
+                        "description": "production driver"
+                    },
+                    {
+                        "id": "nm0834801",
+                        "name": "Paul E. Stroh",
+                        "description": "transportation coordinator"
+                    },
+                    {
+                        "id": "nm3068463",
+                        "name": "Mike Phillips",
+                        "description": "driver (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0004198",
+                        "name": "David Acord",
+                        "description": "loop group"
+                    },
+                    {
+                        "id": "nm5909460",
+                        "name": "Nadeem Ashayer",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm1598816",
+                        "name": "Kristine Bochum",
+                        "description": "assistant accountant"
+                    },
+                    {
+                        "id": "nm2110618",
+                        "name": "Melissa Bosco-Laude",
+                        "description": "basecamp production assistant (as Melissa Bosco)"
+                    },
+                    {
+                        "id": "nm7423728",
+                        "name": "Kathryn Boyd Brolin",
+                        "description": "assistant: key talent (as Kathryn Boyd)"
+                    },
+                    {
+                        "id": "nm2852972",
+                        "name": "Sam Carmichael",
+                        "description": "production management trainee: Warner Bros"
+                    },
+                    {
+                        "id": "nm7304354",
+                        "name": "Skye Caruso",
+                        "description": "post production chef / production assistant"
+                    },
+                    {
+                        "id": "nm0188754",
+                        "name": "Demelza Cronin",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm1023332",
+                        "name": "Sandra L. Dixon",
+                        "description": "second accountant"
+                    },
+                    {
+                        "id": "nm4487223",
+                        "name": "Kalif Fuller",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1441421",
+                        "name": "Brandon Galvan",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm3633521",
+                        "name": "Alina Gatti",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm6894203",
+                        "name": "Colin Greten",
+                        "description": "assistant: Scott Rudin"
+                    },
+                    {
+                        "id": "nm4901329",
+                        "name": "Eliot John Hagen",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm2656767",
+                        "name": "Samantha Hatch",
+                        "description": "additional set production assistant"
+                    },
+                    {
+                        "id": "nm0418548",
+                        "name": "Dominique Jaramillo",
+                        "description": "supervising set medic"
+                    },
+                    {
+                        "id": "nm3680307",
+                        "name": "Genghis Jorgensen",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm4593083",
+                        "name": "Cortney Lynn Kammerer",
+                        "description": "assistant: Joanne Sellar"
+                    },
+                    {
+                        "id": "nm0483536",
+                        "name": "Wayne Lamkay",
+                        "description": "assistant accountant"
+                    },
+                    {
+                        "id": "nm4779774",
+                        "name": "Brian K. Lee",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm4918074",
+                        "name": "Blake Levy",
+                        "description": "production"
+                    },
+                    {
+                        "id": "nm1149746",
+                        "name": "Brandon Linville",
+                        "description": "first assistant accountant"
+                    },
+                    {
+                        "id": "nm3481675",
+                        "name": "Andrew Meyers",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm4409887",
+                        "name": "Robert Nyerges",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm2033588",
+                        "name": "Jeff Overfield",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm1002531",
+                        "name": "Scott Parker",
+                        "description": "post-production accountant"
+                    },
+                    {
+                        "id": "nm1520604",
+                        "name": "Ellen Philips",
+                        "description": "production staff"
+                    },
+                    {
+                        "id": "nm2568898",
+                        "name": "Griffin Pocock",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm1859193",
+                        "name": "Sally Potters",
+                        "description": "assistant production coordinator"
+                    },
+                    {
+                        "id": "nm0725509",
+                        "name": "Deborah Ricketts",
+                        "description": "footage researcher"
+                    },
+                    {
+                        "id": "nm3007517",
+                        "name": "Rafael Sanz",
+                        "description": "key set production assistant"
+                    },
+                    {
+                        "id": "nm3952179",
+                        "name": "Joseph Slomka",
+                        "description": "color scientist"
+                    },
+                    {
+                        "id": "nm2301226",
+                        "name": "Desmond Smith",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm0811500",
+                        "name": "Kelly A. Snyder",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm1143035",
+                        "name": "Aaron Walrod",
+                        "description": "payroll accountant"
+                    },
+                    {
+                        "id": "nm1750927",
+                        "name": "Fernando Lara",
+                        "description": "production assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm9577068",
+                        "name": "Jack Anderson",
+                        "description": "thank you (as Jack)"
+                    },
+                    {
+                        "id": "nm9577067",
+                        "name": "Lucille Anderson",
+                        "description": "thank you (as Lu)"
+                    },
+                    {
+                        "id": "nm9577069",
+                        "name": "Minnie Ida Anderson",
+                        "description": "dedicatee (as Ida)"
+                    },
+                    {
+                        "id": "nm7744115",
+                        "name": "Pearl Minnie Anderson",
+                        "description": "thank you (as Pearl)"
+                    },
+                    {
+                        "id": "nm1070960",
+                        "name": "Joe Ball",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm0000893",
+                        "name": "Ed Begley Jr.",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm3312071",
+                        "name": "Bryce Edge",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm2691892",
+                        "name": "Megan Ellison",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm5306256",
+                        "name": "Bella Feinstein",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm5306157",
+                        "name": "Madison Feinstein",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm7744116",
+                        "name": "Francesca",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm0324556",
+                        "name": "Gary Goetzman",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm9556133",
+                        "name": "Joanne Gough",
+                        "description": "thank you (as Aunt Jojo)"
+                    },
+                    {
+                        "id": "nm7744114",
+                        "name": "Paul Gough",
+                        "description": "thank you (as Uncle Paul)"
+                    },
+                    {
+                        "id": "nm1097471",
+                        "name": "Melanie Jackson",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm8780925",
+                        "name": "Ken Johnson",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm0453113",
+                        "name": "Lori Killam",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm5469357",
+                        "name": "John Mills",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm1656920",
+                        "name": "Kelly Novak",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm0649318",
+                        "name": "Andrew Oran",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm0731071",
+                        "name": "Elliot Roberts",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm2890089",
+                        "name": "Roman",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm0748973",
+                        "name": "Maya Rudolph",
+                        "description": "thank you (as Maya)"
+                    },
+                    {
+                        "id": "nm7186358",
+                        "name": "Dustin Stanton",
+                        "description": "thank you"
+                    },
+                    {
+                        "id": "nm9695064",
+                        "name": "Christina Wright",
+                        "description": "thank you"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Comedy, Crime, Drama, Mystery, Romance",
+    "genreList": [
+        {
+            "key": "Comedy",
+            "value": "Comedy"
+        },
+        {
+            "key": "Crime",
+            "value": "Crime"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        },
+        {
+            "key": "Romance",
+            "value": "Romance"
+        }
+    ],
+    "companies": "Ghoulardi Film Company, Warner Bros., IAC Films",
+    "companyList": [
+        {
+            "id": "co0027686",
+            "name": "Ghoulardi Film Company"
+        },
+        {
+            "id": "co0002663",
+            "name": "Warner Bros."
+        },
+        {
+            "id": "co0093463",
+            "name": "IAC Films"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English, Japanese",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Japanese",
+            "value": "Japanese"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "6.7",
+    "imDbRatingVotes": "90671",
+    "metacriticRating": "81",
+    "ratings": {
+        "imDbId": "tt1791528",
+        "title": "Inherent Vice",
+        "fullTitle": "Inherent Vice (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "imDb": "6.7",
+        "metacritic": "81",
+        "theMovieDb": "6.6",
+        "rottenTomatoes": "74",
+        "tV_com": "",
+        "filmAffinity": "6.0",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt1791528",
+        "title": "Inherent Vice",
+        "fullTitle": "Inherent Vice (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "language": "en",
+        "titleInLanguage": "Inherent Vice (film)",
+        "url": "https://en.wikipedia.org/wiki/Inherent_Vice_(film)",
+        "plotShort": {
+            "plainText": "Inherent Vice (film)\r\nInherent Vice is a 2014 American neo-noir film written and directed by Paul Thomas Anderson, based on the 2009 novel of the same name by Thomas Pynchon. The cast includes Joaquin Phoenix, Josh Brolin, Owen Wilson, Katherine Waterston, Eric Roberts, Reese Witherspoon, Benicio del Toro, Jena Malone, Joanna Newsom, Jeannie Berlin, Maya Rudolph, Michael K. Williams and Martin Short. The film follows Larry \"Doc\" Sportello, a well-intentioned but inept stoner, hippie, and private investigator in 1970, who is embroiled in the Los Angeles criminal underworld while investigating three cases interrelated by the disappearance of his ex-girlfriend and her new wealthy boyfriend.\r\nAnderson's adaptation of Inherent Vice had been in development since 2010; it is the first Pynchon novel to be adapted for the screen. It is Anderson's second collaboration with Phoenix, following The Master, and involves a number of his other recurring collaborators, including producers Daniel Lupi and JoAnne Sellar, cinematographer Robert Elswit, editor Leslie Jones, and composer Jonny Greenwood.\r\nInherent Vice premiered at the New York Film Festival on October 4, 2014, and began a limited theatrical release in the United States on December 12, 2014. Critical reception was divided; some complained the film had a convoluted plot and lacked coherence, but others praised the cast, particularly Brolin, Phoenix and Waterston. The film was nominated for a number of awards, including two at the 87th Academy Awards and Best Actor \u2013 Motion Picture Musical or Comedy for Phoenix at the 72nd Golden Globe Awards. The National Board of Review named it one of the ten best films of the year. Some critics have said that Inherent Vice has the makings of a cult film. In 2016, it was voted the 75th best film since 2000 in an international critics' poll.",
+            "html": "<h2>Inherent Vice (film)</h2><p>Inherent Vice is a 2014 American neo-noir film written and directed by Paul Thomas Anderson, based on the 2009 novel of the same name by Thomas Pynchon. The cast includes Joaquin Phoenix, Josh Brolin, Owen Wilson, Katherine Waterston, Eric Roberts, Reese Witherspoon, Benicio del Toro, Jena Malone, Joanna Newsom, Jeannie Berlin, Maya Rudolph, Michael K. Williams and Martin Short. The film follows Larry \"Doc\" Sportello, a well-intentioned but inept stoner, hippie, and private investigator in 1970, who is embroiled in the Los Angeles criminal underworld while investigating three cases interrelated by the disappearance of his ex-girlfriend and her new wealthy boyfriend.</p><p>Anderson's adaptation of Inherent Vice had been in development since 2010; it is the first Pynchon novel to be adapted for the screen. It is Anderson's second collaboration with Phoenix, following The Master, and involves a number of his other recurring collaborators, including producers Daniel Lupi and JoAnne Sellar, cinematographer Robert Elswit, editor Leslie Jones, and composer Jonny Greenwood.</p><p>Inherent Vice premiered at the New York Film Festival on October 4, 2014, and began a limited theatrical release in the United States on December 12, 2014. Critical reception was divided; some complained the film had a convoluted plot and lacked coherence, but others praised the cast, particularly Brolin, Phoenix and Waterston. The film was nominated for a number of awards, including two at the 87th Academy Awards and Best Actor \u2013 Motion Picture Musical or Comedy for Phoenix at the 72nd Golden Globe Awards. The National Board of Review named it one of the ten best films of the year. Some critics have said that Inherent Vice has the makings of a cult film. In 2016, it was voted the 75th best film since 2000 in an international critics' poll.</p>"
+        },
+        "plotFull": {
+            "plainText": "Inherent Vice (film)\r\nInherent Vice is a 2014 American neo-noir film written and directed by Paul Thomas Anderson, based on the 2009 novel of the same name by Thomas Pynchon. The cast includes Joaquin Phoenix, Josh Brolin, Owen Wilson, Katherine Waterston, Eric Roberts, Reese Witherspoon, Benicio del Toro, Jena Malone, Joanna Newsom, Jeannie Berlin, Maya Rudolph, Michael K. Williams and Martin Short. The film follows Larry \"Doc\" Sportello, a well-intentioned but inept stoner, hippie, and private investigator in 1970, who is embroiled in the Los Angeles criminal underworld while investigating three cases interrelated by the disappearance of his ex-girlfriend and her new wealthy boyfriend.\r\nAnderson's adaptation of Inherent Vice had been in development since 2010; it is the first Pynchon novel to be adapted for the screen. It is Anderson's second collaboration with Phoenix, following The Master, and involves a number of his other recurring collaborators, including producers Daniel Lupi and JoAnne Sellar, cinematographer Robert Elswit, editor Leslie Jones, and composer Jonny Greenwood.\r\nInherent Vice premiered at the New York Film Festival on October 4, 2014, and began a limited theatrical release in the United States on December 12, 2014. Critical reception was divided; some complained the film had a convoluted plot and lacked coherence, but others praised the cast, particularly Brolin, Phoenix and Waterston. The film was nominated for a number of awards, including two at the 87th Academy Awards and Best Actor \u2013 Motion Picture Musical or Comedy for Phoenix at the 72nd Golden Globe Awards. The National Board of Review named it one of the ten best films of the year. Some critics have said that Inherent Vice has the makings of a cult film. In 2016, it was voted the 75th best film since 2000 in an international critics' poll.\r\nPlot\r\nIn 1970, Shasta Fay Hepworth visits the beach house of her ex-boyfriend, Larry \"Doc\" Sportello, a private investigator and hippie in Gordita Beach, Los Angeles County. She tells him about her new lover, Michael Z. \"Mickey\" Wolfmann, a wealthy real estate developer, and asks him to help prevent Mickey's wife and her lover from abducting Mickey and committing him to an insane asylum. Doc meets with Tariq Khalil, a member of the Black Guerrilla Family. Khalil hires Doc to find Glen Charlock, a member of the Aryan Brotherhood he met in jail, who owes him money and is one of Wolfmann's bodyguards. Doc visits Mickey's Channel View Estates project and enters the only business in the developing strip mall, a massage parlor, where he meets an employee, Jade. He searches the premises for Charlock, but is hit with a baseball bat and collapses. He awakens outside, lying next to Charlock's dead body and surrounded by policemen. Doc is interrogated by Detective Christian F. \"Bigfoot\" Bjornsen of the LAPD, and learns that Wolfmann has disappeared. He is helped by his attorney, Sauncho Smilax, who arranges for his release by the LAPD.\r\nDoc is hired by former heroin addict Hope Harlingen, who is looking for her missing husband, Coy. She was told that Coy was dead, but believes he is alive due to a large deposit to her bank account. Coy seeks out Doc and says he is hiding at a house in Topanga Canyon. In a second meeting, he reveals he is a police informant and fears for his life, only wanting to return to his wife and daughter. Jade leaves Doc a message apologizing for setting him up with the police and telling him to \"beware the Golden Fang.\" He meets her in an alley, where she explains that the Golden Fang is an international drug smuggling operation. Doc talks to Sauncho, who tells him about a suspicious boat called the Golden Fang and that, the last time the ship sailed, Shasta was on board. Thanks to a postcard from her, Doc finds a large building shaped like a golden fang and meets dentist Rudy Blatnoyd.\r\nBigfoot calls Doc and tells him that Blatnoyd has just been found dead with fang bites in his neck. Bigfoot decides to help Doc find Coy and tells him to search for Puck Beaverton in Chryskylodon, an asylum run by a cult connected to the Golden Fang. There, Doc finds Mickey, who is being watched by the FBI. Mickey tells Doc he felt guilty for the negativity his real-estate business caused and wants to give away his money. He appears to be a happy member of the cult. Doc also glimpses Puck and Coy. When Doc returns home to his beach house, he is greeted by Shasta, who has returned and is indifferent to the trouble her disappearance has caused. She confesses to having been on the Golden Fang on a \"three-hour tour\" and says she was brought along as inherent vice. She and Doc have sex.\r\nPenny, an assistant district attorney with whom Doc is having a fling, gives him confidential files from which he learns that the loan shark Adrian Prussia is paid by the police department to kill people for them and that one of his victims was Bigfoot's former partner. Prussia is tied to the Golden Fang, and Doc learns that Glen Charlock was involved with a deal, which is why he was killed. Doc visits Adrian, noticing his obsession with baseball bats, but is abducted and drugged by his partner, Puck. He manages to escape, killing both Puck and Adrian. Bigfoot appears and rescues him, driving him home, but Doc discovers he has been set up: Bigfoot has planted heroin in his car. Doc arranges for the drugs to be returned to the Golden Fang in exchange for Coy's freedom. Doc and Shasta drive off together.\r\nCast\r\nJoaquin Phoenix as Larry \"Doc\" Sportello\r\nJosh Brolin as Lt. Det. Christian F. \"Bigfoot\" Bjornsen\r\nOwen Wilson as Coy Harlingen\r\nKatherine Waterston as Shasta Fay Hepworth\r\nReese Witherspoon as Deputy D.A. Penny Kimball\r\nBenicio del Toro as Sauncho Smilax, Esq.\r\nJena Malone as Hope Harlingen\r\nJoanna Newsom as Sortil\u00e8ge\r\nJordan Christian Hearn as Denis\r\nHong Chau as Jade\r\nJeannie Berlin as Aunt Reet\r\nMaya Rudolph as Petunia Leeway\r\nMichael Kenneth Williams as Tariq Khalil\r\nMichelle Sinclair as Clancy Charlock\r\nMartin Short as Dr. Rudy Blatnoyd, D.D.S.\r\nSasha Pieterse as Japonica Fenway\r\nMartin Donovan as Crocker Fenway\r\nEric Roberts as Michael Z. Wolfmann\r\nSerena Scott Thomas as Sloane Wolfmann\r\nYvette Yates as Luz\r\nAndrew Simpson as Riggs Warbling\r\nJefferson Mays as Dr. Threeply, Chryskylodon Institute\r\nKeith Jardine as Puck Beaverton\r\nPeter McRobbie as Adrian Prussia\r\nSam Jaeger as Agent Flatweed, F.B.I.\r\nTimothy Simons as Agent Borderline, F.B.I.\r\nSamantha Lemole as Golden Fang mother\r\nMadison Leisle as Golden Fang daughter\r\nMatt Doyle as Golden Fang father\r\nLiam van Joosten as Golden Fang son\r\nProduction\r\nDevelopment\r\nIt was first reported in December 2010 that Anderson wanted to adapt Inherent Vice; at the time, he had been writing a treatment and started on a script after The Master had been shelved indefinitely months prior. Anderson originally adapted the entire 384-page novel sentence by sentence which made it easier for him to cut down the script than the novel. By February 2011, Anderson had written a first draft and was more than halfway done with a second draft. The first draft was written without a narrator but the character of Sortil\u00e8ge was later turned into the voice of the narrator. In September 2012, Anderson stated that he was still writing the script but was hoping he could get Inherent Vice into production and have a few years of being more productive.\r\nThis is the first film adaptation from a Thomas Pynchon novel with Anderson describing it \"like a Cheech & Chong movie\". Years prior, Anderson considered adapting Pynchon's 1990 novel Vineland, but could not figure out how. When Inherent Vice came out, he was drawn to it and wrote the film concurrently with The Master. Anderson significantly changed the ending from the novel and described the novel as \"deeply written and beautifully profound stuff mixed in with just the best fart jokes and poop jokes that you can imagine.\" Anderson drew inspiration from Kiss Me Deadly, The Big Sleep, Raymond Chandler's The Long Goodbye, and Cheech & Chong's Up in Smoke. Anderson has said he tried to cram as many jokes onto the screen as Pynchon squeezed onto the page and that the visual gags and gimmicks were inspired by Zucker, Abrahams and Zucker-style slapstick spoofs like Police Squad!, Top Secret!, and Airplane!. Anderson also used the underground comic strip Fabulous Furry Freak Brothers as what he has described as an invaluable \"research bible\" for the writing process.\r\nCasting\r\nRobert Downey Jr. was reportedly interested in the role of Larry \"Doc\" Sportello and was making plans to start shooting in the fall of 2011 since he had dropped out of Oz the Great and Powerful. Downey Jr. stated in December 2011 that the planned collaboration was \"probably true\". In January 2013, it was reported that Joaquin Phoenix was in talks for the lead and that Downey Jr. had ultimately passed on the role. Downey Jr. later said that Anderson wanted to make the film with Phoenix because he was too old.\r\nIn May 2013, it was reported that Benicio del Toro, Owen Wilson, Reese Witherspoon, Martin Short, and Jena Malone were in talks to join the film. In May 2013, it was reported that Josh Brolin joined the cast and that Katherine Waterston joined as the lead female role. In June 2013, it was reported that Peter McRobbie and Sasha Pieterse joined the cast. In July 2013, it was reported that Timothy Simons joined the cast. In October 2013, it was reported that Michael K. Williams joined the cast.\r\nIn September 2014, it was reported that Pynchon may have a cameo in the film, which Anderson would not confirm, citing Pynchon's choice to stay out of the public spotlight. Brolin went as far as to confirm the cameo and claimed that Pynchon was on set but that nobody knew it was he as he stayed in the corner.\r\nFilming\r\nPrincipal photography began in May 2013, and it was reported that shooting was to take place until August 2, 2013. Shooting permits in California covered a San Fernando Valley warehouse, a storefront on Slauson Boulevard, driving shots in the Canoga Park area, driving shots in canyon roads above Malibu and a warehouse in Chinatown. In June 2014, filming also took place in Pasadena, and aboard the tall ship American Pride located in Long Beach.\r\nThe set has been described as organized chaos but the cast felt protected when they took big risks. Short stated that \"If you're working with a great director, you feel very, very, very safe because you know that all the decisions will be made months later in the editing room.\" Malone stated that \"it was a very structured process\" and that the \"chaos can only come from a grounded, logical base because you have to know where you're going to be spinning from. The logic becomes the chaos and the chaos becomes the logic.\"\r\nAccording to Waterston, Anderson did not have a clear goal while on set but it did not feel chaotic. Brolin said \"It was crazy, chaotic but really, really gratifying.\" Brolin also stated that there was \"a really strange lack of pretense\" but that Anderson would work with the actors when they felt something was not working. Pieterse stated that Anderson allowed \"freedom and flexibility to really dive into your character and shape the scene\". Wilson said \"Sometimes I wouldn't necessarily know what I was doing. We were encouraged to kind of do anything.\"\r\nSoundtrack\r\nThe Inherent Vice soundtrack was composed by Radiohead guitarist Jonny Greenwood, recorded with the Royal Philharmonic Orchestra in London. It was Greenwood's third collaboration with Anderson, following There Will Be Blood and The Master.\r\nThe score includes a version of an unreleased Radiohead song, \"Spooks\", performed by Greenwood and members of Supergrass. Greenwood said Radiohead's version was \"a half-idea we never made work live\", describing it as a pastiche of the Pixies and surf music. The soundtrack also includes tracks from the late 1960s and early 1970s by Neil Young, Can, and the Marketts, among others. It was released by Nonesuch Records on December 16.\r\nRelease\r\nInherent Vice premiered as the centerpiece at the New York Film Festival on October 4, 2014. The film received a limited release on December 12, 2014, before being released in 645 theaters on January 9, 2015.\r\nThis film earned $8 million domestically and $6.6 million internationally, despite the positive reviews bringing its final gross to $14.6 million\u2014around six million short of earning its budget back.\r\nReception\r\nInherent Vice was met with positive reviews. Critics praised the film for its performances, particularly those of Joaquin Phoenix, Josh Brolin and Katherine Waterston, while some were frustrated by its complicated plot. On Rotten Tomatoes, the film holds a rating of 74%, based on 242 reviews, with an average rating of 7.17/10. The website's critical consensus reads, \"Inherent Vice may prove frustrating for viewers who demand absolute coherence, but it does justice to its acclaimed source material \u2013 and should satisfy fans of director P.T. Anderson.\" On Metacritic, the film has a score of 81 out of 100, based on 43 critics, indicating \"universal acclaim\".\r\nFilm Journal International's Ethan Alter commented that the film is \"confounding, challenging and consistently unique.\" IGN reviewer Matt Patches gave the film an 8.9 out of 10 score, saying \"There's nothing certain \u2013 a surprisingly rewarding sensation that demands repeat viewings. There's so much, too much, to soak up, and all the laughter Anderson piles on top of the thematics means there's plenty to miss. Inherent Vice is a high grain strain: Provocative, hilarious, and its own breed of weird.\" Collider's Adam Chitwood named it one of the top ten films of 2014.\r\nThe film was ranked 75th in a survey of 177 critics conducted by the BBC in 2016 to determine the 100 best films of the 21st century.\r\nTop ten lists\r\nInherent Vice was listed on many film critics' top ten lists of 2014 films.\r\n1st: Drew McWeeny, HitFix\r\n1st: Glenn Kenny & Matt Zoller Seitz, RogerEbert.com\r\n1st: Ben Kenigsberg, The A.V. Club\r\n1st: Jordan Raup, The Film Stage\r\n2nd: RogerEbert.com\r\n2nd: J. Hoberman, Artforum\r\n2nd: Sasha Stone, Awards Daily\r\n2nd: Marlow Stern, The Daily Beast\r\n2nd: David Ehrlich, Little White Lies\r\n2nd: Mark Olsen, Los Angeles Times\r\n3rd: Keith Phipps, The Dissolve\r\n3rd: The Guardian\r\n3rd: Elizabeth Weitzman, New York Daily News\r\n3rd: Kristopher Tapley, HitFix\r\n3rd: Andrew O'Hehir, Salon\r\n4th: Scott Foundas, Variety\r\n5th: Wesley Morris, Grantland\r\n5th: Brian Tallerico, RogerEbert.com\r\n5th: Adam Chitwood, Collider\r\n5th: Gregory Ellwood, HitFix\r\n5th: Kimberly Jones, Austin Chronicle\r\n6th: Jake Coyle, Associated Press\r\n6th: Alison Willmore, BuzzFeed\r\n7th: Cahiers du Cin\u00e9ma\r\n8th: Ty Burr, The Boston Globe\r\n9th: William Bibbiani, CraveOnline\r\n9th: Sight & Sound\r\n9th: David Ansen, The Village Voice\r\n9th: Betsy Sharkey, Los Angeles Times (tied with A Most Violent Year)\r\n10th: Eric Kohn, IndieWire\r\n10th: Harry Knowles, Ain't It Cool News\r\n10th: Joshua Rothkopf, Time Out New York\r\nBest of 2014 (listed alphabetically, not ranked): Manohla Dargis, The New York Times\r\nAccolades",
+            "html": "<h2>Inherent Vice (film)</h2><p>Inherent Vice is a 2014 American neo-noir film written and directed by Paul Thomas Anderson, based on the 2009 novel of the same name by Thomas Pynchon. The cast includes Joaquin Phoenix, Josh Brolin, Owen Wilson, Katherine Waterston, Eric Roberts, Reese Witherspoon, Benicio del Toro, Jena Malone, Joanna Newsom, Jeannie Berlin, Maya Rudolph, Michael K. Williams and Martin Short. The film follows Larry \"Doc\" Sportello, a well-intentioned but inept stoner, hippie, and private investigator in 1970, who is embroiled in the Los Angeles criminal underworld while investigating three cases interrelated by the disappearance of his ex-girlfriend and her new wealthy boyfriend.</p><p>Anderson's adaptation of Inherent Vice had been in development since 2010; it is the first Pynchon novel to be adapted for the screen. It is Anderson's second collaboration with Phoenix, following The Master, and involves a number of his other recurring collaborators, including producers Daniel Lupi and JoAnne Sellar, cinematographer Robert Elswit, editor Leslie Jones, and composer Jonny Greenwood.</p><p>Inherent Vice premiered at the New York Film Festival on October 4, 2014, and began a limited theatrical release in the United States on December 12, 2014. Critical reception was divided; some complained the film had a convoluted plot and lacked coherence, but others praised the cast, particularly Brolin, Phoenix and Waterston. The film was nominated for a number of awards, including two at the 87th Academy Awards and Best Actor \u2013 Motion Picture Musical or Comedy for Phoenix at the 72nd Golden Globe Awards. The National Board of Review named it one of the ten best films of the year. Some critics have said that Inherent Vice has the makings of a cult film. In 2016, it was voted the 75th best film since 2000 in an international critics' poll.</p><br/><h3>Plot</h3><p>In 1970, Shasta Fay Hepworth visits the beach house of her ex-boyfriend, Larry \"Doc\" Sportello, a private investigator and hippie in Gordita Beach, Los Angeles County. She tells him about her new lover, Michael Z. \"Mickey\" Wolfmann, a wealthy real estate developer, and asks him to help prevent Mickey's wife and her lover from abducting Mickey and committing him to an insane asylum. Doc meets with Tariq Khalil, a member of the Black Guerrilla Family. Khalil hires Doc to find Glen Charlock, a member of the Aryan Brotherhood he met in jail, who owes him money and is one of Wolfmann's bodyguards. Doc visits Mickey's Channel View Estates project and enters the only business in the developing strip mall, a massage parlor, where he meets an employee, Jade. He searches the premises for Charlock, but is hit with a baseball bat and collapses. He awakens outside, lying next to Charlock's dead body and surrounded by policemen. Doc is interrogated by Detective Christian F. \"Bigfoot\" Bjornsen of the LAPD, and learns that Wolfmann has disappeared. He is helped by his attorney, Sauncho Smilax, who arranges for his release by the LAPD.</p><p>Doc is hired by former heroin addict Hope Harlingen, who is looking for her missing husband, Coy. She was told that Coy was dead, but believes he is alive due to a large deposit to her bank account. Coy seeks out Doc and says he is hiding at a house in Topanga Canyon. In a second meeting, he reveals he is a police informant and fears for his life, only wanting to return to his wife and daughter. Jade leaves Doc a message apologizing for setting him up with the police and telling him to \"beware the Golden Fang.\" He meets her in an alley, where she explains that the Golden Fang is an international drug smuggling operation. Doc talks to Sauncho, who tells him about a suspicious boat called the Golden Fang and that, the last time the ship sailed, Shasta was on board. Thanks to a postcard from her, Doc finds a large building shaped like a golden fang and meets dentist Rudy Blatnoyd.</p><p>Bigfoot calls Doc and tells him that Blatnoyd has just been found dead with fang bites in his neck. Bigfoot decides to help Doc find Coy and tells him to search for Puck Beaverton in Chryskylodon, an asylum run by a cult connected to the Golden Fang. There, Doc finds Mickey, who is being watched by the FBI. Mickey tells Doc he felt guilty for the negativity his real-estate business caused and wants to give away his money. He appears to be a happy member of the cult. Doc also glimpses Puck and Coy. When Doc returns home to his beach house, he is greeted by Shasta, who has returned and is indifferent to the trouble her disappearance has caused. She confesses to having been on the Golden Fang on a \"three-hour tour\" and says she was brought along as inherent vice. She and Doc have sex.</p><p>Penny, an assistant district attorney with whom Doc is having a fling, gives him confidential files from which he learns that the loan shark Adrian Prussia is paid by the police department to kill people for them and that one of his victims was Bigfoot's former partner. Prussia is tied to the Golden Fang, and Doc learns that Glen Charlock was involved with a deal, which is why he was killed. Doc visits Adrian, noticing his obsession with baseball bats, but is abducted and drugged by his partner, Puck. He manages to escape, killing both Puck and Adrian. Bigfoot appears and rescues him, driving him home, but Doc discovers he has been set up: Bigfoot has planted heroin in his car. Doc arranges for the drugs to be returned to the Golden Fang in exchange for Coy's freedom. Doc and Shasta drive off together.</p><br/><h3>Cast</h3><ul><li>Joaquin Phoenix as Larry \"Doc\" Sportello</li><li>Josh Brolin as Lt. Det. Christian F. \"Bigfoot\" Bjornsen</li><li>Owen Wilson as Coy Harlingen</li><li>Katherine Waterston as Shasta Fay Hepworth</li><li>Reese Witherspoon as Deputy D.A. Penny Kimball</li><li>Benicio del Toro as Sauncho Smilax, Esq.</li><li>Jena Malone as Hope Harlingen</li><li>Joanna Newsom as Sortil\u00e8ge</li><li>Jordan Christian Hearn as Denis</li><li>Hong Chau as Jade</li><li>Jeannie Berlin as Aunt Reet</li><li>Maya Rudolph as Petunia Leeway</li><li>Michael Kenneth Williams as Tariq Khalil</li><li>Michelle Sinclair as Clancy Charlock</li><li>Martin Short as Dr. Rudy Blatnoyd, D.D.S.</li><li>Sasha Pieterse as Japonica Fenway</li><li>Martin Donovan as Crocker Fenway</li><li>Eric Roberts as Michael Z. Wolfmann</li><li>Serena Scott Thomas as Sloane Wolfmann</li><li>Yvette Yates as Luz</li><li>Andrew Simpson as Riggs Warbling</li><li>Jefferson Mays as Dr. Threeply, Chryskylodon Institute</li><li>Keith Jardine as Puck Beaverton</li><li>Peter McRobbie as Adrian Prussia</li><li>Sam Jaeger as Agent Flatweed, F.B.I.</li><li>Timothy Simons as Agent Borderline, F.B.I.</li><li>Samantha Lemole as Golden Fang mother</li><li>Madison Leisle as Golden Fang daughter</li><li>Matt Doyle as Golden Fang father</li><li>Liam van Joosten as Golden Fang son</li></ul><br/><h3>Production</h3><h4>Development</h4><p>It was first reported in December 2010 that Anderson wanted to adapt Inherent Vice; at the time, he had been writing a treatment and started on a script after The Master had been shelved indefinitely months prior. Anderson originally adapted the entire 384-page novel sentence by sentence which made it easier for him to cut down the script than the novel. By February 2011, Anderson had written a first draft and was more than halfway done with a second draft. The first draft was written without a narrator but the character of Sortil\u00e8ge was later turned into the voice of the narrator. In September 2012, Anderson stated that he was still writing the script but was hoping he could get Inherent Vice into production and have a few years of being more productive.</p><p>This is the first film adaptation from a Thomas Pynchon novel with Anderson describing it \"like a Cheech & Chong movie\". Years prior, Anderson considered adapting Pynchon's 1990 novel Vineland, but could not figure out how. When Inherent Vice came out, he was drawn to it and wrote the film concurrently with The Master. Anderson significantly changed the ending from the novel and described the novel as \"deeply written and beautifully profound stuff mixed in with just the best fart jokes and poop jokes that you can imagine.\" Anderson drew inspiration from Kiss Me Deadly, The Big Sleep, Raymond Chandler's The Long Goodbye, and Cheech & Chong's Up in Smoke. Anderson has said he tried to cram as many jokes onto the screen as Pynchon squeezed onto the page and that the visual gags and gimmicks were inspired by Zucker, Abrahams and Zucker-style slapstick spoofs like Police Squad!, Top Secret!, and Airplane!. Anderson also used the underground comic strip Fabulous Furry Freak Brothers as what he has described as an invaluable \"research bible\" for the writing process.</p><h4>Casting</h4><p>Robert Downey Jr. was reportedly interested in the role of Larry \"Doc\" Sportello and was making plans to start shooting in the fall of 2011 since he had dropped out of Oz the Great and Powerful. Downey Jr. stated in December 2011 that the planned collaboration was \"probably true\". In January 2013, it was reported that Joaquin Phoenix was in talks for the lead and that Downey Jr. had ultimately passed on the role. Downey Jr. later said that Anderson wanted to make the film with Phoenix because he was too old.</p><p>In May 2013, it was reported that Benicio del Toro, Owen Wilson, Reese Witherspoon, Martin Short, and Jena Malone were in talks to join the film. In May 2013, it was reported that Josh Brolin joined the cast and that Katherine Waterston joined as the lead female role. In June 2013, it was reported that Peter McRobbie and Sasha Pieterse joined the cast. In July 2013, it was reported that Timothy Simons joined the cast. In October 2013, it was reported that Michael K. Williams joined the cast.</p><p>In September 2014, it was reported that Pynchon may have a cameo in the film, which Anderson would not confirm, citing Pynchon's choice to stay out of the public spotlight. Brolin went as far as to confirm the cameo and claimed that Pynchon was on set but that nobody knew it was he as he stayed in the corner.</p><h4>Filming</h4><p>Principal photography began in May 2013, and it was reported that shooting was to take place until August 2, 2013. Shooting permits in California covered a San Fernando Valley warehouse, a storefront on Slauson Boulevard, driving shots in the Canoga Park area, driving shots in canyon roads above Malibu and a warehouse in Chinatown. In June 2014, filming also took place in Pasadena, and aboard the tall ship American Pride located in Long Beach.</p><p>The set has been described as organized chaos but the cast felt protected when they took big risks. Short stated that \"If you're working with a great director, you feel very, very, very safe because you know that all the decisions will be made months later in the editing room.\" Malone stated that \"it was a very structured process\" and that the \"chaos can only come from a grounded, logical base because you have to know where you're going to be spinning from. The logic becomes the chaos and the chaos becomes the logic.\"</p><p>According to Waterston, Anderson did not have a clear goal while on set but it did not feel chaotic. Brolin said \"It was crazy, chaotic but really, really gratifying.\" Brolin also stated that there was \"a really strange lack of pretense\" but that Anderson would work with the actors when they felt something was not working. Pieterse stated that Anderson allowed \"freedom and flexibility to really dive into your character and shape the scene\". Wilson said \"Sometimes I wouldn't necessarily know what I was doing. We were encouraged to kind of do anything.\"</p><h4>Soundtrack</h4><p>The Inherent Vice soundtrack was composed by Radiohead guitarist Jonny Greenwood, recorded with the Royal Philharmonic Orchestra in London. It was Greenwood's third collaboration with Anderson, following There Will Be Blood and The Master.</p><p>The score includes a version of an unreleased Radiohead song, \"Spooks\", performed by Greenwood and members of Supergrass. Greenwood said Radiohead's version was \"a half-idea we never made work live\", describing it as a pastiche of the Pixies and surf music. The soundtrack also includes tracks from the late 1960s and early 1970s by Neil Young, Can, and the Marketts, among others. It was released by Nonesuch Records on December 16.</p><br/><h3>Release</h3><p>Inherent Vice premiered as the centerpiece at the New York Film Festival on October 4, 2014. The film received a limited release on December 12, 2014, before being released in 645 theaters on January 9, 2015.</p><p>This film earned $8 million domestically and $6.6 million internationally, despite the positive reviews bringing its final gross to $14.6 million\u2014around six million short of earning its budget back.</p><br/><h3>Reception</h3><p>Inherent Vice was met with positive reviews. Critics praised the film for its performances, particularly those of Joaquin Phoenix, Josh Brolin and Katherine Waterston, while some were frustrated by its complicated plot. On Rotten Tomatoes, the film holds a rating of 74%, based on 242 reviews, with an average rating of 7.17/10. The website's critical consensus reads, \"Inherent Vice may prove frustrating for viewers who demand absolute coherence, but it does justice to its acclaimed source material \u2013 and should satisfy fans of director P.T. Anderson.\" On Metacritic, the film has a score of 81 out of 100, based on 43 critics, indicating \"universal acclaim\".</p><p>Film Journal International's Ethan Alter commented that the film is \"confounding, challenging and consistently unique.\" IGN reviewer Matt Patches gave the film an 8.9 out of 10 score, saying \"There's nothing certain \u2013 a surprisingly rewarding sensation that demands repeat viewings. There's so much, too much, to soak up, and all the laughter Anderson piles on top of the thematics means there's plenty to miss. Inherent Vice is a high grain strain: Provocative, hilarious, and its own breed of weird.\" Collider's Adam Chitwood named it one of the top ten films of 2014.</p><p>The film was ranked 75th in a survey of 177 critics conducted by the BBC in 2016 to determine the 100 best films of the 21st century.</p><h4>Top ten lists</h4><p>Inherent Vice was listed on many film critics' top ten lists of 2014 films.</p><ul><li>1st: Drew McWeeny, HitFix</li><li>1st: Glenn Kenny & Matt Zoller Seitz, RogerEbert.com</li><li>1st: Ben Kenigsberg, The A.V. Club</li><li>1st: Jordan Raup, The Film Stage</li><li>2nd: RogerEbert.com</li><li>2nd: J. Hoberman, Artforum</li><li>2nd: Sasha Stone, Awards Daily</li><li>2nd: Marlow Stern, The Daily Beast</li><li>2nd: David Ehrlich, Little White Lies</li><li>2nd: Mark Olsen, Los Angeles Times</li><li>3rd: Keith Phipps, The Dissolve</li><li>3rd: The Guardian</li><li>3rd: Elizabeth Weitzman, New York Daily News</li><li>3rd: Kristopher Tapley, HitFix</li><li>3rd: Andrew O'Hehir, Salon</li><li>4th: Scott Foundas, Variety</li><li>5th: Wesley Morris, Grantland</li><li>5th: Brian Tallerico, RogerEbert.com</li><li>5th: Adam Chitwood, Collider</li><li>5th: Gregory Ellwood, HitFix</li><li>5th: Kimberly Jones, Austin Chronicle</li><li>6th: Jake Coyle, Associated Press</li><li>6th: Alison Willmore, BuzzFeed</li><li>7th: Cahiers du Cin\u00e9ma</li><li>8th: Ty Burr, The Boston Globe</li><li>9th: William Bibbiani, CraveOnline</li><li>9th: Sight & Sound</li><li>9th: David Ansen, The Village Voice</li><li>9th: Betsy Sharkey, Los Angeles Times (tied with A Most Violent Year)</li><li>10th: Eric Kohn, IndieWire</li><li>10th: Harry Knowles, Ain't It Cool News</li><li>10th: Joshua Rothkopf, Time Out New York</li><li>Best of 2014 (listed alphabetically, not ranked): Manohla Dargis, The New York Times</li></ul><br/><h3>Accolades</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th scope=\"col\">Award</th><th scope=\"col\">Date of ceremony</th><th scope=\"col\">Category</th><th scope=\"col\">Recipients</th><th scope=\"col\">Result</th><th scope=\"col\"><abbr title=\"References\">Ref.</abbr></th></tr><tr><td rowspan=\"2\"><span>87th Academy Awards</span></td><td rowspan=\"2\">February 22, 2015</td><td><span>Best Adapted Screenplay</span></td><td><span>Paul Thomas Anderson</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"2\"></td></tr><tr><td><span>Best Costume Design</span></td><td><span>Mark Bridges</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>ACE Eddie Awards</span></td><td>January 30, 2015</td><td><span>Best Edited Feature Film \u2013 Comedy or Musical</span></td><td><span>Leslie Jones</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr><tr><td><span>Art Directors Guild Awards</span></td><td>January 31, 2015</td><td><span>Excellence in Production Design for a Period Film</span></td><td>David Crank</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr><tr><td rowspan=\"1\">Boston Online Film Critics Association</td><td rowspan=\"1\">December 6, 2014</td><td colspan=\"2\">The Ten Best Films of the Year</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td></td></tr><tr><td rowspan=\"1\"><span>Boston Society of Film Critics</span></td><td rowspan=\"1\"><span>December 7, 2014</span></td><td>Best Use of Music in a Film</td><td><span>Jonny Greenwood</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td></td></tr><tr><td rowspan=\"2\">Central Ohio Film Critics Association</td><td rowspan=\"2\">January 8, 2015</td><td>Best Supporting Actor</td><td>Josh Brolin</td><td style=\"background:#c5d2ea; color:black; vertical-align:middle; text-align:center;\" class=\"table-draw\">Runner-up (tie)</td><td rowspan=\"2\"></td></tr><tr><td>Best Adapted Screenplay</td><td>Paul Thomas Anderson</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Costume Designers Guild</span></td><td>February 17, 2015</td><td>Excellence in Period Film</td><td><span>Mark Bridges</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr><tr><td rowspan=\"4\"><span class=\"mw-redirect\">Critics' Choice Movie Award</span></td><td rowspan=\"4\"><span>January 15, 2015</span></td><td><span>Best Supporting Actor</span></td><td><span>Josh Brolin</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"4\"></td></tr><tr><td><span>Best Adapted Screenplay</span></td><td><span>Paul Thomas Anderson</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Art Direction</span></td><td>David Crank<br>Amy Wells</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Costume Design</span></td><td><span>Mark Bridges</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"6\">Denver Film Critics Society</td><td rowspan=\"6\">January 12, 2015</td><td>Best Picture</td><td><i>Inherent Vice</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"6\"></td></tr><tr><td>Best Director</td><td>Paul Thomas Anderson</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Supporting Actor</td><td>Josh Brolin</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Supporting Actress</td><td>Katherine Waterston</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Adapted Screenplay</td><td>Paul Thomas Anderson</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Best Score</td><td>Jonny Greenwood</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"1\"><span class=\"mw-redirect\">Film Independent Spirit Awards</span></td><td rowspan=\"1\"><span>February 21, 2015</span></td><td colspan=\"2\">Robert Altman Award</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td></td></tr><tr><td rowspan=\"3\">Georgia Film Critics Association</td><td rowspan=\"3\">January 9, 2015</td><td>Best Adapted Screenplay</td><td>Paul Thomas Anderson</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"3\"></td></tr><tr><td>Best Cinematography</td><td>Robert Elswit</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Production Design</td><td>David Crank</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span class=\"mw-redirect\">Golden Globe Awards</span></td><td><span>January 11, 2015</span></td><td><span>Best Actor in a Motion Picture \u2013 Musical or Comedy</span></td><td><span>Joaquin Phoenix</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr><tr><td rowspan=\"5\"><span>Houston Film Critics Society Awards</span></td><td rowspan=\"5\"><span>January 12, 2015</span></td><td>Best Picture</td><td><i>Inherent Vice</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"5\"></td></tr><tr><td>Best Director</td><td>Paul Thomas Anderson</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Supporting Actor</td><td>Josh Brolin</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Cinematography</td><td>Robert Elswit</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Poster</td><td><i>Inherent Vice</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"1\"><span>International Film Music Critics Association</span> Awards</td><td rowspan=\"1\">February 19, 2015</td><td>Best Original Score for an Action/Adventure/Thriller Film</td><td>Jonny Greenwood</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr><tr><td rowspan=\"1\"><span>London Film Critics' Circle</span></td><td rowspan=\"1\"><span>January 18, 2015</span></td><td>Technical Achievement Award</td><td>Mark Bridges <small>(costumes)</small></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr><tr><td rowspan=\"1\"><span>Los Angeles Film Critics Association</span></td><td rowspan=\"1\"><span>December 7, 2014</span></td><td><span>Best Music Score</span> <span style=\"font-size:85%;\">(tied with <span>Mica Levi</span> for <i><span>Under the Skin</span></i>)</span></td><td><span>Jonny Greenwood</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td></td></tr><tr><td rowspan=\"2\"><span>National Board of Review</span></td><td rowspan=\"2\"><span>January 6, 2015</span></td><td colspan=\"2\"><span>Top 10 Films</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td rowspan=\"2\"></td></tr><tr><td><span>Best Adapted Screenplay</span></td><td><span>Paul Thomas Anderson</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"3\"><span class=\"mw-redirect\">San Francisco Film Critics Circle</span></td><td rowspan=\"3\"><span>December 14, 2014</span></td><td><span class=\"mw-redirect\">Best Adapted Screenplay</span></td><td>Paul Thomas Anderson</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td rowspan=\"3\"></td></tr><tr><td>Best Production Design</td><td>David Crank</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td>Best Editing</td><td>Leslie Jones</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"3\"><span class=\"mw-redirect\">Satellite Award</span></td><td rowspan=\"3\"><span>February 15, 2015</span></td><td><span>Best Supporting Actress</span></td><td><span>Katherine Waterston</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"3\"></td></tr><tr><td><span>Best Adapted Screenplay</span></td><td><span>Paul Thomas Anderson</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Cinematography</span></td><td><span>Robert Elswit</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"2\"><span class=\"mw-redirect\">Saturn Award</span></td><td rowspan=\"2\"><span>June 25, 2015</span></td><td><span>Best Action or Adventure Film</span></td><td><i>Inherent Vice</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr><tr><td><span>Best Supporting Actor</span></td><td><span>Josh Brolin</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr><tr><td><span>USC Scripter Award</span></td><td>January 31, 2015</td><td>Best Adapted Screenplay</td><td>Paul Thomas Anderson</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td></td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt1791528",
+        "title": "Inherent Vice",
+        "fullTitle": "Inherent Vice (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "posters": [
+            {
+                "id": "hyan5Uc0lGpPuad94DM1pLxneiP.jpg",
+                "link": "https://imdb-api.com/posters/original/hyan5Uc0lGpPuad94DM1pLxneiP.jpg",
+                "aspectRatio": 0.6912408759124088,
+                "language": "en",
+                "width": 1894,
+                "height": 2740
+            },
+            {
+                "id": "7XhdTcivvkNcdAXrEijgh0Eoabb.jpg",
+                "link": "https://imdb-api.com/posters/original/7XhdTcivvkNcdAXrEijgh0Eoabb.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdors": [
+            {
+                "id": "zwC3N0QQC2OCPDz2UWKNoq5vXm7.jpg",
+                "link": "https://imdb-api.com/posters/original/zwC3N0QQC2OCPDz2UWKNoq5vXm7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "LWbH9B30WtmYFeyGwkLjWuRmJb.jpg",
+                "link": "https://imdb-api.com/posters/original/LWbH9B30WtmYFeyGwkLjWuRmJb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "tARgXDKbpserFrUemU2nfV5N4Kn.jpg",
+                "link": "https://imdb-api.com/posters/original/tARgXDKbpserFrUemU2nfV5N4Kn.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "8sTIdZ5yevkDXJryi6S2wUxQf3O.jpg",
+                "link": "https://imdb-api.com/posters/original/8sTIdZ5yevkDXJryi6S2wUxQf3O.jpg",
+                "aspectRatio": 1.7775919732441472,
+                "language": "en",
+                "width": 2126,
+                "height": 1196
+            },
+            {
+                "id": "9jY8cUuwhKSbEiIpw0TZvcExWEn.jpg",
+                "link": "https://imdb-api.com/posters/original/9jY8cUuwhKSbEiIpw0TZvcExWEn.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "vM4Cb0pPZkeczky5s15SPKFteV1.jpg",
+                "link": "https://imdb-api.com/posters/original/vM4Cb0pPZkeczky5s15SPKFteV1.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "gdB7NhS3x5dj91w69mYZtz0ysdN.jpg",
+                "link": "https://imdb-api.com/posters/original/gdB7NhS3x5dj91w69mYZtz0ysdN.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "bh6Ml92Gf5IUbD5NU0oe9ZVAyPS.jpg",
+                "link": "https://imdb-api.com/posters/original/bh6Ml92Gf5IUbD5NU0oe9ZVAyPS.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "i3JWaHKWCSnHtQjEsjPxecrLE6d.jpg",
+                "link": "https://imdb-api.com/posters/original/i3JWaHKWCSnHtQjEsjPxecrLE6d.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "5J2uI2ktTvyTCR1fezTBg7UtYac.jpg",
+                "link": "https://imdb-api.com/posters/original/5J2uI2ktTvyTCR1fezTBg7UtYac.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "3RLJstFUi66EAHcenFLLoYaXMea.jpg",
+                "link": "https://imdb-api.com/posters/original/3RLJstFUi66EAHcenFLLoYaXMea.jpg",
+                "aspectRatio": 1.7776699029126213,
+                "language": "en",
+                "width": 3662,
+                "height": 2060
+            },
+            {
+                "id": "fuXPFJ4nreOyhfBOWSBZP2jjMac.jpg",
+                "link": "https://imdb-api.com/posters/original/fuXPFJ4nreOyhfBOWSBZP2jjMac.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "qjeGk7ipIpZNIm2SZd3833LsWzF.jpg",
+                "link": "https://imdb-api.com/posters/original/qjeGk7ipIpZNIm2SZd3833LsWzF.jpg",
+                "aspectRatio": 1.7780701754385966,
+                "language": "en",
+                "width": 2027,
+                "height": 1140
+            },
+            {
+                "id": "oCzrDY2H4ndI3YvaE8HjOgPhnca.jpg",
+                "link": "https://imdb-api.com/posters/original/oCzrDY2H4ndI3YvaE8HjOgPhnca.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt1791528",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt1791528",
+        "title": "Inherent Vice",
+        "fullTitle": "Inherent Vice (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "videoId": "vi4155813401",
+        "videoTitle": "\"Paranoia\" Trailer",
+        "videoDescription": "In 1970, drug-fueled Los Angeles detective Larry \"Doc\" Sportello investigates the disappearance of a former girlfriend.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTc1ODY4MjI2Nl5BMl5BanBnXkFtZTgwMjQxMjU2MzE@._V1_.jpg",
+        "uploadDate": "12/11/2014 10:11:29",
+        "link": "https://www.imdb.com/video/vi4155813401",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi4155813401/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$20,000,000 (estimated)",
+        "openingWeekendUSA": "$328,184, 14 December 2014",
+        "grossUSA": "$8,110,975",
+        "cumulativeWorldwideGross": "$14,710,975"
+    },
+    "tagline": "Love usually leads to trouble.",
+    "keywords": "ex boyfriend ex girlfriend relationship,drug trade,voice over narration,southern california,investigator",
+    "keywordList": [
+        "ex boyfriend ex girlfriend relationship",
+        "drug trade",
+        "voice over narration",
+        "southern california",
+        "investigator"
+    ],
+    "similars": [
+        {
+            "id": "tt1560747",
+            "title": "The Master",
+            "fullTitle": "The Master (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by the Cause and its charismatic leader.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Philip Seymour Hoffman, Joaquin Phoenix, Amy Adams",
+            "genres": "Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0118749",
+            "title": "Boogie Nights",
+            "fullTitle": "Boogie Nights (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BY2E2YWYxY2QtZmJmZi00MjJlLWFiYWItZTk5Y2IyMWQ1ZThhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of a young man's adventures in the California pornography industry of the late 1970s and early 1980s.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Mark Wahlberg, Julianne Moore, Burt Reynolds",
+            "genres": "Drama",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt0272338",
+            "title": "Punch-Drunk Love",
+            "fullTitle": "Punch-Drunk Love (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BYmE1OTY4NjgtYjcwNC00NWE4LWJiNGMtZmVhYTdlMWE1YzIxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A psychologically troubled novelty supplier is nudged towards a romance with an English woman, all the while being extorted by a phone-sex line run by a crooked mattress salesman, and purchasing stunning amounts of pudding.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Adam Sandler, Emily Watson, Philip Seymour Hoffman",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0119256",
+            "title": "Hard Eight",
+            "fullTitle": "Hard Eight (1996)",
+            "year": "1996",
+            "image": "https://imdb-api.com/images/original/MV5BY2E0Mjc3MWEtNjYxNC00Y2UwLThmNTQtYmUyMTIzMzE2MTMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Professional gambler Sydney teaches John the tricks of the trade. John does well until he falls for cocktail waitress Clementine.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Philip Baker Hall, John C. Reilly, Gwyneth Paltrow",
+            "genres": "Crime, Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0175880",
+            "title": "Magnolia",
+            "fullTitle": "Magnolia (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BZjk3YThkNDktNjZjMS00MTBiLTllNTAtYzkzMTU0N2QwYjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Tom Cruise, Jason Robards, Julianne Moore",
+            "genres": "Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt5776858",
+            "title": "Phantom Thread",
+            "fullTitle": "Phantom Thread (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMWJkNzBkM2UtYWFlMC00NmEwLTgxOGUtMjVmMzYyZjgyMmEzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Vicky Krieps, Daniel Day-Lewis, Lesley Manville",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0469494",
+            "title": "There Will Be Blood",
+            "fullTitle": "There Will Be Blood (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Daniel Day-Lewis, Paul Dano, Ciar\u00e1n Hinds",
+            "genres": "Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt2042568",
+            "title": "Inside Llewyn Davis",
+            "fullTitle": "Inside Llewyn Davis (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A week in the life of a young singer as he navigates the Greenwich Village folk scene of 1961.",
+            "directors": "Directors: Ethan Coen, Joel Coen",
+            "stars": "Oscar Isaac, Carey Mulligan, John Goodman",
+            "genres": "Comedy, Drama, Music",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt1019452",
+            "title": "A Serious Man",
+            "fullTitle": "A Serious Man (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BNGZkODlhMjktNzhhMC00YjFiLWJmODMtNjQwOGMzZjMxNTZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Larry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Though seeking meaning and answers amidst his turmoils, he seems to keep sinking.",
+            "directors": "Directors: Ethan Coen, Joel Coen",
+            "stars": "Michael Stuhlbarg, Richard Kind, Sari Lennick",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt0101410",
+            "title": "Barton Fink",
+            "fullTitle": "Barton Fink (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BMTgxMDMxMTctNDY0Zi00ZmNlLWFlYmQtODA2YjY4MDk4MjU1XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+            "directors": "Directors: Joel Coen, Ethan Coen",
+            "stars": "John Turturro, John Goodman, Judy Davis",
+            "genres": "Comedy, Drama, Thriller",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0090756",
+            "title": "Blue Velvet",
+            "fullTitle": "Blue Velvet (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BMWUwM2I2OTctOTRlNS00ZmRjLWI1NmEtNDc3Mjg0Zjg3Y2FiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+            "directors": "David Lynch",
+            "stars": "Isabella Rossellini, Kyle MacLachlan, Dennis Hopper",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0120601",
+            "title": "Being John Malkovich",
+            "fullTitle": "Being John Malkovich (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BYmUxY2MyOTQtYjRlMi00ZWEwLTkzODctZDMxNDcyNTFhYjNjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.",
+            "directors": "Spike Jonze",
+            "stars": "John Cusack, Cameron Diaz, Catherine Keener",
+            "genres": "Comedy, Drama, Fantasy",
+            "imDbRating": "7.7"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

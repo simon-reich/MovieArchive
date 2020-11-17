@@ -1,0 +1,2620 @@
+{
+    "id": "tt0096283",
+    "title": "My Neighbor Totoro",
+    "originalTitle": "Tonari no Totoro",
+    "fullTitle": "My Neighbor Totoro (1988)",
+    "type": "Movie",
+    "year": "1988",
+    "image": "https://imdb-api.com/images/original/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7090_AL_.jpg",
+    "releaseDate": "1988-04-16",
+    "runtimeMins": "86",
+    "runtimeStr": "1h 26mins",
+    "plot": "Two young girls, 10-year-old Satsuki and her 4-year-old sister Mei, move into a house in the country with their father to be closer to their hospitalized mother. Satsuki and Mei discover that the nearby forest is inhabited by magical creatures called Totoros (pronounced toe-toe-ro). They soon befriend these Totoros, and have several magical adventures.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #141 | 5 wins & 2 nominations.",
+    "directors": "Hayao Miyazaki",
+    "directorList": [
+        {
+            "id": "nm0594503",
+            "name": "Hayao Miyazaki"
+        }
+    ],
+    "writers": "Hayao Miyazaki",
+    "writerList": [
+        {
+            "id": "nm0594503",
+            "name": "Hayao Miyazaki"
+        }
+    ],
+    "stars": "Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto, Shigesato Itoi",
+    "starList": [
+        {
+            "id": "nm0847054",
+            "name": "Hitoshi Takagi"
+        },
+        {
+            "id": "nm0383022",
+            "name": "Noriko Hidaka"
+        },
+        {
+            "id": "nm0757076",
+            "name": "Chika Sakamoto"
+        },
+        {
+            "id": "nm0411790",
+            "name": "Shigesato Itoi"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0383022",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Noriko Hidaka",
+            "asCharacter": "Satsuki (voice)"
+        },
+        {
+            "id": "nm0757076",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chika Sakamoto",
+            "asCharacter": "Mei (voice)"
+        },
+        {
+            "id": "nm0411790",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shigesato Itoi",
+            "asCharacter": "Tatsuo Kusakabe (voice)"
+        },
+        {
+            "id": "nm0793585",
+            "image": "https://imdb-api.com/images/original/MV5BNTE1NDhkOTUtODMzZC00ZTE2LThkZjYtYmM2MjQwZTUwYzdiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0455_AL_.jpg",
+            "name": "Sumi Shimamoto",
+            "asCharacter": "Yasuko Kusakabe (voice)"
+        },
+        {
+            "id": "nm0457498",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tanie Kitabayashi",
+            "asCharacter": "Granny (voice)"
+        },
+        {
+            "id": "nm0847054",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hitoshi Takagi",
+            "asCharacter": "Totoro (voice)"
+        },
+        {
+            "id": "nm0555483",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Y\u00fbko Maruyama",
+            "asCharacter": "Kanta's Mother (voice)"
+        },
+        {
+            "id": "nm0913558",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Machiko Washio",
+            "asCharacter": "Sensei (voice)"
+        },
+        {
+            "id": "nm0840657",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Reiko Suzuki",
+            "asCharacter": "R\u00f4ba (voice)"
+        },
+        {
+            "id": "nm0386405",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Masashi Hirose",
+            "asCharacter": "Kanta's Father (voice)"
+        },
+        {
+            "id": "nm0023823",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Toshiyuki Amagasa",
+            "asCharacter": "Kanta (voice)"
+        },
+        {
+            "id": "nm0157133",
+            "image": "https://imdb-api.com/images/original/MV5BMTdmNDg3NmEtOGRhYy00YjA3LTljMWQtYjhmNTgwZmJmYWFhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0455_AL_.jpg",
+            "name": "Shigeru Chiba",
+            "asCharacter": "Kusakari-Otoko (voice)"
+        },
+        {
+            "id": "nm0851311",
+            "image": "https://imdb-api.com/images/original/MV5BNjA2ZjM3ZTMtNGZiMS00M2E2LWI1NjQtYTEzOGM5NTUzZDY5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Naoki Tatsuta",
+            "asCharacter": "Cat Bus / Additional Voices (voice)"
+        },
+        {
+            "id": "nm0850183",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tarako",
+            "asCharacter": "Additional Voices (voice)"
+        },
+        {
+            "id": "nm0632769",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tomohiro Nishimura",
+            "asCharacter": "Postal Messanger (voice)"
+        },
+        {
+            "id": "nm3588709",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mitsuko Ishida",
+            "asCharacter": "Additional Voices (voice)"
+        },
+        {
+            "id": "nm0477765",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chie K\u00f4jiro",
+            "asCharacter": "Additional Voices (voice) (as Chie Koujiro)"
+        },
+        {
+            "id": "nm8108902",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daiki Nakamura",
+            "asCharacter": "Man on Tractor (voice)"
+        },
+        {
+            "id": "nm0594730",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Y\u00fbko Mizutani",
+            "asCharacter": "Woman on Tractor (voice)"
+        },
+        {
+            "id": "nm0386235",
+            "image": "https://imdb-api.com/images/original/MV5BMGMwNzNkZjYtOTM2YS00MDJkLWEzNjgtNmRjMzA5MWM4ZjMxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Akiko Hiramatsu",
+            "asCharacter": "Additional Voices (voice)"
+        },
+        {
+            "id": "nm0649026",
+            "image": "https://imdb-api.com/images/original/MV5BZjJiNjBmZGMtNGUwNy00NmRhLWI4YjUtYmZhNGI0ZDc2ZmNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEzNjA2NzM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ikue \u00d4tani",
+            "asCharacter": "Additional Voices (voice)"
+        },
+        {
+            "id": "nm0266824",
+            "image": "https://imdb-api.com/images/original/MV5BMjAwNjM3NjY5MF5BMl5BanBnXkFtZTcwMjM4NTYwOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dakota Fanning",
+            "asCharacter": "Satsuki (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm1102577",
+            "image": "https://imdb-api.com/images/original/MV5BN2I3N2UwMzQtNjhlYy00NmEwLTgwMDgtNmY5MzNlOGE4NDQxXkEyXkFqcGdeQXVyNDIzOTc1MDY@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Elle Fanning",
+            "asCharacter": "Mei Kusakabe (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0004857",
+            "image": "https://imdb-api.com/images/original/MV5BZjU2OWU5ZGYtYWY0Ny00NTljLWFkNWQtZmYxN2Y3ZTc2MjdmXkEyXkFqcGdeQXVyMjQ5ODc0MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tim Daly",
+            "asCharacter": "Professor Kusakabe (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0140946",
+            "image": "https://imdb-api.com/images/original/MV5BMjEzMDkxNzc3N15BMl5BanBnXkFtZTcwNTE4NjIzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Pat Carroll",
+            "asCharacter": "Granny (voice)"
+        },
+        {
+            "id": "nm0758964",
+            "image": "https://imdb-api.com/images/original/MV5BMjE1Mzk3Njk0Nl5BMl5BanBnXkFtZTcwNTQ3NDMxMw@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Lea Salonga",
+            "asCharacter": "Mrs. Kusakabe (voice)"
+        },
+        {
+            "id": "nm0919798",
+            "image": "https://imdb-api.com/images/original/MV5BMjM2MzU2ODYxMV5BMl5BanBnXkFtZTgwMzQ3MjcwMjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Frank Welker",
+            "asCharacter": "Totoro / Catbus (voice)"
+        },
+        {
+            "id": "nm0124703",
+            "image": "https://imdb-api.com/images/original/MV5BYTMxNzk3MzQtZmIwMS00MDAwLWEwYjctMWUzZTg0NzZjOTM1XkEyXkFqcGdeQXVyNjY3NTI0Mg@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Paul Butcher",
+            "asCharacter": "Kanta (voice)"
+        },
+        {
+            "id": "nm0012208",
+            "image": "https://imdb-api.com/images/original/MV5BMjAwODY4OTExNV5BMl5BanBnXkFtZTcwMzMyMDk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Matt Adler",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0018646",
+            "image": "https://imdb-api.com/images/original/MV5BNzI2Mzc2MzkzOF5BMl5BanBnXkFtZTgwMTk3NjU1NjE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Newell Alexander",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0585651",
+            "image": "https://imdb-api.com/images/original/MV5BNWNlNWYyMDQtMTE1YS00ZjFlLTgxZTgtZDM2MjkwOGI2ODJmL2ltYWdlXkEyXkFqcGdeQXVyNTY2NTEwOTY@._V1_Ratio0.9091_AL_.jpg",
+            "name": "David Midthunder",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0458133",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kristin Klabunde",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0002262",
+            "image": "https://imdb-api.com/images/original/MV5BMTE0NTYwY2UtMWZjMS00NzJhLWJjMzgtNDYxODkxZGE0MWM0XkEyXkFqcGdeQXVyMzAwNTg5Mw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "J.P. Manoux",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0754513",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwMzM4NzI5Nl5BMl5BanBnXkFtZTcwNjMyNzIzMQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Evan Sabara",
+            "asCharacter": "Boy / Additional Voices (2005 Disney Version) (voice)"
+        },
+        {
+            "id": "nm0815718",
+            "image": "https://imdb-api.com/images/original/MV5BMTg1NjA1NDExMl5BMl5BanBnXkFtZTcwOTQ3ODUwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kath Soucie",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0751757",
+            "image": "https://imdb-api.com/images/original/MV5BYjYzNTY5MjYtZTI0OC00MTJhLWFkOGYtNGViYTkxNzBiY2EzXkEyXkFqcGdeQXVyMjE1NTM0MTE@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Yvonne Russo",
+            "asCharacter": "Various Voices (voice)"
+        },
+        {
+            "id": "nm0853122",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1ODEwNTIxNV5BMl5BanBnXkFtZTcwNjA4ODkxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Russi Taylor",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm1567267",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Toochis Morin",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0719115",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Renaday",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0167139",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwNzQ2MzEtOWFiMi00YWJiLWE4ZjEtNjMxNGQwNmJkYmVjXkEyXkFqcGdeQXVyMTM0OTAzOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Clotworthy",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0635846",
+            "image": "https://imdb-api.com/images/original/MV5BNTE4YTU1ODgtNDgzMy00MTEwLWExNTgtZDk1ZDI0NTYxMWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kimberly Guerrero",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0033977",
+            "image": "https://imdb-api.com/images/original/MV5BZmIwZTE0NmItMDE1Mi00NDY2LTlmMDQtOTRmYWYyOTlhY2I4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Bridget Hoffman",
+            "asCharacter": "Additional Voices (voice)"
+        },
+        {
+            "id": "nm0565647",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxMDE2NTY1M15BMl5BanBnXkFtZTYwODgyMTk1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Zahn McClarnon",
+            "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+        },
+        {
+            "id": "nm0676870",
+            "image": "https://imdb-api.com/images/original/MV5BMjcwNDlkNDctM2JhMS00MTQyLWJkZTEtZTk0NzFhN2M5MTA2XkEyXkFqcGdeQXVyMjYzNTcxNjc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Katelin Petersen",
+            "asCharacter": "Girl / Additional Voices (2005 Disney Version) (voice)"
+        },
+        {
+            "id": "nm0650525",
+            "image": "https://imdb-api.com/images/original/MV5BNzNkMDI4MmEtMjUyNC00NmVkLTk3YzctYzdlYTM4ZmVhZWM5XkEyXkFqcGdeQXVyMjczOTQ1NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ashley Rose",
+            "asCharacter": "Girl / Additional Voices (voice) (as Ashley Rose Orr)"
+        },
+        {
+            "id": "nm0585126",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lisa Michelson",
+            "asCharacter": "Satsuki Kasukabe (Troma version) (voice)"
+        },
+        {
+            "id": "nm0153719",
+            "image": "https://imdb-api.com/images/original/MV5BMjE5NTgxNDQzNV5BMl5BanBnXkFtZTgwNzM5NzY5ODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Cheryl Chase",
+            "asCharacter": "Mei Kusakabe (Troma version) (voice)"
+        },
+        {
+            "id": "nm0810987",
+            "image": "https://imdb-api.com/images/original/MV5BY2U1OGQ1ZmYtMTQ0OC00Zjk2LWEzYmQtYzczYjEyOTczYjcyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Gregory Snegoff",
+            "asCharacter": "Prof. Kusakabe / Additional Voices (Troma version) (voice)"
+        },
+        {
+            "id": "nm0363418",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kenneth Hartman",
+            "asCharacter": "Kanta (Troma version) (voice)"
+        },
+        {
+            "id": "nm0448962",
+            "image": "https://imdb-api.com/images/original/MV5BYjVhNDg4Y2ItZTVlNC00Y2VlLTg3MzktODZjOTk5NDYxNTcyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Alexandra Kenworthy",
+            "asCharacter": "Mrs. Kusakabe (Troma version) (voice)"
+        },
+        {
+            "id": "nm0179702",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Natalie Core",
+            "asCharacter": "Nanny (Troma version) (voice)"
+        },
+        {
+            "id": "nm0469674",
+            "image": "https://imdb-api.com/images/original/MV5BOWE5N2Y0MmQtMmRlNS00OGIxLWJlMjUtNTg2MTZjODQwNzU5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steve Kramer",
+            "asCharacter": "Kanta's Father / Old Farmer (Troma version) (voice)"
+        },
+        {
+            "id": "nm0168594",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lara Cody",
+            "asCharacter": "Female Motorist / Bus Attendant (Troma version) (voice)"
+        },
+        {
+            "id": "nm0504057",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Melanie MacQueen",
+            "asCharacter": "Kanta's Mother (Troma version) (voice)"
+        },
+        {
+            "id": "nm0369981",
+            "image": "https://imdb-api.com/images/original/MV5BMTg4NDczMjcyMF5BMl5BanBnXkFtZTcwNTA3MjYzMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Brianne Brozey",
+            "asCharacter": "Michiko (Troma version) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0532146",
+            "image": "https://imdb-api.com/images/original/MV5BZmUyYzgwODgtN2UwZS00OTQ5LTgwZjgtYmU1YmQ3YTU1MjA0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Carl Macek",
+            "asCharacter": "Catbus Announcement (Troma version) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0534134",
+            "image": "https://imdb-api.com/images/original/MV5BMTQxMTQ1NzY5N15BMl5BanBnXkFtZTcwMDY5NDUwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tress MacNeille",
+            "asCharacter": "Miss Hara (2005 Disney version) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0536748",
+            "image": "https://imdb-api.com/images/original/MV5BYzJhYTE2NzMtZjgyMC00NmRhLWFjNzAtMGY4YWFhMGJkODllXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Kerrigan Mahan",
+            "asCharacter": "Male Motorist / Searcher 2 (Troma version) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0592437",
+            "image": "https://imdb-api.com/images/original/MV5BODkxZDY0NTYtY2Y0ZC00OTEyLTg3ZTQtMjI1NTFkOGQzMzVmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Edie Mirman",
+            "asCharacter": "Old Woman / Teacher (Troma version) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0422849",
+            "image": "https://imdb-api.com/images/original/MV5BYjVkMGNlMTQtNzFjOS00Y2M1LTk2NTAtMDllYTFiNzMzYzA2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Doug Stone",
+            "asCharacter": "Mailman / Searcher 1 (Troma version) (voice) (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0096283",
+        "title": "My Neighbor Totoro",
+        "fullTitle": "My Neighbor Totoro (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0594503",
+                    "name": "Hayao Miyazaki",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0594503",
+                    "name": "Hayao Miyazaki",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0383022",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Noriko Hidaka",
+                "asCharacter": "Satsuki (voice)"
+            },
+            {
+                "id": "nm0757076",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Chika Sakamoto",
+                "asCharacter": "Mei (voice)"
+            },
+            {
+                "id": "nm0411790",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Shigesato Itoi",
+                "asCharacter": "Tatsuo Kusakabe (voice)"
+            },
+            {
+                "id": "nm0793585",
+                "image": "https://imdb-api.com/images/original/MV5BNTE1NDhkOTUtODMzZC00ZTE2LThkZjYtYmM2MjQwZTUwYzdiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0455_AL_.jpg",
+                "name": "Sumi Shimamoto",
+                "asCharacter": "Yasuko Kusakabe (voice)"
+            },
+            {
+                "id": "nm0457498",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tanie Kitabayashi",
+                "asCharacter": "Granny (voice)"
+            },
+            {
+                "id": "nm0847054",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hitoshi Takagi",
+                "asCharacter": "Totoro (voice)"
+            },
+            {
+                "id": "nm0555483",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Y\u00fbko Maruyama",
+                "asCharacter": "Kanta's Mother (voice)"
+            },
+            {
+                "id": "nm0913558",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Machiko Washio",
+                "asCharacter": "Sensei (voice)"
+            },
+            {
+                "id": "nm0840657",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Reiko Suzuki",
+                "asCharacter": "R\u00f4ba (voice)"
+            },
+            {
+                "id": "nm0386405",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Masashi Hirose",
+                "asCharacter": "Kanta's Father (voice)"
+            },
+            {
+                "id": "nm0023823",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Toshiyuki Amagasa",
+                "asCharacter": "Kanta (voice)"
+            },
+            {
+                "id": "nm0157133",
+                "image": "https://imdb-api.com/images/original/MV5BMTdmNDg3NmEtOGRhYy00YjA3LTljMWQtYjhmNTgwZmJmYWFhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0455_AL_.jpg",
+                "name": "Shigeru Chiba",
+                "asCharacter": "Kusakari-Otoko (voice)"
+            },
+            {
+                "id": "nm0851311",
+                "image": "https://imdb-api.com/images/original/MV5BNjA2ZjM3ZTMtNGZiMS00M2E2LWI1NjQtYTEzOGM5NTUzZDY5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Naoki Tatsuta",
+                "asCharacter": "Cat Bus / Additional Voices (voice)"
+            },
+            {
+                "id": "nm0850183",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tarako",
+                "asCharacter": "Additional Voices (voice)"
+            },
+            {
+                "id": "nm0632769",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tomohiro Nishimura",
+                "asCharacter": "Postal Messanger (voice)"
+            },
+            {
+                "id": "nm3588709",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mitsuko Ishida",
+                "asCharacter": "Additional Voices (voice)"
+            },
+            {
+                "id": "nm0477765",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Chie K\u00f4jiro",
+                "asCharacter": "Additional Voices (voice) (as Chie Koujiro)"
+            },
+            {
+                "id": "nm8108902",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Daiki Nakamura",
+                "asCharacter": "Man on Tractor (voice)"
+            },
+            {
+                "id": "nm0594730",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Y\u00fbko Mizutani",
+                "asCharacter": "Woman on Tractor (voice)"
+            },
+            {
+                "id": "nm0386235",
+                "image": "https://imdb-api.com/images/original/MV5BMGMwNzNkZjYtOTM2YS00MDJkLWEzNjgtNmRjMzA5MWM4ZjMxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Akiko Hiramatsu",
+                "asCharacter": "Additional Voices (voice)"
+            },
+            {
+                "id": "nm0649026",
+                "image": "https://imdb-api.com/images/original/MV5BZjJiNjBmZGMtNGUwNy00NmRhLWI4YjUtYmZhNGI0ZDc2ZmNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEzNjA2NzM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ikue \u00d4tani",
+                "asCharacter": "Additional Voices (voice)"
+            },
+            {
+                "id": "nm0266824",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwNjM3NjY5MF5BMl5BanBnXkFtZTcwMjM4NTYwOQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dakota Fanning",
+                "asCharacter": "Satsuki (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm1102577",
+                "image": "https://imdb-api.com/images/original/MV5BN2I3N2UwMzQtNjhlYy00NmEwLTgwMDgtNmY5MzNlOGE4NDQxXkEyXkFqcGdeQXVyNDIzOTc1MDY@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Elle Fanning",
+                "asCharacter": "Mei Kusakabe (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0004857",
+                "image": "https://imdb-api.com/images/original/MV5BZjU2OWU5ZGYtYWY0Ny00NTljLWFkNWQtZmYxN2Y3ZTc2MjdmXkEyXkFqcGdeQXVyMjQ5ODc0MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Tim Daly",
+                "asCharacter": "Professor Kusakabe (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0140946",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzMDkxNzc3N15BMl5BanBnXkFtZTcwNTE4NjIzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Pat Carroll",
+                "asCharacter": "Granny (voice)"
+            },
+            {
+                "id": "nm0758964",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1Mzk3Njk0Nl5BMl5BanBnXkFtZTcwNTQ3NDMxMw@@._V1_Ratio1.4545_AL_.jpg",
+                "name": "Lea Salonga",
+                "asCharacter": "Mrs. Kusakabe (voice)"
+            },
+            {
+                "id": "nm0919798",
+                "image": "https://imdb-api.com/images/original/MV5BMjM2MzU2ODYxMV5BMl5BanBnXkFtZTgwMzQ3MjcwMjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Frank Welker",
+                "asCharacter": "Totoro / Catbus (voice)"
+            },
+            {
+                "id": "nm0124703",
+                "image": "https://imdb-api.com/images/original/MV5BYTMxNzk3MzQtZmIwMS00MDAwLWEwYjctMWUzZTg0NzZjOTM1XkEyXkFqcGdeQXVyNjY3NTI0Mg@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Paul Butcher",
+                "asCharacter": "Kanta (voice)"
+            },
+            {
+                "id": "nm0012208",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwODY4OTExNV5BMl5BanBnXkFtZTcwMzMyMDk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Matt Adler",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0018646",
+                "image": "https://imdb-api.com/images/original/MV5BNzI2Mzc2MzkzOF5BMl5BanBnXkFtZTgwMTk3NjU1NjE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Newell Alexander",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0585651",
+                "image": "https://imdb-api.com/images/original/MV5BNWNlNWYyMDQtMTE1YS00ZjFlLTgxZTgtZDM2MjkwOGI2ODJmL2ltYWdlXkEyXkFqcGdeQXVyNTY2NTEwOTY@._V1_Ratio0.9091_AL_.jpg",
+                "name": "David Midthunder",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0458133",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kristin Klabunde",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0002262",
+                "image": "https://imdb-api.com/images/original/MV5BMTE0NTYwY2UtMWZjMS00NzJhLWJjMzgtNDYxODkxZGE0MWM0XkEyXkFqcGdeQXVyMzAwNTg5Mw@@._V1_Ratio0.8182_AL_.jpg",
+                "name": "J.P. Manoux",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0754513",
+                "image": "https://imdb-api.com/images/original/MV5BMTQwMzM4NzI5Nl5BMl5BanBnXkFtZTcwNjMyNzIzMQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Evan Sabara",
+                "asCharacter": "Boy / Additional Voices (2005 Disney Version) (voice)"
+            },
+            {
+                "id": "nm0815718",
+                "image": "https://imdb-api.com/images/original/MV5BMTg1NjA1NDExMl5BMl5BanBnXkFtZTcwOTQ3ODUwOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kath Soucie",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0751757",
+                "image": "https://imdb-api.com/images/original/MV5BYjYzNTY5MjYtZTI0OC00MTJhLWFkOGYtNGViYTkxNzBiY2EzXkEyXkFqcGdeQXVyMjE1NTM0MTE@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Yvonne Russo",
+                "asCharacter": "Various Voices (voice)"
+            },
+            {
+                "id": "nm0853122",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1ODEwNTIxNV5BMl5BanBnXkFtZTcwNjA4ODkxOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Russi Taylor",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm1567267",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Toochis Morin",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0719115",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Peter Renaday",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0167139",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwNzQ2MzEtOWFiMi00YWJiLWE4ZjEtNjMxNGQwNmJkYmVjXkEyXkFqcGdeQXVyMTM0OTAzOQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Robert Clotworthy",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0635846",
+                "image": "https://imdb-api.com/images/original/MV5BNTE4YTU1ODgtNDgzMy00MTEwLWExNTgtZDk1ZDI0NTYxMWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kimberly Guerrero",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0033977",
+                "image": "https://imdb-api.com/images/original/MV5BZmIwZTE0NmItMDE1Mi00NDY2LTlmMDQtOTRmYWYyOTlhY2I4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Bridget Hoffman",
+                "asCharacter": "Additional Voices (voice)"
+            },
+            {
+                "id": "nm0565647",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxMDE2NTY1M15BMl5BanBnXkFtZTYwODgyMTk1._V1_Ratio0.7273_AL_.jpg",
+                "name": "Zahn McClarnon",
+                "asCharacter": "Additional Voices (2005 Disney version) (voice)"
+            },
+            {
+                "id": "nm0676870",
+                "image": "https://imdb-api.com/images/original/MV5BMjcwNDlkNDctM2JhMS00MTQyLWJkZTEtZTk0NzFhN2M5MTA2XkEyXkFqcGdeQXVyMjYzNTcxNjc@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Katelin Petersen",
+                "asCharacter": "Girl / Additional Voices (2005 Disney Version) (voice)"
+            },
+            {
+                "id": "nm0650525",
+                "image": "https://imdb-api.com/images/original/MV5BNzNkMDI4MmEtMjUyNC00NmVkLTk3YzctYzdlYTM4ZmVhZWM5XkEyXkFqcGdeQXVyMjczOTQ1NQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ashley Rose",
+                "asCharacter": "Girl / Additional Voices (voice) (as Ashley Rose Orr)"
+            },
+            {
+                "id": "nm0585126",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lisa Michelson",
+                "asCharacter": "Satsuki Kasukabe (Troma version) (voice)"
+            },
+            {
+                "id": "nm0153719",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5NTgxNDQzNV5BMl5BanBnXkFtZTgwNzM5NzY5ODE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Cheryl Chase",
+                "asCharacter": "Mei Kusakabe (Troma version) (voice)"
+            },
+            {
+                "id": "nm0810987",
+                "image": "https://imdb-api.com/images/original/MV5BY2U1OGQ1ZmYtMTQ0OC00Zjk2LWEzYmQtYzczYjEyOTczYjcyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Gregory Snegoff",
+                "asCharacter": "Prof. Kusakabe / Additional Voices (Troma version) (voice)"
+            },
+            {
+                "id": "nm0363418",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kenneth Hartman",
+                "asCharacter": "Kanta (Troma version) (voice)"
+            },
+            {
+                "id": "nm0448962",
+                "image": "https://imdb-api.com/images/original/MV5BYjVhNDg4Y2ItZTVlNC00Y2VlLTg3MzktODZjOTk5NDYxNTcyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Alexandra Kenworthy",
+                "asCharacter": "Mrs. Kusakabe (Troma version) (voice)"
+            },
+            {
+                "id": "nm0179702",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Natalie Core",
+                "asCharacter": "Nanny (Troma version) (voice)"
+            },
+            {
+                "id": "nm0469674",
+                "image": "https://imdb-api.com/images/original/MV5BOWE5N2Y0MmQtMmRlNS00OGIxLWJlMjUtNTg2MTZjODQwNzU5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Steve Kramer",
+                "asCharacter": "Kanta's Father / Old Farmer (Troma version) (voice)"
+            },
+            {
+                "id": "nm0168594",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lara Cody",
+                "asCharacter": "Female Motorist / Bus Attendant (Troma version) (voice)"
+            },
+            {
+                "id": "nm0504057",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Melanie MacQueen",
+                "asCharacter": "Kanta's Mother (Troma version) (voice)"
+            },
+            {
+                "id": "nm0369981",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4NDczMjcyMF5BMl5BanBnXkFtZTcwNTA3MjYzMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Brianne Brozey",
+                "asCharacter": "Michiko (Troma version) (voice) (uncredited)"
+            },
+            {
+                "id": "nm0532146",
+                "image": "https://imdb-api.com/images/original/MV5BZmUyYzgwODgtN2UwZS00OTQ5LTgwZjgtYmU1YmQ3YTU1MjA0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Carl Macek",
+                "asCharacter": "Catbus Announcement (Troma version) (voice) (uncredited)"
+            },
+            {
+                "id": "nm0534134",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxMTQ1NzY5N15BMl5BanBnXkFtZTcwMDY5NDUwOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Tress MacNeille",
+                "asCharacter": "Miss Hara (2005 Disney version) (voice) (uncredited)"
+            },
+            {
+                "id": "nm0536748",
+                "image": "https://imdb-api.com/images/original/MV5BYzJhYTE2NzMtZjgyMC00NmRhLWFjNzAtMGY4YWFhMGJkODllXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Kerrigan Mahan",
+                "asCharacter": "Male Motorist / Searcher 2 (Troma version) (voice) (uncredited)"
+            },
+            {
+                "id": "nm0592437",
+                "image": "https://imdb-api.com/images/original/MV5BODkxZDY0NTYtY2Y0ZC00OTEyLTg3ZTQtMjI1NTFkOGQzMzVmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Edie Mirman",
+                "asCharacter": "Old Woman / Teacher (Troma version) (voice) (uncredited)"
+            },
+            {
+                "id": "nm0422849",
+                "image": "https://imdb-api.com/images/original/MV5BYjVkMGNlMTQtNzFjOS00Y2M1LTk2NTAtMDllYTFiNzMzYzA2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Doug Stone",
+                "asCharacter": "Mailman / Searcher 1 (Troma version) (voice) (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0218760",
+                        "name": "Rick Dempsey",
+                        "description": "executive producer (US version)"
+                    },
+                    {
+                        "id": "nm0361701",
+                        "name": "Toru Hara",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm1566098",
+                        "name": "Ned Lott",
+                        "description": "producer (2005 Disney version)"
+                    },
+                    {
+                        "id": "nm1259616",
+                        "name": "Eiko Tanaka",
+                        "description": "line producer"
+                    },
+                    {
+                        "id": "nm0865807",
+                        "name": "Yasuyoshi Tokuma",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0386749",
+                        "name": "Joe Hisaishi",
+                        "description": "(as J\u00f4 Hisaishi)"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1147210",
+                        "name": "Mark Henley",
+                        "description": "(English version)"
+                    },
+                    {
+                        "id": "nm0794174",
+                        "name": "Hisao Shirai",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0786707",
+                        "name": "Takeshi Seyama",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm1566098",
+                        "name": "Ned Lott",
+                        "description": "(2005 version)"
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0644470",
+                        "name": "Kazuo Oga",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0133762",
+                        "name": "David Candiff",
+                        "description": "post-production manager (2005 Disney version)"
+                    },
+                    {
+                        "id": "nm1259616",
+                        "name": "Eiko Tanaka",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm1628149",
+                        "name": "Tetsuya Endo",
+                        "description": "assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0594503",
+                        "name": "Hayao Miyazaki",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm0594715",
+                        "name": "Nobuko Mizuta",
+                        "description": "color designer"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0038380",
+                        "name": "Naoko Asari",
+                        "description": "assistant recording director"
+                    },
+                    {
+                        "id": "nm0045344",
+                        "name": "Petra Bach",
+                        "description": "supervising adr editor (2005 Disney version)"
+                    },
+                    {
+                        "id": "nm1251024",
+                        "name": "Randy Coppinger",
+                        "description": "adr recordist (2005 Disney version)"
+                    },
+                    {
+                        "id": "nm0196980",
+                        "name": "Tom E. Dahl",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0298038",
+                        "name": "Koji Fukushima",
+                        "description": "recording staff"
+                    },
+                    {
+                        "id": "nm0409314",
+                        "name": "Shuji Inoue",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm0428071",
+                        "name": "Franklin Jones Jr.",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0437301",
+                        "name": "Doc Kane",
+                        "description": "adr mixer (2005 Disney version)"
+                    },
+                    {
+                        "id": "nm0464539",
+                        "name": "William Komar",
+                        "description": "adr recordist (2005 Disney version)"
+                    },
+                    {
+                        "id": "nm0648751",
+                        "name": "Hironori Ono",
+                        "description": "assistant sound effects editor"
+                    },
+                    {
+                        "id": "nm0766335",
+                        "name": "Kazutoshi Sat\u00f4",
+                        "description": "sound effects editor (as Kazutoshi Satou)"
+                    },
+                    {
+                        "id": "nm0793051",
+                        "name": "Shigeharu Shiba",
+                        "description": "sound director"
+                    },
+                    {
+                        "id": "nm2003152",
+                        "name": "Makoto Sumiya",
+                        "description": "recording staff"
+                    },
+                    {
+                        "id": "nm3602611",
+                        "name": "Akiyoshi Yoda",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm8447719",
+                        "name": "Rokur\u00f4 \u00d4tani",
+                        "description": "recording staff"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0849458",
+                        "name": "Kaoru Tanifuji",
+                        "description": "special effects"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0407476",
+                        "name": "Motoaki Ikegami",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm2017483",
+                        "name": "Shinji Ikegami",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm3970506",
+                        "name": "Kazumi Iketani",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm0411695",
+                        "name": "Hiroshi It\u00f4",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm3281287",
+                        "name": "Y\u00f4ichi Kuroda",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm2379277",
+                        "name": "Katsunori Maehara",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm3970693",
+                        "name": "Michiko Nanba",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm2781519",
+                        "name": "Hiroshi Noguchi",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm3730157",
+                        "name": "Kiyoshi Saeki",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm0794174",
+                        "name": "Hisao Shirai",
+                        "description": "production camera supervisor"
+                    },
+                    {
+                        "id": "nm3970585",
+                        "name": "Tomoko Sugiyama",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm3970690",
+                        "name": "Katsuji Suzuki",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm2792954",
+                        "name": "Noriko Suzuki",
+                        "description": "camera operator: Studio Cosmos"
+                    },
+                    {
+                        "id": "nm2012782",
+                        "name": "Tetsuo \u00d4fuji",
+                        "description": "camera operator: Studio Cosmos"
+                    }
+                ]
+            },
+            {
+                "job": "Animation Department",
+                "items": [
+                    {
+                        "id": "nm8447812",
+                        "name": "Junko Adachi",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm8447844",
+                        "name": "Tomoko Asahi",
+                        "description": "cel painter: Studio Step"
+                    },
+                    {
+                        "id": "nm0256864",
+                        "name": "Masaaki Endo",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm8178169",
+                        "name": "Yuka End\u00f4",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm8447808",
+                        "name": "Y\u00f4ko Fujino",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm3012537",
+                        "name": "Kazuko Fukutomi",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm0299400",
+                        "name": "Makiko Futaki",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm8447842",
+                        "name": "Hiromi Hanawa",
+                        "description": "cel painter: Studio Step"
+                    },
+                    {
+                        "id": "nm8176874",
+                        "name": "Tokuko Harada",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm2003008",
+                        "name": "Keiichiro Hattori",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm2425399",
+                        "name": "Ky\u00f4ko Higurashi",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm2004259",
+                        "name": "Junko Ina",
+                        "description": "background artist: Atelier BWCA"
+                    },
+                    {
+                        "id": "nm2474248",
+                        "name": "Akiko Ishii",
+                        "description": "inbetween animator: Anime Torotoro"
+                    },
+                    {
+                        "id": "nm8178161",
+                        "name": "K\u00f4ji It\u00f4",
+                        "description": "inbetween animator: Anime Torotoro"
+                    },
+                    {
+                        "id": "nm2183783",
+                        "name": "Norichika Iwakiri",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1069391",
+                        "name": "Emiko Iwayanagi",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm8447809",
+                        "name": "Toyoko Kajio",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm0437484",
+                        "name": "Yoshinori Kanada",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm0435370",
+                        "name": "Hidetoshi Kaneko",
+                        "description": "background artist: Atelier BWCA"
+                    },
+                    {
+                        "id": "nm0442743",
+                        "name": "Toshio Kawaguchi",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm2501670",
+                        "name": "Tadateru Kawamura",
+                        "description": "inbetween animator: Anime Torotoro"
+                    },
+                    {
+                        "id": "nm0454114",
+                        "name": "Shinji Kimura",
+                        "description": "background artist: Kobayashi Production"
+                    },
+                    {
+                        "id": "nm2375617",
+                        "name": "Naoki Kitamura",
+                        "description": "inbetween animator: Studio Fantasia"
+                    },
+                    {
+                        "id": "nm1069560",
+                        "name": "Komasa",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm0464891",
+                        "name": "Katsuya Kond\u00f4",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm1996942",
+                        "name": "Yuriko Kudo",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm0473797",
+                        "name": "Masaki Kud\u00f4",
+                        "description": "key animator: Madhouse"
+                    },
+                    {
+                        "id": "nm8447841",
+                        "name": "Yuki Ky\u00f4no",
+                        "description": "cel painter: Studio Step"
+                    },
+                    {
+                        "id": "nm3307801",
+                        "name": "Yukari Maeda",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm1069743",
+                        "name": "Kiyoko Makita",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm1684159",
+                        "name": "Riwako Matsui",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm2073778",
+                        "name": "Tsuyoshi Matsumuro",
+                        "description": "background artist: Kobayashi Production"
+                    },
+                    {
+                        "id": "nm2086580",
+                        "name": "Hajime Matsuoka",
+                        "description": "background artist"
+                    },
+                    {
+                        "id": "nm2073911",
+                        "name": "Yuko Matsuura",
+                        "description": "background artist: Atelier BWCA"
+                    },
+                    {
+                        "id": "nm0594516",
+                        "name": "Nagisa Miyazaki",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm1557207",
+                        "name": "Takayo Mizutani",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm2000389",
+                        "name": "Chiyomi Morisawa",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1455288",
+                        "name": "Shinji Morohashi",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm8176941",
+                        "name": "Mamoru Murao",
+                        "description": "cel painting technical assistance: J\u00f4sai Duplo"
+                    },
+                    {
+                        "id": "nm8447813",
+                        "name": "Yoshiko Murata",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1248775",
+                        "name": "Jun'ichi Nagano",
+                        "description": "inbetween animator: Studio Fantasia"
+                    },
+                    {
+                        "id": "nm2487354",
+                        "name": "Miwako Nakamura",
+                        "description": "cel checker"
+                    },
+                    {
+                        "id": "nm3725755",
+                        "name": "Kenji Narita",
+                        "description": "cel checker"
+                    },
+                    {
+                        "id": "nm0631561",
+                        "name": "Rie Niidome",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm8176865",
+                        "name": "Michiko Nishimaki",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1062733",
+                        "name": "Toshio Nozaki",
+                        "description": "background artist"
+                    },
+                    {
+                        "id": "nm2084607",
+                        "name": "Kumiko Ohtani",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm8433116",
+                        "name": "Miyoko Oka",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm2069666",
+                        "name": "Kazumi Okabe",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm0645423",
+                        "name": "Masakazu Okada",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm0645513",
+                        "name": "Tensai Okamura",
+                        "description": "key animator: Madhouse (as Yutaka Okamura)"
+                    },
+                    {
+                        "id": "nm2474323",
+                        "name": "Masayuki Ota",
+                        "description": "inbetween animator: Studio Fantasia"
+                    },
+                    {
+                        "id": "nm0652992",
+                        "name": "Nobuhiro Otsuka",
+                        "description": "background artist: Kobayashi Production"
+                    },
+                    {
+                        "id": "nm1258099",
+                        "name": "Kazutaka Ozaki",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm1454758",
+                        "name": "Masako Sakano",
+                        "description": "clean-up and inbetween artist / inbetween animator"
+                    },
+                    {
+                        "id": "nm0766287",
+                        "name": "Yoshiharu Sato",
+                        "description": "supervising animator"
+                    },
+                    {
+                        "id": "nm3889635",
+                        "name": "Yorimi Sawauchi",
+                        "description": "cel painter: Studio Step"
+                    },
+                    {
+                        "id": "nm8447845",
+                        "name": "Reiko Shibuya",
+                        "description": "cel painter: Studio Step"
+                    },
+                    {
+                        "id": "nm2001468",
+                        "name": "Ritsuko Shiina",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm1061923",
+                        "name": "Nobumasa Shinkawa",
+                        "description": "key animator: Madhouse"
+                    },
+                    {
+                        "id": "nm1062938",
+                        "name": "Masako Shinohara",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm1062940",
+                        "name": "Makoto Shiraishi",
+                        "description": "background artist: Kobayashi Production"
+                    },
+                    {
+                        "id": "nm2087030",
+                        "name": "Kiyoko Sugawara",
+                        "description": "background artist"
+                    },
+                    {
+                        "id": "nm8447843",
+                        "name": "Reiko Suzuki",
+                        "description": "cel painter: Studio Step"
+                    },
+                    {
+                        "id": "nm1261638",
+                        "name": "Yasuko Tachiki",
+                        "description": "animation checker"
+                    },
+                    {
+                        "id": "nm1557416",
+                        "name": "Hideko Tagawa",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm8176870",
+                        "name": "Y\u00fbki Takagi",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm8447810",
+                        "name": "Aiko Takahashi",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm2003246",
+                        "name": "Naomi Takahashi",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm3978434",
+                        "name": "Hiroe Takekura",
+                        "description": "cel painter: Studio Step"
+                    },
+                    {
+                        "id": "nm5306822",
+                        "name": "Naoko Takenawa",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm0847575",
+                        "name": "Y\u00f4ji Takeshige",
+                        "description": "background artist"
+                    },
+                    {
+                        "id": "nm2074805",
+                        "name": "Keiko Tamura",
+                        "description": "background artist: Atelier BWCA"
+                    },
+                    {
+                        "id": "nm8447811",
+                        "name": "Hatsue Tanaka",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm2748923",
+                        "name": "Makoto Tanaka",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm10480762",
+                        "name": "Ritsuko Tanaka",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm2083286",
+                        "name": "Sadahiko Tanaka",
+                        "description": "background artist: Kobayashi Production"
+                    },
+                    {
+                        "id": "nm1059563",
+                        "name": "Tsukasa Tannai",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm0851223",
+                        "name": "Hitomi Tateno",
+                        "description": "animation checker"
+                    },
+                    {
+                        "id": "nm0851230",
+                        "name": "Teruyo Tateyama",
+                        "description": "cel checker"
+                    },
+                    {
+                        "id": "nm1072204",
+                        "name": "Akiko Teshima",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm7387090",
+                        "name": "Mayumi Watabe",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1072215",
+                        "name": "Keiko Watanabe",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm1997183",
+                        "name": "Nobuko Watanabe",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm2145499",
+                        "name": "Aki Yamagata",
+                        "description": "inbetween animator"
+                    },
+                    {
+                        "id": "nm1070648",
+                        "name": "Akira Yamagawa",
+                        "description": "background artist: Atelier BWCA"
+                    },
+                    {
+                        "id": "nm1249414",
+                        "name": "Hir\u00f4mi Yamakawa",
+                        "description": "key animator"
+                    },
+                    {
+                        "id": "nm8447773",
+                        "name": "Tsuyoshi Yamamoto",
+                        "description": "inbetween animator: Studio Fantasia"
+                    },
+                    {
+                        "id": "nm3839216",
+                        "name": "Noriko Yamamura",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm8447807",
+                        "name": "Fumi Yamane",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1070653",
+                        "name": "Yukari Yamaura",
+                        "description": "inbetween animator: Anime Torotoro"
+                    },
+                    {
+                        "id": "nm8447806",
+                        "name": "Toki Yanagi",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1072230",
+                        "name": "Michiyo Yasuda",
+                        "description": "cel painter"
+                    },
+                    {
+                        "id": "nm8176880",
+                        "name": "Fujino Yonei",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1259592",
+                        "name": "Hajime Yoshida",
+                        "description": "inbetween animator: Studio Fantasia"
+                    },
+                    {
+                        "id": "nm8447804",
+                        "name": "Hisako Yoshida",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1311754",
+                        "name": "Masaki Yoshizaki",
+                        "description": "background artist"
+                    },
+                    {
+                        "id": "nm8447803",
+                        "name": "Michiko \u00d4ide",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm8447805",
+                        "name": "Naoko \u00d4kawa",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm1997856",
+                        "name": "Kiyomi \u00d4ta",
+                        "description": "background artist (as Kiyomi Ota)"
+                    },
+                    {
+                        "id": "nm8444148",
+                        "name": "Michiko \u00d4ta",
+                        "description": "cel painter: Studio Killy"
+                    },
+                    {
+                        "id": "nm0652994",
+                        "name": "Shinji \u00d4tsuka",
+                        "description": "key animator (as Shinji Otsuka)"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0010389",
+                        "name": "Hiroshi Adachi",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm1117867",
+                        "name": "Chris DeLaGuardia",
+                        "description": "color timer"
+                    },
+                    {
+                        "id": "nm1222651",
+                        "name": "Cory Hansen",
+                        "description": "post-production coordinator (2005 version)"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm1532092",
+                        "name": "Kaiulani Kidani",
+                        "description": "music transfer"
+                    },
+                    {
+                        "id": "nm8072709",
+                        "name": "K\u00f4ki Miura",
+                        "description": "music producer: Tokuma Japan"
+                    },
+                    {
+                        "id": "nm1532886",
+                        "name": "Eugene H. Saburi",
+                        "description": "music transfer"
+                    },
+                    {
+                        "id": "nm8447718",
+                        "name": "Takashi Watanabe",
+                        "description": "music producer: Tokuma Japan"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm8447725",
+                        "name": "Shigeru As\u00f4",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm1248357",
+                        "name": "Cindy Davis",
+                        "description": "adaptation: English version (as Cindy Davis Hewitt)"
+                    },
+                    {
+                        "id": "nm0218760",
+                        "name": "Rick Dempsey",
+                        "description": "dialogue director"
+                    },
+                    {
+                        "id": "nm1248358",
+                        "name": "Donald H. Hewitt",
+                        "description": "adaptation: English version"
+                    },
+                    {
+                        "id": "nm8433163",
+                        "name": "Hiroyuki It\u00f4",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm8143530",
+                        "name": "Osamu Kameyama",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm8433237",
+                        "name": "Akira Kaneko",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm8447720",
+                        "name": "Masahiro Kasuya",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm8433236",
+                        "name": "Hiroyuki Kat\u00f4",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm4104560",
+                        "name": "Toshiyuki Kawabata",
+                        "description": "production desk"
+                    },
+                    {
+                        "id": "nm1974136",
+                        "name": "Hirokatsu Kihara",
+                        "description": "production desk"
+                    },
+                    {
+                        "id": "nm8072715",
+                        "name": "Tomoko Kobayashi",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm8447723",
+                        "name": "Hisayoshi Kodaka",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm1566098",
+                        "name": "Ned Lott",
+                        "description": "additional voice director (2005 version)"
+                    },
+                    {
+                        "id": "nm0532146",
+                        "name": "Carl Macek",
+                        "description": "english producer"
+                    },
+                    {
+                        "id": "nm0585651",
+                        "name": "David Midthunder",
+                        "description": "voice"
+                    },
+                    {
+                        "id": "nm0605276",
+                        "name": "Mikio Mori",
+                        "description": "technical assistance: Far East Continental"
+                    },
+                    {
+                        "id": "nm0644470",
+                        "name": "Kazuo Oga",
+                        "description": "executive background stylist"
+                    },
+                    {
+                        "id": "nm0644519",
+                        "name": "Hideo Ogata",
+                        "description": "planner"
+                    },
+                    {
+                        "id": "nm8447724",
+                        "name": "Takao Sasaki",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm8447721",
+                        "name": "Hikogor\u00f4 Shiraishi",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm6235522",
+                        "name": "Takaaki Suzuki",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0840699",
+                        "name": "Toshio Suzuki",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm8447722",
+                        "name": "Minoru Tadokoro",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm10504993",
+                        "name": "Yoshio Tsuboike",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm0945636",
+                        "name": "Tatsumi Yamashita",
+                        "description": "planner"
+                    },
+                    {
+                        "id": "nm4659075",
+                        "name": "Michio Yokoo",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm8447726",
+                        "name": "Tetsuhiko Yoshida",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    },
+                    {
+                        "id": "nm6397576",
+                        "name": "Tsutomu \u00d4tsuka",
+                        "description": "production committee: Tokuma Shoten \"My Neighbor Totoro\""
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Animation, Family, Fantasy",
+    "genreList": [
+        {
+            "key": "Animation",
+            "value": "Animation"
+        },
+        {
+            "key": "Family",
+            "value": "Family"
+        },
+        {
+            "key": "Fantasy",
+            "value": "Fantasy"
+        }
+    ],
+    "companies": "Tokuma Japan Communications, Studio Ghibli, Nibariki",
+    "companyList": [
+        {
+            "id": "co0006071",
+            "name": "Tokuma Japan Communications"
+        },
+        {
+            "id": "co0048420",
+            "name": "Studio Ghibli"
+        },
+        {
+            "id": "co0205112",
+            "name": "Nibariki"
+        }
+    ],
+    "countries": "Japan",
+    "countryList": [
+        {
+            "key": "Japan",
+            "value": "Japan"
+        }
+    ],
+    "languages": "Japanese",
+    "languageList": [
+        {
+            "key": "Japanese",
+            "value": "Japanese"
+        }
+    ],
+    "contentRating": "G",
+    "imDbRating": "8.2",
+    "imDbRatingVotes": "264905",
+    "metacriticRating": "86",
+    "ratings": {
+        "imDbId": "tt0096283",
+        "title": "My Neighbor Totoro",
+        "fullTitle": "My Neighbor Totoro (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "imDb": "8.2",
+        "metacritic": "86",
+        "theMovieDb": "8.1",
+        "rottenTomatoes": "94",
+        "tV_com": "7.3",
+        "filmAffinity": "7.7",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0096283",
+        "title": "My Neighbor Totoro",
+        "fullTitle": "My Neighbor Totoro (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "language": "en",
+        "titleInLanguage": "My Neighbor Totoro",
+        "url": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+        "plotShort": {
+            "plainText": "My Neighbor Totoro\r\nMy Neighbor Totoro (Japanese: \u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed, Hepburn: Tonari no Totoro) is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten. The film\u2014which stars the voice actors Noriko Hidaka, Chika Sakamoto, and Hitoshi Takagi\u2014tells the story of the two young daughters (Satsuki and Mei) of a professor and their interactions with friendly wood spirits in postwar rural Japan. The film won the Animage Anime Grand Prix prize and the Mainichi Film Award and Kinema Junpo Award for Best Film in 1988. It also received the Special Award at the Blue Ribbon Awards in the same year.\r\nIn 1989, Streamline Pictures produced an exclusive dub for use on transpacific flights by Japan Airlines. Troma Films, under their 50th St. Films banner, distributed the dub of the film co-produced by Jerry Beck. This dub was released to United States theaters in 1993, on VHS and laserdisc in the United States by Fox Video in 1994, and on DVD in 2002. The rights to this dub expired in 2004, so it was re-released by Walt Disney Home Entertainment on March 7, 2006 with a new dub cast. This version was also released in Australia by Madman on March 15, 2006 and in the UK by Optimum Releasing on March 27, 2006. This DVD release is the first version of the film in the United States to include both Japanese and English language tracks.\r\nMy Neighbor Totoro was critically acclaimed and has amassed a worldwide cult following in the years after its release. The film and its titular character, Totoro, have become cultural icons. The film has grossed $45 million at the worldwide box office as of September 2019, in addition to generating approximately $277 million from home video sales and $1.142 billion from licensed merchandise sales, adding up to approximately $1.5 billion in total lifetime revenue.\r\nMy Neighbor Totoro ranked 41st in Empire magazine's \"The 100 Best Films Of World Cinema\" in 2010, and Totoro was ranked 18th on Empire's 50 Best Animated Film Characters list. A list of the greatest animated films in Time Out ranked the film number 1. A similar list compiled by the editors of Time Out ranked the film number 3. My Neighbor Totoro was also the highest-ranking animated film on the 2012 Sight & Sound critics' poll of all-time greatest films. The character made multiple cameo appearances in a number of Studio Ghibli films and video games and also serves as the mascot for the studio and is recognized as one of the most popular characters in Japanese animation. Totoro was ranked 24th on IGN's top 25 anime characters.",
+            "html": "<h2>My Neighbor Totoro</h2><p>My Neighbor Totoro (Japanese: \u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed, Hepburn: Tonari no Totoro) is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten. The film\u2014which stars the voice actors Noriko Hidaka, Chika Sakamoto, and Hitoshi Takagi\u2014tells the story of the two young daughters (Satsuki and Mei) of a professor and their interactions with friendly wood spirits in postwar rural Japan. The film won the Animage Anime Grand Prix prize and the Mainichi Film Award and Kinema Junpo Award for Best Film in 1988. It also received the Special Award at the Blue Ribbon Awards in the same year.</p><p>In 1989, Streamline Pictures produced an exclusive dub for use on transpacific flights by Japan Airlines. Troma Films, under their 50th St. Films banner, distributed the dub of the film co-produced by Jerry Beck. This dub was released to United States theaters in 1993, on VHS and laserdisc in the United States by Fox Video in 1994, and on DVD in 2002. The rights to this dub expired in 2004, so it was re-released by Walt Disney Home Entertainment on March 7, 2006 with a new dub cast. This version was also released in Australia by Madman on March 15, 2006 and in the UK by Optimum Releasing on March 27, 2006. This DVD release is the first version of the film in the United States to include both Japanese and English language tracks.</p><p>My Neighbor Totoro was critically acclaimed and has amassed a worldwide cult following in the years after its release. The film and its titular character, Totoro, have become cultural icons. The film has grossed $45 million at the worldwide box office as of September 2019, in addition to generating approximately $277 million from home video sales and $1.142 billion from licensed merchandise sales, adding up to approximately $1.5 billion in total lifetime revenue.</p><p>My Neighbor Totoro ranked 41st in Empire magazine's \"The 100 Best Films Of World Cinema\" in 2010, and Totoro was ranked 18th on Empire's 50 Best Animated Film Characters list. A list of the greatest animated films in Time Out ranked the film number 1. A similar list compiled by the editors of Time Out ranked the film number 3. My Neighbor Totoro was also the highest-ranking animated film on the 2012 Sight & Sound critics' poll of all-time greatest films. The character made multiple cameo appearances in a number of Studio Ghibli films and video games and also serves as the mascot for the studio and is recognized as one of the most popular characters in Japanese animation. Totoro was ranked 24th on IGN's top 25 anime characters.</p>"
+        },
+        "plotFull": {
+            "plainText": "My Neighbor Totoro\r\nMy Neighbor Totoro (Japanese: \u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed, Hepburn: Tonari no Totoro) is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten. The film\u2014which stars the voice actors Noriko Hidaka, Chika Sakamoto, and Hitoshi Takagi\u2014tells the story of the two young daughters (Satsuki and Mei) of a professor and their interactions with friendly wood spirits in postwar rural Japan. The film won the Animage Anime Grand Prix prize and the Mainichi Film Award and Kinema Junpo Award for Best Film in 1988. It also received the Special Award at the Blue Ribbon Awards in the same year.\r\nIn 1989, Streamline Pictures produced an exclusive dub for use on transpacific flights by Japan Airlines. Troma Films, under their 50th St. Films banner, distributed the dub of the film co-produced by Jerry Beck. This dub was released to United States theaters in 1993, on VHS and laserdisc in the United States by Fox Video in 1994, and on DVD in 2002. The rights to this dub expired in 2004, so it was re-released by Walt Disney Home Entertainment on March 7, 2006 with a new dub cast. This version was also released in Australia by Madman on March 15, 2006 and in the UK by Optimum Releasing on March 27, 2006. This DVD release is the first version of the film in the United States to include both Japanese and English language tracks.\r\nMy Neighbor Totoro was critically acclaimed and has amassed a worldwide cult following in the years after its release. The film and its titular character, Totoro, have become cultural icons. The film has grossed $45 million at the worldwide box office as of September 2019, in addition to generating approximately $277 million from home video sales and $1.142 billion from licensed merchandise sales, adding up to approximately $1.5 billion in total lifetime revenue.\r\nMy Neighbor Totoro ranked 41st in Empire magazine's \"The 100 Best Films Of World Cinema\" in 2010, and Totoro was ranked 18th on Empire's 50 Best Animated Film Characters list. A list of the greatest animated films in Time Out ranked the film number 1. A similar list compiled by the editors of Time Out ranked the film number 3. My Neighbor Totoro was also the highest-ranking animated film on the 2012 Sight & Sound critics' poll of all-time greatest films. The character made multiple cameo appearances in a number of Studio Ghibli films and video games and also serves as the mascot for the studio and is recognized as one of the most popular characters in Japanese animation. Totoro was ranked 24th on IGN's top 25 anime characters.\r\nPlot\r\nIn 1958 Japan, university professor Tatsuo Kusakabe and his two daughters, Satsuki and Mei, move into an old house to be closer to the hospital where the girls' mother, Yasuko, is recovering from a long-term illness. The house is inhabited by tiny creatures called susuwatari\u2014small, dark, dust-like house spirits seen when moving from light to dark places. When the girls become comfortable in their new house, the soot spirits leave to find another empty house.\r\nOne day, Mei discovers two small spirits who lead her into the hollow of a large camphor tree. She befriends a larger spirit, which identifies itself by a series of roars that she interprets as \"Totoro\". She falls asleep atop Totoro, but when Satsuki finds her, she is on the ground. Despite many attempts, Mei is unable to show her family Totoro's tree. Tatsuo comforts her by telling her that Totoro will reveal himself when he wants to.\r\nOne rainy night, the girls are waiting for Tatsuo's bus, which is late. Mei falls asleep on Satsuki's back, and Totoro appears beside them, allowing Satsuki to see him for the first time. Totoro has only a leaf on his head for protection against the rain, so Satsuki offers him the umbrella she had taken for her father. Totoro is delighted and gives her a bundle of nuts and seeds in return. A giant, bus-shaped cat halts at the stop, and Totoro boards it and leaves. Shortly after, Tatsuo's bus arrives.\r\nThe girls plant the seeds. A few days later, they awaken at midnight to find Totoro and his colleagues engaged in a ceremonial dance around the planted seeds. The girls join in and the seeds grow into an enormous tree. Totoro takes the girls for a ride on a magical flying top. In the morning, the tree is gone but the seeds have indeed sprouted; it is left unclear whether the girls were dreaming.\r\nThe girls find out that a planned visit by Yasuko has to be postponed because of a setback in her treatment. Mei does not take this well and argues with Satsuki, later leaving for the hospital to bring fresh corn to Yasuko. Her disappearance prompts Satsuki and the neighbors to search for her. In desperation, Satsuki returns to the camphor tree and pleads for Totoro's help. Delighted to help, he summons the Catbus, which carries her to where the lost Mei sits. The bus then whisks them over the countryside to see Yasuko in the hospital. The girls overhear a conversation between their parents and discover that she has been kept in hospital by a minor cold but is otherwise doing well. They secretly leave the ear of corn on the windowsill, where it is discovered by their parents, and return home.\r\nEventually, Mei and Satsuki's mother returns home, and the sisters play with other children, while Totoro and his friends watch them from afar.\r\nCast\r\nProduction\r\nArt director Kazuo Oga was drawn to the film when Hayao Miyazaki showed him an original image of Totoro standing in a satoyama. The director challenged Oga to raise his standards, and Oga's experience with My Neighbor Totoro jump-started the artist's career. Oga and Miyazaki debated the palette of the film, Oga seeking to paint black soil from Akita Prefecture and Miyazaki preferring the color of red soil from the Kant\u014d region.:82 The ultimate product was described by Studio Ghibli producer Toshio Suzuki: \"It was nature painted with translucent colors.\"\r\nOga's conscientious approach to My Neighbor Totoro was a style that the International Herald Tribune recognized as \" the traditional Japanese animist sense of a natural world that is fully, spiritually alive\". The newspaper described the final product:\r\nSet in a period that is both modern and nostalgic, the film creates a fantastic, yet strangely believable universe of supernatural creatures coexisting with modernity. A great part of this sense comes from Oga's evocative backgrounds, which give each tree, hedge and twist in the road an indefinable feeling of warmth that seems ready to spring into sentient life.\r\nOga's work on My Neighbor Totoro led to his continued involvement with Studio Ghibli. The studio assigned jobs to Oga that would play to his strengths, and Oga's style became a trademark style of Studio Ghibli.\r\nIn several of Miyazaki's initial conceptual watercolors, as well as on the theatrical release poster and on later home video releases, only one young girl is depicted, rather than two sisters. According to Miyazaki, \"If she was a little girl who plays around in the yard, she wouldn't be meeting her father at a bus stop, so we had to come up with two girls instead. And that was difficult.\" The opening sequence of the film was not storyboarded, Miyazaki said. \"The sequence was determined through permutations and combinations determined by the time sheets. Each element was made individually and combined in the time sheets...\":27 The ending sequence depicts the mother's return home and the signs of her return to good health by playing with Satsuki and Mei outside.:149\r\nThe storyboard depicts the town of Matsuko as the setting, with the year being 1955; Miyazaki stated that it was not exact and the team worked on a setting \"in the recent past\".:33 The film was originally set to be an hour long, but throughout the process it grew to respond to the social context including the reason for the move and the father's occupation.:54\r\nMiyazaki has said that Totoro is \"not a spirit: he's only an animal. I believe he lives on acorns. He's supposedly the forest keeper, but that's only a half-baked idea, a rough approximation.\":103 The character of Mei was modeled on Miyazaki's niece.\r\nRelease\r\nAfter writing and filming Nausica\u00e4 of the Valley of the Wind (1984) and Castle in the Sky (1986), Hayao Miyazaki began directing My Neighbor Totoro for Studio Ghibli. Miyazaki's production paralleled his colleague Isao Takahata's production of Grave of the Fireflies. Miyazaki's film was financed by executive producer Yasuyoshi Tokuma, and both My Neighbor Totoro and Grave of the Fireflies were released on the same bill in 1988. The dual billing was considered \"one of the most moving and remarkable double bills ever offered to a cinema audience\".\r\nBox office\r\nIn Japan, My Neighbor Totoro sold 801,680 tickets and earned a distribution income of \u00a5588 million in 1988. The film went on to gross a total box office revenue of \u00a51.17 billion in Japan, as of 2006, and has received international releases since 2002. Overall, the film grossed \u00a51.17 billion ($14,663,492) in Japan and $30,476,708 overseas, for a total of $45,140,200 at the worldwide box office.\r\n30 years after its original release in Japan, My Neighbour Totoro received a Chinese theatrical release in December 2018. The delay was due to long-standing political tensions between China and Japan, but many Chinese nevertheless became familiar with Miyazaki's films due to rampant video piracy. In its opening weekend, ending December 16, 2018, My Neighbour Totoro grossed $13 million, entering the box office charts at number two, behind only Hollywood film Aquaman at number one and ahead of Bollywood film Padman at number three. By its second weekend, My Neighbor Totoro grossed $20 million in China. As of February 2019, it grossed $25,798,550 in China.\r\nEnglish dubs\r\nIn 1988, US-based company Streamline Pictures produced an exclusive English language dub of the film for use as an in-flight movie on Japan Airlines flights. Due to his disappointment with the result of the heavily edited English version of Nausica\u00e4 of the Valley of the Wind, Miyazaki would not permit any part of the movie to be edited out, all the names had to remain the same (with the exception being Catbus), the translation had to be as close to the original Japanese as possible, and no part of the movie could be changed for any reason, cultural or linguistic (which was very common at the time) despite creating problems with some English viewers, particularly in explaining the origin of the name \"Totoro\". It was produced by John Daly and Derek Gibson, with co-producer Jerry Beck. In April 1993, Troma Films, under their 50th St. Films banner, distributed the dub of the film as a theatrical release, and was later released onto VHS by Fox Video.\r\nIn 2004, Disney produced an all new English dub of the movie to be released after the rights to the Streamline dub had expired. As is the case with Disney's other English dubs of Miyazaki films, the Disney version of Totoro features a star-heavy cast, including Dakota and Elle Fanning as Satsuki and Mei, Timothy Daly as Mr. Kusakabe, Pat Carroll as Granny, Lea Salonga as Mrs. Kusakabe, and Frank Welker as Totoro and Catbus. The songs for the new dub retained the same translation as the previous dub, but were sung by Sonya Isaacs. The songs for the Streamline version of Totoro were sung by Cassie Byram. Disney's English-language dub premiered on October 23, 2005; it then appeared at the 2005 Hollywood Film Festival. The Turner Classic Movies cable television network held the television premiere of Disney's new English dub on January 19, 2006, as part of the network's salute to Hayao Miyazaki. (TCM aired the dub as well as the original Japanese with English subtitles.) The Disney version was initially released on DVD in the United States on March 7, 2006, but is now out of print. This version of the film has since been used in all English-speaking regions.\r\nHome media\r\nThe movie was released to VHS and LaserDisc by Tokuma Shoten in August 1988 under their Animage Video label. Buena Vista Home Entertainment Japan (now Walt Disney Japan) would later reissue the VHS on June 27, 1997 as part of their Ghibli ga Ippai series, and was later released to DVD on September 28, 2001, including both the original Japanese and the Streamline Pictures English dub. Disney would later release the film on Blu-ray in the country on July 18, 2012. The DVD was re-released on July 16, 2014, using the remastered print from the Blu-ray and having the Disney produced English dub instead of Streamline's.\r\nIn 1993, Fox Video released the Streamline Pictures dub of My Neighbor Totoro on VHS and LaserDisc in the United States and was later released to DVD in 2002. After the rights to the dub expired in 2004, Walt Disney Home Entertainment re-released the movie on DVD on March 7, 2006 with Disney's newly produced English dub and the original Japanese version. A reissue of Totoro, Castle in the Sky, and Kiki's Delivery Service featuring updated cover art highlighting its Studio Ghibli origins was released by Walt Disney Studios Home Entertainment on March 2, 2010, coinciding with the US DVD and Blu-ray debut of Ponyo, and was It was later released on Blu-Ray Disc on May 21, 2013. GKIDS re-issued the film on Blu-ray and DVD on October 17, 2017.\r\nThe Disney-produced Dub has also been released onto DVD and Blu-ray by distributors like Madman Entertainment in Australia and Optimum Releasing/StudioCanal UK in the United Kingdom.\r\nIn Japan, the film sold 3.5 million VHS and DVD units as of April 2012, equivalent to approximately \u00a516,100 million ($202 million) at an average retail price of \u00a54,600 (\u00a54,700 on DVD and \u00a54,500 on VHS). In the United States, the film sold over 500,000 VHS units by 1996, equivalent to approximately $10 million at a retail price of $19.98, with the later 2010 DVD release selling a further 3.8 million units and grossing $64.5 million in the United States as of October 2018. In total, the film's home video releases have sold 7.8 million units and grossed approximately $277 million in Japan and the United States.\r\nReception\r\nMy Neighbor Totoro received widespread acclaim from film critics. Review aggregator Rotten Tomatoes reported that 94% of critics gave positive reviews, with an average rating of 8.4/10 based on 48 reviews. The website's critical consensus states, \u201cMy Neighbor Totoro is a heartwarming, sentimental masterpiece that captures the simple grace of childhood.\" On Metacritic, the film has a weighted average rating of 86 out of 100, based on 15 critics, indicating \"universal acclaim\". It is listed as a \"must-see\" by Metacritic. My Neighbor Totoro was voted the highest-ranking animated film on the 2012 Sight & Sound critics' poll of all-time greatest films.\r\nFilm critic Roger Ebert of the Chicago Sun-Times identified My Neighbor Totoro as one of his \"Great Movies\", calling it \"one of the lovingly hand-crafted works of Hayao Miyazaki\". In his review, Ebert declared \"My Neighbor Totoro is based on experience, situation and exploration\u2014not on conflict and threat\", and described its appeal:\r\n... it would never have won its worldwide audience just because of its warm heart. It is also rich with human comedy in the way it observes the two remarkably convincing, lifelike little girls.... It is a little sad, a little scary, a little surprising and a little informative, just like life itself. It depends on a situation instead of a plot, and suggests that the wonder of life and the resources of imagination supply all the adventure you need.\r\nThe 1993 translation was not as well received as the 2006 translation. Leonard Klady of the entertainment trade newspaper Variety wrote of the 1993 translation, that My Neighbor Totoro demonstrated \"adequate television technical craft\" that was characterized by \"muted pastels, homogenized pictorial style and vapid storyline\". Klady described the film's environment, \"Obviously aimed at an international audience, the film evinces a disorienting combination of cultures that produces a nowhere land more confused than fascinating.\" Stephen Holden of The New York Times described the 1993 translation as \"very visually handsome\", and believed that the film was \"very charming\" when \"dispensing enchantment\". Despite the highlights, Holden wrote, \"Too much of the film, however, is taken up with stiff, mechanical chitchat.\"\r\nMatthew Leyland of Sight & Sound reviewed the DVD released in 2006, \"Miyazaki's family fable is remarkably light on tension, conflict and plot twists, yet it beguiles from beginning to end... what sticks with the viewer is the every-kid credibility of the girls' actions as they work, play and settle into their new surroundings.\" Leyland praised the DVD transfer of the film, but noted that the disc lacked a look at the film's production, instead being overabundant with storyboards.\r\nPhillip E. Wegner makes a case for the film being an example of alternative history citing the utopian-like setting of the anime.\r\nLegacy\r\nMy Neighbor Totoro set its writer-director Hayao Miyazaki on the road to success. The film's central character, Totoro, is as famous among Japanese children as Winnie-the-Pooh is among British ones. The Independent recognized Totoro as one of the greatest cartoon characters, describing the creature, \"At once innocent and awe-inspiring, King Totoro captures the innocence and magic of childhood more than any of Miyazaki's other magical creations.\" The Financial Times recognized the character's appeal, \" is more genuinely loved than Mickey Mouse could hope to be in his wildest\u2014not nearly so beautifully illustrated\u2014fantasies.\" Totoro and characters from the movie play a significant role in the Ghibli Museum, including a large catbus and the Straw Hat Cafe.\r\nThe environmental journal Ambio described the influence of My Neighbor Totoro, \" has served as a powerful force to focus the positive feelings that the Japanese people have for satoyama and traditional village life.\" The film's central character Totoro was used as a mascot by the Japanese \"Totoro Hometown Fund Campaign\" to preserve areas of satoyama in the Saitama Prefecture. The fund, started in 1990 after the film's release, held an auction in August 2008 at Pixar Animation Studios to sell over 210 original paintings, illustrations, and sculptures inspired by My Neighbor Totoro.\r\nTotoro has made cameo appearances in multiple Studio Ghibli films, including Pom Poko, Kiki's Delivery Service, and Whisper of the Heart. Various other anime series and films have featured cameos, including one episode of the Gainax TV series His and Her Circumstances. Miyazaki uses Totoro as a part of his Studio Ghibli company logo.\r\nA main-belt asteroid, discovered on December 31, 1994, was named 10160 Totoro after the film's central character. Totoro makes a cameo appearance in the Pixar film Toy Story 3 (2010); the film's art director Daisuke Tsutsumi is married to Miyazaki's niece, who was the original inspiration for the character Mei in My Neighbour Totoro.\r\nIn 2013 a velvet worm species Eoperipatus totoro, recently discovered in Vietnam, was named after Totoro: \"Following the request of Pavel V. Kvartalnov, Eduard A. Galoyan and Igor V. Palko, the species is named after the main character of the cartoon movie \"My Neighbour Totoro\" by Hayao Miyazaki (1988, Studio Ghibli), who uses a many-legged animal as a vehicle, which according to the collectors resembles a velvet worm.\"\r\nMedia\r\nBooks\r\nA four-volume series of ani-manga books, which use color images and lines directly from the film, was published in Japan in May 1988 by Tokuma. The series was licensed for English language release in North America by Viz Media, which released the books from November 10, 2004, through February 15, 2005. A 111-page picture book based on the film and aimed at younger readers was released by Tokuma on June 28, 1988 and, in a 112-page English translation, by Viz on November 8, 2005. A 176-page art book containing conceptual art from the film and interviews with the production staff was released by Tokuma on July 15, 1988 and, in English translation, by Viz on November 8, 2005. A hardcover \"light novel\" written by Tsugiko Kubo and illustrated by Hayao Miyazaki was released by Viz in 2013.\r\nAnime short\r\nMei and the Kittenbus (\u3081\u3044\u3068\u3053\u306d\u3053\u30d0\u30b9, Mei to Konekobasu) is a thirteen-minute sequel to My Neighbor Totoro, written and directed by Miyazaki. Chika Sakamoto, who voiced Mei in Totoro, returned to voice Mei in this short. Hayao Miyazaki himself did the voice of the Granny Cat (Neko Baa-chan), as well as Totoro. It concentrates on the character of Mei Kusakabe from the original film and her adventures one night with the Kittenbus (the offspring of the Catbus from the film) and other cat-oriented vehicles.\r\nOriginally released in Japan in 2003, the short is regularly shown at the Ghibli Museum, but has not been released to home video. It was shown briefly in the United States in 2006 to honor the North American release of fellow Miyazaki film Spirited Away and at a Juvenile Diabetes Research Foundation fundraiser a few days later.\r\nSoundtrack\r\nThe Tonari no Totoro Soundtrack was originally released in Japan on May 1, 1988 by Tokuma Shoten. The CD primarily features the musical score used in the film composed by Joe Hisaishi, except for five vocal pieces performed by Azumi Inoue. It has since been re-released twice, once on November 21, 1996, and again on August 25, 2004.\r\nAll music is composed by Joe Hisaishi.\r\nLicensed merchandise\r\nNumerous licensed merchandise of Totoro have been sold in Japan for decades after the film's release. Totoro licensed merchandise sales in Japan grossed \u00a510.97 billion in 1999, \u00a556.08 billion during 2003\u20132007, at least \u00a54.1 billion in 2008, and \u00a519.96 billion during 2010\u20132012. Combined, Totoro licensed merchandise sales have grossed at least \u00a591.11 billion ($1,142 million) in Japan between 1999 and 2012.\r\nAwards and nominations",
+            "html": "<h2>My Neighbor Totoro</h2><p>My Neighbor Totoro (Japanese: \u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed, Hepburn: Tonari no Totoro) is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten. The film\u2014which stars the voice actors Noriko Hidaka, Chika Sakamoto, and Hitoshi Takagi\u2014tells the story of the two young daughters (Satsuki and Mei) of a professor and their interactions with friendly wood spirits in postwar rural Japan. The film won the Animage Anime Grand Prix prize and the Mainichi Film Award and Kinema Junpo Award for Best Film in 1988. It also received the Special Award at the Blue Ribbon Awards in the same year.</p><p>In 1989, Streamline Pictures produced an exclusive dub for use on transpacific flights by Japan Airlines. Troma Films, under their 50th St. Films banner, distributed the dub of the film co-produced by Jerry Beck. This dub was released to United States theaters in 1993, on VHS and laserdisc in the United States by Fox Video in 1994, and on DVD in 2002. The rights to this dub expired in 2004, so it was re-released by Walt Disney Home Entertainment on March 7, 2006 with a new dub cast. This version was also released in Australia by Madman on March 15, 2006 and in the UK by Optimum Releasing on March 27, 2006. This DVD release is the first version of the film in the United States to include both Japanese and English language tracks.</p><p>My Neighbor Totoro was critically acclaimed and has amassed a worldwide cult following in the years after its release. The film and its titular character, Totoro, have become cultural icons. The film has grossed $45 million at the worldwide box office as of September 2019, in addition to generating approximately $277 million from home video sales and $1.142 billion from licensed merchandise sales, adding up to approximately $1.5 billion in total lifetime revenue.</p><p>My Neighbor Totoro ranked 41st in Empire magazine's \"The 100 Best Films Of World Cinema\" in 2010, and Totoro was ranked 18th on Empire's 50 Best Animated Film Characters list. A list of the greatest animated films in Time Out ranked the film number 1. A similar list compiled by the editors of Time Out ranked the film number 3. My Neighbor Totoro was also the highest-ranking animated film on the 2012 Sight & Sound critics' poll of all-time greatest films. The character made multiple cameo appearances in a number of Studio Ghibli films and video games and also serves as the mascot for the studio and is recognized as one of the most popular characters in Japanese animation. Totoro was ranked 24th on IGN's top 25 anime characters.</p><br/><h3>Plot</h3><p>In 1958 Japan, university professor Tatsuo Kusakabe and his two daughters, Satsuki and Mei, move into an old house to be closer to the hospital where the girls' mother, Yasuko, is recovering from a long-term illness. The house is inhabited by tiny creatures called susuwatari\u2014small, dark, dust-like house spirits seen when moving from light to dark places. When the girls become comfortable in their new house, the soot spirits leave to find another empty house.</p><p>One day, Mei discovers two small spirits who lead her into the hollow of a large camphor tree. She befriends a larger spirit, which identifies itself by a series of roars that she interprets as \"Totoro\". She falls asleep atop Totoro, but when Satsuki finds her, she is on the ground. Despite many attempts, Mei is unable to show her family Totoro's tree. Tatsuo comforts her by telling her that Totoro will reveal himself when he wants to.</p><p>One rainy night, the girls are waiting for Tatsuo's bus, which is late. Mei falls asleep on Satsuki's back, and Totoro appears beside them, allowing Satsuki to see him for the first time. Totoro has only a leaf on his head for protection against the rain, so Satsuki offers him the umbrella she had taken for her father. Totoro is delighted and gives her a bundle of nuts and seeds in return. A giant, bus-shaped cat halts at the stop, and Totoro boards it and leaves. Shortly after, Tatsuo's bus arrives.</p><p>The girls plant the seeds. A few days later, they awaken at midnight to find Totoro and his colleagues engaged in a ceremonial dance around the planted seeds. The girls join in and the seeds grow into an enormous tree. Totoro takes the girls for a ride on a magical flying top. In the morning, the tree is gone but the seeds have indeed sprouted; it is left unclear whether the girls were dreaming.</p><p>The girls find out that a planned visit by Yasuko has to be postponed because of a setback in her treatment. Mei does not take this well and argues with Satsuki, later leaving for the hospital to bring fresh corn to Yasuko. Her disappearance prompts Satsuki and the neighbors to search for her. In desperation, Satsuki returns to the camphor tree and pleads for Totoro's help. Delighted to help, he summons the Catbus, which carries her to where the lost Mei sits. The bus then whisks them over the countryside to see Yasuko in the hospital. The girls overhear a conversation between their parents and discover that she has been kept in hospital by a minor cold but is otherwise doing well. They secretly leave the ear of corn on the windowsill, where it is discovered by their parents, and return home.</p><p>Eventually, Mei and Satsuki's mother returns home, and the sisters play with other children, while Totoro and his friends watch them from afar.</p><br/><h3>Cast</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Character name</th><th>Japanese voice actor</th><th>English voice actor<br><small>(<span>Tokuma</span>/<span>Streamline</span>/<span>50th Street Films</span>, 1989/1993)</small></th><th>English voice actor<br><small>(<span>Walt Disney Home Entertainment</span>, 2005)</small></th></tr><tr><td>Satsuki Kusakabe<span style=\"font-weight: normal\"> (<span lang=\"ja\">\u8349\u58c1 \u30b5\u30c4\u30ad</span>)</span> (daughter)</td><td><span>Noriko Hidaka</span></td><td><span>Lisa Michelson</span></td><td><span>Dakota Fanning</span></td></tr><tr><td>Mei Kusakabe<span style=\"font-weight: normal\"> (<span lang=\"ja\">\u8349\u58c1 \u30e1\u30a4</span>)</span> (daughter)</td><td><span>Chika Sakamoto</span></td><td><span>Cheryl Chase</span></td><td><span>Elle Fanning</span></td></tr><tr><td>Tatsuo Kusakabe<span style=\"font-weight: normal\"> (<span lang=\"ja\">\u8349\u58c1 \u30bf\u30c4\u30aa</span>)</span> (father)</td><td><span>Shigesato Itoi</span></td><td><span>Greg Snegoff</span></td><td><span>Tim Daly</span></td></tr><tr><td>Yasuko Kusakabe<span style=\"font-weight: normal\"> (<span lang=\"ja\">\u8349\u58c1 \u9756\u5b50</span>)</span> (mother)</td><td><span>Sumi Shimamoto</span></td><td><span>Alexandra Kenworthy</span></td><td><span>Lea Salonga</span></td></tr><tr><td>Totoro<span style=\"font-weight: normal\"> (<span lang=\"ja\">\u30c8\u30c8\u30ed</span>)</span></td><td><span>Hitoshi Takagi</span></td><td data-sort-value=\"\" style=\"background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;\" class=\"table-na\">Unknown</td><td><span>Frank Welker</span></td></tr><tr><td>Kanta \u014cgaki<span style=\"font-weight: normal\"> (<span lang=\"ja\">\u5927\u57a3 \u52d8\u592a</span>)</span> (a local boy)</td><td>Toshiyuki Amagasa</td><td>Kenneth Hartman</td><td><span class=\"mw-redirect\">Paul Butcher</span></td></tr><tr><td>Nanny / Granny (Kanta's grandmother)</td><td><span>Tanie Kitabayashi</span></td><td>Natalie Core</td><td><span class=\"mw-redirect\">Pat Carroll</span></td></tr><tr><td>Catbus<span style=\"font-weight: normal\"> (<span lang=\"ja\">\u30cd\u30b3\u30d0\u30b9</span>, <i lang=\"ja-Latn\" title=\"Hepburn transliteration\"><i>Nekobasu</i></i>)</span></td><td><span>Naoki Tatsuta</span></td><td><span>Carl Macek</span> (uncredited)</td><td>Frank Welker</td></tr><tr><td>Michiko</td><td><span class=\"mw-redirect\">Chie Kojiro</span></td><td><span>Brianne Siddall</span> (uncredited)</td><td>Ashley Rose Orr</td></tr><tr><td>Mrs. Ogaki (Kanta's mother)</td><td>Hiroko Maruyama</td><td>Melanie MacQueen</td><td><span>Kath Soucie</span></td></tr><tr><td>Mr. Ogaki (Kanta's father)</td><td><span>Masashi Hirose</span></td><td rowspan=\"2\"><span>Steve Kramer</span></td><td>David Midthunder</td></tr><tr><td>Old Farmer</td><td data-sort-value=\"\" style=\"background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;\" class=\"table-na\">Unknown</td><td><span>Peter Renaday</span></td></tr><tr><td>Miss Hara (Satsuki's teacher)</td><td><span>Machiko Washio</span></td><td rowspan=\"2\"><span>Edie Mirman</span> (uncredited)</td><td><span>Tress MacNeille</span> (uncredited)</td></tr><tr><td>Kanta's Aunt</td><td><span>Reiko Suzuki</span></td><td><span>Russi Taylor</span></td></tr><tr><td>Otoko</td><td><span>Daiki Nakamura</span></td><td><span>Kerrigan Mahan</span> (uncredited)</td><td><span>Matt Adler</span></td></tr><tr><td>Ryouko</td><td><span class=\"mw-redirect\">Yuko Mizutani</span></td><td rowspan=\"2\"><span>Lara Cody</span></td><td><span>Bridget Hoffman</span></td></tr><tr><td>Bus Attendant</td><td data-sort-value=\"\" style=\"background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;\" class=\"table-na\">Unknown</td><td><span>Kath Soucie</span></td></tr><tr><td>Mailman</td><td><span>Tomomichi Nishimura</span></td><td><span>Doug Stone</span> (uncredited)</td><td><span>Robert Clotworthy</span></td></tr><tr><td>Moving Man</td><td><span>Shigeru Chiba</span></td><td><span>Greg Snegoff</span></td><td>Newell Alexander</td></tr></tbody></table><br/><h3>Production</h3><p>Art director Kazuo Oga was drawn to the film when Hayao Miyazaki showed him an original image of Totoro standing in a satoyama. The director challenged Oga to raise his standards, and Oga's experience with My Neighbor Totoro jump-started the artist's career. Oga and Miyazaki debated the palette of the film, Oga seeking to paint black soil from Akita Prefecture and Miyazaki preferring the color of red soil from the Kant\u014d region.:82 The ultimate product was described by Studio Ghibli producer Toshio Suzuki: \"It was nature painted with translucent colors.\"</p><p>Oga's conscientious approach to My Neighbor Totoro was a style that the International Herald Tribune recognized as \" the traditional Japanese animist sense of a natural world that is fully, spiritually alive\". The newspaper described the final product:</p><blockquote>Set in a period that is both modern and nostalgic, the film creates a fantastic, yet strangely believable universe of supernatural creatures coexisting with modernity. A great part of this sense comes from Oga's evocative backgrounds, which give each tree, hedge and twist in the road an indefinable feeling of warmth that seems ready to spring into sentient life.</blockquote><p>Oga's work on My Neighbor Totoro led to his continued involvement with Studio Ghibli. The studio assigned jobs to Oga that would play to his strengths, and Oga's style became a trademark style of Studio Ghibli.</p><p>In several of Miyazaki's initial conceptual watercolors, as well as on the theatrical release poster and on later home video releases, only one young girl is depicted, rather than two sisters. According to Miyazaki, \"If she was a little girl who plays around in the yard, she wouldn't be meeting her father at a bus stop, so we had to come up with two girls instead. And that was difficult.\" The opening sequence of the film was not storyboarded, Miyazaki said. \"The sequence was determined through permutations and combinations determined by the time sheets. Each element was made individually and combined in the time sheets...\":27 The ending sequence depicts the mother's return home and the signs of her return to good health by playing with Satsuki and Mei outside.:149</p><p>The storyboard depicts the town of Matsuko as the setting, with the year being 1955; Miyazaki stated that it was not exact and the team worked on a setting \"in the recent past\".:33 The film was originally set to be an hour long, but throughout the process it grew to respond to the social context including the reason for the move and the father's occupation.:54</p><p>Miyazaki has said that Totoro is \"not a spirit: he's only an animal. I believe he lives on acorns. He's supposedly the forest keeper, but that's only a half-baked idea, a rough approximation.\":103 The character of Mei was modeled on Miyazaki's niece.</p><br/><h3>Release</h3><p>After writing and filming Nausica\u00e4 of the Valley of the Wind (1984) and Castle in the Sky (1986), Hayao Miyazaki began directing My Neighbor Totoro for Studio Ghibli. Miyazaki's production paralleled his colleague Isao Takahata's production of Grave of the Fireflies. Miyazaki's film was financed by executive producer Yasuyoshi Tokuma, and both My Neighbor Totoro and Grave of the Fireflies were released on the same bill in 1988. The dual billing was considered \"one of the most moving and remarkable double bills ever offered to a cinema audience\".</p><h4>Box office</h4><p>In Japan, My Neighbor Totoro sold 801,680 tickets and earned a distribution income of \u00a5588 million in 1988. The film went on to gross a total box office revenue of \u00a51.17 billion in Japan, as of 2006, and has received international releases since 2002. Overall, the film grossed \u00a51.17 billion ($14,663,492) in Japan and $30,476,708 overseas, for a total of $45,140,200 at the worldwide box office.</p><p>30 years after its original release in Japan, My Neighbour Totoro received a Chinese theatrical release in December 2018. The delay was due to long-standing political tensions between China and Japan, but many Chinese nevertheless became familiar with Miyazaki's films due to rampant video piracy. In its opening weekend, ending December 16, 2018, My Neighbour Totoro grossed $13 million, entering the box office charts at number two, behind only Hollywood film Aquaman at number one and ahead of Bollywood film Padman at number three. By its second weekend, My Neighbor Totoro grossed $20 million in China. As of February 2019, it grossed $25,798,550 in China.</p><h4>English dubs</h4><p>In 1988, US-based company Streamline Pictures produced an exclusive English language dub of the film for use as an in-flight movie on Japan Airlines flights. Due to his disappointment with the result of the heavily edited English version of Nausica\u00e4 of the Valley of the Wind, Miyazaki would not permit any part of the movie to be edited out, all the names had to remain the same (with the exception being Catbus), the translation had to be as close to the original Japanese as possible, and no part of the movie could be changed for any reason, cultural or linguistic (which was very common at the time) despite creating problems with some English viewers, particularly in explaining the origin of the name \"Totoro\". It was produced by John Daly and Derek Gibson, with co-producer Jerry Beck. In April 1993, Troma Films, under their 50th St. Films banner, distributed the dub of the film as a theatrical release, and was later released onto VHS by Fox Video.</p><p>In 2004, Disney produced an all new English dub of the movie to be released after the rights to the Streamline dub had expired. As is the case with Disney's other English dubs of Miyazaki films, the Disney version of Totoro features a star-heavy cast, including Dakota and Elle Fanning as Satsuki and Mei, Timothy Daly as Mr. Kusakabe, Pat Carroll as Granny, Lea Salonga as Mrs. Kusakabe, and Frank Welker as Totoro and Catbus. The songs for the new dub retained the same translation as the previous dub, but were sung by Sonya Isaacs. The songs for the Streamline version of Totoro were sung by Cassie Byram. Disney's English-language dub premiered on October 23, 2005; it then appeared at the 2005 Hollywood Film Festival. The Turner Classic Movies cable television network held the television premiere of Disney's new English dub on January 19, 2006, as part of the network's salute to Hayao Miyazaki. (TCM aired the dub as well as the original Japanese with English subtitles.) The Disney version was initially released on DVD in the United States on March 7, 2006, but is now out of print. This version of the film has since been used in all English-speaking regions.</p><h4>Home media</h4><p>The movie was released to VHS and LaserDisc by Tokuma Shoten in August 1988 under their Animage Video label. Buena Vista Home Entertainment Japan (now Walt Disney Japan) would later reissue the VHS on June 27, 1997 as part of their Ghibli ga Ippai series, and was later released to DVD on September 28, 2001, including both the original Japanese and the Streamline Pictures English dub. Disney would later release the film on Blu-ray in the country on July 18, 2012. The DVD was re-released on July 16, 2014, using the remastered print from the Blu-ray and having the Disney produced English dub instead of Streamline's.</p><p>In 1993, Fox Video released the Streamline Pictures dub of My Neighbor Totoro on VHS and LaserDisc in the United States and was later released to DVD in 2002. After the rights to the dub expired in 2004, Walt Disney Home Entertainment re-released the movie on DVD on March 7, 2006 with Disney's newly produced English dub and the original Japanese version. A reissue of Totoro, Castle in the Sky, and Kiki's Delivery Service featuring updated cover art highlighting its Studio Ghibli origins was released by Walt Disney Studios Home Entertainment on March 2, 2010, coinciding with the US DVD and Blu-ray debut of Ponyo, and was It was later released on Blu-Ray Disc on May 21, 2013. GKIDS re-issued the film on Blu-ray and DVD on October 17, 2017.</p><p>The Disney-produced Dub has also been released onto DVD and Blu-ray by distributors like Madman Entertainment in Australia and Optimum Releasing/StudioCanal UK in the United Kingdom.</p><p>In Japan, the film sold 3.5 million VHS and DVD units as of April 2012, equivalent to approximately \u00a516,100 million ($202 million) at an average retail price of \u00a54,600 (\u00a54,700 on DVD and \u00a54,500 on VHS). In the United States, the film sold over 500,000 VHS units by 1996, equivalent to approximately $10 million at a retail price of $19.98, with the later 2010 DVD release selling a further 3.8 million units and grossing $64.5 million in the United States as of October 2018. In total, the film's home video releases have sold 7.8 million units and grossed approximately $277 million in Japan and the United States.</p><br/><h3>Reception</h3><p>My Neighbor Totoro received widespread acclaim from film critics. Review aggregator Rotten Tomatoes reported that 94% of critics gave positive reviews, with an average rating of 8.4/10 based on 48 reviews. The website's critical consensus states, \u201cMy Neighbor Totoro is a heartwarming, sentimental masterpiece that captures the simple grace of childhood.\" On Metacritic, the film has a weighted average rating of 86 out of 100, based on 15 critics, indicating \"universal acclaim\". It is listed as a \"must-see\" by Metacritic. My Neighbor Totoro was voted the highest-ranking animated film on the 2012 Sight & Sound critics' poll of all-time greatest films.</p><p>Film critic Roger Ebert of the Chicago Sun-Times identified My Neighbor Totoro as one of his \"Great Movies\", calling it \"one of the lovingly hand-crafted works of Hayao Miyazaki\". In his review, Ebert declared \"My Neighbor Totoro is based on experience, situation and exploration\u2014not on conflict and threat\", and described its appeal:</p><blockquote>... it would never have won its worldwide audience just because of its warm heart. It is also rich with human comedy in the way it observes the two remarkably convincing, lifelike little girls.... It is a little sad, a little scary, a little surprising and a little informative, just like life itself. It depends on a situation instead of a plot, and suggests that the wonder of life and the resources of imagination supply all the adventure you need.</blockquote><p>The 1993 translation was not as well received as the 2006 translation. Leonard Klady of the entertainment trade newspaper Variety wrote of the 1993 translation, that My Neighbor Totoro demonstrated \"adequate television technical craft\" that was characterized by \"muted pastels, homogenized pictorial style and vapid storyline\". Klady described the film's environment, \"Obviously aimed at an international audience, the film evinces a disorienting combination of cultures that produces a nowhere land more confused than fascinating.\" Stephen Holden of The New York Times described the 1993 translation as \"very visually handsome\", and believed that the film was \"very charming\" when \"dispensing enchantment\". Despite the highlights, Holden wrote, \"Too much of the film, however, is taken up with stiff, mechanical chitchat.\"</p><p>Matthew Leyland of Sight & Sound reviewed the DVD released in 2006, \"Miyazaki's family fable is remarkably light on tension, conflict and plot twists, yet it beguiles from beginning to end... what sticks with the viewer is the every-kid credibility of the girls' actions as they work, play and settle into their new surroundings.\" Leyland praised the DVD transfer of the film, but noted that the disc lacked a look at the film's production, instead being overabundant with storyboards.</p><p>Phillip E. Wegner makes a case for the film being an example of alternative history citing the utopian-like setting of the anime.</p><br/><h3>Legacy</h3><p>My Neighbor Totoro set its writer-director Hayao Miyazaki on the road to success. The film's central character, Totoro, is as famous among Japanese children as Winnie-the-Pooh is among British ones. The Independent recognized Totoro as one of the greatest cartoon characters, describing the creature, \"At once innocent and awe-inspiring, King Totoro captures the innocence and magic of childhood more than any of Miyazaki's other magical creations.\" The Financial Times recognized the character's appeal, \" is more genuinely loved than Mickey Mouse could hope to be in his wildest\u2014not nearly so beautifully illustrated\u2014fantasies.\" Totoro and characters from the movie play a significant role in the Ghibli Museum, including a large catbus and the Straw Hat Cafe.</p><p>The environmental journal Ambio described the influence of My Neighbor Totoro, \" has served as a powerful force to focus the positive feelings that the Japanese people have for satoyama and traditional village life.\" The film's central character Totoro was used as a mascot by the Japanese \"Totoro Hometown Fund Campaign\" to preserve areas of satoyama in the Saitama Prefecture. The fund, started in 1990 after the film's release, held an auction in August 2008 at Pixar Animation Studios to sell over 210 original paintings, illustrations, and sculptures inspired by My Neighbor Totoro.</p><p>Totoro has made cameo appearances in multiple Studio Ghibli films, including Pom Poko, Kiki's Delivery Service, and Whisper of the Heart. Various other anime series and films have featured cameos, including one episode of the Gainax TV series His and Her Circumstances. Miyazaki uses Totoro as a part of his Studio Ghibli company logo.</p><p>A main-belt asteroid, discovered on December 31, 1994, was named 10160 Totoro after the film's central character. Totoro makes a cameo appearance in the Pixar film Toy Story 3 (2010); the film's art director Daisuke Tsutsumi is married to Miyazaki's niece, who was the original inspiration for the character Mei in My Neighbour Totoro.</p><p>In 2013 a velvet worm species Eoperipatus totoro, recently discovered in Vietnam, was named after Totoro: \"Following the request of Pavel V. Kvartalnov, Eduard A. Galoyan and Igor V. Palko, the species is named after the main character of the cartoon movie \"My Neighbour Totoro\" by Hayao Miyazaki (1988, Studio Ghibli), who uses a many-legged animal as a vehicle, which according to the collectors resembles a velvet worm.\"</p><br/><h3>Media</h3><h4>Books</h4><p>A four-volume series of ani-manga books, which use color images and lines directly from the film, was published in Japan in May 1988 by Tokuma. The series was licensed for English language release in North America by Viz Media, which released the books from November 10, 2004, through February 15, 2005. A 111-page picture book based on the film and aimed at younger readers was released by Tokuma on June 28, 1988 and, in a 112-page English translation, by Viz on November 8, 2005. A 176-page art book containing conceptual art from the film and interviews with the production staff was released by Tokuma on July 15, 1988 and, in English translation, by Viz on November 8, 2005. A hardcover \"light novel\" written by Tsugiko Kubo and illustrated by Hayao Miyazaki was released by Viz in 2013.</p><h4>Anime short</h4><p>Mei and the Kittenbus (\u3081\u3044\u3068\u3053\u306d\u3053\u30d0\u30b9, Mei to Konekobasu) is a thirteen-minute sequel to My Neighbor Totoro, written and directed by Miyazaki. Chika Sakamoto, who voiced Mei in Totoro, returned to voice Mei in this short. Hayao Miyazaki himself did the voice of the Granny Cat (Neko Baa-chan), as well as Totoro. It concentrates on the character of Mei Kusakabe from the original film and her adventures one night with the Kittenbus (the offspring of the Catbus from the film) and other cat-oriented vehicles.</p><p>Originally released in Japan in 2003, the short is regularly shown at the Ghibli Museum, but has not been released to home video. It was shown briefly in the United States in 2006 to honor the North American release of fellow Miyazaki film Spirited Away and at a Juvenile Diabetes Research Foundation fundraiser a few days later.</p><h4>Soundtrack</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><td class=\"mbox-text plainlist\" style=\"line-height:1.1em\"><div class=\"haudio\"><div style=\"padding:4px 0\"><span>\"The Huge Tree in the Tsukamori Forest\"</span></div><div><div class=\"mediaContainer\" style=\"width:220px\"><audio id=\"mwe_player_0\" controls=\"\" preload=\"none\" style=\"width:220px\" class=\"kskin\" data-durationhint=\"30.249795918367\" data-startoffset=\"0\" data-mwtitle=\"The_Huge_Tree_in_the_Tsukamori_Forest_-_My_Neighbor_Totoro,_from_the_OST.ogg\" data-mwprovider=\"local\"><source src=\"//upload.wikimedia.org/wikipedia/en/a/a3/The_Huge_Tree_in_the_Tsukamori_Forest_-_My_Neighbor_Totoro%2C_from_the_OST.ogg\" type=\"audio/ogg; codecs=&quot;vorbis&quot;\" data-title=\"Original Ogg file (131 kbps)\" data-shorttitle=\"Ogg source\" data-width=\"0\" data-height=\"0\" data-bandwidth=\"130963\"><source src=\"//upload.wikimedia.org/wikipedia/en/transcoded/a/a3/The_Huge_Tree_in_the_Tsukamori_Forest_-_My_Neighbor_Totoro%2C_from_the_OST.ogg/The_Huge_Tree_in_the_Tsukamori_Forest_-_My_Neighbor_Totoro%2C_from_the_OST.ogg.mp3\" type=\"audio/mpeg\" data-title=\"MP3\" data-shorttitle=\"MP3\" data-transcodekey=\"mp3\" data-width=\"0\" data-height=\"0\" data-bandwidth=\"221800\"></audio></div></div><div class=\"description\" style=\"padding:2px 0 0 0\"></div></div></td></tr><tr><td colspan=\"2\" class=\"mbox-text\" style=\"line-height:1.1em\"><hr><i class=\"selfreference\">Problems playing this file? See <span>media help</span>.</i></td></tr></tbody></table><p>The Tonari no Totoro Soundtrack was originally released in Japan on May 1, 1988 by Tokuma Shoten. The CD primarily features the musical score used in the film composed by Joe Hisaishi, except for five vocal pieces performed by Azumi Inoue. It has since been re-released twice, once on November 21, 1996, and again on August 25, 2004.</p><p>All music is composed by Joe Hisaishi.</p><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th class=\"tlheader\" scope=\"col\" style=\"width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee\"><abbr title=\"Number\">No.</abbr></th><th class=\"tlheader\" scope=\"col\" style=\"width:100%;text-align:left;background-color:#eee\">Title</th><th class=\"tlheader\" scope=\"col\" style=\"width:4em;padding-right:10px;text-align:right;background-color:#eee\">Length</th></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Sanpo \uff0d\u014cpuningu Shudaika\uff0d</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u3055\u3093\u307d \uff0d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u4e3b\u984c\u6b4c\uff0d</span>, \"Stroll (Opening Theme)\")</span>\" <span>(music by <span>Joe Hisaishi</span>, lyrics by <span>Rieko Nakagawa</span>, performed by <span>Azumi Inoue</span>)</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:44</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Gogatsu no Mura</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u4e94\u6708\u306e\u6751</span>, \"The Village in May\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:39</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Obakeyashiki!</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u30aa\u30d0\u30b1\u3084\u3057\u304d!</span>, \"A Haunted House!\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:23</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Mei to Susuwatari</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u30e1\u30a4\u3068\u3059\u3059\u308f\u305f\u308a</span>, \"Mei and the Traveling Soot\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:34</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Yugure no Kaze</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u5915\u66ae\u308c\u306e\u98a8</span>, \"Evening Wind\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:01</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Kowakunai</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u3053\u308f\u304f\u306a\u3044</span>, \"Not Scared\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">0:44</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">7.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Omimai ni Ik\u014d</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u304a\u307f\u307e\u3044\u306b\u3044\u3053\u3046</span>, \"Let's Go to the Hospital\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:22</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">8.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Okaasan</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u304a\u304b\u3042\u3055\u3093</span>, \"Mother\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:07</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">9.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Chiisana Obake</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u5c0f\u3055\u306a\u30aa\u30d0\u30b1</span>, \"A Little Monster\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:54</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">10.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Totoro</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u30c8\u30c8\u30ed</span>, \"Totoro\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:49</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">11.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Tsukamori no Taiju</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u585a\u68ee\u306e\u5927\u6a39</span>, \"The Huge Tree in the Tsukamori Forest\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:15</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">12.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Maigo</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u307e\u3044\u3054</span>, \"A Lost Child\")</span>\" <span>(lyrics by Rieko Nakagawa, performed by Azumi Inoue)</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:48</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">13.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Kaze no Toorimichi (Insuturumentaru)</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u98a8\u306e\u3068\u304a\u308a\u9053 (\u30a4\u30f3\u30b9\u30c8\u30a5\u30eb\u30e1\u30f3\u30bf\u30eb)</span>, \"The Path of Wind (Instrumental)\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:17</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">14.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Zubunure Obake</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u305a\u3076\u306c\u308c\u30aa\u30d0\u30b1</span>, \"A Drenched Monster\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:34</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">15.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Tsukiyo no Hik\u014d</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u6708\u591c\u306e\u98db\u884c</span>, \"Moonlight Flight\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:06</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">16.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Mei ga Inai</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u30e1\u30a4\u304c\u3044\u306a\u3044</span>, \"Mei is Missing\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:32</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">17.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Nekobasu</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u306d\u3053\u30d0\u30b9</span>, \"Catbus\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:11</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">18.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Yokattane</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u3088\u304b\u3063\u305f\u306d</span>, \"I'm So Glad\")</span>\"</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:15</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">19.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Tonari no Totoro</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed</span>, \"My Neighbor Totoro (The Ending Song)\")</span>\" <span>(lyrics by <span>Hayao Miyazaki</span>, performed by Azumi Inoue)</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4:17</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">20.</td><td style=\"vertical-align:top\">\"<i lang=\"ja-Latn\" title=\"Hepburn transliteration\">Sanpo (Gassh\u014d-tsuki)</i><span style=\"font-weight: normal\"> (<span lang=\"ja\">\u3055\u3093\u307d(\u5408\u5531\u3064\u304d)</span>, \"Stroll (Choir)\")</span>\" <span>(lyrics by Rieko Nakagawa, performed by Azumi Inoue and the Suginami Children's Choir)</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:43</td></tr><tr><td colspan=\"2\" style=\"padding:0\"><span style=\"width:7.5em;float:right;padding-left:10px;background-color:#eee;margin-right:2px\"><b>Total length:</b></span></td><td style=\"padding:0 10px 0 0;text-align:right;background-color:#eee\"><b>45:15</b></td></tr></tbody></table><br/><h3>Licensed merchandise</h3><p>Numerous licensed merchandise of Totoro have been sold in Japan for decades after the film's release. Totoro licensed merchandise sales in Japan grossed \u00a510.97 billion in 1999, \u00a556.08 billion during 2003\u20132007, at least \u00a54.1 billion in 2008, and \u00a519.96 billion during 2010\u20132012. Combined, Totoro licensed merchandise sales have grossed at least \u00a591.11 billion ($1,142 million) in Japan between 1999 and 2012.</p><br/><h3>Awards and nominations</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Year</th><th>Title</th><th>Award</th><th>Category</th><th>Result</th></tr><tr><td rowspan=\"6\">1989</td><td rowspan=\"7\"><i>My Neighbor Totoro</i></td><td rowspan=\"2\"><span class=\"mw-redirect\">Kinema Junpo Awards</span></td><td><span>Kinema Junpo Award \u2013 Best Film</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>Readers' Choice Award \u2013 Best Japanese Film</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td rowspan=\"2\"><span class=\"mw-redirect\">Mainichi Film Award</span></td><td><span>Best Film</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>\u014cfuji Nobur\u014d Award</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Blue Ribbon Awards</span></td><td>Special Award</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Animage</span> Anime Awards</td><td>Grand Prix prize</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td>1995</td><td><span>Saturn Awards</span></td><td>Best Genre Video Release</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0096283",
+        "title": "My Neighbor Totoro",
+        "fullTitle": "My Neighbor Totoro (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "posters": [
+            {
+                "id": "rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+                "link": "https://imdb-api.com/posters/original/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "xPTqr2T9zfpMLuAfaHJ88rEpgAp.jpg",
+                "link": "https://imdb-api.com/posters/original/xPTqr2T9zfpMLuAfaHJ88rEpgAp.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "bg",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "x82ywsr36mChOGE6RXnnrJxj03u.jpg",
+                "link": "https://imdb-api.com/posters/original/x82ywsr36mChOGE6RXnnrJxj03u.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "sv",
+                "width": 1364,
+                "height": 2046
+            },
+            {
+                "id": "4h4diYnM87MSvdCjwfZ40grQQkK.jpg",
+                "link": "https://imdb-api.com/posters/original/4h4diYnM87MSvdCjwfZ40grQQkK.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "sv",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "ygejPdwdpOqeC1FyisofWbyySrD.jpg",
+                "link": "https://imdb-api.com/posters/original/ygejPdwdpOqeC1FyisofWbyySrD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "he",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "ykeaF3Ldz1Kf6sfnOJJH4dW56F4.jpg",
+                "link": "https://imdb-api.com/posters/original/ykeaF3Ldz1Kf6sfnOJJH4dW56F4.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "ja",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "4qcxXQfg6u8O233FfBYnxVXimPl.jpg",
+                "link": "https://imdb-api.com/posters/original/4qcxXQfg6u8O233FfBYnxVXimPl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "ru",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "37v1ABRuDJLddL1uegJAbuIuhmw.jpg",
+                "link": "https://imdb-api.com/posters/original/37v1ABRuDJLddL1uegJAbuIuhmw.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "es",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "4TAaAvJUYUodrGbic03WquKLAb8.jpg",
+                "link": "https://imdb-api.com/posters/original/4TAaAvJUYUodrGbic03WquKLAb8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fdQTEzDt3CSAlJU8x2DwutfesDG.jpg",
+                "link": "https://imdb-api.com/posters/original/fdQTEzDt3CSAlJU8x2DwutfesDG.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "wQg3wXzwDpip8PXHij9574aEupX.jpg",
+                "link": "https://imdb-api.com/posters/original/wQg3wXzwDpip8PXHij9574aEupX.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "it",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "62herWahOX1NimXz9WsmPmhu2fV.jpg",
+                "link": "https://imdb-api.com/posters/original/62herWahOX1NimXz9WsmPmhu2fV.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "4FFS4QBd8gMsNJ2OJgPJcNb3mEl.jpg",
+                "link": "https://imdb-api.com/posters/original/4FFS4QBd8gMsNJ2OJgPJcNb3mEl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "kJTN9posdljj9dTLsXcXorTyfU7.jpg",
+                "link": "https://imdb-api.com/posters/original/kJTN9posdljj9dTLsXcXorTyfU7.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "nQHnJQhhTD4JDfVSTFndTxmKO7s.jpg",
+                "link": "https://imdb-api.com/posters/original/nQHnJQhhTD4JDfVSTFndTxmKO7s.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "7FQ1jDnCoSvFPyWWJrM0OKpUvK3.jpg",
+                "link": "https://imdb-api.com/posters/original/7FQ1jDnCoSvFPyWWJrM0OKpUvK3.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "zh",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "caf6kpPYkDBFL8A9D66kbm4X4JV.jpg",
+                "link": "https://imdb-api.com/posters/original/caf6kpPYkDBFL8A9D66kbm4X4JV.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 600,
+                "height": 900
+            },
+            {
+                "id": "1nOm07Mg3nsxVSlXHmbcQQyVp17.jpg",
+                "link": "https://imdb-api.com/posters/original/1nOm07Mg3nsxVSlXHmbcQQyVp17.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 600,
+                "height": 900
+            },
+            {
+                "id": "fCSs8vTbstM2x17acmNO0SlRXU9.jpg",
+                "link": "https://imdb-api.com/posters/original/fCSs8vTbstM2x17acmNO0SlRXU9.jpg",
+                "aspectRatio": 0.667,
+                "language": "en",
+                "width": 667,
+                "height": 1000
+            },
+            {
+                "id": "b8YgXJLTDAlayqKR8Wb8lTXPUxo.jpg",
+                "link": "https://imdb-api.com/posters/original/b8YgXJLTDAlayqKR8Wb8lTXPUxo.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "csiklRMzvXRLKtFcIlEDeEU7nWr.jpg",
+                "link": "https://imdb-api.com/posters/original/csiklRMzvXRLKtFcIlEDeEU7nWr.jpg",
+                "aspectRatio": 0.7014809041309431,
+                "language": "ko",
+                "width": 900,
+                "height": 1283
+            },
+            {
+                "id": "uCOLhUmvLsIwi3Wr6wtaByyIdQu.jpg",
+                "link": "https://imdb-api.com/posters/original/uCOLhUmvLsIwi3Wr6wtaByyIdQu.jpg",
+                "aspectRatio": 0.7017543859649122,
+                "language": "ko",
+                "width": 2000,
+                "height": 2850
+            },
+            {
+                "id": "rGbhdqMMWfD193m6yYpGCvOnCzI.jpg",
+                "link": "https://imdb-api.com/posters/original/rGbhdqMMWfD193m6yYpGCvOnCzI.jpg",
+                "aspectRatio": 0.7223684210526315,
+                "language": "ja",
+                "width": 1098,
+                "height": 1520
+            },
+            {
+                "id": "A3QoUNvDdMLOebLdaLjQW6GgOc3.jpg",
+                "link": "https://imdb-api.com/posters/original/A3QoUNvDdMLOebLdaLjQW6GgOc3.jpg",
+                "aspectRatio": 0.66711140760507,
+                "language": "ru",
+                "width": 1000,
+                "height": 1499
+            },
+            {
+                "id": "ahsBCC9gFChhiK2uIHAeKFEfbRr.jpg",
+                "link": "https://imdb-api.com/posters/original/ahsBCC9gFChhiK2uIHAeKFEfbRr.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1364,
+                "height": 2046
+            },
+            {
+                "id": "yAfRfwlh6v32WsoyxAo6cm7NSf9.jpg",
+                "link": "https://imdb-api.com/posters/original/yAfRfwlh6v32WsoyxAo6cm7NSf9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "de",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "g6CsQ3xmalyrGzTSqmkZbNbHK3L.jpg",
+                "link": "https://imdb-api.com/posters/original/g6CsQ3xmalyrGzTSqmkZbNbHK3L.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "cZ8OKnRX6fsQAGG78KKqpS2MDo.jpg",
+                "link": "https://imdb-api.com/posters/original/cZ8OKnRX6fsQAGG78KKqpS2MDo.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dWPvhKuqK4WCWJt9iwkLhLSGkCw.jpg",
+                "link": "https://imdb-api.com/posters/original/dWPvhKuqK4WCWJt9iwkLhLSGkCw.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1364,
+                "height": 2046
+            },
+            {
+                "id": "j6jHzqqkHOacr5GOSg4bOfDf58i.jpg",
+                "link": "https://imdb-api.com/posters/original/j6jHzqqkHOacr5GOSg4bOfDf58i.jpg",
+                "aspectRatio": 0.6785411365564037,
+                "language": "zh",
+                "width": 1600,
+                "height": 2358
+            },
+            {
+                "id": "4NGYdmOKokMgsAcSuaXMcuqbYiX.jpg",
+                "link": "https://imdb-api.com/posters/original/4NGYdmOKokMgsAcSuaXMcuqbYiX.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "fr",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "xWHETLaBcq6FeOPjiu7zlLQUsKO.jpg",
+                "link": "https://imdb-api.com/posters/original/xWHETLaBcq6FeOPjiu7zlLQUsKO.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "pl",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "aYbj5uFxEBMewFIlBJFw3uwdf5P.jpg",
+                "link": "https://imdb-api.com/posters/original/aYbj5uFxEBMewFIlBJFw3uwdf5P.jpg",
+                "aspectRatio": 0.666046511627907,
+                "language": "en",
+                "width": 716,
+                "height": 1075
+            },
+            {
+                "id": "lrk26QWQpJ3CmhEjnh8CVETwqaw.jpg",
+                "link": "https://imdb-api.com/posters/original/lrk26QWQpJ3CmhEjnh8CVETwqaw.jpg",
+                "aspectRatio": 0.7017543859649122,
+                "language": "ko",
+                "width": 2000,
+                "height": 2850
+            },
+            {
+                "id": "rkutNNClyPg1fBzhAYZnpzVXSUX.jpg",
+                "link": "https://imdb-api.com/posters/original/rkutNNClyPg1fBzhAYZnpzVXSUX.jpg",
+                "aspectRatio": 0.6923532898636633,
+                "language": "ko",
+                "width": 1168,
+                "height": 1687
+            },
+            {
+                "id": "2uqm12hZ9M7E65noznOyp92U9QW.jpg",
+                "link": "https://imdb-api.com/posters/original/2uqm12hZ9M7E65noznOyp92U9QW.jpg",
+                "aspectRatio": 0.7131715771230502,
+                "language": "ko",
+                "width": 823,
+                "height": 1154
+            },
+            {
+                "id": "9CgfZItCjGOzjB87bUj3HqEATTG.jpg",
+                "link": "https://imdb-api.com/posters/original/9CgfZItCjGOzjB87bUj3HqEATTG.jpg",
+                "aspectRatio": 0.7,
+                "language": "es",
+                "width": 1050,
+                "height": 1500
+            },
+            {
+                "id": "qzjku2qLGpCtVTu2GXe9SyixHDj.jpg",
+                "link": "https://imdb-api.com/posters/original/qzjku2qLGpCtVTu2GXe9SyixHDj.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "y7yn6W3lE56rBXQxDz7unLGoqbG.jpg",
+                "link": "https://imdb-api.com/posters/original/y7yn6W3lE56rBXQxDz7unLGoqbG.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "fa6yHH5YjENoEoa2Vuua2T8cQLz.jpg",
+                "link": "https://imdb-api.com/posters/original/fa6yHH5YjENoEoa2Vuua2T8cQLz.jpg",
+                "aspectRatio": 0.7078417765440667,
+                "language": "no",
+                "width": 1020,
+                "height": 1441
+            },
+            {
+                "id": "6m6xB2e8LzNPeGCAqq94T4KBnOq.jpg",
+                "link": "https://imdb-api.com/posters/original/6m6xB2e8LzNPeGCAqq94T4KBnOq.jpg",
+                "aspectRatio": 0.7047619047619048,
+                "language": "de",
+                "width": 1480,
+                "height": 2100
+            },
+            {
+                "id": "t8vEvF2lU59EMaQfObQ7n57Ycen.jpg",
+                "link": "https://imdb-api.com/posters/original/t8vEvF2lU59EMaQfObQ7n57Ycen.jpg",
+                "aspectRatio": 0.712,
+                "language": "bg",
+                "width": 1424,
+                "height": 2000
+            },
+            {
+                "id": "1zKPX8TpwRX3LgG1W6YxdumQVAL.jpg",
+                "link": "https://imdb-api.com/posters/original/1zKPX8TpwRX3LgG1W6YxdumQVAL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "he",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "34X62df2y3E8Lb8YXCapxT7tNRI.jpg",
+                "link": "https://imdb-api.com/posters/original/34X62df2y3E8Lb8YXCapxT7tNRI.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1364,
+                "height": 2046
+            },
+            {
+                "id": "33rpl44waztz16a2POUi7hSKIHi.jpg",
+                "link": "https://imdb-api.com/posters/original/33rpl44waztz16a2POUi7hSKIHi.jpg",
+                "aspectRatio": 0.6973333333333334,
+                "language": "ko",
+                "width": 523,
+                "height": 750
+            },
+            {
+                "id": "bnk3kHHqThwJ7EturoN2cvV1ERb.jpg",
+                "link": "https://imdb-api.com/posters/original/bnk3kHHqThwJ7EturoN2cvV1ERb.jpg",
+                "aspectRatio": 0.5555555555555556,
+                "language": "ja",
+                "width": 1500,
+                "height": 2700
+            },
+            {
+                "id": "s9rvFr8FBAg4oxikdqiSi36Na3a.jpg",
+                "link": "https://imdb-api.com/posters/original/s9rvFr8FBAg4oxikdqiSi36Na3a.jpg",
+                "aspectRatio": 0.70875,
+                "language": "ja",
+                "width": 1134,
+                "height": 1600
+            },
+            {
+                "id": "m0yS5wGtZkIX0chMarijkQsUKC2.jpg",
+                "link": "https://imdb-api.com/posters/original/m0yS5wGtZkIX0chMarijkQsUKC2.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "uk",
+                "width": 1500,
+                "height": 2250
+            },
+            {
+                "id": "odrnKBzeDJ5i3LwUxw31ksw2yof.jpg",
+                "link": "https://imdb-api.com/posters/original/odrnKBzeDJ5i3LwUxw31ksw2yof.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "sv",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "xr7WvUy8XYsrdeex4ypQJXM09Zj.jpg",
+                "link": "https://imdb-api.com/posters/original/xr7WvUy8XYsrdeex4ypQJXM09Zj.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "ja",
+                "width": 1176,
+                "height": 1764
+            }
+        ],
+        "backdors": [
+            {
+                "id": "pkwiqof3l7lOG6E2Zu8vix6X7qE.jpg",
+                "link": "https://imdb-api.com/posters/original/pkwiqof3l7lOG6E2Zu8vix6X7qE.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "hoIqf9YjZM0oQOrFXp8DcucJ3Jg.jpg",
+                "link": "https://imdb-api.com/posters/original/hoIqf9YjZM0oQOrFXp8DcucJ3Jg.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "uH824ZGXGTSZIMpWFWnd3LNtsqK.jpg",
+                "link": "https://imdb-api.com/posters/original/uH824ZGXGTSZIMpWFWnd3LNtsqK.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "txW90SMpSjkW3FWH5FjrAQ6sNvZ.jpg",
+                "link": "https://imdb-api.com/posters/original/txW90SMpSjkW3FWH5FjrAQ6sNvZ.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "sm2G4RAuuU13BMkswJvgHWCfKQA.jpg",
+                "link": "https://imdb-api.com/posters/original/sm2G4RAuuU13BMkswJvgHWCfKQA.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "4GyBpg3uakJWzZk929jeU2bcc2U.jpg",
+                "link": "https://imdb-api.com/posters/original/4GyBpg3uakJWzZk929jeU2bcc2U.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "3xPQWdMfwT9Ht5mqLCFDhpL2J9U.jpg",
+                "link": "https://imdb-api.com/posters/original/3xPQWdMfwT9Ht5mqLCFDhpL2J9U.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "h7Wua6zW5IHAes1XRRggao8LUMa.jpg",
+                "link": "https://imdb-api.com/posters/original/h7Wua6zW5IHAes1XRRggao8LUMa.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "mvpPslST6buOd5UmVE8lPkfqTk3.jpg",
+                "link": "https://imdb-api.com/posters/original/mvpPslST6buOd5UmVE8lPkfqTk3.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "n8lyQkgnWICIEC1DYkwhN6b7Mzk.jpg",
+                "link": "https://imdb-api.com/posters/original/n8lyQkgnWICIEC1DYkwhN6b7Mzk.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "sCHYzrb7ZAllddXbkIpwKchRaLd.jpg",
+                "link": "https://imdb-api.com/posters/original/sCHYzrb7ZAllddXbkIpwKchRaLd.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "f7mFlPKaighGXxKVFJHQ8d9Fmy2.jpg",
+                "link": "https://imdb-api.com/posters/original/f7mFlPKaighGXxKVFJHQ8d9Fmy2.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "wyrptpH6V7pKKOFXbpWBMaQVq2F.jpg",
+                "link": "https://imdb-api.com/posters/original/wyrptpH6V7pKKOFXbpWBMaQVq2F.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nBD1Pgw7pQjrPXYUueI7upOfdTb.jpg",
+                "link": "https://imdb-api.com/posters/original/nBD1Pgw7pQjrPXYUueI7upOfdTb.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nmdQKPFH5Z52ZIV0Pe9jK54gIWg.jpg",
+                "link": "https://imdb-api.com/posters/original/nmdQKPFH5Z52ZIV0Pe9jK54gIWg.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "395Dq8aMJXvYjvTmuINlIxndCZI.jpg",
+                "link": "https://imdb-api.com/posters/original/395Dq8aMJXvYjvTmuINlIxndCZI.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "3jpeLcJG5BXUc1NJfUdcrAUrnuC.jpg",
+                "link": "https://imdb-api.com/posters/original/3jpeLcJG5BXUc1NJfUdcrAUrnuC.jpg",
+                "aspectRatio": 1.777777777777778,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0096283",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt0096283",
+        "title": "My Neighbor Totoro",
+        "fullTitle": "My Neighbor Totoro (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "$3,700,000 (estimated)",
+        "openingWeekendUSA": "$539,245, 30 September 2018",
+        "grossUSA": "$2,250,213",
+        "cumulativeWorldwideGross": "$30,476,708"
+    },
+    "tagline": "",
+    "keywords": "sister sister relationship,magical realism,studio ghibli,sick mother,cat bus",
+    "keywordList": [
+        "sister sister relationship",
+        "magical realism",
+        "studio ghibli",
+        "sick mother",
+        "cat bus"
+    ],
+    "similars": [
+        {
+            "id": "tt0245429",
+            "title": "Spirited Away",
+            "fullTitle": "Spirited Away (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Daveigh Chase, Suzanne Pleshette, Miyu Irino",
+            "genres": "Animation, Adventure, Family",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0347149",
+            "title": "Howl's Moving Castle",
+            "fullTitle": "Howl's Moving Castle (2004)",
+            "year": "2004",
+            "image": "https://imdb-api.com/images/original/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Chieko Baish\u00f4, Takuya Kimura, Tatsuya Gash\u00fbin",
+            "genres": "Animation, Adventure, Family",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0097814",
+            "title": "Kiki's Delivery Service",
+            "fullTitle": "Kiki's Delivery Service (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BN2QyZmFjMTEtZjdjYy00NmE4LTkzZTgtMzhkNjFlMGEwNTY5L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Kirsten Dunst, Minami Takayama, Rei Sakuma",
+            "genres": "Animation, Adventure, Drama",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0092067",
+            "title": "Castle in the Sky",
+            "fullTitle": "Castle in the Sky (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BZTAwYzA2ZTgtZGE1Zi00MThkLTljNjMtNGE2ZTUzMTU4MzNjXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui",
+            "genres": "Animation, Adventure, Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0876563",
+            "title": "Ponyo",
+            "fullTitle": "Ponyo (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BOTc3YmM3N2QtODZkMC00ZDE5LThjMTQtYTljN2Y1YTYwYWJkXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Cate Blanchett, Matt Damon, Liam Neeson",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt1568921",
+            "title": "The Secret World of Arrietty",
+            "fullTitle": "The Secret World of Arrietty (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home. Life changes for the Clocks when their teenage daughter, Arrietty, is discovered.",
+            "directors": "Hiromasa Yonebayashi",
+            "stars": "Bridgit Mendler, Amy Poehler, Will Arnett",
+            "genres": "Animation, Adventure, Family",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0266543",
+            "title": "Finding Nemo",
+            "fullTitle": "Finding Nemo (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+            "directors": "Directors: Andrew Stanton, Lee Unkrich",
+            "stars": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt1049413",
+            "title": "Up",
+            "fullTitle": "Up (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+            "directors": "Directors: Pete Docter, Bob Peterson",
+            "stars": "Edward Asner, Jordan Nagai, John Ratzenberger",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt2096673",
+            "title": "Inside Out",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+            "directors": "Directors: Pete Docter, Ronnie Del Carmen",
+            "stars": "Amy Poehler, Bill Hader, Lewis Black",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0113824",
+            "title": "Whisper of the Heart",
+            "fullTitle": "Whisper of the Heart (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BZDg0MWNmNjktMGEwZC00ZDlmLWI1MTUtMDBmNjQzMWM2NjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A love story between a girl who loves reading books, and a boy who has previously checked out all of the library books she chooses.",
+            "directors": "Yoshifumi Kond\u00f4",
+            "stars": "Yoko Honna, Issey Takahashi, Takashi Tachibana",
+            "genres": "Animation, Drama, Family",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt0910970",
+            "title": "WALL\u00b7E",
+            "fullTitle": "WALL\u00b7E (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+            "directors": "Andrew Stanton",
+            "stars": "Ben Burtt, Elissa Knight, Jeff Garlin",
+            "genres": "Animation, Adventure, Family",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0114709",
+            "title": "Toy Story",
+            "fullTitle": "Toy Story (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+            "directors": "John Lasseter",
+            "stars": "Tom Hanks, Tim Allen, Don Rickles",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "8.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

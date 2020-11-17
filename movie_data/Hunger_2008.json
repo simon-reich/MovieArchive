@@ -1,0 +1,1786 @@
+{
+    "id": "tt0986233",
+    "title": "Hunger",
+    "originalTitle": "",
+    "fullTitle": "Hunger (2008)",
+    "type": "Movie",
+    "year": "2008",
+    "image": "https://imdb-api.com/images/original/MV5BOWY5YTNkOTMtNmE2NC00ODhlLWJiYzEtYThhYWU2MjQ1MmNmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2008-10-02",
+    "runtimeMins": "96",
+    "runtimeStr": "1h 36mins",
+    "plot": "Hunger follows life in the Maze Prison, Northern Ireland with an interpretation of the highly emotive events surrounding the 1981 IRA Hunger Strike, led by Bobby Sands. With an epic eye for detail, the film provides a timely exploration of what happens when body and mind are pushed to the uttermost limit.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "48 wins & 38 nominations.",
+    "directors": "Steve McQueen",
+    "directorList": [
+        {
+            "id": "nm2588606",
+            "name": "Steve McQueen"
+        }
+    ],
+    "writers": "Enda Walsh, Steve McQueen",
+    "writerList": [
+        {
+            "id": "nm0909629",
+            "name": "Enda Walsh"
+        },
+        {
+            "id": "nm2588606",
+            "name": "Steve McQueen"
+        }
+    ],
+    "stars": "Stuart Graham, Laine Megaw, Brian Milligan, Liam McMahon",
+    "starList": [
+        {
+            "id": "nm0334324",
+            "name": "Stuart Graham"
+        },
+        {
+            "id": "nm0002565",
+            "name": "Laine Megaw"
+        },
+        {
+            "id": "nm0589665",
+            "name": "Brian Milligan"
+        },
+        {
+            "id": "nm0573054",
+            "name": "Liam McMahon"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0334324",
+            "image": "https://imdb-api.com/images/original/MV5BZDBmOTg3MjktNGFhZC00N2ZhLTk3NzctMWM1YzU1NmI2MGVlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Stuart Graham",
+            "asCharacter": "Raymond Lohan"
+        },
+        {
+            "id": "nm0002565",
+            "image": "https://imdb-api.com/images/original/MV5BOTY4MDJhY2ItZmRhZS00M2Q1LWEyMjktMDZkYjFmMTA3ZDgzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Laine Megaw",
+            "asCharacter": "Raymond's Wife"
+        },
+        {
+            "id": "nm0589665",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5NDI5ODY3NV5BMl5BanBnXkFtZTcwMTk3NjQwMg@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Brian Milligan",
+            "asCharacter": "Davey Gillen"
+        },
+        {
+            "id": "nm0573054",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxMDMzNjEwN15BMl5BanBnXkFtZTcwOTgzNzQ1OQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Liam McMahon",
+            "asCharacter": "Gerry Campbell"
+        },
+        {
+            "id": "nm2703591",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ5ODE5Mzg3N15BMl5BanBnXkFtZTgwODg4MDgzODE@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Karen Hassan",
+            "asCharacter": "Gerry's Girlfriend"
+        },
+        {
+            "id": "nm1055413",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Fassbender",
+            "asCharacter": "Bobby Sands"
+        },
+        {
+            "id": "nm0531577",
+            "image": "https://imdb-api.com/images/original/MV5BMjM1NjExMzcxM15BMl5BanBnXkFtZTgwMTk5NDIyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Frank McCusker",
+            "asCharacter": "The Governor"
+        },
+        {
+            "id": "nm0734498",
+            "image": "https://imdb-api.com/images/original/MV5BMTM3NjkxNTUwNV5BMl5BanBnXkFtZTcwMTk4MTE4OA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Lalor Roddy",
+            "asCharacter": "William"
+        },
+        {
+            "id": "nm3028962",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Helen Madden",
+            "asCharacter": "Mrs. Sands"
+        },
+        {
+            "id": "nm0563922",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Des McAleer",
+            "asCharacter": "Mr. Sands"
+        },
+        {
+            "id": "nm2207188",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Geoff Gatt",
+            "asCharacter": "Bearded Man"
+        },
+        {
+            "id": "nm1259150",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rory Mullen",
+            "asCharacter": "Priest"
+        },
+        {
+            "id": "nm0670222",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ben Peel",
+            "asCharacter": "Riot Prison Offficer Stephen Graves"
+        },
+        {
+            "id": "nm2376067",
+            "image": "https://imdb-api.com/images/original/MV5BMWUyMDJkYzItMjMzZi00NDQ4LWFjZmMtYzVjYmE4MDlmMjcxXkEyXkFqcGdeQXVyODk5Mzc0NTI@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Helena Bereen",
+            "asCharacter": "Raymond's Mother"
+        },
+        {
+            "id": "nm1572219",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paddy Jenkins",
+            "asCharacter": "Hitman"
+        },
+        {
+            "id": "nm0192377",
+            "image": "https://imdb-api.com/images/original/MV5BMjEyMDM0NzQ5NV5BMl5BanBnXkFtZTcwNDkyODQyNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Liam Cunningham",
+            "asCharacter": "Father Dominic Moran"
+        },
+        {
+            "id": "nm0164667",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Billy Clarke",
+            "asCharacter": "Chief Medical Officer"
+        },
+        {
+            "id": "nm2192867",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ciaran Flynn",
+            "asCharacter": "Twelve Year Old Bobby"
+        },
+        {
+            "id": "nm0389698",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "B.J. Hogg",
+            "asCharacter": "Loyalist Orderly"
+        },
+        {
+            "id": "nm7022427",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Neal Hughes",
+            "asCharacter": "Prison Officer"
+        },
+        {
+            "id": "nm2495387",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Larry Cowan",
+            "asCharacter": "Prison Guard (uncredited)"
+        },
+        {
+            "id": "nm2742088",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tom Dart",
+            "asCharacter": "Guard (uncredited)"
+        },
+        {
+            "id": "nm4102014",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Denis Halligan",
+            "asCharacter": "Naked Prisoner (uncredited)"
+        },
+        {
+            "id": "nm2564206",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Thomas James Scott",
+            "asCharacter": "Riot Officer (uncredited)"
+        },
+        {
+            "id": "nm0857137",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzODEwNjk3Nl5BMl5BanBnXkFtZTcwMjIzNzUzOQ@@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Margaret Thatcher",
+            "asCharacter": "Self - Prime Minister of the United Kingdom (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0986233",
+        "title": "Hunger",
+        "fullTitle": "Hunger (2008)",
+        "type": "Movie",
+        "year": "2008",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm2588606",
+                    "name": "Steve McQueen",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0909629",
+                    "name": "Enda Walsh",
+                    "description": "(written by) and"
+                },
+                {
+                    "id": "nm2588606",
+                    "name": "Steve McQueen",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0334324",
+                "image": "https://imdb-api.com/images/original/MV5BZDBmOTg3MjktNGFhZC00N2ZhLTk3NzctMWM1YzU1NmI2MGVlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+                "name": "Stuart Graham",
+                "asCharacter": "Raymond Lohan"
+            },
+            {
+                "id": "nm0002565",
+                "image": "https://imdb-api.com/images/original/MV5BOTY4MDJhY2ItZmRhZS00M2Q1LWEyMjktMDZkYjFmMTA3ZDgzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+                "name": "Laine Megaw",
+                "asCharacter": "Raymond's Wife"
+            },
+            {
+                "id": "nm0589665",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5NDI5ODY3NV5BMl5BanBnXkFtZTcwMTk3NjQwMg@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Brian Milligan",
+                "asCharacter": "Davey Gillen"
+            },
+            {
+                "id": "nm0573054",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxMDMzNjEwN15BMl5BanBnXkFtZTcwOTgzNzQ1OQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Liam McMahon",
+                "asCharacter": "Gerry Campbell"
+            },
+            {
+                "id": "nm2703591",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5ODE5Mzg3N15BMl5BanBnXkFtZTgwODg4MDgzODE@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Karen Hassan",
+                "asCharacter": "Gerry's Girlfriend"
+            },
+            {
+                "id": "nm1055413",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Fassbender",
+                "asCharacter": "Bobby Sands"
+            },
+            {
+                "id": "nm0531577",
+                "image": "https://imdb-api.com/images/original/MV5BMjM1NjExMzcxM15BMl5BanBnXkFtZTgwMTk5NDIyMjE@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Frank McCusker",
+                "asCharacter": "The Governor"
+            },
+            {
+                "id": "nm0734498",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3NjkxNTUwNV5BMl5BanBnXkFtZTcwMTk4MTE4OA@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Lalor Roddy",
+                "asCharacter": "William"
+            },
+            {
+                "id": "nm3028962",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Helen Madden",
+                "asCharacter": "Mrs. Sands"
+            },
+            {
+                "id": "nm0563922",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Des McAleer",
+                "asCharacter": "Mr. Sands"
+            },
+            {
+                "id": "nm2207188",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Geoff Gatt",
+                "asCharacter": "Bearded Man"
+            },
+            {
+                "id": "nm1259150",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rory Mullen",
+                "asCharacter": "Priest"
+            },
+            {
+                "id": "nm0670222",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ben Peel",
+                "asCharacter": "Riot Prison Offficer Stephen Graves"
+            },
+            {
+                "id": "nm2376067",
+                "image": "https://imdb-api.com/images/original/MV5BMWUyMDJkYzItMjMzZi00NDQ4LWFjZmMtYzVjYmE4MDlmMjcxXkEyXkFqcGdeQXVyODk5Mzc0NTI@._V1_Ratio0.9545_AL_.jpg",
+                "name": "Helena Bereen",
+                "asCharacter": "Raymond's Mother"
+            },
+            {
+                "id": "nm1572219",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Paddy Jenkins",
+                "asCharacter": "Hitman"
+            },
+            {
+                "id": "nm0192377",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyMDM0NzQ5NV5BMl5BanBnXkFtZTcwNDkyODQyNw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Liam Cunningham",
+                "asCharacter": "Father Dominic Moran"
+            },
+            {
+                "id": "nm0164667",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Billy Clarke",
+                "asCharacter": "Chief Medical Officer"
+            },
+            {
+                "id": "nm2192867",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ciaran Flynn",
+                "asCharacter": "Twelve Year Old Bobby"
+            },
+            {
+                "id": "nm0389698",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "B.J. Hogg",
+                "asCharacter": "Loyalist Orderly"
+            },
+            {
+                "id": "nm7022427",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Neal Hughes",
+                "asCharacter": "Prison Officer"
+            },
+            {
+                "id": "nm2495387",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Larry Cowan",
+                "asCharacter": "Prison Guard (uncredited)"
+            },
+            {
+                "id": "nm2742088",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tom Dart",
+                "asCharacter": "Guard (uncredited)"
+            },
+            {
+                "id": "nm4102014",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Denis Halligan",
+                "asCharacter": "Naked Prisoner (uncredited)"
+            },
+            {
+                "id": "nm2564206",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Thomas James Scott",
+                "asCharacter": "Riot Officer (uncredited)"
+            },
+            {
+                "id": "nm0857137",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzODEwNjk3Nl5BMl5BanBnXkFtZTcwMjIzNzUzOQ@@._V1_Ratio0.9545_AL_.jpg",
+                "name": "Margaret Thatcher",
+                "asCharacter": "Self - Prime Minister of the United Kingdom (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm2096617",
+                        "name": "Iain Canning",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm1275058",
+                        "name": "Peter Carlton",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0183556",
+                        "name": "Edmund Coulthard",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0349168",
+                        "name": "Robin Gutch",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm1232664",
+                        "name": "Laura Hastings-Smith",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0416700",
+                        "name": "Linda James",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm1585950",
+                        "name": "Andrew Litvin",
+                        "description": "line producer"
+                    },
+                    {
+                        "id": "nm1138697",
+                        "name": "Jan Younghusband",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm2876218",
+                        "name": "Leo Abrahams",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0391794",
+                        "name": "David Holmes",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0090312",
+                        "name": "Sean Bobbitt",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0907863",
+                        "name": "Joe Walker",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0205841",
+                        "name": "Gary Davy",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0567097",
+                        "name": "Tom McCullagh",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0710239",
+                        "name": "Brendan Rankin",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0631217",
+                        "name": "Anushia Nieradzik",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0288723",
+                        "name": "Jacqueline Fowler",
+                        "description": "chief hair designer / chief makeup designer"
+                    },
+                    {
+                        "id": "nm1444861",
+                        "name": "Cheryl Hill",
+                        "description": "hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm3278387",
+                        "name": "Judith Laverty",
+                        "description": "hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm1491650",
+                        "name": "Maria Moore",
+                        "description": "hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm1496403",
+                        "name": "Alison Rainey",
+                        "description": "key hair stylist / key makeup artist"
+                    },
+                    {
+                        "id": "nm3145829",
+                        "name": "Robyn Wheeler",
+                        "description": "hair stylist (as Robin Wheeler) / makeup artist (as Robin Wheeler)"
+                    },
+                    {
+                        "id": "nm2201494",
+                        "name": "Sian Wilson",
+                        "description": "hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm0175781",
+                        "name": "Stuart Conran",
+                        "description": "prosthetic technician (uncredited)"
+                    },
+                    {
+                        "id": "nm0296854",
+                        "name": "Dan Frye",
+                        "description": "prosthetics technician (uncredited)"
+                    },
+                    {
+                        "id": "nm2368895",
+                        "name": "Vesna Giordano",
+                        "description": "silicone prosthetics technician (uncredited)"
+                    },
+                    {
+                        "id": "nm3092742",
+                        "name": "Lisa Hill",
+                        "description": "makeup daily (uncredited)"
+                    },
+                    {
+                        "id": "nm0404931",
+                        "name": "Paul Hyett",
+                        "description": "special makeup effects artist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0394101",
+                        "name": "Alistair Hopkins",
+                        "description": "post-production supervisor"
+                    },
+                    {
+                        "id": "nm1634591",
+                        "name": "Cathy Mooney",
+                        "description": "production supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm4715780",
+                        "name": "Michele Burn",
+                        "description": "assistant director runner"
+                    },
+                    {
+                        "id": "nm0271876",
+                        "name": "Mark Fenn",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0361333",
+                        "name": "Matthew Hanson",
+                        "description": "second assistant director (as Matt Hanson)"
+                    },
+                    {
+                        "id": "nm2641021",
+                        "name": "Adam Philpott",
+                        "description": "third assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm2619513",
+                        "name": "Antony Buonomo",
+                        "description": "graphic artist"
+                    },
+                    {
+                        "id": "nm4716374",
+                        "name": "Diarmid Carr",
+                        "description": "dressing props"
+                    },
+                    {
+                        "id": "nm4324008",
+                        "name": "David Carson",
+                        "description": "dressing props"
+                    },
+                    {
+                        "id": "nm4715920",
+                        "name": "Paul Cooke",
+                        "description": "plasterer"
+                    },
+                    {
+                        "id": "nm1642130",
+                        "name": "Cole Doherty",
+                        "description": "construction manager"
+                    },
+                    {
+                        "id": "nm4715867",
+                        "name": "Hugh Gault",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm1072924",
+                        "name": "Neville Gaynor",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm2503094",
+                        "name": "Heather Greenlees",
+                        "description": "assistant art director"
+                    },
+                    {
+                        "id": "nm0373280",
+                        "name": "Paul Hedges",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm1518977",
+                        "name": "Tommy Hilland",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm3076425",
+                        "name": "Colin Holmes",
+                        "description": "dressing props"
+                    },
+                    {
+                        "id": "nm4716235",
+                        "name": "Rebecca Luckley",
+                        "description": "art department runner"
+                    },
+                    {
+                        "id": "nm1828494",
+                        "name": "Daniel Lyons",
+                        "description": "standby painter (as Danny Lyons)"
+                    },
+                    {
+                        "id": "nm0560023",
+                        "name": "Frank Matthews",
+                        "description": "plasterer"
+                    },
+                    {
+                        "id": "nm4716300",
+                        "name": "Anto McCabe",
+                        "description": "plasterer"
+                    },
+                    {
+                        "id": "nm4716149",
+                        "name": "Thomas McCann",
+                        "description": "plasterer"
+                    },
+                    {
+                        "id": "nm4716194",
+                        "name": "Stuart McConnaughie",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm4715916",
+                        "name": "Dan McCoy",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm0570905",
+                        "name": "Pat McKane",
+                        "description": "standby props"
+                    },
+                    {
+                        "id": "nm0573700",
+                        "name": "Kieron Mcnamara",
+                        "description": "standby props"
+                    },
+                    {
+                        "id": "nm1640813",
+                        "name": "Alan Nixon",
+                        "description": "standby carpenter"
+                    },
+                    {
+                        "id": "nm1989401",
+                        "name": "Jim Reid",
+                        "description": "construction manager"
+                    },
+                    {
+                        "id": "nm4715745",
+                        "name": "Patsy Smith",
+                        "description": "plasterer"
+                    },
+                    {
+                        "id": "nm1952416",
+                        "name": "Sarah Speers",
+                        "description": "props buyer"
+                    },
+                    {
+                        "id": "nm0923967",
+                        "name": "Steve Wheeler",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm3821951",
+                        "name": "Neil McNally",
+                        "description": "props (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0189716",
+                        "name": "Daniel Crowley",
+                        "description": "sound maintenance engineer (as Danny Crowley)"
+                    },
+                    {
+                        "id": "nm1469929",
+                        "name": "Richard Davey",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0203888",
+                        "name": "Paul Davies",
+                        "description": "sound designer"
+                    },
+                    {
+                        "id": "nm0384638",
+                        "name": "Ronan Hill",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm2610592",
+                        "name": "Michael McKnight",
+                        "description": "sound trainee"
+                    },
+                    {
+                        "id": "nm0601617",
+                        "name": "Mervyn Moore",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm2739928",
+                        "name": "Laurence O'Keefe",
+                        "description": "sound maintenance engineer"
+                    },
+                    {
+                        "id": "nm1765726",
+                        "name": "Adam Ridge",
+                        "description": "sound maintenance engineer"
+                    },
+                    {
+                        "id": "nm2375457",
+                        "name": "Peter Shaw",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm2660496",
+                        "name": "Chu-Li Shewring",
+                        "description": "additional sound effects editor (as ChuLi Shewring)"
+                    },
+                    {
+                        "id": "nm2234059",
+                        "name": "Chris Treble",
+                        "description": "assistant sound re-recording mixer"
+                    },
+                    {
+                        "id": "nm0921480",
+                        "name": "Stephane Werner",
+                        "description": "french dubbing recorder and mixer"
+                    },
+                    {
+                        "id": "nm1255585",
+                        "name": "Antonia Bates",
+                        "description": "additional adr editor (uncredited)"
+                    },
+                    {
+                        "id": "nm3336646",
+                        "name": "Rachel Carberry",
+                        "description": "assistant adr recordist (uncredited)"
+                    },
+                    {
+                        "id": "nm2744445",
+                        "name": "Tom Deane",
+                        "description": "adr mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm0371553",
+                        "name": "Steve Haynes",
+                        "description": "adr recordist (uncredited)"
+                    },
+                    {
+                        "id": "nm0835381",
+                        "name": "Lionel Strutt",
+                        "description": "adr coordinator (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm1271069",
+                        "name": "Scott Peters",
+                        "description": "special effects technician (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm2548185",
+                        "name": "James Ballard",
+                        "description": "production executive: Dragon DI"
+                    },
+                    {
+                        "id": "nm2519177",
+                        "name": "Valentina Catena",
+                        "description": "digital grading assistant: Dragon DI"
+                    },
+                    {
+                        "id": "nm2912693",
+                        "name": "Michele De Benedetti",
+                        "description": "film scanning and clean-up: Dragon DI"
+                    },
+                    {
+                        "id": "nm2543971",
+                        "name": "Myfanwy Harris",
+                        "description": "visual effects artist: Dragon DI"
+                    },
+                    {
+                        "id": "nm2622415",
+                        "name": "Paul J. Wright",
+                        "description": "film scanning and recording manager: Dragon DI"
+                    },
+                    {
+                        "id": "nm0810536",
+                        "name": "Bob Smoke",
+                        "description": "visual effects supervisor: Bob Smoke Special Effects (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0071588",
+                        "name": "Andy Bennett",
+                        "description": "stunt artist"
+                    },
+                    {
+                        "id": "nm0249276",
+                        "name": "Jamie Edgell",
+                        "description": "stunt artist"
+                    },
+                    {
+                        "id": "nm0378609",
+                        "name": "Paul Herbert",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0609561",
+                        "name": "Mark Mottram",
+                        "description": "stunt artist"
+                    },
+                    {
+                        "id": "nm0640769",
+                        "name": "James O'Donnell",
+                        "description": "stunt artist (as James O'Dee)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm1557496",
+                        "name": "Tasha Back",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm0064576",
+                        "name": "Brian Beaumont",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm1224535",
+                        "name": "Louise Ben-Nathan",
+                        "description": "camera loader (as Louise Ben Nathan)"
+                    },
+                    {
+                        "id": "nm0143543",
+                        "name": "Steve Casey",
+                        "description": "generator operator"
+                    },
+                    {
+                        "id": "nm1231049",
+                        "name": "Rob Collins",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm2035592",
+                        "name": "Ian Glenister",
+                        "description": "rigging gaffer"
+                    },
+                    {
+                        "id": "nm0358664",
+                        "name": "Conor Hammond",
+                        "description": "focus puller"
+                    },
+                    {
+                        "id": "nm2668195",
+                        "name": "Steffan Hill",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm4715952",
+                        "name": "Gary Hutchinson",
+                        "description": "standby rigger"
+                    },
+                    {
+                        "id": "nm1383279",
+                        "name": "Jill Jennings",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm0562587",
+                        "name": "Davey Mayes",
+                        "description": "electrician (as Davie Mayes)"
+                    },
+                    {
+                        "id": "nm2835205",
+                        "name": "Stephen McBroom",
+                        "description": "camera trainee"
+                    },
+                    {
+                        "id": "nm0597129",
+                        "name": "Paul Molloy",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm1094426",
+                        "name": "Stephen Murphy",
+                        "description": "steadicam operator"
+                    },
+                    {
+                        "id": "nm0700065",
+                        "name": "Steve Pugh",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0990365",
+                        "name": "Suzanne Sanders",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm3365293",
+                        "name": "Hugo Wilkinson",
+                        "description": "rigger"
+                    },
+                    {
+                        "id": "nm2915437",
+                        "name": "Ruth Woodside",
+                        "description": "camera trainee: second unit"
+                    },
+                    {
+                        "id": "nm2485075",
+                        "name": "Rob Gilmour",
+                        "description": "clapper loader dailies (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm3238824",
+                        "name": "Clare Ewing",
+                        "description": "casting assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm1193373",
+                        "name": "Louise Allen",
+                        "description": "assistant costume designer"
+                    },
+                    {
+                        "id": "nm0057848",
+                        "name": "Carla Barrow",
+                        "description": "costume assistant"
+                    },
+                    {
+                        "id": "nm0132386",
+                        "name": "Diane Campbell",
+                        "description": "wardrobe assistant"
+                    },
+                    {
+                        "id": "nm2202633",
+                        "name": "Anna McCaughtry",
+                        "description": "costume standby"
+                    },
+                    {
+                        "id": "nm3050683",
+                        "name": "Heather Long",
+                        "description": "daily costume assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm2757525",
+                        "name": "Geoffrey R. Case",
+                        "description": "colorist"
+                    },
+                    {
+                        "id": "nm2437022",
+                        "name": "Phil Eldridge",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm2969778",
+                        "name": "Julie Harding",
+                        "description": "digital intermediate producer (as Julie Pucher)"
+                    },
+                    {
+                        "id": "nm2543971",
+                        "name": "Myfanwy Harris",
+                        "description": "digital intermediate operator"
+                    },
+                    {
+                        "id": "nm3374153",
+                        "name": "Claire O'Neill",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm2120252",
+                        "name": "Tony Ray",
+                        "description": "digital intermediate executive"
+                    },
+                    {
+                        "id": "nm1583164",
+                        "name": "Sara Janasz",
+                        "description": "post-production coordinator (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm2768193",
+                        "name": "David Cooke",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm0311276",
+                        "name": "Catherine Geary",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm2616635",
+                        "name": "Damien Glenholmes",
+                        "description": "location scout"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm1312792",
+                        "name": "Hugo Nicolson",
+                        "description": "score mixer"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0249216",
+                        "name": "Kirstie Edgar",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm2010039",
+                        "name": "Johnny Crawford",
+                        "description": "unit driver"
+                    },
+                    {
+                        "id": "nm4716042",
+                        "name": "Sharron McBride",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm3370939",
+                        "name": "Dermott McKee",
+                        "description": "driver: minibus (as Dermot McKee)"
+                    },
+                    {
+                        "id": "nm2125774",
+                        "name": "Roy McManus",
+                        "description": "driver: minibus"
+                    },
+                    {
+                        "id": "nm4715784",
+                        "name": "Karl Moor Lewy",
+                        "description": "driver: action vehicle"
+                    },
+                    {
+                        "id": "nm4716303",
+                        "name": "Davey Wilson",
+                        "description": "driver: cherry picker"
+                    },
+                    {
+                        "id": "nm2864300",
+                        "name": "Ryan Marshall",
+                        "description": "unit driver (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm2050597",
+                        "name": "Nigel Abbas",
+                        "description": "legal advisor"
+                    },
+                    {
+                        "id": "nm2286750",
+                        "name": "Reno Antoniades",
+                        "description": "production lawyer: Lee & Thompson"
+                    },
+                    {
+                        "id": "nm2526608",
+                        "name": "Ursula Arens",
+                        "description": "dietician: Michael Fassbender"
+                    },
+                    {
+                        "id": "nm2916267",
+                        "name": "Natalie Bass",
+                        "description": "production lawyer: Lee & Thompson"
+                    },
+                    {
+                        "id": "nm4715761",
+                        "name": "Jemma Beach",
+                        "description": "production runner"
+                    },
+                    {
+                        "id": "nm1522510",
+                        "name": "Claire Bosworth",
+                        "description": "head of production: Blast! Films"
+                    },
+                    {
+                        "id": "nm4716278",
+                        "name": "Diarmaid Breathnach",
+                        "description": "director: Broadcasting Commission of Ireland's Sound & Vision Scheme"
+                    },
+                    {
+                        "id": "nm2619513",
+                        "name": "Antony Buonomo",
+                        "description": "title designer"
+                    },
+                    {
+                        "id": "nm4715780",
+                        "name": "Michele Burn",
+                        "description": "production runner"
+                    },
+                    {
+                        "id": "nm4715702",
+                        "name": "Bethan Cousins",
+                        "description": "fund manager: Wales Creative IP Fund"
+                    },
+                    {
+                        "id": "nm2839052",
+                        "name": "Sean Roe Curran",
+                        "description": "additional floor runner"
+                    },
+                    {
+                        "id": "nm4716328",
+                        "name": "Lisa Curry",
+                        "description": "clearance"
+                    },
+                    {
+                        "id": "nm6556629",
+                        "name": "Martin Devis",
+                        "description": "international distribution"
+                    },
+                    {
+                        "id": "nm2188470",
+                        "name": "Harry Dixon",
+                        "description": "business affairs: Channel 4 and Film4"
+                    },
+                    {
+                        "id": "nm4716223",
+                        "name": "Helen Dudley",
+                        "description": "business affairs: Channel 4 and Film4"
+                    },
+                    {
+                        "id": "nm1025817",
+                        "name": "Mark Edwards",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm4715743",
+                        "name": "Alistair Ferguson",
+                        "description": "health and safety advisor"
+                    },
+                    {
+                        "id": "nm3027689",
+                        "name": "Tracy Ferguson",
+                        "description": "unit nurse"
+                    },
+                    {
+                        "id": "nm4715875",
+                        "name": "Brian Furey",
+                        "description": "commissioning officer: roadcasting Commission of Ireland's Sound & Vision Scheme"
+                    },
+                    {
+                        "id": "nm0350444",
+                        "name": "Robert Gyle",
+                        "description": "armourer"
+                    },
+                    {
+                        "id": "nm3143365",
+                        "name": "Faye Hamilton",
+                        "description": "researcher: Blast! Films"
+                    },
+                    {
+                        "id": "nm4716030",
+                        "name": "Neil Haughton",
+                        "description": "doctor: Michael Fassbender (as Dr. Neil Haughton)"
+                    },
+                    {
+                        "id": "nm3913134",
+                        "name": "Lauren Elizabeth Hood",
+                        "description": "production assistant (as Lauren Hood)"
+                    },
+                    {
+                        "id": "nm4716107",
+                        "name": "Pay Hoy",
+                        "description": "accounts assistant"
+                    },
+                    {
+                        "id": "nm1826426",
+                        "name": "Steve Joberns",
+                        "description": "auditor: Shipleys"
+                    },
+                    {
+                        "id": "nm1431758",
+                        "name": "Tracey Josephs",
+                        "description": "representative: Channel 4 and Film4 (as Tracey Joseph)"
+                    },
+                    {
+                        "id": "nm5935003",
+                        "name": "Huma Khan",
+                        "description": "legal post production"
+                    },
+                    {
+                        "id": "nm2944134",
+                        "name": "Moyra Lock",
+                        "description": "head of marketing: Northern Ireland Screen"
+                    },
+                    {
+                        "id": "nm3003766",
+                        "name": "Lisa Marsden",
+                        "description": "insurance agent: Media Insurance Brokers"
+                    },
+                    {
+                        "id": "nm4716277",
+                        "name": "Linda Martin",
+                        "description": "head of finance: Northern Ireland Screen"
+                    },
+                    {
+                        "id": "nm4716042",
+                        "name": "Sharron McBride",
+                        "description": "runner"
+                    },
+                    {
+                        "id": "nm4715984",
+                        "name": "Millar McCall Wylie",
+                        "description": "legal services: Northern Ireland Screen"
+                    },
+                    {
+                        "id": "nm4051820",
+                        "name": "Leona McCarron",
+                        "description": "additional floor runner"
+                    },
+                    {
+                        "id": "nm4716141",
+                        "name": "Damian McParland",
+                        "description": "legal services: Northern Ireland Screen"
+                    },
+                    {
+                        "id": "nm2035916",
+                        "name": "Christos Michaels",
+                        "description": "legal services: Wales Creative IP Fund, Lee & Thompson"
+                    },
+                    {
+                        "id": "nm3193059",
+                        "name": "Richard Moore",
+                        "description": "insurance agent: Media Insurance Brokers"
+                    },
+                    {
+                        "id": "nm2805038",
+                        "name": "Stephen Murphy",
+                        "description": "legal services: Wales Creative IP Fund, Lee & Thompson"
+                    },
+                    {
+                        "id": "nm4716119",
+                        "name": "Prash Nak",
+                        "description": "legal advisor"
+                    },
+                    {
+                        "id": "nm3449344",
+                        "name": "Rebecca O'Connor",
+                        "description": "representative: Channel 4 and Film4"
+                    },
+                    {
+                        "id": "nm2901432",
+                        "name": "Stacey Quigley",
+                        "description": "production trainee"
+                    },
+                    {
+                        "id": "nm0703759",
+                        "name": "Anne Quinn",
+                        "description": "production coordinator: Northern Ireland Screen"
+                    },
+                    {
+                        "id": "nm0717172",
+                        "name": "Andrew Reid",
+                        "description": "head of production: Northern Ireland Screen"
+                    },
+                    {
+                        "id": "nm3144539",
+                        "name": "Sarah Rushbrook",
+                        "description": "production assistant: Blast! Films"
+                    },
+                    {
+                        "id": "nm1843381",
+                        "name": "Pete Scott",
+                        "description": "floor runner (as Peter Scott)"
+                    },
+                    {
+                        "id": "nm1525095",
+                        "name": "Sue Bruce Smith",
+                        "description": "commercial development: Channel 4 and Film4"
+                    },
+                    {
+                        "id": "nm3533295",
+                        "name": "Hilary Stewart",
+                        "description": "representative: Channel 4 and Film4"
+                    },
+                    {
+                        "id": "nm4259103",
+                        "name": "Andrew Sturcke",
+                        "description": "production lawyer: Lee & Thompson"
+                    },
+                    {
+                        "id": "nm4715736",
+                        "name": "Bethan Thomas",
+                        "description": "investment executive: Wales Creative IP Fund"
+                    },
+                    {
+                        "id": "nm1758441",
+                        "name": "Ian Thomson",
+                        "description": "publicist"
+                    },
+                    {
+                        "id": "nm2632531",
+                        "name": "Graham Wheeler",
+                        "description": "accounts assistant"
+                    },
+                    {
+                        "id": "nm4716216",
+                        "name": "Richard Williams",
+                        "description": "chief executive: Northern Ireland Screen"
+                    },
+                    {
+                        "id": "nm0939920",
+                        "name": "Nigel Wood",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm4715778",
+                        "name": "Susie Wright",
+                        "description": "funding programmes coordinator: Northern Ireland Screen"
+                    },
+                    {
+                        "id": "nm3484639",
+                        "name": "Michael Gibson",
+                        "description": "epk assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0172718",
+                        "name": "Tom Collins",
+                        "description": "thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Biography, Drama",
+    "genreList": [
+        {
+            "key": "Biography",
+            "value": "Biography"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Film4, Channel Four Film, Northern Ireland Screen",
+    "companyList": [
+        {
+            "id": "co0197272",
+            "name": "Film4"
+        },
+        {
+            "id": "co0103747",
+            "name": "Channel Four Film"
+        },
+        {
+            "id": "co0211391",
+            "name": "Northern Ireland Screen"
+        }
+    ],
+    "countries": "Ireland, UK",
+    "countryList": [
+        {
+            "key": "Ireland",
+            "value": "Ireland"
+        },
+        {
+            "key": "UK",
+            "value": "UK"
+        }
+    ],
+    "languages": "English, Irish",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Irish",
+            "value": "Irish"
+        }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "7.6",
+    "imDbRatingVotes": "63383",
+    "metacriticRating": "82",
+    "ratings": {
+        "imDbId": "tt0986233",
+        "title": "Hunger",
+        "fullTitle": "Hunger (2008)",
+        "type": "Movie",
+        "year": "2008",
+        "imDb": "7.6",
+        "metacritic": "82",
+        "theMovieDb": "7.3",
+        "rottenTomatoes": "90",
+        "tV_com": "8.5",
+        "filmAffinity": "7.2",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0986233",
+        "title": "Hunger",
+        "fullTitle": "Hunger (2008)",
+        "type": "Movie",
+        "year": "2008",
+        "language": "en",
+        "titleInLanguage": "Hunger (2008 film)",
+        "url": "https://en.wikipedia.org/wiki/Hunger_(2008_film)",
+        "plotShort": {
+            "plainText": "Hunger (2008 film)\r\nHunger is a 2008 historical drama film directed by Steve McQueen and starring Michael Fassbender, Liam Cunningham, and Liam McMahon, about the 1981 Irish hunger strike. It was written by Enda Walsh and McQueen.\r\nIt premiered at the 2008 Cannes Film Festival, winning the prestigious Cam\u00e9ra d'Or award for first-time filmmakers. It went on to win the Sydney Film Prize at the Sydney Film Festival, the Grand Prix of the Belgian Syndicate of Cinema Critics, best picture from the Evening Standard British Film Awards, and received two BAFTA nominations, winning one. The film was also nominated for eight awards at the 2009 IFTAs, winning six at the event.\r\nThe film stars Fassbender as Bobby Sands, the Provisional Irish Republican Army (IRA) freedom fighter who led the second IRA hunger strike and participated in the no wash protest (led by Brendan \"The Dark\" Hughes) in which Irish republican prisoners tried to regain political status after it had been revoked by the British government in 1976. It outlines events in the Maze Prison in the period leading up to the hunger strike and its aftermath.",
+            "html": "<h2>Hunger (2008 film)</h2><p>Hunger is a 2008 historical drama film directed by Steve McQueen and starring Michael Fassbender, Liam Cunningham, and Liam McMahon, about the 1981 Irish hunger strike. It was written by Enda Walsh and McQueen.</p><p>It premiered at the 2008 Cannes Film Festival, winning the prestigious Cam\u00e9ra d'Or award for first-time filmmakers. It went on to win the Sydney Film Prize at the Sydney Film Festival, the Grand Prix of the Belgian Syndicate of Cinema Critics, best picture from the Evening Standard British Film Awards, and received two BAFTA nominations, winning one. The film was also nominated for eight awards at the 2009 IFTAs, winning six at the event.</p><p>The film stars Fassbender as Bobby Sands, the Provisional Irish Republican Army (IRA) freedom fighter who led the second IRA hunger strike and participated in the no wash protest (led by Brendan \"The Dark\" Hughes) in which Irish republican prisoners tried to regain political status after it had been revoked by the British government in 1976. It outlines events in the Maze Prison in the period leading up to the hunger strike and its aftermath.</p>"
+        },
+        "plotFull": {
+            "plainText": "Hunger (2008 film)\r\nHunger is a 2008 historical drama film directed by Steve McQueen and starring Michael Fassbender, Liam Cunningham, and Liam McMahon, about the 1981 Irish hunger strike. It was written by Enda Walsh and McQueen.\r\nIt premiered at the 2008 Cannes Film Festival, winning the prestigious Cam\u00e9ra d'Or award for first-time filmmakers. It went on to win the Sydney Film Prize at the Sydney Film Festival, the Grand Prix of the Belgian Syndicate of Cinema Critics, best picture from the Evening Standard British Film Awards, and received two BAFTA nominations, winning one. The film was also nominated for eight awards at the 2009 IFTAs, winning six at the event.\r\nThe film stars Fassbender as Bobby Sands, the Provisional Irish Republican Army (IRA) freedom fighter who led the second IRA hunger strike and participated in the no wash protest (led by Brendan \"The Dark\" Hughes) in which Irish republican prisoners tried to regain political status after it had been revoked by the British government in 1976. It outlines events in the Maze Prison in the period leading up to the hunger strike and its aftermath.\r\nPlot\r\nPrison officer Raymond Lohan prepares to leave for work; he cleans his wounded knuckles, checks his car for bombs, puts his uniform on, and ignores his comrades.\r\nDavey Gillen, a new IRA prisoner, arrives; he is categorised as a \"non-conforming prisoner\" for his refusal to wear the prison uniform. He is sent to his cell naked with only a blanket. His cellmate, Gerry Campbell, has smeared the walls with faeces from floor to ceiling as part of the no wash protest. The two men get to know each other and are seen living within the cell. Gerry's girlfriend sneaks a radio in by wrapping it and storing it in her vagina.\r\nPrison officers forcibly and violently remove the prisoners from their cells and beat them before pinning them down to cut their long hair and beards, grown as part of the no-wash protest. The prisoners resist, with prisoner Bobby Sands spitting into Lohan's face, who responds by punching him in the face and then swings again, only to miss and punch the wall, causing his knuckles to bleed. He cuts Sands' hair and beard; the men throw Sands in the bathtub and scrub him clean before hauling him away again. Lohan is then seen smoking a cigarette, as in the opening scenes, his hand bloodied.\r\nLater, the prisoners are taken out of their cells and given second-hand civilian clothing. The guards are seen snickering as they hand the clothes to the prisoners who respond, after Sands' initial action, by tearing up the clothes and wrecking their cells. For the next interaction with the prisoners, a large number of riot police are seen coming into the prison on a truck. They line up and beat their batons against their shields and scream to scare the prisoners, who are hauled from their cells, then forced to run the gauntlet between the lines of riot police where they are beaten with the batons by at least 10 men at once. Lohan and several of his colleagues then probe first their anuses and then their mouths, using the same pair of latex gloves for each man. One prisoner head-butts a guard and is beaten brutally by a riot officer. One of the riot officers is seen crying while his colleagues, on the other side of the wall, brutally beat the prisoners with their batons.\r\nLohan visits his catatonic mother in a retirement home. He is shot in the back of the head by an IRA assassin and dies slumped onto his mother's lap.\r\nSands meets Father Dominic Moran and discusses the morality of a hunger strike. Sands tells the priest about a trip to Donegal where he and his friends found a foal by a stream that had cut itself on the rocks and broken its back legs. Sands drowned the foal and tells the priest, although he got into trouble, he knew he had done the right thing by ending its suffering. He then says he knows what he is doing and what it will do to him, but he says he will not stand by and do nothing. The rest of the film shows Sands well into his hunger strike, with weeping sores all over his body, kidney failure, low blood pressure, stomach ulcers, and the inability to stand on his own by the end. In the last days, while Sands lies in a bath, a larger orderly comes in to give his usual orderly a break. The larger orderly sits next to the tub and shows Sands his knuckles, which are tattooed with the letters \"UDA\". Sands tries to stand on his own and eventually does so with all his strength, staring defiantly at the UDA orderly who refuses to help him up, but then he crumbles in a heap on the floor with no strength left to stand. The orderly carries him to his room. Sands' parents stay for the final days, his mother being at his side when Sands dies, 66 days after beginning the strike.\r\nThe film explains that Sands was elected to the United Kingdom Parliament as MP for Fermanagh and South Tyrone while he was on strike. Nine other men died with him during the seven-month strike before it was called off. 16 prison officers were killed by paramilitaries throughout the protests depicted in the film. Shortly afterwards, the British government conceded in one form or another to virtually all of the prisoners' five demands despite never officially granting political status.\r\nCast\r\nMichael Fassbender as Bobby Sands Ciaran Flynn as 12-year-old Bobby\r\nCiaran Flynn as 12-year-old Bobby\r\nLiam Cunningham as Father Dominic Moran\r\nLiam McMahon as Gerry Campbell\r\nStuart Graham as Raymond Lohan\r\nBrian Milligan as Davey Gillen\r\nLaine Megaw as Mrs Lohan\r\nKaren Hassan as Gerry's girlfriend\r\nFrank McCusker as the Governor\r\nLalor Roddy as William\r\nHelen Madden as Mrs Sands\r\nDes McAleer as Mr Sands\r\nGeoff Gatt as Bearded man\r\nRory Mullen as Priest\r\nBen Peel as Riot Prison Officer Stephen Graves\r\nHelena Bereen as Raymond's mother\r\nPaddy Jenkins as Hitman\r\nBilly Clarke as Chief Medical Officer\r\nB.J. Hogg as Loyalist orderly\r\nAaron Goldring as Young Bobby's friend\r\nProduction\r\nAfter financing for Hunger was turned down by the Irish Film Board, the film was instead co-funded by Northern Ireland Screen, Broadcast Commission of Ireland, Channel 4, Film4 Productions, and the Wales Creative IP Fund.\r\nIn preparation for his role, Michael Fassbender went on a special diet of less than 900 calories a day for ten weeks. After meeting with a nutritionist, he settled on a diet of berries, nuts, and sardines, and underwent periodic medical checks. In an interview with The Telegraph, Fassbender said that he skipped, did yoga, and walked four and a half miles a day, but also added that he had difficulty sleeping, and stopped seeing friends. He also said that the experience made him feel \"grateful\" and \"strong\".\r\nThe film is also notable for an unbroken 17-minute shot, in which a priest played by Liam Cunningham tries to talk Bobby Sands out of his protest. In it, the camera remains in the same position for the duration of the entire shot. To prepare for the scene, Cunningham moved into Michael Fassbender's apartment for a time while they practiced the scene between twelve and fifteen times a day. According to Fassbender, they only did five takes.\r\nRelease\r\nHunger premiered at the Cannes Film Festival on 15 May 2008, where it opened the official sidebar section, Un Certain Regard, sparking both walkouts and a standing ovation, before screening at the Sydney Film Festival on 7 June, the Toronto International Film Festival on 6 September, the New York Film Festival on 27 September, and the Chicago International Film Festival on 19 October 2008.\r\nThe film was released in the United Kingdom and Ireland on 31 October 2008.\r\nCritical reception\r\nHunger received praise from critics, audiences and at festivals all over the world. The film has a rating of 90% on Rotten Tomatoes based on 127 reviews with an average score of 7.8/10. The consensus states \"Unflinching, uncompromising, vivid and vital, Steve McQueen's challenging debut is not for the faint hearted, but it's still a richly rewarding retelling of troubled times.\" Metacritic, another review aggregator, assigned the film a weighted average score of 82 (out of 100) based on 25 reviews from mainstream critics, considered to be \"universal acclaim\".\r\nRoger Ebert of the Chicago Sun-Times spoke most positively of the piece stating, \"Hunger is not about the rights and wrongs of the British in Northern Ireland, but about inhumane prison conditions, the steeled determination of IRA members like Bobby Sands, and a rock and a hard place.\" Peter Travers of Rolling Stone, regarded the film highly and said: \"Shockingly immediate and philosophically reflective, Hunger is an indelibly moving tribute to what makes us human.\" and praised \"... McQueen's way of showing the body itself as an arsenal, arguably the last weapon any of us have to fight back.\" Peter Bradshaw of The Guardian scored the piece a maximum five stars, writing, \"There is an avoidance of affect and a repudiation of the traditional liberal-lenient gestures of dialogue, dramatic consensus and narrative resolution. This is a powerful, provocative piece of work, which leaves a zero-degree burn on the retina.\" while praising McQueen's work, \"Hunger shows that McQueen is a real film-maker and his background in art has meant a fierce concentration on image, an unflinching attention to what things looked like, moment by moment.\"\r\nLauren Wissot of Slant Magazine said of the film, \"Hunger, with all its visual, sonic and editing elements flowing together in harmony like a five-star, six-course meal, exemplifies the phrase.\" and that, \"McQueen's film is a nuanced masterpiece that never flaunts its artistry, but uses it humbly to serve the all-important story.\" Nigel Andrews of the Financial Times heralded the film and its director, Steve McQueen, \"McQueen understands the first principle of cinema. On either side of its middle section, where the very wordiness stands ironic witness to the ultimate impossibility to explain, Hunger has the power and hieratic integrity of silent cinema.\" Matthew De Abaitua of Film4 scored the film five out of five stars, \"Intense, disturbing and powerful mix of vision and detail: a recreation of a terrible time combined with a vivid and distinctive artistic sensibility. Truly powerful filmmaking.\"\r\nIan Freer of Empire magazine praised both McQueen and Fassbender, proclaiming, \"Anchored by Fassbender's turn, Hunger is as much about the personal as the political. The real breakthrough, though, is McQueen, who turns in a film that dazzles and challenges in equal measure.\" Dave Calhoun of Time Out, gave the film a maximum five stars, stating \"Imagine how most filmmakers would tell this story and then see 'Hunger': the differences are bold and powerful and restore faith in cinema's ability to cover history free from the bounds of texts and personalities. It's not an easy watch \u2013 but it's an invigorating one. Long live McQueen.\" Noel Murray, writing for The A.V. Club highlighted \"Hunger may be criticized for being willfully arty, or for reducing a complex political situation to a broadly allegorical vision of martyrdom, but it's never less than visually stunning.\"\r\nCritic J. Hoberman of The Village Voice called the film, \"A superbly balanced piece of work\" and a \"compelling drama that's also a formalist triumph.\" Hoberman went on to say, \"I've seen Hunger three times, and with each screening, the spectacle of violence, suffering, and pain becomes more awful and more awe-inspiring.\" Lisa Schwarzbaum of Entertainment Weekly gave Hunger an A- on an A+ to F scale and stated, \"For your art-house pleasure and discomfort, here's one of the most talked-about film-festival triumphs of 2008, a disturbingly avid re-creation of the last six weeks in the life and slow, self-imposed wasting of Irish hunger striker Bobby Sands.\"\r\nWriting for The New York Post, Kyle Smith praised McQueen's film, \"Regardless of politics, one must grant McQueen's substantial gifts, which bring to mind Paul Greengrass in another Northern Ireland film, Bloody Sunday.\" Liam Lacey of The Globe and Mail gave the film a maximum of four out of four stars, \"Hunger -- the disturbing, provocative, brilliant feature debut from British director Steve McQueen -- does for modern film what Caravaggio did to Renaissance painting.\" Reyhan Harmanci of the San Francisco Chronicle wrote, \"It's horrific. But Hunger displays uncommon intelligence and visual panache, transcending the goal of making the situation seem real. It feels more than real. It's art.\" in addition to praising McQueen's work by stating \"Steve McQueen is a well-known visual artist turned feature film director who makes you wish more moviemakers went to art school.\" Ann Hornaday of The Washington Post was very praising of the film, writing, \"McQueen has taken the raw materials of filmmaking and committed an act of great art.\" and calling the piece \"An artistic masterpiece.\"\r\nWendy Ide of The Times praised McQueen's directing and screenwriting talents by stating, \"Ultimately, the one thing that can't be questioned is McQueen's bold and unflinching talent.\"\r\nAccolades\r\nThe film appeared on some critics' top ten lists of the best films of 2008. Andrea Gronvall of Chicago Reader named it the 3rd best film of 2008, and Scott Foundas of LA Weekly named it the 3rd best film of 2008 (along with Che).\r\nHunger was voted the best film of 2008 by the British film magazine Sight & Sound, and that year McQueen received the Discovery Award and $10,000 at the 33rd annual Toronto film festival. It also won in the best film category at the 2009 Evening Standard British Film Awards. The film also was named the \"Best Film of 2009\" by the Toronto Film Critics Association Awards; it shared the award with Quentin Tarantino's Inglourious Basterds. Director McQueen won the BAFTA Award for \"Special Achievement by a British Director, Writer or Producer for their First Feature Film\".",
+            "html": "<h2>Hunger (2008 film)</h2><p>Hunger is a 2008 historical drama film directed by Steve McQueen and starring Michael Fassbender, Liam Cunningham, and Liam McMahon, about the 1981 Irish hunger strike. It was written by Enda Walsh and McQueen.</p><p>It premiered at the 2008 Cannes Film Festival, winning the prestigious Cam\u00e9ra d'Or award for first-time filmmakers. It went on to win the Sydney Film Prize at the Sydney Film Festival, the Grand Prix of the Belgian Syndicate of Cinema Critics, best picture from the Evening Standard British Film Awards, and received two BAFTA nominations, winning one. The film was also nominated for eight awards at the 2009 IFTAs, winning six at the event.</p><p>The film stars Fassbender as Bobby Sands, the Provisional Irish Republican Army (IRA) freedom fighter who led the second IRA hunger strike and participated in the no wash protest (led by Brendan \"The Dark\" Hughes) in which Irish republican prisoners tried to regain political status after it had been revoked by the British government in 1976. It outlines events in the Maze Prison in the period leading up to the hunger strike and its aftermath.</p><br/><h3>Plot</h3><p>Prison officer Raymond Lohan prepares to leave for work; he cleans his wounded knuckles, checks his car for bombs, puts his uniform on, and ignores his comrades.</p><p>Davey Gillen, a new IRA prisoner, arrives; he is categorised as a \"non-conforming prisoner\" for his refusal to wear the prison uniform. He is sent to his cell naked with only a blanket. His cellmate, Gerry Campbell, has smeared the walls with faeces from floor to ceiling as part of the no wash protest. The two men get to know each other and are seen living within the cell. Gerry's girlfriend sneaks a radio in by wrapping it and storing it in her vagina.</p><p>Prison officers forcibly and violently remove the prisoners from their cells and beat them before pinning them down to cut their long hair and beards, grown as part of the no-wash protest. The prisoners resist, with prisoner Bobby Sands spitting into Lohan's face, who responds by punching him in the face and then swings again, only to miss and punch the wall, causing his knuckles to bleed. He cuts Sands' hair and beard; the men throw Sands in the bathtub and scrub him clean before hauling him away again. Lohan is then seen smoking a cigarette, as in the opening scenes, his hand bloodied.</p><p>Later, the prisoners are taken out of their cells and given second-hand civilian clothing. The guards are seen snickering as they hand the clothes to the prisoners who respond, after Sands' initial action, by tearing up the clothes and wrecking their cells. For the next interaction with the prisoners, a large number of riot police are seen coming into the prison on a truck. They line up and beat their batons against their shields and scream to scare the prisoners, who are hauled from their cells, then forced to run the gauntlet between the lines of riot police where they are beaten with the batons by at least 10 men at once. Lohan and several of his colleagues then probe first their anuses and then their mouths, using the same pair of latex gloves for each man. One prisoner head-butts a guard and is beaten brutally by a riot officer. One of the riot officers is seen crying while his colleagues, on the other side of the wall, brutally beat the prisoners with their batons.</p><p>Lohan visits his catatonic mother in a retirement home. He is shot in the back of the head by an IRA assassin and dies slumped onto his mother's lap.</p><p>Sands meets Father Dominic Moran and discusses the morality of a hunger strike. Sands tells the priest about a trip to Donegal where he and his friends found a foal by a stream that had cut itself on the rocks and broken its back legs. Sands drowned the foal and tells the priest, although he got into trouble, he knew he had done the right thing by ending its suffering. He then says he knows what he is doing and what it will do to him, but he says he will not stand by and do nothing. The rest of the film shows Sands well into his hunger strike, with weeping sores all over his body, kidney failure, low blood pressure, stomach ulcers, and the inability to stand on his own by the end. In the last days, while Sands lies in a bath, a larger orderly comes in to give his usual orderly a break. The larger orderly sits next to the tub and shows Sands his knuckles, which are tattooed with the letters \"UDA\". Sands tries to stand on his own and eventually does so with all his strength, staring defiantly at the UDA orderly who refuses to help him up, but then he crumbles in a heap on the floor with no strength left to stand. The orderly carries him to his room. Sands' parents stay for the final days, his mother being at his side when Sands dies, 66 days after beginning the strike.</p><p>The film explains that Sands was elected to the United Kingdom Parliament as MP for Fermanagh and South Tyrone while he was on strike. Nine other men died with him during the seven-month strike before it was called off. 16 prison officers were killed by paramilitaries throughout the protests depicted in the film. Shortly afterwards, the British government conceded in one form or another to virtually all of the prisoners' five demands despite never officially granting political status.</p><br/><h3>Cast</h3><ul><li>Michael Fassbender as Bobby Sands Ciaran Flynn as 12-year-old Bobby</li><li>Ciaran Flynn as 12-year-old Bobby</li><li>Liam Cunningham as Father Dominic Moran</li><li>Liam McMahon as Gerry Campbell</li><li>Stuart Graham as Raymond Lohan</li><li>Brian Milligan as Davey Gillen</li><li>Laine Megaw as Mrs Lohan</li><li>Karen Hassan as Gerry's girlfriend</li><li>Frank McCusker as the Governor</li><li>Lalor Roddy as William</li><li>Helen Madden as Mrs Sands</li><li>Des McAleer as Mr Sands</li><li>Geoff Gatt as Bearded man</li><li>Rory Mullen as Priest</li><li>Ben Peel as Riot Prison Officer Stephen Graves</li><li>Helena Bereen as Raymond's mother</li><li>Paddy Jenkins as Hitman</li><li>Billy Clarke as Chief Medical Officer</li><li>B.J. Hogg as Loyalist orderly</li><li>Aaron Goldring as Young Bobby's friend</li></ul><br/><h3>Production</h3><p>After financing for Hunger was turned down by the Irish Film Board, the film was instead co-funded by Northern Ireland Screen, Broadcast Commission of Ireland, Channel 4, Film4 Productions, and the Wales Creative IP Fund.</p><p>In preparation for his role, Michael Fassbender went on a special diet of less than 900 calories a day for ten weeks. After meeting with a nutritionist, he settled on a diet of berries, nuts, and sardines, and underwent periodic medical checks. In an interview with The Telegraph, Fassbender said that he skipped, did yoga, and walked four and a half miles a day, but also added that he had difficulty sleeping, and stopped seeing friends. He also said that the experience made him feel \"grateful\" and \"strong\".</p><p>The film is also notable for an unbroken 17-minute shot, in which a priest played by Liam Cunningham tries to talk Bobby Sands out of his protest. In it, the camera remains in the same position for the duration of the entire shot. To prepare for the scene, Cunningham moved into Michael Fassbender's apartment for a time while they practiced the scene between twelve and fifteen times a day. According to Fassbender, they only did five takes.</p><br/><h3>Release</h3><p>Hunger premiered at the Cannes Film Festival on 15 May 2008, where it opened the official sidebar section, Un Certain Regard, sparking both walkouts and a standing ovation, before screening at the Sydney Film Festival on 7 June, the Toronto International Film Festival on 6 September, the New York Film Festival on 27 September, and the Chicago International Film Festival on 19 October 2008.</p><p>The film was released in the United Kingdom and Ireland on 31 October 2008.</p><h4>Critical reception</h4><p>Hunger received praise from critics, audiences and at festivals all over the world. The film has a rating of 90% on Rotten Tomatoes based on 127 reviews with an average score of 7.8/10. The consensus states \"Unflinching, uncompromising, vivid and vital, Steve McQueen's challenging debut is not for the faint hearted, but it's still a richly rewarding retelling of troubled times.\" Metacritic, another review aggregator, assigned the film a weighted average score of 82 (out of 100) based on 25 reviews from mainstream critics, considered to be \"universal acclaim\".</p><p>Roger Ebert of the Chicago Sun-Times spoke most positively of the piece stating, \"Hunger is not about the rights and wrongs of the British in Northern Ireland, but about inhumane prison conditions, the steeled determination of IRA members like Bobby Sands, and a rock and a hard place.\" Peter Travers of Rolling Stone, regarded the film highly and said: \"Shockingly immediate and philosophically reflective, Hunger is an indelibly moving tribute to what makes us human.\" and praised \"... McQueen's way of showing the body itself as an arsenal, arguably the last weapon any of us have to fight back.\" Peter Bradshaw of The Guardian scored the piece a maximum five stars, writing, \"There is an avoidance of affect and a repudiation of the traditional liberal-lenient gestures of dialogue, dramatic consensus and narrative resolution. This is a powerful, provocative piece of work, which leaves a zero-degree burn on the retina.\" while praising McQueen's work, \"Hunger shows that McQueen is a real film-maker and his background in art has meant a fierce concentration on image, an unflinching attention to what things looked like, moment by moment.\"</p><p>Lauren Wissot of Slant Magazine said of the film, \"Hunger, with all its visual, sonic and editing elements flowing together in harmony like a five-star, six-course meal, exemplifies the phrase.\" and that, \"McQueen's film is a nuanced masterpiece that never flaunts its artistry, but uses it humbly to serve the all-important story.\" Nigel Andrews of the Financial Times heralded the film and its director, Steve McQueen, \"McQueen understands the first principle of cinema. On either side of its middle section, where the very wordiness stands ironic witness to the ultimate impossibility to explain, Hunger has the power and hieratic integrity of silent cinema.\" Matthew De Abaitua of Film4 scored the film five out of five stars, \"Intense, disturbing and powerful mix of vision and detail: a recreation of a terrible time combined with a vivid and distinctive artistic sensibility. Truly powerful filmmaking.\"</p><p>Ian Freer of Empire magazine praised both McQueen and Fassbender, proclaiming, \"Anchored by Fassbender's turn, Hunger is as much about the personal as the political. The real breakthrough, though, is McQueen, who turns in a film that dazzles and challenges in equal measure.\" Dave Calhoun of Time Out, gave the film a maximum five stars, stating \"Imagine how most filmmakers would tell this story and then see 'Hunger': the differences are bold and powerful and restore faith in cinema's ability to cover history free from the bounds of texts and personalities. It's not an easy watch \u2013 but it's an invigorating one. Long live McQueen.\" Noel Murray, writing for The A.V. Club highlighted \"Hunger may be criticized for being willfully arty, or for reducing a complex political situation to a broadly allegorical vision of martyrdom, but it's never less than visually stunning.\"</p><p>Critic J. Hoberman of The Village Voice called the film, \"A superbly balanced piece of work\" and a \"compelling drama that's also a formalist triumph.\" Hoberman went on to say, \"I've seen Hunger three times, and with each screening, the spectacle of violence, suffering, and pain becomes more awful and more awe-inspiring.\" Lisa Schwarzbaum of Entertainment Weekly gave Hunger an A- on an A+ to F scale and stated, \"For your art-house pleasure and discomfort, here's one of the most talked-about film-festival triumphs of 2008, a disturbingly avid re-creation of the last six weeks in the life and slow, self-imposed wasting of Irish hunger striker Bobby Sands.\"</p><p>Writing for The New York Post, Kyle Smith praised McQueen's film, \"Regardless of politics, one must grant McQueen's substantial gifts, which bring to mind Paul Greengrass in another Northern Ireland film, Bloody Sunday.\" Liam Lacey of The Globe and Mail gave the film a maximum of four out of four stars, \"Hunger -- the disturbing, provocative, brilliant feature debut from British director Steve McQueen -- does for modern film what Caravaggio did to Renaissance painting.\" Reyhan Harmanci of the San Francisco Chronicle wrote, \"It's horrific. But Hunger displays uncommon intelligence and visual panache, transcending the goal of making the situation seem real. It feels more than real. It's art.\" in addition to praising McQueen's work by stating \"Steve McQueen is a well-known visual artist turned feature film director who makes you wish more moviemakers went to art school.\" Ann Hornaday of The Washington Post was very praising of the film, writing, \"McQueen has taken the raw materials of filmmaking and committed an act of great art.\" and calling the piece \"An artistic masterpiece.\"</p><p>Wendy Ide of The Times praised McQueen's directing and screenwriting talents by stating, \"Ultimately, the one thing that can't be questioned is McQueen's bold and unflinching talent.\"</p><h4>Accolades</h4><p>The film appeared on some critics' top ten lists of the best films of 2008. Andrea Gronvall of Chicago Reader named it the 3rd best film of 2008, and Scott Foundas of LA Weekly named it the 3rd best film of 2008 (along with Che).</p><p>Hunger was voted the best film of 2008 by the British film magazine Sight & Sound, and that year McQueen received the Discovery Award and $10,000 at the 33rd annual Toronto film festival. It also won in the best film category at the 2009 Evening Standard British Film Awards. The film also was named the \"Best Film of 2009\" by the Toronto Film Critics Association Awards; it shared the award with Quentin Tarantino's Inglourious Basterds. Director McQueen won the BAFTA Award for \"Special Achievement by a British Director, Writer or Producer for their First Feature Film\".</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0986233",
+        "title": "Hunger",
+        "fullTitle": "Hunger (2008)",
+        "type": "Movie",
+        "year": "2008",
+        "posters": [
+            {
+                "id": "84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+                "link": "https://imdb-api.com/posters/original/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+                "aspectRatio": 0.666875,
+                "language": "en",
+                "width": 1067,
+                "height": 1600
+            },
+            {
+                "id": "leGHnb5ln5fPkeRfmbXQ3Eo5ybo.jpg",
+                "link": "https://imdb-api.com/posters/original/leGHnb5ln5fPkeRfmbXQ3Eo5ybo.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "ArabUVrgEDmqaXwWGiDjXR7ltHX.jpg",
+                "link": "https://imdb-api.com/posters/original/ArabUVrgEDmqaXwWGiDjXR7ltHX.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "qMpayXCnl7OVz5K7BAAkD7UWx01.jpg",
+                "link": "https://imdb-api.com/posters/original/qMpayXCnl7OVz5K7BAAkD7UWx01.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "gXSZaacDkHTmvJJvq0VwsbqlHXI.jpg",
+                "link": "https://imdb-api.com/posters/original/gXSZaacDkHTmvJJvq0VwsbqlHXI.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdors": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0986233",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Invalid API Key"
+    },
+    "trailer": {
+        "imDbId": "tt0986233",
+        "title": "Hunger",
+        "fullTitle": "Hunger (2008)",
+        "type": "Movie",
+        "year": "2008",
+        "videoId": "vi3472950041",
+        "videoTitle": "Hunger",
+        "videoDescription": "The last six weeks of the life of the Irish republican hunger striker Bobby Sands.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2Njg4MDY2N15BMl5BanBnXkFtZTcwMDIzNDgzMg@@._V1_.jpg",
+        "uploadDate": "03/07/2009 14:33:15",
+        "link": "https://www.imdb.com/video/vi3472950041",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3472950041/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "GBP1,500,000 (estimated)",
+        "openingWeekendUSA": "$1,980, 7 December 2008",
+        "grossUSA": "$154,084",
+        "cumulativeWorldwideGross": "$3,185,113"
+    },
+    "tagline": "An odyssey, in which the smallest gestures become epic and when the body is the last resource for protest.",
+    "keywords": "nudity,male frontal nudity,prison,hunger strike,bobby sands",
+    "keywordList": [
+        "nudity",
+        "male frontal nudity",
+        "prison",
+        "hunger strike",
+        "bobby sands"
+    ],
+    "similars": [
+        {
+            "id": "tt1723811",
+            "title": "Shame",
+            "fullTitle": "Shame (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3MzM0OTE5MF5BMl5BanBnXkFtZTcwNzI4MDM5Ng@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A sex addict's carefully cultivated private life falls apart after his sister arrives for an indefinite stay.",
+            "directors": "Steve McQueen",
+            "stars": "Michael Fassbender, Carey Mulligan, James Badge Dale",
+            "genres": "Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt1232776",
+            "title": "Fish Tank",
+            "fullTitle": "Fish Tank (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMTc1NTk4MzkxOF5BMl5BanBnXkFtZTcwNDkxMDAxMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Everything changes for 15-year-old Mia when her mum brings home a new boyfriend.",
+            "directors": "Andrea Arnold",
+            "stars": "Katie Jarvis, Michael Fassbender, Kierston Wareing",
+            "genres": "Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt1315981",
+            "title": "A Single Man",
+            "fullTitle": "A Single Man (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMzU5MTk4MjQ2M15BMl5BanBnXkFtZTcwNDU0MzEwMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An English professor, one year after the sudden death of his boyfriend, is unable to cope with his typical days in 1960s Los Angeles.",
+            "directors": "Tom Ford",
+            "stars": "Colin Firth, Julianne Moore, Matthew Goode",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt1605717",
+            "title": "Frank",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+            "directors": "Lenny Abrahamson",
+            "stars": "Michael Fassbender, Domhnall Gleeson, Maggie Gyllenhaal",
+            "genres": "Comedy, Drama, Music",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt1560747",
+            "title": "The Master",
+            "fullTitle": "The Master (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by the Cause and its charismatic leader.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Philip Seymour Hoffman, Joaquin Phoenix, Amy Adams",
+            "genres": "Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt2884018",
+            "title": "Macbeth",
+            "fullTitle": "Macbeth (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BNzgyNDczMjU4NV5BMl5BanBnXkFtZTgwMTUwMDI3NjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+            "directors": "Justin Kurzel",
+            "stars": "Michael Fassbender, Marion Cotillard, Jack Madigan",
+            "genres": "Drama, History, War",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt0460989",
+            "title": "The Wind that Shakes the Barley",
+            "fullTitle": "The Wind that Shakes the Barley (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BYTE0ZGE4YTItZTE2NC00MzZjLTkyMWUtMTZiODAwNTRlNDk4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Against the backdrop of the Irish War of Independence, two brothers fight a guerrilla war against British forces.",
+            "directors": "Ken Loach",
+            "stars": "Cillian Murphy, P\u00e1draic Delaney, Liam Cunningham",
+            "genres": "Drama, War",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt1032846",
+            "title": "4 Months, 3 Weeks and 2 Days",
+            "fullTitle": "4 Months, 3 Weeks and 2 Days (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3NDY2MDg0MF5BMl5BanBnXkFtZTYwODcwODc4._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A woman assists her friend in arranging an illegal abortion in 1980s Romania.",
+            "directors": "Cristian Mungiu",
+            "stars": "Anamaria Marinca, Laura Vasiliu, Vlad Ivanov",
+            "genres": "Drama",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt1571222",
+            "title": "A Dangerous Method",
+            "fullTitle": "A Dangerous Method (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMTU5Mjk3NjgxMl5BMl5BanBnXkFtZTcwMDM5MjA5Ng@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A look at how the intense relationship between Carl Jung and Sigmund Freud gives birth to psychoanalysis.",
+            "directors": "David Cronenberg",
+            "stars": "Michael Fassbender, Keira Knightley, Viggo Mortensen",
+            "genres": "Biography, Drama, Romance",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt0383028",
+            "title": "Synecdoche, New York",
+            "fullTitle": "Synecdoche, New York (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A theatre director struggles with his work, and the women in his life, as he creates a life-size replica of New York City inside a warehouse as part of his new play.",
+            "directors": "Charlie Kaufman",
+            "stars": "Philip Seymour Hoffman, Samantha Morton, Michelle Williams",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt2042568",
+            "title": "Inside Llewyn Davis",
+            "fullTitle": "Inside Llewyn Davis (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A week in the life of a young singer as he navigates the Greenwich Village folk scene of 1961.",
+            "directors": "Directors: Ethan Coen, Joel Coen",
+            "stars": "Oscar Isaac, Carey Mulligan, John Goodman",
+            "genres": "Comedy, Drama, Music",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0870984",
+            "title": "Antichrist",
+            "fullTitle": "Antichrist (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMjE3MjQ2ODc1N15BMl5BanBnXkFtZTcwNjYyMzI5Mg@@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "A grieving couple retreat to their cabin in the woods, hoping to repair their broken hearts and troubled marriage, but nature takes its course and things go from bad to worse.",
+            "directors": "Lars von Trier",
+            "stars": "Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstr\u00f8m",
+            "genres": "Drama, Horror",
+            "imDbRating": "6.6"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
