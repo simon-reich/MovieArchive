@@ -1,0 +1,2786 @@
+{
+    "id": "tt5536736",
+    "title": "The Meyerowitz Stories",
+    "originalTitle": "The Meyerowitz Stories (New and Selected)",
+    "fullTitle": "The Meyerowitz Stories (2017)",
+    "type": "Movie",
+    "year": "2017",
+    "image": "https://imdb-api.com/images/original/MV5BMTY1MTA1MjU4NV5BMl5BanBnXkFtZTgwMTAwMzE2MzI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2017-10-13",
+    "runtimeMins": "112",
+    "runtimeStr": "1h 52mins",
+    "plot": "An estranged family gathers together in New York City for an event celebrating the artistic work of their father.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "4 wins & 7 nominations.",
+    "directors": "Noah Baumbach",
+    "directorList": [
+        {
+            "id": "nm0000876",
+            "name": "Noah Baumbach"
+        }
+    ],
+    "writers": "Noah Baumbach",
+    "writerList": [
+        {
+            "id": "nm0000876",
+            "name": "Noah Baumbach"
+        }
+    ],
+    "stars": "Adam Sandler, Grace Van Patten, Dustin Hoffman, Elizabeth Marvel",
+    "starList": [
+        {
+            "id": "nm0001191",
+            "name": "Adam Sandler"
+        },
+        {
+            "id": "nm2665105",
+            "name": "Grace Van Patten"
+        },
+        {
+            "id": "nm0000163",
+            "name": "Dustin Hoffman"
+        },
+        {
+            "id": "nm0555500",
+            "name": "Elizabeth Marvel"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0001191",
+            "image": "https://imdb-api.com/images/original/MV5BMjQyNzM2MjM1Ml5BMl5BanBnXkFtZTcwMDE5NjI3Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adam Sandler",
+            "asCharacter": "Danny"
+        },
+        {
+            "id": "nm2665105",
+            "image": "https://imdb-api.com/images/original/MV5BMjQzNDExNzc5NV5BMl5BanBnXkFtZTgwMjAwMDMwMDI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Grace Van Patten",
+            "asCharacter": "Eliza"
+        },
+        {
+            "id": "nm0000163",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3NzU0ODczMF5BMl5BanBnXkFtZTcwODEyMDY5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dustin Hoffman",
+            "asCharacter": "Harold"
+        },
+        {
+            "id": "nm0555500",
+            "image": "https://imdb-api.com/images/original/MV5BMTU4MTMxNjA0MF5BMl5BanBnXkFtZTcwMTAwNTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Elizabeth Marvel",
+            "asCharacter": "Jean"
+        },
+        {
+            "id": "nm0000668",
+            "image": "https://imdb-api.com/images/original/MV5BMTMwNTAyOTg0MF5BMl5BanBnXkFtZTcwNTg0MzY1Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Emma Thompson",
+            "asCharacter": "Maureen"
+        },
+        {
+            "id": "nm2974069",
+            "image": "https://imdb-api.com/images/original/MV5BM2FkMDMyMDctNTM4Ny00M2RmLThkMTYtNjkyZTMzYTFmZDdlXkEyXkFqcGdeQXVyMTYyMDkzNTY@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Danny Flaherty",
+            "asCharacter": "Marcus"
+        },
+        {
+            "id": "nm4311436",
+            "image": "https://imdb-api.com/images/original/MV5BNzYwMTljNDMtOGFmNS00MjU4LWFlNTQtMGMyZWI2NmRhMjIyXkEyXkFqcGdeQXVyMTY1MzkzNTI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adam David Thompson",
+            "asCharacter": "Brian"
+        },
+        {
+            "id": "nm3845878",
+            "image": "https://imdb-api.com/images/original/MV5BOTYyNTcxNjUtYjk0OC00Mjk1LWEzNzctYjg2YTljYjkwNTBkXkEyXkFqcGdeQXVyNjI0MzQ0MjY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ronald Peet",
+            "asCharacter": "James (as Ronald Alexander Peet)"
+        },
+        {
+            "id": "nm9009887",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hannah Mitchell",
+            "asCharacter": "MOMA Employee"
+        },
+        {
+            "id": "nm0002139",
+            "image": "https://imdb-api.com/images/original/MV5BMTE5MTQ2MTkwNl5BMl5BanBnXkFtZTYwNTc1ODA3._V1_Ratio0.7273_AL_.jpg",
+            "name": "Judd Hirsch",
+            "asCharacter": "L.J. Shapiro"
+        },
+        {
+            "id": "nm0589182",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0MDA4NjA3Ml5BMl5BanBnXkFtZTcwMDI1Njk5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rebecca Miller",
+            "asCharacter": "Loretta"
+        },
+        {
+            "id": "nm0000244",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sigourney Weaver",
+            "asCharacter": "Sigourney Weaver"
+        },
+        {
+            "id": "nm3348582",
+            "image": "https://imdb-api.com/images/original/MV5BOGExYzhhMmMtMmUxMC00NTIzLWE0ZWEtZjczYjljZjkxNjg1XkEyXkFqcGdeQXVyNTU1NjkxNjY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Cromer",
+            "asCharacter": "Glenn Twitchell"
+        },
+        {
+            "id": "nm9009890",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Hamilton",
+            "asCharacter": "MOMA Guest"
+        },
+        {
+            "id": "nm0357979",
+            "image": "https://imdb-api.com/images/original/MV5BMTU1ODA3MzE1MV5BMl5BanBnXkFtZTcwODMxMzg1MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Josh Hamilton",
+            "asCharacter": "Loretta's Friend"
+        },
+        {
+            "id": "nm0001774",
+            "image": "https://imdb-api.com/images/original/MV5BMjc4NDc3NDkzMl5BMl5BanBnXkFtZTcwMTAyNTQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ben Stiller",
+            "asCharacter": "Matthew"
+        },
+        {
+            "id": "nm3485845",
+            "image": "https://imdb-api.com/images/original/MV5BOWViYjUzOWMtMzRkZi00MjNkLTk4M2ItMTVkMDg5MzE2ZDYyXkEyXkFqcGdeQXVyODQwNjM3NDA@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Adam Driver",
+            "asCharacter": "Randy"
+        },
+        {
+            "id": "nm3251812",
+            "image": "https://imdb-api.com/images/original/MV5BZGZmMWY0Y2MtYjc3NC00M2EyLTkyZDQtMTdiMGZjNTVkNjhmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Matthew Shear",
+            "asCharacter": "Gabe"
+        },
+        {
+            "id": "nm0292579",
+            "image": "https://imdb-api.com/images/original/MV5BZTdiNmVhYTktMGFmYS00ZjM5LTljYjMtMTUyMzg1MmEyODQ4XkEyXkFqcGdeQXVyNTE4NDE4MA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Gibson Frazier",
+            "asCharacter": "Ma\u00eetre d\u0092"
+        },
+        {
+            "id": "nm1994167",
+            "image": "https://imdb-api.com/images/original/MV5BMTI1MDk3NjY2NV5BMl5BanBnXkFtZTcwNjM1NjMzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jordan Carlos",
+            "asCharacter": "Waiter"
+        },
+        {
+            "id": "nm3980825",
+            "image": "https://imdb-api.com/images/original/MV5BNjQ2NGU5MWUtYWMxMC00ZTc0LTkzMzItY2M0Yjg5Zjc4NmU3XkEyXkFqcGdeQXVyMjM0MjY2NDY@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Benjamin Thys",
+            "asCharacter": "European Man"
+        },
+        {
+            "id": "nm1869872",
+            "image": "https://imdb-api.com/images/original/MV5BYTkwMjdlODEtOTRjMi00NjE0LWE5YWItY2RlNGZkMTAyYTc3XkEyXkFqcGdeQXVyMTE1NzAyOTg@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Lyne Renee",
+            "asCharacter": "European Woman"
+        },
+        {
+            "id": "nm0000298",
+            "image": "https://imdb-api.com/images/original/MV5BMTA3MTM1MTIxNTdeQTJeQWpwZ15BbWU3MDc4NDY2MjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Candice Bergen",
+            "asCharacter": "Julia"
+        },
+        {
+            "id": "nm0415529",
+            "image": "https://imdb-api.com/images/original/MV5BMzk1ODM2NTgwNV5BMl5BanBnXkFtZTcwNzIyNjc4OQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sakina Jaffrey",
+            "asCharacter": "Dr. Malini Soni"
+        },
+        {
+            "id": "nm4587360",
+            "image": "https://imdb-api.com/images/original/MV5BZWZmYTVhMGYtODY2YS00ZTNhLWFmMzgtZjY3NGE1NzhmOGNlXkEyXkFqcGdeQXVyMzA0NDgyMDU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gayle Rankin",
+            "asCharacter": "Pam"
+        },
+        {
+            "id": "nm1985974",
+            "image": "https://imdb-api.com/images/original/MV5BMTU5NTg5ODI3NV5BMl5BanBnXkFtZTgwNDg2NDY0MTI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Chernus",
+            "asCharacter": "Male Nurse"
+        },
+        {
+            "id": "nm0156461",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ4MDUxODIyNl5BMl5BanBnXkFtZTgwMDA3OTU2NjE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Cindy Cheung",
+            "asCharacter": "Nurse #1"
+        },
+        {
+            "id": "nm0797435",
+            "image": "https://imdb-api.com/images/original/MV5BNTRkZmZlNWEtMTNlNy00NjlkLWEyMzctMGE1ZTA2NThiNGNkXkEyXkFqcGdeQXVyMTE4NzcyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mandy Siegfried",
+            "asCharacter": "Nurse #2"
+        },
+        {
+            "id": "nm1497615",
+            "image": "https://imdb-api.com/images/original/MV5BOTAxMzIyNDMtZGU0Zi00M2NjLTgyOGYtZDRmNGJhNjNhYjY1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Victor Cruz",
+            "asCharacter": "Doctor (ICU)"
+        },
+        {
+            "id": "nm6018195",
+            "image": "https://imdb-api.com/images/original/MV5BMTUzMDc1NjEwNF5BMl5BanBnXkFtZTgwMDE2NDE4MzE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Joel Bernstein",
+            "asCharacter": "Doctor (End of Life)"
+        },
+        {
+            "id": "nm0560681",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jerry Matz",
+            "asCharacter": "Paul Epstein"
+        },
+        {
+            "id": "nm4945440",
+            "image": "https://imdb-api.com/images/original/MV5BMjIzODI2NDU0NV5BMl5BanBnXkFtZTgwNDQ3MDAyOTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Germar Terrell Gardner",
+            "asCharacter": "Paul's Nurse"
+        },
+        {
+            "id": "nm2316017",
+            "image": "https://imdb-api.com/images/original/MV5BMDlkMjAzYzAtYjFiNy00ODUxLTlkNDYtNmRkYzNkMGRiMzk2XkEyXkFqcGdeQXVyMjY5MzM3OTk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mickey Sumner",
+            "asCharacter": "Woman at Bard"
+        },
+        {
+            "id": "nm7496694",
+            "image": "https://imdb-api.com/images/original/MV5BMjU2ZGZhYTQtYjE5Yi00NDc0LWFkNTAtN2E2MDEzMTlmOThkXkEyXkFqcGdeQXVyNjQwODQyNDY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Justin Winley",
+            "asCharacter": "Robin"
+        },
+        {
+            "id": "nm4047074",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kareem Williams",
+            "asCharacter": "Nurse's Aide"
+        },
+        {
+            "id": "nm0415070",
+            "image": "https://imdb-api.com/images/original/MV5BMTEyOTc1MjgyMjheQTJeQWpwZ15BbWU3MDIxMjMxMTg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Carlos Jacott",
+            "asCharacter": "Town Car Driver"
+        },
+        {
+            "id": "nm0062264",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nico Baumbach",
+            "asCharacter": "Whitney Employee"
+        },
+        {
+            "id": "nm9684199",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hannah Elizabeth Alexander",
+            "asCharacter": "MOMA Guest"
+        },
+        {
+            "id": "nm2185669",
+            "image": "https://imdb-api.com/images/original/MV5BZmI3ZTk1NjktOTMwYi00MTM0LThhMTItNmIyOTdiNjc2NGI1XkEyXkFqcGdeQXVyNDk0NTAzMzM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jarrett Winters Morley",
+            "asCharacter": "Bard Student"
+        },
+        {
+            "id": "nm3129464",
+            "image": "https://imdb-api.com/images/original/MV5BNzdjOTZiY2YtM2ZlNS00YzMyLThhMWYtZjM3YjlmNzZiZjBjXkEyXkFqcGdeQXVyMTgwODAxMDA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "George Aloi",
+            "asCharacter": "Bard Professor (uncredited)"
+        },
+        {
+            "id": "nm4371227",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marshall Axt",
+            "asCharacter": "Art Museum Goer (uncredited)"
+        },
+        {
+            "id": "nm9019523",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruno",
+            "asCharacter": "Poodle (uncredited)"
+        },
+        {
+            "id": "nm2501121",
+            "image": "https://imdb-api.com/images/original/MV5BMzFhZjM0ODgtYjE3NS00Njc3LTlhZWEtMThhZmQ4ODQ2NjNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Barbara Danicka",
+            "asCharacter": "Gallery Merchant (uncredited)"
+        },
+        {
+            "id": "nm2257080",
+            "image": "https://imdb-api.com/images/original/MV5BMDA2Yzk5YzgtMTNjOC00MzdhLTlkMGMtOTRkODQ0NmQwNTkxXkEyXkFqcGdeQXVyMTA1OTk1MDc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jason Daunno",
+            "asCharacter": "Guy at the Gallery (uncredited)"
+        },
+        {
+            "id": "nm1181086",
+            "image": "https://imdb-api.com/images/original/MV5BNzI0ZDVjM2MtY2UxYi00YmRmLWIxMmUtM2YzMzE4NTUyNWYzXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Annabelle Dexter-Jones",
+            "asCharacter": "Gallery Girl (uncredited)"
+        },
+        {
+            "id": "nm1671309",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyMTQ4MTAyN15BMl5BanBnXkFtZTcwMjE4NTA2OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Takako Haywood",
+            "asCharacter": "Tourist #1 (uncredited)"
+        },
+        {
+            "id": "nm0401091",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5Nzg5ODg2MF5BMl5BanBnXkFtZTcwMjAzMzExOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Marceline Hugot",
+            "asCharacter": "Lady at Gallery Opening (uncredited)"
+        },
+        {
+            "id": "nm3987489",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Teniel Humeston",
+            "asCharacter": "Gallery Girl (uncredited)"
+        },
+        {
+            "id": "nm2704252",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rebecca Guadalupe Kuntz",
+            "asCharacter": "Student at Gallery (uncredited)"
+        },
+        {
+            "id": "nm5510152",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vincent Martini",
+            "asCharacter": "Rabbit (uncredited)"
+        },
+        {
+            "id": "nm1671544",
+            "image": "https://imdb-api.com/images/original/MV5BZGM3ZTQ5ZWQtMmZiMi00MzUxLWE1ZjMtZjZjMWE0ODM5YmFiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Oona Mekas",
+            "asCharacter": "Young Jean (uncredited)"
+        },
+        {
+            "id": "nm5427156",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marek Radin",
+            "asCharacter": "Guest (uncredited)"
+        },
+        {
+            "id": "nm5795623",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Max Rein",
+            "asCharacter": "Art Museum Goer (uncredited)"
+        },
+        {
+            "id": "nm2532658",
+            "image": "https://imdb-api.com/images/original/MV5BODhjYzJjZjItM2NmMi00MDgwLWE0MWUtZmE3MjU5ZTE1MDg3XkEyXkFqcGdeQXVyMTU5OTU5OA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Marquis Rodriguez",
+            "asCharacter": "College Kid (uncredited)"
+        },
+        {
+            "id": "nm2296266",
+            "image": "https://imdb-api.com/images/original/MV5BNDgwNzI4NzA5N15BMl5BanBnXkFtZTgwNjE5ODY3MjE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Neil Samuels",
+            "asCharacter": "Opening Guest (uncredited)"
+        },
+        {
+            "id": "nm0761977",
+            "image": "https://imdb-api.com/images/original/MV5BZGVhZGEwZDMtY2EwZS00ZGY1LTk5NTctZGRiYTg4ODMwMGRjXkEyXkFqcGdeQXVyNDI1ODk2MDc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jared Sandler",
+            "asCharacter": "College Kid #2 (uncredited)"
+        },
+        {
+            "id": "nm3491108",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michelle Santiago",
+            "asCharacter": "Hospital Patient (uncredited)"
+        },
+        {
+            "id": "nm6004313",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1NTc1YmMtYzRiZC00NjI1LTkzNTAtMmQ1YzZjMmUzN2RlXkEyXkFqcGdeQXVyNDcxOTk5NjA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nancy Ellen Shore",
+            "asCharacter": "Doctor (uncredited)"
+        },
+        {
+            "id": "nm7341946",
+            "image": "https://imdb-api.com/images/original/MV5BZjI2ZTU2OTQtYWM1NS00YmJhLTk4OGItYWJhMjZiMDBhNjg0XkEyXkFqcGdeQXVyNjA1OTIxMDQ@._V1_Ratio2.6818_AL_.jpg",
+            "name": "Jordan Theodore",
+            "asCharacter": "Gallery Guy on a Date (uncredited)"
+        },
+        {
+            "id": "nm1229311",
+            "image": "https://imdb-api.com/images/original/MV5BMDgxODcyYTQtZWIxMC00NWU5LTk4ZTctMTQ4YjhkNDc2NzhlXkEyXkFqcGdeQXVyMjU5MjU0MzM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Heather Winters",
+            "asCharacter": "Bard Professor (uncredited)"
+        },
+        {
+            "id": "nm0940242",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "McManus Woodend",
+            "asCharacter": "Gary (uncredited)"
+        },
+        {
+            "id": "nm2807557",
+            "image": "https://imdb-api.com/images/original/MV5BNzZjMmRlODUtZTdkNi00NTRhLTg4YTAtYTA2MjdmM2ZlYzg5XkEyXkFqcGdeQXVyMjczOTUzMTE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Rachel Zeiger-Haag",
+            "asCharacter": "Gallery Girl (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt5536736",
+        "title": "The Meyerowitz Stories",
+        "fullTitle": "The Meyerowitz Stories (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000876",
+                    "name": "Noah Baumbach",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000876",
+                    "name": "Noah Baumbach",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0001191",
+                "image": "https://imdb-api.com/images/original/MV5BMjQyNzM2MjM1Ml5BMl5BanBnXkFtZTcwMDE5NjI3Mg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Adam Sandler",
+                "asCharacter": "Danny"
+            },
+            {
+                "id": "nm2665105",
+                "image": "https://imdb-api.com/images/original/MV5BMjQzNDExNzc5NV5BMl5BanBnXkFtZTgwMjAwMDMwMDI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Grace Van Patten",
+                "asCharacter": "Eliza"
+            },
+            {
+                "id": "nm0000163",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3NzU0ODczMF5BMl5BanBnXkFtZTcwODEyMDY5Mg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dustin Hoffman",
+                "asCharacter": "Harold"
+            },
+            {
+                "id": "nm0555500",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4MTMxNjA0MF5BMl5BanBnXkFtZTcwMTAwNTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Elizabeth Marvel",
+                "asCharacter": "Jean"
+            },
+            {
+                "id": "nm0000668",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwNTAyOTg0MF5BMl5BanBnXkFtZTcwNTg0MzY1Mw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Emma Thompson",
+                "asCharacter": "Maureen"
+            },
+            {
+                "id": "nm2974069",
+                "image": "https://imdb-api.com/images/original/MV5BM2FkMDMyMDctNTM4Ny00M2RmLThkMTYtNjkyZTMzYTFmZDdlXkEyXkFqcGdeQXVyMTYyMDkzNTY@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Danny Flaherty",
+                "asCharacter": "Marcus"
+            },
+            {
+                "id": "nm4311436",
+                "image": "https://imdb-api.com/images/original/MV5BNzYwMTljNDMtOGFmNS00MjU4LWFlNTQtMGMyZWI2NmRhMjIyXkEyXkFqcGdeQXVyMTY1MzkzNTI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Adam David Thompson",
+                "asCharacter": "Brian"
+            },
+            {
+                "id": "nm3845878",
+                "image": "https://imdb-api.com/images/original/MV5BOTYyNTcxNjUtYjk0OC00Mjk1LWEzNzctYjg2YTljYjkwNTBkXkEyXkFqcGdeQXVyNjI0MzQ0MjY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ronald Peet",
+                "asCharacter": "James (as Ronald Alexander Peet)"
+            },
+            {
+                "id": "nm9009887",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hannah Mitchell",
+                "asCharacter": "MOMA Employee"
+            },
+            {
+                "id": "nm0002139",
+                "image": "https://imdb-api.com/images/original/MV5BMTE5MTQ2MTkwNl5BMl5BanBnXkFtZTYwNTc1ODA3._V1_Ratio0.7273_AL_.jpg",
+                "name": "Judd Hirsch",
+                "asCharacter": "L.J. Shapiro"
+            },
+            {
+                "id": "nm0589182",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0MDA4NjA3Ml5BMl5BanBnXkFtZTcwMDI1Njk5Mg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Rebecca Miller",
+                "asCharacter": "Loretta"
+            },
+            {
+                "id": "nm0000244",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sigourney Weaver",
+                "asCharacter": "Sigourney Weaver"
+            },
+            {
+                "id": "nm3348582",
+                "image": "https://imdb-api.com/images/original/MV5BOGExYzhhMmMtMmUxMC00NTIzLWE0ZWEtZjczYjljZjkxNjg1XkEyXkFqcGdeQXVyNTU1NjkxNjY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "David Cromer",
+                "asCharacter": "Glenn Twitchell"
+            },
+            {
+                "id": "nm9009890",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "James Hamilton",
+                "asCharacter": "MOMA Guest"
+            },
+            {
+                "id": "nm0357979",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1ODA3MzE1MV5BMl5BanBnXkFtZTcwODMxMzg1MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Josh Hamilton",
+                "asCharacter": "Loretta's Friend"
+            },
+            {
+                "id": "nm0001774",
+                "image": "https://imdb-api.com/images/original/MV5BMjc4NDc3NDkzMl5BMl5BanBnXkFtZTcwMTAyNTQwMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ben Stiller",
+                "asCharacter": "Matthew"
+            },
+            {
+                "id": "nm3485845",
+                "image": "https://imdb-api.com/images/original/MV5BOWViYjUzOWMtMzRkZi00MjNkLTk4M2ItMTVkMDg5MzE2ZDYyXkEyXkFqcGdeQXVyODQwNjM3NDA@._V1_Ratio0.9545_AL_.jpg",
+                "name": "Adam Driver",
+                "asCharacter": "Randy"
+            },
+            {
+                "id": "nm3251812",
+                "image": "https://imdb-api.com/images/original/MV5BZGZmMWY0Y2MtYjc3NC00M2EyLTkyZDQtMTdiMGZjNTVkNjhmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Matthew Shear",
+                "asCharacter": "Gabe"
+            },
+            {
+                "id": "nm0292579",
+                "image": "https://imdb-api.com/images/original/MV5BZTdiNmVhYTktMGFmYS00ZjM5LTljYjMtMTUyMzg1MmEyODQ4XkEyXkFqcGdeQXVyNTE4NDE4MA@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Gibson Frazier",
+                "asCharacter": "Ma\u00eetre d\u0092"
+            },
+            {
+                "id": "nm1994167",
+                "image": "https://imdb-api.com/images/original/MV5BMTI1MDk3NjY2NV5BMl5BanBnXkFtZTcwNjM1NjMzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jordan Carlos",
+                "asCharacter": "Waiter"
+            },
+            {
+                "id": "nm3980825",
+                "image": "https://imdb-api.com/images/original/MV5BNjQ2NGU5MWUtYWMxMC00ZTc0LTkzMzItY2M0Yjg5Zjc4NmU3XkEyXkFqcGdeQXVyMjM0MjY2NDY@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Benjamin Thys",
+                "asCharacter": "European Man"
+            },
+            {
+                "id": "nm1869872",
+                "image": "https://imdb-api.com/images/original/MV5BYTkwMjdlODEtOTRjMi00NjE0LWE5YWItY2RlNGZkMTAyYTc3XkEyXkFqcGdeQXVyMTE1NzAyOTg@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Lyne Renee",
+                "asCharacter": "European Woman"
+            },
+            {
+                "id": "nm0000298",
+                "image": "https://imdb-api.com/images/original/MV5BMTA3MTM1MTIxNTdeQTJeQWpwZ15BbWU3MDc4NDY2MjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Candice Bergen",
+                "asCharacter": "Julia"
+            },
+            {
+                "id": "nm0415529",
+                "image": "https://imdb-api.com/images/original/MV5BMzk1ODM2NTgwNV5BMl5BanBnXkFtZTcwNzIyNjc4OQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sakina Jaffrey",
+                "asCharacter": "Dr. Malini Soni"
+            },
+            {
+                "id": "nm4587360",
+                "image": "https://imdb-api.com/images/original/MV5BZWZmYTVhMGYtODY2YS00ZTNhLWFmMzgtZjY3NGE1NzhmOGNlXkEyXkFqcGdeQXVyMzA0NDgyMDU@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Gayle Rankin",
+                "asCharacter": "Pam"
+            },
+            {
+                "id": "nm1985974",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5NTg5ODI3NV5BMl5BanBnXkFtZTgwNDg2NDY0MTI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Chernus",
+                "asCharacter": "Male Nurse"
+            },
+            {
+                "id": "nm0156461",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4MDUxODIyNl5BMl5BanBnXkFtZTgwMDA3OTU2NjE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Cindy Cheung",
+                "asCharacter": "Nurse #1"
+            },
+            {
+                "id": "nm0797435",
+                "image": "https://imdb-api.com/images/original/MV5BNTRkZmZlNWEtMTNlNy00NjlkLWEyMzctMGE1ZTA2NThiNGNkXkEyXkFqcGdeQXVyMTE4NzcyOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Mandy Siegfried",
+                "asCharacter": "Nurse #2"
+            },
+            {
+                "id": "nm1497615",
+                "image": "https://imdb-api.com/images/original/MV5BOTAxMzIyNDMtZGU0Zi00M2NjLTgyOGYtZDRmNGJhNjNhYjY1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Victor Cruz",
+                "asCharacter": "Doctor (ICU)"
+            },
+            {
+                "id": "nm6018195",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzMDc1NjEwNF5BMl5BanBnXkFtZTgwMDE2NDE4MzE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Joel Bernstein",
+                "asCharacter": "Doctor (End of Life)"
+            },
+            {
+                "id": "nm0560681",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jerry Matz",
+                "asCharacter": "Paul Epstein"
+            },
+            {
+                "id": "nm4945440",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzODI2NDU0NV5BMl5BanBnXkFtZTgwNDQ3MDAyOTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Germar Terrell Gardner",
+                "asCharacter": "Paul's Nurse"
+            },
+            {
+                "id": "nm2316017",
+                "image": "https://imdb-api.com/images/original/MV5BMDlkMjAzYzAtYjFiNy00ODUxLTlkNDYtNmRkYzNkMGRiMzk2XkEyXkFqcGdeQXVyMjY5MzM3OTk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Mickey Sumner",
+                "asCharacter": "Woman at Bard"
+            },
+            {
+                "id": "nm7496694",
+                "image": "https://imdb-api.com/images/original/MV5BMjU2ZGZhYTQtYjE5Yi00NDc0LWFkNTAtN2E2MDEzMTlmOThkXkEyXkFqcGdeQXVyNjQwODQyNDY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Justin Winley",
+                "asCharacter": "Robin"
+            },
+            {
+                "id": "nm4047074",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kareem Williams",
+                "asCharacter": "Nurse's Aide"
+            },
+            {
+                "id": "nm0415070",
+                "image": "https://imdb-api.com/images/original/MV5BMTEyOTc1MjgyMjheQTJeQWpwZ15BbWU3MDIxMjMxMTg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Carlos Jacott",
+                "asCharacter": "Town Car Driver"
+            },
+            {
+                "id": "nm0062264",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nico Baumbach",
+                "asCharacter": "Whitney Employee"
+            },
+            {
+                "id": "nm9684199",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hannah Elizabeth Alexander",
+                "asCharacter": "MOMA Guest"
+            },
+            {
+                "id": "nm2185669",
+                "image": "https://imdb-api.com/images/original/MV5BZmI3ZTk1NjktOTMwYi00MTM0LThhMTItNmIyOTdiNjc2NGI1XkEyXkFqcGdeQXVyNDk0NTAzMzM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jarrett Winters Morley",
+                "asCharacter": "Bard Student"
+            },
+            {
+                "id": "nm3129464",
+                "image": "https://imdb-api.com/images/original/MV5BNzdjOTZiY2YtM2ZlNS00YzMyLThhMWYtZjM3YjlmNzZiZjBjXkEyXkFqcGdeQXVyMTgwODAxMDA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "George Aloi",
+                "asCharacter": "Bard Professor (uncredited)"
+            },
+            {
+                "id": "nm4371227",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marshall Axt",
+                "asCharacter": "Art Museum Goer (uncredited)"
+            },
+            {
+                "id": "nm9019523",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bruno",
+                "asCharacter": "Poodle (uncredited)"
+            },
+            {
+                "id": "nm2501121",
+                "image": "https://imdb-api.com/images/original/MV5BMzFhZjM0ODgtYjE3NS00Njc3LTlhZWEtMThhZmQ4ODQ2NjNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Barbara Danicka",
+                "asCharacter": "Gallery Merchant (uncredited)"
+            },
+            {
+                "id": "nm2257080",
+                "image": "https://imdb-api.com/images/original/MV5BMDA2Yzk5YzgtMTNjOC00MzdhLTlkMGMtOTRkODQ0NmQwNTkxXkEyXkFqcGdeQXVyMTA1OTk1MDc@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jason Daunno",
+                "asCharacter": "Guy at the Gallery (uncredited)"
+            },
+            {
+                "id": "nm1181086",
+                "image": "https://imdb-api.com/images/original/MV5BNzI0ZDVjM2MtY2UxYi00YmRmLWIxMmUtM2YzMzE4NTUyNWYzXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Annabelle Dexter-Jones",
+                "asCharacter": "Gallery Girl (uncredited)"
+            },
+            {
+                "id": "nm1671309",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyMTQ4MTAyN15BMl5BanBnXkFtZTcwMjE4NTA2OA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Takako Haywood",
+                "asCharacter": "Tourist #1 (uncredited)"
+            },
+            {
+                "id": "nm0401091",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5Nzg5ODg2MF5BMl5BanBnXkFtZTcwMjAzMzExOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Marceline Hugot",
+                "asCharacter": "Lady at Gallery Opening (uncredited)"
+            },
+            {
+                "id": "nm3987489",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Teniel Humeston",
+                "asCharacter": "Gallery Girl (uncredited)"
+            },
+            {
+                "id": "nm2704252",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rebecca Guadalupe Kuntz",
+                "asCharacter": "Student at Gallery (uncredited)"
+            },
+            {
+                "id": "nm5510152",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Vincent Martini",
+                "asCharacter": "Rabbit (uncredited)"
+            },
+            {
+                "id": "nm1671544",
+                "image": "https://imdb-api.com/images/original/MV5BZGM3ZTQ5ZWQtMmZiMi00MzUxLWE1ZjMtZjZjMWE0ODM5YmFiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Oona Mekas",
+                "asCharacter": "Young Jean (uncredited)"
+            },
+            {
+                "id": "nm5427156",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marek Radin",
+                "asCharacter": "Guest (uncredited)"
+            },
+            {
+                "id": "nm5795623",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Max Rein",
+                "asCharacter": "Art Museum Goer (uncredited)"
+            },
+            {
+                "id": "nm2532658",
+                "image": "https://imdb-api.com/images/original/MV5BODhjYzJjZjItM2NmMi00MDgwLWE0MWUtZmE3MjU5ZTE1MDg3XkEyXkFqcGdeQXVyMTU5OTU5OA@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Marquis Rodriguez",
+                "asCharacter": "College Kid (uncredited)"
+            },
+            {
+                "id": "nm2296266",
+                "image": "https://imdb-api.com/images/original/MV5BNDgwNzI4NzA5N15BMl5BanBnXkFtZTgwNjE5ODY3MjE@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Neil Samuels",
+                "asCharacter": "Opening Guest (uncredited)"
+            },
+            {
+                "id": "nm0761977",
+                "image": "https://imdb-api.com/images/original/MV5BZGVhZGEwZDMtY2EwZS00ZGY1LTk5NTctZGRiYTg4ODMwMGRjXkEyXkFqcGdeQXVyNDI1ODk2MDc@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jared Sandler",
+                "asCharacter": "College Kid #2 (uncredited)"
+            },
+            {
+                "id": "nm3491108",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michelle Santiago",
+                "asCharacter": "Hospital Patient (uncredited)"
+            },
+            {
+                "id": "nm6004313",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1NTc1YmMtYzRiZC00NjI1LTkzNTAtMmQ1YzZjMmUzN2RlXkEyXkFqcGdeQXVyNDcxOTk5NjA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Nancy Ellen Shore",
+                "asCharacter": "Doctor (uncredited)"
+            },
+            {
+                "id": "nm7341946",
+                "image": "https://imdb-api.com/images/original/MV5BZjI2ZTU2OTQtYWM1NS00YmJhLTk4OGItYWJhMjZiMDBhNjg0XkEyXkFqcGdeQXVyNjA1OTIxMDQ@._V1_Ratio2.6818_AL_.jpg",
+                "name": "Jordan Theodore",
+                "asCharacter": "Gallery Guy on a Date (uncredited)"
+            },
+            {
+                "id": "nm1229311",
+                "image": "https://imdb-api.com/images/original/MV5BMDgxODcyYTQtZWIxMC00NWU5LTk4ZTctMTQ4YjhkNDc2NzhlXkEyXkFqcGdeQXVyMjU5MjU0MzM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Heather Winters",
+                "asCharacter": "Bard Professor (uncredited)"
+            },
+            {
+                "id": "nm0940242",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "McManus Woodend",
+                "asCharacter": "Gary (uncredited)"
+            },
+            {
+                "id": "nm2807557",
+                "image": "https://imdb-api.com/images/original/MV5BNzZjMmRlODUtZTdkNi00NTRhLTg4YTAtYTA2MjdmM2ZlYzg5XkEyXkFqcGdeQXVyMjczOTUzMTE@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Rachel Zeiger-Haag",
+                "asCharacter": "Gallery Girl (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0000876",
+                        "name": "Noah Baumbach",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm4791912",
+                        "name": "Eli Bush",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm1158108",
+                        "name": "Catherine Farrell",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0748784",
+                        "name": "Scott Rudin",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm6755947",
+                        "name": "Jason Sack",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0944803",
+                        "name": "Lila Yacoub",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0005271",
+                        "name": "Randy Newman",
+                        "description": "(music composed and performed by)"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0752811",
+                        "name": "Robbie Ryan",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm2352780",
+                        "name": "Jennifer Lame",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0014428",
+                        "name": "Douglas Aibel",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0537892",
+                        "name": "Francine Maisler",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0838082",
+                        "name": "Gerald Sullivan",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm1916289",
+                        "name": "Nicolas Locke",
+                        "description": "(as Nic Locke)"
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0602901",
+                        "name": "Kris Moran",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0042053",
+                        "name": "Joseph G. Aulisi",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm1887769",
+                        "name": "Ayinde Castro",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm0155275",
+                        "name": "Judy Chin",
+                        "description": "makeup department head"
+                    },
+                    {
+                        "id": "nm0346793",
+                        "name": "Lori Guidroz",
+                        "description": "hairstylist: Ben Stiller"
+                    },
+                    {
+                        "id": "nm1723586",
+                        "name": "Mandy Lyons",
+                        "description": "hair department head"
+                    },
+                    {
+                        "id": "nm0563372",
+                        "name": "Bernadette Mazur",
+                        "description": "makeup artist: Ben Stiller"
+                    },
+                    {
+                        "id": "nm3379836",
+                        "name": "Amanda Miller",
+                        "description": "wigmaker: sfx hairpiece"
+                    },
+                    {
+                        "id": "nm0596874",
+                        "name": "Tom Molinelli",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm6165412",
+                        "name": "Nancy Nieves",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0657188",
+                        "name": "Ann Pala",
+                        "description": "makeup artist: Adam Sandler"
+                    },
+                    {
+                        "id": "nm3755519",
+                        "name": "Cassandra Parks",
+                        "description": "additional hair stylist"
+                    },
+                    {
+                        "id": "nm4541735",
+                        "name": "Valerie Velez",
+                        "description": "key hairstylist"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm1158108",
+                        "name": "Catherine Farrell",
+                        "description": "post-production supervisor"
+                    },
+                    {
+                        "id": "nm0549908",
+                        "name": "Georgina Marquis",
+                        "description": "unit production manager"
+                    },
+                    {
+                        "id": "nm1184243",
+                        "name": "Michael Morgan",
+                        "description": "Post Production Executive"
+                    },
+                    {
+                        "id": "nm1623143",
+                        "name": "Ulises Rodriguez",
+                        "description": "production supervisor (as Ulises Rodriguez Noa)"
+                    },
+                    {
+                        "id": "nm0944803",
+                        "name": "Lila Yacoub",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm3699129",
+                        "name": "Teddy Gibbons",
+                        "description": "additional second assistant director"
+                    },
+                    {
+                        "id": "nm3942438",
+                        "name": "Ryan Robert Howard",
+                        "description": "second second assistant director (as Ryan Howard)"
+                    },
+                    {
+                        "id": "nm0437360",
+                        "name": "Karen Kane",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm1157591",
+                        "name": "Matt Lake",
+                        "description": "second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm2182778",
+                        "name": "Edgard Acevedo",
+                        "description": "industrial scenic"
+                    },
+                    {
+                        "id": "nm1178108",
+                        "name": "Susan Agnoff",
+                        "description": "product placement coordinator"
+                    },
+                    {
+                        "id": "nm9573351",
+                        "name": "Peter Bartsocas",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm5453269",
+                        "name": "Jim Bauer",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm6665881",
+                        "name": "C\u00e9line Bava-Helms",
+                        "description": "art department production assistant (as Celina Bava-Helms)"
+                    },
+                    {
+                        "id": "nm6037920",
+                        "name": "Rhea Bundrant",
+                        "description": "shop foreman"
+                    },
+                    {
+                        "id": "nm2064931",
+                        "name": "Peter Bundrick",
+                        "description": "key carpenter"
+                    },
+                    {
+                        "id": "nm0200908",
+                        "name": "Ara Darakjian",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm4603951",
+                        "name": "Russell De Young",
+                        "description": "camera scenic (as Russell DeYoung)"
+                    },
+                    {
+                        "id": "nm1564465",
+                        "name": "Sarah Dennis",
+                        "description": "assistant set decorator"
+                    },
+                    {
+                        "id": "nm5060597",
+                        "name": "Mike Drury",
+                        "description": "assistant property master"
+                    },
+                    {
+                        "id": "nm2554522",
+                        "name": "Jeni Harden",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm2625591",
+                        "name": "Patrick Head",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm1057235",
+                        "name": "Richard Hebrank",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm8011752",
+                        "name": "Dan Hickey",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm8011751",
+                        "name": "Shea Jones",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm3635320",
+                        "name": "Ed Joseph",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm2218638",
+                        "name": "Samuel L. Kopels",
+                        "description": "scenic charge (as Samuel Kopels)"
+                    },
+                    {
+                        "id": "nm5377969",
+                        "name": "Guy Kozak",
+                        "description": "art department production assistant"
+                    },
+                    {
+                        "id": "nm2192269",
+                        "name": "Jason Miller",
+                        "description": "art department coordinator"
+                    },
+                    {
+                        "id": "nm5392670",
+                        "name": "Michael Miller",
+                        "description": "key construction grip (as Mike Miller)"
+                    },
+                    {
+                        "id": "nm2563934",
+                        "name": "Patrick Parker",
+                        "description": "assistant props"
+                    },
+                    {
+                        "id": "nm4855179",
+                        "name": "Penko Platikanov",
+                        "description": "sculptor"
+                    },
+                    {
+                        "id": "nm8524588",
+                        "name": "Michael Riolo",
+                        "description": "construction production assistant"
+                    },
+                    {
+                        "id": "nm0755187",
+                        "name": "Sherryl Sachs",
+                        "description": "camera scenic"
+                    },
+                    {
+                        "id": "nm6193138",
+                        "name": "Peter Scheck",
+                        "description": "leadman"
+                    },
+                    {
+                        "id": "nm0770384",
+                        "name": "Will Scheck",
+                        "description": "shop foreman"
+                    },
+                    {
+                        "id": "nm2442512",
+                        "name": "Noreen Souza-Bailey",
+                        "description": "prop buyer"
+                    },
+                    {
+                        "id": "nm5053233",
+                        "name": "Emma Stensaas",
+                        "description": "graphic artist"
+                    },
+                    {
+                        "id": "nm4014633",
+                        "name": "Kathryn Tedesco",
+                        "description": "art department production assistant (as Kat Tedesco) / set dec pa"
+                    },
+                    {
+                        "id": "nm2063819",
+                        "name": "Amy Teitter",
+                        "description": "props buyer"
+                    },
+                    {
+                        "id": "nm5377828",
+                        "name": "Matthew Vidalis",
+                        "description": "art department production assistant"
+                    },
+                    {
+                        "id": "nm5691060",
+                        "name": "Bo Wangkeo",
+                        "description": "on-set dresser"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm3736655",
+                        "name": "Vince Reed Camuto",
+                        "description": "boom operator (as Vince Camuto)"
+                    },
+                    {
+                        "id": "nm4667807",
+                        "name": "Noyan Cosarer",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0003401",
+                        "name": "Marko A. Costanzo",
+                        "description": "foley artist (as Marko Costanza)"
+                    },
+                    {
+                        "id": "nm0283403",
+                        "name": "Dave Flynch",
+                        "description": "sound editor (as Dave B. Flynch)"
+                    },
+                    {
+                        "id": "nm0398843",
+                        "name": "Paul Hsu",
+                        "description": "re-recording mixer / supervising sound editor"
+                    },
+                    {
+                        "id": "nm0411004",
+                        "name": "Ken Ishii",
+                        "description": "production sound mixer"
+                    },
+                    {
+                        "id": "nm7778941",
+                        "name": "Nick Jimenez",
+                        "description": "adr recordist"
+                    },
+                    {
+                        "id": "nm0487908",
+                        "name": "George A. Lara",
+                        "description": "foley engineer (as George Lara)"
+                    },
+                    {
+                        "id": "nm4424343",
+                        "name": "Alessio Masi",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0588972",
+                        "name": "Michael Miller",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm3018072",
+                        "name": "Paul Reed",
+                        "description": "utility sound"
+                    },
+                    {
+                        "id": "nm1993521",
+                        "name": "Nicholas Schenck",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm3577102",
+                        "name": "Daniel Sheppard",
+                        "description": "sound utility"
+                    },
+                    {
+                        "id": "nm1868415",
+                        "name": "Sara Stern",
+                        "description": "sound editor"
+                    },
+                    {
+                        "id": "nm0899707",
+                        "name": "Steven Visscher",
+                        "description": "foley editor"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm2223064",
+                        "name": "Jeff Brink",
+                        "description": "special effects supervisor"
+                    },
+                    {
+                        "id": "nm2974207",
+                        "name": "Nathanial Brotherhood",
+                        "description": "special effects"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm2677297",
+                        "name": "Rodrigo de la Parra",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm2212496",
+                        "name": "Christina Delerme",
+                        "description": "vfx producer: Technicolor Postworks"
+                    },
+                    {
+                        "id": "nm9600947",
+                        "name": "Paulo Dias",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm9600948",
+                        "name": "John Garrison",
+                        "description": "3D supervisor"
+                    },
+                    {
+                        "id": "nm3285846",
+                        "name": "Ross Hendrickson",
+                        "description": "visual effects"
+                    },
+                    {
+                        "id": "nm2355986",
+                        "name": "Andrew Lim",
+                        "description": "digital compositor / visual effects supervisor"
+                    },
+                    {
+                        "id": "nm3928925",
+                        "name": "Ryan McMahon",
+                        "description": "vfx artist"
+                    },
+                    {
+                        "id": "nm1034571",
+                        "name": "Morgan Miller",
+                        "description": "restoration"
+                    },
+                    {
+                        "id": "nm6892248",
+                        "name": "Sean Perry",
+                        "description": "vfx artist"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0009820",
+                        "name": "Damian Achilles",
+                        "description": "stunt driver"
+                    },
+                    {
+                        "id": "nm2011074",
+                        "name": "Mike Burke",
+                        "description": "stunt driver"
+                    },
+                    {
+                        "id": "nm0173039",
+                        "name": "Chris Colombo",
+                        "description": "stunt driver"
+                    },
+                    {
+                        "id": "nm4340626",
+                        "name": "Devin Flores",
+                        "description": "stunt driver (as Devin Flores-Siverio)"
+                    },
+                    {
+                        "id": "nm0803371",
+                        "name": "Manny Siverio",
+                        "description": "stunt coordinator"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm2979186",
+                        "name": "Haffe Acosta",
+                        "description": "second assistant: \"b\" camera"
+                    },
+                    {
+                        "id": "nm7555953",
+                        "name": "Robert Bowman",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm6429111",
+                        "name": "Connell Burke",
+                        "description": "electric"
+                    },
+                    {
+                        "id": "nm0170180",
+                        "name": "Paul Colangelo",
+                        "description": "first assistant: \"b\" camera"
+                    },
+                    {
+                        "id": "nm8011756",
+                        "name": "Chris Damiano",
+                        "description": "best boy rigging grip"
+                    },
+                    {
+                        "id": "nm4675552",
+                        "name": "Gabriel Dirienzo",
+                        "description": "electric"
+                    },
+                    {
+                        "id": "nm6175353",
+                        "name": "John Donohue Jr.",
+                        "description": "best boy grip (as John Donohue)"
+                    },
+                    {
+                        "id": "nm6671664",
+                        "name": "Patrick Donohue",
+                        "description": "company grip"
+                    },
+                    {
+                        "id": "nm7969611",
+                        "name": "Christopher Eng",
+                        "description": "second assistant: \"a\" camera (as Chris Eng)"
+                    },
+                    {
+                        "id": "nm0257965",
+                        "name": "Kris Enos",
+                        "description": "second assistant: \"b\" camera"
+                    },
+                    {
+                        "id": "nm1744284",
+                        "name": "Stanley Fernandez Jr.",
+                        "description": "first assistant: \"a\" camera (as Stanley Fernandez)"
+                    },
+                    {
+                        "id": "nm6132355",
+                        "name": "Cristian Gallon",
+                        "description": "electric"
+                    },
+                    {
+                        "id": "nm0423182",
+                        "name": "Thomas Jirgal",
+                        "description": "dolly grip (as Casey Jirgal)"
+                    },
+                    {
+                        "id": "nm2369122",
+                        "name": "Vincent Lanza",
+                        "description": "company grip"
+                    },
+                    {
+                        "id": "nm0600698",
+                        "name": "Christopher Moone",
+                        "description": "camera operator: \"a\" camera (as Chris Moone)"
+                    },
+                    {
+                        "id": "nm2041944",
+                        "name": "Atsushi Nishijima",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm1704831",
+                        "name": "Rocco Proscia",
+                        "description": "key rigging grip"
+                    },
+                    {
+                        "id": "nm1378926",
+                        "name": "Mike Quigley",
+                        "description": "rigging chief lighting technician"
+                    },
+                    {
+                        "id": "nm8011755",
+                        "name": "Renato Quiridumbay",
+                        "description": "best boy electric"
+                    },
+                    {
+                        "id": "nm5199560",
+                        "name": "Dave J. Ross",
+                        "description": "film loader (as Dave Ross)"
+                    },
+                    {
+                        "id": "nm6194937",
+                        "name": "Spencer Rubin",
+                        "description": "company grip"
+                    },
+                    {
+                        "id": "nm1020645",
+                        "name": "Darren Ryan",
+                        "description": "video playback"
+                    },
+                    {
+                        "id": "nm3560055",
+                        "name": "Scott Sousa",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm3269997",
+                        "name": "Daniel Torres",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm4992770",
+                        "name": "Stephen Valenzano",
+                        "description": "rigging best boy electric (as Steve Valenzano)"
+                    },
+                    {
+                        "id": "nm0970436",
+                        "name": "Jason Velez",
+                        "description": "chief lighting technician"
+                    },
+                    {
+                        "id": "nm2438142",
+                        "name": "Mike Yurich",
+                        "description": "key grip (as Michael Yurich)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm2041261",
+                        "name": "Henry Russell Bergstein",
+                        "description": "casting associate: NY (as Henry Russell)"
+                    },
+                    {
+                        "id": "nm2561729",
+                        "name": "Adam DeLisi",
+                        "description": "extras casting coordinator"
+                    },
+                    {
+                        "id": "nm0441074",
+                        "name": "Debbie DeLisi",
+                        "description": "extras casting"
+                    },
+                    {
+                        "id": "nm7871564",
+                        "name": "Ryan Drake",
+                        "description": "casting assistant"
+                    },
+                    {
+                        "id": "nm4983117",
+                        "name": "Hannah Hellekson",
+                        "description": "extras casting key assistant"
+                    },
+                    {
+                        "id": "nm2778164",
+                        "name": "Gloria Kim",
+                        "description": "extras casting assistant"
+                    },
+                    {
+                        "id": "nm8011757",
+                        "name": "Kathleen Mohler",
+                        "description": "casting associate: LA"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm5962301",
+                        "name": "Alyssa Bracken",
+                        "description": "costume assistant"
+                    },
+                    {
+                        "id": "nm7049736",
+                        "name": "John Brennecke",
+                        "description": "costume pa"
+                    },
+                    {
+                        "id": "nm2090346",
+                        "name": "Jessica Chaney",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm4077015",
+                        "name": "Courtney Colston",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm0237240",
+                        "name": "Kevin Draves",
+                        "description": "costume supervisor"
+                    },
+                    {
+                        "id": "nm8011758",
+                        "name": "Jamie Gross",
+                        "description": "costume production assistant"
+                    },
+                    {
+                        "id": "nm4837987",
+                        "name": "Kayti Haugh",
+                        "description": "costume shopper"
+                    },
+                    {
+                        "id": "nm3027822",
+                        "name": "Elizabeth Kirby",
+                        "description": "assistant costume designer"
+                    },
+                    {
+                        "id": "nm1903214",
+                        "name": "Danielle Smith",
+                        "description": "key set costumer"
+                    },
+                    {
+                        "id": "nm6633580",
+                        "name": "Jennifer Stimple Kamei",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm4095618",
+                        "name": "Mitchell Travers",
+                        "description": "assistant costume designer"
+                    },
+                    {
+                        "id": "nm5797156",
+                        "name": "Emily Winokur",
+                        "description": "costume production assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm7107389",
+                        "name": "Jake Caffera",
+                        "description": "film scanning: dailies"
+                    },
+                    {
+                        "id": "nm4259303",
+                        "name": "Jeff Cornell",
+                        "description": "conform editor"
+                    },
+                    {
+                        "id": "nm4722763",
+                        "name": "Nate Davis",
+                        "description": "digital intermediate film scanning"
+                    },
+                    {
+                        "id": "nm1268719",
+                        "name": "Joey Handy",
+                        "description": "digital intermediate producer"
+                    },
+                    {
+                        "id": "nm5038578",
+                        "name": "Clark Henderson",
+                        "description": "svp: theatrical services"
+                    },
+                    {
+                        "id": "nm3822430",
+                        "name": "Eric Horwitz",
+                        "description": "digital intermediate engineer"
+                    },
+                    {
+                        "id": "nm2730909",
+                        "name": "Lucian Johnston",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm0443918",
+                        "name": "Barbara Jean Kearney",
+                        "description": "account executive"
+                    },
+                    {
+                        "id": "nm5745342",
+                        "name": "Stacey Lee",
+                        "description": "data manager"
+                    },
+                    {
+                        "id": "nm7365141",
+                        "name": "Sam Levy",
+                        "description": "editing room assistant"
+                    },
+                    {
+                        "id": "nm2011594",
+                        "name": "Jack Lewars",
+                        "description": "supervising digital colorist"
+                    },
+                    {
+                        "id": "nm2941867",
+                        "name": "Randy Main",
+                        "description": "digital intermediate engineer"
+                    },
+                    {
+                        "id": "nm7094096",
+                        "name": "Matt Medeiros",
+                        "description": "producer: dailies"
+                    },
+                    {
+                        "id": "nm2780094",
+                        "name": "Carlos Monfort",
+                        "description": "technical operations manager"
+                    },
+                    {
+                        "id": "nm1877605",
+                        "name": "Benjamin Murray",
+                        "description": "supervising conform editor"
+                    },
+                    {
+                        "id": "nm2409094",
+                        "name": "Josh Olive",
+                        "description": "colorist: dailies"
+                    },
+                    {
+                        "id": "nm2846291",
+                        "name": "Zachary A. Schwartz",
+                        "description": "assistant editor (as Zack Schwartz)"
+                    },
+                    {
+                        "id": "nm1804573",
+                        "name": "Corey Stewart",
+                        "description": "digital intermediate engineer"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm2629502",
+                        "name": "Puloma Basu",
+                        "description": "locations coordinator"
+                    },
+                    {
+                        "id": "nm7603280",
+                        "name": "Nicholas Carpenter",
+                        "description": "location assistant (as Nick Carpenter)"
+                    },
+                    {
+                        "id": "nm3424751",
+                        "name": "Paul Contos",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm7532836",
+                        "name": "Katie Cossolotto",
+                        "description": "location assistant"
+                    },
+                    {
+                        "id": "nm2287924",
+                        "name": "Steve Grivno",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm5731711",
+                        "name": "James Kenny",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm0498437",
+                        "name": "Wellington Lee",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm3086313",
+                        "name": "Jess Magee",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm5966441",
+                        "name": "Matthew McKay",
+                        "description": "unit production assistant"
+                    },
+                    {
+                        "id": "nm1574387",
+                        "name": "Ayo Ogundele",
+                        "description": "parking coordinator"
+                    },
+                    {
+                        "id": "nm2042987",
+                        "name": "Ryan Smith",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm8011771",
+                        "name": "Marc Turner",
+                        "description": "unit production assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm3953763",
+                        "name": "David Boucher",
+                        "description": "score mixer / score recordist"
+                    },
+                    {
+                        "id": "nm0177725",
+                        "name": "Bruno Coon",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0237041",
+                        "name": "George Drakoulias",
+                        "description": "music supervisor"
+                    },
+                    {
+                        "id": "nm0296434",
+                        "name": "Mitchell Froom",
+                        "description": "score producer"
+                    },
+                    {
+                        "id": "nm7964244",
+                        "name": "Ian Herbert",
+                        "description": "music clearances"
+                    },
+                    {
+                        "id": "nm0680272",
+                        "name": "Britta Phillips",
+                        "description": "writer: Eliza's movie themes"
+                    },
+                    {
+                        "id": "nm0999134",
+                        "name": "Dean Wareham",
+                        "description": "writer: Eliza's movie themes"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm2313159",
+                        "name": "Sasha Vitelli",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm8011759",
+                        "name": "Mike Alboro",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm4817208",
+                        "name": "Thomas Beauter",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm5038795",
+                        "name": "Ed Boyle",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm5463635",
+                        "name": "Joe Brennan",
+                        "description": "driver: honeywagon"
+                    },
+                    {
+                        "id": "nm8011761",
+                        "name": "Mike Cella",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm8422751",
+                        "name": "Boughen Clinton",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0392678",
+                        "name": "George Holtzer",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm8011760",
+                        "name": "Larry Hoover",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0446527",
+                        "name": "Joseph W. Kelly",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm8011764",
+                        "name": "Rob Leary",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm4128805",
+                        "name": "Edward Marquette",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm5207245",
+                        "name": "Greg Miller",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm3771771",
+                        "name": "Robin Monaghan",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm3058023",
+                        "name": "Mickey Pastoriza",
+                        "description": "transportation co-captain (as Michael Pastoriza)"
+                    },
+                    {
+                        "id": "nm0667493",
+                        "name": "Timothy Paustian",
+                        "description": "transportation captain (as Tim Paustian)"
+                    },
+                    {
+                        "id": "nm8011762",
+                        "name": "Mike Rhodes",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm8011763",
+                        "name": "Bob Spitzfaden",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm8011765",
+                        "name": "Ray Van Ness",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0939810",
+                        "name": "Joseph Wood",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm5076078",
+                        "name": "Clarke Woolven",
+                        "description": "driver"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm8011768",
+                        "name": "Josh Acosta",
+                        "description": "office production assistant"
+                    },
+                    {
+                        "id": "nm5849391",
+                        "name": "Neal Andrus",
+                        "description": "second assistant accountant"
+                    },
+                    {
+                        "id": "nm6195277",
+                        "name": "Emily Aragones",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm5125486",
+                        "name": "Xavier Barker",
+                        "description": "assistant craft service"
+                    },
+                    {
+                        "id": "nm1700640",
+                        "name": "Paul Bischot",
+                        "description": "payroll accountant"
+                    },
+                    {
+                        "id": "nm8528416",
+                        "name": "Erin Bockman",
+                        "description": "assistant: Dustin Hoffman"
+                    },
+                    {
+                        "id": "nm4111849",
+                        "name": "Cory Boughton",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm6660522",
+                        "name": "Billy Brennan",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm6555614",
+                        "name": "Michael Anthony Brown",
+                        "description": "set production assistant (as Mike Brown) / set production assistant"
+                    },
+                    {
+                        "id": "nm3532349",
+                        "name": "Stephanie Carlisle",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm4285566",
+                        "name": "Amanda Cheng",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0173634",
+                        "name": "Bradley Combs",
+                        "description": "caterer"
+                    },
+                    {
+                        "id": "nm6097993",
+                        "name": "Joshua Davy",
+                        "description": "Office Production Assistant"
+                    },
+                    {
+                        "id": "nm6049383",
+                        "name": "Anna Dearth",
+                        "description": "assistant: Ben Stiller"
+                    },
+                    {
+                        "id": "nm4632549",
+                        "name": "Jordan Ashley Delgado",
+                        "description": "first assistant chef (as Jordan Delgado)"
+                    },
+                    {
+                        "id": "nm8011770",
+                        "name": "Jacqueline Duran",
+                        "description": "accounting clerk"
+                    },
+                    {
+                        "id": "nm2584260",
+                        "name": "Maria Farrow",
+                        "description": "medical consultant"
+                    },
+                    {
+                        "id": "nm8011766",
+                        "name": "Danni Fischer",
+                        "description": "assistant: Lila Yaco"
+                    },
+                    {
+                        "id": "nm6730472",
+                        "name": "Eliel Ford",
+                        "description": "assistant: Noah Baumbach"
+                    },
+                    {
+                        "id": "nm4821056",
+                        "name": "Josh Freeman",
+                        "description": "assistant: Scott Rudin & Eli Bush"
+                    },
+                    {
+                        "id": "nm1274456",
+                        "name": "Karen Gehres",
+                        "description": "epk producer"
+                    },
+                    {
+                        "id": "nm6019557",
+                        "name": "Tiana Graziadei",
+                        "description": "assistant production coordinator (as Tiana Thomas)"
+                    },
+                    {
+                        "id": "nm6943489",
+                        "name": "Rashid Jedi Harrison",
+                        "description": "production assistant (as Rashid Harrison)"
+                    },
+                    {
+                        "id": "nm4840461",
+                        "name": "Grace Hollaender",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm1901241",
+                        "name": "Kelly Katic",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm8011769",
+                        "name": "Timothy Keaney",
+                        "description": "film runner"
+                    },
+                    {
+                        "id": "nm1550158",
+                        "name": "Jeff Kryvicky",
+                        "description": "titles"
+                    },
+                    {
+                        "id": "nm9600887",
+                        "name": "Kyrha Lever",
+                        "description": "assistant: Scott Rudin & Eli Bush"
+                    },
+                    {
+                        "id": "nm4221014",
+                        "name": "Alex Lilje",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0521781",
+                        "name": "Jonathan Loughran",
+                        "description": "assistant: Adam Sandler"
+                    },
+                    {
+                        "id": "nm3073563",
+                        "name": "Gabriella Ludlow",
+                        "description": "business and legal affairs"
+                    },
+                    {
+                        "id": "nm5510152",
+                        "name": "Vincent Martini",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm6228734",
+                        "name": "Anthony Pennachio",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm8011772",
+                        "name": "Steve Perini",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm2595989",
+                        "name": "Julie M. Philips",
+                        "description": "business and legal affairs"
+                    },
+                    {
+                        "id": "nm5829086",
+                        "name": "Matthew Puccini",
+                        "description": "assistant to producers"
+                    },
+                    {
+                        "id": "nm4994229",
+                        "name": "Abdul Rashid",
+                        "description": "security"
+                    },
+                    {
+                        "id": "nm0725509",
+                        "name": "Deborah Ricketts",
+                        "description": "stock footage clearances (as Deb Ricketts)"
+                    },
+                    {
+                        "id": "nm1025789",
+                        "name": "Chris Robertson",
+                        "description": "stock footage clearances"
+                    },
+                    {
+                        "id": "nm0759356",
+                        "name": "Matthew Salvatore",
+                        "description": "production secretary"
+                    },
+                    {
+                        "id": "nm7696365",
+                        "name": "Max Samu",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm7950000",
+                        "name": "Brian Santos",
+                        "description": "first assistant accountant"
+                    },
+                    {
+                        "id": "nm5207405",
+                        "name": "Kelsey Schuyler",
+                        "description": "post production accountant"
+                    },
+                    {
+                        "id": "nm3594743",
+                        "name": "Ellen Sexton",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm8011767",
+                        "name": "Maggie Sheridan",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm3421922",
+                        "name": "Edward A. Sherman IV",
+                        "description": "stand-in: Adam Sandler"
+                    },
+                    {
+                        "id": "nm5748116",
+                        "name": "Sherin Shetty",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0806676",
+                        "name": "John Smart",
+                        "description": "rights & clearances"
+                    },
+                    {
+                        "id": "nm6624955",
+                        "name": "Anna Swando",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm9600888",
+                        "name": "Ron Torgow",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm1942530",
+                        "name": "Daniel Bobby Tuttle",
+                        "description": "stand-in (as Daniel Tuttle)"
+                    },
+                    {
+                        "id": "nm6531772",
+                        "name": "Derek Willis",
+                        "description": "key craft service"
+                    },
+                    {
+                        "id": "nm5524751",
+                        "name": "Dillon Wright",
+                        "description": "set production assistant"
+                    },
+                    {
+                        "id": "nm0948120",
+                        "name": "Derek Yip",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm9600889",
+                        "name": "Christopher Zeigler",
+                        "description": "second assistant chef"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm5531351",
+                        "name": "Fitzhugh Karol",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm0577263",
+                        "name": "Jonas Mekas",
+                        "description": "special thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Comedy, Drama",
+    "genreList": [
+        {
+            "key": "Comedy",
+            "value": "Comedy"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Netflix, IAC Films, Gilded Halfwing",
+    "companyList": [
+        {
+            "id": "co0144901",
+            "name": "Netflix"
+        },
+        {
+            "id": "co0093463",
+            "name": "IAC Films"
+        },
+        {
+            "id": "co0579528",
+            "name": "Gilded Halfwing"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "TV-MA",
+    "imDbRating": "6.9",
+    "imDbRatingVotes": "38335",
+    "metacriticRating": "79",
+    "ratings": {
+        "imDbId": "tt5536736",
+        "title": "The Meyerowitz Stories",
+        "fullTitle": "The Meyerowitz Stories (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "imDb": "6.9",
+        "metacritic": "79",
+        "theMovieDb": "6.4",
+        "rottenTomatoes": "92",
+        "tV_com": "",
+        "filmAffinity": "6.0",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt5536736",
+        "title": "The Meyerowitz Stories",
+        "fullTitle": "The Meyerowitz Stories (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "language": "en",
+        "titleInLanguage": "The Meyerowitz Stories",
+        "url": "https://en.wikipedia.org/wiki/The_Meyerowitz_Stories",
+        "plotShort": {
+            "plainText": "The Meyerowitz Stories\r\nThe Meyerowitz Stories (New and Selected) is a 2017 American comedy-drama film directed and written by Noah Baumbach. The film stars Adam Sandler, Ben Stiller, Dustin Hoffman, Elizabeth Marvel and Emma Thompson, and follows a group of dysfunctional adult siblings trying to live in the shadow of their father.\r\nThe Meyerowitz Stories was selected to compete for the Palme d'Or in the main competition section and also won the Palm Dog award at the 2017 Cannes Film Festival. It received positive reviews from critics, who praised Baumbach's script and direction as well as the performances, with Sandler especially singled out for praise. It was released in theaters and on streaming by Netflix on October 13, 2017.\r\nThe film was the second Netflix film competing at Cannes, along with Okja, which caused a clash with the jury president Pedro Almod\u00f3var, who sided with the opinion that Cannes Film Festival films should be made for big screens, not online streaming. In 2017, the Cannes Film Festival announced a new rule, which requires a film competing at Cannes to \"commit itself to being distributed in French movie theatres\". A French law mandates that films cannot be shown on streaming services for 36 months after their theatrical release, effectively blocking Netflix films from future festivals.",
+            "html": "<h2>The Meyerowitz Stories</h2><p>The Meyerowitz Stories (New and Selected) is a 2017 American comedy-drama film directed and written by Noah Baumbach. The film stars Adam Sandler, Ben Stiller, Dustin Hoffman, Elizabeth Marvel and Emma Thompson, and follows a group of dysfunctional adult siblings trying to live in the shadow of their father.</p><p>The Meyerowitz Stories was selected to compete for the Palme d'Or in the main competition section and also won the Palm Dog award at the 2017 Cannes Film Festival. It received positive reviews from critics, who praised Baumbach's script and direction as well as the performances, with Sandler especially singled out for praise. It was released in theaters and on streaming by Netflix on October 13, 2017.</p><p>The film was the second Netflix film competing at Cannes, along with Okja, which caused a clash with the jury president Pedro Almod\u00f3var, who sided with the opinion that Cannes Film Festival films should be made for big screens, not online streaming. In 2017, the Cannes Film Festival announced a new rule, which requires a film competing at Cannes to \"commit itself to being distributed in French movie theatres\". A French law mandates that films cannot be shown on streaming services for 36 months after their theatrical release, effectively blocking Netflix films from future festivals.</p>"
+        },
+        "plotFull": {
+            "plainText": "The Meyerowitz Stories\r\nThe Meyerowitz Stories (New and Selected) is a 2017 American comedy-drama film directed and written by Noah Baumbach. The film stars Adam Sandler, Ben Stiller, Dustin Hoffman, Elizabeth Marvel and Emma Thompson, and follows a group of dysfunctional adult siblings trying to live in the shadow of their father.\r\nThe Meyerowitz Stories was selected to compete for the Palme d'Or in the main competition section and also won the Palm Dog award at the 2017 Cannes Film Festival. It received positive reviews from critics, who praised Baumbach's script and direction as well as the performances, with Sandler especially singled out for praise. It was released in theaters and on streaming by Netflix on October 13, 2017.\r\nThe film was the second Netflix film competing at Cannes, along with Okja, which caused a clash with the jury president Pedro Almod\u00f3var, who sided with the opinion that Cannes Film Festival films should be made for big screens, not online streaming. In 2017, the Cannes Film Festival announced a new rule, which requires a film competing at Cannes to \"commit itself to being distributed in French movie theatres\". A French law mandates that films cannot be shown on streaming services for 36 months after their theatrical release, effectively blocking Netflix films from future festivals.\r\nPlot\r\nAfter separating from his wife, unemployed Danny Meyerowitz (Adam Sandler) moves in with father Harold (Dustin Hoffman), a retired Bard College art professor and sculptor, and his third wife, Maureen (Emma Thompson), a pleasant if foggy alcoholic. Danny has a younger sister, Jean (Elizabeth Marvel), and they have a younger half-brother, Matthew (Ben Stiller). Danny is close to his daughter, Eliza (Grace Van Patten), who is starting college at Bard as a film student. Eliza shows one of her sexually obsessed films to her family, who try hard not to show they are taken aback and instead compliment its energy and production values. Some of Harold's work has been selected as part of a faculty group show at Bard, but Harold refuses to be part of a group show. Danny and Harold attend the MoMA retrospective of a friend and contemporary of Harold's, the more successful L.J. Shapiro (Judd Hirsch). There neither father nor son feels comfortable; Harold is stung by signs that the art world has forgotten him and chooses to literally run away down the street. Danny meets Shapiro's daughter, his childhood friend Loretta (Rebecca Miller), but is forced to leave to chase after Harold.\r\nHarold's younger son Matthew, a successful financial advisor to rock stars on the other side of the continent in Los Angeles, is in New York on business and meets Harold for lunch with an accountant friend. They try to counsel Harold to sell his Manhattan home and the sculpture stored there, since Harold and Maureen can barely pay the townhouse's utilities. Harold tells them that whether to sell the house will be a private family decision and stalks out. At a third restaurant he criticizes the prices, but orders lavishly once Matthew says he'll pay. Soon he decides he has been insulted and robbed as well, and the rapidly regressing Matthew is inveigled into another scene involving running, chasing and embarrassment. The two bond slightly in self-righteous indignation. That evening they pay a visit to Matthew's mother, Harold's second wife Julia (Candice Bergen), who has since married a man named Cody, a wealthy philistine. Julia tells Harold and Matthew that she is sorry she was not a better mother to Harold's three children; her directness makes them very uncomfortable and they can't leave fast enough. Matthew resents Harold for his preference for a life of art over money. \"I beat you!\", he screams at his father's departing Volvo.\r\nHarold is diagnosed with a chronic subdural hematoma. He enters hospital, where as the days pass his children learn to manage his care themselves, after first leaning on Harold's doctor and nurse to take that responsibility. Outside the hospital Jean tells her brothers that the family friend who happens to be visiting Harold at the moment exposed himself and masturbated in front of her when she was a child. Matthew and Danny let her walk away from them, then attack the friend's car with mounting exhilaration. At Bard to represent their father at the faculty group show, Matthew and Danny get into a fight, of sorts, on the quad; later, bloody and crying, each makes drug-addled remarks in Harold's place, mostly about themselves, Matthew ends up breaking down emotionally during his speech. As Harold convalesces at Maureen's place in the country (the townhouse having been sold, despite Matthew's change of heart), it dawns on Matthew and Harold that Harold's favorite sculpture \"Matthew\", a lifelong object of resentment for Danny and Jean, was probably based on his feelings for the child Danny. Danny, who up to now has been solicitous toward his father, refuses to care for him while Maureen is away and accepts his brother's offer of a trip to California, but he forgives him for his past failures as a dad. On the way to the plane he meets Loretta, now single, and she suggests they go together to the screening of a film Eliza has made. In the basement of the Whitney Eliza uncovers the sculpture lent by her grandfather, long believed to have been lost.\r\nCast\r\nAdam Sandler as Danny Meyerowitz, Harold's son. Currently unemployed and separated from his wife but musically gifted.\r\nBen Stiller as Matthew Meyerowitz, Danny's half-brother and Harold's son. A successful financier who lives across the country and is currently separated from his wife.\r\nDustin Hoffman as Harold Meyerowitz, a moderately successful sculptor and retired college professor. Has been married four times, although the first marriage was annulled.\r\nEmma Thompson as Maureen, Harold's fourth wife, an alcoholic.\r\nElizabeth Marvel as Jean Meyerowitz, Danny's sister and Matthew's half-sister. Harold's daughter. Works for Xerox.\r\nGrace Van Patten as Eliza Meyerowitz, Danny's daughter. A film student who makes provocative short films.\r\nCandice Bergen as Julia, Harold's third wife and Matthew's mother.\r\nAdam Driver as Randy, one of Matthew's clients.\r\nJudd Hirsch as L.J. Shapiro, a successful artist and Harold's old friend.\r\nRebecca Miller as Loretta Shapiro, L.J.'s daughter.\r\nMatthew Shear as Gabe, Matthew's colleague.\r\nProduction\r\nPrincipal photography on the film began on March 7, 2016 in New York City. Hospital footage was filmed at Phelps Memorial Hospital Center in Sleepy Hollow, New York and Lenox Hill Hospital in Manhattan. The scenes of Bard College were actually filmed at Sarah Lawrence College in Bronxville, NY. Production concluded on May 9, 2016.\r\nDuring production, the film was known by the working title Yeh Din Ka Kissa, \"The Tale of This Day\" in Hindi.\r\nRelease\r\nIn April 2017, Netflix acquired distribution rights to the film. It had its world premiere at the Cannes Film Festival on May 21, 2017, where it received a four-minute standing ovation.\r\nThe film was released in select theaters and streaming on Netflix on October 13, 2017.\r\nAlthough Netflix does not publicly disclose box office results of its films, IndieWire estimated that The Meyerowitz Stories made around $20,000 in its opening weekend, a figure the site noted as impressive considering it was released simultaneously streaming.\r\nCritical response\r\nOn the review aggregator Rotten Tomatoes, the film holds an approval rating of 92% based on 180 reviews, and an average rating of 7.66/10. The website's critical consensus reads, \"The Meyerowitz Stories (New and Selected) observes the family dynamic through writer-director Noah Baumbach's bittersweet lens and the impressive efforts of a remarkable cast.\" On Metacritic, which assigns a normalized rating, the film has a weighted average score of 79 out of 100, based on 40 critics, indicating \"generally favorable reviews\".\r\nRichard Roeper of Chicago Sun-Times gave the film 3.5 out of 4 stars and praised the cast and script, saying: \"They\u2019re a smart and sophisticated and relatively privileged bunch, but they\u2019re miserable and ridiculous, which makes for some poignant insights and some sharp comedy. We enjoy the Meyerowitz clan, even as we praise the heavens we\u2019re not like them and we don\u2019t live next door to any of \u2019em.\" Writing for Rolling Stone, Peter Travers also gave the film 3.5 out of 4 stars, writing, \"Noah Baumbach's funny, literate story gives Dustin Hoffman, Adam Sandler and Ben Stiller plum roles \u2013 and may be the best thing he's ever done.\"\r\nPeter Debruge of Variety gave the film a positive review, calling it the best Netflix film to date and praising Sandler's performance, writing: \"With no shtick to fall back on, Sandler is forced to act, and it\u2019s a glorious thing to watch \u2013 even for those fans who like him best in perpetual man-child mode (don\u2019t worry: the character is a full-grown variation on that familiar Sandler prototype).\" Other critics were equal with their praise of Sandler, with various outlets calling his performance a \"triumph,\" \"miraculously great\" and that \"it's time to admit that Adam Sandler is actually a good actor.\"\r\nAccolades",
+            "html": "<h2>The Meyerowitz Stories</h2><p>The Meyerowitz Stories (New and Selected) is a 2017 American comedy-drama film directed and written by Noah Baumbach. The film stars Adam Sandler, Ben Stiller, Dustin Hoffman, Elizabeth Marvel and Emma Thompson, and follows a group of dysfunctional adult siblings trying to live in the shadow of their father.</p><p>The Meyerowitz Stories was selected to compete for the Palme d'Or in the main competition section and also won the Palm Dog award at the 2017 Cannes Film Festival. It received positive reviews from critics, who praised Baumbach's script and direction as well as the performances, with Sandler especially singled out for praise. It was released in theaters and on streaming by Netflix on October 13, 2017.</p><p>The film was the second Netflix film competing at Cannes, along with Okja, which caused a clash with the jury president Pedro Almod\u00f3var, who sided with the opinion that Cannes Film Festival films should be made for big screens, not online streaming. In 2017, the Cannes Film Festival announced a new rule, which requires a film competing at Cannes to \"commit itself to being distributed in French movie theatres\". A French law mandates that films cannot be shown on streaming services for 36 months after their theatrical release, effectively blocking Netflix films from future festivals.</p><br/><h3>Plot</h3><p>After separating from his wife, unemployed Danny Meyerowitz (Adam Sandler) moves in with father Harold (Dustin Hoffman), a retired Bard College art professor and sculptor, and his third wife, Maureen (Emma Thompson), a pleasant if foggy alcoholic. Danny has a younger sister, Jean (Elizabeth Marvel), and they have a younger half-brother, Matthew (Ben Stiller). Danny is close to his daughter, Eliza (Grace Van Patten), who is starting college at Bard as a film student. Eliza shows one of her sexually obsessed films to her family, who try hard not to show they are taken aback and instead compliment its energy and production values. Some of Harold's work has been selected as part of a faculty group show at Bard, but Harold refuses to be part of a group show. Danny and Harold attend the MoMA retrospective of a friend and contemporary of Harold's, the more successful L.J. Shapiro (Judd Hirsch). There neither father nor son feels comfortable; Harold is stung by signs that the art world has forgotten him and chooses to literally run away down the street. Danny meets Shapiro's daughter, his childhood friend Loretta (Rebecca Miller), but is forced to leave to chase after Harold.</p><p>Harold's younger son Matthew, a successful financial advisor to rock stars on the other side of the continent in Los Angeles, is in New York on business and meets Harold for lunch with an accountant friend. They try to counsel Harold to sell his Manhattan home and the sculpture stored there, since Harold and Maureen can barely pay the townhouse's utilities. Harold tells them that whether to sell the house will be a private family decision and stalks out. At a third restaurant he criticizes the prices, but orders lavishly once Matthew says he'll pay. Soon he decides he has been insulted and robbed as well, and the rapidly regressing Matthew is inveigled into another scene involving running, chasing and embarrassment. The two bond slightly in self-righteous indignation. That evening they pay a visit to Matthew's mother, Harold's second wife Julia (Candice Bergen), who has since married a man named Cody, a wealthy philistine. Julia tells Harold and Matthew that she is sorry she was not a better mother to Harold's three children; her directness makes them very uncomfortable and they can't leave fast enough. Matthew resents Harold for his preference for a life of art over money. \"I beat you!\", he screams at his father's departing Volvo.</p><p>Harold is diagnosed with a chronic subdural hematoma. He enters hospital, where as the days pass his children learn to manage his care themselves, after first leaning on Harold's doctor and nurse to take that responsibility. Outside the hospital Jean tells her brothers that the family friend who happens to be visiting Harold at the moment exposed himself and masturbated in front of her when she was a child. Matthew and Danny let her walk away from them, then attack the friend's car with mounting exhilaration. At Bard to represent their father at the faculty group show, Matthew and Danny get into a fight, of sorts, on the quad; later, bloody and crying, each makes drug-addled remarks in Harold's place, mostly about themselves, Matthew ends up breaking down emotionally during his speech. As Harold convalesces at Maureen's place in the country (the townhouse having been sold, despite Matthew's change of heart), it dawns on Matthew and Harold that Harold's favorite sculpture \"Matthew\", a lifelong object of resentment for Danny and Jean, was probably based on his feelings for the child Danny. Danny, who up to now has been solicitous toward his father, refuses to care for him while Maureen is away and accepts his brother's offer of a trip to California, but he forgives him for his past failures as a dad. On the way to the plane he meets Loretta, now single, and she suggests they go together to the screening of a film Eliza has made. In the basement of the Whitney Eliza uncovers the sculpture lent by her grandfather, long believed to have been lost.</p><br/><h3>Cast</h3><ul><li>Adam Sandler as Danny Meyerowitz, Harold's son. Currently unemployed and separated from his wife but musically gifted.</li><li>Ben Stiller as Matthew Meyerowitz, Danny's half-brother and Harold's son. A successful financier who lives across the country and is currently separated from his wife.</li><li>Dustin Hoffman as Harold Meyerowitz, a moderately successful sculptor and retired college professor. Has been married four times, although the first marriage was annulled.</li><li>Emma Thompson as Maureen, Harold's fourth wife, an alcoholic.</li><li>Elizabeth Marvel as Jean Meyerowitz, Danny's sister and Matthew's half-sister. Harold's daughter. Works for Xerox.</li><li>Grace Van Patten as Eliza Meyerowitz, Danny's daughter. A film student who makes provocative short films.</li><li>Candice Bergen as Julia, Harold's third wife and Matthew's mother.</li><li>Adam Driver as Randy, one of Matthew's clients.</li><li>Judd Hirsch as L.J. Shapiro, a successful artist and Harold's old friend.</li><li>Rebecca Miller as Loretta Shapiro, L.J.'s daughter.</li><li>Matthew Shear as Gabe, Matthew's colleague.</li></ul><br/><h3>Production</h3><p>Principal photography on the film began on March 7, 2016 in New York City. Hospital footage was filmed at Phelps Memorial Hospital Center in Sleepy Hollow, New York and Lenox Hill Hospital in Manhattan. The scenes of Bard College were actually filmed at Sarah Lawrence College in Bronxville, NY. Production concluded on May 9, 2016.</p><p>During production, the film was known by the working title Yeh Din Ka Kissa, \"The Tale of This Day\" in Hindi.</p><br/><h3>Release</h3><p>In April 2017, Netflix acquired distribution rights to the film. It had its world premiere at the Cannes Film Festival on May 21, 2017, where it received a four-minute standing ovation.</p><p>The film was released in select theaters and streaming on Netflix on October 13, 2017.</p><p>Although Netflix does not publicly disclose box office results of its films, IndieWire estimated that The Meyerowitz Stories made around $20,000 in its opening weekend, a figure the site noted as impressive considering it was released simultaneously streaming.</p><h4>Critical response</h4><p>On the review aggregator Rotten Tomatoes, the film holds an approval rating of 92% based on 180 reviews, and an average rating of 7.66/10. The website's critical consensus reads, \"The Meyerowitz Stories (New and Selected) observes the family dynamic through writer-director Noah Baumbach's bittersweet lens and the impressive efforts of a remarkable cast.\" On Metacritic, which assigns a normalized rating, the film has a weighted average score of 79 out of 100, based on 40 critics, indicating \"generally favorable reviews\".</p><p>Richard Roeper of Chicago Sun-Times gave the film 3.5 out of 4 stars and praised the cast and script, saying: \"They\u2019re a smart and sophisticated and relatively privileged bunch, but they\u2019re miserable and ridiculous, which makes for some poignant insights and some sharp comedy. We enjoy the Meyerowitz clan, even as we praise the heavens we\u2019re not like them and we don\u2019t live next door to any of \u2019em.\" Writing for Rolling Stone, Peter Travers also gave the film 3.5 out of 4 stars, writing, \"Noah Baumbach's funny, literate story gives Dustin Hoffman, Adam Sandler and Ben Stiller plum roles \u2013 and may be the best thing he's ever done.\"</p><p>Peter Debruge of Variety gave the film a positive review, calling it the best Netflix film to date and praising Sandler's performance, writing: \"With no shtick to fall back on, Sandler is forced to act, and it\u2019s a glorious thing to watch \u2013 even for those fans who like him best in perpetual man-child mode (don\u2019t worry: the character is a full-grown variation on that familiar Sandler prototype).\" Other critics were equal with their praise of Sandler, with various outlets calling his performance a \"triumph,\" \"miraculously great\" and that \"it's time to admit that Adam Sandler is actually a good actor.\"</p><h4>Accolades</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th scope=\"col\">Year</th><th scope=\"col\">Award</th><th scope=\"col\">Category</th><th scope=\"col\">Recipient(s)</th><th scope=\"col\">Result</th><th scope=\"col\" class=\"unsortable\"><abbr title=\"References\">Ref.</abbr></th></tr><tr><td><span>2017</span></td><td><span>Boston Society of Film Critics</span></td><td><span>Best Cast</span></td><td>The cast of <i>The Meyerowitz Stories</i></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td style=\"text-align:center;\"></td></tr><tr><td rowspan=\"2\"><span>2017</span></td><td rowspan=\"2\"><span>Cannes Film Festival</span></td><td><span class=\"mw-redirect\">Palme D'Or</span></td><td><span>Noah Baumbach</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td style=\"text-align:center;\"></td></tr><tr><td><span>Palm Dog Award</span></td><td>Einstein</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td style=\"text-align:center;\"></td></tr><tr><td><span>2018</span></td><td><span>Broadcast Film Critics Association</span></td><td><span>Best Actor in a Comedy</span></td><td><span>Adam Sandler</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td style=\"text-align:center;\"></td></tr><tr><td>2018</td><td><span>Evening Standard British Film Awards</span></td><td>Best Supporting Actress</td><td><span>Emma Thompson</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td style=\"text-align:center;\"></td></tr><tr><td><span>2017</span></td><td><span class=\"mw-redirect\">Gotham Independent Film Awards</span></td><td><span>Best Actor</span></td><td>Adam Sandler</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td style=\"text-align:center;\"></td></tr><tr><td>2017</td><td><span>Hollywood Film Awards</span></td><td>Hollywood Comedy Award</td><td>Adam Sandler</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td style=\"text-align:center;\"></td></tr><tr><td>2018</td><td><span>Humanitas Prize</span></td><td>Feature \u2013 Comedy</td><td>Noah Baumbach</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td style=\"text-align:center;\"></td></tr><tr><td>2018</td><td><span>Golden Tomato Awards</span></td><td>Best Comedy Movie 2017</td><td><i>The Meyerowitz Stories</i></td><td style=\"background:#c5d2ea; color:black; vertical-align:middle; text-align:center;\" class=\"table-draw\">5th Place</td><td style=\"text-align:center;\"></td></tr><tr><td><span>2018</span></td><td><span>Satellite Awards</span></td><td><span>Best Supporting Actor \u2013 Motion Picture</span></td><td><span>Dustin Hoffman</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td style=\"text-align:center;\"></td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt5536736",
+        "title": "The Meyerowitz Stories",
+        "fullTitle": "The Meyerowitz Stories (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "posters": [
+            {
+                "id": "c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+                "link": "https://imdb-api.com/posters/original/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            },
+            {
+                "id": "1RyCDLk9Aomh01Lheug0xC39bJk.jpg",
+                "link": "https://imdb-api.com/posters/original/1RyCDLk9Aomh01Lheug0xC39bJk.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "rXVIL6FLHAIP1R42BO1bzJWTNjK.jpg",
+                "link": "https://imdb-api.com/posters/original/rXVIL6FLHAIP1R42BO1bzJWTNjK.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "lJr90SKXhEBaSchymgzOrbC56kA.jpg",
+                "link": "https://imdb-api.com/posters/original/lJr90SKXhEBaSchymgzOrbC56kA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "A2roAeXzTagNbysijUFvrs8OV5B.jpg",
+                "link": "https://imdb-api.com/posters/original/A2roAeXzTagNbysijUFvrs8OV5B.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "kzCTmaWOmxrFf6b5NVTQRgIrZMB.jpg",
+                "link": "https://imdb-api.com/posters/original/kzCTmaWOmxrFf6b5NVTQRgIrZMB.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg",
+                "link": "https://imdb-api.com/posters/original/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt5536736",
+        "title": "The Meyerowitz Stories",
+        "fullTitle": "The Meyerowitz Stories (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "items": [
+            {
+                "title": "Dustin Hoffman and Emma Thompson in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZWM0NDRhODYtZTY2Yy00ZjU0LTg2NDItMDU4ODg3ZGY2MWYwXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Dustin Hoffman and Ben Stiller in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTg4MDBhMTktNzZjOC00MjA3LWE2NTEtMTNmNDdhMDUyNjM3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Adam Sandler and Ben Stiller in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNzNmZDY4MDYtMmZhMS00YmI1LTlhYTItZmU2ZTBlODZhMTM4XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Adam Sandler, Ben Stiller, and Elizabeth Marvel in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNzMxZDZkYjYtOGRmNC00NmJlLWEzZmYtNTQxZWNlZDNhMzkxXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Dustin Hoffman and Ben Stiller in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNjlmNTI4MzctNjQ4Ny00ZDcxLWI1N2YtNzNmMTM5NThiOWI2XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Emma Thompson, Noah Baumbach, and Adam Sandler at an event for The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzMTM0MDM1N15BMl5BanBnXkFtZTgwNzg0NDU4MzI@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Dustin Hoffman and Lisa Hoffman at an event for The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNTUyNTMyMF5BMl5BanBnXkFtZTgwODg0NDU4MzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Emma Thompson and Gaia Wise at an event for The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMyNDk0NTU4M15BMl5BanBnXkFtZTgwNzc0NDU4MzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Emma Thompson at an event for The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1ODIzMTE3OF5BMl5BanBnXkFtZTgwOTc0NDU4MzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Dustin Hoffman, Adam Sandler, and Ben Stiller in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1MTA1MjU4NV5BMl5BanBnXkFtZTgwMTAwMzE2MzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Dustin Hoffman and Emma Thompson in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5ODM4MzM0Ml5BMl5BanBnXkFtZTgwNTAwMzE2MzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Dustin Hoffman and Adam Sandler in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU3MDg2MzIxMF5BMl5BanBnXkFtZTgwNzAwMzE2MzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Dustin Hoffman and Ben Stiller in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOTU1NjI0NjA5M15BMl5BanBnXkFtZTgwOTAwMzE2MzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BODg3MWMyYzUtZDdhMC00NjQ4LTgyYTctZWEzOTU0MDc2MjVkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Dustin Hoffman in The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTk2MzZmMzktOTQ4ZC00YjVmLTlhMTktYzViZjVmOTMzYWY2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMDAxMzMwMDEtMTRmNS00YzhjLThmMzYtYjI5ZmNmOGI3MTQ3XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZTRlYTg4NDYtMWIzMy00ZmM3LTgyN2UtZDY2Y2NiYzJkNWU0XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNGE1YjAzMTEtZDYwOC00Y2Y0LWFhNTAtYzRhY2IzMjNhMDZjXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZDRlYjVlYzItMDYwYS00YjgxLWJjMDYtNDkwMDY0NDhkMTM0XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTJhZmIwOTQtNWQ4YS00ZmZhLWJkNzQtN2U1ZmVkYjJmMDM5XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNDIzZTkxYTYtOTY1ZS00MGM4LTk0NzQtYjE5OTZmNjdhMGFjXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZmRkODg3NjgtYmYyNS00ZTJjLWI3N2YtMjMwM2YzNWRiYjViXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMDRjMGEwNTYtYzA0My00ZmRjLWFlZWQtMTU3ZjBmNjgxNjMwXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZTA1NDY2ZTctYzQzZC00NzE5LWI5OWUtZWRjMWY5OGFmYjgzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMzVjN2M3NDEtMTBjNy00MTkzLWJlZmUtMTFjMThlYjJiMjQ5XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTBmMmJlMzctOGU3My00NWQzLTlmNDItYWMzNGM2ZTQxOGEwXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNGE4ZDBmNzEtYjc4Ny00YTYyLTlhNGQtMzNiMmFjNGFkZGI4XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTMzOGY4ODktMGQ0MC00NWJiLWJjZjEtYjhiMmZkMTI1YzRhXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOTBmZjM2OTAtYTEwOC00MjU3LTkxMjMtMzJlNDY5NThjY2EwXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTNlOTJhZmYtMTRkNi00M2JlLWJkZTItODM1NmVjY2FmZGM4XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNjYwYzY2NDUtNzYxNy00MDExLTk1NzEtMzhjNTk5Mzc0ZDk5XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNmUyYzYyNzgtOGE3OC00Zjc2LTljNzctOWNiMjZmZGYyMTJkXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNjM5NjFmMGYtMWU2ZS00YmMzLWI4OTgtYWM3MmEwMTY4NTA3XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMzA0MDA1NTUtNGY1Ny00ODk0LWE1OGQtZmE0NDRlYmIzMDg3XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTlmOTNkZTgtNTkyNi00NTdiLWJlMjUtYmE0YzdmZGZmYzk4XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZjVkYjMwOTAtZjA3NC00MjRlLTg2NDQtODI3NGM1NjQzOGMzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNGQxNGNlZWUtOGIxNC00MDU5LThiMDMtNDlkYTAyZDJlMjg5XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZjBjYTczMTQtMGYzMi00ZWZhLWFjNjAtYjgzOGE1MTZmMGE0XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMzhjNGE4NjctNjMzOC00NzUwLTg2MjUtYmI4ZTI3OGJlNzdmXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BM2MxN2MzYTQtMzI1My00OTgzLWFhZTQtMWZmOGUxN2QzNTA3XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNWZiODdjMjgtNmE3My00ZTc5LTk5ZTQtYmU2MWI0MGE5NWVhXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMDI5ODAyMTktYWYzNS00ODg1LWFhNTMtNzRhNWZiN2ZhZmU2XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNjc1ZjE2OTYtMTEzYy00NDVmLTk3MWMtM2RhMWFlNDI1Yjc2XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMDE0NTgzZTAtOGMwNS00ZTVhLTg4YTMtMzIxMDNmNDgwYjE4XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYzJlZmI0ZDQtODYxZi00NmM1LWIyODQtNzQ4Nzc3YWRhMjc4XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BODMwY2NmZDQtMjhlZC00ZTE1LWI5ZjgtYWVlNjc3M2VjNGNhXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZGE1ZDU2OTgtMDQ3Ni00NWQ2LThmZjUtYzRiNzFkOWRmZDViXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "The Meyerowitz Stories (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNTdkODFjNjEtOTRkMC00Mjg4LTk5NDctZTdhZmU3NjYxMjJlXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_Ratio1.8400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt5536736",
+        "title": "The Meyerowitz Stories",
+        "fullTitle": "The Meyerowitz Stories (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "videoId": "vi477870361",
+        "videoTitle": "Official Trailer",
+        "videoDescription": "An intergenerational tale of adult siblings (Adam Sandler, Ben Stiller, and Elizabeth Marvel) contending with the long shadow their strong-willed father (Dustin Hoffman) has cast over their lives.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmM4MjQ0NTAtMmYwMS00MjExLWE2OGYtYjAwZTE4OWI5MzViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "uploadDate": "09/20/2017 16:20:43",
+        "link": "https://www.imdb.com/video/vi477870361",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi477870361/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "",
+    "keywords": "new york city,written by director,female editor,netflix",
+    "keywordList": [
+        "new york city",
+        "written by director",
+        "female editor",
+        "netflix"
+    ],
+    "similars": [
+        {
+            "id": "tt0367089",
+            "title": "The Squid and the Whale",
+            "fullTitle": "The Squid and the Whale (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BMjU0MzBiMDctMmU3NS00NjRkLTkzMzgtZWE3NmExZGI0MmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Follows two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+            "directors": "Noah Baumbach",
+            "stars": "Owen Kline, Jeff Daniels, Laura Linney",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt1791682",
+            "title": "While We're Young",
+            "fullTitle": "While We're Young (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMTc4MDEzMTA5MF5BMl5BanBnXkFtZTgwODA5MTM0NDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A middle-aged couple's career and marriage are overturned when a disarming young couple enters their lives.",
+            "directors": "Noah Baumbach",
+            "stars": "Ben Stiller, Naomi Watts, Adam Driver",
+            "genres": "Comedy, Drama, Mystery",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt2347569",
+            "title": "Frances Ha",
+            "fullTitle": "Frances Ha (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BOTY0NDQ2NzQ2N15BMl5BanBnXkFtZTcwMTU0OTkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A New York woman (who doesn't really have an apartment) apprentices for a dance company (though she's not really a dancer) and throws herself headlong into her dreams, even as the possibility of realizing them dwindles.",
+            "directors": "Noah Baumbach",
+            "stars": "Greta Gerwig, Mickey Sumner, Adam Driver",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0113537",
+            "title": "Kicking and Screaming",
+            "fullTitle": "Kicking and Screaming (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BNWU2YjdlN2ItNTk2OS00MzMwLTlhYjctNDI0MDI0NTQ3OWY0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A bunch of guys hang around their college for months after graduation, continuing a life much like the one before graduation.",
+            "directors": "Noah Baumbach",
+            "stars": "Josh Hamilton, Eric Stoltz, Samuel Gould",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt1234654",
+            "title": "Greenberg",
+            "fullTitle": "Greenberg (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMTU4MzY4OTY0NF5BMl5BanBnXkFtZTcwOTc3OTQwMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man from Los Angeles, who moved to New York years ago, returns to L.A. to figure out his life while he house-sits for his brother. He soon sparks with his brother's assistant.",
+            "directors": "Noah Baumbach",
+            "stars": "Ben Stiller, Greta Gerwig, Jennifer Jason Leigh",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "6.1"
+        },
+        {
+            "id": "tt2872462",
+            "title": "Mistress America",
+            "fullTitle": "Mistress America (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjEzNzgzNDgzNV5BMl5BanBnXkFtZTgwODcyMjk4NTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A lonely college freshman's life is turned upside-down by her impetuous, adventurous stepsister-to-be.",
+            "directors": "Noah Baumbach",
+            "stars": "Greta Gerwig, Lola Kirke, Shana Dowdeswell",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt0757361",
+            "title": "Margot at the Wedding",
+            "fullTitle": "Margot at the Wedding (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTI4MTU2OTk3OF5BMl5BanBnXkFtZTYwMjE2MjY2._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Margot and her son Claude decide to visit her sister Pauline after she announces that she is marrying less-than-impressive Malcolm. In short order, the storm the sisters create leaves behind a mess of thrashed relationships and exposed family secrets.",
+            "directors": "Noah Baumbach",
+            "stars": "Nicole Kidman, Jennifer Jason Leigh, Flora Cross",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6"
+        },
+        {
+            "id": "tt5536610",
+            "title": "Private Life",
+            "fullTitle": "Private Life (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BNjYzMjZiNDItMDk2ZC00MWVkLWFmNjUtZGU1MjM2YmY0Y2MxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An author is undergoing multiple fertility therapies to get pregnant, putting her relationship with her husband on edge.",
+            "directors": "Tamara Jenkins",
+            "stars": "Kathryn Hahn, Paul Giamatti, Gabrielle Reid",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0272338",
+            "title": "Punch-Drunk Love",
+            "fullTitle": "Punch-Drunk Love (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BYmE1OTY4NjgtYjcwNC00NWE4LWJiNGMtZmVhYTdlMWE1YzIxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A psychologically troubled novelty supplier is nudged towards a romance with an English woman, all the while being extorted by a phone-sex line run by a crooked mattress salesman, and purchasing stunning amounts of pudding.",
+            "directors": "Paul Thomas Anderson",
+            "stars": "Adam Sandler, Emily Watson, Philip Seymour Hoffman",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt7653254",
+            "title": "Marriage Story",
+            "fullTitle": "Marriage Story (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+            "directors": "Noah Baumbach",
+            "stars": "Adam Driver, Scarlett Johansson, Julia Greer",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt3967856",
+            "title": "Okja",
+            "fullTitle": "Okja (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMjQxMTcxNDgxN15BMl5BanBnXkFtZTgwOTczNTIzMjI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young girl risks everything to prevent a powerful, multinational company from kidnapping her best friend - a fascinating beast named Okja.",
+            "directors": "Bong Joon Ho",
+            "stars": "Tilda Swinton, Paul Dano, Seo-hyun Ahn",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt6412452",
+            "title": "The Ballad of Buster Scruggs",
+            "fullTitle": "The Ballad of Buster Scruggs (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train, and a perverse pair of bounty hunters.",
+            "directors": "Directors: Ethan Coen, Joel Coen",
+            "stars": "Tim Blake Nelson, Willie Watson, Clancy Brown",
+            "genres": "Comedy, Drama, Musical",
+            "imDbRating": "7.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

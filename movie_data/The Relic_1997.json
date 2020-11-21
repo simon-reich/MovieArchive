@@ -1,0 +1,3431 @@
+{
+    "id": "tt0120004",
+    "title": "The Relic",
+    "originalTitle": "",
+    "fullTitle": "The Relic (1997)",
+    "type": "Movie",
+    "year": "1997",
+    "image": "https://imdb-api.com/images/original/MV5BNzk1NjU5ODYtODI1Yy00Y2EwLTg0Y2QtZDJhMGU5OTM2NWYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1997-01-10",
+    "runtimeMins": "110",
+    "runtimeStr": "1h 50mins",
+    "plot": "A researcher at Chicago's Natural History Museum sends two crates from South America containing his findings, and when the crates arrive at the museum there appears to be very little inside. However, police discover gruesome murders on the cargo ship that supposedly brought the crates to the U.S. A murder soon takes place in the museum, and while investigating the murder, Lt. Vincent D'Agosta enlists the help of Dr. Margo Green, a researcher, at the museum. She has taken an interest in the contents of her colleague's crates. Unknown to both there is a large creature roaming the museum which is gearing itself up for a benefit reception which the city's mayor is to attend.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "4 nominations.",
+    "directors": "Peter Hyams",
+    "directorList": [
+        {
+            "id": "nm0001382",
+            "name": "Peter Hyams"
+        }
+    ],
+    "writers": "Douglas Preston, Lincoln Child, Amy Holden Jones, John Raffo, Rick Jaffa, Amanda Silver",
+    "writerList": [
+        {
+            "id": "nm0696409",
+            "name": "Douglas Preston"
+        },
+        {
+            "id": "nm0157470",
+            "name": "Lincoln Child"
+        },
+        {
+            "id": "nm0427468",
+            "name": "Amy Holden Jones"
+        },
+        {
+            "id": "nm0706311",
+            "name": "John Raffo"
+        },
+        {
+            "id": "nm0415425",
+            "name": "Rick Jaffa"
+        },
+        {
+            "id": "nm0798646",
+            "name": "Amanda Silver"
+        }
+    ],
+    "stars": "Penelope Ann Miller, Tom Sizemore, Linda Hunt, James Whitmore",
+    "starList": [
+        {
+            "id": "nm0000542",
+            "name": "Penelope Ann Miller"
+        },
+        {
+            "id": "nm0001744",
+            "name": "Tom Sizemore"
+        },
+        {
+            "id": "nm0001373",
+            "name": "Linda Hunt"
+        },
+        {
+            "id": "nm0926235",
+            "name": "James Whitmore"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000542",
+            "image": "https://imdb-api.com/images/original/MV5BYmJlN2M0N2QtYWRkOS00YzVjLTlkYzktN2Q1ODdmNDNhNDNiXkEyXkFqcGdeQXVyMjUxOTcxNTI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Penelope Ann Miller",
+            "asCharacter": "Dr. Margo Green"
+        },
+        {
+            "id": "nm0001744",
+            "image": "https://imdb-api.com/images/original/MV5BMTUyMzQ3NDg5N15BMl5BanBnXkFtZTYwMzc0Mjk2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tom Sizemore",
+            "asCharacter": "Lt. Vincent D'Agosta"
+        },
+        {
+            "id": "nm0001373",
+            "image": "https://imdb-api.com/images/original/MV5BMTM0NDg4MzMzNV5BMl5BanBnXkFtZTcwOTUwMTc4Mg@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Linda Hunt",
+            "asCharacter": "Dr. Ann Cuthbert"
+        },
+        {
+            "id": "nm0926235",
+            "image": "https://imdb-api.com/images/original/MV5BMTg5MzkxMTkxOV5BMl5BanBnXkFtZTcwNTEzNTgxMw@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "James Whitmore",
+            "asCharacter": "Dr. Albert Frock"
+        },
+        {
+            "id": "nm0737553",
+            "image": "https://imdb-api.com/images/original/MV5BOGU5MzUyNDItZThhMS00NjcyLTk0YjEtZGUwMTk5MmY3NTdhXkEyXkFqcGdeQXVyNTMzMzIzNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Clayton Rohner",
+            "asCharacter": "Det. Hollingsworth"
+        },
+        {
+            "id": "nm0516286",
+            "image": "https://imdb-api.com/images/original/MV5BYTQ5YjAyM2UtZDBjZi00NTYwLWE2NWQtZDkwNGZhNmI1YjdiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chi Muoi Lo",
+            "asCharacter": "Dr. Greg Lee"
+        },
+        {
+            "id": "nm0752871",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Thomas Ryan",
+            "asCharacter": "Tom Parkinson"
+        },
+        {
+            "id": "nm0504342",
+            "image": "https://imdb-api.com/images/original/MV5BMDQwZDIzZDAtNTc1OS00NzQ0LWExYTYtMzlmY2E1ZjQ3N2Y4XkEyXkFqcGdeQXVyMTQ1NTgzODg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Lesser",
+            "asCharacter": "Mayor Robert Owen"
+        },
+        {
+            "id": "nm0732187",
+            "image": "https://imdb-api.com/images/original/MV5BMmNjZTNiNjMtNGEzNC00ZTllLWJmNGQtYzVlMzE0OTgwMzU4XkEyXkFqcGdeQXVyMjI2MTExOA@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Diane Robin",
+            "asCharacter": "The Mayor's Wife"
+        },
+        {
+            "id": "nm0885707",
+            "image": "https://imdb-api.com/images/original/MV5BZjc0MTFjNzgtZDdiYS00YWI0LWE2YzAtNzY0YjY0OGZjMTcyXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Lewis Van Bergen",
+            "asCharacter": "John Whitney"
+        },
+        {
+            "id": "nm0869927",
+            "image": "https://imdb-api.com/images/original/MV5BNjEwODA0OTc4NV5BMl5BanBnXkFtZTYwOTIwOTk0._V1_Ratio0.8182_AL_.jpg",
+            "name": "Constance Towers",
+            "asCharacter": "Mrs. Blaisedale"
+        },
+        {
+            "id": "nm0565133",
+            "image": "https://imdb-api.com/images/original/MV5BMzE5OTg2MzA4Nl5BMl5BanBnXkFtZTcwMTc3NDM1Nw@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Francis X. McCarthy",
+            "asCharacter": "Mr. Blaisedale"
+        },
+        {
+            "id": "nm0511964",
+            "image": "https://imdb-api.com/images/original/MV5BMTY2MTM0MDQ5OF5BMl5BanBnXkFtZTcwMjE2ODgwMw@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Audra Lindley",
+            "asCharacter": "Dr. Zwiezic"
+        },
+        {
+            "id": "nm0438127",
+            "image": "https://imdb-api.com/images/original/MV5BYzZkNTliOTUtZDY1NC00OWY1LThiNWItZmIzN2RmNTc4ZTcyXkEyXkFqcGdeQXVyMjEzMTU3OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Kapelos",
+            "asCharacter": "McNally"
+        },
+        {
+            "id": "nm0920446",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tico Wells",
+            "asCharacter": "Bailey"
+        },
+        {
+            "id": "nm0045219",
+            "image": "https://imdb-api.com/images/original/MV5BNjg1MTkzODU2Ml5BMl5BanBnXkFtZTYwMzYyMzgy._V1_Ratio0.8182_AL_.jpg",
+            "name": "Mike Bacarella",
+            "asCharacter": "Bradley"
+        },
+        {
+            "id": "nm0204634",
+            "image": "https://imdb-api.com/images/original/MV5BNDcyYTE1NDctMWRiMy00Njk5LTlhYzEtNjNhNmI0NzQzMDY1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Gene Davis",
+            "asCharacter": "Martini"
+        },
+        {
+            "id": "nm0228277",
+            "image": "https://imdb-api.com/images/original/MV5BOTFiY2U5MTEtNDMwYi00ZjY0LWIwZTItZjEwNTY1NmZkYmY3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "John DiSanti",
+            "asCharacter": "Guard Wootton (as John Di Santi)"
+        },
+        {
+            "id": "nm0698998",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0MTU0NjU3Nl5BMl5BanBnXkFtZTYwNTgzNjY0._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Proval",
+            "asCharacter": "Guard Johnson"
+        },
+        {
+            "id": "nm0336102",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dave Graubart",
+            "asCharacter": "Eugene"
+        },
+        {
+            "id": "nm0779748",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ronald Joshua Scott",
+            "asCharacter": "Josh"
+        },
+        {
+            "id": "nm0113909",
+            "image": "https://imdb-api.com/images/original/MV5BMjEyMjk4NTc2M15BMl5BanBnXkFtZTYwNDk1Mjcy._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jophery C. Brown",
+            "asCharacter": "Guard Frederick Ford"
+        },
+        {
+            "id": "nm0859076",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Thomas Joseph Carroll",
+            "asCharacter": "Evans"
+        },
+        {
+            "id": "nm0353705",
+            "image": "https://imdb-api.com/images/original/MV5BMzBmNDVhMWEtYjhjZi00ZTlmLTgwMjQtNWVkNzAyMDM2OTU2XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Montrose Hagins",
+            "asCharacter": "Chanting Woman (as Montrose Hughes)"
+        },
+        {
+            "id": "nm0602766",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Santos Morales",
+            "asCharacter": "Capt. Borne"
+        },
+        {
+            "id": "nm0786860",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwNTA0OTUwMV5BMl5BanBnXkFtZTcwNjk0NTMzOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ralph Seymour",
+            "asCharacter": "Sergeant"
+        },
+        {
+            "id": "nm0478530",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "LaDonna Tittle",
+            "asCharacter": "Teacher"
+        },
+        {
+            "id": "nm0420646",
+            "image": "https://imdb-api.com/images/original/MV5BNzE2MjQzNDgxNV5BMl5BanBnXkFtZTcwMDI0OTk1Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Eddie Jemison",
+            "asCharacter": "Museum Worker"
+        },
+        {
+            "id": "nm0390873",
+            "image": "https://imdb-api.com/images/original/MV5BMGMyZGY2ZjgtMzhiMS00MjM4LWJlMDItYzViZDdkZTcyNjA0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "David Hollander",
+            "asCharacter": "Charlie"
+        },
+        {
+            "id": "nm0408698",
+            "image": "https://imdb-api.com/images/original/MV5BMDdmZjg3YTQtNjRhZi00Y2MwLTk1NjItZDBhNDFhMzIyNWVkXkEyXkFqcGdeQXVyMTg3NTkyMjQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mandy Ingber",
+            "asCharacter": "Donna (as Amanda Ingber)"
+        },
+        {
+            "id": "nm0593494",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Katharine Mitchell",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0167990",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Candy Coburn",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0352978",
+            "image": "https://imdb-api.com/images/original/MV5BNTYzMTk2ODcxOF5BMl5BanBnXkFtZTgwOTY4ODM1MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kurt Naebig",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0533836",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don MacLellan",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0791367",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marc P. Shelton",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0367496",
+            "image": "https://imdb-api.com/images/original/MV5BMTc1MjQ1MDQ5MV5BMl5BanBnXkFtZTYwMTM0ODAz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Don Harvey",
+            "asCharacter": "Spota"
+        },
+        {
+            "id": "nm0535850",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Magee",
+            "asCharacter": "Coroner's Assistant"
+        },
+        {
+            "id": "nm0527316",
+            "image": "https://imdb-api.com/images/original/MV5BMWM5NDQwYzYtMDE0Ny00MDg0LWI5MWYtYWU5ZGNlNTVmM2JhXkEyXkFqcGdeQXVyMjEwMDU5OQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Aaron Lustig",
+            "asCharacter": "Dr. Brown"
+        },
+        {
+            "id": "nm0313497",
+            "image": "https://imdb-api.com/images/original/MV5BMjA3MzE0OTE3Ml5BMl5BanBnXkFtZTYwNzM1OTYy._V1_Ratio0.7727_AL_.jpg",
+            "name": "Kent George",
+            "asCharacter": "Student"
+        },
+        {
+            "id": "nm0376531",
+            "image": "https://imdb-api.com/images/original/MV5BMjIwMjI1NjM1Ml5BMl5BanBnXkFtZTgwNjYwNDUzOTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lyn Alicia Henderson",
+            "asCharacter": "Perri Masai (as Lynn A. Henderson)"
+        },
+        {
+            "id": "nm0192037",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ron Cummins",
+            "asCharacter": "Dr. Gross"
+        },
+        {
+            "id": "nm0608872",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matthew Daniel Moses Furlin",
+            "asCharacter": "Crazy Man (as Matthew Daniel Mosoes)"
+        },
+        {
+            "id": "nm0285327",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elwood Forbes",
+            "asCharacter": "Graduate Student"
+        },
+        {
+            "id": "nm0086233",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dina Blair",
+            "asCharacter": "Reporter"
+        },
+        {
+            "id": "nm0482170",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mark Lake",
+            "asCharacter": "SWAT Team Guy"
+        },
+        {
+            "id": "nm0773307",
+            "image": "https://imdb-api.com/images/original/MV5BMTIwMDg2NDk3Ml5BMl5BanBnXkFtZTcwMDAzMjQzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ned Schmidtke",
+            "asCharacter": "Capt. Martin"
+        },
+        {
+            "id": "nm0358791",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vincent Hammond",
+            "asCharacter": "Kothoga"
+        },
+        {
+            "id": "nm0824498",
+            "image": "https://imdb-api.com/images/original/MV5BMTg1OTMyOTU1MF5BMl5BanBnXkFtZTcwNjM2NjczNw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Brian Steele",
+            "asCharacter": "Kothoga"
+        },
+        {
+            "id": "nm0373036",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gary A. Hecker",
+            "asCharacter": "Kothoga Vocalization (as Gary Hecker)"
+        },
+        {
+            "id": "nm0346467",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniel Guevara",
+            "asCharacter": "Tribal Dancer"
+        },
+        {
+            "id": "nm0708231",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ramon Ramierez",
+            "asCharacter": "Tribal Dancer"
+        },
+        {
+            "id": "nm0721088",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Henry Rey",
+            "asCharacter": "Tribal Dancer"
+        },
+        {
+            "id": "nm0758359",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gerardo Salinas",
+            "asCharacter": "Tribal Dancer"
+        },
+        {
+            "id": "nm0854474",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwMTM0MjQ0MF5BMl5BanBnXkFtZTcwOTI5MDgyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Martin S. Tellez",
+            "asCharacter": "Tribal Dancer"
+        },
+        {
+            "id": "nm0396000",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Craig Hosking",
+            "asCharacter": "Helicopter Pilot"
+        },
+        {
+            "id": "nm0883152",
+            "image": "https://imdb-api.com/images/original/MV5BMjFhMmM4ZmUtNDJkOC00NWIyLTg5OGEtNDUxZTE1YzQxY2EzXkEyXkFqcGdeQXVyNzgyNzEzNjI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dana Kristen Vahle",
+            "asCharacter": "Helicopter Pilot (as Dirk Vahle)"
+        },
+        {
+            "id": "nm3425996",
+            "image": "https://imdb-api.com/images/original/MV5BMjZiOGY4ZmMtNDVkMy00ZjZlLWI4YmEtNDllMTE2OGFiY2JiXkEyXkFqcGdeQXVyNTEwNjQ5Njk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Maureen Mendoza",
+            "asCharacter": "Police Officer (uncredited)"
+        },
+        {
+            "id": "nm0006441",
+            "image": "https://imdb-api.com/images/original/MV5BY2Q2MTQ5OGQtOWI5Yi00YmJmLWI4NWEtMWY5MDYzNTY4ODg3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dick Warlock",
+            "asCharacter": "Policeman (uncredited)"
+        },
+        {
+            "id": "nm0749312",
+            "image": "https://imdb-api.com/images/original/MV5BNGFhOWQzYmYtNGViMS00YzA1LTgxYjgtNzI1OTY3ZmEyNjEwXkEyXkFqcGdeQXVyNDU0MzAyMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Sharlene Ruffino Weimer",
+            "asCharacter": "Museum employee (uncredited)"
+        },
+        {
+            "id": "nm0925006",
+            "image": "https://imdb-api.com/images/original/MV5BMjAwMTUyMDU0N15BMl5BanBnXkFtZTcwNDgxNzAzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Johnny White",
+            "asCharacter": "Graduate Student (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0120004",
+        "title": "The Relic",
+        "fullTitle": "The Relic (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0001382",
+                    "name": "Peter Hyams",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0696409",
+                    "name": "Douglas Preston",
+                    "description": "(novel) and"
+                },
+                {
+                    "id": "nm0157470",
+                    "name": "Lincoln Child",
+                    "description": "(novel)"
+                },
+                {
+                    "id": "nm0427468",
+                    "name": "Amy Holden Jones",
+                    "description": "(screenplay) (as Amy Jones) and"
+                },
+                {
+                    "id": "nm0706311",
+                    "name": "John Raffo",
+                    "description": "(screenplay) and"
+                },
+                {
+                    "id": "nm0415425",
+                    "name": "Rick Jaffa",
+                    "description": "(screenplay) &"
+                },
+                {
+                    "id": "nm0798646",
+                    "name": "Amanda Silver",
+                    "description": "(screenplay)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000542",
+                "image": "https://imdb-api.com/images/original/MV5BYmJlN2M0N2QtYWRkOS00YzVjLTlkYzktN2Q1ODdmNDNhNDNiXkEyXkFqcGdeQXVyMjUxOTcxNTI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Penelope Ann Miller",
+                "asCharacter": "Dr. Margo Green"
+            },
+            {
+                "id": "nm0001744",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyMzQ3NDg5N15BMl5BanBnXkFtZTYwMzc0Mjk2._V1_Ratio0.7273_AL_.jpg",
+                "name": "Tom Sizemore",
+                "asCharacter": "Lt. Vincent D'Agosta"
+            },
+            {
+                "id": "nm0001373",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0NDg4MzMzNV5BMl5BanBnXkFtZTcwOTUwMTc4Mg@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Linda Hunt",
+                "asCharacter": "Dr. Ann Cuthbert"
+            },
+            {
+                "id": "nm0926235",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5MzkxMTkxOV5BMl5BanBnXkFtZTcwNTEzNTgxMw@@._V1_Ratio0.8636_AL_.jpg",
+                "name": "James Whitmore",
+                "asCharacter": "Dr. Albert Frock"
+            },
+            {
+                "id": "nm0737553",
+                "image": "https://imdb-api.com/images/original/MV5BOGU5MzUyNDItZThhMS00NjcyLTk0YjEtZGUwMTk5MmY3NTdhXkEyXkFqcGdeQXVyNTMzMzIzNw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Clayton Rohner",
+                "asCharacter": "Det. Hollingsworth"
+            },
+            {
+                "id": "nm0516286",
+                "image": "https://imdb-api.com/images/original/MV5BYTQ5YjAyM2UtZDBjZi00NTYwLWE2NWQtZDkwNGZhNmI1YjdiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Chi Muoi Lo",
+                "asCharacter": "Dr. Greg Lee"
+            },
+            {
+                "id": "nm0752871",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Thomas Ryan",
+                "asCharacter": "Tom Parkinson"
+            },
+            {
+                "id": "nm0504342",
+                "image": "https://imdb-api.com/images/original/MV5BMDQwZDIzZDAtNTc1OS00NzQ0LWExYTYtMzlmY2E1ZjQ3N2Y4XkEyXkFqcGdeQXVyMTQ1NTgzODg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Robert Lesser",
+                "asCharacter": "Mayor Robert Owen"
+            },
+            {
+                "id": "nm0732187",
+                "image": "https://imdb-api.com/images/original/MV5BMmNjZTNiNjMtNGEzNC00ZTllLWJmNGQtYzVlMzE0OTgwMzU4XkEyXkFqcGdeQXVyMjI2MTExOA@@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Diane Robin",
+                "asCharacter": "The Mayor's Wife"
+            },
+            {
+                "id": "nm0885707",
+                "image": "https://imdb-api.com/images/original/MV5BZjc0MTFjNzgtZDdiYS00YWI0LWE2YzAtNzY0YjY0OGZjMTcyXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Lewis Van Bergen",
+                "asCharacter": "John Whitney"
+            },
+            {
+                "id": "nm0869927",
+                "image": "https://imdb-api.com/images/original/MV5BNjEwODA0OTc4NV5BMl5BanBnXkFtZTYwOTIwOTk0._V1_Ratio0.8182_AL_.jpg",
+                "name": "Constance Towers",
+                "asCharacter": "Mrs. Blaisedale"
+            },
+            {
+                "id": "nm0565133",
+                "image": "https://imdb-api.com/images/original/MV5BMzE5OTg2MzA4Nl5BMl5BanBnXkFtZTcwMTc3NDM1Nw@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Francis X. McCarthy",
+                "asCharacter": "Mr. Blaisedale"
+            },
+            {
+                "id": "nm0511964",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2MTM0MDQ5OF5BMl5BanBnXkFtZTcwMjE2ODgwMw@@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Audra Lindley",
+                "asCharacter": "Dr. Zwiezic"
+            },
+            {
+                "id": "nm0438127",
+                "image": "https://imdb-api.com/images/original/MV5BYzZkNTliOTUtZDY1NC00OWY1LThiNWItZmIzN2RmNTc4ZTcyXkEyXkFqcGdeQXVyMjEzMTU3OTM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "John Kapelos",
+                "asCharacter": "McNally"
+            },
+            {
+                "id": "nm0920446",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tico Wells",
+                "asCharacter": "Bailey"
+            },
+            {
+                "id": "nm0045219",
+                "image": "https://imdb-api.com/images/original/MV5BNjg1MTkzODU2Ml5BMl5BanBnXkFtZTYwMzYyMzgy._V1_Ratio0.8182_AL_.jpg",
+                "name": "Mike Bacarella",
+                "asCharacter": "Bradley"
+            },
+            {
+                "id": "nm0204634",
+                "image": "https://imdb-api.com/images/original/MV5BNDcyYTE1NDctMWRiMy00Njk5LTlhYzEtNjNhNmI0NzQzMDY1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Gene Davis",
+                "asCharacter": "Martini"
+            },
+            {
+                "id": "nm0228277",
+                "image": "https://imdb-api.com/images/original/MV5BOTFiY2U5MTEtNDMwYi00ZjY0LWIwZTItZjEwNTY1NmZkYmY3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+                "name": "John DiSanti",
+                "asCharacter": "Guard Wootton (as John Di Santi)"
+            },
+            {
+                "id": "nm0698998",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0MTU0NjU3Nl5BMl5BanBnXkFtZTYwNTgzNjY0._V1_Ratio0.7273_AL_.jpg",
+                "name": "David Proval",
+                "asCharacter": "Guard Johnson"
+            },
+            {
+                "id": "nm0336102",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dave Graubart",
+                "asCharacter": "Eugene"
+            },
+            {
+                "id": "nm0779748",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ronald Joshua Scott",
+                "asCharacter": "Josh"
+            },
+            {
+                "id": "nm0113909",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyMjk4NTc2M15BMl5BanBnXkFtZTYwNDk1Mjcy._V1_Ratio0.7727_AL_.jpg",
+                "name": "Jophery C. Brown",
+                "asCharacter": "Guard Frederick Ford"
+            },
+            {
+                "id": "nm0859076",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Thomas Joseph Carroll",
+                "asCharacter": "Evans"
+            },
+            {
+                "id": "nm0353705",
+                "image": "https://imdb-api.com/images/original/MV5BMzBmNDVhMWEtYjhjZi00ZTlmLTgwMjQtNWVkNzAyMDM2OTU2XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Montrose Hagins",
+                "asCharacter": "Chanting Woman (as Montrose Hughes)"
+            },
+            {
+                "id": "nm0602766",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Santos Morales",
+                "asCharacter": "Capt. Borne"
+            },
+            {
+                "id": "nm0786860",
+                "image": "https://imdb-api.com/images/original/MV5BMTQwNTA0OTUwMV5BMl5BanBnXkFtZTcwNjk0NTMzOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ralph Seymour",
+                "asCharacter": "Sergeant"
+            },
+            {
+                "id": "nm0478530",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "LaDonna Tittle",
+                "asCharacter": "Teacher"
+            },
+            {
+                "id": "nm0420646",
+                "image": "https://imdb-api.com/images/original/MV5BNzE2MjQzNDgxNV5BMl5BanBnXkFtZTcwMDI0OTk1Mw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Eddie Jemison",
+                "asCharacter": "Museum Worker"
+            },
+            {
+                "id": "nm0390873",
+                "image": "https://imdb-api.com/images/original/MV5BMGMyZGY2ZjgtMzhiMS00MjM4LWJlMDItYzViZDdkZTcyNjA0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+                "name": "David Hollander",
+                "asCharacter": "Charlie"
+            },
+            {
+                "id": "nm0408698",
+                "image": "https://imdb-api.com/images/original/MV5BMDdmZjg3YTQtNjRhZi00Y2MwLTk1NjItZDBhNDFhMzIyNWVkXkEyXkFqcGdeQXVyMTg3NTkyMjQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Mandy Ingber",
+                "asCharacter": "Donna (as Amanda Ingber)"
+            },
+            {
+                "id": "nm0593494",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Katharine Mitchell",
+                "asCharacter": "Police Officer"
+            },
+            {
+                "id": "nm0167990",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Candy Coburn",
+                "asCharacter": "Police Officer"
+            },
+            {
+                "id": "nm0352978",
+                "image": "https://imdb-api.com/images/original/MV5BNTYzMTk2ODcxOF5BMl5BanBnXkFtZTgwOTY4ODM1MTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kurt Naebig",
+                "asCharacter": "Police Officer"
+            },
+            {
+                "id": "nm0533836",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Don MacLellan",
+                "asCharacter": "Police Officer"
+            },
+            {
+                "id": "nm0791367",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marc P. Shelton",
+                "asCharacter": "Police Officer"
+            },
+            {
+                "id": "nm0367496",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1MjQ1MDQ5MV5BMl5BanBnXkFtZTYwMTM0ODAz._V1_Ratio0.7273_AL_.jpg",
+                "name": "Don Harvey",
+                "asCharacter": "Spota"
+            },
+            {
+                "id": "nm0535850",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ken Magee",
+                "asCharacter": "Coroner's Assistant"
+            },
+            {
+                "id": "nm0527316",
+                "image": "https://imdb-api.com/images/original/MV5BMWM5NDQwYzYtMDE0Ny00MDg0LWI5MWYtYWU5ZGNlNTVmM2JhXkEyXkFqcGdeQXVyMjEwMDU5OQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Aaron Lustig",
+                "asCharacter": "Dr. Brown"
+            },
+            {
+                "id": "nm0313497",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3MzE0OTE3Ml5BMl5BanBnXkFtZTYwNzM1OTYy._V1_Ratio0.7727_AL_.jpg",
+                "name": "Kent George",
+                "asCharacter": "Student"
+            },
+            {
+                "id": "nm0376531",
+                "image": "https://imdb-api.com/images/original/MV5BMjIwMjI1NjM1Ml5BMl5BanBnXkFtZTgwNjYwNDUzOTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lyn Alicia Henderson",
+                "asCharacter": "Perri Masai (as Lynn A. Henderson)"
+            },
+            {
+                "id": "nm0192037",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ron Cummins",
+                "asCharacter": "Dr. Gross"
+            },
+            {
+                "id": "nm0608872",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Matthew Daniel Moses Furlin",
+                "asCharacter": "Crazy Man (as Matthew Daniel Mosoes)"
+            },
+            {
+                "id": "nm0285327",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Elwood Forbes",
+                "asCharacter": "Graduate Student"
+            },
+            {
+                "id": "nm0086233",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dina Blair",
+                "asCharacter": "Reporter"
+            },
+            {
+                "id": "nm0482170",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mark Lake",
+                "asCharacter": "SWAT Team Guy"
+            },
+            {
+                "id": "nm0773307",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwMDg2NDk3Ml5BMl5BanBnXkFtZTcwMDAzMjQzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ned Schmidtke",
+                "asCharacter": "Capt. Martin"
+            },
+            {
+                "id": "nm0358791",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Vincent Hammond",
+                "asCharacter": "Kothoga"
+            },
+            {
+                "id": "nm0824498",
+                "image": "https://imdb-api.com/images/original/MV5BMTg1OTMyOTU1MF5BMl5BanBnXkFtZTcwNjM2NjczNw@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Brian Steele",
+                "asCharacter": "Kothoga"
+            },
+            {
+                "id": "nm0373036",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gary A. Hecker",
+                "asCharacter": "Kothoga Vocalization (as Gary Hecker)"
+            },
+            {
+                "id": "nm0346467",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Daniel Guevara",
+                "asCharacter": "Tribal Dancer"
+            },
+            {
+                "id": "nm0708231",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ramon Ramierez",
+                "asCharacter": "Tribal Dancer"
+            },
+            {
+                "id": "nm0721088",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Henry Rey",
+                "asCharacter": "Tribal Dancer"
+            },
+            {
+                "id": "nm0758359",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gerardo Salinas",
+                "asCharacter": "Tribal Dancer"
+            },
+            {
+                "id": "nm0854474",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwMTM0MjQ0MF5BMl5BanBnXkFtZTcwOTI5MDgyMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Martin S. Tellez",
+                "asCharacter": "Tribal Dancer"
+            },
+            {
+                "id": "nm0396000",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Craig Hosking",
+                "asCharacter": "Helicopter Pilot"
+            },
+            {
+                "id": "nm0883152",
+                "image": "https://imdb-api.com/images/original/MV5BMjFhMmM4ZmUtNDJkOC00NWIyLTg5OGEtNDUxZTE1YzQxY2EzXkEyXkFqcGdeQXVyNzgyNzEzNjI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dana Kristen Vahle",
+                "asCharacter": "Helicopter Pilot (as Dirk Vahle)"
+            },
+            {
+                "id": "nm3425996",
+                "image": "https://imdb-api.com/images/original/MV5BMjZiOGY4ZmMtNDVkMy00ZjZlLWI4YmEtNDllMTE2OGFiY2JiXkEyXkFqcGdeQXVyNTEwNjQ5Njk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Maureen Mendoza",
+                "asCharacter": "Police Officer (uncredited)"
+            },
+            {
+                "id": "nm0006441",
+                "image": "https://imdb-api.com/images/original/MV5BY2Q2MTQ5OGQtOWI5Yi00YmJmLWI4NWEtMWY5MDYzNTY4ODg3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dick Warlock",
+                "asCharacter": "Policeman (uncredited)"
+            },
+            {
+                "id": "nm0749312",
+                "image": "https://imdb-api.com/images/original/MV5BNGFhOWQzYmYtNGViMS00YzA1LTgxYjgtNzI1OTY3ZmEyNjEwXkEyXkFqcGdeQXVyNDU0MzAyMw@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Sharlene Ruffino Weimer",
+                "asCharacter": "Museum employee (uncredited)"
+            },
+            {
+                "id": "nm0925006",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwMTUyMDU0N15BMl5BanBnXkFtZTcwNDgxNzAzMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Johnny White",
+                "asCharacter": "Graduate Student (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0330428",
+                        "name": "Mark Gordon",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0005036",
+                        "name": "Gale Anne Hurd",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0506013",
+                        "name": "Gary Levinsohn",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0580303",
+                        "name": "Sam Mercer",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0002201",
+                        "name": "John Debney",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0001382",
+                        "name": "Peter Hyams",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0447425",
+                        "name": "Steven Kemper",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0675251",
+                        "name": "Penny Perry",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0365812",
+                        "name": "Philip Harrison",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0613468",
+                        "name": "James J. Murakami",
+                        "description": "(as James Murakami)"
+                    },
+                    {
+                        "id": "nm0649418",
+                        "name": "Eric Orbom",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0026936",
+                        "name": "John H. Anderson",
+                        "description": "(as John Anderson)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0003137",
+                        "name": "Daniel J. Lester",
+                        "description": "(as Dan Lester)"
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0009401",
+                        "name": "Stephen Abrums",
+                        "description": "key makeup artist (as Steve Abrums)"
+                    },
+                    {
+                        "id": "nm0030824",
+                        "name": "Art Anthony",
+                        "description": "additional makeup artist"
+                    },
+                    {
+                        "id": "nm0037906",
+                        "name": "Stuart Artingstall",
+                        "description": "hair department supervisor: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0181677",
+                        "name": "Judith A. Cory",
+                        "description": "key hair stylist (as Judy Cory)"
+                    },
+                    {
+                        "id": "nm0478867",
+                        "name": "Steve LaPorte",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm0488919",
+                        "name": "Tim Larsen",
+                        "description": "special makeup effects"
+                    },
+                    {
+                        "id": "nm0776032",
+                        "name": "Susan Schuler-Page",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0143143",
+                        "name": "Laine Trzinski",
+                        "description": "hair stylist (as Elaine M. Cascio)"
+                    },
+                    {
+                        "id": "nm0947158",
+                        "name": "Gary Yee",
+                        "description": "special makeup effects artist"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0833683",
+                        "name": "Sean T. Stratton",
+                        "description": "post-production supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0217852",
+                        "name": "Scott H.C. Delsner",
+                        "description": "second second assistant director: Chicago"
+                    },
+                    {
+                        "id": "nm0441673",
+                        "name": "David Michael Katz",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm0761581",
+                        "name": "Jack Frost Sanders",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0796425",
+                        "name": "Rich Sickler",
+                        "description": "dga trainee"
+                    },
+                    {
+                        "id": "nm0003708",
+                        "name": "L. David Silva",
+                        "description": "second second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0061985",
+                        "name": "Gary Baugh",
+                        "description": "assistant art director: Chicago"
+                    },
+                    {
+                        "id": "nm0081795",
+                        "name": "William Biggerstaff",
+                        "description": "paint gang boss"
+                    },
+                    {
+                        "id": "nm0003840",
+                        "name": "Mark Boucher",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm0099017",
+                        "name": "Nigel A. Boucher",
+                        "description": "leadman"
+                    },
+                    {
+                        "id": "nm0113575",
+                        "name": "Frank L. Brown",
+                        "description": "assistant property master"
+                    },
+                    {
+                        "id": "nm0150516",
+                        "name": "David J. Chamerski",
+                        "description": "property master: Chicago"
+                    },
+                    {
+                        "id": "nm2149522",
+                        "name": "Jeff Clark",
+                        "description": "sign writer"
+                    },
+                    {
+                        "id": "nm0166835",
+                        "name": "Donna Cline",
+                        "description": "illustrator"
+                    },
+                    {
+                        "id": "nm1181265",
+                        "name": "Casey B. Garrett",
+                        "description": "propmaker"
+                    },
+                    {
+                        "id": "nm0326186",
+                        "name": "David Goldstein",
+                        "description": "paint supervisor"
+                    },
+                    {
+                        "id": "nm0419168",
+                        "name": "Lee J. Jashinsky",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm0425271",
+                        "name": "Jack Johnson",
+                        "description": "production illustrator"
+                    },
+                    {
+                        "id": "nm2200560",
+                        "name": "Tom Jung",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm0454997",
+                        "name": "Linda A. King",
+                        "description": "set designer (as Linda King)"
+                    },
+                    {
+                        "id": "nm0460554",
+                        "name": "Nikita Knatz",
+                        "description": "production illustrator"
+                    },
+                    {
+                        "id": "nm0513728",
+                        "name": "Charles R. Lipscomb",
+                        "description": "lead man"
+                    },
+                    {
+                        "id": "nm0531457",
+                        "name": "P.K. MacCarthy",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm0536555",
+                        "name": "C.J. Maguire",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm0540490",
+                        "name": "Patricia Malone",
+                        "description": "set decorator: Chicago"
+                    },
+                    {
+                        "id": "nm1034972",
+                        "name": "Hank Mayo",
+                        "description": "concept designer"
+                    },
+                    {
+                        "id": "nm0599263",
+                        "name": "Louis Montejano",
+                        "description": "set designer"
+                    },
+                    {
+                        "id": "nm0638250",
+                        "name": "Christopher S. Nushawg",
+                        "description": "set designer"
+                    },
+                    {
+                        "id": "nm0652077",
+                        "name": "Tyler Osman",
+                        "description": "construction coordinator: Chicago"
+                    },
+                    {
+                        "id": "nm0725211",
+                        "name": "Bruce Richter",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0728830",
+                        "name": "Christoph Rittershausen",
+                        "description": "lead sculptor"
+                    },
+                    {
+                        "id": "nm0742361",
+                        "name": "Doug Rosenberger",
+                        "description": "general foreperson"
+                    },
+                    {
+                        "id": "nm0757164",
+                        "name": "Ahmed Saker",
+                        "description": "construction medic"
+                    },
+                    {
+                        "id": "nm0779840",
+                        "name": "Terry Scott",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm0830981",
+                        "name": "Tracy Stockwell",
+                        "description": "plaster foreman"
+                    },
+                    {
+                        "id": "nm0859004",
+                        "name": "Jeffrey Thomas",
+                        "description": "stand-by greensman"
+                    },
+                    {
+                        "id": "nm0904469",
+                        "name": "Ciro Vuoso",
+                        "description": "construction foreman"
+                    },
+                    {
+                        "id": "nm0905698",
+                        "name": "Dianne Wager",
+                        "description": "set designer"
+                    },
+                    {
+                        "id": "nm0218996",
+                        "name": "Michael Denering",
+                        "description": "lead scenic artist (uncredited)"
+                    },
+                    {
+                        "id": "nm0623791",
+                        "name": "W.C. Nearhood Jr.",
+                        "description": "fixtures (uncredited)"
+                    },
+                    {
+                        "id": "nm0639324",
+                        "name": "Jeff O'Bannon",
+                        "description": "laborer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0027240",
+                        "name": "Neal J. Anderson",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0039810",
+                        "name": "Christopher Assells",
+                        "description": "adr editor"
+                    },
+                    {
+                        "id": "nm0056199",
+                        "name": "Bob Baron",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm0058742",
+                        "name": "Steve Bartkowicz",
+                        "description": "sound re-recording engineer"
+                    },
+                    {
+                        "id": "nm0061084",
+                        "name": "Robert Batha",
+                        "description": "first assistant sound editor"
+                    },
+                    {
+                        "id": "nm0066903",
+                        "name": "Bob Beher",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm0099900",
+                        "name": "Gary C. Bourgeois",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0115564",
+                        "name": "Raul A. Bruce",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm0130188",
+                        "name": "Ed Callahan",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm0134481",
+                        "name": "Gene S. Cantamessa",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm0136369",
+                        "name": "Paul Timothy Carden",
+                        "description": "digital sound effects editor"
+                    },
+                    {
+                        "id": "nm0171749",
+                        "name": "Matt Colleran",
+                        "description": "foley recordist"
+                    },
+                    {
+                        "id": "nm0227491",
+                        "name": "Dino Dimuro",
+                        "description": "digital sound effects editor"
+                    },
+                    {
+                        "id": "nm0240764",
+                        "name": "Ken Dufva",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0270646",
+                        "name": "David Lee Fein",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0280539",
+                        "name": "Jim Fitzpatrick",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0305168",
+                        "name": "Darrall Garcia",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0314832",
+                        "name": "Scott Martin Gershin",
+                        "description": "digital sound effects editor"
+                    },
+                    {
+                        "id": "nm0315439",
+                        "name": "Nerses Gezalyan",
+                        "description": "foley mixer / sound mixer"
+                    },
+                    {
+                        "id": "nm0225665",
+                        "name": "Jessica Goodwin",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0342736",
+                        "name": "Leslee F. Grizzell",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0373036",
+                        "name": "Gary A. Hecker",
+                        "description": "foley artist (as Gary 'Wrecker' Hecker)"
+                    },
+                    {
+                        "id": "nm0389502",
+                        "name": "Chris Hogan",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0396047",
+                        "name": "Michael Hoskinson",
+                        "description": "foley editor (as Mike Hoskinson)"
+                    },
+                    {
+                        "id": "nm0415345",
+                        "name": "Craig S. Jaeger",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm0418698",
+                        "name": "Chris Jargo",
+                        "description": "adr editor"
+                    },
+                    {
+                        "id": "nm0445978",
+                        "name": "Randy Kelley",
+                        "description": "sound design editor"
+                    },
+                    {
+                        "id": "nm0483341",
+                        "name": "Tony Lamberti",
+                        "description": "sound designer"
+                    },
+                    {
+                        "id": "nm0499650",
+                        "name": "Peter J. Lehman",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0604691",
+                        "name": "Glenn T. Morgan",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0606893",
+                        "name": "Rick Morris",
+                        "description": "digital sound effects editor / sound editor"
+                    },
+                    {
+                        "id": "nm0640176",
+                        "name": "Thomas J. O'Connell",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm0641957",
+                        "name": "Thomas O'Neil Younkman",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0654576",
+                        "name": "Kelly Oxford",
+                        "description": "digital sound effects editor"
+                    },
+                    {
+                        "id": "nm0723624",
+                        "name": "Dan M. Rich",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0792386",
+                        "name": "Brad Sherman",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0802021",
+                        "name": "Randy Singer",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm0809281",
+                        "name": "Mary Ruth Smith",
+                        "description": "adr editor"
+                    },
+                    {
+                        "id": "nm0823758",
+                        "name": "Wylie Stateman",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0827088",
+                        "name": "Lauren Stephens",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0827788",
+                        "name": "Michael Stern",
+                        "description": "additional sound recording mixer"
+                    },
+                    {
+                        "id": "nm0928989",
+                        "name": "Jeffrey Wilhoit",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0669617",
+                        "name": "Fred Peck III",
+                        "description": "foley recordist (uncredited)"
+                    },
+                    {
+                        "id": "nm0762538",
+                        "name": "Alison Sanford",
+                        "description": "sound recordist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0022314",
+                        "name": "Richard Alonzo",
+                        "description": "additional live effects key artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0055912",
+                        "name": "Jason Barnett",
+                        "description": "additional live effects key artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0060324",
+                        "name": "Bill Basso",
+                        "description": "additional live effects key artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0100503",
+                        "name": "Darin Bouyssou",
+                        "description": "mold maker: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0113517",
+                        "name": "Emery Brown",
+                        "description": "electronics designer: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0130723",
+                        "name": "John Calpin",
+                        "description": "key technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0132449",
+                        "name": "Evan Campbell",
+                        "description": "special effects makeup"
+                    },
+                    {
+                        "id": "nm0170737",
+                        "name": "R.S. Cole",
+                        "description": "creature effects assistant"
+                    },
+                    {
+                        "id": "nm0184373",
+                        "name": "David Covarrubias",
+                        "description": "mechanical technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0186306",
+                        "name": "Barry Crane",
+                        "description": "key technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0205914",
+                        "name": "Jon Dawe",
+                        "description": "mechanical designer: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0220628",
+                        "name": "Glenn Derry",
+                        "description": "electronics designer: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0236007",
+                        "name": "John J. Downey",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0425697",
+                        "name": "Lynette Eklund",
+                        "description": "key fabricator: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0255401",
+                        "name": "Garry Elmendorf",
+                        "description": "special effects supervisor (as Gary Elmendorf)"
+                    },
+                    {
+                        "id": "nm0319481",
+                        "name": "Lance Gilmer",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0356042",
+                        "name": "Robert Hall",
+                        "description": "additional live effects key artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0365940",
+                        "name": "William D. Harrison",
+                        "description": "special effects foreperson"
+                    },
+                    {
+                        "id": "nm0369320",
+                        "name": "Richard Haugen",
+                        "description": "mechanical designer: Stan Winston Studio (as Rich Haugen)"
+                    },
+                    {
+                        "id": "nm0374259",
+                        "name": "Matt Heimlich",
+                        "description": "mechanical technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0380233",
+                        "name": "David Heron",
+                        "description": "special effects rigging foreperson"
+                    },
+                    {
+                        "id": "nm0390307",
+                        "name": "Grady Holder",
+                        "description": "mold maker"
+                    },
+                    {
+                        "id": "nm0393049",
+                        "name": "Thomas R. Homsher",
+                        "description": "special effects foreman"
+                    },
+                    {
+                        "id": "nm0393050",
+                        "name": "Tom Homsher",
+                        "description": "special effects foreperson"
+                    },
+                    {
+                        "id": "nm1943106",
+                        "name": "Doug Hudson",
+                        "description": "mold/lab technician"
+                    },
+                    {
+                        "id": "nm0432960",
+                        "name": "Mark Jurinko",
+                        "description": "key artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0450986",
+                        "name": "Rodrick Khachatoorian",
+                        "description": "electronics designer: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0454826",
+                        "name": "Jay King",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0455216",
+                        "name": "Robert W. King",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0455331",
+                        "name": "Terry W. King",
+                        "description": "assistant special effects supervisor"
+                    },
+                    {
+                        "id": "nm0457165",
+                        "name": "Rodman Kiser",
+                        "description": "special effects technician: Chicago (as Rod Kiser)"
+                    },
+                    {
+                        "id": "nm0458282",
+                        "name": "Dana Klaren",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0517345",
+                        "name": "Roland Loew",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0532285",
+                        "name": "Lindsay MacGowan",
+                        "description": "mold department: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0537979",
+                        "name": "Mark Maitre",
+                        "description": "additional live effects key artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0545023",
+                        "name": "Keith Marbory",
+                        "description": "special effects supervisor"
+                    },
+                    {
+                        "id": "nm0550048",
+                        "name": "Nick Marra",
+                        "description": "additional live effects key artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0552645",
+                        "name": "Kyle Martin",
+                        "description": "mechanical technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0566938",
+                        "name": "Tony McCray",
+                        "description": "key technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0567000",
+                        "name": "Mark 'Crash' McCreery",
+                        "description": "conceptual art director: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0568119",
+                        "name": "Matt McDonnell",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm2480558",
+                        "name": "Tom McLaughlin",
+                        "description": "key technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0574643",
+                        "name": "Kevin McTurk",
+                        "description": "key technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0577189",
+                        "name": "Paul Mejias",
+                        "description": "special effects artist"
+                    },
+                    {
+                        "id": "nm0587463",
+                        "name": "John D. Milinac",
+                        "description": "special effects foreperson: Chicago"
+                    },
+                    {
+                        "id": "nm0600395",
+                        "name": "David Monzingo",
+                        "description": "special effects artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0620612",
+                        "name": "Brian Namanny",
+                        "description": "mechanical technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0624741",
+                        "name": "Jon Neill",
+                        "description": "mold maker: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0633888",
+                        "name": "Mark Noel",
+                        "description": "special effects engineer"
+                    },
+                    {
+                        "id": "nm0652493",
+                        "name": "Eric Ostroff",
+                        "description": "key technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0656612",
+                        "name": "Tom Pahk",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0666581",
+                        "name": "John Patton",
+                        "description": "mechanical technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0696262",
+                        "name": "Ron Presser",
+                        "description": "electronics designer: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0713919",
+                        "name": "Joseph Reader",
+                        "description": "key technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0717546",
+                        "name": "Edward T. Reiff Jr.",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0726473",
+                        "name": "Alan Rifkin",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0730310",
+                        "name": "Chris Robbins",
+                        "description": "additional live effects key artist: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0800285",
+                        "name": "Martin Simon",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0804523",
+                        "name": "Kirk Skodis",
+                        "description": "mechanical designer: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0815952",
+                        "name": "Alfred Sousa",
+                        "description": "mechanical designer: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0842576",
+                        "name": "Christopher Swift",
+                        "description": "creature effects supervisor: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0878252",
+                        "name": "Alan Tuskes",
+                        "description": "key technician: Stan Winston Studio"
+                    },
+                    {
+                        "id": "nm0925482",
+                        "name": "Stiles White",
+                        "description": "production coordinator: stan winston studio"
+                    },
+                    {
+                        "id": "nm0935644",
+                        "name": "Stan Winston",
+                        "description": "creature effects"
+                    },
+                    {
+                        "id": "nm0138027",
+                        "name": "TaMara Carlson Woodard",
+                        "description": "fabrication crew: Stan Winston Studio (as Tamara Carlson)"
+                    },
+                    {
+                        "id": "nm0947005",
+                        "name": "Dennis Yeager II",
+                        "description": "special effects technician"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm0008989",
+                        "name": "Gary Abrahamian",
+                        "description": "animator: Kothoga"
+                    },
+                    {
+                        "id": "nm0020371",
+                        "name": "Chris Allen",
+                        "description": "programmer"
+                    },
+                    {
+                        "id": "nm0025401",
+                        "name": "Mike Amron",
+                        "description": "3D animator"
+                    },
+                    {
+                        "id": "nm0051634",
+                        "name": "James Bancroft",
+                        "description": "modeling/deformations/animation"
+                    },
+                    {
+                        "id": "nm0071711",
+                        "name": "Dennis Bennett",
+                        "description": "scanning and printing"
+                    },
+                    {
+                        "id": "nm0074798",
+                        "name": "Jennifer Bergman",
+                        "description": "visual effects producer: VIFX"
+                    },
+                    {
+                        "id": "nm0075734",
+                        "name": "Bruce Berman",
+                        "description": "animator: Kothoga tongue"
+                    },
+                    {
+                        "id": "nm0103445",
+                        "name": "Greg Bradner",
+                        "description": "film scanner: VIFX"
+                    },
+                    {
+                        "id": "nm0114207",
+                        "name": "Mark A. Brown",
+                        "description": "chief technologist: VIFX (as Mark Brown)"
+                    },
+                    {
+                        "id": "nm0118990",
+                        "name": "Cheryl Budgett",
+                        "description": "2D supervisor: VIFX"
+                    },
+                    {
+                        "id": "nm1291447",
+                        "name": "Dan Calhoun",
+                        "description": "engineer"
+                    },
+                    {
+                        "id": "nm0132314",
+                        "name": "Clark Campbell",
+                        "description": "visual effects editor"
+                    },
+                    {
+                        "id": "nm0004187",
+                        "name": "Casey Cannon",
+                        "description": "computer graphics producer: BFTRE"
+                    },
+                    {
+                        "id": "nm0134198",
+                        "name": "Glenn Cannon",
+                        "description": "computer graphic artist"
+                    },
+                    {
+                        "id": "nm0215199",
+                        "name": "Karen deJong",
+                        "description": "digital matte painter"
+                    },
+                    {
+                        "id": "nm0220755",
+                        "name": "John 'D.J.' Des Jardin",
+                        "description": "digital effects supervisor: VIFX"
+                    },
+                    {
+                        "id": "nm0223246",
+                        "name": "Ivan DeWolf",
+                        "description": "3D digital artist"
+                    },
+                    {
+                        "id": "nm0226228",
+                        "name": "Bill Dietrich",
+                        "description": "animator: Kothoga"
+                    },
+                    {
+                        "id": "nm0244276",
+                        "name": "Gus Duron",
+                        "description": "film coordinator"
+                    },
+                    {
+                        "id": "nm0244318",
+                        "name": "Antoine Durr",
+                        "description": "3D supervisor: VIFX"
+                    },
+                    {
+                        "id": "nm0255905",
+                        "name": "Gregory Elwood",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm0259008",
+                        "name": "Anders Ericson",
+                        "description": "animator: Kothoga"
+                    },
+                    {
+                        "id": "nm0293518",
+                        "name": "Meg Freeman",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm0296190",
+                        "name": "Bob Froehlig",
+                        "description": "systems operations"
+                    },
+                    {
+                        "id": "nm0317339",
+                        "name": "Scott Giegler",
+                        "description": "animator: Kothoga"
+                    },
+                    {
+                        "id": "nm0006886",
+                        "name": "Ido Gondelman",
+                        "description": "cg animator: VIFX"
+                    },
+                    {
+                        "id": "nm0348247",
+                        "name": "Rhonda C. Gunner",
+                        "description": "visual effects"
+                    },
+                    {
+                        "id": "nm0349630",
+                        "name": "David Gutman",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm1109445",
+                        "name": "Joe Henke",
+                        "description": "animator: Kothoga"
+                    },
+                    {
+                        "id": "nm0386415",
+                        "name": "Bryan Hirota",
+                        "description": "research and development supervisor: VIFX"
+                    },
+                    {
+                        "id": "nm0390897",
+                        "name": "Richard E. Hollander",
+                        "description": "visual effects"
+                    },
+                    {
+                        "id": "nm0407506",
+                        "name": "Hiroshi 'Kan' Ikeuchi",
+                        "description": "armature engineer"
+                    },
+                    {
+                        "id": "nm0421143",
+                        "name": "Eric Jennings",
+                        "description": "animation R&D/technical director"
+                    },
+                    {
+                        "id": "nm0428733",
+                        "name": "Manson Jones",
+                        "description": "programmer"
+                    },
+                    {
+                        "id": "nm0442116",
+                        "name": "Dan Kaufman",
+                        "description": "3D digital artist"
+                    },
+                    {
+                        "id": "nm0456931",
+                        "name": "Josh Kirschenbaum",
+                        "description": "technical supervisor: BFTRE"
+                    },
+                    {
+                        "id": "nm0465940",
+                        "name": "Andy Kopra",
+                        "description": "lead programmer"
+                    },
+                    {
+                        "id": "nm0468861",
+                        "name": "Gene Kozicki",
+                        "description": "digital coordinator: VIFX"
+                    },
+                    {
+                        "id": "nm1290752",
+                        "name": "Mark Kramer",
+                        "description": "engineer"
+                    },
+                    {
+                        "id": "nm0482618",
+                        "name": "Harry Lam",
+                        "description": "digital compositing lead"
+                    },
+                    {
+                        "id": "nm0512746",
+                        "name": "Van Ling",
+                        "description": "computer graphics supervisor"
+                    },
+                    {
+                        "id": "nm0520462",
+                        "name": "Liz Lord",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm0567000",
+                        "name": "Mark 'Crash' McCreery",
+                        "description": "character designer"
+                    },
+                    {
+                        "id": "nm0573488",
+                        "name": "Gregory L. McMurry",
+                        "description": "visual effects supervisor"
+                    },
+                    {
+                        "id": "nm0574304",
+                        "name": "Cheryl McQuady",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm0578706",
+                        "name": "Alexandra Menapace",
+                        "description": "motion control programmer"
+                    },
+                    {
+                        "id": "nm0591794",
+                        "name": "Stuart Mintz",
+                        "description": "animator: Kothoga"
+                    },
+                    {
+                        "id": "nm0602788",
+                        "name": "Zeke Morales",
+                        "description": "film coordinator"
+                    },
+                    {
+                        "id": "nm0613740",
+                        "name": "Michelle Murdocca",
+                        "description": "executive producer of digital imaging: VIFX"
+                    },
+                    {
+                        "id": "nm2858542",
+                        "name": "Michael Norville",
+                        "description": "animator"
+                    },
+                    {
+                        "id": "nm0636359",
+                        "name": "Mike Norville",
+                        "description": "animator: Kothoga tongue"
+                    },
+                    {
+                        "id": "nm0670621",
+                        "name": "Tom C. Peitzman",
+                        "description": "effects production supervisor / visual effects producer"
+                    },
+                    {
+                        "id": "nm0680393",
+                        "name": "Ethan Phillips",
+                        "description": "visual effects chief lighting technician: VIFX"
+                    },
+                    {
+                        "id": "nm0729250",
+                        "name": "Edwin Rivera",
+                        "description": "digital compositing lead: VIFX"
+                    },
+                    {
+                        "id": "nm0734395",
+                        "name": "Ha Ngan Roda",
+                        "description": "animator: Kothoga"
+                    },
+                    {
+                        "id": "nm1906148",
+                        "name": "Andy Rosen",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm0768681",
+                        "name": "Louis Scaduto",
+                        "description": "textures: Kothoga"
+                    },
+                    {
+                        "id": "nm0774021",
+                        "name": "Scott Schneider",
+                        "description": "model shop supervisor"
+                    },
+                    {
+                        "id": "nm0776339",
+                        "name": "Rob Schultz",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm0789492",
+                        "name": "Tom Shaughnessy",
+                        "description": "camera assistant"
+                    },
+                    {
+                        "id": "nm0817875",
+                        "name": "Brad Spencer",
+                        "description": "scanning and printing"
+                    },
+                    {
+                        "id": "nm0846581",
+                        "name": "Paul Taglianetti",
+                        "description": "production coordinator: VIFX / visual effects coordinator: VIFX"
+                    },
+                    {
+                        "id": "nm0862951",
+                        "name": "Tom Tierney",
+                        "description": "engineer"
+                    },
+                    {
+                        "id": "nm0913322",
+                        "name": "John C. Wash",
+                        "description": "visual effects"
+                    },
+                    {
+                        "id": "nm0926399",
+                        "name": "Tom Whitson",
+                        "description": "engineer"
+                    },
+                    {
+                        "id": "nm0304694",
+                        "name": "Giancarlo Ganziano",
+                        "description": "visual effects (uncredited)"
+                    },
+                    {
+                        "id": "nm1074151",
+                        "name": "John Sanders",
+                        "description": "scanning and recording technician (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0098075",
+                        "name": "May Boss",
+                        "description": "stunts (as Mary R. Boss)"
+                    },
+                    {
+                        "id": "nm0104305",
+                        "name": "John Branagan",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0113909",
+                        "name": "Jophery C. Brown",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0125103",
+                        "name": "Richard E. Butler",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0144224",
+                        "name": "Michael Cassidy",
+                        "description": "stunts (as Mike Cassidy)"
+                    },
+                    {
+                        "id": "nm3785515",
+                        "name": "Mitchell Dean",
+                        "description": "utility stunts"
+                    },
+                    {
+                        "id": "nm0923982",
+                        "name": "Cheryl Wheeler Duncan",
+                        "description": "stunts (as Cheryl Wheeler)"
+                    },
+                    {
+                        "id": "nm0273884",
+                        "name": "Dean Raphael Ferrandini",
+                        "description": "stunts (as Dean Ferrandini)"
+                    },
+                    {
+                        "id": "nm5460956",
+                        "name": "Dana Freitag",
+                        "description": "stunt double"
+                    },
+                    {
+                        "id": "nm0302941",
+                        "name": "Tim Gallin",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0352130",
+                        "name": "Jeff Habberstad",
+                        "description": "stunt rigger"
+                    },
+                    {
+                        "id": "nm0363924",
+                        "name": "Mark Harper",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0275354",
+                        "name": "Linda Fetters Howard",
+                        "description": "stunts (as Linda Fetters)"
+                    },
+                    {
+                        "id": "nm0494265",
+                        "name": "Rick LeFevour",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0502915",
+                        "name": "Nina Leone",
+                        "description": "utility stunts"
+                    },
+                    {
+                        "id": "nm0518306",
+                        "name": "Jake Lombard",
+                        "description": "stunt rigger"
+                    },
+                    {
+                        "id": "nm0581333",
+                        "name": "Sunnie Merrill",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0624792",
+                        "name": "Carol Neilson",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0674193",
+                        "name": "Linda Perlin",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0682334",
+                        "name": "Denney Pierce",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0705991",
+                        "name": "Chere Rae",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0778780",
+                        "name": "Walter Scott",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0795093",
+                        "name": "Paul E. Short",
+                        "description": "stunts (as Paul Short)"
+                    },
+                    {
+                        "id": "nm0810706",
+                        "name": "Brian Smrz",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0909217",
+                        "name": "David Walling",
+                        "description": "stunts (as David Charles Walling)"
+                    },
+                    {
+                        "id": "nm0006441",
+                        "name": "Dick Warlock",
+                        "description": "stunts (as Richard Warlock)"
+                    },
+                    {
+                        "id": "nm0922278",
+                        "name": "P.K. West",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0924193",
+                        "name": "Kay Whipple",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0941887",
+                        "name": "Keith Woulard",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0502540",
+                        "name": "Will Leong",
+                        "description": "stunt double (uncredited)"
+                    },
+                    {
+                        "id": "nm0510646",
+                        "name": "Danny Lima",
+                        "description": "stunts (uncredited)"
+                    },
+                    {
+                        "id": "nm0660013",
+                        "name": "Carl Paoli",
+                        "description": "stunt driver (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0038656",
+                        "name": "Norman Ash",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0068275",
+                        "name": "Jennifer Bell",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm0072495",
+                        "name": "Garrett Benson",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm0100929",
+                        "name": "Terry Bowen",
+                        "description": "additional camera operator"
+                    },
+                    {
+                        "id": "nm0132120",
+                        "name": "Stephen S. Campanelli",
+                        "description": "camera operator / steadicam operator"
+                    },
+                    {
+                        "id": "nm0135506",
+                        "name": "A. Anthony Cappello",
+                        "description": "additional first assistant camera"
+                    },
+                    {
+                        "id": "nm0190233",
+                        "name": "Alex Cruz",
+                        "description": "b-dolly grip"
+                    },
+                    {
+                        "id": "nm0274903",
+                        "name": "Michael Ferris",
+                        "description": "additional camera operator"
+                    },
+                    {
+                        "id": "nm0003324",
+                        "name": "Richard Foreman Jr.",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm1643332",
+                        "name": "David French",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0294863",
+                        "name": "John P. Friday",
+                        "description": "chief rigging lighting technician: Chicago"
+                    },
+                    {
+                        "id": "nm0359474",
+                        "name": "Jeff Hand",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm0444860",
+                        "name": "Frank Keever",
+                        "description": "first company rigging grip"
+                    },
+                    {
+                        "id": "nm0460690",
+                        "name": "Rory Robert Knepp",
+                        "description": "additional camera operator"
+                    },
+                    {
+                        "id": "nm0463487",
+                        "name": "George Kohut",
+                        "description": "camera operator: Chicago"
+                    },
+                    {
+                        "id": "nm0490474",
+                        "name": "Cara Latzel",
+                        "description": "video assist coordinator"
+                    },
+                    {
+                        "id": "nm0507572",
+                        "name": "Morgan Michael Lewis",
+                        "description": "first company grip: Chicago"
+                    },
+                    {
+                        "id": "nm0511392",
+                        "name": "Mark R. Lindberg",
+                        "description": "chief lighting technician: Chicago"
+                    },
+                    {
+                        "id": "nm0524487",
+                        "name": "Sid Lucero",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0535728",
+                        "name": "Timothy 'Guido' Magaraci",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0560711",
+                        "name": "J. Steven Matzinger",
+                        "description": "additional first assistant camera"
+                    },
+                    {
+                        "id": "nm0561853",
+                        "name": "Charles May II",
+                        "description": "video assist operator (as Charles May)"
+                    },
+                    {
+                        "id": "nm0561854",
+                        "name": "Tom May",
+                        "description": "first company grip"
+                    },
+                    {
+                        "id": "nm0570705",
+                        "name": "Charlie McIntyre",
+                        "description": "chief rigging lighting technician (as Charles McIntyre III)"
+                    },
+                    {
+                        "id": "nm0604232",
+                        "name": "David Morenz",
+                        "description": "first assistant camera: Chicago"
+                    },
+                    {
+                        "id": "nm0635790",
+                        "name": "David Norris",
+                        "description": "camera technician: Wescam camera"
+                    },
+                    {
+                        "id": "nm0700852",
+                        "name": "Ronald J. Pure Jr.",
+                        "description": "electrician / lighting technician (as R. Joseph Pure Jr.)"
+                    },
+                    {
+                        "id": "nm1714450",
+                        "name": "John S. Robertson",
+                        "description": "dolly grip: Chicago"
+                    },
+                    {
+                        "id": "nm0761236",
+                        "name": "John 'Fest' Sandau",
+                        "description": "assistant chief lighting technician"
+                    },
+                    {
+                        "id": "nm0799620",
+                        "name": "Dean M. Simmon",
+                        "description": "second assistant camera: Chicago"
+                    },
+                    {
+                        "id": "nm0804137",
+                        "name": "John 'Skids' Skidmore",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0829606",
+                        "name": "Lonnie Stewart",
+                        "description": "dolly grip"
+                    },
+                    {
+                        "id": "nm0852981",
+                        "name": "Park B. Taylor",
+                        "description": "assistant chief lighting technician: Chicago"
+                    },
+                    {
+                        "id": "nm0879016",
+                        "name": "James R. Tynes",
+                        "description": "chief lighting technician"
+                    },
+                    {
+                        "id": "nm0881658",
+                        "name": "Joseph D. Urbanczyk",
+                        "description": "director of photography: re-takes"
+                    },
+                    {
+                        "id": "nm0883626",
+                        "name": "Francis X. Valdez III",
+                        "description": "assistant chief lighting technician"
+                    },
+                    {
+                        "id": "nm0906269",
+                        "name": "Michael Wahl",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm1927391",
+                        "name": "Larry Williams",
+                        "description": "second company rigging grip"
+                    },
+                    {
+                        "id": "nm0010055",
+                        "name": "Jeffrey P. Ackil",
+                        "description": "assistant camera (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0364456",
+                        "name": "Barbara Harris",
+                        "description": "adr voice casting"
+                    },
+                    {
+                        "id": "nm0429235",
+                        "name": "Shaunda G. Jones",
+                        "description": "casting assistant"
+                    },
+                    {
+                        "id": "nm0668841",
+                        "name": "Karen Peake",
+                        "description": "extras casting: Chicago"
+                    },
+                    {
+                        "id": "nm0698596",
+                        "name": "Regina Prokop",
+                        "description": "extras casting coordinator: Chicago"
+                    },
+                    {
+                        "id": "nm0925006",
+                        "name": "Johnny White",
+                        "description": "extras casting assistant: set"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0054173",
+                        "name": "Elinor Bardach",
+                        "description": "costume supervisor"
+                    },
+                    {
+                        "id": "nm0463155",
+                        "name": "Joyce Kogut",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm0847508",
+                        "name": "Nancy Takehara",
+                        "description": "costumer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0347836",
+                        "name": "Jeff Gullo",
+                        "description": "additional editor"
+                    },
+                    {
+                        "id": "nm0381756",
+                        "name": "Phil Hetos",
+                        "description": "color timer"
+                    },
+                    {
+                        "id": "nm0413363",
+                        "name": "Chris Jackson",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm0418385",
+                        "name": "Scott Janush",
+                        "description": "assistant editor: avid"
+                    },
+                    {
+                        "id": "nm0720084",
+                        "name": "Theresa Repola Mohammed",
+                        "description": "negative cutter"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0098602",
+                        "name": "Bonnie Bott",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm0215002",
+                        "name": "Kristin Dehnert",
+                        "description": "location assistant: Chicago"
+                    },
+                    {
+                        "id": "nm0656148",
+                        "name": "Deborah J. Page",
+                        "description": "assistant location manager (as Debbie Page)"
+                    },
+                    {
+                        "id": "nm0667531",
+                        "name": "Paul Pav",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm0669161",
+                        "name": "F. Stanley Pearse Jr.",
+                        "description": "location manager"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0071760",
+                        "name": "Frank Bennett",
+                        "description": "orchestrator"
+                    },
+                    {
+                        "id": "nm0138030",
+                        "name": "Thomas A. Carlson",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0002201",
+                        "name": "John Debney",
+                        "description": "conductor"
+                    },
+                    {
+                        "id": "nm0213779",
+                        "name": "Brad Dechter",
+                        "description": "orchestrator"
+                    },
+                    {
+                        "id": "nm0214010",
+                        "name": "Sandy DeCrescent",
+                        "description": "orchestra contractor"
+                    },
+                    {
+                        "id": "nm0625968",
+                        "name": "Don Nemitz",
+                        "description": "orchestrator"
+                    },
+                    {
+                        "id": "nm0646889",
+                        "name": "John E. Oliver",
+                        "description": "music production set supervisor"
+                    },
+                    {
+                        "id": "nm0724162",
+                        "name": "John Richards",
+                        "description": "score mixer / score recordist"
+                    },
+                    {
+                        "id": "nm0935444",
+                        "name": "Rick Winquest",
+                        "description": "additional music scoring mixer"
+                    },
+                    {
+                        "id": "nm1622880",
+                        "name": "Denise Carver",
+                        "description": "music clearances (uncredited)"
+                    },
+                    {
+                        "id": "nm1161586",
+                        "name": "Dan Goldwasser",
+                        "description": "soundtrack producer (uncredited)"
+                    },
+                    {
+                        "id": "nm0531488",
+                        "name": "Frank Macchia",
+                        "description": "midi transcriptions (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0857189",
+                        "name": "Barbara Thaxton",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm0226911",
+                        "name": "Keith Dillin",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm0389540",
+                        "name": "James Hogan",
+                        "description": "transportation captain: Chicago"
+                    },
+                    {
+                        "id": "nm0624829",
+                        "name": "Robert Neilson",
+                        "description": "transportation coordinator"
+                    },
+                    {
+                        "id": "nm0659999",
+                        "name": "Armand Paoletti",
+                        "description": "transportation coordinator: Chicago"
+                    },
+                    {
+                        "id": "nm3068463",
+                        "name": "Mike Phillips",
+                        "description": "construction driver (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0007883",
+                        "name": "Rob Abbey",
+                        "description": "crew: Video Image"
+                    },
+                    {
+                        "id": "nm0018515",
+                        "name": "John Alexander",
+                        "description": "choreographer: Kothoga"
+                    },
+                    {
+                        "id": "nm0028752",
+                        "name": "Lynn Andrews",
+                        "description": "assistant to producer"
+                    },
+                    {
+                        "id": "nm0082648",
+                        "name": "Michael Bilog",
+                        "description": "assistant accountant"
+                    },
+                    {
+                        "id": "nm0104433",
+                        "name": "Amanda Brand",
+                        "description": "publicist"
+                    },
+                    {
+                        "id": "nm1129677",
+                        "name": "Luis Brito",
+                        "description": "cook"
+                    },
+                    {
+                        "id": "nm0110670",
+                        "name": "Jim Brockett",
+                        "description": "animal coordinator"
+                    },
+                    {
+                        "id": "nm3886929",
+                        "name": "Jeff Bruno",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm0134198",
+                        "name": "Glenn Cannon",
+                        "description": "computer playback operator"
+                    },
+                    {
+                        "id": "nm0166835",
+                        "name": "Donna Cline",
+                        "description": "medical technical advisor / technical advisor"
+                    },
+                    {
+                        "id": "nm0190077",
+                        "name": "Charles R. Crumly",
+                        "description": "museum consultant"
+                    },
+                    {
+                        "id": "nm0213733",
+                        "name": "Sara DeCesare",
+                        "description": "assistant: Greg McMurry"
+                    },
+                    {
+                        "id": "nm0217521",
+                        "name": "Deborah Dellosso",
+                        "description": "animal trainer"
+                    },
+                    {
+                        "id": "nm0223017",
+                        "name": "James Dew",
+                        "description": "animal trainer"
+                    },
+                    {
+                        "id": "nm0247241",
+                        "name": "Janet L. Earl",
+                        "description": "supervisor: Video Image"
+                    },
+                    {
+                        "id": "nm0335959",
+                        "name": "David Grasso",
+                        "description": "puppeteer: Kothoga (as Dave Grasso)"
+                    },
+                    {
+                        "id": "nm0354384",
+                        "name": "Ronald E. Hairston",
+                        "description": "key craft service"
+                    },
+                    {
+                        "id": "nm0368861",
+                        "name": "Beth Hathaway",
+                        "description": "puppeteer: Kothoga (as Beth A. Hathaway)"
+                    },
+                    {
+                        "id": "nm0369320",
+                        "name": "Richard Haugen",
+                        "description": "puppeteer: Kothoga"
+                    },
+                    {
+                        "id": "nm0396000",
+                        "name": "Craig Hosking",
+                        "description": "helicopter pilot"
+                    },
+                    {
+                        "id": "nm0432960",
+                        "name": "Mark Jurinko",
+                        "description": "puppeteer: Kothoga"
+                    },
+                    {
+                        "id": "nm0441669",
+                        "name": "David Katz",
+                        "description": "crew: Video Image"
+                    },
+                    {
+                        "id": "nm0559206",
+                        "name": "Laura Matook",
+                        "description": "assistant: Peter Hyams"
+                    },
+                    {
+                        "id": "nm0644072",
+                        "name": "Larry Odien",
+                        "description": "puppeteer: beetle"
+                    },
+                    {
+                        "id": "nm0669402",
+                        "name": "Tim L. Pearson",
+                        "description": "production auditor"
+                    },
+                    {
+                        "id": "nm0693169",
+                        "name": "Larry Potoker",
+                        "description": "crew: Video Image"
+                    },
+                    {
+                        "id": "nm0698045",
+                        "name": "Judith Pritchard",
+                        "description": "production coordinator (as Judy Pritchard)"
+                    },
+                    {
+                        "id": "nm0715062",
+                        "name": "John Redmond",
+                        "description": "police technical advisor"
+                    },
+                    {
+                        "id": "nm0731369",
+                        "name": "Lori M. Roberts",
+                        "description": "first assistant accounting"
+                    },
+                    {
+                        "id": "nm0733715",
+                        "name": "Michael Roccuzzo",
+                        "description": "payroll accountant"
+                    },
+                    {
+                        "id": "nm0788202",
+                        "name": "Adam Shankman",
+                        "description": "choreographer"
+                    },
+                    {
+                        "id": "nm0776871",
+                        "name": "Rick Shuster",
+                        "description": "aerial coordinator / helicopter pilot"
+                    },
+                    {
+                        "id": "nm0798901",
+                        "name": "Debbie Silverman",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0815952",
+                        "name": "Alfred Sousa",
+                        "description": "puppeteer: Kothoga"
+                    },
+                    {
+                        "id": "nm0828953",
+                        "name": "Ian Stevenson",
+                        "description": "puppeteer: Kothoga"
+                    },
+                    {
+                        "id": "nm0842576",
+                        "name": "Christopher Swift",
+                        "description": "puppeteer: Kothoga"
+                    },
+                    {
+                        "id": "nm0883152",
+                        "name": "Dana Kristen Vahle",
+                        "description": "helicopter pilot (as Dirk Vahle)"
+                    },
+                    {
+                        "id": "nm3902289",
+                        "name": "Daniel Wheatcroft",
+                        "description": "studio executive"
+                    },
+                    {
+                        "id": "nm0931667",
+                        "name": "Sean Williams",
+                        "description": "assistant: Gale Anne Hurd"
+                    },
+                    {
+                        "id": "nm0222904",
+                        "name": "Gary DeVore",
+                        "description": "uncredited rewrites (uncredited)"
+                    },
+                    {
+                        "id": "nm0004073",
+                        "name": "Jason Gondek",
+                        "description": "second assistant accountant (uncredited)"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Horror, Mystery, Sci-Fi, Thriller",
+    "genreList": [
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        },
+        {
+            "key": "Sci-Fi",
+            "value": "Sci-Fi"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "British Broadcasting Corporation (BBC), Cloud Nine Entertainment, H2L Media Group",
+    "companyList": [
+        {
+            "id": "co0043107",
+            "name": "British Broadcasting Corporation (BBC)"
+        },
+        {
+            "id": "co0563531",
+            "name": "Cloud Nine Entertainment"
+        },
+        {
+            "id": "co0769935",
+            "name": "H2L Media Group"
+        }
+    ],
+    "countries": "UK, USA, Japan, Germany",
+    "countryList": [
+        {
+            "key": "UK",
+            "value": "UK"
+        },
+        {
+            "key": "USA",
+            "value": "USA"
+        },
+        {
+            "key": "Japan",
+            "value": "Japan"
+        },
+        {
+            "key": "Germany",
+            "value": "Germany"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "5.8",
+    "imDbRatingVotes": "23624",
+    "metacriticRating": "55",
+    "ratings": {
+        "imDbId": "tt0120004",
+        "title": "The Relic",
+        "fullTitle": "The Relic (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "imDb": "5.8",
+        "metacritic": "55",
+        "theMovieDb": "5.9",
+        "rottenTomatoes": "34",
+        "tV_com": "",
+        "filmAffinity": "4.6",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0120004",
+        "title": "The Relic",
+        "fullTitle": "The Relic (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "language": "en",
+        "titleInLanguage": "The Relic (film)",
+        "url": "https://en.wikipedia.org/wiki/The_Relic_(film)",
+        "plotShort": {
+            "plainText": "The Relic (film)\r\nThe Relic is a 1997 science fiction-horror film directed by Peter Hyams and based on the best-selling novel Relic by Douglas Preston and Lincoln Child. The film stars Penelope Ann Miller, Tom Sizemore, and Linda Hunt. In the film, a detective and an anthropologist try to defeat a South-American lizard-like monster who is on a killing spree in a Chicago Museum.\r\nProduction was originally intended to be held at the American Museum of Natural History in New York City. However, executives were concerned that film would scare away children. The Field Museum of Natural History in Chicago offered the studio to shoot the movie at their location instead, taking interest in the film's premise. Filming took place between Chicago and Los Angeles.\r\nThe film was released in the United States on January 10, 1997 by Paramount Pictures and by Universal Pictures in worldwide territories. The film received mixed reviews from critics, and grossed over $48 million worldwide.",
+            "html": "<h2>The Relic (film)</h2><p>The Relic is a 1997 science fiction-horror film directed by Peter Hyams and based on the best-selling novel Relic by Douglas Preston and Lincoln Child. The film stars Penelope Ann Miller, Tom Sizemore, and Linda Hunt. In the film, a detective and an anthropologist try to defeat a South-American lizard-like monster who is on a killing spree in a Chicago Museum.</p><p>Production was originally intended to be held at the American Museum of Natural History in New York City. However, executives were concerned that film would scare away children. The Field Museum of Natural History in Chicago offered the studio to shoot the movie at their location instead, taking interest in the film's premise. Filming took place between Chicago and Los Angeles.</p><p>The film was released in the United States on January 10, 1997 by Paramount Pictures and by Universal Pictures in worldwide territories. The film received mixed reviews from critics, and grossed over $48 million worldwide.</p>"
+        },
+        "plotFull": {
+            "plainText": "The Relic (film)\r\nThe Relic is a 1997 science fiction-horror film directed by Peter Hyams and based on the best-selling novel Relic by Douglas Preston and Lincoln Child. The film stars Penelope Ann Miller, Tom Sizemore, and Linda Hunt. In the film, a detective and an anthropologist try to defeat a South-American lizard-like monster who is on a killing spree in a Chicago Museum.\r\nProduction was originally intended to be held at the American Museum of Natural History in New York City. However, executives were concerned that film would scare away children. The Field Museum of Natural History in Chicago offered the studio to shoot the movie at their location instead, taking interest in the film's premise. Filming took place between Chicago and Los Angeles.\r\nThe film was released in the United States on January 10, 1997 by Paramount Pictures and by Universal Pictures in worldwide territories. The film received mixed reviews from critics, and grossed over $48 million worldwide.\r\nPlot\r\nDr. John Whitney, an anthropologist for the Field Museum of Natural History in Chicago, studies a tribe in South America and drinks a soup made by the tribesmen. Shortly after, Whitney accosts a merchant ship captain, asking him to remove the cargo he had intended to send to Chicago off the ship. Unwilling to delay the ship's departure, the captain refuses and Whitney sneaks aboard. Not finding his cargo, he cries out. Six weeks later, the ship arrives on Lake Michigan with its crew missing. Chicago PD homicide detective Lieutenant Vincent D'Agosta and his partner, Sgt. Hollingsworth, investigate the ship and find dozens of bodies and severed heads in the bilge.\r\nDr. Margo Green, an evolutionary biologist, arrives at work at the museum and discovered that co-worker Dr. Greg Lee is applying for the same research grant she is. Dr. Green and her mentor, Dr. Frock, examine Whitney's crates after their arrival and find the crates empty, except for a bed of leaves and a stone statue of the \"Kothoga\", a mythical forest monster. Margo notices a fungus on the leaves and sends it to be analyzed. That night, security guard Frederick Ford is murdered like the ship's crew. D'Agosta suspects a connection. Believing the killer is still inside the museum, he orders it closed until the police have finished searching. Dr. Ann Cuthbert, the museum director, protests and mentions an important upcoming exhibition.\r\nMargo discovers the fungus contains concentrated hormones found in several animal species. In the container of leaves, she finds a mutated beetle that possesses both insect and reptilian DNA. Ford's autopsy reveals that his hypothalamus was extracted from his brain, like the bodies from the ship. In the museum's basement, the police are startled by a mentally-ill, homeless ex-convict and kill him. Finding Ford's wallet on him, everyone except D'Agosta considers the case closed, though Mayor Robert Owen and the museum\u2019s head of security Tom Parkinson forces D'Agosta to let the exhibition proceed.\r\nOn the opening night, D'Agosta orders a lock-down of all museum areas except the main exhibition hall. Dr. Frock and Margo, trapped in the laboratory wing, continue working and discover Ford's killer is after the hormones on the leaves. D'Agosta and several officers search the basement tunnels once again. They are attacked by an unseen creature, killing K-9 Officer Bradley and a police dog. D'Agosta tells Hollingsworth to evacuate the museum, but he is too late. In the main hall, the headless body of a murdered policeman falls into the crowd, causing a panic. During the hysteria, the museum's alarms are tripped and their security system goes haywire, trapping a small group of people inside. Two security guards try to restore the power but are killed by an unseen creature.\r\nD'Agosta meets Margo and Dr. Frock in the lab, where a Kothoga, an enormous chimeric beast, attacks them; they close a steel door to stop it. Margo theorizes the fungus mutated a smaller creature, and Dr. Frock says that without the leaves to eat, the Kothoga instinctively seeks the closest substitute, human hypothalami, until it runs out of targets and dies; he further postulates that the tribe knew of the fungus, and used it on a human or animal to deal with an external threat, then hid until the threat was destroyed and the Kothoga died of \"starvation.\" D'Agosta finds a radio and tells Hollingsworth to lead the museum guests out via an old coal tunnel. Tom, Lee, and Mr. and Mrs. Blaisedale refuse to go, and CPD officer McNally stays behind to guard them; the Kothoga returns to the main hall and murders them and the S.W.A.T. officers who enter through the skylights.\r\nMargo suggests using liquid nitrogen to kill the Kothoga, as it is part-reptilian and likely cold-blooded. While collecting the remaining leaves in the lab, Margo and D'Agosta discover Dr. Frock has been killed. In the sewers, D'Agosta uses the leaves to lure the Kothoga away from the coal tunnel, allowing the guests to escape, though CPD officer Bailey and a guest are both killed. However, liquid nitrogen has no effect on the creature. Margo and D'Agosta flee. In the lab, her computer completes the analysis of the creature's human DNA, revealing John Whitney is the Kothoga, mutated after drinking the tribesmen's soup.\r\nThe Kothoga smashes into the lab through the ceiling, while D'Agosta is locked outside. The creature chases Margo, corners her, and suddenly pauses, seemingly recognizing her. Margo starts an explosive fire that destroys the Kothoga, surviving by hiding inside a maceration tank. As dawn comes, D'Agosta and a team of police break into the lab, see the charred remains of the Kothoga, and rescue Margo from the tank.\r\nCast\r\nPenelope Ann Miller as Dr. Margo Green, museum evolutionary biologist\r\nTom Sizemore as Lt. Vincent D'Agosta, Chicago police detective\r\nLinda Hunt as Dr. Ann Cuthbert, museum curator\r\nJames Whitmore as Dr. Albert Frock, museum scientist and Margo's mentor\r\nClayton Rohner as Sgt. Hollingsworth, junior police detective and D'Agosta's subordinate\r\nChi Muoi Lo as Dr. Greg Lee, an ambitious museum scientist trying to apply the same research grant away from Margo.\r\nThomas Ryan as Tom Parkinson, the museum's head of security\r\nRobert Lesser as Mayor Robert Owen\r\nDiane Robin as Mrs. Owen, Mayor Owen's wife\r\nLewis Van Bergen as Dr. John Whitney, museum anthropologist who went missing after his expedition in South America. John Withney turns into a monster The Kothoga, ingesting the mushrooms.\r\nFrancis X. McCarthy as Mr. Blaisedale, a wealthy museum benefactor\r\nConstance Towers as Mrs. Blaisedale, Mr. Blaisedale's wife\r\nAudra Lindley as Dr. Zwiezic, medical examiner\r\nJohn Kapelos as McNally, Chicago Police officer\r\nTico Wells as Bailey, Chicago Police officer\r\nMike Bacarella as Bradley, Chicago Police K-9 officer\r\nGene Davis as Martini, crime scene investigator\r\nJohn DiSanti as Wootton, museum security guard\r\nDavid Proval as Johnson, museum security guard\r\nJophery Brown as Frederick Ford, museum security guard\r\nLyn Alicia Henderson as Perri Masai, restoration technician\r\nDon Harvey as Spota\r\nProduction\r\nThe Relic was based on the horror novel by Douglas Preston, an ex-journalist and former public relations director for the American Museum of Natural History in New York City, and Lincoln Child (though it omits their major character, FBI agent Pendergast).\r\nIt was developed by the team of Frank Marshall and Kathleen Kennedy.\r\nPeter Hyams was hired to direct. \"I don't think you can scare people, unless you involve them,\" said Hyams. \"A movie like this has to be intelligent.\"\r\nBecause the novel portrayed the museum's administration in an unflattering light, they turned the film's producers down. Paramount Pictures offered the museum a seven-figure sum of money to film there, but the administration was worried that the monster movie would scare kids away from the museum. The producers were faced with a problem as only museums in Chicago and Washington, D.C., resembled the one in New York. The Field Museum of Natural History in Chicago loved the premise and allowed them to shoot there.\r\nPenelope Ann Miller had not done a horror film prior to The Relic but was drawn to director Peter Hyams' desire to have a strong, smart female lead. Tom Sizemore was attracted to the film because he got to play the male lead: \"I had the responsibility of pushing the narrative forward.\"\r\nMakeup artist Stan Winston and his team made three creatures with two people moving the heads and people on the side working the electronics to move the arms, claws, mouth, and so on. Hyams reviewed Winston's early drawings and his only suggestion was to make the monster more hideous looking. The director also suggested certain invertebrates for inspiration and Winston came up with an arachnoid outline for the monster's face. In the scenes where the creature is running or jumping, a computer-generated version was used.\r\nIn addition to shooting on location in Chicago, a set was built in Los Angeles of a tunnel flooded with water. Sizemore spent most of the shoot either damp, cold or soaking wet and, as a result, caught the flu twice. The production was shut down briefly when Hyams became too sick to work.\r\nRelease\r\nThe Relic premi\u00e8red on January 17, 1997. It opened #1 at the box office, grossing $9,064,143 its opening week and a total of $33,956,608 in the US, against an estimated cost $60 million. It was released on Blu-ray on April 6, 2010.\r\nReception\r\nOn review aggregator Rotten Tomatoes, The Relic holds an approval rating of 34%, based on 32 reviews, and an average rating of 4.52/10. On Metacritic, the film has a weighted average score of 55 out of 100, based on 14 critics, indicating \"mixed or average reviews\". Audiences polled by CinemaScore gave the film an average grade of \"B-\" on an A+ to F scale.\r\nJames Berardinelli of Reel Views said that \"when all is said and done, this horror/science fiction amalgamation seems like nothing more ambitious than a bad reworking of elements from Aliens, Species, Jaws, and Predator.\"\r\nPositive reviews came from critics Roger Ebert and Gene Siskel; Siskel described the film as \"surprisingly entertaining\", and Ebert said that the film was clever in how it \"combines the conventions of the horror and disaster genres\" and \"is actually a lot of fun, if you like special effects and gore.\"\r\nFilm historian Leonard Maltin gave the movie 2.5 out of a possible 4 stars, summing it up as \"Alien in a museum\".\r\nPeter Stack of San Francisco Chronicle gave the film a mixed review, stating,\" 'The Relic' will quickly fade to video, where it might fare well as a bump-in-the-night benefiting from the fast-forward button.\"\r\nRussell Smith of The Austin Chronicle gave the film a 2.5/5 stating, \"Long story short: This film stands as a near-perfect specimen of two hardy cinema archetypes \u2013 the cheesy but diverting creature feature and the weekend bargain matinee.\"\r\nIn a more negative review, Richard Harrington of The Washington Post stated, \"It\u2019s a familiar story in the horror film business: good novel, terrible adaptation (just ask Stephen King and Clive Barker). As written by Douglas Preston and Lincoln Child, \"The Relic\" deserved to be taken off the shelf; as adapted by a quartet of screenwriters and directed by Peter Hyams, it should have been left on one.\"\r\nThe film was nominated for multiple science-fiction and fantasy awards, including best horror film and best actress (for Penelope Ann Miller) at the 1997 Saturn Awards.",
+            "html": "<h2>The Relic (film)</h2><p>The Relic is a 1997 science fiction-horror film directed by Peter Hyams and based on the best-selling novel Relic by Douglas Preston and Lincoln Child. The film stars Penelope Ann Miller, Tom Sizemore, and Linda Hunt. In the film, a detective and an anthropologist try to defeat a South-American lizard-like monster who is on a killing spree in a Chicago Museum.</p><p>Production was originally intended to be held at the American Museum of Natural History in New York City. However, executives were concerned that film would scare away children. The Field Museum of Natural History in Chicago offered the studio to shoot the movie at their location instead, taking interest in the film's premise. Filming took place between Chicago and Los Angeles.</p><p>The film was released in the United States on January 10, 1997 by Paramount Pictures and by Universal Pictures in worldwide territories. The film received mixed reviews from critics, and grossed over $48 million worldwide.</p><br/><h3>Plot</h3><p>Dr. John Whitney, an anthropologist for the Field Museum of Natural History in Chicago, studies a tribe in South America and drinks a soup made by the tribesmen. Shortly after, Whitney accosts a merchant ship captain, asking him to remove the cargo he had intended to send to Chicago off the ship. Unwilling to delay the ship's departure, the captain refuses and Whitney sneaks aboard. Not finding his cargo, he cries out. Six weeks later, the ship arrives on Lake Michigan with its crew missing. Chicago PD homicide detective Lieutenant Vincent D'Agosta and his partner, Sgt. Hollingsworth, investigate the ship and find dozens of bodies and severed heads in the bilge.</p><p>Dr. Margo Green, an evolutionary biologist, arrives at work at the museum and discovered that co-worker Dr. Greg Lee is applying for the same research grant she is. Dr. Green and her mentor, Dr. Frock, examine Whitney's crates after their arrival and find the crates empty, except for a bed of leaves and a stone statue of the \"Kothoga\", a mythical forest monster. Margo notices a fungus on the leaves and sends it to be analyzed. That night, security guard Frederick Ford is murdered like the ship's crew. D'Agosta suspects a connection. Believing the killer is still inside the museum, he orders it closed until the police have finished searching. Dr. Ann Cuthbert, the museum director, protests and mentions an important upcoming exhibition.</p><p>Margo discovers the fungus contains concentrated hormones found in several animal species. In the container of leaves, she finds a mutated beetle that possesses both insect and reptilian DNA. Ford's autopsy reveals that his hypothalamus was extracted from his brain, like the bodies from the ship. In the museum's basement, the police are startled by a mentally-ill, homeless ex-convict and kill him. Finding Ford's wallet on him, everyone except D'Agosta considers the case closed, though Mayor Robert Owen and the museum\u2019s head of security Tom Parkinson forces D'Agosta to let the exhibition proceed.</p><p>On the opening night, D'Agosta orders a lock-down of all museum areas except the main exhibition hall. Dr. Frock and Margo, trapped in the laboratory wing, continue working and discover Ford's killer is after the hormones on the leaves. D'Agosta and several officers search the basement tunnels once again. They are attacked by an unseen creature, killing K-9 Officer Bradley and a police dog. D'Agosta tells Hollingsworth to evacuate the museum, but he is too late. In the main hall, the headless body of a murdered policeman falls into the crowd, causing a panic. During the hysteria, the museum's alarms are tripped and their security system goes haywire, trapping a small group of people inside. Two security guards try to restore the power but are killed by an unseen creature.</p><p>D'Agosta meets Margo and Dr. Frock in the lab, where a Kothoga, an enormous chimeric beast, attacks them; they close a steel door to stop it. Margo theorizes the fungus mutated a smaller creature, and Dr. Frock says that without the leaves to eat, the Kothoga instinctively seeks the closest substitute, human hypothalami, until it runs out of targets and dies; he further postulates that the tribe knew of the fungus, and used it on a human or animal to deal with an external threat, then hid until the threat was destroyed and the Kothoga died of \"starvation.\" D'Agosta finds a radio and tells Hollingsworth to lead the museum guests out via an old coal tunnel. Tom, Lee, and Mr. and Mrs. Blaisedale refuse to go, and CPD officer McNally stays behind to guard them; the Kothoga returns to the main hall and murders them and the S.W.A.T. officers who enter through the skylights.</p><p>Margo suggests using liquid nitrogen to kill the Kothoga, as it is part-reptilian and likely cold-blooded. While collecting the remaining leaves in the lab, Margo and D'Agosta discover Dr. Frock has been killed. In the sewers, D'Agosta uses the leaves to lure the Kothoga away from the coal tunnel, allowing the guests to escape, though CPD officer Bailey and a guest are both killed. However, liquid nitrogen has no effect on the creature. Margo and D'Agosta flee. In the lab, her computer completes the analysis of the creature's human DNA, revealing John Whitney is the Kothoga, mutated after drinking the tribesmen's soup.</p><p>The Kothoga smashes into the lab through the ceiling, while D'Agosta is locked outside. The creature chases Margo, corners her, and suddenly pauses, seemingly recognizing her. Margo starts an explosive fire that destroys the Kothoga, surviving by hiding inside a maceration tank. As dawn comes, D'Agosta and a team of police break into the lab, see the charred remains of the Kothoga, and rescue Margo from the tank.</p><br/><h3>Cast</h3><ul><li>Penelope Ann Miller as Dr. Margo Green, museum evolutionary biologist</li><li>Tom Sizemore as Lt. Vincent D'Agosta, Chicago police detective</li><li>Linda Hunt as Dr. Ann Cuthbert, museum curator</li><li>James Whitmore as Dr. Albert Frock, museum scientist and Margo's mentor</li><li>Clayton Rohner as Sgt. Hollingsworth, junior police detective and D'Agosta's subordinate</li><li>Chi Muoi Lo as Dr. Greg Lee, an ambitious museum scientist trying to apply the same research grant away from Margo.</li><li>Thomas Ryan as Tom Parkinson, the museum's head of security</li><li>Robert Lesser as Mayor Robert Owen</li><li>Diane Robin as Mrs. Owen, Mayor Owen's wife</li><li>Lewis Van Bergen as Dr. John Whitney, museum anthropologist who went missing after his expedition in South America. John Withney turns into a monster The Kothoga, ingesting the mushrooms.</li><li>Francis X. McCarthy as Mr. Blaisedale, a wealthy museum benefactor</li><li>Constance Towers as Mrs. Blaisedale, Mr. Blaisedale's wife</li><li>Audra Lindley as Dr. Zwiezic, medical examiner</li><li>John Kapelos as McNally, Chicago Police officer</li><li>Tico Wells as Bailey, Chicago Police officer</li><li>Mike Bacarella as Bradley, Chicago Police K-9 officer</li><li>Gene Davis as Martini, crime scene investigator</li><li>John DiSanti as Wootton, museum security guard</li><li>David Proval as Johnson, museum security guard</li><li>Jophery Brown as Frederick Ford, museum security guard</li><li>Lyn Alicia Henderson as Perri Masai, restoration technician</li><li>Don Harvey as Spota</li></ul><br/><h3>Production</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><td class=\"mbox-text\"><span class=\"ambox-learn-more\">Learn more</span><div class=\"mw-ui-icon mw-ui-icon-minerva-issue-severity-medium-mediumColor mw-ui-icon-element mw-ui-icon-flush-top mw-ui-icon-small\"></div><div class=\"mbox-text-span\">This section may need to be <b>rewritten</b> to comply with Wikipedia's <span>quality standards</span>.<span class=\"hide-when-compact\"> <span class=\"external text\">You can help</span>. The <span>discussion page</span> may contain suggestions.</span>  <small class=\"date-container\"><i>(<span class=\"date\">September 2019</span>)</i></small></div></td></tr></tbody></table><p>The Relic was based on the horror novel by Douglas Preston, an ex-journalist and former public relations director for the American Museum of Natural History in New York City, and Lincoln Child (though it omits their major character, FBI agent Pendergast).</p><p>It was developed by the team of Frank Marshall and Kathleen Kennedy.</p><p>Peter Hyams was hired to direct. \"I don't think you can scare people, unless you involve them,\" said Hyams. \"A movie like this has to be intelligent.\"</p><p>Because the novel portrayed the museum's administration in an unflattering light, they turned the film's producers down. Paramount Pictures offered the museum a seven-figure sum of money to film there, but the administration was worried that the monster movie would scare kids away from the museum. The producers were faced with a problem as only museums in Chicago and Washington, D.C., resembled the one in New York. The Field Museum of Natural History in Chicago loved the premise and allowed them to shoot there.</p><p>Penelope Ann Miller had not done a horror film prior to The Relic but was drawn to director Peter Hyams' desire to have a strong, smart female lead. Tom Sizemore was attracted to the film because he got to play the male lead: \"I had the responsibility of pushing the narrative forward.\"</p><p>Makeup artist Stan Winston and his team made three creatures with two people moving the heads and people on the side working the electronics to move the arms, claws, mouth, and so on. Hyams reviewed Winston's early drawings and his only suggestion was to make the monster more hideous looking. The director also suggested certain invertebrates for inspiration and Winston came up with an arachnoid outline for the monster's face. In the scenes where the creature is running or jumping, a computer-generated version was used.</p><p>In addition to shooting on location in Chicago, a set was built in Los Angeles of a tunnel flooded with water. Sizemore spent most of the shoot either damp, cold or soaking wet and, as a result, caught the flu twice. The production was shut down briefly when Hyams became too sick to work.</p><br/><h3>Release</h3><p>The Relic premi\u00e8red on January 17, 1997. It opened #1 at the box office, grossing $9,064,143 its opening week and a total of $33,956,608 in the US, against an estimated cost $60 million. It was released on Blu-ray on April 6, 2010.</p><br/><h3>Reception</h3><p>On review aggregator Rotten Tomatoes, The Relic holds an approval rating of 34%, based on 32 reviews, and an average rating of 4.52/10. On Metacritic, the film has a weighted average score of 55 out of 100, based on 14 critics, indicating \"mixed or average reviews\". Audiences polled by CinemaScore gave the film an average grade of \"B-\" on an A+ to F scale.</p><p>James Berardinelli of Reel Views said that \"when all is said and done, this horror/science fiction amalgamation seems like nothing more ambitious than a bad reworking of elements from Aliens, Species, Jaws, and Predator.\"</p><p>Positive reviews came from critics Roger Ebert and Gene Siskel; Siskel described the film as \"surprisingly entertaining\", and Ebert said that the film was clever in how it \"combines the conventions of the horror and disaster genres\" and \"is actually a lot of fun, if you like special effects and gore.\"</p><p>Film historian Leonard Maltin gave the movie 2.5 out of a possible 4 stars, summing it up as \"Alien in a museum\".</p><p>Peter Stack of San Francisco Chronicle gave the film a mixed review, stating,\" 'The Relic' will quickly fade to video, where it might fare well as a bump-in-the-night benefiting from the fast-forward button.\"</p><p>Russell Smith of The Austin Chronicle gave the film a 2.5/5 stating, \"Long story short: This film stands as a near-perfect specimen of two hardy cinema archetypes \u2013 the cheesy but diverting creature feature and the weekend bargain matinee.\"</p><p>In a more negative review, Richard Harrington of The Washington Post stated, \"It\u2019s a familiar story in the horror film business: good novel, terrible adaptation (just ask Stephen King and Clive Barker). As written by Douglas Preston and Lincoln Child, \"The Relic\" deserved to be taken off the shelf; as adapted by a quartet of screenwriters and directed by Peter Hyams, it should have been left on one.\"</p><p>The film was nominated for multiple science-fiction and fantasy awards, including best horror film and best actress (for Penelope Ann Miller) at the 1997 Saturn Awards.</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0120004",
+        "title": "The Relic",
+        "fullTitle": "The Relic (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "posters": [
+            {
+                "id": "3MpMbZTrXp6ccrir16nV7YTJ4vx.jpg",
+                "link": "https://imdb-api.com/posters/original/3MpMbZTrXp6ccrir16nV7YTJ4vx.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
+                "link": "https://imdb-api.com/posters/original/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "yvQaOoCpwhYj6GZ0KhhSeDhTeYS.jpg",
+                "link": "https://imdb-api.com/posters/original/yvQaOoCpwhYj6GZ0KhhSeDhTeYS.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0120004",
+        "title": "The Relic",
+        "fullTitle": "The Relic (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "items": [
+            {
+                "title": "Penelope Ann Miller and Tom Sizemore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwNDkzNjg4N15BMl5BanBnXkFtZTYwODUzMTI3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tom Sizemore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNTE0NjQ3MTAxOV5BMl5BanBnXkFtZTYwMDYzMTI3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tom Sizemore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0MTUzOTE1Nl5BMl5BanBnXkFtZTYwNjYzMTI3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Martin S. Tellez, Traditional Aztec Dancer",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwMTM0MjQ0MF5BMl5BanBnXkFtZTcwOTI5MDgyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Emily Mortimer, Robyn Nevin, Bella Heathcote, and Natalie Erika James at an event for The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTlhNWVjZjYtNTIyMi00ZDc3LWIyNGQtMWJlZWI2NDZmNTU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZThkZDdmNTAtMDg2ZS00NzViLTg0NDUtNzUwZGM3ZTQwNTIxXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "1 sheet",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0ODg2MzQzOF5BMl5BanBnXkFtZTYwMDQxMTc4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNDUwNjc4Njk3MV5BMl5BanBnXkFtZTYwMTE0OTg5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAyMTAyMTgxNjReQTJeQWpwZ15BbWU3MDIxNTI0MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3NDI4Nzk3Ml5BMl5BanBnXkFtZTYwMjQ3NTE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNTc0NjY3MDQyMF5BMl5BanBnXkFtZTYwNTY4MTM5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2NjM0NDQ2NF5BMl5BanBnXkFtZTYwNjk2NzU5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyMTA3NTI3Nl5BMl5BanBnXkFtZTYwNzE3NTY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3Mzg1ODM5OF5BMl5BanBnXkFtZTYwMTM5NTY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMzI4Njc3NDI2OV5BMl5BanBnXkFtZTYwNDI0NjY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQwMDYyNTkwNl5BMl5BanBnXkFtZTYwOTI4MDc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNjQxNzg0NTYwOF5BMl5BanBnXkFtZTcwMDkyNTgxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3Njg0NjI1OV5BMl5BanBnXkFtZTcwMTc4NjAyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3ODE3NDA3NF5BMl5BanBnXkFtZTcwNjg5NzIyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNjk5ODU0MDIyM15BMl5BanBnXkFtZTcwODk2ODMyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxMDc3MDMwMF5BMl5BanBnXkFtZTcwNjkwMTMyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2NjQ5NzI2Ml5BMl5BanBnXkFtZTcwMTI4NTMyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzMjA3NTU3M15BMl5BanBnXkFtZTcwMDMxNzcyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZWFhZWJhMzctMDQ4Yy00MmVmLWFmODYtYjVlODc3MzVlZTI3XkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio2.4800_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZTcyZjdmZjgtZTM2NS00OTc5LWJiYzYtYTY4N2FmMTJkYjBlXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BOTRiZmQ3NGUtMmE1OC00ZWY2LWI4NTUtOWZiZmI4MmI1ZmEzXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio2.4800_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYzc2NTQxMDUtNmQ0ZC00YzFmLWE1MTMtNzkxMjU4YmFlMjgyXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio2.4400_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BODhjNjdhYWUtYTM1Mi00NDBmLWI4NTctYzQwNzc4ZGNhMTkwXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "James Whitmore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BY2MwZDU2Y2UtMTcwOS00MDdiLThhZTUtZTNjZDI2ZTA4NmJmXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Tom Sizemore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNmE5ZDEwYzEtN2ViNi00YjkyLTkwYmEtYjkzMDUxN2M0OTBjXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZDVjYjhlY2EtNDExYy00ODJhLWIxNjEtNTA0MjkwMWQxZWNjXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Tom Sizemore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYmFmYjQwYjgtOWU3Mi00ZDgwLWEwOTUtZTFkNGI2YWM4OTBjXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Tom Sizemore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNzRjMTdjYzMtYWIyMS00M2ZjLWFlOTktNjIwNmY2NGEwNWJkXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Penelope Ann Miller in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BODVlMDQ0NTQtZTRkYi00ZTU1LTg4OTMtNDA3N2JhNDQ1MWIzXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "James Whitmore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BOTRjYTMyZjctNzAxZS00ODNkLTg0ODAtMDFkOTMxNzBjNTFjXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Tom Sizemore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNzg5Yzk1NzItZTNhYi00ZmQyLTk1ZTYtMjkzMmJiZDM2ZDVkXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Penelope Ann Miller in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BM2E1ZGYzYzctZjhhZS00OTZlLTk3MGItYjc5ZDI4YzE0MThiXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMGM3M2VkYTktMjFlZS00ZTAyLWI2OWMtN2UzYTI5ZDZhMjRkXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Linda Hunt in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BOTRjMDRmMDYtYjQ4NS00NDk3LWJlNzQtZjNjYzdlM2E3MmU2XkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BM2FlN2ExOGItODUwMi00MmZlLThkOTgtNTBmMmVmZmY5NTIwXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BOGQ4Y2ZjMmMtNmI4NS00ZjQwLThlNzMtOTA0OTgwYjZmNGM4XkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Tom Sizemore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMGVhOTYzNDUtNDY0YS00YjI1LThkODAtOTQ1ZTViMGZiMzMzXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Linda Hunt and James Whitmore in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMGNhMzgwMDktZmM2Yy00MmJhLWIzODgtMDg1MDNhNmYxZDY5XkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMDRkNDdmZTgtMDc1Yi00NmFkLWFjMTItYzkzYzI2NDc1OGU1XkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNDdmOWU0YzQtOTExMC00NDVlLWE2MmYtNzU5MDdmMTk1MDk5XkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7200_AL_.jpg"
+            },
+            {
+                "title": "Clayton Rohner in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYTk4YjZjNzAtODZmYy00ZDY4LTkxOGQtMzYxYzBiZDJlYWQyXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMzBiY2VhOTMtZGFkMy00MDQ0LWI2OTAtNTJmNjkyNmY5NjI3XkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Penelope Ann Miller in The Relic (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZTI3ZjUwNjYtZTc3Zi00MTE5LTk0NmQtZDA4ZDk0MjgzYTA1XkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_Ratio1.7800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0120004",
+        "title": "The Relic",
+        "fullTitle": "The Relic (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "videoId": "vi2423305241",
+        "videoTitle": "The Relic",
+        "videoDescription": "Home Video Trailer from Paramount Home Entertainment",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDgxMDQ5ODItMzM4NC00NGIxLTk2MzYtMTA4ZDg5NTUyYmRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "06/03/2016 22:12:23",
+        "link": "https://www.imdb.com/video/vi2423305241",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi2423305241/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$40,000,000 (estimated)",
+        "openingWeekendUSA": "$9,064,143, 12 January 1997",
+        "grossUSA": "$33,956,608",
+        "cumulativeWorldwideGross": "$33,956,608"
+    },
+    "tagline": "A mind is a terrible thing to waste... Especially if you're really hungry",
+    "keywords": "relic,museum,human versus monster,police sergeant,giant bug",
+    "keywordList": [
+        "relic",
+        "museum",
+        "human versus monster",
+        "police sergeant",
+        "giant bug"
+    ],
+    "similars": [
+        {
+            "id": "tt0119675",
+            "title": "Mimic",
+            "fullTitle": "Mimic (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BODk4MjRkODctOTVjNS00MmI2LTg0Y2ItMWQyMzdkZDU3MzMyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "Three years ago, entomologist Dr. Susan Tyler genetically created an insect to kill cockroaches carrying a virulent disease. Now, the insects are out to destroy their only predator, mankind.",
+            "directors": "Guillermo del Toro",
+            "stars": "Mira Sorvino, Jeremy Northam, Alexander Goodwin",
+            "genres": "Horror, Sci-Fi",
+            "imDbRating": "5.9"
+        },
+        {
+            "id": "tt0118956",
+            "title": "Deep Rising",
+            "fullTitle": "Deep Rising (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BMTJmY2ZiNzMtNTBhOC00MDlkLWJlYzUtYWIyNDAyZDM1OWQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A group of heavily armed hijackers board a luxury ocean liner in the South Pacific Ocean to loot it, only to do battle with a series of large-sized, tentacled, man-eating sea creatures who had already invaded the ship.",
+            "directors": "Stephen Sommers",
+            "stars": "Treat Williams, Famke Janssen, Anthony Heald",
+            "genres": "Action, Adventure, Horror",
+            "imDbRating": "6.1"
+        },
+        {
+            "id": "tt0097737",
+            "title": "Leviathan",
+            "fullTitle": "Leviathan (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BMDk2ZTljOTYtYTUxNC00MjA3LThlODMtYzY2YTEwODAyMDkyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An American deep-sea mining colony stumbles upon a sunken Soviet vessel hiding a horrific secret.",
+            "directors": "George P. Cosmatos",
+            "stars": "Peter Weller, Richard Crenna, Amanda Pays",
+            "genres": "Adventure, Horror, Mystery",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt0097179",
+            "title": "DeepStar Six",
+            "fullTitle": "DeepStar Six (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BNjEyMDJhMTYtM2FjMC00NDNiLWFmYzgtOGExZjBiNmMyZDU4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "At the bottom of the ocean, the DeepStar Six has just discovered a new and deadly alien menace.",
+            "directors": "Sean S. Cunningham",
+            "stars": "Greg Evigan, Nancy Everhard, Taurean Blacque",
+            "genres": "Action, Horror, Sci-Fi",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt0119891",
+            "title": "Phantoms",
+            "fullTitle": "Phantoms (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BNTM2ZmEwZTEtOGI4OC00NDJlLWFhYWUtNGIyMDU5NGE5OTE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "One hundred fifty dead, and three hundred fifty missing in the tiny mountain town of Snowfield, Colorado, and that's only the beginning.",
+            "directors": "Joe Chappelle",
+            "stars": "Peter O'Toole, Rose McGowan, Joanna Going",
+            "genres": "Horror, Sci-Fi, Thriller",
+            "imDbRating": "5.5"
+        },
+        {
+            "id": "tt0120458",
+            "title": "Virus",
+            "fullTitle": "Virus (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BNGRiMmNmZGMtOGMwZi00MjMwLTkzZTQtNDViODE2ZmFiZWUzXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When the crew of an American tugboat boards an abandoned Russian research vessel, the alien life form aboard regards them as a virus which must be destroyed.",
+            "directors": "John Bruno",
+            "stars": "Jamie Lee Curtis, Donald Sutherland, William Baldwin",
+            "genres": "Action, Horror, Sci-Fi",
+            "imDbRating": "5"
+        },
+        {
+            "id": "tt0114367",
+            "title": "Screamers",
+            "fullTitle": "Screamers (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BM2M2ZGM0NDUtODRhNS00MjcxLTg3ZWYtYjkyZDJkYmVjOWYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Soldiers attempting to negotiate the end to a long-running war discover the robots they built to assassinate enemy combatants have gained sentience and are plotting against both sides.",
+            "directors": "Christian Duguay",
+            "stars": "Peter Weller, Roy Dupuis, Jennifer Rubin",
+            "genres": "Horror, Sci-Fi, Thriller",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt0114508",
+            "title": "Species",
+            "fullTitle": "Species (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BMjEzOTkxNTcyM15BMl5BanBnXkFtZTcwOTk0MjI3NA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A group of scientists try to track down and trap a killer alien seductress before she successfully mates with a human.",
+            "directors": "Roger Donaldson",
+            "stars": "Natasha Henstridge, Michael Madsen, Ben Kingsley",
+            "genres": "Action, Horror, Sci-Fi",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt0099701",
+            "title": "The Rift",
+            "fullTitle": "The Rift (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BMGQ1Y2E5NmYtNDMxNC00MDQ5LWI0NjYtNzFkMzNlOGM2MWYyXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "An experimental submarine, the \"Siren II\", is sent to find out what happened to the \"Siren I\", which has mysteriously disappeared in a submarine rift. Things go awry when they begin to find... See full summary \u00bb",
+            "directors": "Juan Piquer Sim\u00f3n",
+            "stars": "Jack Scalia, R. Lee Ermey, Ray Wise",
+            "genres": "Action, Adventure, Horror",
+            "imDbRating": "4.7"
+        },
+        {
+            "id": "tt0139414",
+            "title": "Lake Placid",
+            "fullTitle": "Lake Placid (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BNTYwYjlkYzUtNmU2YS00NmI0LTk2YTgtYmZkYWEzNDc5NzEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Three people attempt to stop a gigantic crocodile, who is terrorizing residents in Black Lake, Maine.",
+            "directors": "Steve Miner",
+            "stars": "Bridget Fonda, Bill Pullman, Oliver Platt",
+            "genres": "Action, Comedy, Horror",
+            "imDbRating": "5.7"
+        },
+        {
+            "id": "tt0146675",
+            "title": "End of Days",
+            "fullTitle": "End of Days (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BYWM3MTMwYTYtNTVmOC00NWU2LWJjNmMtY2YwMDM4NWM4NDhiXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "At the end of the century, Satan visits New York in search of a bride. It's up to an ex-cop who now runs an elite security outfit to stop him.",
+            "directors": "Peter Hyams",
+            "stars": "Arnold Schwarzenegger, Gabriel Byrne, Robin Tunney",
+            "genres": "Action, Fantasy, Horror",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt0099052",
+            "title": "Arachnophobia",
+            "fullTitle": "Arachnophobia (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BMjExNTcyMjI2Ml5BMl5BanBnXkFtZTgwMDgwNTg4NjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A species of South American killer spider hitches a lift to the U.S. in a coffin and starts to breed and kill.",
+            "directors": "Frank Marshall",
+            "stars": "Jeff Daniels, Julian Sands, John Goodman",
+            "genres": "Comedy, Fantasy, Horror",
+            "imDbRating": "6.4"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
