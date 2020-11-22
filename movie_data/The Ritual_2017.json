@@ -1,0 +1,1797 @@
+{
+    "id": "tt5638642",
+    "title": "The Ritual",
+    "originalTitle": "",
+    "fullTitle": "The Ritual (2017)",
+    "type": "Movie",
+    "year": "2017",
+    "image": "https://imdb-api.com/images/original/MV5BMjAzMzAyMDI4Ml5BMl5BanBnXkFtZTgwODMwOTY2NDM@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2017-10-11",
+    "runtimeMins": "94",
+    "runtimeStr": "1h 34mins",
+    "plot": "A group of college friends reunite for a trip to the forest, but encounter a menacing presence in the woods that's stalking them.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "4 wins & 3 nominations.",
+    "directors": "David Bruckner",
+    "directorList": [
+        {
+            "id": "nm1410159",
+            "name": "David Bruckner"
+        }
+    ],
+    "writers": "Joe Barton, Adam Nevill",
+    "writerList": [
+        {
+            "id": "nm3620967",
+            "name": "Joe Barton"
+        },
+        {
+            "id": "nm8072788",
+            "name": "Adam Nevill"
+        }
+    ],
+    "stars": "Rafe Spall, Arsher Ali, Robert James-Collier, Sam Troughton",
+    "starList": [
+        {
+            "id": "nm1245863",
+            "name": "Rafe Spall"
+        },
+        {
+            "id": "nm2468782",
+            "name": "Arsher Ali"
+        },
+        {
+            "id": "nm1674947",
+            "name": "Robert James-Collier"
+        },
+        {
+            "id": "nm0873744",
+            "name": "Sam Troughton"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm1245863",
+            "image": "https://imdb-api.com/images/original/MV5BNzU3OTIzMzM1OF5BMl5BanBnXkFtZTcwMDc1MDkwOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rafe Spall",
+            "asCharacter": "Luke"
+        },
+        {
+            "id": "nm2468782",
+            "image": "https://imdb-api.com/images/original/MV5BODgyNTQxOGMtOTRkYS00ODQ3LTg4NTItOTcxNmMwN2MwMjU3XkEyXkFqcGdeQXVyMTYxODQzOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Arsher Ali",
+            "asCharacter": "Phil"
+        },
+        {
+            "id": "nm1674947",
+            "image": "https://imdb-api.com/images/original/MV5BNjgxNzg3MTM4Ml5BMl5BanBnXkFtZTcwMzI2NzAzNw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Robert James-Collier",
+            "asCharacter": "Hutch"
+        },
+        {
+            "id": "nm0873744",
+            "image": "https://imdb-api.com/images/original/MV5BMTYyNzA5ODgzOV5BMl5BanBnXkFtZTcwNTE3NDcyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sam Troughton",
+            "asCharacter": "Dom"
+        },
+        {
+            "id": "nm2050660",
+            "image": "https://imdb-api.com/images/original/MV5BMzA0NDM0ZTctMWY2ZS00MWU3LThjYmQtY2Q0N2MxZWY2ZDQ2XkEyXkFqcGdeQXVyMzI1OTc4NjA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Reid",
+            "asCharacter": "Robert"
+        },
+        {
+            "id": "nm2765916",
+            "image": "https://imdb-api.com/images/original/MV5BM2UzZTBiNzktMjg4Yy00ZDk4LWE4OTUtYjg4ZThhYWZjYzNkXkEyXkFqcGdeQXVyNjM5NTAzMDg@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Matthew Needham",
+            "asCharacter": "Junkie"
+        },
+        {
+            "id": "nm5696905",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jacob James Beswick",
+            "asCharacter": "Fiend"
+        },
+        {
+            "id": "nm1799627",
+            "image": "https://imdb-api.com/images/original/MV5BYmI4ZjQ4MzUtMjJkOS00ZmI4LWI3YzQtMTIxYjc0YjhjNzc1XkEyXkFqcGdeQXVyNTg1NTc1NDY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Maria Erwolter",
+            "asCharacter": "The Host"
+        },
+        {
+            "id": "nm9365455",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hilary Reeves",
+            "asCharacter": "The Curate"
+        },
+        {
+            "id": "nm8755070",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Liddell",
+            "asCharacter": "The Logger"
+        },
+        {
+            "id": "nm6130483",
+            "image": "https://imdb-api.com/images/original/MV5BNDlhYzhmZDktOTgyMC00MzJkLTg4ZDMtZDM0NDQwZWJiYzU0XkEyXkFqcGdeQXVyNzU0NjU2Mjg@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Francesca Mula",
+            "asCharacter": "The Witch"
+        },
+        {
+            "id": "nm1667723",
+            "image": "https://imdb-api.com/images/original/MV5BNzU3OTgyNjAxOF5BMl5BanBnXkFtZTgwMjQzMDg2MjE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Kerri McLean",
+            "asCharacter": "Gayle"
+        },
+        {
+            "id": "nm9600124",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gheorghe Mezei",
+            "asCharacter": "Parishioner"
+        },
+        {
+            "id": "nm9600125",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Adriana Macsut",
+            "asCharacter": "Parishioner"
+        },
+        {
+            "id": "nm6589030",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Constantin Codrea",
+            "asCharacter": "Parishioner (as Constantin Liviu Codrea)"
+        },
+        {
+            "id": "nm4236719",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Zane Jarcu",
+            "asCharacter": "Shop Keeper"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt5638642",
+        "title": "The Ritual",
+        "fullTitle": "The Ritual (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm1410159",
+                    "name": "David Bruckner",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm3620967",
+                    "name": "Joe Barton",
+                    "description": "(writer)"
+                },
+                {
+                    "id": "nm8072788",
+                    "name": "Adam Nevill",
+                    "description": "(novel)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm1245863",
+                "image": "https://imdb-api.com/images/original/MV5BNzU3OTIzMzM1OF5BMl5BanBnXkFtZTcwMDc1MDkwOQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Rafe Spall",
+                "asCharacter": "Luke"
+            },
+            {
+                "id": "nm2468782",
+                "image": "https://imdb-api.com/images/original/MV5BODgyNTQxOGMtOTRkYS00ODQ3LTg4NTItOTcxNmMwN2MwMjU3XkEyXkFqcGdeQXVyMTYxODQzOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Arsher Ali",
+                "asCharacter": "Phil"
+            },
+            {
+                "id": "nm1674947",
+                "image": "https://imdb-api.com/images/original/MV5BNjgxNzg3MTM4Ml5BMl5BanBnXkFtZTcwMzI2NzAzNw@@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Robert James-Collier",
+                "asCharacter": "Hutch"
+            },
+            {
+                "id": "nm0873744",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyNzA5ODgzOV5BMl5BanBnXkFtZTcwNTE3NDcyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sam Troughton",
+                "asCharacter": "Dom"
+            },
+            {
+                "id": "nm2050660",
+                "image": "https://imdb-api.com/images/original/MV5BMzA0NDM0ZTctMWY2ZS00MWU3LThjYmQtY2Q0N2MxZWY2ZDQ2XkEyXkFqcGdeQXVyMzI1OTc4NjA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Paul Reid",
+                "asCharacter": "Robert"
+            },
+            {
+                "id": "nm2765916",
+                "image": "https://imdb-api.com/images/original/MV5BM2UzZTBiNzktMjg4Yy00ZDk4LWE4OTUtYjg4ZThhYWZjYzNkXkEyXkFqcGdeQXVyNjM5NTAzMDg@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Matthew Needham",
+                "asCharacter": "Junkie"
+            },
+            {
+                "id": "nm5696905",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jacob James Beswick",
+                "asCharacter": "Fiend"
+            },
+            {
+                "id": "nm1799627",
+                "image": "https://imdb-api.com/images/original/MV5BYmI4ZjQ4MzUtMjJkOS00ZmI4LWI3YzQtMTIxYjc0YjhjNzc1XkEyXkFqcGdeQXVyNTg1NTc1NDY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Maria Erwolter",
+                "asCharacter": "The Host"
+            },
+            {
+                "id": "nm9365455",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hilary Reeves",
+                "asCharacter": "The Curate"
+            },
+            {
+                "id": "nm8755070",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Peter Liddell",
+                "asCharacter": "The Logger"
+            },
+            {
+                "id": "nm6130483",
+                "image": "https://imdb-api.com/images/original/MV5BNDlhYzhmZDktOTgyMC00MzJkLTg4ZDMtZDM0NDQwZWJiYzU0XkEyXkFqcGdeQXVyNzU0NjU2Mjg@._V1_Ratio1.2273_AL_.jpg",
+                "name": "Francesca Mula",
+                "asCharacter": "The Witch"
+            },
+            {
+                "id": "nm1667723",
+                "image": "https://imdb-api.com/images/original/MV5BNzU3OTgyNjAxOF5BMl5BanBnXkFtZTgwMjQzMDg2MjE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Kerri McLean",
+                "asCharacter": "Gayle"
+            },
+            {
+                "id": "nm9600124",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gheorghe Mezei",
+                "asCharacter": "Parishioner"
+            },
+            {
+                "id": "nm9600125",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Adriana Macsut",
+                "asCharacter": "Parishioner"
+            },
+            {
+                "id": "nm6589030",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Constantin Codrea",
+                "asCharacter": "Parishioner (as Constantin Liviu Codrea)"
+            },
+            {
+                "id": "nm4236719",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Zane Jarcu",
+                "asCharacter": "Shop Keeper"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0024741",
+                        "name": "Ron Ames",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0147080",
+                        "name": "Jonathan Cavendish",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0392020",
+                        "name": "Richard Holmes",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0545421",
+                        "name": "Xavier Marchand",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm2347400",
+                        "name": "Patricia Poienaru",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0731990",
+                        "name": "Phil Robertson",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0785227",
+                        "name": "Andy Serkis",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0803484",
+                        "name": "Chloe Sizer",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm6197021",
+                        "name": "Will Tennant",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm1705911",
+                        "name": "Ben Lovett",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1025265",
+                        "name": "Andrew Shulkind",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm1576700",
+                        "name": "Mark Towns",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm1529085",
+                        "name": "Julie Harkin",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm1513761",
+                        "name": "Adrian Curelea",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm1848868",
+                        "name": "Ghinea Diana",
+                        "description": "(art direction)"
+                    },
+                    {
+                        "id": "nm4800922",
+                        "name": "Andrei-Florian Popa",
+                        "description": "stand-by art director"
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm1196532",
+                        "name": "Gina Calin",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm1251773",
+                        "name": "Ana Ioneci",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm6470938",
+                        "name": "Ilinca Angelescu",
+                        "description": "prosthetics: Romania"
+                    },
+                    {
+                        "id": "nm1679648",
+                        "name": "Zoe Cooper",
+                        "description": "special effects makeup artist: pick up unit"
+                    },
+                    {
+                        "id": "nm2107667",
+                        "name": "Robbie Drake",
+                        "description": "special effects makeup artist: pick up unit"
+                    },
+                    {
+                        "id": "nm1285637",
+                        "name": "Bean Ellis",
+                        "description": "special effects makeup artist: pick up unit"
+                    },
+                    {
+                        "id": "nm1963121",
+                        "name": "Corina Hera",
+                        "description": "additional makeup assistant"
+                    },
+                    {
+                        "id": "nm2618403",
+                        "name": "Lidia Ivanov",
+                        "description": "hair designer"
+                    },
+                    {
+                        "id": "nm6103258",
+                        "name": "Parpala Mara",
+                        "description": "makeup artist (as Mara Parpala)"
+                    },
+                    {
+                        "id": "nm5338994",
+                        "name": "Nastasia Mateiu",
+                        "description": "makeup designer (as Elena Nastasia Mateiu)"
+                    },
+                    {
+                        "id": "nm0691038",
+                        "name": "Ionel Popa",
+                        "description": "prosthetics: Romania"
+                    },
+                    {
+                        "id": "nm3488749",
+                        "name": "Josh Russell",
+                        "description": "special makeup effects artist"
+                    },
+                    {
+                        "id": "nm5408650",
+                        "name": "Sierra Russell",
+                        "description": "special makeup effects artist"
+                    },
+                    {
+                        "id": "nm4910397",
+                        "name": "Nicoleta Toader",
+                        "description": "assistant hair stylist"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm2725691",
+                        "name": "Teo Bostanica",
+                        "description": "unit manager"
+                    },
+                    {
+                        "id": "nm1423247",
+                        "name": "Katie Bullock-Webster",
+                        "description": "post-production supervisor"
+                    },
+                    {
+                        "id": "nm2606786",
+                        "name": "Mihai Busuioc",
+                        "description": "unit production manager"
+                    },
+                    {
+                        "id": "nm2642253",
+                        "name": "Katie Shahrokh",
+                        "description": "post-production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm7679491",
+                        "name": "Valeriu Chiran",
+                        "description": "third assistant director"
+                    },
+                    {
+                        "id": "nm2760124",
+                        "name": "Liam Lock",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm3714803",
+                        "name": "Delmi Thomas",
+                        "description": "second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0051280",
+                        "name": "Cristian Baluta",
+                        "description": "leadman"
+                    },
+                    {
+                        "id": "nm5084169",
+                        "name": "Butiseaca Florin",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm4371811",
+                        "name": "Florin Gavrila",
+                        "description": "set dressing painter"
+                    },
+                    {
+                        "id": "nm0359490",
+                        "name": "Adi Handac",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm6197227",
+                        "name": "Daniel Orchard",
+                        "description": "previsualization"
+                    },
+                    {
+                        "id": "nm4385282",
+                        "name": "Geaniloni Sandru",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm4156224",
+                        "name": "Keith Thompson",
+                        "description": "creature designer"
+                    },
+                    {
+                        "id": "nm6106783",
+                        "name": "Dinica Tiberiu",
+                        "description": "set dresser"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm2820356",
+                        "name": "Mihnea Bogos",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm0121416",
+                        "name": "Peter Burgis",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm1410763",
+                        "name": "Marius Emil Stanescu",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm6722275",
+                        "name": "Zoe Freed",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm1870011",
+                        "name": "Glen Gathard",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm3873385",
+                        "name": "Luke Gentry",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0316657",
+                        "name": "Dominic Gibbs",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm1653845",
+                        "name": "James Gregory",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm3882848",
+                        "name": "Adam Horley",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0429217",
+                        "name": "Scott Jones",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm1312968",
+                        "name": "Ben Meechan",
+                        "description": "sound designer"
+                    },
+                    {
+                        "id": "nm5506403",
+                        "name": "Victor Miu",
+                        "description": "sound utility/boom operator"
+                    },
+                    {
+                        "id": "nm2560766",
+                        "name": "Steve Neal",
+                        "description": "re-recording engineer"
+                    },
+                    {
+                        "id": "nm6207100",
+                        "name": "Jemma Riley-Tolch",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm3319025",
+                        "name": "Timothy Siddall",
+                        "description": "additional dialogue editor"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0020158",
+                        "name": "Nick Allder",
+                        "description": "special effects supervisor"
+                    },
+                    {
+                        "id": "nm1679648",
+                        "name": "Zoe Cooper",
+                        "description": "special effects"
+                    },
+                    {
+                        "id": "nm1068167",
+                        "name": "Ron Karkoska",
+                        "description": "special effects"
+                    },
+                    {
+                        "id": "nm1532296",
+                        "name": "Liviu Lungu",
+                        "description": "special effects senior technician"
+                    },
+                    {
+                        "id": "nm2652494",
+                        "name": "Adrian Nica",
+                        "description": "special effects senior technician"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm0021420",
+                        "name": "Craig Allison",
+                        "description": "head of technology: Nviz"
+                    },
+                    {
+                        "id": "nm2364219",
+                        "name": "Tom Balogh",
+                        "description": "visual effects editor: Nvizible"
+                    },
+                    {
+                        "id": "nm6493543",
+                        "name": "Paul Barton",
+                        "description": "programmer: The Imaginarium Studios"
+                    },
+                    {
+                        "id": "nm0061534",
+                        "name": "Brian Battles",
+                        "description": "flame artist"
+                    },
+                    {
+                        "id": "nm8899295",
+                        "name": "Daniel Baybutt",
+                        "description": "motion capture technician"
+                    },
+                    {
+                        "id": "nm0164962",
+                        "name": "Richard Clarke",
+                        "description": "Head of 3D: Nvizible"
+                    },
+                    {
+                        "id": "nm7040436",
+                        "name": "Sam Curtis",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm5100066",
+                        "name": "Agueda Del Castillo",
+                        "description": "senior digital compositor"
+                    },
+                    {
+                        "id": "nm4477881",
+                        "name": "Zach du Toit",
+                        "description": "creature td"
+                    },
+                    {
+                        "id": "nm0268173",
+                        "name": "Ants Farrell",
+                        "description": "capture 1st ad"
+                    },
+                    {
+                        "id": "nm1512592",
+                        "name": "Andy Fraser",
+                        "description": "lead animator"
+                    },
+                    {
+                        "id": "nm5842353",
+                        "name": "Marcos Gil Granja",
+                        "description": "digital compositor: Nvizible"
+                    },
+                    {
+                        "id": "nm1439529",
+                        "name": "Luan Hall",
+                        "description": "Junior Compositor"
+                    },
+                    {
+                        "id": "nm5898979",
+                        "name": "Christopher Hodge",
+                        "description": "camera tracker: Nvizible"
+                    },
+                    {
+                        "id": "nm0412415",
+                        "name": "Jason Ivimey",
+                        "description": "senior animator: Nvizible VFX"
+                    },
+                    {
+                        "id": "nm6197233",
+                        "name": "Brenainn Jordan",
+                        "description": "motion capture"
+                    },
+                    {
+                        "id": "nm4659601",
+                        "name": "Ciar\u00e1n Keenan",
+                        "description": "visual effects producer: Nvizible"
+                    },
+                    {
+                        "id": "nm8817334",
+                        "name": "Alexander Lines",
+                        "description": "reference camera operator: The Imaginarium Studios"
+                    },
+                    {
+                        "id": "nm1322054",
+                        "name": "Natalie MacDonald",
+                        "description": "digital compositor: Nvizible"
+                    },
+                    {
+                        "id": "nm7280881",
+                        "name": "Bhumika Mayer",
+                        "description": "visual effects line producer: Nvizible"
+                    },
+                    {
+                        "id": "nm3031739",
+                        "name": "Jeanette Monero",
+                        "description": "compositor: The Imaginarium Studios"
+                    },
+                    {
+                        "id": "nm7632470",
+                        "name": "Katia Muscariello",
+                        "description": "visual effects coordinator: Nvizible"
+                    },
+                    {
+                        "id": "nm1452982",
+                        "name": "Stephen Nixon",
+                        "description": "visual effects producer"
+                    },
+                    {
+                        "id": "nm2329523",
+                        "name": "Sverker Nordqvist",
+                        "description": "rigging td"
+                    },
+                    {
+                        "id": "nm3828498",
+                        "name": "Matei Ovejan",
+                        "description": "visual effects on set"
+                    },
+                    {
+                        "id": "nm6618871",
+                        "name": "Rob Rankin",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm3915574",
+                        "name": "Kim Ranzani",
+                        "description": "lead compositor: Nvizible"
+                    },
+                    {
+                        "id": "nm9315449",
+                        "name": "Ben Reid",
+                        "description": "visual effects coordinator"
+                    },
+                    {
+                        "id": "nm7272173",
+                        "name": "Madita Schloeglmann",
+                        "description": "reference camera operator"
+                    },
+                    {
+                        "id": "nm1718678",
+                        "name": "Bryan Servante",
+                        "description": "animator"
+                    },
+                    {
+                        "id": "nm7723729",
+                        "name": "Elise Smulova",
+                        "description": "digital compositor: Nvizible"
+                    },
+                    {
+                        "id": "nm6197223",
+                        "name": "Aaron Urquhart",
+                        "description": "motion capture technician"
+                    },
+                    {
+                        "id": "nm1629615",
+                        "name": "Gert Van Dermeersch",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm4762729",
+                        "name": "Cristina Vozian",
+                        "description": "digital compositor: The Imaginarium Studios"
+                    },
+                    {
+                        "id": "nm0924499",
+                        "name": "Ben White",
+                        "description": "visual effects supervisor: Nvizible"
+                    },
+                    {
+                        "id": "nm1741720",
+                        "name": "Jamie Wood",
+                        "description": "compositing supervisor: nvizible vfx"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm1279178",
+                        "name": "Ciprian Dumitrascu",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm1173232",
+                        "name": "Marius Florian",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm1279440",
+                        "name": "Razvan Gheorghiu",
+                        "description": "stunt rigger"
+                    },
+                    {
+                        "id": "nm0409601",
+                        "name": "Mihai Ionita",
+                        "description": "stunt double: Phil"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm1568659",
+                        "name": "Lupsa Armand",
+                        "description": "rigging gaffer"
+                    },
+                    {
+                        "id": "nm10821842",
+                        "name": "Teddy Cavendish",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm1809110",
+                        "name": "Catalin Chiorean",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm1809122",
+                        "name": "Catalin Ciobanu",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm3021398",
+                        "name": "Vlad Cioplea",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm2337352",
+                        "name": "Sandu Constantin",
+                        "description": "best boy"
+                    },
+                    {
+                        "id": "nm2009187",
+                        "name": "Cristian Dragos",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm1755252",
+                        "name": "Alexandru Durac",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm0317611",
+                        "name": "Sarbu Gigi",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm2845287",
+                        "name": "Alex Golding",
+                        "description": "digital imaging technician"
+                    },
+                    {
+                        "id": "nm5865399",
+                        "name": "Toni Ilinca",
+                        "description": "videoassist"
+                    },
+                    {
+                        "id": "nm2988824",
+                        "name": "Florin Ion",
+                        "description": "best boy grip"
+                    },
+                    {
+                        "id": "nm0409551",
+                        "name": "Marcu Ion",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm1535996",
+                        "name": "Radu Marinescu",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm2919230",
+                        "name": "Negoita Mihai",
+                        "description": "libra head technician"
+                    },
+                    {
+                        "id": "nm1093239",
+                        "name": "Florin Niculae",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm3805771",
+                        "name": "Liviu Popa",
+                        "description": "rigging best boy"
+                    },
+                    {
+                        "id": "nm1364572",
+                        "name": "Bogdan Stanciu",
+                        "description": "steadicam and camera operator"
+                    },
+                    {
+                        "id": "nm3805686",
+                        "name": "Alexandru Bogdan Stefan",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm8329465",
+                        "name": "Catalin Voinea",
+                        "description": "drone pilot"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm1078947",
+                        "name": "Vanessa Baker",
+                        "description": "adr voice casting"
+                    },
+                    {
+                        "id": "nm1415246",
+                        "name": "Domnica Circiumaru",
+                        "description": "casting: Romania"
+                    },
+                    {
+                        "id": "nm10135926",
+                        "name": "Radu Dragoi",
+                        "description": "extras casting"
+                    },
+                    {
+                        "id": "nm0396240",
+                        "name": "Michael Hothorn",
+                        "description": "US casting consultant"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0705876",
+                        "name": "Doina Raducut",
+                        "description": "set costumer: principals"
+                    },
+                    {
+                        "id": "nm2743067",
+                        "name": "Raluca Tataru",
+                        "description": "set costumer: principals"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm3119015",
+                        "name": "Marc Dando",
+                        "description": "digital consultant"
+                    },
+                    {
+                        "id": "nm1271684",
+                        "name": "James Eggleton",
+                        "description": "workflow consultant"
+                    },
+                    {
+                        "id": "nm0255258",
+                        "name": "Paul Elman",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm3119805",
+                        "name": "Kim Honeyman",
+                        "description": "senior digital intermediate producer"
+                    },
+                    {
+                        "id": "nm8327636",
+                        "name": "Gary Palmer",
+                        "description": "digital lab technician"
+                    },
+                    {
+                        "id": "nm8527357",
+                        "name": "Gary Palmer",
+                        "description": "digital lab technician"
+                    },
+                    {
+                        "id": "nm6232688",
+                        "name": "Ben Perry",
+                        "description": "digital lab coordinator"
+                    },
+                    {
+                        "id": "nm5201023",
+                        "name": "Mihai Cosmin Popa",
+                        "description": "1st assistant editor Romania"
+                    },
+                    {
+                        "id": "nm4844580",
+                        "name": "Leoni Tenius",
+                        "description": "clip editor"
+                    },
+                    {
+                        "id": "nm3584225",
+                        "name": "Matt Watson",
+                        "description": "colorist"
+                    },
+                    {
+                        "id": "nm2733523",
+                        "name": "Thora Woodward",
+                        "description": "first assistant editor"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm8562092",
+                        "name": "Singureanu Andrei",
+                        "description": "location assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm8261834",
+                        "name": "Robert Ames",
+                        "description": "additional orchestration / conductor / viola improvisation"
+                    },
+                    {
+                        "id": "nm8396832",
+                        "name": "Galya Bisengalieva",
+                        "description": "solo violin"
+                    },
+                    {
+                        "id": "nm2437705",
+                        "name": "Daisy Chute",
+                        "description": "music preparation / orchestrator"
+                    },
+                    {
+                        "id": "nm5552112",
+                        "name": "London Contemporary Orchestra",
+                        "description": "score performed by"
+                    },
+                    {
+                        "id": "nm7015534",
+                        "name": "Lillie Harris",
+                        "description": "additional orchestration / music preparation"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0053877",
+                        "name": "Andra Barbuica",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm4157685",
+                        "name": "Razvan Ciuraru",
+                        "description": "transportation coordinator"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm1957287",
+                        "name": "Sophie Alexander",
+                        "description": "production coordinator: Imaginarium Studios"
+                    },
+                    {
+                        "id": "nm2324488",
+                        "name": "Dana Boghean-Melconian",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm8915591",
+                        "name": "Jaya Campbell",
+                        "description": "development assistant"
+                    },
+                    {
+                        "id": "nm1282785",
+                        "name": "Sara Curran",
+                        "description": "production lawyer"
+                    },
+                    {
+                        "id": "nm4589043",
+                        "name": "Endaf Eynon Davies",
+                        "description": "body double: Luke"
+                    },
+                    {
+                        "id": "nm3306096",
+                        "name": "Kate Fasulo",
+                        "description": "Production Consultant: Entertainment One Features"
+                    },
+                    {
+                        "id": "nm6766398",
+                        "name": "Jon Freeman",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1668993",
+                        "name": "Paul Hillier",
+                        "description": "insurance"
+                    },
+                    {
+                        "id": "nm3354822",
+                        "name": "Stephen Hole",
+                        "description": "Production Finance for Entertainment One"
+                    },
+                    {
+                        "id": "nm1274192",
+                        "name": "Toby James",
+                        "description": "EPK Producer"
+                    },
+                    {
+                        "id": "nm0535901",
+                        "name": "Emma Mager",
+                        "description": "completion bond guarantor"
+                    },
+                    {
+                        "id": "nm3838850",
+                        "name": "Jamie O'Rourke",
+                        "description": "body double: Dom"
+                    },
+                    {
+                        "id": "nm0642661",
+                        "name": "Kevin O'Shea",
+                        "description": "insurance"
+                    },
+                    {
+                        "id": "nm4635372",
+                        "name": "Maja Osterman",
+                        "description": "production lawyer"
+                    },
+                    {
+                        "id": "nm0691035",
+                        "name": "Dorina Popa",
+                        "description": "Cashier"
+                    },
+                    {
+                        "id": "nm8783044",
+                        "name": "Steve Richard",
+                        "description": "immigration consultant"
+                    },
+                    {
+                        "id": "nm4410423",
+                        "name": "Elisa Scubla",
+                        "description": "researcher"
+                    },
+                    {
+                        "id": "nm4970189",
+                        "name": "Catherine Slater",
+                        "description": "producer's assistant"
+                    },
+                    {
+                        "id": "nm6784314",
+                        "name": "Leonie Steeger",
+                        "description": "Post production coordinator"
+                    },
+                    {
+                        "id": "nm6592665",
+                        "name": "Iulia Zahiu",
+                        "description": "production assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm2773569",
+                        "name": "John Cresswell",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm10125367",
+                        "name": "Ish Fatani",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm1222477",
+                        "name": "Lauren Levine",
+                        "description": "thanks"
+                    },
+                    {
+                        "id": "nm3677454",
+                        "name": "Ben Lumsden",
+                        "description": "special thanks (as Folk Singer Ben Lumsden)"
+                    },
+                    {
+                        "id": "nm10125366",
+                        "name": "Ioan Nistor Poienaru",
+                        "description": "special thanks"
+                    },
+                    {
+                        "id": "nm7762492",
+                        "name": "Gary Stone",
+                        "description": "special thanks: Ealing Studios"
+                    },
+                    {
+                        "id": "nm10125365",
+                        "name": "Zoe Tennant",
+                        "description": "special thanks: The Hutchison Moving Company"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Horror, Mystery, Thriller",
+    "genreList": [
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Entertainment One, Imaginarium Productions",
+    "companyList": [
+        {
+            "id": "co0212327",
+            "name": "Entertainment One"
+        },
+        {
+            "id": "co0373005",
+            "name": "Imaginarium Productions"
+        }
+    ],
+    "countries": "UK, Canada",
+    "countryList": [
+        {
+            "key": "UK",
+            "value": "UK"
+        },
+        {
+            "key": "Canada",
+            "value": "Canada"
+        }
+    ],
+    "languages": "English, Swedish",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Swedish",
+            "value": "Swedish"
+        }
+    ],
+    "contentRating": "TV-MA",
+    "imDbRating": "6.3",
+    "imDbRatingVotes": "68829",
+    "metacriticRating": "57",
+    "ratings": {
+        "imDbId": "tt5638642",
+        "title": "The Ritual",
+        "fullTitle": "The Ritual (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "imDb": "6.3",
+        "metacritic": "57",
+        "theMovieDb": "6.0",
+        "rottenTomatoes": "73",
+        "tV_com": "",
+        "filmAffinity": "5.4",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt5638642",
+        "title": "The Ritual",
+        "fullTitle": "The Ritual (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "language": "en",
+        "titleInLanguage": "The Ritual (2017 film)",
+        "url": "https://en.wikipedia.org/wiki/The_Ritual_(2017_film)",
+        "plotShort": {
+            "plainText": "The Ritual (2017 film)\r\nThe Ritual is a 2017 British supernatural horror film directed by David Bruckner, written by Joe Barton, and starring Rafe Spall, Arsher Ali, Robert James-Collier, and Sam Troughton. The film is based on the 2011 novel of the same name by Adam Nevill.",
+            "html": "<h2>The Ritual (2017 film)</h2><p>The Ritual is a 2017 British supernatural horror film directed by David Bruckner, written by Joe Barton, and starring Rafe Spall, Arsher Ali, Robert James-Collier, and Sam Troughton. The film is based on the 2011 novel of the same name by Adam Nevill.</p>"
+        },
+        "plotFull": {
+            "plainText": "The Ritual (2017 film)\r\nThe Ritual is a 2017 British supernatural horror film directed by David Bruckner, written by Joe Barton, and starring Rafe Spall, Arsher Ali, Robert James-Collier, and Sam Troughton. The film is based on the 2011 novel of the same name by Adam Nevill.\r\nPlot\r\nFive university friends\u2014Phil, Dom, Hutch, Luke, and Rob\u2014meet at a pub and discuss plans for a group lad's trip. Rob suggests hiking in Sweden, but gets rebuffed. Afterward, Luke and Rob enter a shop to purchase alcohol, but interrupt a robbery in progress. Luke hides while Rob becomes frozen with fear as the thieves antagonize him for his valuables. Luke nearly intervenes, but decides against it before the thieves kill Rob for refusing to relinquish his wedding ring along with his wallet and disobeying their demands.\r\nSix months later, the remaining four embark on a hiking trip along the Kungsleden in northern Sweden in Rob's memory. Almost immediately, Dom injures his knee. Hutch suggests they cut through the forest rather than use the longer marked trail in the hopes of sparing Dom any further suffering. Upon entering the forest however, the group encounters strange phenomena, including a gutted elk hanging from several branches and strange symbols carved in the trees. As night falls, a torrential rainstorm forces them to find shelter. They come upon an abandoned cabin, so they break in and stay for the night. Inside, they find necklaces bearing similar symbols and a wooden effigy of a decapitated human torso with antlers for hands. The next morning, the group are shocked awake from nightmares to find Luke's chest bleeding from strange puncture wounds and Phil kneeling naked, praying to the effigy. Disturbed and puzzled by their own unconscious actions, the group tries to find a way out. While discerning their location, Luke spots a large figure amongst the trees, but Dom doubts him. In their ensuing argument, Dom brings up the past, calling Luke a coward for letting Rob die to save himself, escaping without even so much as a scratch on him.\r\nLater that night, Luke is suddenly awakened by Hutch's screams. While investigating, he finds Hutch's tent empty and partially collapsed. The remaining three men rush deeper into the woods to search for him, but by dawn, they realize that they are lost and unable to locate their campsite. While continuing their search without their supplies, they find Hutch gutted and impaled on tree branches. After giving him an impromptu burial, Phil is suddenly dragged away by an unseen creature. Despite realizing the creature's been stalking them the entire time, Luke and Dom have little choice but make a run for it, the creature giving chase. They find a path lined with torches leading to a small settlement and rush into a cottage to hide. While barricading themselves inside, they're knocked unconscious by someone within.\r\nWhen they awake, they find themselves restrained in a cellar. An elderly woman enters and inspects Luke's puncture marks, revealing she bears a similar marking. On her way out, she orders two men to take Dom upstairs. A younger woman enters and explains that preparations are being made for a sacrifice. Sometime later, a beaten Dom is returned to the basement. He tells Luke that he is to be sacrificed to the creature, urging him to find a way out and destroy the village, burn it all to the ground, before he too is sacrificed. Amidst the ritual, Dom has a vision of his wife emerging from the forest, not realizing it's the creature until it impales him on a nearby tree. Desperate to escape, Luke breaks his own thumb to partially free himself from his restraints, but gets interrupted by the young woman. When he asks about the creature, she explains that it is a J\u00f6tunn, a bastard son of Loki and an ancient god-like entity from Scandinavian mythology that the cult provides sacrifices to in return for freedom from pain and immortality. Luke has been chosen and is to either submit and worship to it too or be sacrificed.\r\nAfter she leaves, Luke fully frees himself and ventures upstairs. Armed with a torch, he finds a twisted congregation of mummified worshipers. He sets them alight, burning the cabin and attracting the J\u00f6tunn. Luke finds a hunting rifle and heads downstairs, running into and killing a follower before taking his axe along the way. The enraged J\u00f6tunn kills the young woman while Luke shoots at it and escapes. It pursues him, crippling his mind with hallucinations of Rob's killing before catching him and forcing him to his knees, offering him a chance to submit. Twice Luke refuses to kneel to it, then as he raises up in defiance he strikes it with the axe, briefly incapacitating it. Following hallucinatory sign-posts and rays of sunlight, he emerges in an open field. Unable to leave the forest, the J\u00f6tunn roars in anger while Luke shouts/roars back in triumph before heading towards a paved road.\r\nCast\r\nRafe Spall as Luke\r\nArsher Ali as Phil\r\nRobert James-Collier as Hutch\r\nSam Troughton as Dom\r\nRelease and reception\r\nThe film premiered in September 2017 at the Toronto International Film Festival, where its international distribution rights were sold to Netflix for $4.75 million. The film was theatrically released in the United Kingdom by eOne Films on 13 October 2017 and grossed over $1 million during its run. It was later released to Netflix on 9 February 2018.\r\nCritical reception\r\nOn review aggregator website Rotten Tomatoes, the film holds an approval rating of 73% based on 86 reviews, and an average rating of 6.1/10. The website's critical consensus states: \"Director David Bruckner makes evocative use of the Scandinavian setting and a dedicated cast to deliver a handsome \u2014 if familiar \u2014 horror story.\" On Metacritic, the film has a weighted average score of 57 out of 100, based on 18 critics, indicating \"mixed or average reviews\".\r\nKatie Walsh of the Los Angeles Times praised the film and said that it was \"Efficient and highly effective in its style, relying on sound, creepy production design, and the men's own fear and misjudgment to create the sense of pervasive doom.\" RogerEbert.com writer Simon Abrams scored the film a 2/4, saying \"The most disappointing kind of bad horror movie: the kind that's too smart to be this dumb.\" Kyle Kohner of The Playlist gave the film a negative review, saying \"David Bruckner had all the ingredients for a horror masterpiece - deceptively scenic wilderness shots, great character camaraderie, dreadful atmosphere/setting- but The Ritual winds up a missed opportunity.\"",
+            "html": "<h2>The Ritual (2017 film)</h2><p>The Ritual is a 2017 British supernatural horror film directed by David Bruckner, written by Joe Barton, and starring Rafe Spall, Arsher Ali, Robert James-Collier, and Sam Troughton. The film is based on the 2011 novel of the same name by Adam Nevill.</p><br/><h3>Plot</h3><p>Five university friends\u2014Phil, Dom, Hutch, Luke, and Rob\u2014meet at a pub and discuss plans for a group lad's trip. Rob suggests hiking in Sweden, but gets rebuffed. Afterward, Luke and Rob enter a shop to purchase alcohol, but interrupt a robbery in progress. Luke hides while Rob becomes frozen with fear as the thieves antagonize him for his valuables. Luke nearly intervenes, but decides against it before the thieves kill Rob for refusing to relinquish his wedding ring along with his wallet and disobeying their demands.</p><p>Six months later, the remaining four embark on a hiking trip along the Kungsleden in northern Sweden in Rob's memory. Almost immediately, Dom injures his knee. Hutch suggests they cut through the forest rather than use the longer marked trail in the hopes of sparing Dom any further suffering. Upon entering the forest however, the group encounters strange phenomena, including a gutted elk hanging from several branches and strange symbols carved in the trees. As night falls, a torrential rainstorm forces them to find shelter. They come upon an abandoned cabin, so they break in and stay for the night. Inside, they find necklaces bearing similar symbols and a wooden effigy of a decapitated human torso with antlers for hands. The next morning, the group are shocked awake from nightmares to find Luke's chest bleeding from strange puncture wounds and Phil kneeling naked, praying to the effigy. Disturbed and puzzled by their own unconscious actions, the group tries to find a way out. While discerning their location, Luke spots a large figure amongst the trees, but Dom doubts him. In their ensuing argument, Dom brings up the past, calling Luke a coward for letting Rob die to save himself, escaping without even so much as a scratch on him.</p><p>Later that night, Luke is suddenly awakened by Hutch's screams. While investigating, he finds Hutch's tent empty and partially collapsed. The remaining three men rush deeper into the woods to search for him, but by dawn, they realize that they are lost and unable to locate their campsite. While continuing their search without their supplies, they find Hutch gutted and impaled on tree branches. After giving him an impromptu burial, Phil is suddenly dragged away by an unseen creature. Despite realizing the creature's been stalking them the entire time, Luke and Dom have little choice but make a run for it, the creature giving chase. They find a path lined with torches leading to a small settlement and rush into a cottage to hide. While barricading themselves inside, they're knocked unconscious by someone within.</p><p>When they awake, they find themselves restrained in a cellar. An elderly woman enters and inspects Luke's puncture marks, revealing she bears a similar marking. On her way out, she orders two men to take Dom upstairs. A younger woman enters and explains that preparations are being made for a sacrifice. Sometime later, a beaten Dom is returned to the basement. He tells Luke that he is to be sacrificed to the creature, urging him to find a way out and destroy the village, burn it all to the ground, before he too is sacrificed. Amidst the ritual, Dom has a vision of his wife emerging from the forest, not realizing it's the creature until it impales him on a nearby tree. Desperate to escape, Luke breaks his own thumb to partially free himself from his restraints, but gets interrupted by the young woman. When he asks about the creature, she explains that it is a J\u00f6tunn, a bastard son of Loki and an ancient god-like entity from Scandinavian mythology that the cult provides sacrifices to in return for freedom from pain and immortality. Luke has been chosen and is to either submit and worship to it too or be sacrificed.</p><p>After she leaves, Luke fully frees himself and ventures upstairs. Armed with a torch, he finds a twisted congregation of mummified worshipers. He sets them alight, burning the cabin and attracting the J\u00f6tunn. Luke finds a hunting rifle and heads downstairs, running into and killing a follower before taking his axe along the way. The enraged J\u00f6tunn kills the young woman while Luke shoots at it and escapes. It pursues him, crippling his mind with hallucinations of Rob's killing before catching him and forcing him to his knees, offering him a chance to submit. Twice Luke refuses to kneel to it, then as he raises up in defiance he strikes it with the axe, briefly incapacitating it. Following hallucinatory sign-posts and rays of sunlight, he emerges in an open field. Unable to leave the forest, the J\u00f6tunn roars in anger while Luke shouts/roars back in triumph before heading towards a paved road.</p><br/><h3>Cast</h3><ul><li>Rafe Spall as Luke</li><li>Arsher Ali as Phil</li><li>Robert James-Collier as Hutch</li><li>Sam Troughton as Dom</li></ul><br/><h3>Release and reception</h3><p>The film premiered in September 2017 at the Toronto International Film Festival, where its international distribution rights were sold to Netflix for $4.75 million. The film was theatrically released in the United Kingdom by eOne Films on 13 October 2017 and grossed over $1 million during its run. It was later released to Netflix on 9 February 2018.</p><h4>Critical reception</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><td class=\"mbox-text\"><div class=\"mbox-text-span\">This section <b>needs expansion</b>. <small>You can help by <span class=\"external text\">adding to it</span>.</small>  <small class=\"date-container\"><i>(<span class=\"date\">February 2018</span>)</i></small></div></td></tr></tbody></table><p>On review aggregator website Rotten Tomatoes, the film holds an approval rating of 73% based on 86 reviews, and an average rating of 6.1/10. The website's critical consensus states: \"Director David Bruckner makes evocative use of the Scandinavian setting and a dedicated cast to deliver a handsome \u2014 if familiar \u2014 horror story.\" On Metacritic, the film has a weighted average score of 57 out of 100, based on 18 critics, indicating \"mixed or average reviews\".</p><p>Katie Walsh of the Los Angeles Times praised the film and said that it was \"Efficient and highly effective in its style, relying on sound, creepy production design, and the men's own fear and misjudgment to create the sense of pervasive doom.\" RogerEbert.com writer Simon Abrams scored the film a 2/4, saying \"The most disappointing kind of bad horror movie: the kind that's too smart to be this dumb.\" Kyle Kohner of The Playlist gave the film a negative review, saying \"David Bruckner had all the ingredients for a horror masterpiece - deceptively scenic wilderness shots, great character camaraderie, dreadful atmosphere/setting- but The Ritual winds up a missed opportunity.\"</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt5638642",
+        "title": "The Ritual",
+        "fullTitle": "The Ritual (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "posters": [
+            {
+                "id": "9022CYEGqYETCeXN1oE3uwYJWub.jpg",
+                "link": "https://imdb-api.com/posters/original/9022CYEGqYETCeXN1oE3uwYJWub.jpg",
+                "aspectRatio": 0.6746666666666666,
+                "language": "en",
+                "width": 1012,
+                "height": 1500
+            },
+            {
+                "id": "hHuJqzby593lmYmw1SzT0XYy99t.jpg",
+                "link": "https://imdb-api.com/posters/original/hHuJqzby593lmYmw1SzT0XYy99t.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "kJoFXZPTDwCy5ekrNV1JygBXvnD.jpg",
+                "link": "https://imdb-api.com/posters/original/kJoFXZPTDwCy5ekrNV1JygBXvnD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt5638642",
+        "title": "The Ritual",
+        "fullTitle": "The Ritual (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "items": [
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOTUzOTgzMzE2OF5BMl5BanBnXkFtZTgwMDQ0NTY2NDM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzMzAyMDI4Ml5BMl5BanBnXkFtZTgwODMwOTY2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rafe Spall in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BODMyZTE2MWMtZjNkNC00YjNiLWE1YTYtNDA3MjEzYTcwNDlkXkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNWQ0OWI0ZjgtNDVmNi00NjUyLTg0M2UtNjFjNjc2MWUwYWRjXkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNzRjNTdmNjMtOGM0Ny00YTc5LThhODQtMjA4NzE3YmNjYzkzXkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio1.9600_AL_.jpg"
+            },
+            {
+                "title": "Robert James-Collier in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BODJmZDUwZTctZGVlYi00MjAzLWE5MGEtOWZiODQ1OTdjY2Y0XkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNDBjY2RiMDAtNGJiOS00NGYzLThkMmUtZGY5YzdkODZjMmE1XkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio1.9600_AL_.jpg"
+            },
+            {
+                "title": "Robert James-Collier and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNjk3NDgyZmItMGZhNC00ODY2LWJlMDctNjgwNjY3OWI2ZWY0XkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Rafe Spall in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOWFiNWM0ZmYtNTRlYi00ZmE5LWFkN2QtMTM4NWNmY2IwYTczXkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYWRjMGYwZWUtYjc2OS00MmY2LWIyMGItM2M5Y2QxNmY0YmE1XkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert James-Collier in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNGRiNDY0ZjctYjNlNC00OGQxLWFiYzktODYxMDM3MzY1MGQxXkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Rafe Spall in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMGVmYzkwYjYtZjI2OC00YWI5LTg1MTctZDUyMmQ2NWFlOWQ0XkEyXkFqcGdeQXVyMjI2MzE5OA@@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMmEwMzU3MzEtZmY4ZS00MmE4LWIwYjAtY2U4YmRlNjc5ZTgwXkEyXkFqcGdeQXVyNDk1MTUxOTE@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNzM5ODM4YWEtYTc5Yy00NDY4LTgwMmYtNjc0YjQ0MzIxMTg4XkEyXkFqcGdeQXVyNDk1MTUxOTE@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTNiZGNhZWItZTUzYi00ZTEwLTgxYjEtNWQ2ZjU4OTY0MWI1XkEyXkFqcGdeQXVyNDk1MTUxOTE@._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNTU5ZDNkZjItMjNlNi00MzFjLTk0ZmYtZTBhNWVkMTgxYWViXkEyXkFqcGdeQXVyNDk1MTUxOTE@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BODA4NGQxNjUtMTc0Mi00YWY1LWFmM2MtNmNkN2Q1YzJjMDhmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYWMwZjUwZDQtY2JmNy00MzYxLWJjNDgtNTQzODQ1OTZiY2U3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOTEwMDFlMzAtZWQyYy00YjY1LThmNzYtMGMzOTI1ZTA0M2M4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Robert James-Collier and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZGQ3MDA3OGEtZTJkOC00MWQ5LTlkZGQtZGYyYzRhMzdjN2RhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Rafe Spall in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYjYwNmVkMzUtMGQ2ZS00MDdmLTlhODQtYzlkNzQ2MmI3MTRhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, Paul Reid, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZjRiYmQwNmEtNzg2Ni00MjRlLThjZTQtYTg3YTMwMWRhMjdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, Paul Reid, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMWFjYmVhY2MtNzhhYi00MzUwLTkwNzYtNzA4YjAwMDhiMTRhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZGUwNmIxNGMtN2VkMy00ZTQxLTk4MWMtYWFjMzZjNzViZjhmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTcyYTYzODItMzQ1NC00YzZhLThmMjktOTk5ZDE1Y2JkYmE1XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZTFkMDY0MDYtMGE4Yi00YTY5LWE5MzItZDNhMjQ1NzA2ZWY4XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYmNjNGE3NjQtMjU1NC00NjRkLTg1N2EtMzMyYjc3YTJkZjIyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNmYxYzJhMzktNjZmNS00OTFjLWIzOGEtZWJkNzdhOGZmMWQ4XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzY2E1NTAtOTUwNS00MzljLTllOGQtYWVhY2MyMGY0Yzk1XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOTJjOGQ2MGEtMDhiNS00OWU1LTkwNGMtNjRhY2Y3NWRiMDZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZTAwOTc2ZGItMzA5Yy00Mjc2LTlhMzYtOTE1NjI5MjkzOGNiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYWY5ZWM2ZjAtODQ2Zi00NTI1LWEzMzAtMjM1ZTljNGQzNDA3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Maria Erwolter in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BM2FjZmNkM2MtMGJlMi00MGZkLWFiNWItZWRhNTAxY2UyOTIzXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio2.2800_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYjE2ZmFmMzMtN2UwYy00NjZlLTgyMDktYjI4OTlhNDdjYTUxXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNzFiNmNmNmItMTkwMi00YWYxLTk0ZjctNDFlM2I5YTI3MWRjXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZjdjZjYxMTEtZWMwZS00ZDZlLThkZjctNGM5NzRmMDlmMjA1XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMmE0YzNjOWMtYzlhYy00ZGIxLTlhZmMtZWQxNjUzNGVjMmNkXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BN2FhOTFmYmItNzM1Mi00OWNiLTg4MWQtMTBhYjZjYzcyN2NkXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTZhYjNkMjctOThlOC00MzY5LTkxODAtM2UzNjUzOWMyOTQyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOGJiOTM1M2EtYjRkYy00Njg2LTkzOGUtODVkOThmNjZkYjEwXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNjk5MDRmMWMtNjI0Ny00NTE5LWEyYzktOWQyNGEzOTk0MDQ4XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTNjYjIzNDMtMWFlMS00NGM5LTgxYjYtMzFmYWYwNDg2YjhiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZTE3ZmIyNmQtYjc3MC00ZmVhLWJhNzctZDc3NTJlZDM5MTFiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Sam Troughton, Rafe Spall, Robert James-Collier, and Arsher Ali in The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOTU4YTBkOGQtZmY2MC00ODE2LWJhOGItMDg1MjAxZjcxY2NmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYWQwNmMyYWYtYzU5Yy00MzBhLTg3YjktNzVmMGNmZjQ5MTE2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Ritual (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNTViNzQ0MDEtY2QwNC00YzU2LWFhYjYtMmQzODU4NWI1NzQ0XkEyXkFqcGdeQXVyNTkzMzMyNDA@._V1_Ratio1.3200_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt5638642",
+        "title": "The Ritual",
+        "fullTitle": "The Ritual (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "videoId": "vi1391114265",
+        "videoTitle": "Official Trailer",
+        "videoDescription": "Reuniting after the tragic death of their best mate, four old friends from university set out to hike through the Scandinavian wilderness. But a wrong turn leads them into the dark and mysterious forests of Norse legend, where an ancient evil still exists and stalks  them at every turn.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWQ4Yjg3MWEtZDJhMC00YmIwLTkwODEtNWIyNGNjMzJjMGZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "uploadDate": "01/26/2018 23:24:49",
+        "link": "https://www.imdb.com/video/vi1391114265",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1391114265/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$1,785,977"
+    },
+    "tagline": "",
+    "keywords": "sweden,friendship between men,lost in the woods,dream,pagan",
+    "keywordList": [
+        "sweden",
+        "friendship between men",
+        "lost in the woods",
+        "dream",
+        "pagan"
+    ],
+    "similars": [
+        {
+            "id": "tt3289956",
+            "title": "The Autopsy of Jane Doe",
+            "fullTitle": "The Autopsy of Jane Doe (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A father and son, both coroners, are pulled into a complex mystery while attempting to identify the body of a young woman, who was apparently harboring dark secrets.",
+            "directors": "Andr\u00e9 \u00d8vredal",
+            "stars": "Brian Cox, Emile Hirsch, Ophelia Lovibond",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt5022702",
+            "title": "Hush",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOWQ4OTdlODQtMDc3Yy00MGVmLWExYjUtOGI0Yjg4MDQzNDNhXkEyXkFqcGdeQXVyNjIzMzkyMzk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A deaf and mute writer who retreated into the woods to live a solitary life must fight for her life in silence when a masked killer appears at her window.",
+            "directors": "Mike Flanagan",
+            "stars": "John Gallagher Jr., Kate Siegel, Michael Trucco",
+            "genres": "Horror, Thriller",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt6217306",
+            "title": "Apostle",
+            "fullTitle": "Apostle (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BMTY1NDk0NjI4MV5BMl5BanBnXkFtZTgwNjUyNzMwNjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1905, a drifter on a dangerous mission to rescue his kidnapped sister tangles with a sinister religious cult on an isolated island.",
+            "directors": "Gareth Evans",
+            "stars": "Dan Stevens, Richard Elfyn, Paul Higgins",
+            "genres": "Drama, Fantasy, Horror",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt3748172",
+            "title": "Gerald's Game",
+            "fullTitle": "Gerald's Game (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMzg0NGE0N2MtYTg1My00NTBkLWI5NjEtZTgyMDA0MTU4MmIyXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A couple tries to spice up their marriage in a remote lake house; after the husband dies unexpectedly, the wife is left handcuffed to their bed frame and must fight to survive and break free.",
+            "directors": "Mike Flanagan",
+            "stars": "Carla Gugino, Bruce Greenwood, Chiara Aurelia",
+            "genres": "Drama, Horror, Thriller",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt2400463",
+            "title": "The Invitation",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzODMwNDkzOF5BMl5BanBnXkFtZTgwNDA4NzA1ODE@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A man accepts an invitation to a dinner party hosted by his ex-wife, an unsettling affair that reopens old wounds and creates new tensions.",
+            "directors": "Karyn Kusama",
+            "stars": "Logan Marshall-Green, Emayatzy Corinealdi, Michiel Huisman",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt2428170",
+            "title": "Creep",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTY0NTU2ODM5Ml5BMl5BanBnXkFtZTgwMTAwOTA5NTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young videographer answers an online ad for a one-day job in a remote town to record the last messages of a dying man. When he notices the man's odd behavior, he starts to question his intentions.",
+            "directors": "Patrick Brice",
+            "stars": "Patrick Brice, Mark Duplass",
+            "genres": "Horror, Thriller",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt1922777",
+            "title": "Sinister",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Washed-up true-crime writer Ellison Oswalt finds a box of super 8 home movies which suggest the murder he's currently researching is the work of a serial killer whose work dates back to the 1960s.",
+            "directors": "Scott Derrickson",
+            "stars": "Ethan Hawke, Juliet Rylance, James Ransone",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt4263482",
+            "title": "The Witch",
+            "fullTitle": "The Witch (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.",
+            "directors": "Robert Eggers",
+            "stars": "Anya Taylor-Joy, Ralph Ineson, Kate Dickie",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt2321549",
+            "title": "The Babadook",
+            "fullTitle": "The Babadook (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled \"Mister Babadook\" manifests in their home.",
+            "directors": "Jennifer Kent",
+            "stars": "Essie Davis, Noah Wiseman, Daniel Henshall",
+            "genres": "Drama, Horror",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt3235888",
+            "title": "It Follows",
+            "fullTitle": "It Follows (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+            "directors": "David Robert Mitchell",
+            "stars": "Maika Monroe, Keir Gilchrist, Olivia Luccardi",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt2737304",
+            "title": "Bird Box",
+            "fullTitle": "Bird Box (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.",
+            "directors": "Susanne Bier",
+            "stars": "Sandra Bullock, Trevante Rhodes, John Malkovich",
+            "genres": "Drama, Horror, Sci-Fi",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt1457767",
+            "title": "The Conjuring",
+            "fullTitle": "The Conjuring (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+            "directors": "James Wan",
+            "stars": "Patrick Wilson, Vera Farmiga, Ron Livingston",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "7.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

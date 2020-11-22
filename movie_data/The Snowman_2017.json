@@ -1,0 +1,3719 @@
+{
+    "id": "tt1758810",
+    "title": "The Snowman",
+    "originalTitle": "",
+    "fullTitle": "The Snowman (2017)",
+    "type": "Movie",
+    "year": "2017",
+    "image": "https://imdb-api.com/images/original/MV5BNDg1NjYyMTEyOF5BMl5BanBnXkFtZTgwNzY4MDMyMzI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2017-10-11",
+    "runtimeMins": "119",
+    "runtimeStr": "1h 59mins",
+    "plot": "When an elite crime squad's lead detective investigates the disappearance of a victim on the first snow of winter, he fears an elusive serial killer may be active again. With the help of a brilliant recruit, the cop must connect decades-old cold cases to the brutal new one if he hopes to outwit this unthinkable evil before the next snowfall.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "1 nomination.",
+    "directors": "Tomas Alfredson",
+    "directorList": [
+        {
+            "id": "nm0019247",
+            "name": "Tomas Alfredson"
+        }
+    ],
+    "writers": "Peter Straughan, Hossein Amini, S\u00f8ren Sveistrup, Jo Nesb\u00f8",
+    "writerList": [
+        {
+            "id": "nm1661186",
+            "name": "Peter Straughan"
+        },
+        {
+            "id": "nm0024925",
+            "name": "Hossein Amini"
+        },
+        {
+            "id": "nm0841003",
+            "name": "S\u00f8ren Sveistrup"
+        },
+        {
+            "id": "nm1867674",
+            "name": "Jo Nesb\u00f8"
+        }
+    ],
+    "stars": "Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Jonas Karlsson",
+    "starList": [
+        {
+            "id": "nm1055413",
+            "name": "Michael Fassbender"
+        },
+        {
+            "id": "nm0272581",
+            "name": "Rebecca Ferguson"
+        },
+        {
+            "id": "nm0001250",
+            "name": "Charlotte Gainsbourg"
+        },
+        {
+            "id": "nm0439642",
+            "name": "Jonas Karlsson"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm1055413",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Fassbender",
+            "asCharacter": "Harry Hole"
+        },
+        {
+            "id": "nm0272581",
+            "image": "https://imdb-api.com/images/original/MV5BNzA4NDA1MTA5NV5BMl5BanBnXkFtZTcwNjMyNTQ3OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rebecca Ferguson",
+            "asCharacter": "Katrine Bratt"
+        },
+        {
+            "id": "nm0001250",
+            "image": "https://imdb-api.com/images/original/MV5BNDQyMzQ5NTEzNl5BMl5BanBnXkFtZTcwNjI3NTEzNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Charlotte Gainsbourg",
+            "asCharacter": "Rakel"
+        },
+        {
+            "id": "nm0439642",
+            "image": "https://imdb-api.com/images/original/MV5BMTg5OTUzMTU2OV5BMl5BanBnXkFtZTgwMjc0MTUwODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jonas Karlsson",
+            "asCharacter": "Mathias"
+        },
+        {
+            "id": "nm7868288",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Yates",
+            "asCharacter": "Oleg"
+        },
+        {
+            "id": "nm0895812",
+            "image": "https://imdb-api.com/images/original/MV5BMTUyOTg2OTY2Nl5BMl5BanBnXkFtZTYwMTY3Mjcy._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ronan Vibert",
+            "asCharacter": "Gunnar Hagen"
+        },
+        {
+            "id": "nm0799777",
+            "image": "https://imdb-api.com/images/original/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "J.K. Simmons",
+            "asCharacter": "Arve Stop"
+        },
+        {
+            "id": "nm0000174",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3ODIzMDA5Ml5BMl5BanBnXkFtZTcwNDY0NTU4Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Val Kilmer",
+            "asCharacter": "Rafto"
+        },
+        {
+            "id": "nm1399770",
+            "image": "https://imdb-api.com/images/original/MV5BMjI4OTExNTg3NF5BMl5BanBnXkFtZTgwNzE2NzQ4ODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Dencik",
+            "asCharacter": "Vetlesen"
+        },
+        {
+            "id": "nm0429363",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Toby Jones",
+            "asCharacter": "DC Svensson"
+        },
+        {
+            "id": "nm0642444",
+            "image": "https://imdb-api.com/images/original/MV5BOTY5MDYxOTk3M15BMl5BanBnXkFtZTgwODA1MjQyNDM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Genevieve O'Reilly",
+            "asCharacter": "Birte Becker"
+        },
+        {
+            "id": "nm0195439",
+            "image": "https://imdb-api.com/images/original/MV5BNzEyMDMzNTE5MV5BMl5BanBnXkFtZTcwMTQ2MTc1Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James D'Arcy",
+            "asCharacter": "Filip Becker"
+        },
+        {
+            "id": "nm5503448",
+            "image": "https://imdb-api.com/images/original/MV5BNTc5NmEzZmItYjU0NC00OTM3LWE3OTMtNWZjZDExOTZhOWY3XkEyXkFqcGdeQXVyNjQ3NDAwOTA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jet\u00e9 Laurence",
+            "asCharacter": "Josephine Becker"
+        },
+        {
+            "id": "nm0001160",
+            "image": "https://imdb-api.com/images/original/MV5BMTYxNDEzMDM1Ml5BMl5BanBnXkFtZTcwODQ3NTcxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adrian Dunbar",
+            "asCharacter": "Frederik Aasen"
+        },
+        {
+            "id": "nm0001721",
+            "image": "https://imdb-api.com/images/original/MV5BMTA3ODUwMTc1NDFeQTJeQWpwZ15BbWU4MDk1MjE2Nzkx._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chlo\u00eb Sevigny",
+            "asCharacter": "Sylvia Ottersen / Ane Pedersen"
+        },
+        {
+            "id": "nm1939580",
+            "image": "https://imdb-api.com/images/original/MV5BMjAwODM2YjItZmVkMy00MWQ4LTgzOWUtM2M0ZjZmNzUzNjliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jakob Oftebro",
+            "asCharacter": "DC Magnus Skarre"
+        },
+        {
+            "id": "nm7997235",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leonard Samuelsson Heinemann",
+            "asCharacter": "Boy (as Leonard Heinemann)"
+        },
+        {
+            "id": "nm0375138",
+            "image": "https://imdb-api.com/images/original/MV5BMTY5OTU0OTQ0NF5BMl5BanBnXkFtZTcwMDc1MDQ4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sofia Helin",
+            "asCharacter": "Boy's Mother"
+        },
+        {
+            "id": "nm0198059",
+            "image": "https://imdb-api.com/images/original/MV5BMjIxODM2OTA4MV5BMl5BanBnXkFtZTcwNDEwMjYxMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Peter Dalle",
+            "asCharacter": "Uncle Jonas"
+        },
+        {
+            "id": "nm0717176",
+            "image": "https://imdb-api.com/images/original/MV5BODU2NDc5NTExMl5BMl5BanBnXkFtZTYwMzM2OTE3._V1_Ratio1.4091_AL_.jpg",
+            "name": "Anne Reid",
+            "asCharacter": "Mrs. Bendiksen"
+        },
+        {
+            "id": "nm5604363",
+            "image": "https://imdb-api.com/images/original/MV5BYzM4ZjZkZWYtOWNiMy00MTAyLTkxMTMtM2FiNTM2MjQ3YjdlXkEyXkFqcGdeQXVyMzY3MzU1ODM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Silvia Busuioc",
+            "asCharacter": "Beautiful Girl"
+        },
+        {
+            "id": "nm1652341",
+            "image": "https://imdb-api.com/images/original/MV5BMjIxOWYwYTctNjFlMy00MmUyLWI4MWYtZjhkMzNhYjI5YzQ1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Jamie Michie",
+            "asCharacter": "Teacher"
+        },
+        {
+            "id": "nm1617726",
+            "image": "https://imdb-api.com/images/original/MV5BZGIyMmI0OTItY2MyZC00ODA3LWI5YzItNGI3MTQ4NGE4NzJkXkEyXkFqcGdeQXVyNDU1NTg4NjY@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Irina Kara",
+            "asCharacter": "Beautiful Girl's Mother"
+        },
+        {
+            "id": "nm1591065",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ben Abell",
+            "asCharacter": "Factory Manager"
+        },
+        {
+            "id": "nm0627995",
+            "image": "https://imdb-api.com/images/original/MV5BOWU4YTI2MjEtODBiZC00YzdiLWE4NDgtOWQzOWFhMzY2NzUyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Alec Newman",
+            "asCharacter": "Mould Man"
+        },
+        {
+            "id": "nm3911870",
+            "image": "https://imdb-api.com/images/original/MV5BZjkyNTVlZjAtNzZlYy00NTZjLTg0YmQtOTllYmFmZDk4MGYwXkEyXkFqcGdeQXVyMTAyMDk3MTUx._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jamie Clayton",
+            "asCharacter": "Edda"
+        },
+        {
+            "id": "nm0324743",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dinita Gohil",
+            "asCharacter": "Linda"
+        },
+        {
+            "id": "nm0054087",
+            "image": "https://imdb-api.com/images/original/MV5BYzY2ZDdjOTAtYzg0YS00NDEwLWFhNTYtOTg3Zjg5ZDc4NzVhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Roger Barclay",
+            "asCharacter": "Arve Stops Aide"
+        },
+        {
+            "id": "nm0851956",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alwyne Taylor",
+            "asCharacter": "Selection Committee Chairwoman"
+        },
+        {
+            "id": "nm4640835",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lars Berrum",
+            "asCharacter": "Musician"
+        },
+        {
+            "id": "nm9352328",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Max de Asmundis",
+            "asCharacter": "Boy 2"
+        },
+        {
+            "id": "nm2516193",
+            "image": "https://imdb-api.com/images/original/MV5BMTg3OTMzNTU3NF5BMl5BanBnXkFtZTcwMzQ1NjkxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jack Roth",
+            "asCharacter": "Mould Man 2"
+        },
+        {
+            "id": "nm5665521",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ali Al-Tobi",
+            "asCharacter": "Arve Stops Fashion Guest (uncredited)"
+        },
+        {
+            "id": "nm9346513",
+            "image": "https://imdb-api.com/images/original/MV5BNjQ4NGM2ZTgtZGEzOC00MTAzLTg0MDAtYTYyOGFlY2RmY2ZmXkEyXkFqcGdeQXVyNjM0NTMzNTc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Trim Balaj",
+            "asCharacter": "Bouncer at a Club (uncredited)"
+        },
+        {
+            "id": "nm9425496",
+            "image": "https://imdb-api.com/images/original/MV5BYzdiMmFlOTQtYzFiNi00ZDg0LTk3YTYtOTUxOWI3N2IyZDU2XkEyXkFqcGdeQXVyMTEzNDg0NzYw._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sindre Bergfall",
+            "asCharacter": "Guest in Tuxedo (uncredited)"
+        },
+        {
+            "id": "nm10130359",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sondre Brands\u00f8y",
+            "asCharacter": "Guy at concert (uncredited)"
+        },
+        {
+            "id": "nm6577243",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eirik M. B\u00f8e",
+            "asCharacter": "Hipster (uncredited)"
+        },
+        {
+            "id": "nm1495547",
+            "image": "https://imdb-api.com/images/original/MV5BYTBiM2JkMmMtZmI3NC00OTA0LWI1OGYtMWViYWE5NmIxOTg0XkEyXkFqcGdeQXVyNjg4MjcwNzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Charlot Daysh",
+            "asCharacter": "Celebrity Wife (uncredited)"
+        },
+        {
+            "id": "nm8324299",
+            "image": "https://imdb-api.com/images/original/MV5BYTA5MTkyN2ItMTdkYy00NDc4LWFiNmUtYzFiOTBmMDhkMDdjXkEyXkFqcGdeQXVyMTE1Nzc1Njk3._V1_Ratio1.5000_AL_.jpg",
+            "name": "\u00d8ystein Janke Ellingsen",
+            "asCharacter": "Forensic Science Technician (uncredited)"
+        },
+        {
+            "id": "nm10352536",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kim Ruben Fjeldstad",
+            "asCharacter": "TV Photographer (uncredited)"
+        },
+        {
+            "id": "nm6801934",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ4NzE0NzU0Ml5BMl5BanBnXkFtZTgwNTUwMTc1NjE@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Thomas Gangstad",
+            "asCharacter": "Hockey Spectator (uncredited)"
+        },
+        {
+            "id": "nm9142799",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Theresa Sigvartsen Gr\u00fcn",
+            "asCharacter": "Prom Queen (uncredited)"
+        },
+        {
+            "id": "nm7184228",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bj\u00f8rn Iversen",
+            "asCharacter": "Rolf Ottersen (uncredited)"
+        },
+        {
+            "id": "nm11031032",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robin Jacobsen",
+            "asCharacter": "Train Passenger (uncredited)"
+        },
+        {
+            "id": "nm6962420",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stani Lolo Jean",
+            "asCharacter": "Bar Guest (uncredited)"
+        },
+        {
+            "id": "nm5033527",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alexander Johansson",
+            "asCharacter": "Arve Stops Fashion Guest (uncredited)"
+        },
+        {
+            "id": "nm9964275",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brian Kndeneh",
+            "asCharacter": "Journalist (uncredited)"
+        },
+        {
+            "id": "nm8193719",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jan Lindwall",
+            "asCharacter": "Guest in Tuxedo (uncredited)"
+        },
+        {
+            "id": "nm8740260",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "\u00d8yvind M\u00f8rk",
+            "asCharacter": "Forensic (uncredited)"
+        },
+        {
+            "id": "nm5652806",
+            "image": "https://imdb-api.com/images/original/MV5BY2Q4ZWE3YTctOTljZS00ZDU2LWJmMjEtNzhiOTNjNzM4OWUwXkEyXkFqcGdeQXVyMTA4NjU5ODYz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Aurora Nossen",
+            "asCharacter": "Volunteer (uncredited)"
+        },
+        {
+            "id": "nm7835307",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alexander John Lucas Olafsen",
+            "asCharacter": "Train Passenger with Guitar (uncredited)"
+        },
+        {
+            "id": "nm1720532",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Johnny Otto",
+            "asCharacter": "Detective Campbell (uncredited)"
+        },
+        {
+            "id": "nm8804008",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harris Reiz",
+            "asCharacter": "Boy in the Train (uncredited)"
+        },
+        {
+            "id": "nm7489988",
+            "image": "https://imdb-api.com/images/original/MV5BYThjZGU3NzAtYTg4Ny00YmQ5LWFiMmQtYTIxN2JjYzg1YWQ2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Andr\u00e9 Santagati",
+            "asCharacter": "Bar Patron (uncredited)"
+        },
+        {
+            "id": "nm7813817",
+            "image": "https://imdb-api.com/images/original/MV5BZGQ4NDM0ZTQtNzg5OS00NDUyLWEwYWQtOWY3ZDhkNDU5MDNkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Joakim Skarli",
+            "asCharacter": "Policeman (uncredited)"
+        },
+        {
+            "id": "nm2182106",
+            "image": "https://imdb-api.com/images/original/MV5BOWQxMzViZDUtZWJiZC00OTg4LThkYWQtZjUyNDU2Mzg4NjU0XkEyXkFqcGdeQXVyNDI3NzI0MDI@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Anthony Mark Streeter",
+            "asCharacter": "Male Spectator (uncredited)"
+        },
+        {
+            "id": "nm1846115",
+            "image": "https://imdb-api.com/images/original/MV5BMTBkNDBiOGItNjE0ZC00N2NmLWFiN2YtY2Y5MzQwMmM0OWU3XkEyXkFqcGdeQXVyNTU3MzAxNjY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Patrick Str\u00f8m",
+            "asCharacter": "Policeman (uncredited)"
+        },
+        {
+            "id": "nm7520714",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0NTAyNjMwMV5BMl5BanBnXkFtZTgwOTEwMDM3ODE@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Martin Grid Toennesen",
+            "asCharacter": "Bar Guest (uncredited)"
+        },
+        {
+            "id": "nm8765390",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marius Tveit",
+            "asCharacter": "Arve Stops Fashion Guest (uncredited)"
+        },
+        {
+            "id": "nm8155632",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mikael Ulrichsen",
+            "asCharacter": "Neighbour on Crime Scene (uncredited)"
+        },
+        {
+            "id": "nm8044449",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stian Werme",
+            "asCharacter": "Neighbor (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt1758810",
+        "title": "The Snowman",
+        "fullTitle": "The Snowman (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0019247",
+                    "name": "Tomas Alfredson",
+                    "description": "(directed by)"
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm1661186",
+                    "name": "Peter Straughan",
+                    "description": "(screenplay by) and"
+                },
+                {
+                    "id": "nm0024925",
+                    "name": "Hossein Amini",
+                    "description": "(screenplay by) and"
+                },
+                {
+                    "id": "nm0841003",
+                    "name": "S\u00f8ren Sveistrup",
+                    "description": "(screenplay by)"
+                },
+                {
+                    "id": "nm1867674",
+                    "name": "Jo Nesb\u00f8",
+                    "description": "(based on the novel by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm1055413",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Fassbender",
+                "asCharacter": "Harry Hole"
+            },
+            {
+                "id": "nm0272581",
+                "image": "https://imdb-api.com/images/original/MV5BNzA4NDA1MTA5NV5BMl5BanBnXkFtZTcwNjMyNTQ3OA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Rebecca Ferguson",
+                "asCharacter": "Katrine Bratt"
+            },
+            {
+                "id": "nm0001250",
+                "image": "https://imdb-api.com/images/original/MV5BNDQyMzQ5NTEzNl5BMl5BanBnXkFtZTcwNjI3NTEzNQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Charlotte Gainsbourg",
+                "asCharacter": "Rakel"
+            },
+            {
+                "id": "nm0439642",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5OTUzMTU2OV5BMl5BanBnXkFtZTgwMjc0MTUwODE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jonas Karlsson",
+                "asCharacter": "Mathias"
+            },
+            {
+                "id": "nm7868288",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michael Yates",
+                "asCharacter": "Oleg"
+            },
+            {
+                "id": "nm0895812",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyOTg2OTY2Nl5BMl5BanBnXkFtZTYwMTY3Mjcy._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ronan Vibert",
+                "asCharacter": "Gunnar Hagen"
+            },
+            {
+                "id": "nm0799777",
+                "image": "https://imdb-api.com/images/original/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_Ratio0.8182_AL_.jpg",
+                "name": "J.K. Simmons",
+                "asCharacter": "Arve Stop"
+            },
+            {
+                "id": "nm0000174",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3ODIzMDA5Ml5BMl5BanBnXkFtZTcwNDY0NTU4Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Val Kilmer",
+                "asCharacter": "Rafto"
+            },
+            {
+                "id": "nm1399770",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4OTExNTg3NF5BMl5BanBnXkFtZTgwNzE2NzQ4ODE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "David Dencik",
+                "asCharacter": "Vetlesen"
+            },
+            {
+                "id": "nm0429363",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Toby Jones",
+                "asCharacter": "DC Svensson"
+            },
+            {
+                "id": "nm0642444",
+                "image": "https://imdb-api.com/images/original/MV5BOTY5MDYxOTk3M15BMl5BanBnXkFtZTgwODA1MjQyNDM@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Genevieve O'Reilly",
+                "asCharacter": "Birte Becker"
+            },
+            {
+                "id": "nm0195439",
+                "image": "https://imdb-api.com/images/original/MV5BNzEyMDMzNTE5MV5BMl5BanBnXkFtZTcwMTQ2MTc1Nw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "James D'Arcy",
+                "asCharacter": "Filip Becker"
+            },
+            {
+                "id": "nm5503448",
+                "image": "https://imdb-api.com/images/original/MV5BNTc5NmEzZmItYjU0NC00OTM3LWE3OTMtNWZjZDExOTZhOWY3XkEyXkFqcGdeQXVyNjQ3NDAwOTA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jet\u00e9 Laurence",
+                "asCharacter": "Josephine Becker"
+            },
+            {
+                "id": "nm0001160",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNDEzMDM1Ml5BMl5BanBnXkFtZTcwODQ3NTcxOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Adrian Dunbar",
+                "asCharacter": "Frederik Aasen"
+            },
+            {
+                "id": "nm0001721",
+                "image": "https://imdb-api.com/images/original/MV5BMTA3ODUwMTc1NDFeQTJeQWpwZ15BbWU4MDk1MjE2Nzkx._V1_Ratio0.7273_AL_.jpg",
+                "name": "Chlo\u00eb Sevigny",
+                "asCharacter": "Sylvia Ottersen / Ane Pedersen"
+            },
+            {
+                "id": "nm1939580",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwODM2YjItZmVkMy00MWQ4LTgzOWUtM2M0ZjZmNzUzNjliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jakob Oftebro",
+                "asCharacter": "DC Magnus Skarre"
+            },
+            {
+                "id": "nm7997235",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Leonard Samuelsson Heinemann",
+                "asCharacter": "Boy (as Leonard Heinemann)"
+            },
+            {
+                "id": "nm0375138",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5OTU0OTQ0NF5BMl5BanBnXkFtZTcwMDc1MDQ4Nw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sofia Helin",
+                "asCharacter": "Boy's Mother"
+            },
+            {
+                "id": "nm0198059",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxODM2OTA4MV5BMl5BanBnXkFtZTcwNDEwMjYxMw@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Peter Dalle",
+                "asCharacter": "Uncle Jonas"
+            },
+            {
+                "id": "nm0717176",
+                "image": "https://imdb-api.com/images/original/MV5BODU2NDc5NTExMl5BMl5BanBnXkFtZTYwMzM2OTE3._V1_Ratio1.4091_AL_.jpg",
+                "name": "Anne Reid",
+                "asCharacter": "Mrs. Bendiksen"
+            },
+            {
+                "id": "nm5604363",
+                "image": "https://imdb-api.com/images/original/MV5BYzM4ZjZkZWYtOWNiMy00MTAyLTkxMTMtM2FiNTM2MjQ3YjdlXkEyXkFqcGdeQXVyMzY3MzU1ODM@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Silvia Busuioc",
+                "asCharacter": "Beautiful Girl"
+            },
+            {
+                "id": "nm1652341",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxOWYwYTctNjFlMy00MmUyLWI4MWYtZjhkMzNhYjI5YzQ1XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio0.9545_AL_.jpg",
+                "name": "Jamie Michie",
+                "asCharacter": "Teacher"
+            },
+            {
+                "id": "nm1617726",
+                "image": "https://imdb-api.com/images/original/MV5BZGIyMmI0OTItY2MyZC00ODA3LWI5YzItNGI3MTQ4NGE4NzJkXkEyXkFqcGdeQXVyNDU1NTg4NjY@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Irina Kara",
+                "asCharacter": "Beautiful Girl's Mother"
+            },
+            {
+                "id": "nm1591065",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ben Abell",
+                "asCharacter": "Factory Manager"
+            },
+            {
+                "id": "nm0627995",
+                "image": "https://imdb-api.com/images/original/MV5BOWU4YTI2MjEtODBiZC00YzdiLWE4NDgtOWQzOWFhMzY2NzUyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Alec Newman",
+                "asCharacter": "Mould Man"
+            },
+            {
+                "id": "nm3911870",
+                "image": "https://imdb-api.com/images/original/MV5BZjkyNTVlZjAtNzZlYy00NTZjLTg0YmQtOTllYmFmZDk4MGYwXkEyXkFqcGdeQXVyMTAyMDk3MTUx._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jamie Clayton",
+                "asCharacter": "Edda"
+            },
+            {
+                "id": "nm0324743",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dinita Gohil",
+                "asCharacter": "Linda"
+            },
+            {
+                "id": "nm0054087",
+                "image": "https://imdb-api.com/images/original/MV5BYzY2ZDdjOTAtYzg0YS00NDEwLWFhNTYtOTg3Zjg5ZDc4NzVhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Roger Barclay",
+                "asCharacter": "Arve Stops Aide"
+            },
+            {
+                "id": "nm0851956",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alwyne Taylor",
+                "asCharacter": "Selection Committee Chairwoman"
+            },
+            {
+                "id": "nm4640835",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lars Berrum",
+                "asCharacter": "Musician"
+            },
+            {
+                "id": "nm9352328",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Max de Asmundis",
+                "asCharacter": "Boy 2"
+            },
+            {
+                "id": "nm2516193",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3OTMzNTU3NF5BMl5BanBnXkFtZTcwMzQ1NjkxOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jack Roth",
+                "asCharacter": "Mould Man 2"
+            },
+            {
+                "id": "nm5665521",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ali Al-Tobi",
+                "asCharacter": "Arve Stops Fashion Guest (uncredited)"
+            },
+            {
+                "id": "nm9346513",
+                "image": "https://imdb-api.com/images/original/MV5BNjQ4NGM2ZTgtZGEzOC00MTAzLTg0MDAtYTYyOGFlY2RmY2ZmXkEyXkFqcGdeQXVyNjM0NTMzNTc@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Trim Balaj",
+                "asCharacter": "Bouncer at a Club (uncredited)"
+            },
+            {
+                "id": "nm9425496",
+                "image": "https://imdb-api.com/images/original/MV5BYzdiMmFlOTQtYzFiNi00ZDg0LTk3YTYtOTUxOWI3N2IyZDU2XkEyXkFqcGdeQXVyMTEzNDg0NzYw._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sindre Bergfall",
+                "asCharacter": "Guest in Tuxedo (uncredited)"
+            },
+            {
+                "id": "nm10130359",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Sondre Brands\u00f8y",
+                "asCharacter": "Guy at concert (uncredited)"
+            },
+            {
+                "id": "nm6577243",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Eirik M. B\u00f8e",
+                "asCharacter": "Hipster (uncredited)"
+            },
+            {
+                "id": "nm1495547",
+                "image": "https://imdb-api.com/images/original/MV5BYTBiM2JkMmMtZmI3NC00OTA0LWI1OGYtMWViYWE5NmIxOTg0XkEyXkFqcGdeQXVyNjg4MjcwNzQ@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Charlot Daysh",
+                "asCharacter": "Celebrity Wife (uncredited)"
+            },
+            {
+                "id": "nm8324299",
+                "image": "https://imdb-api.com/images/original/MV5BYTA5MTkyN2ItMTdkYy00NDc4LWFiNmUtYzFiOTBmMDhkMDdjXkEyXkFqcGdeQXVyMTE1Nzc1Njk3._V1_Ratio1.5000_AL_.jpg",
+                "name": "\u00d8ystein Janke Ellingsen",
+                "asCharacter": "Forensic Science Technician (uncredited)"
+            },
+            {
+                "id": "nm10352536",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kim Ruben Fjeldstad",
+                "asCharacter": "TV Photographer (uncredited)"
+            },
+            {
+                "id": "nm6801934",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4NzE0NzU0Ml5BMl5BanBnXkFtZTgwNTUwMTc1NjE@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Thomas Gangstad",
+                "asCharacter": "Hockey Spectator (uncredited)"
+            },
+            {
+                "id": "nm9142799",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Theresa Sigvartsen Gr\u00fcn",
+                "asCharacter": "Prom Queen (uncredited)"
+            },
+            {
+                "id": "nm7184228",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bj\u00f8rn Iversen",
+                "asCharacter": "Rolf Ottersen (uncredited)"
+            },
+            {
+                "id": "nm11031032",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Robin Jacobsen",
+                "asCharacter": "Train Passenger (uncredited)"
+            },
+            {
+                "id": "nm6962420",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Stani Lolo Jean",
+                "asCharacter": "Bar Guest (uncredited)"
+            },
+            {
+                "id": "nm5033527",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alexander Johansson",
+                "asCharacter": "Arve Stops Fashion Guest (uncredited)"
+            },
+            {
+                "id": "nm9964275",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Brian Kndeneh",
+                "asCharacter": "Journalist (uncredited)"
+            },
+            {
+                "id": "nm8193719",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jan Lindwall",
+                "asCharacter": "Guest in Tuxedo (uncredited)"
+            },
+            {
+                "id": "nm8740260",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "\u00d8yvind M\u00f8rk",
+                "asCharacter": "Forensic (uncredited)"
+            },
+            {
+                "id": "nm5652806",
+                "image": "https://imdb-api.com/images/original/MV5BY2Q4ZWE3YTctOTljZS00ZDU2LWJmMjEtNzhiOTNjNzM4OWUwXkEyXkFqcGdeQXVyMTA4NjU5ODYz._V1_Ratio0.7273_AL_.jpg",
+                "name": "Aurora Nossen",
+                "asCharacter": "Volunteer (uncredited)"
+            },
+            {
+                "id": "nm7835307",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Alexander John Lucas Olafsen",
+                "asCharacter": "Train Passenger with Guitar (uncredited)"
+            },
+            {
+                "id": "nm1720532",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Johnny Otto",
+                "asCharacter": "Detective Campbell (uncredited)"
+            },
+            {
+                "id": "nm8804008",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Harris Reiz",
+                "asCharacter": "Boy in the Train (uncredited)"
+            },
+            {
+                "id": "nm7489988",
+                "image": "https://imdb-api.com/images/original/MV5BYThjZGU3NzAtYTg4Ny00YmQ5LWFiMmQtYTIxN2JjYzg1YWQ2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Andr\u00e9 Santagati",
+                "asCharacter": "Bar Patron (uncredited)"
+            },
+            {
+                "id": "nm7813817",
+                "image": "https://imdb-api.com/images/original/MV5BZGQ4NDM0ZTQtNzg5OS00NDUyLWEwYWQtOWY3ZDhkNDU5MDNkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5909_AL_.jpg",
+                "name": "Joakim Skarli",
+                "asCharacter": "Policeman (uncredited)"
+            },
+            {
+                "id": "nm2182106",
+                "image": "https://imdb-api.com/images/original/MV5BOWQxMzViZDUtZWJiZC00OTg4LThkYWQtZjUyNDU2Mzg4NjU0XkEyXkFqcGdeQXVyNDI3NzI0MDI@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Anthony Mark Streeter",
+                "asCharacter": "Male Spectator (uncredited)"
+            },
+            {
+                "id": "nm1846115",
+                "image": "https://imdb-api.com/images/original/MV5BMTBkNDBiOGItNjE0ZC00N2NmLWFiN2YtY2Y5MzQwMmM0OWU3XkEyXkFqcGdeQXVyNTU3MzAxNjY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Patrick Str\u00f8m",
+                "asCharacter": "Policeman (uncredited)"
+            },
+            {
+                "id": "nm7520714",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0NTAyNjMwMV5BMl5BanBnXkFtZTgwOTEwMDM3ODE@._V1_Ratio1.2273_AL_.jpg",
+                "name": "Martin Grid Toennesen",
+                "asCharacter": "Bar Guest (uncredited)"
+            },
+            {
+                "id": "nm8765390",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Marius Tveit",
+                "asCharacter": "Arve Stops Fashion Guest (uncredited)"
+            },
+            {
+                "id": "nm8155632",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mikael Ulrichsen",
+                "asCharacter": "Neighbour on Crime Scene (uncredited)"
+            },
+            {
+                "id": "nm8044449",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Stian Werme",
+                "asCharacter": "Neighbor (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0019247",
+                        "name": "Tomas Alfredson",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0079677",
+                        "name": "Tim Bevan",
+                        "description": "producer (produced by)"
+                    },
+                    {
+                        "id": "nm0153877",
+                        "name": "Liza Chasin",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0271479",
+                        "name": "Eric Fellner",
+                        "description": "producer (produced by)"
+                    },
+                    {
+                        "id": "nm0335028",
+                        "name": "Amelia Granger",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0349050",
+                        "name": "Piodor Gustafsson",
+                        "description": "producer (as Peter Gustafsson) (produced by)"
+                    },
+                    {
+                        "id": "nm0382076",
+                        "name": "Richard Hewitt",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm1086229",
+                        "name": "Alexander O'Neal",
+                        "description": "co-producer: additional photography"
+                    },
+                    {
+                        "id": "nm0000217",
+                        "name": "Martin Scorsese",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0863374",
+                        "name": "Emma Tillinger Koskoff",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm3382534",
+                        "name": "Tor Arne \u00d8vreb\u00f8",
+                        "description": "line producer: Norway"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0001937",
+                        "name": "Marco Beltrami",
+                        "description": "(music by)"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0066244",
+                        "name": "Dion Beebe",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0774817",
+                        "name": "Thelma Schoonmaker",
+                        "description": "(edited by)"
+                    },
+                    {
+                        "id": "nm0800943",
+                        "name": "Claire Simpson",
+                        "description": "(edited by)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0419605",
+                        "name": "Jina Jay",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0229319",
+                        "name": "Maria Djurkovic",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm2410680",
+                        "name": "Astrid Str\u00f8m Astrup",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm1826111",
+                        "name": "Andrea Borland",
+                        "description": "(Art Director additional photography)"
+                    },
+                    {
+                        "id": "nm1174730",
+                        "name": "Ben Collins",
+                        "description": "supervising art director"
+                    },
+                    {
+                        "id": "nm0184865",
+                        "name": "Robert Cowper",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm0418280",
+                        "name": "Linda Janson",
+                        "description": "senior art director"
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0526248",
+                        "name": "Tatiana Macdonald",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0206457",
+                        "name": "Julian Day",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm3506078",
+                        "name": "Robb Crafer",
+                        "description": "prosthetic standby artist: additional photography (as Rob Crayfer)"
+                    },
+                    {
+                        "id": "nm7422821",
+                        "name": "Amy Cuppage",
+                        "description": "junior makeup artist"
+                    },
+                    {
+                        "id": "nm7203330",
+                        "name": "Emily Dodge",
+                        "description": "hair stylist: additional photography / makeup artist: additional photography"
+                    },
+                    {
+                        "id": "nm0243038",
+                        "name": "Peta Dunstall",
+                        "description": "key hair stylist / key makeup artist"
+                    },
+                    {
+                        "id": "nm1285637",
+                        "name": "Bean Ellis",
+                        "description": "chief hair stylist: additional photography / chief makeup artist: additional photography"
+                    },
+                    {
+                        "id": "nm5256255",
+                        "name": "Amanda Goodfellow",
+                        "description": "hair and make-up artist: additional photography"
+                    },
+                    {
+                        "id": "nm4046821",
+                        "name": "Grethe Gunn Solberg Hansen",
+                        "description": "hair crowd supervisor / makeup crowd supervisor"
+                    },
+                    {
+                        "id": "nm0417123",
+                        "name": "Jane Jamieson",
+                        "description": "hair stylist: additional photography / makeup artist: additional photography"
+                    },
+                    {
+                        "id": "nm1037627",
+                        "name": "Love Larson",
+                        "description": "prosthetic makeup designer"
+                    },
+                    {
+                        "id": "nm2942968",
+                        "name": "Sarah Nuth",
+                        "description": "hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm0779106",
+                        "name": "Emma Scott",
+                        "description": "hair designer / makeup designer"
+                    },
+                    {
+                        "id": "nm1151378",
+                        "name": "Mattias Tobiasson",
+                        "description": "prosthetics technician"
+                    },
+                    {
+                        "id": "nm2868997",
+                        "name": "Oskar Wallroth",
+                        "description": "prosthetics technician"
+                    },
+                    {
+                        "id": "nm0931391",
+                        "name": "Nik Williams",
+                        "description": "prosthetic effects designer: additional photography"
+                    },
+                    {
+                        "id": "nm9328539",
+                        "name": "Maria Zahl",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm8669484",
+                        "name": "Fiona Chaffey",
+                        "description": "makeup artist (uncredited)"
+                    },
+                    {
+                        "id": "nm2387253",
+                        "name": "Hanna Holm",
+                        "description": "hair puncher: The Makeup Designers Stockholm AB (uncredited)"
+                    },
+                    {
+                        "id": "nm8051976",
+                        "name": "Louise Kj\u00e6r",
+                        "description": "crowd hair and make-up (uncredited)"
+                    },
+                    {
+                        "id": "nm5691736",
+                        "name": "Vidar Svendsen",
+                        "description": "makeup artist: crowd (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm3952284",
+                        "name": "Chris Barnett",
+                        "description": "assistant unit manager"
+                    },
+                    {
+                        "id": "nm0089888",
+                        "name": "Tania Blunden",
+                        "description": "post-production supervisor"
+                    },
+                    {
+                        "id": "nm0280773",
+                        "name": "Bj\u00f8rn Fj\u00e6restad",
+                        "description": "production manager"
+                    },
+                    {
+                        "id": "nm0290291",
+                        "name": "Rhun Francis",
+                        "description": "production manager: additional photography"
+                    },
+                    {
+                        "id": "nm1627279",
+                        "name": "Nj\u00e5l Lambrechts",
+                        "description": "production manager: Bergen"
+                    },
+                    {
+                        "id": "nm1016172",
+                        "name": "Bobby Prince",
+                        "description": "unit manager"
+                    },
+                    {
+                        "id": "nm1828415",
+                        "name": "Jennifer Wynne",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm5281571",
+                        "name": "Grant Butler",
+                        "description": "third assistant director"
+                    },
+                    {
+                        "id": "nm7309973",
+                        "name": "Gayle Dickie",
+                        "description": "second assistant director: second unit"
+                    },
+                    {
+                        "id": "nm6095013",
+                        "name": "Adam Foster",
+                        "description": "third assistant director: additional photography"
+                    },
+                    {
+                        "id": "nm1623952",
+                        "name": "Mark Hopkins",
+                        "description": "first assistant director: second unit"
+                    },
+                    {
+                        "id": "nm5590744",
+                        "name": "Sophie Kenny",
+                        "description": "third assistant director: additional photography second unit"
+                    },
+                    {
+                        "id": "nm3717585",
+                        "name": "Nick Laurence",
+                        "description": "second second assistant director"
+                    },
+                    {
+                        "id": "nm6462996",
+                        "name": "Hilde Smukkestad Lavik",
+                        "description": "third assistant director"
+                    },
+                    {
+                        "id": "nm2484749",
+                        "name": "Zoe Liang",
+                        "description": "key second assistant director"
+                    },
+                    {
+                        "id": "nm0582792",
+                        "name": "Saul Metzstein",
+                        "description": "second unit director"
+                    },
+                    {
+                        "id": "nm0643005",
+                        "name": "Alex Oakley",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm2128697",
+                        "name": "Toby Spanton",
+                        "description": "second assistant director: additional photography"
+                    },
+                    {
+                        "id": "nm3576936",
+                        "name": "Gareth Webb",
+                        "description": "third assistant director: additional photography"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm3452656",
+                        "name": "Jonas Jensen Aabrandt",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm11154901",
+                        "name": "Kai Ahokangas",
+                        "description": "carpenter: foreman"
+                    },
+                    {
+                        "id": "nm1577586",
+                        "name": "Charlotte Alfredsson",
+                        "description": "assistant set decorator"
+                    },
+                    {
+                        "id": "nm4895800",
+                        "name": "Geir M.V. Andersen",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm3944967",
+                        "name": "Louise Andersson",
+                        "description": "Props Coordinator"
+                    },
+                    {
+                        "id": "nm2507992",
+                        "name": "Liv Ask",
+                        "description": "second unit art director"
+                    },
+                    {
+                        "id": "nm9307086",
+                        "name": "Jenny Asp",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm5299196",
+                        "name": "Jill Beecher",
+                        "description": "conceptual drawings"
+                    },
+                    {
+                        "id": "nm7424340",
+                        "name": "Ida Bjerch-Andresen",
+                        "description": "art department assistant"
+                    },
+                    {
+                        "id": "nm6357539",
+                        "name": "Nicholas Bj\u00f8rneboe",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm8674723",
+                        "name": "Grzegorz Bodziony",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm1175168",
+                        "name": "Cristina Cecili",
+                        "description": "standby-painter"
+                    },
+                    {
+                        "id": "nm5147786",
+                        "name": "Frank Collins",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm1268120",
+                        "name": "Chris Cull",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm1472454",
+                        "name": "Cecilie De Lange",
+                        "description": "supervising property master"
+                    },
+                    {
+                        "id": "nm1096510",
+                        "name": "Sandro Ercolini",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm4715646",
+                        "name": "Jed Evans",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm1007145",
+                        "name": "Bj\u00f8rn Gr\u00f8nnerud",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm2047886",
+                        "name": "Kedy Hassani",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm4373305",
+                        "name": "Theo Hogben",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm8955434",
+                        "name": "Andrew Hughes",
+                        "description": "prop modeller"
+                    },
+                    {
+                        "id": "nm6363666",
+                        "name": "Anders Humlekj\u00e6r",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm7994261",
+                        "name": "Kristoffer Humlekj\u00e6r",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm5450721",
+                        "name": "Marie Isabel",
+                        "description": "assistant set decorator: additional photography"
+                    },
+                    {
+                        "id": "nm2021468",
+                        "name": "Daniel Kong",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm7607532",
+                        "name": "\u00d8yvind Langdalen",
+                        "description": "draughtsman"
+                    },
+                    {
+                        "id": "nm1459215",
+                        "name": "Emil Larsson",
+                        "description": "standby props"
+                    },
+                    {
+                        "id": "nm4475474",
+                        "name": "Silje Wiedswang Larsson",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm5753403",
+                        "name": "Chris Lees",
+                        "description": "draughtsperson: additional photography"
+                    },
+                    {
+                        "id": "nm8370361",
+                        "name": "Eirik Lia",
+                        "description": "graphic designer"
+                    },
+                    {
+                        "id": "nm2674135",
+                        "name": "Camilla Lindbr\u00e5ten",
+                        "description": "supervising property master"
+                    },
+                    {
+                        "id": "nm2703638",
+                        "name": "Viviana Lo Russo",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm2790241",
+                        "name": "Tord Moberg",
+                        "description": "construction manager"
+                    },
+                    {
+                        "id": "nm4884164",
+                        "name": "Ottar Moe",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm1077485",
+                        "name": "Craig Narramore",
+                        "description": "supervising prop maker"
+                    },
+                    {
+                        "id": "nm2941499",
+                        "name": "Silje Nordlien",
+                        "description": "art dep co-ordinator"
+                    },
+                    {
+                        "id": "nm11250053",
+                        "name": "Thomas Orderud",
+                        "description": "Props snow and ice"
+                    },
+                    {
+                        "id": "nm5163202",
+                        "name": "Oliver Reynolds",
+                        "description": "assistant buyer: additional photography"
+                    },
+                    {
+                        "id": "nm9101224",
+                        "name": "Axel Riiser-Larsen",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm1288528",
+                        "name": "Paola Sforzini",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm8420793",
+                        "name": "Heidi Hygen Skoghei",
+                        "description": "construction runner"
+                    },
+                    {
+                        "id": "nm4628446",
+                        "name": "Charis Theobald",
+                        "description": "graphic designer"
+                    },
+                    {
+                        "id": "nm3774102",
+                        "name": "Iosu Vakerizzo",
+                        "description": "props"
+                    },
+                    {
+                        "id": "nm8561560",
+                        "name": "Richard von L\u00f8wensprung",
+                        "description": "standby props assistant"
+                    },
+                    {
+                        "id": "nm1545515",
+                        "name": "Barney Ward",
+                        "description": "chargehand dressing props: additional photography"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0049791",
+                        "name": "Nick Baldock",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm7207615",
+                        "name": "Lilly Blazewicz",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm7604765",
+                        "name": "Helge Bod\u00f8gaard",
+                        "description": "sound assistant"
+                    },
+                    {
+                        "id": "nm0121416",
+                        "name": "Peter Burgis",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm4899475",
+                        "name": "Rob Davidsson",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm3869322",
+                        "name": "Simon Diggins",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm0236236",
+                        "name": "Mike Dowson",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm7288710",
+                        "name": "Karolina Dziwinska",
+                        "description": "sound post-production producer"
+                    },
+                    {
+                        "id": "nm6722275",
+                        "name": "Zoe Freed",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm1870011",
+                        "name": "Glen Gathard",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm6012880",
+                        "name": "Jan Thomas Halsvik",
+                        "description": "sound assistant"
+                    },
+                    {
+                        "id": "nm8248175",
+                        "name": "Michael S. Head",
+                        "description": "foley editor"
+                    },
+                    {
+                        "id": "nm5623091",
+                        "name": "Jo Jackson",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm4109352",
+                        "name": "Phil Lee",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0508048",
+                        "name": "Blake Leyh",
+                        "description": "re-recording mixer / supervising sound editor"
+                    },
+                    {
+                        "id": "nm0590131",
+                        "name": "Nigel Mills",
+                        "description": "supervising adr and dialog editor"
+                    },
+                    {
+                        "id": "nm0654227",
+                        "name": "Patrick Owen",
+                        "description": "sound recordist: additional photography"
+                    },
+                    {
+                        "id": "nm0654446",
+                        "name": "Rick Owens",
+                        "description": "foley artist: limited scenes"
+                    },
+                    {
+                        "id": "nm5355914",
+                        "name": "Rachel Park",
+                        "description": "adr assistant"
+                    },
+                    {
+                        "id": "nm4086557",
+                        "name": "Ingar Pedersen",
+                        "description": "b unit"
+                    },
+                    {
+                        "id": "nm3646876",
+                        "name": "Jon Persson",
+                        "description": "a.d.r recordist"
+                    },
+                    {
+                        "id": "nm4365192",
+                        "name": "Jens Rosenlund Petersen",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm6207100",
+                        "name": "Jemma Riley-Tolch",
+                        "description": "assistant foley mixer"
+                    },
+                    {
+                        "id": "nm4507306",
+                        "name": "Roger J. Sacdalan",
+                        "description": "mix technician: theatrical trailer"
+                    },
+                    {
+                        "id": "nm5269337",
+                        "name": "Robbie Scott",
+                        "description": "sound mix technician"
+                    },
+                    {
+                        "id": "nm1262666",
+                        "name": "Geordy Sincavage",
+                        "description": "foley mixer: limited scenes"
+                    },
+                    {
+                        "id": "nm1720468",
+                        "name": "Kathie Talbot",
+                        "description": "sound and vocal design: trailer"
+                    },
+                    {
+                        "id": "nm1623323",
+                        "name": "George Trevis",
+                        "description": "sound maintenance"
+                    },
+                    {
+                        "id": "nm0872419",
+                        "name": "Martin Trevis",
+                        "description": "sound recordist"
+                    },
+                    {
+                        "id": "nm8311591",
+                        "name": "Sebastian Vaskio",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm8996333",
+                        "name": "Peter Warnock",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm3189388",
+                        "name": "Andy Welker",
+                        "description": "adr mixer"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm2969310",
+                        "name": "Rune Andersen",
+                        "description": "snow effects technician"
+                    },
+                    {
+                        "id": "nm9121208",
+                        "name": "Vincent M\u00f8ksvold Borgmo",
+                        "description": "special effects assistant"
+                    },
+                    {
+                        "id": "nm5828202",
+                        "name": "George Buckleton",
+                        "description": "special effects"
+                    },
+                    {
+                        "id": "nm5817127",
+                        "name": "Florin Daniel Catrinoiu",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm1944194",
+                        "name": "Szilard Gergely",
+                        "description": "lead special effects technician / special effects technician"
+                    },
+                    {
+                        "id": "nm0363649",
+                        "name": "Johan Harnesk",
+                        "description": "snow supervisor"
+                    },
+                    {
+                        "id": "nm2930869",
+                        "name": "Andreas Hverven",
+                        "description": "armorer / snow effects technician"
+                    },
+                    {
+                        "id": "nm0404820",
+                        "name": "P\u00e5l Morten Hverven",
+                        "description": "snow coordinator"
+                    },
+                    {
+                        "id": "nm1085638",
+                        "name": "Stein H\u00e5konsen",
+                        "description": "snow effects technician"
+                    },
+                    {
+                        "id": "nm2641275",
+                        "name": "Gergely Laszlo",
+                        "description": "senior snow effects technician"
+                    },
+                    {
+                        "id": "nm0507960",
+                        "name": "Anders Lexne",
+                        "description": "armorer"
+                    },
+                    {
+                        "id": "nm0564792",
+                        "name": "Jason McCameron",
+                        "description": "special effects co-supervisor"
+                    },
+                    {
+                        "id": "nm4885859",
+                        "name": "Tom Mcloughlin",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0622932",
+                        "name": "Julio Navarro",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm4759763",
+                        "name": "Declan O'Donnell",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0672529",
+                        "name": "Stefano Pepin",
+                        "description": "special effects supervisor"
+                    },
+                    {
+                        "id": "nm5703689",
+                        "name": "Ronnie Rackley",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm3428257",
+                        "name": "Victor Rajala",
+                        "description": "snow effects technician"
+                    },
+                    {
+                        "id": "nm8745967",
+                        "name": "Mathias Sarre Ramstad",
+                        "description": "snow effects assistant"
+                    },
+                    {
+                        "id": "nm5688225",
+                        "name": "John Schofield",
+                        "description": "snow effects technician"
+                    },
+                    {
+                        "id": "nm7530643",
+                        "name": "Hayden Sheridan",
+                        "description": "special effects assistant"
+                    },
+                    {
+                        "id": "nm0914481",
+                        "name": "David j Watson",
+                        "description": "special effects floor supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm9279717",
+                        "name": "Zakariyah Abdel-Illah",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm7480405",
+                        "name": "Itamar Aloni",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm0071956",
+                        "name": "Nicholas Bennett",
+                        "description": "visual effects supervisor (as Nick Bennett)"
+                    },
+                    {
+                        "id": "nm8597890",
+                        "name": "John Bentley",
+                        "description": "DI VFX Wrangler"
+                    },
+                    {
+                        "id": "nm7096256",
+                        "name": "Olivia Beresford",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm5794468",
+                        "name": "Silvio Castagna Muscella",
+                        "description": "matchmove artist"
+                    },
+                    {
+                        "id": "nm7837690",
+                        "name": "Viviane Dall'Agnol",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm9080801",
+                        "name": "Amy Denny-Guerin",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm6638938",
+                        "name": "Lisa Theresa Downey-Dent",
+                        "description": "visual effects production assistant"
+                    },
+                    {
+                        "id": "nm7707231",
+                        "name": "Danny Duke",
+                        "description": "visual effects producer"
+                    },
+                    {
+                        "id": "nm5779687",
+                        "name": "Tiago Faria",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm6345416",
+                        "name": "Emanuele Farnesi",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm9279718",
+                        "name": "Justin Francis-Mcleish",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm4796022",
+                        "name": "Kai Gadd",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm5619995",
+                        "name": "Edd Gamlin",
+                        "description": "visual effects editor"
+                    },
+                    {
+                        "id": "nm6945102",
+                        "name": "Attila Gasparetz",
+                        "description": "visual effects artist (as Gasparetz Attila)"
+                    },
+                    {
+                        "id": "nm8304664",
+                        "name": "Jacob Green",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm8071025",
+                        "name": "Alexander Ha",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm5015288",
+                        "name": "Shani Hermoni",
+                        "description": "vfx compositor: Union VFX"
+                    },
+                    {
+                        "id": "nm0384563",
+                        "name": "Paul Hill",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm6869568",
+                        "name": "Geraint Hixson",
+                        "description": "head of production: Outpost VFX"
+                    },
+                    {
+                        "id": "nm9288152",
+                        "name": "Lewis Hodd",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm1948310",
+                        "name": "Marc Hutchings",
+                        "description": "compositor"
+                    },
+                    {
+                        "id": "nm4583797",
+                        "name": "Zafar Janjua",
+                        "description": "vfx line producer"
+                    },
+                    {
+                        "id": "nm4415307",
+                        "name": "Taskin Kenan",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm2605344",
+                        "name": "Marcin Kolendo",
+                        "description": "visual effects supervisor: OutpostVFX"
+                    },
+                    {
+                        "id": "nm8282664",
+                        "name": "Karl Kuehn",
+                        "description": "vfx editor"
+                    },
+                    {
+                        "id": "nm0492933",
+                        "name": "Matthew Lawrence",
+                        "description": "motion graphics"
+                    },
+                    {
+                        "id": "nm8153659",
+                        "name": "Lindsey Lo Presti",
+                        "description": "roto, prep, comp artist"
+                    },
+                    {
+                        "id": "nm8591799",
+                        "name": "Callum Mcnulty",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm1987426",
+                        "name": "Ryan Musante",
+                        "description": "visual effects producer"
+                    },
+                    {
+                        "id": "nm7420063",
+                        "name": "Paul O'Hara",
+                        "description": "visual effects coordinator"
+                    },
+                    {
+                        "id": "nm8419286",
+                        "name": "Matteo Olivieri-Dancey",
+                        "description": "roto/prep artist"
+                    },
+                    {
+                        "id": "nm6930119",
+                        "name": "Adam Redhead",
+                        "description": "fx artist"
+                    },
+                    {
+                        "id": "nm7629338",
+                        "name": "Susanna Riccio",
+                        "description": "digital compositor"
+                    },
+                    {
+                        "id": "nm4292541",
+                        "name": "James Roberts",
+                        "description": "visual effects supervisor"
+                    },
+                    {
+                        "id": "nm6270138",
+                        "name": "Anna Samuel",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm4244247",
+                        "name": "Jamie Schumacher",
+                        "description": "lead environment artist"
+                    },
+                    {
+                        "id": "nm8173859",
+                        "name": "Cristina Serreli",
+                        "description": "roto/prep artist"
+                    },
+                    {
+                        "id": "nm10272311",
+                        "name": "Marcelo Sousa",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm4141422",
+                        "name": "Caitlin Spiller",
+                        "description": "visual effects editor"
+                    },
+                    {
+                        "id": "nm4004541",
+                        "name": "Noga Alon Stein",
+                        "description": "visual effects producer"
+                    },
+                    {
+                        "id": "nm1864982",
+                        "name": "Gareth Stevenson",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm5670638",
+                        "name": "Helen Streeter",
+                        "description": "visual effects coordinator"
+                    },
+                    {
+                        "id": "nm5579109",
+                        "name": "Magdalena Turnier",
+                        "description": "vfx editor: Outpost VFX"
+                    },
+                    {
+                        "id": "nm3319875",
+                        "name": "Rodrigo Washington",
+                        "description": "digital artist: Technicolor"
+                    },
+                    {
+                        "id": "nm7565127",
+                        "name": "Alysia Wildman",
+                        "description": "vfx production manager"
+                    },
+                    {
+                        "id": "nm6267229",
+                        "name": "Ben Wilson",
+                        "description": "cg artist"
+                    },
+                    {
+                        "id": "nm3174599",
+                        "name": "Jason Wilson",
+                        "description": "visual effects artist"
+                    },
+                    {
+                        "id": "nm4478680",
+                        "name": "Lewis Wright",
+                        "description": "lead compositor"
+                    },
+                    {
+                        "id": "nm2151402",
+                        "name": "Luca Zappala",
+                        "description": "cg supervisor"
+                    },
+                    {
+                        "id": "nm8940810",
+                        "name": "Jose Alberto Pino",
+                        "description": "render manager (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm4202309",
+                        "name": "Kjetil C. Astrup",
+                        "description": "safety diver"
+                    },
+                    {
+                        "id": "nm4635997",
+                        "name": "Rachelle Beinart",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm3470481",
+                        "name": "Adam Brashaw",
+                        "description": "stunt double: michael fassbender"
+                    },
+                    {
+                        "id": "nm3954549",
+                        "name": "Luke Gomes",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm0378609",
+                        "name": "Paul Herbert",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm2845230",
+                        "name": "Christel J\u00f8rgensen",
+                        "description": "Precision driver/stunt double: Rebecca Ferguson"
+                    },
+                    {
+                        "id": "nm1626843",
+                        "name": "Amund Lie",
+                        "description": "safety diver"
+                    },
+                    {
+                        "id": "nm3204401",
+                        "name": "Ben Mahoney",
+                        "description": "head stunt rigger"
+                    },
+                    {
+                        "id": "nm2427605",
+                        "name": "Belinda McGinley",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm7467478",
+                        "name": "James O'Daly",
+                        "description": "stunt performer"
+                    },
+                    {
+                        "id": "nm2793770",
+                        "name": "Kai Kolstad R\u00f8dseth",
+                        "description": "stunt double: Michael Fassbender"
+                    },
+                    {
+                        "id": "nm3055936",
+                        "name": "Laura Swift",
+                        "description": "stunt double: Charlotte Gainsbourg"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm1084770",
+                        "name": "Eirik Holst Aag\u00e5rd",
+                        "description": "first assistant camera: second unit"
+                    },
+                    {
+                        "id": "nm0026174",
+                        "name": "John Andreas Andersen",
+                        "description": "director of photography: second unit"
+                    },
+                    {
+                        "id": "nm8439828",
+                        "name": "Daniell Ashby",
+                        "description": "drone pilot"
+                    },
+                    {
+                        "id": "nm4202309",
+                        "name": "Kjetil C. Astrup",
+                        "description": "underwater camera operator"
+                    },
+                    {
+                        "id": "nm4455734",
+                        "name": "Kim Bach",
+                        "description": "digital imaging technician"
+                    },
+                    {
+                        "id": "nm6677091",
+                        "name": "Michael Berglund",
+                        "description": "russian arm - camera operator (as Michael Thunem Berglund) / technocrane / head technician (as Michael Thunem Berglund)"
+                    },
+                    {
+                        "id": "nm6434117",
+                        "name": "Thomas Bj\u00f8rnstad",
+                        "description": "second assistant camera: \"J\" camera unit Norway"
+                    },
+                    {
+                        "id": "nm5393365",
+                        "name": "Jesse Boels",
+                        "description": "video assist operator"
+                    },
+                    {
+                        "id": "nm2823918",
+                        "name": "Karl Andre Bru",
+                        "description": "rigging electrician"
+                    },
+                    {
+                        "id": "nm5934566",
+                        "name": "Ragnar B\u00f8e",
+                        "description": "third assistant camera: \"e\" camera"
+                    },
+                    {
+                        "id": "nm2966864",
+                        "name": "Eve Carre\u00f1o",
+                        "description": "second assistant camera: additional photography"
+                    },
+                    {
+                        "id": "nm5695998",
+                        "name": "Ash Daniyan",
+                        "description": "digital imagining technician: additional photography"
+                    },
+                    {
+                        "id": "nm5139931",
+                        "name": "Gianmarco Donaggio",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm3249899",
+                        "name": "Jess Doxey",
+                        "description": "second assistant camera: additional photography"
+                    },
+                    {
+                        "id": "nm8356275",
+                        "name": "Per Christian Dyr\u00f8",
+                        "description": "aerial camera operator"
+                    },
+                    {
+                        "id": "nm6364391",
+                        "name": "Henrik Efskin",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0251619",
+                        "name": "Anders Eide",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm4214481",
+                        "name": "Andreas Bru Eide",
+                        "description": "drone camera operator"
+                    },
+                    {
+                        "id": "nm8439841",
+                        "name": "Thomas J. Elliott",
+                        "description": "drone tech / drone pilot"
+                    },
+                    {
+                        "id": "nm0257630",
+                        "name": "Jack English",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm5076135",
+                        "name": "Robert Egron Erstad",
+                        "description": "camera operator: \"movi\" camera"
+                    },
+                    {
+                        "id": "nm8393187",
+                        "name": "Henrik Formoe",
+                        "description": "lighting technician: second unit"
+                    },
+                    {
+                        "id": "nm5600413",
+                        "name": "Tomas Frigstad",
+                        "description": "camera trainee: \"a\" camera"
+                    },
+                    {
+                        "id": "nm6544327",
+                        "name": "Will Gething",
+                        "description": "camera trainee: additional photography"
+                    },
+                    {
+                        "id": "nm2098120",
+                        "name": "Christen Kenneth Gran",
+                        "description": "best boy"
+                    },
+                    {
+                        "id": "nm6199577",
+                        "name": "Kristoffer Grindheim",
+                        "description": "third assistant camera: \"B\" Camera and 2nd Unit"
+                    },
+                    {
+                        "id": "nm1424963",
+                        "name": "Marius Matzow Gulbrandsen",
+                        "description": "camera operator: 'b' camera"
+                    },
+                    {
+                        "id": "nm3249928",
+                        "name": "Jon-Andr\u00e9 Hakv\u00e5g",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm7286351",
+                        "name": "Oliver Hallam",
+                        "description": "clapper loader: additional photography"
+                    },
+                    {
+                        "id": "nm5570911",
+                        "name": "Anthony Harrison",
+                        "description": "assistant camera"
+                    },
+                    {
+                        "id": "nm4933899",
+                        "name": "Jonas Rand Haukeland",
+                        "description": "third assistant camera: \"a\" camera"
+                    },
+                    {
+                        "id": "nm2075719",
+                        "name": "Odd Hynnekleiv",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm1858898",
+                        "name": "Antti Janhunen",
+                        "description": "electrician: re-shoots"
+                    },
+                    {
+                        "id": "nm1007140",
+                        "name": "Jarl Grantin Johnsen",
+                        "description": "gaffer: second unit"
+                    },
+                    {
+                        "id": "nm1177618",
+                        "name": "Nick Kenealy",
+                        "description": "video playback operator: additional photography"
+                    },
+                    {
+                        "id": "nm1984665",
+                        "name": "Christian Koblizek",
+                        "description": "rigging gaffer"
+                    },
+                    {
+                        "id": "nm7457061",
+                        "name": "Johan Kuurne",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm8532368",
+                        "name": "Kristoffer Reid Kvernhaug",
+                        "description": "D.I.T. & Video assistant"
+                    },
+                    {
+                        "id": "nm7871546",
+                        "name": "Max Elliot Lovell",
+                        "description": "lighting technician: additional photography"
+                    },
+                    {
+                        "id": "nm2291172",
+                        "name": "Thor Erik L\u00f8kken",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm3659812",
+                        "name": "Daniele Marchitelli",
+                        "description": "assistant camera: 'a' camera"
+                    },
+                    {
+                        "id": "nm6969069",
+                        "name": "Miki Schack Mikkelsen",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0593472",
+                        "name": "Jon Mitchell",
+                        "description": "first assistant camera: additional photography"
+                    },
+                    {
+                        "id": "nm1402980",
+                        "name": "Shanon Moratti",
+                        "description": "2nd unit: data wrangler"
+                    },
+                    {
+                        "id": "nm3799528",
+                        "name": "Andreas Berg Nesse",
+                        "description": "second assistant camera: \"b\" camera"
+                    },
+                    {
+                        "id": "nm4960985",
+                        "name": "David Odstad",
+                        "description": "electrician: second unit"
+                    },
+                    {
+                        "id": "nm1022007",
+                        "name": "Robin Ottersen",
+                        "description": "second assistant camera: \"a\" camera"
+                    },
+                    {
+                        "id": "nm1038068",
+                        "name": "Jens J. Patterson",
+                        "description": "first assistant camera: \"a\" camera"
+                    },
+                    {
+                        "id": "nm0003997",
+                        "name": "Derrick Peters",
+                        "description": "first assistant camera: additional photography"
+                    },
+                    {
+                        "id": "nm2463426",
+                        "name": "P\u00e5l Ulvik Rokseth",
+                        "description": "director of photography: plate unit"
+                    },
+                    {
+                        "id": "nm8568581",
+                        "name": "Ingrid Marie R\u00f8ine",
+                        "description": "camera trainee"
+                    },
+                    {
+                        "id": "nm0754033",
+                        "name": "Terje R\u00f8kke",
+                        "description": "russian arm operator"
+                    },
+                    {
+                        "id": "nm2673602",
+                        "name": "Johannes Selvaag",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm5346179",
+                        "name": "P\u00e5l Andr\u00e9 Sterud",
+                        "description": "grip (as P\u00e5l A. Sterud)"
+                    },
+                    {
+                        "id": "nm8336321",
+                        "name": "J\u00f8rgen Sviland",
+                        "description": "gyro head technician/technocrane grip"
+                    },
+                    {
+                        "id": "nm0845266",
+                        "name": "Patrik S\u00e4fstr\u00f6m",
+                        "description": "camera operator: 'b' camera"
+                    },
+                    {
+                        "id": "nm3928352",
+                        "name": "Fredrik S\u00f8rlie",
+                        "description": "russian arm car driver"
+                    },
+                    {
+                        "id": "nm5246690",
+                        "name": "Ram K Tripathi Samaveda",
+                        "description": "digital imaging technician: additional photography"
+                    },
+                    {
+                        "id": "nm6502791",
+                        "name": "Levi Gawrock Tr\u00f8ite",
+                        "description": "best boy: second unit"
+                    },
+                    {
+                        "id": "nm2870003",
+                        "name": "Stig Tvenge",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm1264943",
+                        "name": "Michael T\u00f8t",
+                        "description": "key grip: second unit"
+                    },
+                    {
+                        "id": "nm4121862",
+                        "name": "J\u00f8rgen Werner",
+                        "description": "rigging best boy"
+                    },
+                    {
+                        "id": "nm5923932",
+                        "name": "Theresa Winkelmann",
+                        "description": "electrician: second unit"
+                    },
+                    {
+                        "id": "nm1917357",
+                        "name": "Espen Zubi",
+                        "description": "cameracar operator"
+                    },
+                    {
+                        "id": "nm5496485",
+                        "name": "\u00d3lafur Kiljan \u00d3lafsson",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm8616577",
+                        "name": "Lisa Emilie \u00d8verjordet",
+                        "description": "electrician (as Lisa Emilie Frag \u00d8verjordet)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm4216545",
+                        "name": "Olivia Brittain",
+                        "description": "casting assistant"
+                    },
+                    {
+                        "id": "nm8506801",
+                        "name": "Alicia M. Eidesund",
+                        "description": "extras casting coordinator: Bergen"
+                    },
+                    {
+                        "id": "nm5118254",
+                        "name": "Jessie Frost",
+                        "description": "casting associate"
+                    },
+                    {
+                        "id": "nm7095083",
+                        "name": "Sabrina Khan Norstr\u00f8m",
+                        "description": "extras casting assistant"
+                    },
+                    {
+                        "id": "nm2575342",
+                        "name": "Iselin Saga",
+                        "description": "extras casting"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm6112699",
+                        "name": "Helene Arnesen",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm0206457",
+                        "name": "Julian Day",
+                        "description": "costumer"
+                    },
+                    {
+                        "id": "nm8063795",
+                        "name": "Synne Reichelt F\u00f8reland",
+                        "description": "costume trainee"
+                    },
+                    {
+                        "id": "nm2331907",
+                        "name": "Nell Knudsen",
+                        "description": "key breakdown artist"
+                    },
+                    {
+                        "id": "nm2100241",
+                        "name": "Sofie Rage Larsen",
+                        "description": "costume coordinator"
+                    },
+                    {
+                        "id": "nm1557127",
+                        "name": "Kate Laver",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm5429547",
+                        "name": "Amy Pollitt",
+                        "description": "wardrobe mistress"
+                    },
+                    {
+                        "id": "nm7350359",
+                        "name": "Amy Thomson",
+                        "description": "costume assistant"
+                    },
+                    {
+                        "id": "nm2665346",
+                        "name": "Cecile Van Dijk",
+                        "description": "costume supervisor: additional photography"
+                    },
+                    {
+                        "id": "nm4674273",
+                        "name": "Yanika Waters",
+                        "description": "key costumer"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm1757927",
+                        "name": "Matt Adams",
+                        "description": "digital intermediate consultant"
+                    },
+                    {
+                        "id": "nm0236473",
+                        "name": "Peter Doyle",
+                        "description": "supervising digital colorist"
+                    },
+                    {
+                        "id": "nm4806705",
+                        "name": "Beaumont Loewenthal",
+                        "description": "second assistant editor"
+                    },
+                    {
+                        "id": "nm2662108",
+                        "name": "Emma McCleave",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm1733928",
+                        "name": "Tomi Nieminen",
+                        "description": "digital intermediate producer"
+                    },
+                    {
+                        "id": "nm4312144",
+                        "name": "Raul Sevilla",
+                        "description": "dcp mastering"
+                    },
+                    {
+                        "id": "nm4141422",
+                        "name": "Caitlin Spiller",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm2650987",
+                        "name": "Justin Ngy Tran",
+                        "description": "digital intermediate on-line editor"
+                    },
+                    {
+                        "id": "nm1831168",
+                        "name": "Jamie Turpin",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm3365744",
+                        "name": "Lee Twohey",
+                        "description": "hd deliverables"
+                    },
+                    {
+                        "id": "nm9930620",
+                        "name": "Mark Wilkinson",
+                        "description": "digital video post-production"
+                    },
+                    {
+                        "id": "nm11045985",
+                        "name": "Pippa Vaughan",
+                        "description": "post-production runner (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm2168487",
+                        "name": "Shahbaz Aynoddin",
+                        "description": "locations scout"
+                    },
+                    {
+                        "id": "nm1007404",
+                        "name": "Per Henry Borch",
+                        "description": "locations scout"
+                    },
+                    {
+                        "id": "nm1308247",
+                        "name": "Nil Borg",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm6143014",
+                        "name": "Jonas F. Christiansen",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm6937758",
+                        "name": "Anette Gandrudbakken",
+                        "description": "assistant location manager: Bergen"
+                    },
+                    {
+                        "id": "nm10047772",
+                        "name": "Elaine Gumatay",
+                        "description": "location coordinator"
+                    },
+                    {
+                        "id": "nm1627279",
+                        "name": "Nj\u00e5l Lambrechts",
+                        "description": "location manager: Bergen"
+                    },
+                    {
+                        "id": "nm8873132",
+                        "name": "Harriet L\u00f8kensgard",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm0645132",
+                        "name": "Eirik Ohna",
+                        "description": "locations scout"
+                    },
+                    {
+                        "id": "nm8417850",
+                        "name": "Steve Michael R\u00f8yset",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm4183967",
+                        "name": "H\u00e5vard Schei",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm1016950",
+                        "name": "Camilla Stephenson",
+                        "description": "supervising location manager"
+                    },
+                    {
+                        "id": "nm6159097",
+                        "name": "Andreas S\u00f8fteland Milde",
+                        "description": "location manager: second unit, Norway"
+                    },
+                    {
+                        "id": "nm3976122",
+                        "name": "Brynjulv Wasa",
+                        "description": "assistant location manager"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm8219611",
+                        "name": "Christoph Allerstorfer",
+                        "description": "composer: trailer music"
+                    },
+                    {
+                        "id": "nm9378878",
+                        "name": "Ashley Andrew-Jones",
+                        "description": "assistant engineer"
+                    },
+                    {
+                        "id": "nm0111496",
+                        "name": "Richard Bronskill",
+                        "description": "orchestrator"
+                    },
+                    {
+                        "id": "nm2581089",
+                        "name": "Celeste Chada",
+                        "description": "scoring consultant"
+                    },
+                    {
+                        "id": "nm0175018",
+                        "name": "Michael Connell",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm4905729",
+                        "name": "Madeline Frick",
+                        "description": "music department"
+                    },
+                    {
+                        "id": "nm0334204",
+                        "name": "Mark Graham",
+                        "description": "conductor / orchestrator"
+                    },
+                    {
+                        "id": "nm3122020",
+                        "name": "Miles Hankins",
+                        "description": "composer: additional music"
+                    },
+                    {
+                        "id": "nm0435987",
+                        "name": "Carlton Kaller",
+                        "description": "temp music editor"
+                    },
+                    {
+                        "id": "nm0475804",
+                        "name": "John Kurlander",
+                        "description": "music recording engineer / score mixer"
+                    },
+                    {
+                        "id": "nm10584230",
+                        "name": "Erich Lee",
+                        "description": "composer trailer music"
+                    },
+                    {
+                        "id": "nm4352406",
+                        "name": "Tyson Lozensky",
+                        "description": "soundtrack editor"
+                    },
+                    {
+                        "id": "nm9882350",
+                        "name": "Gianluca Massimo",
+                        "description": "assistant engineer"
+                    },
+                    {
+                        "id": "nm0730886",
+                        "name": "Brandon Roberts",
+                        "description": "composer: additional music"
+                    },
+                    {
+                        "id": "nm4687347",
+                        "name": "Clare Salaman",
+                        "description": "featured soloist: nyckelharpe"
+                    },
+                    {
+                        "id": "nm0761486",
+                        "name": "Buck Sanders",
+                        "description": "electro acoustic design"
+                    },
+                    {
+                        "id": "nm0807939",
+                        "name": "Dennis Smith",
+                        "description": "composer: additional music"
+                    },
+                    {
+                        "id": "nm0874351",
+                        "name": "Marcus Trumpp",
+                        "description": "composer: additional music"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0569812",
+                        "name": "Jeanette McGrath",
+                        "description": "script supervisor: second unit"
+                    },
+                    {
+                        "id": "nm4549748",
+                        "name": "Edward Simmons",
+                        "description": "script editor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm7989631",
+                        "name": "Marthe Ellefsen",
+                        "description": "driver: cast"
+                    },
+                    {
+                        "id": "nm7786568",
+                        "name": "Henrik Kaels Faltin",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm6895756",
+                        "name": "Kerri Hackett-White",
+                        "description": "facilities account manager"
+                    },
+                    {
+                        "id": "nm7261143",
+                        "name": "Nikolai Hauge",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm8123126",
+                        "name": "Anine Therese Johansen",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm7984959",
+                        "name": "Henrik Lundgreen",
+                        "description": "driver: cast"
+                    },
+                    {
+                        "id": "nm5962009",
+                        "name": "Jerry Smith",
+                        "description": "facilities captain"
+                    },
+                    {
+                        "id": "nm8117948",
+                        "name": "Morten Wien Solberg",
+                        "description": "driver: cast"
+                    },
+                    {
+                        "id": "nm7989630",
+                        "name": "Halvor S\u00e6ther",
+                        "description": "2nd unit: Picture double"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm2641272",
+                        "name": "Ashley Adler",
+                        "description": "adr voice artist"
+                    },
+                    {
+                        "id": "nm4120875",
+                        "name": "Cecily Barber",
+                        "description": "production coordinator: additional photography"
+                    },
+                    {
+                        "id": "nm0059477",
+                        "name": "Craig Barwick",
+                        "description": "financial controller"
+                    },
+                    {
+                        "id": "nm5904887",
+                        "name": "Lisa Birch",
+                        "description": "asst. to diving coordinator: additional photography"
+                    },
+                    {
+                        "id": "nm6357539",
+                        "name": "Nicholas Bj\u00f8rneboe",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm3582371",
+                        "name": "Catherine Booton",
+                        "description": "assistant production coordinator"
+                    },
+                    {
+                        "id": "nm4597117",
+                        "name": "Dave Booys",
+                        "description": "scuba diver"
+                    },
+                    {
+                        "id": "nm0118907",
+                        "name": "Daniel Budd",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm6759679",
+                        "name": "Ali Claire",
+                        "description": "vp credits: Universal Pictures (as Alison Claire-Genis)"
+                    },
+                    {
+                        "id": "nm3906215",
+                        "name": "Victoria Colwill",
+                        "description": "set runner: dailes"
+                    },
+                    {
+                        "id": "nm1379624",
+                        "name": "William Conacher",
+                        "description": "dialect coach"
+                    },
+                    {
+                        "id": "nm8521828",
+                        "name": "Thomas Dalen",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm4630796",
+                        "name": "Maria Ana D. Dias",
+                        "description": "assistant production coordinator: additional photography"
+                    },
+                    {
+                        "id": "nm7303787",
+                        "name": "Sam Dormer",
+                        "description": "armourer"
+                    },
+                    {
+                        "id": "nm8894414",
+                        "name": "Danielle Dudley",
+                        "description": "assistant: Rebecca Ferguson"
+                    },
+                    {
+                        "id": "nm5488777",
+                        "name": "Victoria Endacott",
+                        "description": "assistant: Tim Bevan"
+                    },
+                    {
+                        "id": "nm8882109",
+                        "name": "India Flint",
+                        "description": "assistant: Eric Fellner"
+                    },
+                    {
+                        "id": "nm7992484",
+                        "name": "Daniel Frikstad",
+                        "description": "stand-in/double: Michael Fassbender"
+                    },
+                    {
+                        "id": "nm0317180",
+                        "name": "Sasha Gibson",
+                        "description": "Unit publicist"
+                    },
+                    {
+                        "id": "nm8020250",
+                        "name": "Marius Moe Gilboe",
+                        "description": "unit assistant"
+                    },
+                    {
+                        "id": "nm1682727",
+                        "name": "Sonny Gill",
+                        "description": "assistant: Tomas Alfredson"
+                    },
+                    {
+                        "id": "nm4776167",
+                        "name": "Sofia Guiotto",
+                        "description": "assistant production coordinator"
+                    },
+                    {
+                        "id": "nm7403266",
+                        "name": "Villvin Gulbrandsr\u00f8d",
+                        "description": "unit assistant"
+                    },
+                    {
+                        "id": "nm8895890",
+                        "name": "Mads Kvalvaag Halvorsen",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm7172500",
+                        "name": "Mette Haukeland",
+                        "description": "graphic assistant"
+                    },
+                    {
+                        "id": "nm8345320",
+                        "name": "Martin Heberden",
+                        "description": "clearances"
+                    },
+                    {
+                        "id": "nm7601798",
+                        "name": "Tuva Heger-Bratterud",
+                        "description": "set medic"
+                    },
+                    {
+                        "id": "nm2020809",
+                        "name": "Anna Hinds",
+                        "description": "assistant production coordinator: pre-production"
+                    },
+                    {
+                        "id": "nm7649232",
+                        "name": "Siw Jakobsen",
+                        "description": "production secretary"
+                    },
+                    {
+                        "id": "nm7586003",
+                        "name": "Samuel Kirby",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm9611005",
+                        "name": "Henry Kittredge",
+                        "description": "Assistant: Liza Chasin"
+                    },
+                    {
+                        "id": "nm4489223",
+                        "name": "Lawrence Mason",
+                        "description": "production coordinator: Working Title Films"
+                    },
+                    {
+                        "id": "nm4559469",
+                        "name": "Collie McCarthy",
+                        "description": "Post Production Coordinator"
+                    },
+                    {
+                        "id": "nm6216075",
+                        "name": "Mia Moen Grendal",
+                        "description": "production/accounts assistant"
+                    },
+                    {
+                        "id": "nm2299723",
+                        "name": "Alex Molden",
+                        "description": "production coordinator: additional photography"
+                    },
+                    {
+                        "id": "nm3057603",
+                        "name": "David Moore",
+                        "description": "insurance risk manager"
+                    },
+                    {
+                        "id": "nm0607290",
+                        "name": "Richard Morrison",
+                        "description": "end roller by"
+                    },
+                    {
+                        "id": "nm4294081",
+                        "name": "Richard Neale",
+                        "description": "computer & video playback technician: CompuHire"
+                    },
+                    {
+                        "id": "nm1993262",
+                        "name": "Heather Newman",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm7139761",
+                        "name": "Prince Nyantian Joe",
+                        "description": "production staff"
+                    },
+                    {
+                        "id": "nm6622029",
+                        "name": "Jack Plummer",
+                        "description": "production secretary: additional photography"
+                    },
+                    {
+                        "id": "nm7810952",
+                        "name": "Georgia Pownall",
+                        "description": "assistant: Eric Fellner"
+                    },
+                    {
+                        "id": "nm1007915",
+                        "name": "Asha Radwan",
+                        "description": "clearances"
+                    },
+                    {
+                        "id": "nm9252006",
+                        "name": "Leah Rose",
+                        "description": "production assistant: additional photography"
+                    },
+                    {
+                        "id": "nm1238748",
+                        "name": "Karly Rothenberg",
+                        "description": "adr voice match"
+                    },
+                    {
+                        "id": "nm4174555",
+                        "name": "Erik Rydell",
+                        "description": "assistant: Piodor Gustafsson"
+                    },
+                    {
+                        "id": "nm9355803",
+                        "name": "Aleksandra R\u00f8ste",
+                        "description": "crowd cars coordinator"
+                    },
+                    {
+                        "id": "nm5743928",
+                        "name": "Jay Salomon",
+                        "description": "floor runner: additional photography"
+                    },
+                    {
+                        "id": "nm7917938",
+                        "name": "Heidi Sandbukten",
+                        "description": "stand-in/double: Rebecca Ferguson"
+                    },
+                    {
+                        "id": "nm1147499",
+                        "name": "Dave Shaw",
+                        "description": "diving coordinator: additional photography"
+                    },
+                    {
+                        "id": "nm4549748",
+                        "name": "Edward Simmons",
+                        "description": "assistant: Robyn Slovo"
+                    },
+                    {
+                        "id": "nm5222774",
+                        "name": "Lars Thomas Skare",
+                        "description": "floor runner"
+                    },
+                    {
+                        "id": "nm4673180",
+                        "name": "Lottie Smith",
+                        "description": "floor runner"
+                    },
+                    {
+                        "id": "nm0821266",
+                        "name": "Deryn Stafford",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm7269420",
+                        "name": "P\u00e5l Tangen",
+                        "description": "unit manager"
+                    },
+                    {
+                        "id": "nm4182117",
+                        "name": "Edward Taroghion",
+                        "description": "assistant accountant"
+                    },
+                    {
+                        "id": "nm9029047",
+                        "name": "Craig Thompson",
+                        "description": "unit medic: additional photography dailies"
+                    },
+                    {
+                        "id": "nm5481123",
+                        "name": "Stine Tolaas",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm6509876",
+                        "name": "Hedda Torgersen Ravn\u00e5s",
+                        "description": "office assistant"
+                    },
+                    {
+                        "id": "nm4739115",
+                        "name": "Stephanie Vaughan",
+                        "description": "travel and accommodation coordinator"
+                    },
+                    {
+                        "id": "nm2861146",
+                        "name": "Dean Wares",
+                        "description": "end roller by"
+                    },
+                    {
+                        "id": "nm0942793",
+                        "name": "Sarah Jane Wright",
+                        "description": "head of production: Working Title"
+                    },
+                    {
+                        "id": "nm5536127",
+                        "name": "Chloe Yellin",
+                        "description": "Studio Executive"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0465415",
+                        "name": "Truls Kontny",
+                        "description": "very special thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Crime, Drama, Mystery, Thriller",
+    "genreList": [
+        {
+            "key": "Crime",
+            "value": "Crime"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Universal Pictures, Another Park Film, Perfect World Pictures",
+    "companyList": [
+        {
+            "id": "co0005073",
+            "name": "Universal Pictures"
+        },
+        {
+            "id": "co0572693",
+            "name": "Another Park Film"
+        },
+        {
+            "id": "co0346224",
+            "name": "Perfect World Pictures"
+        }
+    ],
+    "countries": "UK, USA, China, Sweden, Japan",
+    "countryList": [
+        {
+            "key": "UK",
+            "value": "UK"
+        },
+        {
+            "key": "USA",
+            "value": "USA"
+        },
+        {
+            "key": "China",
+            "value": "China"
+        },
+        {
+            "key": "Sweden",
+            "value": "Sweden"
+        },
+        {
+            "key": "Japan",
+            "value": "Japan"
+        }
+    ],
+    "languages": "English, Russian",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        },
+        {
+            "key": "Russian",
+            "value": "Russian"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "5.1",
+    "imDbRatingVotes": "55258",
+    "metacriticRating": "23",
+    "ratings": {
+        "imDbId": "tt1758810",
+        "title": "The Snowman",
+        "fullTitle": "The Snowman (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "imDb": "5.1",
+        "metacritic": "23",
+        "theMovieDb": "5.1",
+        "rottenTomatoes": "7",
+        "tV_com": "",
+        "filmAffinity": "4.6",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt1758810",
+        "title": "The Snowman",
+        "fullTitle": "The Snowman (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "language": "en",
+        "titleInLanguage": "The Snowman (2017 film)",
+        "url": "https://en.wikipedia.org/wiki/The_Snowman_(2017_film)",
+        "plotShort": {
+            "plainText": "The Snowman (2017 film)\r\nThe Snowman is a 2017 psychological crime drama horror thriller film directed by Tomas Alfredson and written by Hossein Amini, Peter Straughan and S\u00f8ren Sveistrup, and based on the novel of the same name by Jo Nesb\u00f8. An international co-production between the United Kingdom, United States, Sweden, and Japan; the film stars Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Val Kilmer, and J. K. Simmons, and follows a detective who tries to find a serial killer who uses snowmen as his calling card.\r\nPrincipal photography began on 18 January 2016 in Norway, before moving to London and Sweden. The film premiered on 7 October 2017 at the Haifa International Film Festival, and was theatrically released by Universal Pictures, on 13 October 2017 in the United Kingdom and 20 October 2017 in the United States. The film was box office bomb, grossing $43 million worldwide against a $35 million budget, and it was widely panned by critics, who called it \"clich\u00e9d and uninvolving.\" Alfredson later attributed many of the film's problems to the film's rushed production schedule.",
+            "html": "<h2>The Snowman (2017 film)</h2><p>The Snowman is a 2017 psychological crime drama horror thriller film directed by Tomas Alfredson and written by Hossein Amini, Peter Straughan and S\u00f8ren Sveistrup, and based on the novel of the same name by Jo Nesb\u00f8. An international co-production between the United Kingdom, United States, Sweden, and Japan; the film stars Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Val Kilmer, and J. K. Simmons, and follows a detective who tries to find a serial killer who uses snowmen as his calling card.</p><p>Principal photography began on 18 January 2016 in Norway, before moving to London and Sweden. The film premiered on 7 October 2017 at the Haifa International Film Festival, and was theatrically released by Universal Pictures, on 13 October 2017 in the United Kingdom and 20 October 2017 in the United States. The film was box office bomb, grossing $43 million worldwide against a $35 million budget, and it was widely panned by critics, who called it \"clich\u00e9d and uninvolving.\" Alfredson later attributed many of the film's problems to the film's rushed production schedule.</p>"
+        },
+        "plotFull": {
+            "plainText": "The Snowman (2017 film)\r\nThe Snowman is a 2017 psychological crime drama horror thriller film directed by Tomas Alfredson and written by Hossein Amini, Peter Straughan and S\u00f8ren Sveistrup, and based on the novel of the same name by Jo Nesb\u00f8. An international co-production between the United Kingdom, United States, Sweden, and Japan; the film stars Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Val Kilmer, and J. K. Simmons, and follows a detective who tries to find a serial killer who uses snowmen as his calling card.\r\nPrincipal photography began on 18 January 2016 in Norway, before moving to London and Sweden. The film premiered on 7 October 2017 at the Haifa International Film Festival, and was theatrically released by Universal Pictures, on 13 October 2017 in the United Kingdom and 20 October 2017 in the United States. The film was box office bomb, grossing $43 million worldwide against a $35 million budget, and it was widely panned by critics, who called it \"clich\u00e9d and uninvolving.\" Alfredson later attributed many of the film's problems to the film's rushed production schedule.\r\nPlot\r\nAt a remote cabin amidst heavy snowfall, a woman confronts a brutal man named Jonas saying she is going to tell his wife about their illegitimate son. The son overhears this when he returns from building a snowman. Jonas leaves angrily in his car. The woman and her son pursue him, but lose him in the snow. She lets go of the steering wheel, causing the car to drive off the road onto a frozen lake. The boy manages to escape from the sinking car, but the woman stays inside in an apparent suicide.\r\nHarry Hole is a brilliant but troubled inspector with the Norwegian Police Service's Oslo district, struggling with the aftermath of his break-up with his girlfriend Rakel and her new relationship with Mathias, a renowned surgeon. Harry was very close to her son Oleg, who is unaware that Harry is his biological father. Oleg mentions, on an outing with Harry, that his mother (Rakel) refused to let him search for his father. Harry receives a mysterious letter signed with the drawing of a snowman, and is paired with a brilliant new recruit, Katrine Bratt. The two are assigned to a missing persons case of Birte Becker, who vanished from her house after being followed home by a red Volvo.\r\nThe police receive a report of another missing woman named Sylvia Otterson. When Harry and Katrine travel to her farmhouse to investigate, they find her alive and well. They brush the report off as a prank call and leave, but shortly thereafter a figure wearing a black ski mask stalks and kills Sylvia outside her house, using an engine powered wire fastening harness to decapitate her. Harry receives another call about Otterson, and returning to the farmhouse comes face-to-face with her identical twin sister Ane. They search the property and find Sylvia's beheaded corpse inside her barn, and her head atop a snowman inside an empty storage tank.\r\nConnecting the letter with the presence of a snowman at the crime scene of the murder with the snowman at the scene of the first woman's (Birte) disappearance, Harry's research leads him to a previous case in Bergen, involving a similar set of circumstances. He travels to meet the case's investigating officer Gert Rafto, but upon arrival learns that Rafto died eight years prior through what appeared to be a self-inflicted gunshot wound, and that the case went cold after his apparent suicide. Inside Rafto's old cabin, he finds a jacket and a photograph that lead him to realize that Katrine is Rafto's daughter, and is likely out to find her father's real killer.\r\nKatrine believes that Arve St\u00f8p, a business tycoon implicated in the earlier case, is behind her father's death. St\u00f8p is involved in a high-class prostitution ring overseen by Idar Vetlesen, a doctor working at a clinic all the current victims had visited. Birte's cell phone begins transmitting again, and the signal is traced to Vetlesen's house. When the police raid it, they find Vetlesen dead of a shotgun blast to the head, along with the remains of Birte and another victim named Hegen Dahl.\r\nKatrine begins to seduce St\u00f8p at a fundraiser event, and he asks her to meet him in his hotel room. She sets a trap for him inside, but she is attacked and drugged by a masked figure who severs her right finger and uses it to unlock the fingerprint reader on her work tablet, wiping all the data from it. The next morning, Harry sees the impression of a snowman atop a snow-covered car, and inside finds Katrine dead in the driver's seat.\r\nRakel tells Harry that Oleg has run away after Harry missed a school camping trip which he was supposed to have gone to. Oleg stays at a friend's house, and when Rakel arrives to tell Harry the two kiss and almost have sex. Mathias calls to tell Rakel that he is picking up Oleg to take him home. Upon returning home, Mathias drugs and ties up Rakel, then does the same to Oleg, taking both of them to a cottage in Telemark. Harry locates the cottage, where he finds that Mathias has Rakel and Oleg hostage with the wire fastening harness tool to Rakel's throat. Mathias is revealed as the boy at the start of the film, who hated his mother for committing suicide and, thus, abandoning him. Harry attacks Mathias and manages to get the tool off of Rakel's neck, losing a finger in the process. Mathias escapes and Harry gives pursuit, chasing him onto the ice. Mathias manages to shoot Harry, but the ice beneath Mathias' feet suddenly cracks and breaks apart, dropping him into the water below and dragging him under the current to his death.\r\nAfter having his injuries treated, Harry returns to the police precinct, and volunteers for a new homicide case.\r\nCast\r\nMichael Fassbender as Detective Harry Hole\r\nRebecca Ferguson as Katrine Bratt\r\nCharlotte Gainsbourg as Rakel Fauke\r\nVal Kilmer as Gert Rafto\r\nJ. K. Simmons as Arve St\u00f8p\r\nToby Jones as Investigator Svenson\r\nDavid Dencik as Idar Vetlesen\r\nRonan Vibert as DCI Gunnar Hagen\r\nChlo\u00eb Sevigny as Sylvia Ottersen/Ane Pedersen\r\nJames D'Arcy as Filip Becker\r\nGenevieve O'Reilly as Birte Becker\r\nPeter Dalle as Jonas Lund-Helgesen\r\nJamie Clayton as Edda\r\nJakob Oftebro as Magnus Skarre\r\nJonas Karlsson as Mathias Lund-Helgesen\r\nSilvia Busuioc as Beautiful Girl\r\nMichael Yates as Oleg Fauke-Gosev\r\nAlec Newman as Mould Man\r\nJet\u00e9 Laurence as Josephine Becker\r\nSofia Helin as boys mother\r\nJo Nesb\u00f8 (the writer of the novel on which the film is based) was supposed to have a small cameo, but his scenes were cut.\r\nProduction\r\nPre-production\r\nAccording to Variety, the initial hope with the film to was to create a series in the vein of the Alex Cross film adaptations. Screen Rant has suggested that the film was inspired by the success of The Girl with the Dragon Tattoo.\r\nFor a while, Martin Scorsese was attached to direct, although he dropped out in 2013. The next year, Tomas Alfredson was hired to direct. Prior to Alfredson, the studio had considered Morten Tyldum and Baltasar Korm\u00e1kur, although they declined. By September 2015, Michael Fassbender was in talks to star in the film, and Rebecca Ferguson and Charlotte Gainsbourg were in talks to join the cast by that October and December, respectively.\r\nFilming\r\nPrincipal photography on the film commenced on 18 January 2016 in Oslo, Norway. Fassbender was spotted on set on 21 January, in the Barcode area of Oslo, shooting a scene on the tram. A large scene depicting a party, which required over 300 extras, was shot in Oslo City Hall on 5 February. Production moved to Rjukan on 9 February, and to Bergen on 23 February. Filming in Bergen including scenes on the mountain of Ulriken, Bryggen and the Skansen firestation. Production moved back to Oslo for the remainder of filming, in mid-March. This included scenes at Restaurant Schr\u00f8der, where Harry Hole is a regular in the novel series. Filming also took place in Drammen, and on the Atlantic Ocean Road, and ended on 1 April 2016.\r\nReshoots and additional filming took place in Norway during the spring of 2017.\r\nProduction problems\r\nIn response to the negative critical reviews, Alfredson blamed the heavily-condensed pre-production and rushed filming schedule, in which 10% to 15% of the screenplay remained unfilmed. This led to narrative problems when editing commenced:\r\nOur shoot time in Norway was way too short, we didn't get the whole story with us and when we started cutting we discovered that a lot was missing. It's like when you're making a big jigsaw puzzle and a few pieces are missing so you don't see the whole picture.\r\nAlfredson also stated that he had a lack of time to prepare the film properly:\r\nIt happened very abruptly, suddenly we got notice that we had the money and could start the shoot in London.\r\nActor Val Kilmer suffered from an enlarged tongue during filming due to recent treatment for throat cancer. As such, many of his scenes were filmed without the actor visibly speaking as so to allow easier dubbing during post-production. To that end, all of Kilmer's dialogue is dubbed.\r\nMarketing\r\nUniversal Pictures released a poster on 18 July 2017, and the first trailer for the film premiered the following day. An international trailer was released on 5 September. The original poster, featuring a doodle of a snowman and a note to the police, became a popular Internet meme shortly after its release.\r\nRelease\r\nThe Snowman premiered at the Haifa International Film Festival on 7 October 2017. It was theatrically released on 13 October 2017 in the United Kingdom and 20 October 2017 in the United States.\r\nBox office\r\nThe Snowman grossed $6.7 million in the United States and Canada, and $36.4 million in other territories, for a worldwide total of $43.1 million, against a production budget of $35 million.\r\nIn the United States and Canada, The Snowman was released alongside Boo 2! A Madea Halloween, Geostorm, and Only The Brave, and was expected to gross around $10 million from 1,813 theaters in its opening weekend. However, after making $1.3 million on its first day (including $270,000 from Thursday night previews), weekend predictions were lowered to $4 million. The film went on to debut to $3.2 million, finishing 8th at the box office. In its second weekend, the film dropped 64% to $1.2 million, falling to 17th place at the box office. The film was then pulled from 1,291 theaters in its third week, and fell 86% to $167,685, finishing 33rd.\r\nCritical response\r\nThe Snowman was panned by critics, who derided what they saw as the film's scattered and incomprehensible plot line, as well as a lack of direction for its main cast members. On review aggregator Rotten Tomatoes, the film has an approval rating of 7%, based on 188 reviews, with an average rating of 3.04/10. The website's critical consensus reads, \"A mystery that feels as mashed together and perishable as its title, The Snowman squanders its bestselling source material as well as a top-notch ensemble cast.\" On Metacritic the film has a weighted average score of 23 out of 100, based on 38 critics, indicating \"generally unfavorable reviews\". Audiences polled by CinemaScore gave the film an average grade of \"D\" on an A+ to F scale.\r\nJustin Chang of the Los Angeles Times gave the film a negative review, writing \"There's probably a good movie or several buried in the frigid wilds of Nesb\u00f8's fiction, and with more time and cultural nuance and fewer cooks in the kitchen, it might well be realized. Watching this bungled slopsicle of a movie, it's hard not to conclude that somebody let the wrong one in.\" Variety's Guy Lodge also called the film a disappointment, saying: \"If The Snowman were merely a chilly, streamlined precis of a knottier page-turner, it could stolidly pass muster. The sad surprise here, considering how deftly Alfredson and Straughan previously navigated the far more serpentine plot machinations of a John le Carr\u00e9 classic, is the snowballing incoherence of proceedings.\" Manohla Dargis of The New York Times called the film a \"leaden, clotted, exasperating mess\".",
+            "html": "<h2>The Snowman (2017 film)</h2><p>The Snowman is a 2017 psychological crime drama horror thriller film directed by Tomas Alfredson and written by Hossein Amini, Peter Straughan and S\u00f8ren Sveistrup, and based on the novel of the same name by Jo Nesb\u00f8. An international co-production between the United Kingdom, United States, Sweden, and Japan; the film stars Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Val Kilmer, and J. K. Simmons, and follows a detective who tries to find a serial killer who uses snowmen as his calling card.</p><p>Principal photography began on 18 January 2016 in Norway, before moving to London and Sweden. The film premiered on 7 October 2017 at the Haifa International Film Festival, and was theatrically released by Universal Pictures, on 13 October 2017 in the United Kingdom and 20 October 2017 in the United States. The film was box office bomb, grossing $43 million worldwide against a $35 million budget, and it was widely panned by critics, who called it \"clich\u00e9d and uninvolving.\" Alfredson later attributed many of the film's problems to the film's rushed production schedule.</p><br/><h3>Plot</h3><p>At a remote cabin amidst heavy snowfall, a woman confronts a brutal man named Jonas saying she is going to tell his wife about their illegitimate son. The son overhears this when he returns from building a snowman. Jonas leaves angrily in his car. The woman and her son pursue him, but lose him in the snow. She lets go of the steering wheel, causing the car to drive off the road onto a frozen lake. The boy manages to escape from the sinking car, but the woman stays inside in an apparent suicide.</p><p>Harry Hole is a brilliant but troubled inspector with the Norwegian Police Service's Oslo district, struggling with the aftermath of his break-up with his girlfriend Rakel and her new relationship with Mathias, a renowned surgeon. Harry was very close to her son Oleg, who is unaware that Harry is his biological father. Oleg mentions, on an outing with Harry, that his mother (Rakel) refused to let him search for his father. Harry receives a mysterious letter signed with the drawing of a snowman, and is paired with a brilliant new recruit, Katrine Bratt. The two are assigned to a missing persons case of Birte Becker, who vanished from her house after being followed home by a red Volvo.</p><p>The police receive a report of another missing woman named Sylvia Otterson. When Harry and Katrine travel to her farmhouse to investigate, they find her alive and well. They brush the report off as a prank call and leave, but shortly thereafter a figure wearing a black ski mask stalks and kills Sylvia outside her house, using an engine powered wire fastening harness to decapitate her. Harry receives another call about Otterson, and returning to the farmhouse comes face-to-face with her identical twin sister Ane. They search the property and find Sylvia's beheaded corpse inside her barn, and her head atop a snowman inside an empty storage tank.</p><p>Connecting the letter with the presence of a snowman at the crime scene of the murder with the snowman at the scene of the first woman's (Birte) disappearance, Harry's research leads him to a previous case in Bergen, involving a similar set of circumstances. He travels to meet the case's investigating officer Gert Rafto, but upon arrival learns that Rafto died eight years prior through what appeared to be a self-inflicted gunshot wound, and that the case went cold after his apparent suicide. Inside Rafto's old cabin, he finds a jacket and a photograph that lead him to realize that Katrine is Rafto's daughter, and is likely out to find her father's real killer.</p><p>Katrine believes that Arve St\u00f8p, a business tycoon implicated in the earlier case, is behind her father's death. St\u00f8p is involved in a high-class prostitution ring overseen by Idar Vetlesen, a doctor working at a clinic all the current victims had visited. Birte's cell phone begins transmitting again, and the signal is traced to Vetlesen's house. When the police raid it, they find Vetlesen dead of a shotgun blast to the head, along with the remains of Birte and another victim named Hegen Dahl.</p><p>Katrine begins to seduce St\u00f8p at a fundraiser event, and he asks her to meet him in his hotel room. She sets a trap for him inside, but she is attacked and drugged by a masked figure who severs her right finger and uses it to unlock the fingerprint reader on her work tablet, wiping all the data from it. The next morning, Harry sees the impression of a snowman atop a snow-covered car, and inside finds Katrine dead in the driver's seat.</p><p>Rakel tells Harry that Oleg has run away after Harry missed a school camping trip which he was supposed to have gone to. Oleg stays at a friend's house, and when Rakel arrives to tell Harry the two kiss and almost have sex. Mathias calls to tell Rakel that he is picking up Oleg to take him home. Upon returning home, Mathias drugs and ties up Rakel, then does the same to Oleg, taking both of them to a cottage in Telemark. Harry locates the cottage, where he finds that Mathias has Rakel and Oleg hostage with the wire fastening harness tool to Rakel's throat. Mathias is revealed as the boy at the start of the film, who hated his mother for committing suicide and, thus, abandoning him. Harry attacks Mathias and manages to get the tool off of Rakel's neck, losing a finger in the process. Mathias escapes and Harry gives pursuit, chasing him onto the ice. Mathias manages to shoot Harry, but the ice beneath Mathias' feet suddenly cracks and breaks apart, dropping him into the water below and dragging him under the current to his death.</p><p>After having his injuries treated, Harry returns to the police precinct, and volunteers for a new homicide case.</p><br/><h3>Cast</h3><ul><li>Michael Fassbender as Detective Harry Hole</li><li>Rebecca Ferguson as Katrine Bratt</li><li>Charlotte Gainsbourg as Rakel Fauke</li><li>Val Kilmer as Gert Rafto</li><li>J. K. Simmons as Arve St\u00f8p</li><li>Toby Jones as Investigator Svenson</li><li>David Dencik as Idar Vetlesen</li><li>Ronan Vibert as DCI Gunnar Hagen</li><li>Chlo\u00eb Sevigny as Sylvia Ottersen/Ane Pedersen</li><li>James D'Arcy as Filip Becker</li><li>Genevieve O'Reilly as Birte Becker</li><li>Peter Dalle as Jonas Lund-Helgesen</li><li>Jamie Clayton as Edda</li><li>Jakob Oftebro as Magnus Skarre</li><li>Jonas Karlsson as Mathias Lund-Helgesen</li><li>Silvia Busuioc as Beautiful Girl</li><li>Michael Yates as Oleg Fauke-Gosev</li><li>Alec Newman as Mould Man</li><li>Jet\u00e9 Laurence as Josephine Becker</li><li>Sofia Helin as boys mother</li><li>Jo Nesb\u00f8 (the writer of the novel on which the film is based) was supposed to have a small cameo, but his scenes were cut.</li></ul><br/><h3>Production</h3><h4>Pre-production</h4><p>According to Variety, the initial hope with the film to was to create a series in the vein of the Alex Cross film adaptations. Screen Rant has suggested that the film was inspired by the success of The Girl with the Dragon Tattoo.</p><p>For a while, Martin Scorsese was attached to direct, although he dropped out in 2013. The next year, Tomas Alfredson was hired to direct. Prior to Alfredson, the studio had considered Morten Tyldum and Baltasar Korm\u00e1kur, although they declined. By September 2015, Michael Fassbender was in talks to star in the film, and Rebecca Ferguson and Charlotte Gainsbourg were in talks to join the cast by that October and December, respectively.</p><h4>Filming</h4><p>Principal photography on the film commenced on 18 January 2016 in Oslo, Norway. Fassbender was spotted on set on 21 January, in the Barcode area of Oslo, shooting a scene on the tram. A large scene depicting a party, which required over 300 extras, was shot in Oslo City Hall on 5 February. Production moved to Rjukan on 9 February, and to Bergen on 23 February. Filming in Bergen including scenes on the mountain of Ulriken, Bryggen and the Skansen firestation. Production moved back to Oslo for the remainder of filming, in mid-March. This included scenes at Restaurant Schr\u00f8der, where Harry Hole is a regular in the novel series. Filming also took place in Drammen, and on the Atlantic Ocean Road, and ended on 1 April 2016.</p><p>Reshoots and additional filming took place in Norway during the spring of 2017.</p><h4>Production problems</h4><p>In response to the negative critical reviews, Alfredson blamed the heavily-condensed pre-production and rushed filming schedule, in which 10% to 15% of the screenplay remained unfilmed. This led to narrative problems when editing commenced:</p><blockquote>Our shoot time in Norway was way too short, we didn't get the whole story with us and when we started cutting we discovered that a lot was missing. It's like when you're making a big jigsaw puzzle and a few pieces are missing so you don't see the whole picture.</blockquote><p>Alfredson also stated that he had a lack of time to prepare the film properly:</p><blockquote>It happened very abruptly, suddenly we got notice that we had the money and could start the shoot in London.</blockquote><p>Actor Val Kilmer suffered from an enlarged tongue during filming due to recent treatment for throat cancer. As such, many of his scenes were filmed without the actor visibly speaking as so to allow easier dubbing during post-production. To that end, all of Kilmer's dialogue is dubbed.</p><br/><h3>Marketing</h3><p>Universal Pictures released a poster on 18 July 2017, and the first trailer for the film premiered the following day. An international trailer was released on 5 September. The original poster, featuring a doodle of a snowman and a note to the police, became a popular Internet meme shortly after its release.</p><br/><h3>Release</h3><p>The Snowman premiered at the Haifa International Film Festival on 7 October 2017. It was theatrically released on 13 October 2017 in the United Kingdom and 20 October 2017 in the United States.</p><h4>Box office</h4><p>The Snowman grossed $6.7 million in the United States and Canada, and $36.4 million in other territories, for a worldwide total of $43.1 million, against a production budget of $35 million.</p><p>In the United States and Canada, The Snowman was released alongside Boo 2! A Madea Halloween, Geostorm, and Only The Brave, and was expected to gross around $10 million from 1,813 theaters in its opening weekend. However, after making $1.3 million on its first day (including $270,000 from Thursday night previews), weekend predictions were lowered to $4 million. The film went on to debut to $3.2 million, finishing 8th at the box office. In its second weekend, the film dropped 64% to $1.2 million, falling to 17th place at the box office. The film was then pulled from 1,291 theaters in its third week, and fell 86% to $167,685, finishing 33rd.</p><h4>Critical response</h4><p>The Snowman was panned by critics, who derided what they saw as the film's scattered and incomprehensible plot line, as well as a lack of direction for its main cast members. On review aggregator Rotten Tomatoes, the film has an approval rating of 7%, based on 188 reviews, with an average rating of 3.04/10. The website's critical consensus reads, \"A mystery that feels as mashed together and perishable as its title, The Snowman squanders its bestselling source material as well as a top-notch ensemble cast.\" On Metacritic the film has a weighted average score of 23 out of 100, based on 38 critics, indicating \"generally unfavorable reviews\". Audiences polled by CinemaScore gave the film an average grade of \"D\" on an A+ to F scale.</p><p>Justin Chang of the Los Angeles Times gave the film a negative review, writing \"There's probably a good movie or several buried in the frigid wilds of Nesb\u00f8's fiction, and with more time and cultural nuance and fewer cooks in the kitchen, it might well be realized. Watching this bungled slopsicle of a movie, it's hard not to conclude that somebody let the wrong one in.\" Variety's Guy Lodge also called the film a disappointment, saying: \"If The Snowman were merely a chilly, streamlined precis of a knottier page-turner, it could stolidly pass muster. The sad surprise here, considering how deftly Alfredson and Straughan previously navigated the far more serpentine plot machinations of a John le Carr\u00e9 classic, is the snowballing incoherence of proceedings.\" Manohla Dargis of The New York Times called the film a \"leaden, clotted, exasperating mess\".</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt1758810",
+        "title": "The Snowman",
+        "fullTitle": "The Snowman (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "posters": [
+            {
+                "id": "mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg",
+                "link": "https://imdb-api.com/posters/original/mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "aclXaIwoWUcyfXUqrQD4UPRkAE6.jpg",
+                "link": "https://imdb-api.com/posters/original/aclXaIwoWUcyfXUqrQD4UPRkAE6.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg",
+                "link": "https://imdb-api.com/posters/original/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg",
+                "aspectRatio": 0.6746666666666666,
+                "language": "en",
+                "width": 1012,
+                "height": 1500
+            },
+            {
+                "id": "hmuhNjie4JKouVXraJNlCINR5cK.jpg",
+                "link": "https://imdb-api.com/posters/original/hmuhNjie4JKouVXraJNlCINR5cK.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "uKo1AG7ssXE8EpSXNGv93fYhS4P.jpg",
+                "link": "https://imdb-api.com/posters/original/uKo1AG7ssXE8EpSXNGv93fYhS4P.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "e5X4ExC8R8lzNyr5uu4Xrh0XZGA.jpg",
+                "link": "https://imdb-api.com/posters/original/e5X4ExC8R8lzNyr5uu4Xrh0XZGA.jpg",
+                "aspectRatio": 0.6746666666666666,
+                "language": "en",
+                "width": 1012,
+                "height": 1500
+            },
+            {
+                "id": "txGXiUGsb9CL6HrrhX2TCRKtHrt.jpg",
+                "link": "https://imdb-api.com/posters/original/txGXiUGsb9CL6HrrhX2TCRKtHrt.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "pp7G6XD0kZCuWE4gN179eKef5Rq.jpg",
+                "link": "https://imdb-api.com/posters/original/pp7G6XD0kZCuWE4gN179eKef5Rq.jpg",
+                "aspectRatio": 0.6753333333333333,
+                "language": "en",
+                "width": 1013,
+                "height": 1500
+            },
+            {
+                "id": "nEDkLfGTAAQSDnW6869DfqIQltN.jpg",
+                "link": "https://imdb-api.com/posters/original/nEDkLfGTAAQSDnW6869DfqIQltN.jpg",
+                "aspectRatio": 0.6753333333333333,
+                "language": "en",
+                "width": 1013,
+                "height": 1500
+            },
+            {
+                "id": "sT91IHkxY38UGN0YNw1Nn6apkWX.jpg",
+                "link": "https://imdb-api.com/posters/original/sT91IHkxY38UGN0YNw1Nn6apkWX.jpg",
+                "aspectRatio": 0.6896869244935543,
+                "language": "en",
+                "width": 749,
+                "height": 1086
+            },
+            {
+                "id": "2fAPsvGGSuakmhFnVFYQv8zLwO7.jpg",
+                "link": "https://imdb-api.com/posters/original/2fAPsvGGSuakmhFnVFYQv8zLwO7.jpg",
+                "aspectRatio": 0.667,
+                "language": "en",
+                "width": 667,
+                "height": 1000
+            },
+            {
+                "id": "aCOrBvRZP7Ah1rM9T3JE8QNRRzP.jpg",
+                "link": "https://imdb-api.com/posters/original/aCOrBvRZP7Ah1rM9T3JE8QNRRzP.jpg",
+                "aspectRatio": 0.6316666666666667,
+                "language": "en",
+                "width": 758,
+                "height": 1200
+            },
+            {
+                "id": "cmtz9TaD4jSEPQ9Xs0Wat14jWej.jpg",
+                "link": "https://imdb-api.com/posters/original/cmtz9TaD4jSEPQ9Xs0Wat14jWej.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "1q2JfRCIqZtSBIDRGNtjXA4ZnT1.jpg",
+                "link": "https://imdb-api.com/posters/original/1q2JfRCIqZtSBIDRGNtjXA4ZnT1.jpg",
+                "aspectRatio": 0.6314127861089187,
+                "language": "en",
+                "width": 800,
+                "height": 1267
+            },
+            {
+                "id": "AgoWBDdovM0uCElng7BnYCJpsP.jpg",
+                "link": "https://imdb-api.com/posters/original/AgoWBDdovM0uCElng7BnYCJpsP.jpg",
+                "aspectRatio": 0.6755629691409508,
+                "language": "en",
+                "width": 810,
+                "height": 1199
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt1758810",
+        "title": "The Snowman",
+        "fullTitle": "The Snowman (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "items": [
+            {
+                "title": "Michael Fassbender in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNDMxMjQ2OTA5Nl5BMl5BanBnXkFtZTgwMDY2ODI1MzI@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson at an event for The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMzE1NTU1MjAzNl5BMl5BanBnXkFtZTgwNDE5NjI3NTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNDc4Njk2MTUtMjEyYi00MDY2LTk3ZGMtYzhjNjExZTUzYjQ2XkEyXkFqcGdeQXVyMTM2ODk1OTQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZjE3N2ZmYWQtMDhkZi00ZjVlLWE3MTUtZTc0MGQwNjAyNGIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BM2IwYzQyODYtM2I3ZS00NWVhLWE5NzEtZmQ3YjU0Zjk2OGFlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Fassbender in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNDg1NjYyMTEyOF5BMl5BanBnXkFtZTgwNzY4MDMyMzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMzI3NTI4NDg5NF5BMl5BanBnXkFtZTgwNjAxMzQ5MjI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAxOTM4ODg5NjFeQTJeQWpwZ15BbWU4MDEzOTE0OTIy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMjkxZWY5NTAtMWZhMS00YTQzLWIyZjQtNWZlMjU5ZDcxODUyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOGI2N2QxNjMtNjAwNC00YTA1LWExZDgtYTc3YmEyYTE3NDNkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson and J.K. Simmons in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMDM0NmU2ZmEtZjExOS00YjRmLWI3MWItOTVmY2IzYjAzNDkxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZWE3MDBiMmYtY2FkOC00ZjdjLWI2ZGMtNjljMGRkNWE1NjQxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Genevieve O'Reilly and Jet\u00e9 Laurence in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNzIzOWFkZjAtMTNkNi00ZDFkLWEzY2QtZjhiOTM5MjEyNmQzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Michael Fassbender in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTBhOGJmNDctZTVhNC00OTRhLTgxZDAtN2M1ZWFkN2MzYzA0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Chlo\u00eb Sevigny in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTNmYjk4NGItYWMyNS00OWE3LWIxNzYtY2I1YmZhMDlkZTU3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "J.K. Simmons in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BM2EyZGFhY2ItN2MwNC00MTcxLWJkNDgtNDg0NWRkZGIwY2E0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZWM0YzA4Y2MtOTBmMC00MGY1LTgxOWUtYzMyNGRiNmNmZDM1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Genevieve O'Reilly in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNzVmYjQ3N2UtZDMxOS00YzkxLTkzYjEtYWNlZjVlYmM2MjY3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Val Kilmer in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMDFhNjVmMTMtMjYxMi00YTQ1LTg2YmItM2FhOWNmNzM2NzAzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNTIzYzE4ZmQtZGQ3Yy00YzViLWJhZWUtYTM5ZmI4Y2UwYjgyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZWI1YjQxZjctODQ4NC00MjgzLTgwZTYtYTUwYTYxMDgwOWUzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson and J.K. Simmons in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BM2FjNjYwNzItOGYyMi00ZWMyLTkxZGYtMTVhMGU5N2M5ZTI3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BY2Q5NDM0M2ItYTIwOC00ZjMxLTg2MmQtYTBlYmIwYjQ4ZjU2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Michael Fassbender in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BM2Y4MDc5ZmEtZWVmMS00ZjNjLWE3OGItMmY4YjA5NzYxNDc3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNzVlN2M4NWYtYmQzMC00MDdlLWE2ZmYtMDQzMDJmM2JlYTZjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMjY5ODdiMzYtZjA5NS00MmE0LTkzMDEtNDFhZTEzMWFiOWQ5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Michael Fassbender in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYWJlYjM2MmEtZTFhYS00YTYzLTkyZWUtOGYyNmZmNTFlOWVhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYTM5OGU5NDktOGYzNy00MWRmLWJmYjEtMzY3MTcxMTZlMmJlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQxMTE2NzYtZTBhNC00OTUzLTljZjItMjBmNzIwOGI4YzVkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOWQwMDBkNjctMjRkMS00NTAzLWFiZTMtZTQ5NjcwN2VmYzRiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BOTAxYWYwNjAtYTAwMy00OWJmLTk1OTEtNmNlNWI3YTZmODYxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BODg2MjlhMmEtZGQ2Mi00MGIwLWExZDctODJkNTIyMDJmMTMzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZGQ1OTA0NzctNzdlNS00MmE2LWI4ZjAtOTZlZmQwNmZjOGVkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Michael Fassbender in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZTc1YTk5ZDQtMzlkYi00NmQzLWI3YzQtZDJjY2VlZTgwZjM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYmM5YTViOWMtYzM1YS00ZDYxLTkxNTAtMjZhZjE5NTIxNTE5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNmQ1YWU0MzMtZDg4YS00MTVjLWE1ZGItZmQ5NjI1Y2EyNDAyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BNmZhMWRmOWMtZmQ1Yi00ZWY1LWFmZmMtNmJjYjc5YmY0YjgwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Michael Fassbender in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU2MzBhNjUtNjRiNC00NmViLWExYmMtYWE3YzBkYjdlNjk0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZDllMzFjY2YtYTg1Ni00NGY1LTk2N2EtZDQxMmY3OGVkZTBhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZWRlZjE2MjUtYjg4Zi00MTcyLWJjOTAtMTA0MTVkNzA0MTU4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Rebecca Ferguson in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZjZhM2VkNTAtMWExMS00OWRmLWIwMjMtOWZiNDg3MzkzYjM1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMjk1YWEzZWItMDVjNS00YTRjLTkyZGMtNjVjNTVkNjA0Y2VkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZTE5NzVhNWEtOGZkMi00OGVhLTk1OWItZjY3ZDIyYzkyOWZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMWM3YTEzMjgtMmQ4Yi00NGZkLWE0NDctZjg4OWZjYzZiYjk1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMmNmNzZiNDQtYWJjNC00YTA2LWI5MTYtNDUwMmQ3Yjk1NzQzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMyYzY4MTktMDEzNC00ZGRkLWFiNTItZWI1MjZiZDNjMDUwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BYjkzNjRhNzUtN2RlNy00YWYwLWE5NmUtZWUyZDg5Yzc2NjIxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Michael Fassbender in The Snowman (2017)",
+                "image": "https://imdb-api.com/images/original/MV5BZjgyMTg0YjQtYmE5MC00NmQwLWFjZTEtODIxYzU4MTc2MTQ3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8200_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt1758810",
+        "title": "The Snowman",
+        "fullTitle": "The Snowman (2017)",
+        "type": "Movie",
+        "year": "2017",
+        "videoId": "vi570865945",
+        "videoTitle": "International Trailer",
+        "videoDescription": "When an elite crime squad's lead detective (Michael Fassbender) investigates the disappearance of a victim on the first snow of winter, he fears an elusive serial killer may be active again. With the help of a brilliant recruit (Rebecca Ferguson), the cop must connect decades-old cold cases to the brutal new one if he hopes to outwit this unthinkable evil before the next snowfall.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE5OTg5NDAyMV5BMl5BanBnXkFtZTgwMzM2MzQ0MzI@._V1_.jpg",
+        "uploadDate": "09/05/2017 07:43:28",
+        "link": "https://www.imdb.com/video/vi570865945",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi570865945/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$35,000,000 (estimated)",
+        "openingWeekendUSA": "$3,372,565, 22 October 2017",
+        "grossUSA": "$6,700,035",
+        "cumulativeWorldwideGross": "$43,155,261"
+    },
+    "tagline": "Soon the first snow will fall, and the hunt for a killer begins.",
+    "keywords": "promiscuous wife,promiscuous woman,hiked skirt,topless female nudity,long haired woman",
+    "keywordList": [
+        "promiscuous wife",
+        "promiscuous woman",
+        "hiked skirt",
+        "topless female nudity",
+        "long haired woman"
+    ],
+    "similars": [
+        {
+            "id": "tt3631112",
+            "title": "The Girl on the Train",
+            "fullTitle": "The Girl on the Train (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BNzFlMjA0ZmUtZWI0Mi00ZGJkLTlmMmYtZmE1ODZiMjhjMGM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.",
+            "directors": "Tate Taylor",
+            "stars": "Emily Blunt, Haley Bennett, Rebecca Ferguson",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt3402236",
+            "title": "Murder on the Orient Express",
+            "fullTitle": "Murder on the Orient Express (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMTAxNDkxODIyMDZeQTJeQWpwZ15BbWU4MDQ2Mjg4NDIy._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.",
+            "directors": "Kenneth Branagh",
+            "stars": "Kenneth Branagh, Pen\u00e9lope Cruz, Willem Dafoe",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt5816682",
+            "title": "Victoria &amp; Abdul",
+            "fullTitle": "Victoria &amp; Abdul (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMjA4NzY1NTQ1Nl5BMl5BanBnXkFtZTgwMTM3NTY0MjI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Queen Victoria strikes up an unlikely friendship with a young Indian clerk named Abdul Karim.",
+            "directors": "Stephen Frears",
+            "stars": "Judi Dench, Ali Fazal, Tim Pigott-Smith",
+            "genres": "Biography, Drama, History",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt5294550",
+            "title": "All the Money in the World",
+            "fullTitle": "All the Money in the World (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNjY3Mjg0OTc1OF5BMl5BanBnXkFtZTgwNDU0MzAyNDM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.",
+            "directors": "Ridley Scott",
+            "stars": "Michelle Williams, Christopher Plummer, Mark Wahlberg",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt2873282",
+            "title": "Red Sparrow",
+            "fullTitle": "Red Sparrow (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Ballerina Dominika Egorova is recruited to 'Sparrow School,' a Russian intelligence service where she is forced to use her body as a weapon. Her first mission, targeting a C.I.A. agent, threatens to unravel the security of both nations.",
+            "directors": "Francis Lawrence",
+            "stars": "Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts",
+            "genres": "Action, Drama, Thriller",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt5442430",
+            "title": "Life",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A team of scientists aboard the International Space Station discover a rapidly evolving life form that caused extinction on Mars and now threatens all life on Earth.",
+            "directors": "Daniel Espinosa",
+            "stars": "Jake Gyllenhaal, Rebecca Ferguson, Ryan Reynolds",
+            "genres": "Horror, Sci-Fi, Thriller",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt2547584",
+            "title": "The Light Between Oceans",
+            "fullTitle": "The Light Between Oceans (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BNTI1NzQzMjgxOF5BMl5BanBnXkFtZTgwOTY1OTY2OTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A lighthouse keeper and his wife living off the coast of Western Australia raise a baby they rescue from a drifting rowing boat.",
+            "directors": "Derek Cianfrance",
+            "stars": "Michael Fassbender, Alicia Vikander, Rachel Weisz",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt3532216",
+            "title": "American Made",
+            "fullTitle": "American Made (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMTUxNzUwMjk1Nl5BMl5BanBnXkFtZTgwNDkwODI1MjI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.",
+            "directors": "Doug Liman",
+            "stars": "Tom Cruise, Domhnall Gleeson, Sarah Wright",
+            "genres": "Action, Biography, Comedy",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt2039338",
+            "title": "Flatliners",
+            "fullTitle": "Flatliners (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMTExMTk2ODk0NDNeQTJeQWpwZ15BbWU4MDMxNTExNjIy._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Five medical students, obsessed by what lies beyond the confines of life, embark on a daring experiment: by stopping their hearts for short periods, each triggers a near-death experience - giving them a firsthand account of the afterlife.",
+            "directors": "Niels Arden Oplev",
+            "stars": "Ellen Page, Diego Luna, Nina Dobrev",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "5.2"
+        },
+        {
+            "id": "tt2406566",
+            "title": "Atomic Blonde",
+            "fullTitle": "Atomic Blonde (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+            "directors": "David Leitch",
+            "stars": "Charlize Theron, James McAvoy, John Goodman",
+            "genres": "Action, Thriller",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt2226597",
+            "title": "The Mountain Between Us",
+            "fullTitle": "The Mountain Between Us (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNjllMWJmZTEtODA2Mi00MzY3LThiYmMtZDFjYjQ2NDM2MWJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow-covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.",
+            "directors": "Hany Abu-Assad",
+            "stars": "Kate Winslet, Idris Elba, Beau Bridges",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt8110640",
+            "title": "In the Shadow of the Moon",
+            "fullTitle": "In the Shadow of the Moon (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BN2I1MGQ2ZjMtMjc1My00YzU1LThjNzktNzJlMWRkMTc0NjZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Philadelphia police officer struggles with a lifelong obsession to track down a mysterious serial killer whose crimes defy explanation.",
+            "directors": "Jim Mickle",
+            "stars": "Boyd Holbrook, Cleopatra Coleman, Bokeem Woodbine",
+            "genres": "Crime, Mystery, Sci-Fi",
+            "imDbRating": "6.2"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
