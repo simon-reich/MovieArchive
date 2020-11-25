@@ -1,0 +1,2376 @@
+{
+    "id": "tt0100814",
+    "title": "Tremors",
+    "originalTitle": "",
+    "fullTitle": "Tremors (1990)",
+    "type": "Movie",
+    "year": "1990",
+    "image": "https://imdb-api.com/images/original/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1990-01-19",
+    "runtimeMins": "96",
+    "runtimeStr": "1h 36mins",
+    "plot": "A small town gradually becomes aware of a strange creature which picks off people one by one. But what is this creature, and where is it? At the same time, a seismologist is working in the area, she detects _tremors_. The creature lives underground, and can 'pop up' without warning. Trapped in their town, the town-folk have no escape.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "5 nominations.",
+    "directors": "Ron Underwood",
+    "directorList": [
+        {
+            "id": "nm0881038",
+            "name": "Ron Underwood"
+        }
+    ],
+    "writers": "S.S. Wilson, Brent Maddock, Ron Underwood",
+    "writerList": [
+        {
+            "id": "nm0934093",
+            "name": "S.S. Wilson"
+        },
+        {
+            "id": "nm0534681",
+            "name": "Brent Maddock"
+        },
+        {
+            "id": "nm0881038",
+            "name": "Ron Underwood"
+        }
+    ],
+    "stars": "Kevin Bacon, Fred Ward, Finn Carter, Michael Gross",
+    "starList": [
+        {
+            "id": "nm0000102",
+            "name": "Kevin Bacon"
+        },
+        {
+            "id": "nm0911542",
+            "name": "Fred Ward"
+        },
+        {
+            "id": "nm0141617",
+            "name": "Finn Carter"
+        },
+        {
+            "id": "nm0343447",
+            "name": "Michael Gross"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000102",
+            "image": "https://imdb-api.com/images/original/MV5BOTQxMTEyMjI0NV5BMl5BanBnXkFtZTgwODE4ODAzMjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kevin Bacon",
+            "asCharacter": "Valentine McKee"
+        },
+        {
+            "id": "nm0911542",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1NDg0MTE2MF5BMl5BanBnXkFtZTcwNzMwODQ1Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Fred Ward",
+            "asCharacter": "Earl Bass"
+        },
+        {
+            "id": "nm0141617",
+            "image": "https://imdb-api.com/images/original/MV5BMTQyMTIwMTY5MV5BMl5BanBnXkFtZTcwNTI3MTQ2Mg@@._V1_Ratio1.5455_AL_.jpg",
+            "name": "Finn Carter",
+            "asCharacter": "Rhonda LeBeck"
+        },
+        {
+            "id": "nm0343447",
+            "image": "https://imdb-api.com/images/original/MV5BNzUyNjE0NjQwNV5BMl5BanBnXkFtZTYwNjUyNzMz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Gross",
+            "asCharacter": "Burt Gummer"
+        },
+        {
+            "id": "nm0005207",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzMDAxMzU1MV5BMl5BanBnXkFtZTYwMjE4OTk0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Reba McEntire",
+            "asCharacter": "Heather Gummer"
+        },
+        {
+            "id": "nm0414975",
+            "image": "https://imdb-api.com/images/original/MV5BZjIyNWRiOWYtMmU2My00ODM5LTg5ZjUtNzc4NmZiZDkzYTBlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robert Jayne",
+            "asCharacter": "Melvin Plug (as Bobby Jacoby)"
+        },
+        {
+            "id": "nm0829270",
+            "image": "https://imdb-api.com/images/original/MV5BMjIzMDQyMTI3MF5BMl5BanBnXkFtZTgwMDUzMzIyMTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Charlotte Stewart",
+            "asCharacter": "Nancy"
+        },
+        {
+            "id": "nm0312629",
+            "image": "https://imdb-api.com/images/original/MV5BMjA3NDk2MzI2NF5BMl5BanBnXkFtZTcwNDYwNzIzMQ@@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Tony Genaro",
+            "asCharacter": "Miguel"
+        },
+        {
+            "id": "nm0000611",
+            "image": "https://imdb-api.com/images/original/MV5BMTc2Njg0ODc2NF5BMl5BanBnXkFtZTgwNTI5MjU3MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ariana Richards",
+            "asCharacter": "Mindy"
+        },
+        {
+            "id": "nm0546172",
+            "image": "https://imdb-api.com/images/original/MV5BODk0NDU1MzIwMV5BMl5BanBnXkFtZTgwMDU2NTEyNzE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Richard Marcus",
+            "asCharacter": "Nestor"
+        },
+        {
+            "id": "nm0939378",
+            "image": "https://imdb-api.com/images/original/MV5BNTgxOTQzNjQ0NV5BMl5BanBnXkFtZTcwNjM1OTgwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Victor Wong",
+            "asCharacter": "Walter Chang"
+        },
+        {
+            "id": "nm0662641",
+            "image": "https://imdb-api.com/images/original/MV5BMGJjODA0ZTMtYWU4NS00NmQ1LTkyNzAtNzMxYjhjZTM0ZjEyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Sunshine Parker",
+            "asCharacter": "Edgar"
+        },
+        {
+            "id": "nm0906025",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Dan Wagner",
+            "asCharacter": "Old Fred"
+        },
+        {
+            "id": "nm0045497",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1MjU1OTI5Ml5BMl5BanBnXkFtZTYwNTk5Mjgy._V1_Ratio0.8182_AL_.jpg",
+            "name": "Conrad Bachmann",
+            "asCharacter": "Jim - The Doctor"
+        },
+        {
+            "id": "nm0000935",
+            "image": "https://imdb-api.com/images/original/MV5BMTU1ODkzMjA5NF5BMl5BanBnXkFtZTcwMjY4MjUxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bibi Besch",
+            "asCharacter": "Megan - The Doctor's Wife"
+        },
+        {
+            "id": "nm0329491",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Goodwin",
+            "asCharacter": "Howard - Roadworker"
+        },
+        {
+            "id": "nm0660606",
+            "image": "https://imdb-api.com/images/original/MV5BMTEzNDk3ODc5NTZeQTJeQWpwZ15BbWU4MDE3MDQ1MzMx._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Pappas",
+            "asCharacter": "Carmine - Roadworker"
+        },
+        {
+            "id": "nm0940430",
+            "image": "https://imdb-api.com/images/original/MV5BMTMxNDgyMjk1M15BMl5BanBnXkFtZTcwNDk2MzIyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tom Woodruff Jr.",
+            "asCharacter": "Grabboid (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0100814",
+        "title": "Tremors",
+        "fullTitle": "Tremors (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0881038",
+                    "name": "Ron Underwood",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0934093",
+                    "name": "S.S. Wilson",
+                    "description": "(story) &"
+                },
+                {
+                    "id": "nm0534681",
+                    "name": "Brent Maddock",
+                    "description": "(story) &"
+                },
+                {
+                    "id": "nm0881038",
+                    "name": "Ron Underwood",
+                    "description": "(story)"
+                },
+                {
+                    "id": "nm0934093",
+                    "name": "S.S. Wilson",
+                    "description": "(screenplay) &"
+                },
+                {
+                    "id": "nm0534681",
+                    "name": "Brent Maddock",
+                    "description": "(screenplay)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000102",
+                "image": "https://imdb-api.com/images/original/MV5BOTQxMTEyMjI0NV5BMl5BanBnXkFtZTgwODE4ODAzMjE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kevin Bacon",
+                "asCharacter": "Valentine McKee"
+            },
+            {
+                "id": "nm0911542",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1NDg0MTE2MF5BMl5BanBnXkFtZTcwNzMwODQ1Mw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Fred Ward",
+                "asCharacter": "Earl Bass"
+            },
+            {
+                "id": "nm0141617",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMTIwMTY5MV5BMl5BanBnXkFtZTcwNTI3MTQ2Mg@@._V1_Ratio1.5455_AL_.jpg",
+                "name": "Finn Carter",
+                "asCharacter": "Rhonda LeBeck"
+            },
+            {
+                "id": "nm0343447",
+                "image": "https://imdb-api.com/images/original/MV5BNzUyNjE0NjQwNV5BMl5BanBnXkFtZTYwNjUyNzMz._V1_Ratio0.7273_AL_.jpg",
+                "name": "Michael Gross",
+                "asCharacter": "Burt Gummer"
+            },
+            {
+                "id": "nm0005207",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzMDAxMzU1MV5BMl5BanBnXkFtZTYwMjE4OTk0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Reba McEntire",
+                "asCharacter": "Heather Gummer"
+            },
+            {
+                "id": "nm0414975",
+                "image": "https://imdb-api.com/images/original/MV5BZjIyNWRiOWYtMmU2My00ODM5LTg5ZjUtNzc4NmZiZDkzYTBlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Robert Jayne",
+                "asCharacter": "Melvin Plug (as Bobby Jacoby)"
+            },
+            {
+                "id": "nm0829270",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzMDQyMTI3MF5BMl5BanBnXkFtZTgwMDUzMzIyMTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Charlotte Stewart",
+                "asCharacter": "Nancy"
+            },
+            {
+                "id": "nm0312629",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3NDk2MzI2NF5BMl5BanBnXkFtZTcwNDYwNzIzMQ@@._V1_Ratio0.9545_AL_.jpg",
+                "name": "Tony Genaro",
+                "asCharacter": "Miguel"
+            },
+            {
+                "id": "nm0000611",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2Njg0ODc2NF5BMl5BanBnXkFtZTgwNTI5MjU3MDE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ariana Richards",
+                "asCharacter": "Mindy"
+            },
+            {
+                "id": "nm0546172",
+                "image": "https://imdb-api.com/images/original/MV5BODk0NDU1MzIwMV5BMl5BanBnXkFtZTgwMDU2NTEyNzE@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Richard Marcus",
+                "asCharacter": "Nestor"
+            },
+            {
+                "id": "nm0939378",
+                "image": "https://imdb-api.com/images/original/MV5BNTgxOTQzNjQ0NV5BMl5BanBnXkFtZTcwNjM1OTgwMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Victor Wong",
+                "asCharacter": "Walter Chang"
+            },
+            {
+                "id": "nm0662641",
+                "image": "https://imdb-api.com/images/original/MV5BMGJjODA0ZTMtYWU4NS00NmQ1LTkyNzAtNzMxYjhjZTM0ZjEyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Sunshine Parker",
+                "asCharacter": "Edgar"
+            },
+            {
+                "id": "nm0906025",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Michael Dan Wagner",
+                "asCharacter": "Old Fred"
+            },
+            {
+                "id": "nm0045497",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1MjU1OTI5Ml5BMl5BanBnXkFtZTYwNTk5Mjgy._V1_Ratio0.8182_AL_.jpg",
+                "name": "Conrad Bachmann",
+                "asCharacter": "Jim - The Doctor"
+            },
+            {
+                "id": "nm0000935",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1ODkzMjA5NF5BMl5BanBnXkFtZTcwMjY4MjUxOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Bibi Besch",
+                "asCharacter": "Megan - The Doctor's Wife"
+            },
+            {
+                "id": "nm0329491",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John Goodwin",
+                "asCharacter": "Howard - Roadworker"
+            },
+            {
+                "id": "nm0660606",
+                "image": "https://imdb-api.com/images/original/MV5BMTEzNDk3ODc5NTZeQTJeQWpwZ15BbWU4MDE3MDQ1MzMx._V1_Ratio0.7273_AL_.jpg",
+                "name": "John Pappas",
+                "asCharacter": "Carmine - Roadworker"
+            },
+            {
+                "id": "nm0940430",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNDgyMjk1M15BMl5BanBnXkFtZTcwNDk2MzIyMw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Tom Woodruff Jr.",
+                "asCharacter": "Grabboid (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0171788",
+                        "name": "Ellen Collett",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0005036",
+                        "name": "Gale Anne Hurd",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0534681",
+                        "name": "Brent Maddock",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0637794",
+                        "name": "Ginny Nugent",
+                        "description": "line producer"
+                    },
+                    {
+                        "id": "nm0934093",
+                        "name": "S.S. Wilson",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0873560",
+                        "name": "Ernest Troost",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0344738",
+                        "name": "Alexander Gruszynski",
+                        "description": "director of photography"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0114363",
+                        "name": "O. Nicholas Brown",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0228938",
+                        "name": "Pam Dixon",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0188066",
+                        "name": "Ivo Cristante",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0556470",
+                        "name": "Don Maskovich",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0173643",
+                        "name": "Debra Combs",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0614805",
+                        "name": "Abigail Murray",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0264765",
+                        "name": "Annette E. Fabrizi",
+                        "description": "hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm0264766",
+                        "name": "Carla M. Fabrizi",
+                        "description": "hair stylist / makeup artist"
+                    },
+                    {
+                        "id": "nm0059120",
+                        "name": "David P. Barton",
+                        "description": "acrylic eyes: 'Dead Fred' dummy (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0177168",
+                        "name": "Lisa C. Cook",
+                        "description": "production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0131954",
+                        "name": "Joe Camp III",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm0475456",
+                        "name": "Allen Kupetsky",
+                        "description": "second assistant director: second unit"
+                    },
+                    {
+                        "id": "nm0567082",
+                        "name": "Michael McCue",
+                        "description": "third assistant director"
+                    },
+                    {
+                        "id": "nm0628421",
+                        "name": "Randall Newsome",
+                        "description": "second second assistant director"
+                    },
+                    {
+                        "id": "nm0677253",
+                        "name": "Kristine Peterson",
+                        "description": "first assistant director: second unit"
+                    },
+                    {
+                        "id": "nm0770771",
+                        "name": "Thomas Schellenberg",
+                        "description": "second assistant director: second unit"
+                    },
+                    {
+                        "id": "nm0867715",
+                        "name": "Mike Topoozian",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0890930",
+                        "name": "Jim Vatis",
+                        "description": "second assistant director: second unit"
+                    },
+                    {
+                        "id": "nm0934093",
+                        "name": "S.S. Wilson",
+                        "description": "second unit director"
+                    },
+                    {
+                        "id": "nm0003440",
+                        "name": "John R. Woodward",
+                        "description": "first assistant director: second unit"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0027396",
+                        "name": "Russell R. Anderson",
+                        "description": "swing gang"
+                    },
+                    {
+                        "id": "nm0083186",
+                        "name": "Rick Bioni",
+                        "description": "assistant property master"
+                    },
+                    {
+                        "id": "nm0118706",
+                        "name": "John Bucklin",
+                        "description": "construction manager"
+                    },
+                    {
+                        "id": "nm0150150",
+                        "name": "Dave Chamberlain",
+                        "description": "model maker"
+                    },
+                    {
+                        "id": "nm2015509",
+                        "name": "Raymond F. Cooper",
+                        "description": "scenic painter (as Ray Cooper)"
+                    },
+                    {
+                        "id": "nm0192285",
+                        "name": "David Cunningham",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0205157",
+                        "name": "Michael Davis",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm2535536",
+                        "name": "David Esparza",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm0283589",
+                        "name": "Peter Flynn",
+                        "description": "construction foreman"
+                    },
+                    {
+                        "id": "nm0285819",
+                        "name": "Paul Ford",
+                        "description": "lead man"
+                    },
+                    {
+                        "id": "nm0290765",
+                        "name": "Barry Franenberg",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm2997361",
+                        "name": "Geoffrey Hagenbuckle",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm2996657",
+                        "name": "Kathleen Laird",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm0489025",
+                        "name": "Ken Larson",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm0509393",
+                        "name": "John Lieberman",
+                        "description": "swing gang"
+                    },
+                    {
+                        "id": "nm1651563",
+                        "name": "Gregory Lynch Jr.",
+                        "description": "on-set carpenter"
+                    },
+                    {
+                        "id": "nm0540478",
+                        "name": "Mike Malone",
+                        "description": "on-set dresser"
+                    },
+                    {
+                        "id": "nm0562968",
+                        "name": "Philip Mayor",
+                        "description": "storyboard artist"
+                    },
+                    {
+                        "id": "nm2997232",
+                        "name": "Vicky Molinarolo",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm0664287",
+                        "name": "Marino Pascal",
+                        "description": "set dresser (as Marinos Paschaloudes)"
+                    },
+                    {
+                        "id": "nm5171248",
+                        "name": "Thomas Rude",
+                        "description": "construction foreman"
+                    },
+                    {
+                        "id": "nm2997078",
+                        "name": "Bill Sane",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm2996962",
+                        "name": "Beth Thompson",
+                        "description": "on-set dresser"
+                    },
+                    {
+                        "id": "nm2997146",
+                        "name": "Teena Welch",
+                        "description": "scenic painter"
+                    },
+                    {
+                        "id": "nm0938284",
+                        "name": "Lyndell Wolff",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm0947339",
+                        "name": "Eugene Yelchin",
+                        "description": "storyboard artist"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0022562",
+                        "name": "David W. Alstadter",
+                        "description": "foley recordist"
+                    },
+                    {
+                        "id": "nm0027328",
+                        "name": "Richard L. Anderson",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0058801",
+                        "name": "David Bartlett",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0079771",
+                        "name": "Matthew C. Beville",
+                        "description": "sound transfer"
+                    },
+                    {
+                        "id": "nm0218260",
+                        "name": "W.M. Dembrowski",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0220991",
+                        "name": "Robert Deschaine",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm0242628",
+                        "name": "John Dunn",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0245400",
+                        "name": "Ezra Dweck",
+                        "description": "sound effects recordist"
+                    },
+                    {
+                        "id": "nm0282267",
+                        "name": "Donald Flick",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0282276",
+                        "name": "Stephen Hunter Flick",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0315177",
+                        "name": "Gregory G. Gest",
+                        "description": "sound re-recordist"
+                    },
+                    {
+                        "id": "nm0315179",
+                        "name": "Walter A. Gest",
+                        "description": "sound re-recordist"
+                    },
+                    {
+                        "id": "nm0321790",
+                        "name": "Aaron Glascock",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0326208",
+                        "name": "Eric J. Goldstein",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm0338992",
+                        "name": "Douglas Greenfield",
+                        "description": "stereo sound consultant: Dolby"
+                    },
+                    {
+                        "id": "nm0348968",
+                        "name": "Dana Gustafson",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0352300",
+                        "name": "Jeffrey J. Haboush",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0553190",
+                        "name": "Walt Martin",
+                        "description": "production sound mixer"
+                    },
+                    {
+                        "id": "nm0594097",
+                        "name": "Oscar Mitt",
+                        "description": "sound"
+                    },
+                    {
+                        "id": "nm0640114",
+                        "name": "Kevin O'Connell",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0640176",
+                        "name": "Thomas J. O'Connell",
+                        "description": "adr recordist"
+                    },
+                    {
+                        "id": "nm0666128",
+                        "name": "Andrew Patterson",
+                        "description": "adr editor"
+                    },
+                    {
+                        "id": "nm0654897",
+                        "name": "John Pospisil",
+                        "description": "special sound effects"
+                    },
+                    {
+                        "id": "nm0724009",
+                        "name": "Charleen Richards",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm0724777",
+                        "name": "Steve Richardson",
+                        "description": "adr editor"
+                    },
+                    {
+                        "id": "nm0746543",
+                        "name": "Joan Rowe",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0751169",
+                        "name": "Greg P. Russell",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0801006",
+                        "name": "George Simpson",
+                        "description": "sound effects editor"
+                    },
+                    {
+                        "id": "nm0872150",
+                        "name": "Jerry Trent",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0006354",
+                        "name": "Steve Lee",
+                        "description": "sound effects librarian (uncredited)"
+                    },
+                    {
+                        "id": "nm0593677",
+                        "name": "Rick Mitchell",
+                        "description": "foley editor (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0055211",
+                        "name": "Anthony Allen Barlow",
+                        "description": "creature effects: art crew (as Alan Barlow)"
+                    },
+                    {
+                        "id": "nm0060324",
+                        "name": "Bill Basso",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm1933995",
+                        "name": "Nick Benson",
+                        "description": "special effects"
+                    },
+                    {
+                        "id": "nm0073866",
+                        "name": "Paul Berg",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0074205",
+                        "name": "Howard Berger",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0107693",
+                        "name": "Martin Bresin",
+                        "description": "special effects coordinator (as Marty Bresin)"
+                    },
+                    {
+                        "id": "nm0122201",
+                        "name": "Rob Burman",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0124699",
+                        "name": "Noel Butcher",
+                        "description": "effects man: MB Special Effects"
+                    },
+                    {
+                        "id": "nm1075359",
+                        "name": "Jim Carson",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0150150",
+                        "name": "Dave Chamberlain",
+                        "description": "creature effects: art crew (as David Chamberlain)"
+                    },
+                    {
+                        "id": "nm0150505",
+                        "name": "David Chameides",
+                        "description": "special effects crew"
+                    },
+                    {
+                        "id": "nm0183360",
+                        "name": "Mitchell J. Coughlin",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0262173",
+                        "name": "Dale Ettema",
+                        "description": "effects man: MB Special Effects"
+                    },
+                    {
+                        "id": "nm0289698",
+                        "name": "Steve Frakes",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0296158",
+                        "name": "Linda Frobos",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0319266",
+                        "name": "Alec Gillis",
+                        "description": "creature effects designer and creator"
+                    },
+                    {
+                        "id": "nm0476071",
+                        "name": "Robert Kurtzman",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0587885",
+                        "name": "Andrew Miller",
+                        "description": "special effects foreman"
+                    },
+                    {
+                        "id": "nm0588198",
+                        "name": "David B. Miller",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0616694",
+                        "name": "Donald Myers",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0710902",
+                        "name": "Mark Rappaport",
+                        "description": "special creature effects"
+                    },
+                    {
+                        "id": "nm0720505",
+                        "name": "Kevin Reter",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0745782",
+                        "name": "Michael Roundy",
+                        "description": "effects man: MB special effects"
+                    },
+                    {
+                        "id": "nm0774902",
+                        "name": "Michael Schorr",
+                        "description": "special effects foreman: MB Special Effects (as Mike Schorr)"
+                    },
+                    {
+                        "id": "nm0776398",
+                        "name": "Stephan Schultze",
+                        "description": "creature effects: art crew (as Stephen Schultze)"
+                    },
+                    {
+                        "id": "nm0809931",
+                        "name": "Shaun Smith",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0814836",
+                        "name": "Carl Sorensen",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0817189",
+                        "name": "Michael Spatola",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0830450",
+                        "name": "David Stinnett",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0850191",
+                        "name": "Ken Tarallo",
+                        "description": "special effects"
+                    },
+                    {
+                        "id": "nm0856273",
+                        "name": "John Teska",
+                        "description": "special creature effects: ADI"
+                    },
+                    {
+                        "id": "nm0933822",
+                        "name": "Mark Bryan Wilson",
+                        "description": "creature effects: art crew"
+                    },
+                    {
+                        "id": "nm0940430",
+                        "name": "Tom Woodruff Jr.",
+                        "description": "creature effects designer and creator"
+                    },
+                    {
+                        "id": "nm0006866",
+                        "name": "Robin L. D'Arcy",
+                        "description": "special effects coordinator (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm0017591",
+                        "name": "Tony Alderson",
+                        "description": "opticals: Fantasy II Film"
+                    },
+                    {
+                        "id": "nm0067967",
+                        "name": "James Belkin",
+                        "description": "effects camera operator: 4-ward Productions / miniature effects manager: 4-Ward Productions"
+                    },
+                    {
+                        "id": "nm0108888",
+                        "name": "Stephen Brien",
+                        "description": "miniature supervisor: 4-ward Productions"
+                    },
+                    {
+                        "id": "nm0111292",
+                        "name": "Betzy Bromberg",
+                        "description": "opticals: Fantasy II Film"
+                    },
+                    {
+                        "id": "nm0146253",
+                        "name": "Craig Caton",
+                        "description": "creature effects"
+                    },
+                    {
+                        "id": "nm0150150",
+                        "name": "Dave Chamberlain",
+                        "description": "creature effects art crew"
+                    },
+                    {
+                        "id": "nm0150505",
+                        "name": "David Chameides",
+                        "description": "visual effects"
+                    },
+                    {
+                        "id": "nm0249195",
+                        "name": "Elaine Edford",
+                        "description": "miniature effects producer: 4-Ward Productions"
+                    },
+                    {
+                        "id": "nm0250083",
+                        "name": "Jeff Edwards",
+                        "description": "creature effects"
+                    },
+                    {
+                        "id": "nm0339481",
+                        "name": "Ray Greer",
+                        "description": "miniature crew: 4-Ward Productions"
+                    },
+                    {
+                        "id": "nm0381894",
+                        "name": "Mecki Heussen",
+                        "description": "creature effects"
+                    },
+                    {
+                        "id": "nm0402165",
+                        "name": "John Huneck",
+                        "description": "camera operator: Fantasy II Film"
+                    },
+                    {
+                        "id": "nm0403161",
+                        "name": "Leslie Huntley",
+                        "description": "visual effects production supervisor: Fantasy II Film"
+                    },
+                    {
+                        "id": "nm0461865",
+                        "name": "Roy Knyrim",
+                        "description": "Model Builder--Basement Scene"
+                    },
+                    {
+                        "id": "nm0484939",
+                        "name": "Richard J. Landon",
+                        "description": "creature effects"
+                    },
+                    {
+                        "id": "nm0495515",
+                        "name": "Stephen Lebed",
+                        "description": "model maker"
+                    },
+                    {
+                        "id": "nm0594300",
+                        "name": "Bret Mixon",
+                        "description": "rotoscoping"
+                    },
+                    {
+                        "id": "nm0606661",
+                        "name": "John Morris",
+                        "description": "creature effects"
+                    },
+                    {
+                        "id": "nm0710902",
+                        "name": "Mark Rappaport",
+                        "description": "creature effects"
+                    },
+                    {
+                        "id": "nm0722348",
+                        "name": "Gary Rhodaback",
+                        "description": "production assistant: Fantasy II Film"
+                    },
+                    {
+                        "id": "nm0738983",
+                        "name": "Lise Romanoff",
+                        "description": "special visual effects coordinator"
+                    },
+                    {
+                        "id": "nm0750844",
+                        "name": "Richard Ruskuski",
+                        "description": "miniature crew: 4-Ward Productions"
+                    },
+                    {
+                        "id": "nm0771969",
+                        "name": "William H. Schirmer",
+                        "description": "visual effects coordinator (as Bill Schirmer)"
+                    },
+                    {
+                        "id": "nm0791371",
+                        "name": "Mark A. Shelton",
+                        "description": "visual effects gaffer"
+                    },
+                    {
+                        "id": "nm0804738",
+                        "name": "Robert Skotak",
+                        "description": "visual effects supervisor: 4-ward productions"
+                    },
+                    {
+                        "id": "nm0834902",
+                        "name": "Robert Stromberg",
+                        "description": "digital matte artist"
+                    },
+                    {
+                        "id": "nm0849843",
+                        "name": "Roland Tantin",
+                        "description": "special effects coordinator"
+                    },
+                    {
+                        "id": "nm0856273",
+                        "name": "John Teska",
+                        "description": "creature effects"
+                    },
+                    {
+                        "id": "nm0912704",
+                        "name": "Gene Warren Jr.",
+                        "description": "visual effects supervisor: Fantasy II Film"
+                    },
+                    {
+                        "id": "nm0929945",
+                        "name": "David S. Williams Jr.",
+                        "description": "camera operator: Illusion"
+                    },
+                    {
+                        "id": "nm0728214",
+                        "name": "Rick Rische",
+                        "description": "matte artist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0064846",
+                        "name": "Pamela Bebermeyer",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0129960",
+                        "name": "Hank Calia",
+                        "description": "stunt player (as Henry A. Calia)"
+                    },
+                    {
+                        "id": "nm0141073",
+                        "name": "Sal Carrubba",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0143751",
+                        "name": "John Casino",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0146829",
+                        "name": "Cindy Cavallero",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0148088",
+                        "name": "Fernando Celis",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0173338",
+                        "name": "George B. Colucci Jr.",
+                        "description": "stunt player (as George 'Moose' Colucci)"
+                    },
+                    {
+                        "id": "nm0278415",
+                        "name": "Glory Fioramonti",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0318141",
+                        "name": "Lance Gilbert",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0318904",
+                        "name": "Amy Gillespie",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0318950",
+                        "name": "John Gillespie",
+                        "description": "assistant stunt coordinator"
+                    },
+                    {
+                        "id": "nm0352130",
+                        "name": "Jeff Habberstad",
+                        "description": "stunt double: Kevin Bacon"
+                    },
+                    {
+                        "id": "nm0408001",
+                        "name": "Jeff Imada",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0006548",
+                        "name": "Ben Jensen",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0421429",
+                        "name": "Ethan Jensen",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0421448",
+                        "name": "Gary Jensen",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0202009",
+                        "name": "Tracy Keehn-Dashnaw",
+                        "description": "stunt player (as Tracy Lyn Keehn)"
+                    },
+                    {
+                        "id": "nm0628421",
+                        "name": "Randall Newsome",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0677402",
+                        "name": "Sherry Peterson",
+                        "description": "stunt player (as Sherry Petersen)"
+                    },
+                    {
+                        "id": "nm0679869",
+                        "name": "John Sherrod",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0800052",
+                        "name": "Al Simon",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0859679",
+                        "name": "Cris Thomas-Palomino",
+                        "description": "stunt player (as Cris Palamino)"
+                    },
+                    {
+                        "id": "nm0926957",
+                        "name": "Karl A. Wickman",
+                        "description": "stunt player (as Carl Wickman)"
+                    },
+                    {
+                        "id": "nm0298842",
+                        "name": "Vladimir 'Furdo' Furdik",
+                        "description": "utility stunts (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0077010",
+                        "name": "Brian Bernstein",
+                        "description": "assistant camera"
+                    },
+                    {
+                        "id": "nm0097292",
+                        "name": "Shunil Borpujari",
+                        "description": "additional dolly grip (as Shaunil Borbujari)"
+                    },
+                    {
+                        "id": "nm0148013",
+                        "name": "Joe Celeste",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0166847",
+                        "name": "Henry Cline",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm0173658",
+                        "name": "Mark Combs",
+                        "description": "best boy electric"
+                    },
+                    {
+                        "id": "nm0237938",
+                        "name": "Peter Drinco",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0277498",
+                        "name": "Jesper Find",
+                        "description": "additional first assistant camera"
+                    },
+                    {
+                        "id": "nm0321177",
+                        "name": "Alan Gitlin",
+                        "description": "camera operator: second unit"
+                    },
+                    {
+                        "id": "nm0356934",
+                        "name": "Amy C. Halpern",
+                        "description": "first assistant camera / second unit cameraman/operator"
+                    },
+                    {
+                        "id": "nm0363999",
+                        "name": "Virgil L. Harper",
+                        "description": "director of photography: second unit"
+                    },
+                    {
+                        "id": "nm0384843",
+                        "name": "Loren Hillebrand",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0393448",
+                        "name": "Christopher Hood",
+                        "description": "second assistant camera: second unit (as Chris Hood)"
+                    },
+                    {
+                        "id": "nm0409671",
+                        "name": "Peter Iovino",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm0426775",
+                        "name": "Matthew Johnston",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm0446866",
+                        "name": "Shane D. Kelly",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0467138",
+                        "name": "William K. Koski",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0551401",
+                        "name": "Jeff Mart",
+                        "description": "steadicam operator"
+                    },
+                    {
+                        "id": "nm0558452",
+                        "name": "Jesse Mather",
+                        "description": "additional best boy electric"
+                    },
+                    {
+                        "id": "nm0581722",
+                        "name": "Ralph Merzbach",
+                        "description": "video assist operator"
+                    },
+                    {
+                        "id": "nm0605350",
+                        "name": "James G. Moriarty",
+                        "description": "best boy grip (as Jim Moriarty)"
+                    },
+                    {
+                        "id": "nm0624060",
+                        "name": "Ned Nedrow",
+                        "description": "rigging grip"
+                    },
+                    {
+                        "id": "nm0639506",
+                        "name": "Deborah O'Brien",
+                        "description": "additional second assistant camera (as Debbie O'Brien)"
+                    },
+                    {
+                        "id": "nm0769753",
+                        "name": "Martin Schaer",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm0890673",
+                        "name": "Gus Vasquez",
+                        "description": "key grip: second unit"
+                    },
+                    {
+                        "id": "nm0907195",
+                        "name": "Kelly Waldman",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0930636",
+                        "name": "Gary A. Williams",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0949663",
+                        "name": "Jamie Young",
+                        "description": "dolly grip"
+                    },
+                    {
+                        "id": "nm0730793",
+                        "name": "Bill H. Roberts Jr.",
+                        "description": "additional second ac (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0058515",
+                        "name": "Sarah Bartfield",
+                        "description": "casting associate"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0399904",
+                        "name": "Laurie Hudson",
+                        "description": "wardrobe supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0075531",
+                        "name": "Derek Berlatsky",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0111821",
+                        "name": "Dennis Brookins",
+                        "description": "negative cutter"
+                    },
+                    {
+                        "id": "nm0450235",
+                        "name": "Sue Kesler",
+                        "description": "second assistant editor"
+                    },
+                    {
+                        "id": "nm0484147",
+                        "name": "Karen Sharp Lancaster",
+                        "description": "first assistant editor"
+                    },
+                    {
+                        "id": "nm0512458",
+                        "name": "Kevin Lindstrom",
+                        "description": "second assistant editor"
+                    },
+                    {
+                        "id": "nm0630257",
+                        "name": "John Nicolard",
+                        "description": "color timer"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0537483",
+                        "name": "Toni Maier",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm0758873",
+                        "name": "Tony Salome",
+                        "description": "location manager"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0007523",
+                        "name": "Michael Aarvold",
+                        "description": "music scoring mixer"
+                    },
+                    {
+                        "id": "nm2036352",
+                        "name": "Tom Boyd",
+                        "description": "oboe soloist"
+                    },
+                    {
+                        "id": "nm0137533",
+                        "name": "Patricia Carlin",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0244246",
+                        "name": "Kathy Durning",
+                        "description": "supervising music editor"
+                    },
+                    {
+                        "id": "nm1938485",
+                        "name": "Louise Hatem",
+                        "description": "music co-producer"
+                    },
+                    {
+                        "id": "nm2518578",
+                        "name": "Barb Luby",
+                        "description": "orchestrator"
+                    },
+                    {
+                        "id": "nm3328817",
+                        "name": "Norman Ludwin",
+                        "description": "musician: bass"
+                    },
+                    {
+                        "id": "nm0536314",
+                        "name": "Phil Magnotti",
+                        "description": "music recordist"
+                    },
+                    {
+                        "id": "nm0589172",
+                        "name": "Randy Miller",
+                        "description": "orchestrator"
+                    },
+                    {
+                        "id": "nm0598732",
+                        "name": "Johnny Montagnese",
+                        "description": "music recordist"
+                    },
+                    {
+                        "id": "nm0758518",
+                        "name": "Ralph Sall",
+                        "description": "music supervisor"
+                    },
+                    {
+                        "id": "nm0857125",
+                        "name": "James Thatcher",
+                        "description": "musician: french horn"
+                    },
+                    {
+                        "id": "nm0873560",
+                        "name": "Ernest Troost",
+                        "description": "conductor"
+                    },
+                    {
+                        "id": "nm0006077",
+                        "name": "Robert Folk",
+                        "description": "composer: additional music (uncredited)"
+                    },
+                    {
+                        "id": "nm0608585",
+                        "name": "John Moses",
+                        "description": "musician: clarinetist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0081545",
+                        "name": "Susan Bierbaum",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm0035762",
+                        "name": "John Armstrong",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm4187401",
+                        "name": "Aaron Aronson",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0037684",
+                        "name": "Billy G. Arter",
+                        "description": "transportation coordinator: second unit (as Billy Arter)"
+                    },
+                    {
+                        "id": "nm0037685",
+                        "name": "Ed Arter",
+                        "description": "transportation coordinator (as Edward D. Arter)"
+                    },
+                    {
+                        "id": "nm0037687",
+                        "name": "Tina M. Arter-Duquette",
+                        "description": "transportation dispatcher (as Tina Arter)"
+                    },
+                    {
+                        "id": "nm0115387",
+                        "name": "John A. Brubaker",
+                        "description": "driver: second unit (as John Brubaker)"
+                    },
+                    {
+                        "id": "nm0141073",
+                        "name": "Sal Carrubba",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0164705",
+                        "name": "Chuck Clarke",
+                        "description": "transportation coordinator: second unit"
+                    },
+                    {
+                        "id": "nm0189535",
+                        "name": "Don Crow",
+                        "description": "driver (as Donald Crow)"
+                    },
+                    {
+                        "id": "nm0227839",
+                        "name": "Ronald B. Dinson Sr.",
+                        "description": "driver (as Ronald Dinson)"
+                    },
+                    {
+                        "id": "nm1509220",
+                        "name": "Louis Dinson",
+                        "description": "driver: second unit"
+                    },
+                    {
+                        "id": "nm1562297",
+                        "name": "Jackie Lambert",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0522520",
+                        "name": "Dan Loveless",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0580410",
+                        "name": "Helen Mercier",
+                        "description": "driver (as H. Weezee Mercier)"
+                    },
+                    {
+                        "id": "nm0580448",
+                        "name": "Rick Mercier",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm0580455",
+                        "name": "Tony Mercier",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0650350",
+                        "name": "John Ornstein",
+                        "description": "driver captain: second unit"
+                    },
+                    {
+                        "id": "nm0788339",
+                        "name": "Mike Shannon",
+                        "description": "transportation co-captain"
+                    },
+                    {
+                        "id": "nm0878629",
+                        "name": "Mark Twogood",
+                        "description": "special effects driver: second unit"
+                    },
+                    {
+                        "id": "nm0924535",
+                        "name": "Bob White",
+                        "description": "driver captain: second unit (as Robert White)"
+                    },
+                    {
+                        "id": "nm2886570",
+                        "name": "Chuck Williams",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0283645",
+                        "name": "Troy Flynn",
+                        "description": "transportation (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0047177",
+                        "name": "Carmen Bailey",
+                        "description": "production assistant: second unit"
+                    },
+                    {
+                        "id": "nm0068673",
+                        "name": "Bob Bellamak",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm0146253",
+                        "name": "Craig Caton",
+                        "description": "key mechanical designer / puppeteer"
+                    },
+                    {
+                        "id": "nm0239868",
+                        "name": "Steven P. Duchscherer",
+                        "description": "gun specialist"
+                    },
+                    {
+                        "id": "nm0242535",
+                        "name": "Colleen Dunn",
+                        "description": "post-production office assistant"
+                    },
+                    {
+                        "id": "nm0242782",
+                        "name": "Terry Dunn",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm0250083",
+                        "name": "Jeff Edwards",
+                        "description": "mechanical crew"
+                    },
+                    {
+                        "id": "nm0266105",
+                        "name": "David Falicki",
+                        "description": "set medic"
+                    },
+                    {
+                        "id": "nm0381894",
+                        "name": "Mecki Heussen",
+                        "description": "mechanical crew"
+                    },
+                    {
+                        "id": "nm0404636",
+                        "name": "Kate Hudson",
+                        "description": "seismology consultant"
+                    },
+                    {
+                        "id": "nm0413914",
+                        "name": "Pat Jackson",
+                        "description": "studio teacher"
+                    },
+                    {
+                        "id": "nm2996964",
+                        "name": "Dave Johnson",
+                        "description": "production assistant: second unit"
+                    },
+                    {
+                        "id": "nm0452242",
+                        "name": "Greg Kidd",
+                        "description": "production assistant: second unit (as Gregory Kidd)"
+                    },
+                    {
+                        "id": "nm1015106",
+                        "name": "Dave Krinsky",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0484939",
+                        "name": "Richard J. Landon",
+                        "description": "mechanical crew"
+                    },
+                    {
+                        "id": "nm0553600",
+                        "name": "Kris Fullan Martinez",
+                        "description": "assistant production coordinator"
+                    },
+                    {
+                        "id": "nm0606661",
+                        "name": "John Morris",
+                        "description": "mechanical crew"
+                    },
+                    {
+                        "id": "nm0627788",
+                        "name": "Dale Newell",
+                        "description": "dirt wrangler"
+                    },
+                    {
+                        "id": "nm0673516",
+                        "name": "Jesus 'Chewy' Perez",
+                        "description": "sage wrangler"
+                    },
+                    {
+                        "id": "nm0685855",
+                        "name": "Michael Pitt",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0697727",
+                        "name": "Tom Prince",
+                        "description": "production executive"
+                    },
+                    {
+                        "id": "nm0710902",
+                        "name": "Mark Rappaport",
+                        "description": "mechanical crew"
+                    },
+                    {
+                        "id": "nm0722290",
+                        "name": "Robert Rhine",
+                        "description": "unit publicist"
+                    },
+                    {
+                        "id": "nm0819699",
+                        "name": "Sara Spring",
+                        "description": "production coordinator"
+                    },
+                    {
+                        "id": "nm0856273",
+                        "name": "John Teska",
+                        "description": "mechanical crew"
+                    },
+                    {
+                        "id": "nm0860540",
+                        "name": "Neal Thompson",
+                        "description": "title designer"
+                    },
+                    {
+                        "id": "nm3902289",
+                        "name": "Daniel Wheatcroft",
+                        "description": "studio executive"
+                    },
+                    {
+                        "id": "nm2996864",
+                        "name": "James Young",
+                        "description": "production assistant: second unit"
+                    },
+                    {
+                        "id": "nm0951978",
+                        "name": "Anthony Zahn Jr.",
+                        "description": "production assistant: second unit"
+                    },
+                    {
+                        "id": "nm1151908",
+                        "name": "Joe Camp",
+                        "description": "animal trainer (uncredited)"
+                    },
+                    {
+                        "id": "nm0544603",
+                        "name": "Tammy Maples",
+                        "description": "animal trainer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0731443",
+                        "name": "Nancy Roberts",
+                        "description": "special thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Comedy, Horror",
+    "genreList": [
+        {
+            "key": "Comedy",
+            "value": "Comedy"
+        },
+        {
+            "key": "Horror",
+            "value": "Horror"
+        }
+    ],
+    "companies": "Universal Pictures, No Frills Film Production, Wilson-Maddock Production",
+    "companyList": [
+        {
+            "id": "co0005073",
+            "name": "Universal Pictures"
+        },
+        {
+            "id": "co0033220",
+            "name": "No Frills Film Production"
+        },
+        {
+            "id": "co0651256",
+            "name": "Wilson-Maddock Production"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "PG-13",
+    "imDbRating": "7.1",
+    "imDbRatingVotes": "114218",
+    "metacriticRating": "65",
+    "ratings": {
+        "imDbId": "tt0100814",
+        "title": "Tremors",
+        "fullTitle": "Tremors (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "imDb": "7.1",
+        "metacritic": "65",
+        "theMovieDb": "6.7",
+        "rottenTomatoes": "88",
+        "tV_com": "8.3",
+        "filmAffinity": "5.4",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0100814",
+        "title": "Tremors",
+        "fullTitle": "Tremors (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "language": "en",
+        "titleInLanguage": "Tremors (film)",
+        "url": "https://en.wikipedia.org/wiki/Tremors_(film)",
+        "plotShort": {
+            "plainText": "Tremors (film)\r\nTremors is a 1990 American monster comedy film directed by Ron Underwood, produced by Gale Anne Hurd, Brent Maddock, and S. S. Wilson, and written by Maddock, Wilson, and Underwood. Tremors was released by Universal Pictures and stars Kevin Bacon, Fred Ward, Finn Carter, Michael Gross, and Reba McEntire.\r\nIn the film, tired of their dull lives in the small desert town of Perfection, Nevada, repairmen Val McKee (Bacon) and Earl Bassett (Ward) try to skip town. However, they happen upon a series of mysterious deaths and a concerned seismologist Rhonda (Carter) studying unnatural readings below the ground. With the help of an eccentric survivalist couple Burt and Heather Gummer (Gross and McEntire), the group fights for survival against giant, worm-like monsters hungry for human flesh.\r\nThe film is the first installment of the Tremors franchise, and was followed by five direct-to-video sequels: Tremors 2: Aftershocks (1996), Tremors 3: Back to Perfection (2001), Tremors 5: Bloodlines (2015), Tremors: A Cold Day in Hell (2018) and Tremors: Island Fury (2020) and a direct-to-video prequel, Tremors 4: The Legend Begins (2004). A television series titled Tremors: The Series, aired from March through August 2003.",
+            "html": "<h2>Tremors (film)</h2><p>Tremors is a 1990 American monster comedy film directed by Ron Underwood, produced by Gale Anne Hurd, Brent Maddock, and S. S. Wilson, and written by Maddock, Wilson, and Underwood. Tremors was released by Universal Pictures and stars Kevin Bacon, Fred Ward, Finn Carter, Michael Gross, and Reba McEntire.</p><p>In the film, tired of their dull lives in the small desert town of Perfection, Nevada, repairmen Val McKee (Bacon) and Earl Bassett (Ward) try to skip town. However, they happen upon a series of mysterious deaths and a concerned seismologist Rhonda (Carter) studying unnatural readings below the ground. With the help of an eccentric survivalist couple Burt and Heather Gummer (Gross and McEntire), the group fights for survival against giant, worm-like monsters hungry for human flesh.</p><p>The film is the first installment of the Tremors franchise, and was followed by five direct-to-video sequels: Tremors 2: Aftershocks (1996), Tremors 3: Back to Perfection (2001), Tremors 5: Bloodlines (2015), Tremors: A Cold Day in Hell (2018) and Tremors: Island Fury (2020) and a direct-to-video prequel, Tremors 4: The Legend Begins (2004). A television series titled Tremors: The Series, aired from March through August 2003.</p>"
+        },
+        "plotFull": {
+            "plainText": "Tremors (film)\r\nTremors is a 1990 American monster comedy film directed by Ron Underwood, produced by Gale Anne Hurd, Brent Maddock, and S. S. Wilson, and written by Maddock, Wilson, and Underwood. Tremors was released by Universal Pictures and stars Kevin Bacon, Fred Ward, Finn Carter, Michael Gross, and Reba McEntire.\r\nIn the film, tired of their dull lives in the small desert town of Perfection, Nevada, repairmen Val McKee (Bacon) and Earl Bassett (Ward) try to skip town. However, they happen upon a series of mysterious deaths and a concerned seismologist Rhonda (Carter) studying unnatural readings below the ground. With the help of an eccentric survivalist couple Burt and Heather Gummer (Gross and McEntire), the group fights for survival against giant, worm-like monsters hungry for human flesh.\r\nThe film is the first installment of the Tremors franchise, and was followed by five direct-to-video sequels: Tremors 2: Aftershocks (1996), Tremors 3: Back to Perfection (2001), Tremors 5: Bloodlines (2015), Tremors: A Cold Day in Hell (2018) and Tremors: Island Fury (2020) and a direct-to-video prequel, Tremors 4: The Legend Begins (2004). A television series titled Tremors: The Series, aired from March through August 2003.\r\nPlot\r\nValentine \"Val\" McKee and Earl Bassett are handymen working in Perfection, Nevada, an isolated ex-mining settlement in the high desert east of the Sierra Nevada mountains. They eventually get tired of their jobs and leave for Bixby, the nearest town. As they leave, they discover the dead body of another resident, Edgar Deems, perched atop an electrical tower, still grasping the tower's crossbeams and his .30-30 Winchester rifle. Jim Wallace, the town's doctor, determines that Edgar died of dehydration, apparently afraid for some reason to climb down.\r\nLater on, an unknown creature kills shepherd \"Old Fred\" and his flock of sheep. After discovering his severed head buried in the sand, Val and Earl become convinced that a serial killer is on the loose; they head back to town to warn the other residents. Two construction workers ignore Val and Earl's warning and are killed by the same creature, causing a rock slide. Val and Earl try to get help, but find the phone lines are dead, and the only road out of town is completely blocked by the rock slide. Out of sight, a snake-like creature wraps itself around their truck's rear axle. The creature is however torn apart when Val stomps on the accelerator and drives away, where they find it later when they return to town.\r\nVal and Earl return to Perfection and borrow horses. They come upon Wallace and his wife's buried station wagon near their trailer, but the couple is missing (they were killed the previous night). As they press on, an enormous burrowing worm-like creature (later named a \"graboid\" by general store owner Walter Chang), suddenly erupts out of the ground, revealing the snake-like creature to be one of the worm creature's tentacled \"tongues\": thrown from their horses, the men flee with the monster following them in pursuit. The chase ends when the eyeless creature crashes through the concrete wall of an aqueduct, dying from the impact. Rhonda LeBeck, a graduate student conducting seismology tests in the area, stumbles onto the scene; she deduces from previous soundings that three other graboids are in the area. Rhonda, Val, and Earl become trapped overnight atop a cluster of boulders near one of the creatures, named Stumpy. Rhonda has a brainstorm and grabs one of several left-behind fence poles of a nearby fence; the three of them repeatedly pole vault to residual boulders to get to her truck, finally making their getaway.\r\nAfter the three return to town, the graboids start attacking, eventually, one of them killing Walter and forcing the other citizens to the town's rooftops. Meanwhile, nearby survivalist couple Burt and Heather Gummer manage to kill another one of the creatures after unknowingly luring it to their basement armory. In town, the two remaining graboids attack the building foundations, knocking over a trailer belonging to Nestor before dragging him under and devouring him.\r\nVal and Earl are stuck on a roof with Miguel. Realizing they cannot stay in the town any longer, Earl, Rhonda, and Miguel distract the monsters while Val commandeers a CAT Track-Loader and chains a partial truck trailer to the rear; the survivors use it to try to escape to a nearby mountain range. On the way there, both graboids create a sinkhole trap that disables the track-loader, forcing the survivors to flee to safety on large boulders. Earl has an idea to lure in the Graboids, then trick them into swallowing Burt's homemade bombs. While this works on one graboid, the other one, Stumpy, regurgitates it back towards the survivors, forcing Val, Earl, and Rhonda to vacate the rock quickly to avoid the explosion.\r\nWith one last bomb, Val lures Stumpy to chase him to the edge of a cliff and then explodes the bomb behind him, frightening the graboid into charging through the cliff face, where he plummets to his death onto the rocks below. The group returns to town, where they call in the authorities to begin an investigation while Earl encourages Val to pursue a romantic relationship with Rhonda.\r\nCast\r\nKevin Bacon as Valentine McKee\r\nFred Ward as Earl Bassett\r\nFinn Carter as Rhonda LeBeck\r\nMichael Gross as Burt Gummer\r\nV\u00edctor Wong as Walter Chang\r\nBobby Jacoby as Melvin Plug\r\nAriana Richards as Mindy\r\nReba McEntire as Heather Gummer\r\nCharlotte Stewart as Nancy\r\nTony Genaro as Miguel\r\nRichard Marcus as Nestor\r\nBibi Besch as Megan\u2013the doctor's wife\r\nConrad Bachmann as Jim\u2013the doctor\r\nSunshine Parker as Edgar\r\nMichael Dan Wagner as Old Fred\r\nJohn Goodwin as Howard\u2013roadworker\r\nJohn Pappas as Carmine\u2013roadworker\r\nProduction\r\nThe concept of Tremors was originally conceived in the early 1980s, when writers S.S. Wilson and Brent Maddock were working for the United States Navy as filmmakers in charge of creating educational safety videos. While getting footage, the two climbed a large desert boulder and asked the question \"what if there was something that wouldn't let us off of this rock?\" causing the two to later come up with an idea dubbed 'Land Sharks'. They shared their idea to friend Ron Underwood, who was working with National Geographic as a documentary director, and used his knowledge of zoology to better develop the \"land sharks\" into creatures that could realistically exist.\r\nAfter their script for Short Circuit became a major box office hit, Wilson and Maddock quickly began shopping around their idea for Tremors. The name 'Land Sharks' was changed due to a then-popular Saturday Night Live sketch featuring a character of the same name. The original screenplay, titled 'Beneath Perfection', was finished in June 1988.\r\nFilming\r\nFilming began in early 1989 over the course of 50 days. Principal photography took place around Lone Pine, California and the isolated community of Darwin, California, which the crew liked due to its uncanny similitaries to the fictional town of Perfection, Nevada. The town, which was entirely a set, was built near Olancha, California. The mountains in the distance are the Sierra Nevada, and Owens Lake can be seen in the background during the film's climax.\r\nProps\r\nThe creature for Tremors was designed by Amalgamated Dynamics. The full-scale graboid seen after being dug up by Val was cast in lightweight foam. It was placed in a trench, then buried, and dug up again to achieve the desired \"used\" effect.\r\nBurt's elephant gun, an 8-gauge Darne shotgun, was rented from a private collector for use in the film. It \"fired\" dummy cartridges custom made from solid brass rod stock.\r\nPost-production\r\nComposer Ernest Troost's musical score for the film went mostly unused. The studio thought it was \"too goofy\" and cut most of it, later hiring composer Robert Folk to write a new score that was more \"serious and action-y\". Despite his contributions, Folk ultimately went uncredited.\r\nTremors was set for a November 1989 release. However, the MPAA gave the film an R-rating due to language, and the creators decided at the last minute to make the film more commercially viable. Over 20 or so uses of the word \"fuck\" were either cut or redubbed with softer words; examples include \"can you fly, you sucker?\" and \"we killed that motherhumper\", among several others. The film was pushed back to allow more time for editing, and the film was eventually released in January 1990 with a PG-13 rating. Wilson and Maddock later stated they were happy with the decision to make Tremors appeal to a family audience.\r\nRelease and reception\r\nBox office\r\nTremors opened on January 19, 1990 in 1,457 theaters against no new releases and debuted at the #5 spot, behind Born on the Fourth of July, Tango & Cash, The War Of The Roses, and Internal Affairs, grossing $3,731,520 in its opening weekend. It dropped to #6 on its second week but would stay in the top 10 for four weeks before finally dropping to #11 in week 5. Tremors ended up grossing $16,667,084 at the domestic box office, though being a financial success over its $11 million budget enough to make a small profit, was still far below projected numbers. In 2019, Kevin Bacon hinted that Tremors only made \"a fifth of what the charts at Universal said it would.\" Its creators blamed the subpar theatrical performance on its marketing campaign; S.S. Wilson felt that the film was not well promoted once its release date was delayed, while Brent Maddock stated the theatrical trailer was \"cringeworthy\" and likely deterred audiences.\r\nCritical reception\r\nTremors was hailed by critics for its diverse cast and humor. As of March 2020 the film holds a \"certified fresh\" rating of 88% at the review aggregator website Rotten Tomatoes, based on 42 reviews and an average score of 7.25 out of 10, with the consensus: \"An affectionate throwback to 1950s creature features, Tremors reinvigorates its genre tropes with a finely balanced combination of horror and humor. Roger Ebert awarded the film with a 3.5/4 rating for its character writing and emphasis on story development, saying \"Tremors is one of the few monsters movies that truly understands how to reel us in and keep us invested\" and James Berardinelli praised Tremors with a 3/4 star rating, feeling that \"horror/comedies often tread too far to one side or the other of that fine line; Tremors walks it like a tightrope\". Ty Burr of Entertainment Weekly gave Tremors a B+, saying \"Tremors is the Slacker of monster movies: bemused, improvisatory, willfully low-key...most of its errors can be overlooked and forgiven, which is rare for its genre.\" Richard Harrington of the Washington Post called the film \"a delightful throwback to such '50s and '60s films\", and Jeffery Anderson of the San Francisco Examiner gave the film a glowing 4.5/5 star review, calling Tremors \"effectively terrifying when it needs to be, effectively exciting when it needs to be, and effectively hilarious when it needs to be, Tremors may very well be the best horror film, the best action flick, and the best comedy of the year\".\r\n is very well cast, with Ward and Bacon proving affable and enjoyable comedy leads The special effects are first-rate It may not top anyone's 10-best list, but Tremors is nevertheless solid entertainment.\u2014 TV Guide,\r\nIn some less enthusiastic reviews, Vincent Canby for the New York Times remarked that the film \"was clearly more fun to make than it is for us to watch\", and Variety gave the film a C- on the basis that Tremors \"...has a few clever twists and characters but ultimately can't decide on what it wants to be: flat-out funny, which it's usually not, or a scarefest, which it's usually not either.\" Gene Siskel initially gave the film a negative review, stating \"most of the secondary characters aren't compelling and its horror conventions are lame...Tremors could make a cute short subject but it doesn't sustain itself as an entire film\", but later gave the film a positive review in his book Cinema: Year by Year 1894-2001, saying \"Tremors was one of the few monster movies to get the formula right.\"\r\nHome releases\r\nWhile only a modest hit at the box office, Tremors went on to become a massive hit on home video purchases, rentals, and on television, becoming one of the most rented films of 1990. Because of this, it has gained a very large cult following over the years.\r\nTremors debuted on VHS on April 1, 1990, on Laserdisc on April 16, 1996, and on DVD on April 28, 1998. The film was released on Blu-ray on November 9, 2010 and again on September 17, 2013, as part of the Tremors: Attack Pack for region 1 (U.S. and Canada). In the United Kingdom, the Attack Pack was not released on Blu-ray; instead, the second, third, and fourth films were released on Blu-ray separately on August 5, 2013. It was released on 4K UHD Blu-ray by Universal Pictures Home Entertainment in July 8, 2020.\r\nSoundtrack\r\nThe soundtrack for Tremors was composed by Ernest Troost and released in 2000. The album contained nine tracks from the film, as well as four additional tracks, also composed by Troost, from Bloodrush. For promotional purposes, the album was released as a limited edition CD.\r\nGraboids\r\nThe Graboid is a fictional species of sandworm. According to UGO.com, \"Graboids are to the desert what sharks are to the ocean\". Graboids advance through several radically different life cycle stages.\r\nGraboids are depicted as subterranean animals, superficially resembling gigantic worms or grubs, with long cylindrical bodies. When fully grown, a Graboid will be up to 30 feet (9.1 m) long, and 6 feet (1.8 m) across at the widest point, and weigh 10\u201320 tons. Graboids have no eyes; they do not need them, due to living underground. Their heads consist of a massive black armored beak, which is used to push aside the dirt while digging. The beak opens like a grotesque flower; it consists of a wide upper jaw, a thinner lower jaw, and a pair of hooked mandibles, one on each side. In Tremors 5: Bloodlines, they are reported to have a semi-rigid internal structure, much like the cuttlebone of cuttlefish.\r\nGraboids have three long powerful snake-like tentacles, which are prehensile and can have at least a good 6 foot (1.8 m) reach; possibly up to 10 feet (3.0 m) or greater. Each of these tentacles (which have been loosely compared to functioning like the creature's tongue) terminates in a toothed mouth of its own. It is unclear if they bite off and swallow food on their own, or if they are simply used to get a better grip on prey so it can be dragged into the creature's jaws. Normally kept retracted in the Graboid's throat, these tentacles were initially mistaken for the whole creatures, causing the characters in the first Tremors film to underestimate the size of their underground opponents. The Graboid's common name is derived from these prehensile tentacles, which 'grab' prey and pull it back down the Graboid's hungry gullet. At times, these tentacles appear to be semi-autonomous, hissing and writhing like snakes. Food is typically swallowed whole, though early in the first film, they are shown to be capable of dismembering and decapitating prey.\r\nLife cycle\r\nGraboids are hatched from eggs laid by Ass-Blasters (the final stage in the life cycle), as indicated in Tremors 3. These eggs split open diagonally.\r\nBaby Graboids and are much shorter and more compact in comparison to the adults, but already have the typical set of jaws and mandibles. The baby Graboids also have a row of armored scales on their backs for protection, which are shed before they fully mature. Like adults, they have large spikes used for digging; extra-large rows of spikes sprout from the sides of their body. Being smaller than the adults, baby Graboids are able to hurl themselves out of the dirt to tackle prey, like \"some kind of demonic trout\", according to Hiram Gummer (portrayed by Michael Gross) in Tremors 4. Their tentacles are underdeveloped at this point in their lifecycle.\r\nUpon maturing, Graboids measure 30 feet (9.2 m) long and will resume attacking and consuming prey. After that, they will seek a secluded spot where they will metamorphose.\r\nUpon emerging, Shriekers will search for food. When they have eaten a sufficient amount of food, Shriekers will spit out a cocoon containing a mini version of themselves. This ability to reproduce asexually allows them to expand their numbers greatly over a short period of time, although it is unknown whether a Shrieker can produce more than one clone. The newborn Shrieker is fully developed, about 10 inches (25 cm) long and starts growing right after birth, as seen in Tremors 2.\r\nWhen a Shrieker is around three days old, it will undergo a moulting process, turning into an Ass-Blaster. Ass-Blasters can live up to several years (an individual sold to Siegfried and Roy in Tremors 3 was still alive two years later). They attack anything warm. While shriekers reproduce asexually when they have fed enough, Ass-Blasters slip into a coma when they eat a large amount of food, as seen in Tremors 3. They can reproduce, however \u2013 each Ass-Blaster carries a Graboid egg in its gut. Because they cover large distances when flying, they can carry these eggs further away, as theorized by Jodi Chang in Tremors 3.\r\nSequels & spin-offs\r\nA sequel, Tremors 2: Aftershocks, was released in 1996. A second sequel, Tremors 3: Back to Perfection, was released in 2001, followed by a prequel, Tremors 4: The Legend Begins in 2004. These three sequels were all made with direct involvement from S.S. Wilson, Brent Maddock, and Ron Underwood at Stampede Entertainment. Following an 11-year gap, Tremors 5: Bloodlines was released in 2015, with the franchise's sixth inclusion, Tremors: A Cold Day in Hell, in 2018. These two films were made by Universal 1440 Entertainment without any involvement from Stampede Entertainment. All Tremors sequels thus far have been released direct-to-video without a theatrical release, though Tremors 2: Aftershocks did receive a brief limited theatrical run. Another direct-to-video sequel, Tremors: Island Fury, is set to be released in 2020.\r\nIn 2003, the franchise spawned a television show titled Tremors: The Series. The show aired in 2003 on the Syfy Channel but was canceled after one season. A 60-minute pilot for a second television series also titled Tremors was filmed in 2017. However, no further episodes of this show were ever filmed.\r\nIn popular culture\r\nOn March 21, 2012, the NBC Nightly News story \"Shaken and awakened in Wisconsin\" jokingly blamed the filming of a \"Tremors remake\" as the cause for unidentified loud booming noises.\r\n\"Bad Apple!\", a 2013 episode of the superhero comedy series The Aquabats! Super Show!, features a scene of a giant underground worm attacking a desert farm which series co-creator Christian Jacobs noted was an homage to Tremors, with some shots mirroring those in the original film.\r\n\"Sandy, SpongeBob, and the Worm\", an episode of the second season of the animated television series SpongeBob SquarePants, features a large worm known as the \"Alaskan bull worm\"; the worm is defeated when it tumbles off a cliff, similar to the death of the final graboid in Tremors.",
+            "html": "<h2>Tremors (film)</h2><p>Tremors is a 1990 American monster comedy film directed by Ron Underwood, produced by Gale Anne Hurd, Brent Maddock, and S. S. Wilson, and written by Maddock, Wilson, and Underwood. Tremors was released by Universal Pictures and stars Kevin Bacon, Fred Ward, Finn Carter, Michael Gross, and Reba McEntire.</p><p>In the film, tired of their dull lives in the small desert town of Perfection, Nevada, repairmen Val McKee (Bacon) and Earl Bassett (Ward) try to skip town. However, they happen upon a series of mysterious deaths and a concerned seismologist Rhonda (Carter) studying unnatural readings below the ground. With the help of an eccentric survivalist couple Burt and Heather Gummer (Gross and McEntire), the group fights for survival against giant, worm-like monsters hungry for human flesh.</p><p>The film is the first installment of the Tremors franchise, and was followed by five direct-to-video sequels: Tremors 2: Aftershocks (1996), Tremors 3: Back to Perfection (2001), Tremors 5: Bloodlines (2015), Tremors: A Cold Day in Hell (2018) and Tremors: Island Fury (2020) and a direct-to-video prequel, Tremors 4: The Legend Begins (2004). A television series titled Tremors: The Series, aired from March through August 2003.</p><br/><h3>Plot</h3><p>Valentine \"Val\" McKee and Earl Bassett are handymen working in Perfection, Nevada, an isolated ex-mining settlement in the high desert east of the Sierra Nevada mountains. They eventually get tired of their jobs and leave for Bixby, the nearest town. As they leave, they discover the dead body of another resident, Edgar Deems, perched atop an electrical tower, still grasping the tower's crossbeams and his .30-30 Winchester rifle. Jim Wallace, the town's doctor, determines that Edgar died of dehydration, apparently afraid for some reason to climb down.</p><p>Later on, an unknown creature kills shepherd \"Old Fred\" and his flock of sheep. After discovering his severed head buried in the sand, Val and Earl become convinced that a serial killer is on the loose; they head back to town to warn the other residents. Two construction workers ignore Val and Earl's warning and are killed by the same creature, causing a rock slide. Val and Earl try to get help, but find the phone lines are dead, and the only road out of town is completely blocked by the rock slide. Out of sight, a snake-like creature wraps itself around their truck's rear axle. The creature is however torn apart when Val stomps on the accelerator and drives away, where they find it later when they return to town.</p><p>Val and Earl return to Perfection and borrow horses. They come upon Wallace and his wife's buried station wagon near their trailer, but the couple is missing (they were killed the previous night). As they press on, an enormous burrowing worm-like creature (later named a \"graboid\" by general store owner Walter Chang), suddenly erupts out of the ground, revealing the snake-like creature to be one of the worm creature's tentacled \"tongues\": thrown from their horses, the men flee with the monster following them in pursuit. The chase ends when the eyeless creature crashes through the concrete wall of an aqueduct, dying from the impact. Rhonda LeBeck, a graduate student conducting seismology tests in the area, stumbles onto the scene; she deduces from previous soundings that three other graboids are in the area. Rhonda, Val, and Earl become trapped overnight atop a cluster of boulders near one of the creatures, named Stumpy. Rhonda has a brainstorm and grabs one of several left-behind fence poles of a nearby fence; the three of them repeatedly pole vault to residual boulders to get to her truck, finally making their getaway.</p><p>After the three return to town, the graboids start attacking, eventually, one of them killing Walter and forcing the other citizens to the town's rooftops. Meanwhile, nearby survivalist couple Burt and Heather Gummer manage to kill another one of the creatures after unknowingly luring it to their basement armory. In town, the two remaining graboids attack the building foundations, knocking over a trailer belonging to Nestor before dragging him under and devouring him.</p><p>Val and Earl are stuck on a roof with Miguel. Realizing they cannot stay in the town any longer, Earl, Rhonda, and Miguel distract the monsters while Val commandeers a CAT Track-Loader and chains a partial truck trailer to the rear; the survivors use it to try to escape to a nearby mountain range. On the way there, both graboids create a sinkhole trap that disables the track-loader, forcing the survivors to flee to safety on large boulders. Earl has an idea to lure in the Graboids, then trick them into swallowing Burt's homemade bombs. While this works on one graboid, the other one, Stumpy, regurgitates it back towards the survivors, forcing Val, Earl, and Rhonda to vacate the rock quickly to avoid the explosion.</p><p>With one last bomb, Val lures Stumpy to chase him to the edge of a cliff and then explodes the bomb behind him, frightening the graboid into charging through the cliff face, where he plummets to his death onto the rocks below. The group returns to town, where they call in the authorities to begin an investigation while Earl encourages Val to pursue a romantic relationship with Rhonda.</p><br/><h3>Cast</h3><ul><li>Kevin Bacon as Valentine McKee</li><li>Fred Ward as Earl Bassett</li><li>Finn Carter as Rhonda LeBeck</li><li>Michael Gross as Burt Gummer</li><li>V\u00edctor Wong as Walter Chang</li><li>Bobby Jacoby as Melvin Plug</li><li>Ariana Richards as Mindy</li><li>Reba McEntire as Heather Gummer</li><li>Charlotte Stewart as Nancy</li><li>Tony Genaro as Miguel</li><li>Richard Marcus as Nestor</li><li>Bibi Besch as Megan\u2013the doctor's wife</li><li>Conrad Bachmann as Jim\u2013the doctor</li><li>Sunshine Parker as Edgar</li><li>Michael Dan Wagner as Old Fred</li><li>John Goodwin as Howard\u2013roadworker</li><li>John Pappas as Carmine\u2013roadworker</li></ul><br/><h3>Production</h3><p>The concept of Tremors was originally conceived in the early 1980s, when writers S.S. Wilson and Brent Maddock were working for the United States Navy as filmmakers in charge of creating educational safety videos. While getting footage, the two climbed a large desert boulder and asked the question \"what if there was something that wouldn't let us off of this rock?\" causing the two to later come up with an idea dubbed 'Land Sharks'. They shared their idea to friend Ron Underwood, who was working with National Geographic as a documentary director, and used his knowledge of zoology to better develop the \"land sharks\" into creatures that could realistically exist.</p><p>After their script for Short Circuit became a major box office hit, Wilson and Maddock quickly began shopping around their idea for Tremors. The name 'Land Sharks' was changed due to a then-popular Saturday Night Live sketch featuring a character of the same name. The original screenplay, titled 'Beneath Perfection', was finished in June 1988.</p><h4>Filming</h4><p>Filming began in early 1989 over the course of 50 days. Principal photography took place around Lone Pine, California and the isolated community of Darwin, California, which the crew liked due to its uncanny similitaries to the fictional town of Perfection, Nevada. The town, which was entirely a set, was built near Olancha, California. The mountains in the distance are the Sierra Nevada, and Owens Lake can be seen in the background during the film's climax.</p><h4>Props</h4><p>The creature for Tremors was designed by Amalgamated Dynamics. The full-scale graboid seen after being dug up by Val was cast in lightweight foam. It was placed in a trench, then buried, and dug up again to achieve the desired \"used\" effect.</p><p>Burt's elephant gun, an 8-gauge Darne shotgun, was rented from a private collector for use in the film. It \"fired\" dummy cartridges custom made from solid brass rod stock.</p><h4>Post-production</h4><p>Composer Ernest Troost's musical score for the film went mostly unused. The studio thought it was \"too goofy\" and cut most of it, later hiring composer Robert Folk to write a new score that was more \"serious and action-y\". Despite his contributions, Folk ultimately went uncredited.</p><p>Tremors was set for a November 1989 release. However, the MPAA gave the film an R-rating due to language, and the creators decided at the last minute to make the film more commercially viable. Over 20 or so uses of the word \"fuck\" were either cut or redubbed with softer words; examples include \"can you fly, you sucker?\" and \"we killed that motherhumper\", among several others. The film was pushed back to allow more time for editing, and the film was eventually released in January 1990 with a PG-13 rating. Wilson and Maddock later stated they were happy with the decision to make Tremors appeal to a family audience.</p><br/><h3>Release and reception</h3><h4>Box office</h4><p>Tremors opened on January 19, 1990 in 1,457 theaters against no new releases and debuted at the #5 spot, behind Born on the Fourth of July, Tango & Cash, The War Of The Roses, and Internal Affairs, grossing $3,731,520 in its opening weekend. It dropped to #6 on its second week but would stay in the top 10 for four weeks before finally dropping to #11 in week 5. Tremors ended up grossing $16,667,084 at the domestic box office, though being a financial success over its $11 million budget enough to make a small profit, was still far below projected numbers. In 2019, Kevin Bacon hinted that Tremors only made \"a fifth of what the charts at Universal said it would.\" Its creators blamed the subpar theatrical performance on its marketing campaign; S.S. Wilson felt that the film was not well promoted once its release date was delayed, while Brent Maddock stated the theatrical trailer was \"cringeworthy\" and likely deterred audiences.</p><h4>Critical reception</h4><p>Tremors was hailed by critics for its diverse cast and humor. As of March 2020 the film holds a \"certified fresh\" rating of 88% at the review aggregator website Rotten Tomatoes, based on 42 reviews and an average score of 7.25 out of 10, with the consensus: \"An affectionate throwback to 1950s creature features, Tremors reinvigorates its genre tropes with a finely balanced combination of horror and humor. Roger Ebert awarded the film with a 3.5/4 rating for its character writing and emphasis on story development, saying \"Tremors is one of the few monsters movies that truly understands how to reel us in and keep us invested\" and James Berardinelli praised Tremors with a 3/4 star rating, feeling that \"horror/comedies often tread too far to one side or the other of that fine line; Tremors walks it like a tightrope\". Ty Burr of Entertainment Weekly gave Tremors a B+, saying \"Tremors is the Slacker of monster movies: bemused, improvisatory, willfully low-key...most of its errors can be overlooked and forgiven, which is rare for its genre.\" Richard Harrington of the Washington Post called the film \"a delightful throwback to such '50s and '60s films\", and Jeffery Anderson of the San Francisco Examiner gave the film a glowing 4.5/5 star review, calling Tremors \"effectively terrifying when it needs to be, effectively exciting when it needs to be, and effectively hilarious when it needs to be, Tremors may very well be the best horror film, the best action flick, and the best comedy of the year\".</p><blockquote> is very well cast, with Ward and Bacon proving affable and enjoyable comedy leads The special effects are first-rate It may not top anyone's 10-best list, but Tremors is nevertheless solid entertainment.\u2014 TV Guide,</blockquote><p>In some less enthusiastic reviews, Vincent Canby for the New York Times remarked that the film \"was clearly more fun to make than it is for us to watch\", and Variety gave the film a C- on the basis that Tremors \"...has a few clever twists and characters but ultimately can't decide on what it wants to be: flat-out funny, which it's usually not, or a scarefest, which it's usually not either.\" Gene Siskel initially gave the film a negative review, stating \"most of the secondary characters aren't compelling and its horror conventions are lame...Tremors could make a cute short subject but it doesn't sustain itself as an entire film\", but later gave the film a positive review in his book Cinema: Year by Year 1894-2001, saying \"Tremors was one of the few monster movies to get the formula right.\"</p><h4>Home releases</h4><p>While only a modest hit at the box office, Tremors went on to become a massive hit on home video purchases, rentals, and on television, becoming one of the most rented films of 1990. Because of this, it has gained a very large cult following over the years.</p><p>Tremors debuted on VHS on April 1, 1990, on Laserdisc on April 16, 1996, and on DVD on April 28, 1998. The film was released on Blu-ray on November 9, 2010 and again on September 17, 2013, as part of the Tremors: Attack Pack for region 1 (U.S. and Canada). In the United Kingdom, the Attack Pack was not released on Blu-ray; instead, the second, third, and fourth films were released on Blu-ray separately on August 5, 2013. It was released on 4K UHD Blu-ray by Universal Pictures Home Entertainment in July 8, 2020.</p><br/><h3>Soundtrack</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th colspan=\"2\" class=\"summary album\" style=\"text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro\">Tremors / Bloodrush</th></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\"><span>Film score</span> by <div class=\"contributor\" style=\"display:inline\">Ernest Troost</div></th></tr><tr><th scope=\"row\">Released</th><td class=\"published\">2000</td></tr><tr><th scope=\"row\"><span>Genre</span></th><td class=\"category hlist\">Electronic, Stage &amp; Screen</td></tr><tr><th scope=\"row\">Length</th><td><span class=\"duration\"><span class=\"min\">49</span>:<span class=\"s\">51</span></span></td></tr><tr><th scope=\"row\"><span>Label</span></th><td class=\"hlist\">Intrada \u2013 ETCD 1000</td></tr></tbody></table><p>The soundtrack for Tremors was composed by Ernest Troost and released in 2000. The album contained nine tracks from the film, as well as four additional tracks, also composed by Troost, from Bloodrush. For promotional purposes, the album was released as a limited edition CD.</p><br/><h3>Graboids</h3><p>The Graboid is a fictional species of sandworm. According to UGO.com, \"Graboids are to the desert what sharks are to the ocean\". Graboids advance through several radically different life cycle stages.</p><p>Graboids are depicted as subterranean animals, superficially resembling gigantic worms or grubs, with long cylindrical bodies. When fully grown, a Graboid will be up to 30 feet (9.1 m) long, and 6 feet (1.8 m) across at the widest point, and weigh 10\u201320 tons. Graboids have no eyes; they do not need them, due to living underground. Their heads consist of a massive black armored beak, which is used to push aside the dirt while digging. The beak opens like a grotesque flower; it consists of a wide upper jaw, a thinner lower jaw, and a pair of hooked mandibles, one on each side. In Tremors 5: Bloodlines, they are reported to have a semi-rigid internal structure, much like the cuttlebone of cuttlefish.</p><p>Graboids have three long powerful snake-like tentacles, which are prehensile and can have at least a good 6 foot (1.8 m) reach; possibly up to 10 feet (3.0 m) or greater. Each of these tentacles (which have been loosely compared to functioning like the creature's tongue) terminates in a toothed mouth of its own. It is unclear if they bite off and swallow food on their own, or if they are simply used to get a better grip on prey so it can be dragged into the creature's jaws. Normally kept retracted in the Graboid's throat, these tentacles were initially mistaken for the whole creatures, causing the characters in the first Tremors film to underestimate the size of their underground opponents. The Graboid's common name is derived from these prehensile tentacles, which 'grab' prey and pull it back down the Graboid's hungry gullet. At times, these tentacles appear to be semi-autonomous, hissing and writhing like snakes. Food is typically swallowed whole, though early in the first film, they are shown to be capable of dismembering and decapitating prey.</p><h4>Life cycle</h4><ul><li>Graboids are hatched from eggs laid by Ass-Blasters (the final stage in the life cycle), as indicated in Tremors 3. These eggs split open diagonally.</li><li>Baby Graboids and are much shorter and more compact in comparison to the adults, but already have the typical set of jaws and mandibles. The baby Graboids also have a row of armored scales on their backs for protection, which are shed before they fully mature. Like adults, they have large spikes used for digging; extra-large rows of spikes sprout from the sides of their body. Being smaller than the adults, baby Graboids are able to hurl themselves out of the dirt to tackle prey, like \"some kind of demonic trout\", according to Hiram Gummer (portrayed by Michael Gross) in Tremors 4. Their tentacles are underdeveloped at this point in their lifecycle.</li><li>Upon maturing, Graboids measure 30 feet (9.2 m) long and will resume attacking and consuming prey. After that, they will seek a secluded spot where they will metamorphose.</li><li>Upon emerging, Shriekers will search for food. When they have eaten a sufficient amount of food, Shriekers will spit out a cocoon containing a mini version of themselves. This ability to reproduce asexually allows them to expand their numbers greatly over a short period of time, although it is unknown whether a Shrieker can produce more than one clone. The newborn Shrieker is fully developed, about 10 inches (25 cm) long and starts growing right after birth, as seen in Tremors 2.</li><li>When a Shrieker is around three days old, it will undergo a moulting process, turning into an Ass-Blaster. Ass-Blasters can live up to several years (an individual sold to Siegfried and Roy in Tremors 3 was still alive two years later). They attack anything warm. While shriekers reproduce asexually when they have fed enough, Ass-Blasters slip into a coma when they eat a large amount of food, as seen in Tremors 3. They can reproduce, however \u2013 each Ass-Blaster carries a Graboid egg in its gut. Because they cover large distances when flying, they can carry these eggs further away, as theorized by Jodi Chang in Tremors 3.</li></ul><br/><h3>Sequels & spin-offs</h3><p>A sequel, Tremors 2: Aftershocks, was released in 1996. A second sequel, Tremors 3: Back to Perfection, was released in 2001, followed by a prequel, Tremors 4: The Legend Begins in 2004. These three sequels were all made with direct involvement from S.S. Wilson, Brent Maddock, and Ron Underwood at Stampede Entertainment. Following an 11-year gap, Tremors 5: Bloodlines was released in 2015, with the franchise's sixth inclusion, Tremors: A Cold Day in Hell, in 2018. These two films were made by Universal 1440 Entertainment without any involvement from Stampede Entertainment. All Tremors sequels thus far have been released direct-to-video without a theatrical release, though Tremors 2: Aftershocks did receive a brief limited theatrical run. Another direct-to-video sequel, Tremors: Island Fury, is set to be released in 2020.</p><p>In 2003, the franchise spawned a television show titled Tremors: The Series. The show aired in 2003 on the Syfy Channel but was canceled after one season. A 60-minute pilot for a second television series also titled Tremors was filmed in 2017. However, no further episodes of this show were ever filmed.</p><br/><h3>In popular culture</h3><ul><li>On March 21, 2012, the NBC Nightly News story \"Shaken and awakened in Wisconsin\" jokingly blamed the filming of a \"Tremors remake\" as the cause for unidentified loud booming noises.</li><li>\"Bad Apple!\", a 2013 episode of the superhero comedy series The Aquabats! Super Show!, features a scene of a giant underground worm attacking a desert farm which series co-creator Christian Jacobs noted was an homage to Tremors, with some shots mirroring those in the original film.</li><li>\"Sandy, SpongeBob, and the Worm\", an episode of the second season of the animated television series SpongeBob SquarePants, features a large worm known as the \"Alaskan bull worm\"; the worm is defeated when it tumbles off a cliff, similar to the death of the final graboid in Tremors.</li></ul><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0100814",
+        "title": "Tremors",
+        "fullTitle": "Tremors (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "posters": [
+            {
+                "id": "cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+                "link": "https://imdb-api.com/posters/original/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "kv9ct0Nn6VX43uYSsqfyKwRalUC.jpg",
+                "link": "https://imdb-api.com/posters/original/kv9ct0Nn6VX43uYSsqfyKwRalUC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "AdkqKAeL43GfuDMV7uzbL2esT0x.jpg",
+                "link": "https://imdb-api.com/posters/original/AdkqKAeL43GfuDMV7uzbL2esT0x.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dfTF7xQsi1qN08NrbjFklvsn2sA.jpg",
+                "link": "https://imdb-api.com/posters/original/dfTF7xQsi1qN08NrbjFklvsn2sA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "kl06tRLKGHcdPwNxYu8K9kvSfM5.jpg",
+                "link": "https://imdb-api.com/posters/original/kl06tRLKGHcdPwNxYu8K9kvSfM5.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0100814",
+        "title": "Tremors",
+        "fullTitle": "Tremors (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "items": [
+            {
+                "title": "Finn Carter in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMTIwMTY5MV5BMl5BanBnXkFtZTcwNTI3MTQ2Mg@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Reba McEntire and Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxODAwNjc5MF5BMl5BanBnXkFtZTcwNjI3MTQ2Mg@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Finn Carter in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0MjU5MDQ5M15BMl5BanBnXkFtZTcwODI3MTQ2Mg@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Fred Ward in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyNTIxMDk5N15BMl5BanBnXkFtZTcwOTI3MTQ2Mg@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0MjI4MDYwNF5BMl5BanBnXkFtZTcwMDM3MTQ2Mg@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reba McEntire in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2Nzg0NTUzNl5BMl5BanBnXkFtZTcwMjM3MTQ2Mg@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "FRED WARD, Director RON UNDERWOOD and FINN CARTER on the set of TREMORS.",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2OTIyNTc5Nl5BMl5BanBnXkFtZTcwNDU5NzkyMQ@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "KEVIN BACON, Director RON UNDERWOOD and FRED WARD on the set of TREMORS.",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0MTEyMDkzOV5BMl5BanBnXkFtZTcwMzU5NzkyMQ@@._V1_Ratio1.2000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMxNTIwOTkxNV5BMl5BanBnXkFtZTgwNzY4NjY1MDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNDc4NzEyNTI3NF5BMl5BanBnXkFtZTcwMjU5NzIzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyNTczMTY1OF5BMl5BanBnXkFtZTcwNTY1ODQyMQ@@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0OTUxODk0N15BMl5BanBnXkFtZTcwNzc1MjE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4MzY3MTI2OV5BMl5BanBnXkFtZTYwMTU2MTA5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQwNDQwMjI5Ml5BMl5BanBnXkFtZTYwNzc1OTA5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwMzI1NDk2OF5BMl5BanBnXkFtZTYwNzc0NDI5._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIzMDUzNTcwNV5BMl5BanBnXkFtZTYwOTExMDQ5._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3Nzk5NjE1Nl5BMl5BanBnXkFtZTYwMDIxMDQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0MDc3ODU3NV5BMl5BanBnXkFtZTYwMTIxMDQ5._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMzk5Mzk5MDk5Ml5BMl5BanBnXkFtZTYwMjIxMDQ5._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkyNTEwMTk4NV5BMl5BanBnXkFtZTYwMzIxMDQ5._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNDI2MzI5MjU2OF5BMl5BanBnXkFtZTYwODYzMTQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1OTYyMzcxMl5BMl5BanBnXkFtZTYwMzc0MzQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNzE2OTA2Njk2NV5BMl5BanBnXkFtZTYwMTQ1NTc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NTMzMTAyNV5BMl5BanBnXkFtZTcwNTU3NzEyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNTcyMTcwNDA3M15BMl5BanBnXkFtZTcwMDUwOTQyMQ@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2NjQzMDU3Ml5BMl5BanBnXkFtZTcwNDM3ODcyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kevin Bacon in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BYjRhNTZjNjItYzExOS00NDM2LTgwY2UtY2E4NDA4NzkwMWI3XkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZjkzOGQ4YTItYjBhOS00N2M0LWE4MTYtYWRjMDllZTA1ZTc4XkEyXkFqcGdeQXVyNzExNjMwNDA@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Jayne and Victor Wong in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BOWQ4MDFkNjYtMWJlNy00Y2FjLWI1ZDQtYWJiZmNlMDhkZWMxXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Fred Ward and Victor Wong in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNGIzODZkMTUtNjc4ZC00MmY3LTgwNTAtOGQxNTk3NWNmOTFmXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Victor Wong in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BYmQ2ZmFhMWMtMDI5Mi00NDlkLThkMjYtZWQ1YzU0NjNkMTBmXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZmI2MTZlYTEtOTVjNi00OTYxLWJiM2QtOWUwMjI1NjBiZDYxXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNzQ3NjA0ZmEtNmY3Ny00N2E1LWFkMGMtMzU0NzgzMjM0MTA5XkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Fred Ward in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMDlkOTc3YmEtNzI0OC00YjE2LWI4NTMtYmFkNDQzMGExZTEwXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Reba McEntire and Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZDAzMTgwOTEtOWFlNy00MGIwLThjOTUtYTM0NTcxZWY2NTUxXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Reba McEntire and Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BYzY0YjA0MWQtZDI0Ny00NWM3LWEyZGMtNWNhNTE5ZmRkNzc1XkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.9600_AL_.jpg"
+            },
+            {
+                "title": "Bibi Besch in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMzQyY2EyZmItZWQwOC00OWZlLWJkZWYtYzcwMWJlMjI3YThmXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMWI5YjFmZTctNTIyNS00NzcxLTljMTQtNGZhMDlkMzE5MTJlXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZTA0NDQ1M2EtN2MyZi00NWI4LWFmMDQtZGU2OTYxNjVhYWY2XkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Finn Carter in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNGJlZWZiYmMtZTNkZi00Mzk2LWE4ZDctZWFlMDBhMmFhYjFhXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.6600_AL_.jpg"
+            },
+            {
+                "title": "Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BM2YzNmUwMGMtMTlmZS00ZTA3LWEzODAtMTJmMzRmOTUxNWRkXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZGQ4NThiYmUtM2I3OS00OTVkLTg3MTYtNDMzZmFlNWM1N2FkXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Fred Ward in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BMDhiOTNmYjctNjA1YS00NDIwLTkwMWYtNWM4NTcwYTcwMjExXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Kevin Bacon and Fred Ward in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BODc0MTkyZmQtZGNkNi00ZDM3LTk2ZTktMzFhNjRhYzI4ZjY1XkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Reba McEntire and Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BOGVmYjdlM2ItMDEzZi00ZGZjLWEwYTgtNGIxYjZmNzEyYTljXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BNTNlNDI1MWEtNmI5OS00NGNkLWE1MjAtNmNjMjI5MDkxNzgwXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Michael Gross in Tremors (1990)",
+                "image": "https://imdb-api.com/images/original/MV5BZTA4MTllMmItNjhjYi00MmEwLWI0NjctYTkxMWM3MTMzYmJkXkEyXkFqcGdeQXVyOTg2OTc4Nzk@._V1_Ratio1.8800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0100814",
+        "title": "Tremors",
+        "fullTitle": "Tremors (1990)",
+        "type": "Movie",
+        "year": "1990",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "Trailer not founded"
+    },
+    "boxOffice": {
+        "budget": "$11,000,000 (estimated)",
+        "openingWeekendUSA": "$3,731,520, 21 January 1990",
+        "grossUSA": "$16,667,084",
+        "cumulativeWorldwideGross": "$16,667,084"
+    },
+    "tagline": "They say there's nothing new under the sun. But under the ground...",
+    "keywords": "desert,monster,stranded on rooftop,giant worm,first part",
+    "keywordList": [
+        "desert",
+        "monster",
+        "stranded on rooftop",
+        "giant worm",
+        "first part"
+    ],
+    "similars": [
+        {
+            "id": "tt0114720",
+            "title": "Tremors II: Aftershocks",
+            "fullTitle": "Tremors II: Aftershocks (Video 1996)",
+            "year": "Video 1996",
+            "image": "https://imdb-api.com/images/original/MV5BNWI0MjY1NjgtYzI0MS00Yzg4LWIyNzgtZmY4YmJmOTNjYTg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Earl Bassett, now a washed-up ex-celebrity, is hired by a Mexican oil company to eradicate a Graboid epidemic that's killing more people each day. However, the humans aren't the only one with a new battle plan.",
+            "directors": "S.S. Wilson",
+            "stars": "Fred Ward, Chris Gartin, Helen Shaver",
+            "genres": "Action, Comedy, Horror",
+            "imDbRating": "6"
+        },
+        {
+            "id": "tt0259685",
+            "title": "Tremors 3: Back to Perfection",
+            "fullTitle": "Tremors 3: Back to Perfection (Video 2001)",
+            "year": "Video 2001",
+            "image": "https://imdb-api.com/images/original/MV5BZjg2MjNlMWEtZjMwZS00ZDc4LTkxNGQtOGRlMGI2ZDA5ZDRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The now famous Burt Gummer returns to his hometown of Perfection, Nevada for the first time in years, but the deadliest Graboid evolution yet forces him to save the town he swore to protect.",
+            "directors": "Brent Maddock",
+            "stars": "Michael Gross, Shawn Christian, Susan Chuang",
+            "genres": "Action, Comedy, Horror",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt0334541",
+            "title": "Tremors 4: The Legend Begins",
+            "fullTitle": "Tremors 4: The Legend Begins (Video 2004)",
+            "year": "Video 2004",
+            "image": "https://imdb-api.com/images/original/MV5BNGExYzc5YzYtMTRjNy00ZTJiLWJiNDktZDk0MzllMmVhZWIyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A prequel to Tremors (1990), this movie tells us about how the town of Perfection, Nevada became founded and how they defended it against the Graboids with the help of Burt Gummer's ancestor, Hiram.",
+            "directors": "S.S. Wilson",
+            "stars": "Michael Gross, Sara Botsford, Billy Drago",
+            "genres": "Action, Adventure, Comedy",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt4180514",
+            "title": "Tremors 5: Bloodlines",
+            "fullTitle": "Tremors 5: Bloodlines (Video 2015)",
+            "year": "Video 2015",
+            "image": "https://imdb-api.com/images/original/MV5BMjczMDQxMDUxOV5BMl5BanBnXkFtZTgwOTAxMjE1NjE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "The giant, man-eating Graboids are back and even deadlier than before, terrorizing the inhabitants of a South African wildlife reserve as they attack from below-and above.",
+            "directors": "Don Michael Paul",
+            "stars": "Brandon Auret, Natalie Becker, Emmanuel Castis",
+            "genres": "Action, Adventure, Comedy",
+            "imDbRating": "5.3"
+        },
+        {
+            "id": "tt0099052",
+            "title": "Arachnophobia",
+            "fullTitle": "Arachnophobia (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BMjExNTcyMjI2Ml5BMl5BanBnXkFtZTgwMDgwNTg4NjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A species of South American killer spider hitches a lift to the U.S. in a coffin and starts to breed and kill.",
+            "directors": "Frank Marshall",
+            "stars": "Jeff Daniels, Julian Sands, John Goodman",
+            "genres": "Comedy, Fantasy, Horror",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt6086082",
+            "title": "Tremors: A Cold Day in Hell",
+            "fullTitle": "Tremors: A Cold Day in Hell (Video 2018)",
+            "year": "Video 2018",
+            "image": "https://imdb-api.com/images/original/MV5BZDM3MTQ4MjYtNDk3Zi00NTliLTkxZjQtOTI1Yzg1NjViOWJkXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "The new sequel finds Burt Gummer, who's dying from Graboid poison, and his son Travis at a remote research station in Canada's Nunavut Territory, where they must go up against a new batch of Graboids to save Burt's life.",
+            "directors": "Don Michael Paul",
+            "stars": "Jay Anstey, Alistair Moulton Black, Paul du Toit",
+            "genres": "Action, Adventure, Comedy",
+            "imDbRating": "5"
+        },
+        {
+            "id": "tt0149261",
+            "title": "Deep Blue Sea",
+            "fullTitle": "Deep Blue Sea (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BZWM0NjVkOGYtMjk5Mi00NGVmLWE3NDMtMDQ3ZjdjMDcwYzdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Searching for a cure to Alzheimer's disease, a group of scientists on an isolated research facility become the prey, as a trio of intelligent sharks fight back.",
+            "directors": "Renny Harlin",
+            "stars": "Thomas Jane, Saffron Burrows, Samuel L. Jackson",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt0327375",
+            "title": "Tremors",
+            "fullTitle": "Tremors (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BZDEyZTYyNDEtY2U2Zi00MGFiLTg4ZDktZTc0MDdjN2IzYjVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Perfection Valley, Nevada is a quaint little town. The inhabitants live peaceful, tranquil lives. Most of the time. Perfection is home to the Graboid, El Blanco. El Blanco is a thirty-foot ... See full summary \u00bb",
+            "directors": "",
+            "stars": "Victor Browne, Gladise Jiminez, Marcia Strassman",
+            "genres": "Action, Adventure, Comedy",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt0164052",
+            "title": "Hollow Man",
+            "fullTitle": "Hollow Man (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BZTM1MjM2Y2QtOTMyOS00ZTE4LWFiZTEtMjBjMjg3NmE0ZjMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "When the leader of a team of scientists volunteers to be the test subject for their experiment in human invisibility, he slowly unravels and turns against them, with horrific consequences.",
+            "directors": "Paul Verhoeven",
+            "stars": "Kevin Bacon, Elisabeth Shue, Josh Brolin",
+            "genres": "Action, Horror, Sci-Fi",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt0118615",
+            "title": "Anaconda",
+            "fullTitle": "Anaconda (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BMTMzMTU5NjcxNl5BMl5BanBnXkFtZTcwMzE2NDU2MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A \"National Geographic\" film crew is taken hostage by an insane hunter, who forces them along on his quest to capture the world's largest - and deadliest - snake.",
+            "directors": "Luis Llosa",
+            "stars": "Jon Voight, Jennifer Lopez, Eric Stoltz",
+            "genres": "Action, Adventure, Horror",
+            "imDbRating": "4.8"
+        },
+        {
+            "id": "tt0139414",
+            "title": "Lake Placid",
+            "fullTitle": "Lake Placid (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BNTYwYjlkYzUtNmU2YS00NmI0LTk2YTgtYmZkYWEzNDc5NzEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Three people attempt to stop a gigantic crocodile, who is terrorizing residents in Black Lake, Maine.",
+            "directors": "Steve Miner",
+            "stars": "Bridget Fonda, Bill Pullman, Oliver Platt",
+            "genres": "Action, Comedy, Horror",
+            "imDbRating": "5.7"
+        },
+        {
+            "id": "tt0084516",
+            "title": "Poltergeist",
+            "fullTitle": "Poltergeist (1982)",
+            "year": "1982",
+            "image": "https://imdb-api.com/images/original/MV5BNzliZmRlYTctYmNkYS00NzE5LWI1OWQtMTRiODY5MDMwMTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A family's home is haunted by a host of demonic ghosts.",
+            "directors": "Tobe Hooper",
+            "stars": "JoBeth Williams, Heather O'Rourke, Craig T. Nelson",
+            "genres": "Horror, Thriller",
+            "imDbRating": "7.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
