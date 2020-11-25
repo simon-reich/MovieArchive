@@ -1,0 +1,2872 @@
+{
+    "id": "tt0105665",
+    "title": "Twin Peaks: Fire Walk with Me",
+    "originalTitle": "",
+    "fullTitle": "Twin Peaks: Fire Walk with Me (1992)",
+    "type": "Movie",
+    "year": "1992",
+    "image": "https://imdb-api.com/images/original/MV5BMzc5ODcyNTYtMDAwNy00MDhjLWFmOWUtNGVhMDRlYjE1YzNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1992-06-03",
+    "runtimeMins": "134",
+    "runtimeStr": "2h 14mins",
+    "plot": "Essentially a prequel to David Lynch and Mark Frost's earlier TV series \"Twin Peaks\". The first half-hour or so concerns the investigation by FBI Agent Chet Desmond (Chris Isaak) and his partner Sam Stanley (Kiefer Sutherland) into the murder of night-shift waitress Teresa Banks in the small Washington state town of Deer Meadow. When Desmond finds a mysterious clue to the murder, he inexplicably disappears. The film then cuts to one year later in the nearby town of Twin Peaks and follows the events during the last week in the life of Laura Palmer (Sheryl Lee) a troubled teenage girl with two boyfriends; the hot-tempered rebel Bobby Briggs (Dana Ashbrook) and quiet biker James Hurley (James Marshall), her drug addiction, and her relationship with her difficult (and possible schizophrenic) father Leland (Ray Wise), a story in which her violent murder was later to motivate much of the TV series. Contains a considerable amount of sex, drugs, violence, very loud music and inexplicable ...",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "4 wins & 7 nominations.",
+    "directors": "David Lynch",
+    "directorList": [
+        {
+            "id": "nm0000186",
+            "name": "David Lynch"
+        }
+    ],
+    "writers": "David Lynch, Robert Engels, Mark Frost",
+    "writerList": [
+        {
+            "id": "nm0000186",
+            "name": "David Lynch"
+        },
+        {
+            "id": "nm0257306",
+            "name": "Robert Engels"
+        },
+        {
+            "id": "nm0004111",
+            "name": "Mark Frost"
+        }
+    ],
+    "stars": "Sheryl Lee, Ray Wise, M\u00e4dchen Amick, Dana Ashbrook",
+    "starList": [
+        {
+            "id": "nm0498247",
+            "name": "Sheryl Lee"
+        },
+        {
+            "id": "nm0936403",
+            "name": "Ray Wise"
+        },
+        {
+            "id": "nm0000749",
+            "name": "M\u00e4dchen Amick"
+        },
+        {
+            "id": "nm0000796",
+            "name": "Dana Ashbrook"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0498247",
+            "image": "https://imdb-api.com/images/original/MV5BMTM1NzYyODA2Nl5BMl5BanBnXkFtZTYwMDc3MDc2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sheryl Lee",
+            "asCharacter": "Laura Palmer"
+        },
+        {
+            "id": "nm0936403",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzNTg0NDU5NF5BMl5BanBnXkFtZTcwNDQ5NTk3MQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ray Wise",
+            "asCharacter": "Leland Palmer"
+        },
+        {
+            "id": "nm0000749",
+            "image": "https://imdb-api.com/images/original/MV5BNWE2NGQxMWYtZTAwZi00ODVmLThkZjgtMWIyMzQ3MGJkZDllXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "M\u00e4dchen Amick",
+            "asCharacter": "Shelly Johnson"
+        },
+        {
+            "id": "nm0000796",
+            "image": "https://imdb-api.com/images/original/MV5BMTkwMjEwMTg2N15BMl5BanBnXkFtZTgwMTcyMDMzMjI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dana Ashbrook",
+            "asCharacter": "Bobby Briggs"
+        },
+        {
+            "id": "nm0041935",
+            "image": "https://imdb-api.com/images/original/MV5BMjE2NjE3NTgyN15BMl5BanBnXkFtZTgwNzUyNDk0MDE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Phoebe Augustine",
+            "asCharacter": "Ronette Pulaski"
+        },
+        {
+            "id": "nm0000309",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ4NTE3MTYzOF5BMl5BanBnXkFtZTcwNDM4OTcyMg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Bowie",
+            "asCharacter": "Phillip Jeffries"
+        },
+        {
+            "id": "nm0201121",
+            "image": "https://imdb-api.com/images/original/MV5BNzQ0MjE1NzAwOV5BMl5BanBnXkFtZTcwOTAyMTYxOA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Eric DaRe",
+            "asCharacter": "Leo Johnson"
+        },
+        {
+            "id": "nm0001208",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_Ratio0.7273_AL_.jpg",
+            "name": "Miguel Ferrer",
+            "asCharacter": "Albert Rosenfeld"
+        },
+        {
+            "id": "nm0317293",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxNzQ0NjI5MF5BMl5BanBnXkFtZTcwODU2NDkzMQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Pamela Gidley",
+            "asCharacter": "Teresa Banks"
+        },
+        {
+            "id": "nm0001287",
+            "image": "https://imdb-api.com/images/original/MV5BMjAwMzk5MTM4NV5BMl5BanBnXkFtZTcwNTMxOTkwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Heather Graham",
+            "asCharacter": "Annie Blackburn"
+        },
+        {
+            "id": "nm0001389",
+            "image": "https://imdb-api.com/images/original/MV5BMTI3OTM2ODE2M15BMl5BanBnXkFtZTYwNjc4NDYz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chris Isaak",
+            "asCharacter": "Special Agent Chester Desmond"
+        },
+        {
+            "id": "nm0446702",
+            "image": "https://imdb-api.com/images/original/MV5BMTgzMjgzODg2MF5BMl5BanBnXkFtZTcwMDA2NzQwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Moira Kelly",
+            "asCharacter": "Donna Hayward"
+        },
+        {
+            "id": "nm0005152",
+            "image": "https://imdb-api.com/images/original/MV5BMTY5MTYwMTk3NF5BMl5BanBnXkFtZTYwNjU4MzMz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peggy Lipton",
+            "asCharacter": "Norma Jennings"
+        },
+        {
+            "id": "nm0000186",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1MTY2MTY2Nl5BMl5BanBnXkFtZTcwMDg1ODYwNA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "David Lynch",
+            "asCharacter": "Gordon Cole"
+        },
+        {
+            "id": "nm0338614",
+            "image": "https://imdb-api.com/images/original/MV5BMjA3NDE2NTQzN15BMl5BanBnXkFtZTcwMjQ3NDgwMw@@._V1_Ratio0.9545_AL_.jpg",
+            "name": "James Marshall",
+            "asCharacter": "James Hurley"
+        },
+        {
+            "id": "nm0001638",
+            "image": "https://imdb-api.com/images/original/MV5BMTgyNzQ3NDk4OF5BMl5BanBnXkFtZTYwMDgxMjA3._V1_Ratio0.7273_AL_.jpg",
+            "name": "J\u00fcrgen Prochnow",
+            "asCharacter": "Woodsman (as Jurgen Prochnow)"
+        },
+        {
+            "id": "nm0001765",
+            "image": "https://imdb-api.com/images/original/MV5BMTkyMDYyMTQ2Ml5BMl5BanBnXkFtZTYwMjU2NjE0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Harry Dean Stanton",
+            "asCharacter": "Carl Rodd"
+        },
+        {
+            "id": "nm0000662",
+            "image": "https://imdb-api.com/images/original/MV5BMjQ1MjI5ODI3Nl5BMl5BanBnXkFtZTcwNTQzOTM0Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kiefer Sutherland",
+            "asCharacter": "Sam Stanley"
+        },
+        {
+            "id": "nm0902188",
+            "image": "https://imdb-api.com/images/original/MV5BMjQwMDEwMTg5MF5BMl5BanBnXkFtZTgwNzMzNDg5NzE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Lenny von Dohlen",
+            "asCharacter": "Harold Smith (as Lenny Von Dohlen)"
+        },
+        {
+            "id": "nm0951471",
+            "image": "https://imdb-api.com/images/original/MV5BMjI0MzI4ODkyOF5BMl5BanBnXkFtZTgwMTc5NDIzNTE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Grace Zabriskie",
+            "asCharacter": "Sarah Palmer"
+        },
+        {
+            "id": "nm0001492",
+            "image": "https://imdb-api.com/images/original/MV5BMTg4MzIwNTI1MF5BMl5BanBnXkFtZTgwMjAwNDgxODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kyle MacLachlan",
+            "asCharacter": "Special Agent Dale Cooper"
+        },
+        {
+            "id": "nm0062844",
+            "image": "https://imdb-api.com/images/original/MV5BMjMwODUxNzQ2NF5BMl5BanBnXkFtZTcwNzg2MjA3Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Frances Bay",
+            "asCharacter": "Mrs. Tremond (Chalfont)"
+        },
+        {
+            "id": "nm0183466",
+            "image": "https://imdb-api.com/images/original/MV5BMzc0MTg5OTc4N15BMl5BanBnXkFtZTgwNzQyNzE5NjE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Catherine E. Coulson",
+            "asCharacter": "The Log Lady"
+        },
+        {
+            "id": "nm0027199",
+            "image": "https://imdb-api.com/images/original/MV5BMTUyNDgwODE5MF5BMl5BanBnXkFtZTgwNTM0Nzc3MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Michael J. Anderson",
+            "asCharacter": "Man From Another Place"
+        },
+        {
+            "id": "nm0798310",
+            "image": "https://imdb-api.com/images/original/MV5BNjMyMTU5MzUwNV5BMl5BanBnXkFtZTgwMzQ1NDk0MDE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Frank Silva",
+            "asCharacter": "Bob"
+        },
+        {
+            "id": "nm0647288",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5MTM4NTc1OV5BMl5BanBnXkFtZTgwMjg1NzA5MzE@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Walter Olkewicz",
+            "asCharacter": "Jacques Renault"
+        },
+        {
+            "id": "nm0834689",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0ODk2NjAwOV5BMl5BanBnXkFtZTgwNTU2NDMwMjE@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Al Strobel",
+            "asCharacter": "Philip Gerard (The One Armed Man)"
+        },
+        {
+            "id": "nm0380912",
+            "image": "https://imdb-api.com/images/original/MV5BZGZiNTEzMjMtMTViNC00ODYyLTljMjYtMmJlMDNjYTUwYzVjXkEyXkFqcGdeQXVyMjAyNDA2MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gary Hershberger",
+            "asCharacter": "Mike Nelson"
+        },
+        {
+            "id": "nm0454278",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0MzM3MzUzNV5BMl5BanBnXkFtZTcwMjQ1MTkyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sandra Kinder",
+            "asCharacter": "Irene at Hap's"
+        },
+        {
+            "id": "nm0669868",
+            "image": "https://imdb-api.com/images/original/MV5BNTBhNmM0MDEtNGJmOC00YjM5LThiZjgtMmJjYzc2YjFkYzUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Chris Pedersen",
+            "asCharacter": "Tommy"
+        },
+        {
+            "id": "nm0729582",
+            "image": "https://imdb-api.com/images/original/MV5BZWYxYmNlZTAtOTlkNC00MTdlLWIwOGUtZmRhZDdkNzM0OWE1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Victor Rivers",
+            "asCharacter": "Buck"
+        },
+        {
+            "id": "nm0014519",
+            "image": "https://imdb-api.com/images/original/MV5BMTUwNjM3MzM2Nl5BMl5BanBnXkFtZTcwNjQ2ODMzMQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Rick Aiello",
+            "asCharacter": "Cliff Howard"
+        },
+        {
+            "id": "nm0120147",
+            "image": "https://imdb-api.com/images/original/MV5BMTUxNTE5NjU3NV5BMl5BanBnXkFtZTYwNzE5NDAz._V1_Ratio0.7727_AL_.jpg",
+            "name": "Gary Bullock",
+            "asCharacter": "Sheriff Cable"
+        },
+        {
+            "id": "nm0399587",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jon Huck",
+            "asCharacter": "FBI Agent"
+        },
+        {
+            "id": "nm0540478",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Malone",
+            "asCharacter": "FBI Agent"
+        },
+        {
+            "id": "nm0075782",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Berman",
+            "asCharacter": "Bus Driver"
+        },
+        {
+            "id": "nm0731688",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yvonne Roberts",
+            "asCharacter": "First Prostitute"
+        },
+        {
+            "id": "nm0177866",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Audra L. Cooper",
+            "asCharacter": "Second Prostitute"
+        },
+        {
+            "id": "nm0393434",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Hoobler",
+            "asCharacter": "Pilot"
+        },
+        {
+            "id": "nm0170647",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kimberly Ann Cole",
+            "asCharacter": "Lil the Dancer"
+        },
+        {
+            "id": "nm0565124",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elizabeth McCarthy",
+            "asCharacter": "Giggling Secretary (as Elizabeth Ann McCarthy)"
+        },
+        {
+            "id": "nm0262602",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "C.H. Evans",
+            "asCharacter": "Jack at Hap's"
+        },
+        {
+            "id": "nm0071968",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paige Bennett",
+            "asCharacter": "French Girl at Hap's"
+        },
+        {
+            "id": "nm0203325",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "G. Kenneth Davidson",
+            "asCharacter": "Old Guy at Hap's"
+        },
+        {
+            "id": "nm0115403",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ingrid Brucato",
+            "asCharacter": "Curious Woman"
+        },
+        {
+            "id": "nm0574323",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chuck McQuary",
+            "asCharacter": "Medic (as Chuck McQuarry)"
+        },
+        {
+            "id": "nm0011174",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Margaret Adams",
+            "asCharacter": "Fat Trout Neighbor"
+        },
+        {
+            "id": "nm0751057",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carlton Lee Russell",
+            "asCharacter": "Jumping Man (as Carlton L. Russell)"
+        },
+        {
+            "id": "nm0516865",
+            "image": "https://imdb-api.com/images/original/MV5BMTAxNjUxMzg0MjReQTJeQWpwZ15BbWU3MDA4NzIyMTg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Calvin Lockhart",
+            "asCharacter": "The Electrician"
+        },
+        {
+            "id": "nm0503372",
+            "image": "https://imdb-api.com/images/original/MV5BZjQ4OWIzYWQtY2IyMi00ZDZjLThkYjUtNjk4MmEyMTczYjgxXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Jonathan J. Leppell",
+            "asCharacter": "Mrs. Tremond's Grandson"
+        },
+        {
+            "id": "nm0109773",
+            "image": "https://imdb-api.com/images/original/MV5BMTQyNzA2NzEwM15BMl5BanBnXkFtZTcwOTczMjYwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Brisbin",
+            "asCharacter": "Second Woodsman"
+        },
+        {
+            "id": "nm0371595",
+            "image": "https://imdb-api.com/images/original/MV5BZWJiNWEyMDUtNDAyNi00ZDg0LTk4ODMtMGQwNTk2NzNmMjNjXkEyXkFqcGdeQXVyMzA5MzMxNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Andrea Hays",
+            "asCharacter": "Heidi"
+        },
+        {
+            "id": "nm0190023",
+            "image": "https://imdb-api.com/images/original/MV5BYjFhZjA0MWEtZTMwOS00ZTlhLWIxNzItOGI5ZWNmNTlmZGRjXkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Julee Cruise",
+            "asCharacter": "Roadhouse Singer"
+        },
+        {
+            "id": "nm0388213",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Steven Hodges",
+            "asCharacter": "Band at Roadhouse"
+        },
+        {
+            "id": "nm0881210",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Ungerman",
+            "asCharacter": "Band at Roadhouse"
+        },
+        {
+            "id": "nm0843895",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joseph 'Simon' Szeibert",
+            "asCharacter": "Band at Roadhouse"
+        },
+        {
+            "id": "nm0394782",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Smokey Hormel",
+            "asCharacter": "Band at Roadhouse (as Gregory 'Smokey' Hormel)"
+        },
+        {
+            "id": "nm0023032",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joseph L. Altruda",
+            "asCharacter": "Band at Roadhouse"
+        },
+        {
+            "id": "nm0662960",
+            "image": "https://imdb-api.com/images/original/MV5BNWIwZDc2N2ItN2I3Ny00NGRiLTg3OGQtM2NmOTQzNWM1ODk0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Parks",
+            "asCharacter": "Service Station Mechanic"
+        },
+        {
+            "id": "nm0428313",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jane Jones",
+            "asCharacter": "School Teacher"
+        },
+        {
+            "id": "nm0733220",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Karin Robison",
+            "asCharacter": "Angel in Train Car"
+        },
+        {
+            "id": "nm0534015",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lorna MacMillan",
+            "asCharacter": "Angel in Red Room"
+        },
+        {
+            "id": "nm0001040",
+            "image": "https://imdb-api.com/images/original/MV5BMTMxNTA3MTQxNV5BMl5BanBnXkFtZTYwNjY2NDk3._V1_Ratio0.7727_AL_.jpg",
+            "name": "Joan Chen",
+            "asCharacter": "Jocelyn Packard (scenes deleted)"
+        },
+        {
+            "id": "nm0195440",
+            "image": "https://imdb-api.com/images/original/MV5BMTI5NDRjOTQtODA0My00NjM0LTgwOWMtOTIwZGFmZjhmZjVlXkEyXkFqcGdeQXVyNjc0NjA5OTI@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Jan D'Arcy",
+            "asCharacter": "Sylvia Horne (scenes deleted)"
+        },
+        {
+            "id": "nm0204493",
+            "image": "https://imdb-api.com/images/original/MV5BOTEyOTI5MTIxOV5BMl5BanBnXkFtZTcwODkwNDI3NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Don S. Davis",
+            "asCharacter": "Maj. Garland Briggs (scenes deleted)"
+        },
+        {
+            "id": "nm0221044",
+            "image": "https://imdb-api.com/images/original/MV5BMTg3MzY4Njk3OF5BMl5BanBnXkFtZTcwOTk1MDQ4Nw@@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Mary Jo Deschanel",
+            "asCharacter": "Eileen Hayward (scenes deleted)"
+        },
+        {
+            "id": "nm0278267",
+            "image": "https://imdb-api.com/images/original/MV5BODYyZDE5OTctNDdlMS00NDllLTgzMDktOTdiZTE4NTk5MWUxXkEyXkFqcGdeQXVyNDg3MTEzNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Brian T. Finney",
+            "asCharacter": "Trucker (scenes deleted)"
+        },
+        {
+            "id": "nm0296583",
+            "image": "https://imdb-api.com/images/original/MV5BMTU5MDg0NzcwM15BMl5BanBnXkFtZTgwNjU1Mjg0MDE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Warren Frost",
+            "asCharacter": "Dr. Will Hayward (scenes deleted)"
+        },
+        {
+            "id": "nm0323556",
+            "image": "https://imdb-api.com/images/original/MV5BNDkwMGQ4OGYtMDIyYS00YzhhLWJkMzItZWQwZDlhMDAxYjNmXkEyXkFqcGdeQXVyMjIyOTY3NzA@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Harry Goaz",
+            "asCharacter": "Deputy Andy Brennan (scenes deleted)"
+        },
+        {
+            "id": "nm0395398",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzNDk1ODc4NV5BMl5BanBnXkFtZTgwMTAyMjg0MDE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Michael Horse",
+            "asCharacter": "Deputy Hawk (scenes deleted)"
+        },
+        {
+            "id": "nm0446314",
+            "image": "https://imdb-api.com/images/original/MV5BMjE1NzMzODkwOF5BMl5BanBnXkFtZTYwODE2MDcy._V1_Ratio1.3636_AL_.jpg",
+            "name": "David Patrick Kelly",
+            "asCharacter": "Jerry Horne (scenes deleted)"
+        },
+        {
+            "id": "nm0569239",
+            "image": "https://imdb-api.com/images/original/MV5BMDFiY2YyY2UtMTk5ZC00NjVhLTkyMzMtZDkyMDNhNDY5ZWNlXkEyXkFqcGdeQXVyNzE3ODYyMzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Everett McGill",
+            "asCharacter": "Big Ed Hurley (scenes deleted)"
+        },
+        {
+            "id": "nm0620756",
+            "image": "https://imdb-api.com/images/original/MV5BODA5MDAyNDg2OF5BMl5BanBnXkFtZTcwMjk2NDYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jack Nance",
+            "asCharacter": "Pete Martell (scenes deleted)"
+        },
+        {
+            "id": "nm0648920",
+            "image": "https://imdb-api.com/images/original/MV5BMTUyODI4OTEyNF5BMl5BanBnXkFtZTcwMjc0OTgwMw@@._V1_Ratio1.5455_AL_.jpg",
+            "name": "Michael Ontkean",
+            "asCharacter": "Sheriff Harry S. Truman (scenes deleted)"
+        },
+        {
+            "id": "nm0731927",
+            "image": "https://imdb-api.com/images/original/MV5BODk2MjE3MjI4OF5BMl5BanBnXkFtZTYwNTk2NTky._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kimmy Robertson",
+            "asCharacter": "Lucy Moran (scenes deleted)"
+        },
+        {
+            "id": "nm0732133",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ0Mzk4ODc0N15BMl5BanBnXkFtZTcwMzc5NTgwMw@@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Wendy Robie",
+            "asCharacter": "Nadine Hurley (scenes deleted)"
+        },
+        {
+            "id": "nm0829270",
+            "image": "https://imdb-api.com/images/original/MV5BMjIzMDQyMTI3MF5BMl5BanBnXkFtZTgwMDUzMzIyMTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Charlotte Stewart",
+            "asCharacter": "Betty Briggs (scenes deleted)"
+        },
+        {
+            "id": "nm0848560",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyNjM2NDMwMl5BMl5BanBnXkFtZTYwNjA3NTY0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Russ Tamblyn",
+            "asCharacter": "Dr. Lawrence Jacoby (scenes deleted)"
+        },
+        {
+            "id": "nm1117324",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Philip Anagnos",
+            "asCharacter": "Student (uncredited)"
+        },
+        {
+            "id": "nm0310824",
+            "image": "https://imdb-api.com/images/original/MV5BYjZiZDA5ZWItMTBhNC00NGUxLWFjYWItOTJhM2RkNjNkYmUxXkEyXkFqcGdeQXVyMDU5MDAyMA@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Anne Gaybis",
+            "asCharacter": "Dancer on Stage in 'Pink Room' (uncredited)"
+        },
+        {
+            "id": "nm1685225",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Nelson",
+            "asCharacter": "Double R Diner Customer (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0105665",
+        "title": "Twin Peaks: Fire Walk with Me",
+        "fullTitle": "Twin Peaks: Fire Walk with Me (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000186",
+                    "name": "David Lynch",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000186",
+                    "name": "David Lynch",
+                    "description": "(written by) &"
+                },
+                {
+                    "id": "nm0257306",
+                    "name": "Robert Engels",
+                    "description": "(written by)"
+                },
+                {
+                    "id": "nm0004111",
+                    "name": "Mark Frost",
+                    "description": "(television series Twin Peaks) &"
+                },
+                {
+                    "id": "nm0000186",
+                    "name": "David Lynch",
+                    "description": "(television series Twin Peaks)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0498247",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1NzYyODA2Nl5BMl5BanBnXkFtZTYwMDc3MDc2._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sheryl Lee",
+                "asCharacter": "Laura Palmer"
+            },
+            {
+                "id": "nm0936403",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzNTg0NDU5NF5BMl5BanBnXkFtZTcwNDQ5NTk3MQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Ray Wise",
+                "asCharacter": "Leland Palmer"
+            },
+            {
+                "id": "nm0000749",
+                "image": "https://imdb-api.com/images/original/MV5BNWE2NGQxMWYtZTAwZi00ODVmLThkZjgtMWIyMzQ3MGJkZDllXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "M\u00e4dchen Amick",
+                "asCharacter": "Shelly Johnson"
+            },
+            {
+                "id": "nm0000796",
+                "image": "https://imdb-api.com/images/original/MV5BMTkwMjEwMTg2N15BMl5BanBnXkFtZTgwMTcyMDMzMjI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Dana Ashbrook",
+                "asCharacter": "Bobby Briggs"
+            },
+            {
+                "id": "nm0041935",
+                "image": "https://imdb-api.com/images/original/MV5BMjE2NjE3NTgyN15BMl5BanBnXkFtZTgwNzUyNDk0MDE@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Phoebe Augustine",
+                "asCharacter": "Ronette Pulaski"
+            },
+            {
+                "id": "nm0000309",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4NTE3MTYzOF5BMl5BanBnXkFtZTcwNDM4OTcyMg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "David Bowie",
+                "asCharacter": "Phillip Jeffries"
+            },
+            {
+                "id": "nm0201121",
+                "image": "https://imdb-api.com/images/original/MV5BNzQ0MjE1NzAwOV5BMl5BanBnXkFtZTcwOTAyMTYxOA@@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Eric DaRe",
+                "asCharacter": "Leo Johnson"
+            },
+            {
+                "id": "nm0001208",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_Ratio0.7273_AL_.jpg",
+                "name": "Miguel Ferrer",
+                "asCharacter": "Albert Rosenfeld"
+            },
+            {
+                "id": "nm0317293",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxNzQ0NjI5MF5BMl5BanBnXkFtZTcwODU2NDkzMQ@@._V1_Ratio0.8182_AL_.jpg",
+                "name": "Pamela Gidley",
+                "asCharacter": "Teresa Banks"
+            },
+            {
+                "id": "nm0001287",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwMzk5MTM4NV5BMl5BanBnXkFtZTcwNTMxOTkwNA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Heather Graham",
+                "asCharacter": "Annie Blackburn"
+            },
+            {
+                "id": "nm0001389",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3OTM2ODE2M15BMl5BanBnXkFtZTYwNjc4NDYz._V1_Ratio0.7273_AL_.jpg",
+                "name": "Chris Isaak",
+                "asCharacter": "Special Agent Chester Desmond"
+            },
+            {
+                "id": "nm0446702",
+                "image": "https://imdb-api.com/images/original/MV5BMTgzMjgzODg2MF5BMl5BanBnXkFtZTcwMDA2NzQwOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Moira Kelly",
+                "asCharacter": "Donna Hayward"
+            },
+            {
+                "id": "nm0005152",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5MTYwMTk3NF5BMl5BanBnXkFtZTYwNjU4MzMz._V1_Ratio0.7273_AL_.jpg",
+                "name": "Peggy Lipton",
+                "asCharacter": "Norma Jennings"
+            },
+            {
+                "id": "nm0000186",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MTY2MTY2Nl5BMl5BanBnXkFtZTcwMDg1ODYwNA@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "David Lynch",
+                "asCharacter": "Gordon Cole"
+            },
+            {
+                "id": "nm0338614",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3NDE2NTQzN15BMl5BanBnXkFtZTcwMjQ3NDgwMw@@._V1_Ratio0.9545_AL_.jpg",
+                "name": "James Marshall",
+                "asCharacter": "James Hurley"
+            },
+            {
+                "id": "nm0001638",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyNzQ3NDk4OF5BMl5BanBnXkFtZTYwMDgxMjA3._V1_Ratio0.7273_AL_.jpg",
+                "name": "J\u00fcrgen Prochnow",
+                "asCharacter": "Woodsman (as Jurgen Prochnow)"
+            },
+            {
+                "id": "nm0001765",
+                "image": "https://imdb-api.com/images/original/MV5BMTkyMDYyMTQ2Ml5BMl5BanBnXkFtZTYwMjU2NjE0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Harry Dean Stanton",
+                "asCharacter": "Carl Rodd"
+            },
+            {
+                "id": "nm0000662",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ1MjI5ODI3Nl5BMl5BanBnXkFtZTcwNTQzOTM0Mw@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kiefer Sutherland",
+                "asCharacter": "Sam Stanley"
+            },
+            {
+                "id": "nm0902188",
+                "image": "https://imdb-api.com/images/original/MV5BMjQwMDEwMTg5MF5BMl5BanBnXkFtZTgwNzMzNDg5NzE@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Lenny von Dohlen",
+                "asCharacter": "Harold Smith (as Lenny Von Dohlen)"
+            },
+            {
+                "id": "nm0951471",
+                "image": "https://imdb-api.com/images/original/MV5BMjI0MzI4ODkyOF5BMl5BanBnXkFtZTgwMTc5NDIzNTE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Grace Zabriskie",
+                "asCharacter": "Sarah Palmer"
+            },
+            {
+                "id": "nm0001492",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4MzIwNTI1MF5BMl5BanBnXkFtZTgwMjAwNDgxODE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kyle MacLachlan",
+                "asCharacter": "Special Agent Dale Cooper"
+            },
+            {
+                "id": "nm0062844",
+                "image": "https://imdb-api.com/images/original/MV5BMjMwODUxNzQ2NF5BMl5BanBnXkFtZTcwNzg2MjA3Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Frances Bay",
+                "asCharacter": "Mrs. Tremond (Chalfont)"
+            },
+            {
+                "id": "nm0183466",
+                "image": "https://imdb-api.com/images/original/MV5BMzc0MTg5OTc4N15BMl5BanBnXkFtZTgwNzQyNzE5NjE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Catherine E. Coulson",
+                "asCharacter": "The Log Lady"
+            },
+            {
+                "id": "nm0027199",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyNDgwODE5MF5BMl5BanBnXkFtZTgwNTM0Nzc3MjE@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Michael J. Anderson",
+                "asCharacter": "Man From Another Place"
+            },
+            {
+                "id": "nm0798310",
+                "image": "https://imdb-api.com/images/original/MV5BNjMyMTU5MzUwNV5BMl5BanBnXkFtZTgwMzQ1NDk0MDE@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Frank Silva",
+                "asCharacter": "Bob"
+            },
+            {
+                "id": "nm0647288",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5MTM4NTc1OV5BMl5BanBnXkFtZTgwMjg1NzA5MzE@._V1_Ratio1.5909_AL_.jpg",
+                "name": "Walter Olkewicz",
+                "asCharacter": "Jacques Renault"
+            },
+            {
+                "id": "nm0834689",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0ODk2NjAwOV5BMl5BanBnXkFtZTgwNTU2NDMwMjE@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Al Strobel",
+                "asCharacter": "Philip Gerard (The One Armed Man)"
+            },
+            {
+                "id": "nm0380912",
+                "image": "https://imdb-api.com/images/original/MV5BZGZiNTEzMjMtMTViNC00ODYyLTljMjYtMmJlMDNjYTUwYzVjXkEyXkFqcGdeQXVyMjAyNDA2MQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Gary Hershberger",
+                "asCharacter": "Mike Nelson"
+            },
+            {
+                "id": "nm0454278",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0MzM3MzUzNV5BMl5BanBnXkFtZTcwMjQ1MTkyMQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sandra Kinder",
+                "asCharacter": "Irene at Hap's"
+            },
+            {
+                "id": "nm0669868",
+                "image": "https://imdb-api.com/images/original/MV5BNTBhNmM0MDEtNGJmOC00YjM5LThiZjgtMmJjYzc2YjFkYzUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5909_AL_.jpg",
+                "name": "Chris Pedersen",
+                "asCharacter": "Tommy"
+            },
+            {
+                "id": "nm0729582",
+                "image": "https://imdb-api.com/images/original/MV5BZWYxYmNlZTAtOTlkNC00MTdlLWIwOGUtZmRhZDdkNzM0OWE1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Victor Rivers",
+                "asCharacter": "Buck"
+            },
+            {
+                "id": "nm0014519",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwNjM3MzM2Nl5BMl5BanBnXkFtZTcwNjQ2ODMzMQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Rick Aiello",
+                "asCharacter": "Cliff Howard"
+            },
+            {
+                "id": "nm0120147",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxNTE5NjU3NV5BMl5BanBnXkFtZTYwNzE5NDAz._V1_Ratio0.7727_AL_.jpg",
+                "name": "Gary Bullock",
+                "asCharacter": "Sheriff Cable"
+            },
+            {
+                "id": "nm0399587",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jon Huck",
+                "asCharacter": "FBI Agent"
+            },
+            {
+                "id": "nm0540478",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mike Malone",
+                "asCharacter": "FBI Agent"
+            },
+            {
+                "id": "nm0075782",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joe Berman",
+                "asCharacter": "Bus Driver"
+            },
+            {
+                "id": "nm0731688",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Yvonne Roberts",
+                "asCharacter": "First Prostitute"
+            },
+            {
+                "id": "nm0177866",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Audra L. Cooper",
+                "asCharacter": "Second Prostitute"
+            },
+            {
+                "id": "nm0393434",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John Hoobler",
+                "asCharacter": "Pilot"
+            },
+            {
+                "id": "nm0170647",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kimberly Ann Cole",
+                "asCharacter": "Lil the Dancer"
+            },
+            {
+                "id": "nm0565124",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Elizabeth McCarthy",
+                "asCharacter": "Giggling Secretary (as Elizabeth Ann McCarthy)"
+            },
+            {
+                "id": "nm0262602",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "C.H. Evans",
+                "asCharacter": "Jack at Hap's"
+            },
+            {
+                "id": "nm0071968",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Paige Bennett",
+                "asCharacter": "French Girl at Hap's"
+            },
+            {
+                "id": "nm0203325",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "G. Kenneth Davidson",
+                "asCharacter": "Old Guy at Hap's"
+            },
+            {
+                "id": "nm0115403",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ingrid Brucato",
+                "asCharacter": "Curious Woman"
+            },
+            {
+                "id": "nm0574323",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Chuck McQuary",
+                "asCharacter": "Medic (as Chuck McQuarry)"
+            },
+            {
+                "id": "nm0011174",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Margaret Adams",
+                "asCharacter": "Fat Trout Neighbor"
+            },
+            {
+                "id": "nm0751057",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Carlton Lee Russell",
+                "asCharacter": "Jumping Man (as Carlton L. Russell)"
+            },
+            {
+                "id": "nm0516865",
+                "image": "https://imdb-api.com/images/original/MV5BMTAxNjUxMzg0MjReQTJeQWpwZ15BbWU3MDA4NzIyMTg@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Calvin Lockhart",
+                "asCharacter": "The Electrician"
+            },
+            {
+                "id": "nm0503372",
+                "image": "https://imdb-api.com/images/original/MV5BZjQ4OWIzYWQtY2IyMi00ZDZjLThkYjUtNjk4MmEyMTczYjgxXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+                "name": "Jonathan J. Leppell",
+                "asCharacter": "Mrs. Tremond's Grandson"
+            },
+            {
+                "id": "nm0109773",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyNzA2NzEwM15BMl5BanBnXkFtZTcwOTczMjYwOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "David Brisbin",
+                "asCharacter": "Second Woodsman"
+            },
+            {
+                "id": "nm0371595",
+                "image": "https://imdb-api.com/images/original/MV5BZWJiNWEyMDUtNDAyNi00ZDg0LTk4ODMtMGQwNTk2NzNmMjNjXkEyXkFqcGdeQXVyMzA5MzMxNQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Andrea Hays",
+                "asCharacter": "Heidi"
+            },
+            {
+                "id": "nm0190023",
+                "image": "https://imdb-api.com/images/original/MV5BYjFhZjA0MWEtZTMwOS00ZTlhLWIxNzItOGI5ZWNmNTlmZGRjXkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Julee Cruise",
+                "asCharacter": "Roadhouse Singer"
+            },
+            {
+                "id": "nm0388213",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Steven Hodges",
+                "asCharacter": "Band at Roadhouse"
+            },
+            {
+                "id": "nm0881210",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "William Ungerman",
+                "asCharacter": "Band at Roadhouse"
+            },
+            {
+                "id": "nm0843895",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joseph 'Simon' Szeibert",
+                "asCharacter": "Band at Roadhouse"
+            },
+            {
+                "id": "nm0394782",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Smokey Hormel",
+                "asCharacter": "Band at Roadhouse (as Gregory 'Smokey' Hormel)"
+            },
+            {
+                "id": "nm0023032",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joseph L. Altruda",
+                "asCharacter": "Band at Roadhouse"
+            },
+            {
+                "id": "nm0662960",
+                "image": "https://imdb-api.com/images/original/MV5BNWIwZDc2N2ItN2I3Ny00NGRiLTg3OGQtM2NmOTQzNWM1ODk0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "James Parks",
+                "asCharacter": "Service Station Mechanic"
+            },
+            {
+                "id": "nm0428313",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jane Jones",
+                "asCharacter": "School Teacher"
+            },
+            {
+                "id": "nm0733220",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Karin Robison",
+                "asCharacter": "Angel in Train Car"
+            },
+            {
+                "id": "nm0534015",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Lorna MacMillan",
+                "asCharacter": "Angel in Red Room"
+            },
+            {
+                "id": "nm0001040",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNTA3MTQxNV5BMl5BanBnXkFtZTYwNjY2NDk3._V1_Ratio0.7727_AL_.jpg",
+                "name": "Joan Chen",
+                "asCharacter": "Jocelyn Packard (scenes deleted)"
+            },
+            {
+                "id": "nm0195440",
+                "image": "https://imdb-api.com/images/original/MV5BMTI5NDRjOTQtODA0My00NjM0LTgwOWMtOTIwZGFmZjhmZjVlXkEyXkFqcGdeQXVyNjc0NjA5OTI@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Jan D'Arcy",
+                "asCharacter": "Sylvia Horne (scenes deleted)"
+            },
+            {
+                "id": "nm0204493",
+                "image": "https://imdb-api.com/images/original/MV5BOTEyOTI5MTIxOV5BMl5BanBnXkFtZTcwODkwNDI3NA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Don S. Davis",
+                "asCharacter": "Maj. Garland Briggs (scenes deleted)"
+            },
+            {
+                "id": "nm0221044",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3MzY4Njk3OF5BMl5BanBnXkFtZTcwOTk1MDQ4Nw@@._V1_Ratio1.3636_AL_.jpg",
+                "name": "Mary Jo Deschanel",
+                "asCharacter": "Eileen Hayward (scenes deleted)"
+            },
+            {
+                "id": "nm0278267",
+                "image": "https://imdb-api.com/images/original/MV5BODYyZDE5OTctNDdlMS00NDllLTgzMDktOTdiZTE4NTk5MWUxXkEyXkFqcGdeQXVyNDg3MTEzNQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Brian T. Finney",
+                "asCharacter": "Trucker (scenes deleted)"
+            },
+            {
+                "id": "nm0296583",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5MDg0NzcwM15BMl5BanBnXkFtZTgwNjU1Mjg0MDE@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Warren Frost",
+                "asCharacter": "Dr. Will Hayward (scenes deleted)"
+            },
+            {
+                "id": "nm0323556",
+                "image": "https://imdb-api.com/images/original/MV5BNDkwMGQ4OGYtMDIyYS00YzhhLWJkMzItZWQwZDlhMDAxYjNmXkEyXkFqcGdeQXVyMjIyOTY3NzA@._V1_Ratio0.9091_AL_.jpg",
+                "name": "Harry Goaz",
+                "asCharacter": "Deputy Andy Brennan (scenes deleted)"
+            },
+            {
+                "id": "nm0395398",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzNDk1ODc4NV5BMl5BanBnXkFtZTgwMTAyMjg0MDE@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Michael Horse",
+                "asCharacter": "Deputy Hawk (scenes deleted)"
+            },
+            {
+                "id": "nm0446314",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1NzMzODkwOF5BMl5BanBnXkFtZTYwODE2MDcy._V1_Ratio1.3636_AL_.jpg",
+                "name": "David Patrick Kelly",
+                "asCharacter": "Jerry Horne (scenes deleted)"
+            },
+            {
+                "id": "nm0569239",
+                "image": "https://imdb-api.com/images/original/MV5BMDFiY2YyY2UtMTk5ZC00NjVhLTkyMzMtZDkyMDNhNDY5ZWNlXkEyXkFqcGdeQXVyNzE3ODYyMzI@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Everett McGill",
+                "asCharacter": "Big Ed Hurley (scenes deleted)"
+            },
+            {
+                "id": "nm0620756",
+                "image": "https://imdb-api.com/images/original/MV5BODA5MDAyNDg2OF5BMl5BanBnXkFtZTcwMjk2NDYxOA@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jack Nance",
+                "asCharacter": "Pete Martell (scenes deleted)"
+            },
+            {
+                "id": "nm0648920",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyODI4OTEyNF5BMl5BanBnXkFtZTcwMjc0OTgwMw@@._V1_Ratio1.5455_AL_.jpg",
+                "name": "Michael Ontkean",
+                "asCharacter": "Sheriff Harry S. Truman (scenes deleted)"
+            },
+            {
+                "id": "nm0731927",
+                "image": "https://imdb-api.com/images/original/MV5BODk2MjE3MjI4OF5BMl5BanBnXkFtZTYwNTk2NTky._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kimmy Robertson",
+                "asCharacter": "Lucy Moran (scenes deleted)"
+            },
+            {
+                "id": "nm0732133",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0Mzk4ODc0N15BMl5BanBnXkFtZTcwMzc5NTgwMw@@._V1_Ratio0.9091_AL_.jpg",
+                "name": "Wendy Robie",
+                "asCharacter": "Nadine Hurley (scenes deleted)"
+            },
+            {
+                "id": "nm0829270",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzMDQyMTI3MF5BMl5BanBnXkFtZTgwMDUzMzIyMTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Charlotte Stewart",
+                "asCharacter": "Betty Briggs (scenes deleted)"
+            },
+            {
+                "id": "nm0848560",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyNjM2NDMwMl5BMl5BanBnXkFtZTYwNjA3NTY0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Russ Tamblyn",
+                "asCharacter": "Dr. Lawrence Jacoby (scenes deleted)"
+            },
+            {
+                "id": "nm1117324",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Philip Anagnos",
+                "asCharacter": "Student (uncredited)"
+            },
+            {
+                "id": "nm0310824",
+                "image": "https://imdb-api.com/images/original/MV5BYjZiZDA5ZWItMTBhNC00NGUxLWFjYWItOTJhM2RkNjNkYmUxXkEyXkFqcGdeQXVyMDU5MDAyMA@@._V1_Ratio1.4545_AL_.jpg",
+                "name": "Anne Gaybis",
+                "asCharacter": "Dancer on Stage in 'Pink Room' (uncredited)"
+            },
+            {
+                "id": "nm1685225",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "John Nelson",
+                "asCharacter": "Double R Diner Customer (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0276385",
+                        "name": "Gregg Fienberg",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0004111",
+                        "name": "Mark Frost",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0361911",
+                        "name": "Tim Harbert",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0000186",
+                        "name": "David Lynch",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm0712874",
+                        "name": "Johanna Ray",
+                        "description": "associate producer"
+                    },
+                    {
+                        "id": "nm0921128",
+                        "name": "John Wentworth",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0100500",
+                        "name": "Francis Bouygues",
+                        "description": "producer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0000823",
+                        "name": "Angelo Badalamenti",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0005715",
+                        "name": "Ronald V\u00edctor Garc\u00eda",
+                        "description": "director of photography (as Ron Garcia)"
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0842156",
+                        "name": "Mary Sweeney",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0712874",
+                        "name": "Johanna Ray",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0635876",
+                        "name": "Patricia Norris",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0602674",
+                        "name": "Leslie Morales",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0635876",
+                        "name": "Patricia Norris",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0386558",
+                        "name": "Katharina Hirsch-Smith",
+                        "description": "key makeup artist"
+                    },
+                    {
+                        "id": "nm0479787",
+                        "name": "Francesca Lacagnina",
+                        "description": "makeup assistant (as Francesca Lacaqnina)"
+                    },
+                    {
+                        "id": "nm0491984",
+                        "name": "Brent Lavett",
+                        "description": "hair stylist"
+                    },
+                    {
+                        "id": "nm0861253",
+                        "name": "Heba Thorisdottir",
+                        "description": "makeup assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0276385",
+                        "name": "Gregg Fienberg",
+                        "description": "unit production manager"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0421264",
+                        "name": "William Jennings",
+                        "description": "second second assistant director (as Bill Jennings)"
+                    },
+                    {
+                        "id": "nm0623235",
+                        "name": "Deepak Nayar",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0003699",
+                        "name": "Richard Oswald",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm0910139",
+                        "name": "Susan Walter",
+                        "description": "dga trainee"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0053055",
+                        "name": "Sophia Barashkoff",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm3601654",
+                        "name": "Jeannine Bolding",
+                        "description": "art department receptionist"
+                    },
+                    {
+                        "id": "nm0120788",
+                        "name": "Chris Burch",
+                        "description": "swing gang (as Christopher Burch)"
+                    },
+                    {
+                        "id": "nm2787330",
+                        "name": "David Christopher Campbell",
+                        "description": "carpenter (as David Chris Campbell)"
+                    },
+                    {
+                        "id": "nm3601555",
+                        "name": "John Canedo",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm0185113",
+                        "name": "Keith Cox",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm0243548",
+                        "name": "Tyler Dupuy",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0280898",
+                        "name": "Morgan Flaherty",
+                        "description": "lead carpenter"
+                    },
+                    {
+                        "id": "nm1852424",
+                        "name": "James 'Bud' Hays",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0382068",
+                        "name": "Nicola Hewitt",
+                        "description": "swing gang"
+                    },
+                    {
+                        "id": "nm0443728",
+                        "name": "Jon Kazunaga",
+                        "description": "construction foreman (as Jon 'Kaz' Kazunaga)"
+                    },
+                    {
+                        "id": "nm3601329",
+                        "name": "Chris Kelly",
+                        "description": "painter"
+                    },
+                    {
+                        "id": "nm1521454",
+                        "name": "Daniel Kuttner",
+                        "description": "property master"
+                    },
+                    {
+                        "id": "nm0540478",
+                        "name": "Mike Malone",
+                        "description": "on-set dresser"
+                    },
+                    {
+                        "id": "nm1150025",
+                        "name": "Cecil K. Merritt Jr.",
+                        "description": "property assistant"
+                    },
+                    {
+                        "id": "nm1110486",
+                        "name": "Marvin Perry",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm3601837",
+                        "name": "Carlos Quintero",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0732536",
+                        "name": "David E. Robinson",
+                        "description": "scenic artist (as Dave Robinson)"
+                    },
+                    {
+                        "id": "nm0762390",
+                        "name": "Stephanie Sandston",
+                        "description": "lead person"
+                    },
+                    {
+                        "id": "nm1806258",
+                        "name": "Audrey Stanzler",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm1592480",
+                        "name": "Robert Taylor",
+                        "description": "swing gang (as Rob Taylor)"
+                    },
+                    {
+                        "id": "nm0855123",
+                        "name": "Whiting Tennis",
+                        "description": "swing gang"
+                    },
+                    {
+                        "id": "nm0935459",
+                        "name": "Deborah Winship",
+                        "description": "set dressing buyer"
+                    },
+                    {
+                        "id": "nm2272484",
+                        "name": "Alex Wood",
+                        "description": "swing gang"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0134385",
+                        "name": "Frank Canonica",
+                        "description": "recordist"
+                    },
+                    {
+                        "id": "nm0190007",
+                        "name": "Lee Cruikshank",
+                        "description": "machine room operator"
+                    },
+                    {
+                        "id": "nm0205342",
+                        "name": "Richard F.W. Davis",
+                        "description": "sound effects editor (as Richard Davis)"
+                    },
+                    {
+                        "id": "nm0236587",
+                        "name": "Dean Drabin",
+                        "description": "adr recordist"
+                    },
+                    {
+                        "id": "nm0239137",
+                        "name": "Richard Duarte",
+                        "description": "foley engineer"
+                    },
+                    {
+                        "id": "nm0248757",
+                        "name": "Teresa Eckton",
+                        "description": "Dialogue & ADR Editor (as Teresa Ekton) / adr editor (as Teresa Ekton)"
+                    },
+                    {
+                        "id": "nm0276497",
+                        "name": "Malcolm Fife",
+                        "description": "foley editor (as Malcom Fife)"
+                    },
+                    {
+                        "id": "nm0293336",
+                        "name": "Clare C. Freeman",
+                        "description": "production sound editor (as Clare Freeman)"
+                    },
+                    {
+                        "id": "nm1131439",
+                        "name": "Kristen Gerstner",
+                        "description": "assistant sound editor (as Kristin Gerstner)"
+                    },
+                    {
+                        "id": "nm0003660",
+                        "name": "Charlene Hamer",
+                        "description": "utility sound (as Charlene E. Hamer)"
+                    },
+                    {
+                        "id": "nm0399587",
+                        "name": "Jon Huck",
+                        "description": "backwards adr recordist / sound mixer"
+                    },
+                    {
+                        "id": "nm0434909",
+                        "name": "Rick Kahn",
+                        "description": "machine room operator"
+                    },
+                    {
+                        "id": "nm0002513",
+                        "name": "Stephen Kearney",
+                        "description": "assistant sound editor"
+                    },
+                    {
+                        "id": "nm0495898",
+                        "name": "James Lebrecht",
+                        "description": "sound effects editor (as James LeBrecht)"
+                    },
+                    {
+                        "id": "nm0506071",
+                        "name": "Mark Levinson",
+                        "description": "production sound editor"
+                    },
+                    {
+                        "id": "nm0000186",
+                        "name": "David Lynch",
+                        "description": "re-recording mixer / sound designer"
+                    },
+                    {
+                        "id": "nm0585732",
+                        "name": "Donny Miele",
+                        "description": "sound effects editor (as Donny Blank)"
+                    },
+                    {
+                        "id": "nm0614923",
+                        "name": "Douglas Murray",
+                        "description": "supervising sound editor"
+                    },
+                    {
+                        "id": "nm0616744",
+                        "name": "Jennifer Myers",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0641757",
+                        "name": "Margie O'Malley",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0647465",
+                        "name": "Dan Olmsted",
+                        "description": "recordist"
+                    },
+                    {
+                        "id": "nm0662188",
+                        "name": "David Parker",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0684592",
+                        "name": "Debbie Pinthus",
+                        "description": "boom operator (as Deborah Pinthus)"
+                    },
+                    {
+                        "id": "nm0758639",
+                        "name": "Joseph Jett Sally",
+                        "description": "production sound editor"
+                    },
+                    {
+                        "id": "nm0783713",
+                        "name": "Michael Semanick",
+                        "description": "Re-Recording Mixer"
+                    },
+                    {
+                        "id": "nm0855027",
+                        "name": "Karen Tenkhoff",
+                        "description": "apprentice sound editor"
+                    },
+                    {
+                        "id": "nm0860118",
+                        "name": "Eric Thompson",
+                        "description": "foley engineer"
+                    },
+                    {
+                        "id": "nm0905304",
+                        "name": "Hugh Waddell",
+                        "description": "adr editor"
+                    },
+                    {
+                        "id": "nm0937258",
+                        "name": "Mark Jan Wlodarkiewicz",
+                        "description": "apprentice sound editor (as Mark Wlodarkiewicz)"
+                    },
+                    {
+                        "id": "nm0072615",
+                        "name": "Phil Benson",
+                        "description": "assistant sound editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0221262",
+                        "name": "Mark DeSimone",
+                        "description": "adr mixer (uncredited)"
+                    },
+                    {
+                        "id": "nm0367399",
+                        "name": "Christopher Harvengt",
+                        "description": "foley designer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0565065",
+                        "name": "Bob McCarthy",
+                        "description": "special effects co-ordinator: Los Angeles (as Robert E. McCarthy)"
+                    },
+                    {
+                        "id": "nm0565311",
+                        "name": "Sabrina McCarthy",
+                        "description": "special effects crew: Los Angeles"
+                    },
+                    {
+                        "id": "nm0698091",
+                        "name": "Darrell Pritchett",
+                        "description": "special effects crew: Seattle"
+                    },
+                    {
+                        "id": "nm3603079",
+                        "name": "Del Reahm",
+                        "description": "special effects crew: Los Angeles"
+                    },
+                    {
+                        "id": "nm1730564",
+                        "name": "Terry Shattuck",
+                        "description": "special effects crew: Seattle"
+                    },
+                    {
+                        "id": "nm0800167",
+                        "name": "Gunter Simon",
+                        "description": "special effects crew: Los Angeles (as Gunther Simon)"
+                    },
+                    {
+                        "id": "nm0726676",
+                        "name": "Bob Riggs",
+                        "description": "special effects co-ordinator: Seattle (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm6214239",
+                        "name": "Christopher Rohde",
+                        "description": "telecine"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0100208",
+                        "name": "David Boushey",
+                        "description": "stunt player (as Dave Boushey)"
+                    },
+                    {
+                        "id": "nm0258482",
+                        "name": "Jon H. Epstein",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0468771",
+                        "name": "Hannah Kozak",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0717708",
+                        "name": "Kathleen Reilly",
+                        "description": "stunt player"
+                    },
+                    {
+                        "id": "nm0810569",
+                        "name": "Jeff Smolek",
+                        "description": "stunt coordinator"
+                    },
+                    {
+                        "id": "nm0906162",
+                        "name": "Diana Wagner-Boyd",
+                        "description": "stunt player"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0077010",
+                        "name": "Brian Bernstein",
+                        "description": "assistant camera"
+                    },
+                    {
+                        "id": "nm0106138",
+                        "name": "Tasso Bravos",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0118484",
+                        "name": "William Buckingham III",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0118633",
+                        "name": "John Buckley",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0142565",
+                        "name": "Kyle Carver",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0236492",
+                        "name": "Sean Doyle",
+                        "description": "additional photographer"
+                    },
+                    {
+                        "id": "nm0258629",
+                        "name": "Kevin Erb",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0315457",
+                        "name": "Michael Gfelner",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm0338695",
+                        "name": "Bruce Alan Greene",
+                        "description": "Steadicam operator (as Bruce Greene)"
+                    },
+                    {
+                        "id": "nm0340386",
+                        "name": "Hjortur Gretarsson",
+                        "description": "production assistant camera"
+                    },
+                    {
+                        "id": "nm0425320",
+                        "name": "Jay Johnson",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm1061203",
+                        "name": "Jeffrey A. Johnson",
+                        "description": "best boy grip (as Jeffrey Allen Johnson)"
+                    },
+                    {
+                        "id": "nm0439551",
+                        "name": "Johnny Karls",
+                        "description": "first assistant camera (as John F. Karls)"
+                    },
+                    {
+                        "id": "nm0449892",
+                        "name": "Eugene B. Kerry",
+                        "description": "set grip (as Eugene Kerry)"
+                    },
+                    {
+                        "id": "nm0455411",
+                        "name": "Colleen Kingdon",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0460638",
+                        "name": "Dan Kneece",
+                        "description": "steadicam operator"
+                    },
+                    {
+                        "id": "nm0503841",
+                        "name": "Stephen Les",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0555508",
+                        "name": "Tom Marvel",
+                        "description": "best boy electric"
+                    },
+                    {
+                        "id": "nm0569167",
+                        "name": "Stephen McGehee",
+                        "description": "lighting technician"
+                    },
+                    {
+                        "id": "nm0605327",
+                        "name": "Lloyd Moriarity",
+                        "description": "dolly grip (as Lloyd M. Moriarity) / key grip (as Lloyd M. Moriarity)"
+                    },
+                    {
+                        "id": "nm1976572",
+                        "name": "Ryan Purcell",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0703421",
+                        "name": "Norbert F. Quiban",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0710748",
+                        "name": "Vince Rapini",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm3601588",
+                        "name": "Miguel Rico",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0750419",
+                        "name": "Shade Rupe",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0780958",
+                        "name": "Lorey Sebastian",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm0886755",
+                        "name": "Wendi Van Dyke-Seccomb",
+                        "description": "second assistant camera (as Wendi Van Dyke)"
+                    },
+                    {
+                        "id": "nm0928867",
+                        "name": "Rick Wiley",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0931764",
+                        "name": "T.J. Williams",
+                        "description": "Steadicam operator"
+                    },
+                    {
+                        "id": "nm0858804",
+                        "name": "Eric Thomas",
+                        "description": "electrician (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0364456",
+                        "name": "Barbara Harris",
+                        "description": "voice casting"
+                    },
+                    {
+                        "id": "nm0387638",
+                        "name": "Tony Hobbs",
+                        "description": "extras casting: Cenex Casting"
+                    },
+                    {
+                        "id": "nm0404803",
+                        "name": "Elaine J. Huzzar",
+                        "description": "casting associate"
+                    },
+                    {
+                        "id": "nm0907784",
+                        "name": "Heidi Walker",
+                        "description": "casting: Seattle"
+                    },
+                    {
+                        "id": "nm0911839",
+                        "name": "Shannon Ward",
+                        "description": "casting assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0571552",
+                        "name": "Kathi McKenzie",
+                        "description": "wardrobe assistant"
+                    },
+                    {
+                        "id": "nm0715356",
+                        "name": "Cheri Reed",
+                        "description": "set costumer"
+                    },
+                    {
+                        "id": "nm0831121",
+                        "name": "Amy Stofsky",
+                        "description": "costume supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0020317",
+                        "name": "Bob Allen",
+                        "description": "second assistant editor"
+                    },
+                    {
+                        "id": "nm0288972",
+                        "name": "Elizabeth Fox",
+                        "description": "post-production coordinator"
+                    },
+                    {
+                        "id": "nm0310602",
+                        "name": "Deborah Gavlak",
+                        "description": "first assistant editor (as Debra Gavlak)"
+                    },
+                    {
+                        "id": "nm0377002",
+                        "name": "Vivian Hengsteler",
+                        "description": "negative cutter"
+                    },
+                    {
+                        "id": "nm1660469",
+                        "name": "Marvin Hildebrandt",
+                        "description": "colorist"
+                    },
+                    {
+                        "id": "nm0615562",
+                        "name": "Dan Muscarella",
+                        "description": "color timer"
+                    },
+                    {
+                        "id": "nm0832439",
+                        "name": "Lisa Anne Storer",
+                        "description": "apprentice editor"
+                    },
+                    {
+                        "id": "nm0850199",
+                        "name": "D. Gunther Tarampi",
+                        "description": "editorial intern (as Gunther Tarampi)"
+                    },
+                    {
+                        "id": "nm0277688",
+                        "name": "Joe Fineman",
+                        "description": "post-production consultant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0135445",
+                        "name": "Kristin Capp",
+                        "description": "location assistant"
+                    },
+                    {
+                        "id": "nm0245197",
+                        "name": "Julie Duvic",
+                        "description": "location liaison"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0023568",
+                        "name": "Dave Alvin",
+                        "description": "musician: guitars"
+                    },
+                    {
+                        "id": "nm1513093",
+                        "name": "Andy Armer",
+                        "description": "musician: The Power & The Glory"
+                    },
+                    {
+                        "id": "nm0000823",
+                        "name": "Angelo Badalamenti",
+                        "description": "conductor / musician: piano / musician: synthesizer performance / orchestrator"
+                    },
+                    {
+                        "id": "nm2210723",
+                        "name": "Donald Bailey",
+                        "description": "musician: drums"
+                    },
+                    {
+                        "id": "nm0068568",
+                        "name": "Vinnie Bell",
+                        "description": "musician: guitars"
+                    },
+                    {
+                        "id": "nm0092313",
+                        "name": "Myles Boisen",
+                        "description": "musician: guitars"
+                    },
+                    {
+                        "id": "nm0141909",
+                        "name": "Ron Carter",
+                        "description": "musician: bass"
+                    },
+                    {
+                        "id": "nm3602758",
+                        "name": "David Cooper",
+                        "description": "musician: vibraphone"
+                    },
+                    {
+                        "id": "nm0002669",
+                        "name": "Lori L. Eschler",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm3603378",
+                        "name": "William Fairbanks",
+                        "description": "musician: bass"
+                    },
+                    {
+                        "id": "nm3539387",
+                        "name": "Don Falzone",
+                        "description": "musician: The Power & The Glory"
+                    },
+                    {
+                        "id": "nm0388213",
+                        "name": "Steven Hodges",
+                        "description": "musician: The Power & The Glory"
+                    },
+                    {
+                        "id": "nm2785201",
+                        "name": "Jay Hoggard",
+                        "description": "musician: vibraphone"
+                    },
+                    {
+                        "id": "nm0405265",
+                        "name": "James Hynes",
+                        "description": "musician: trumpet (as Jim Hynes)"
+                    },
+                    {
+                        "id": "nm3602738",
+                        "name": "David Jaurequi",
+                        "description": "musician: The Power & The Glory"
+                    },
+                    {
+                        "id": "nm1240074",
+                        "name": "Kevin Laffey",
+                        "description": "music consultant"
+                    },
+                    {
+                        "id": "nm0485025",
+                        "name": "Kinny Landrum",
+                        "description": "musician: synthesizer performance"
+                    },
+                    {
+                        "id": "nm0689036",
+                        "name": "Art Polhemus",
+                        "description": "score mixer (as Art Pohlemus)"
+                    },
+                    {
+                        "id": "nm0716683",
+                        "name": "Al Regni",
+                        "description": "musician: saxophone"
+                    },
+                    {
+                        "id": "nm0717413",
+                        "name": "Rufus Reid",
+                        "description": "musician: bass (as Rufus Reed)"
+                    },
+                    {
+                        "id": "nm0741275",
+                        "name": "Bob Rose",
+                        "description": "musician: guitars"
+                    },
+                    {
+                        "id": "nm0806304",
+                        "name": "David Slusser",
+                        "description": "musician: piano"
+                    },
+                    {
+                        "id": "nm0851134",
+                        "name": "Grady Tate",
+                        "description": "musician: drums"
+                    },
+                    {
+                        "id": "nm1659287",
+                        "name": "Buster Williams",
+                        "description": "musician: bass"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0322232",
+                        "name": "Cori Glazer",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm2545061",
+                        "name": "James G. Africa",
+                        "description": "driver (as James D. Africa)"
+                    },
+                    {
+                        "id": "nm0027056",
+                        "name": "Larry Anderson",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0075782",
+                        "name": "Joe Berman",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0101920",
+                        "name": "Steve Boyd",
+                        "description": "transportation coordinator"
+                    },
+                    {
+                        "id": "nm0134724",
+                        "name": "Thomas P. Cantrell",
+                        "description": "driver (as Tom Cantrell)"
+                    },
+                    {
+                        "id": "nm0188282",
+                        "name": "Terry Crnic",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0265922",
+                        "name": "Alan Falco",
+                        "description": "driver (as Allan Falco)"
+                    },
+                    {
+                        "id": "nm0265930",
+                        "name": "Jill Falco",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0268434",
+                        "name": "Eugene Farrington",
+                        "description": "driver (as Gene Farrington)"
+                    },
+                    {
+                        "id": "nm2043560",
+                        "name": "James Ginchereau",
+                        "description": "driver (as Jim Ginchereau)"
+                    },
+                    {
+                        "id": "nm0343581",
+                        "name": "Dino Grossi",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0474602",
+                        "name": "Michael D. Kuljis",
+                        "description": "transportation captain (as Mike 'Juice' Kuljis)"
+                    },
+                    {
+                        "id": "nm0548387",
+                        "name": "Larry Market",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0568519",
+                        "name": "Russell McEntyre",
+                        "description": "driver (as Russ McEntyre)"
+                    },
+                    {
+                        "id": "nm0720228",
+                        "name": "Jess Resendez",
+                        "description": "driver (as Jess Renendez)"
+                    },
+                    {
+                        "id": "nm0755281",
+                        "name": "Tony Sackmann",
+                        "description": "driver (as Tony Sackman)"
+                    },
+                    {
+                        "id": "nm2054821",
+                        "name": "Gail Van Dyke",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0886730",
+                        "name": "Greg Van Dyke",
+                        "description": "transportation coordinator"
+                    },
+                    {
+                        "id": "nm0925353",
+                        "name": "Randy White",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0928867",
+                        "name": "Rick Wiley",
+                        "description": "driver: camera car"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0089509",
+                        "name": "John Blue",
+                        "description": "medic: L.A."
+                    },
+                    {
+                        "id": "nm0100500",
+                        "name": "Francis Bouygues",
+                        "description": "presenter"
+                    },
+                    {
+                        "id": "nm3601675",
+                        "name": "Corrina Carrion",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1397574",
+                        "name": "Traci Clauson",
+                        "description": "stand-in (as Traci Lynn Clauson)"
+                    },
+                    {
+                        "id": "nm0195615",
+                        "name": "James D'Damery Jr.",
+                        "description": "assistant accountant (as James D'Damery)"
+                    },
+                    {
+                        "id": "nm0241399",
+                        "name": "Andrew Durham",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0246213",
+                        "name": "Paul Dzilvelis",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm0260632",
+                        "name": "Dana Eskelson",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm0326085",
+                        "name": "Jennifer Goldsmith",
+                        "description": "post-production accountant"
+                    },
+                    {
+                        "id": "nm0343695",
+                        "name": "Nowell Grossman",
+                        "description": "production controller (as Nowell B. Grossman)"
+                    },
+                    {
+                        "id": "nm3601733",
+                        "name": "Katherine Marie Keithly",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm5072862",
+                        "name": "Mark R. Lindsay",
+                        "description": "sales representative (as Mark Lindsay)"
+                    },
+                    {
+                        "id": "nm2325326",
+                        "name": "Barry Littman",
+                        "description": "stand-in"
+                    },
+                    {
+                        "id": "nm2121484",
+                        "name": "Nate Lottsfeldt",
+                        "description": "production assistant (as Nate 'Sam' Lottsfeldt)"
+                    },
+                    {
+                        "id": "nm0572113",
+                        "name": "Craig MacLachlan",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1051641",
+                        "name": "Antoine Mascaro",
+                        "description": "chef"
+                    },
+                    {
+                        "id": "nm0558623",
+                        "name": "Christine Mathews",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm3602970",
+                        "name": "Lisa Maxwell-Casey",
+                        "description": "craft service: Seattle"
+                    },
+                    {
+                        "id": "nm0564196",
+                        "name": "Lauren McAuliffe",
+                        "description": "production secretary"
+                    },
+                    {
+                        "id": "nm0600292",
+                        "name": "Joe Montrone",
+                        "description": "production manager (as Joseph Montrone) / supervising coordinator (as Joseph Montrone)"
+                    },
+                    {
+                        "id": "nm0614301",
+                        "name": "Heather Murphy",
+                        "description": "coordinator: Seattle (as Heather Terzieff)"
+                    },
+                    {
+                        "id": "nm0655704",
+                        "name": "Benjamin Padilla",
+                        "description": "assistant chef (as Benny Padilla)"
+                    },
+                    {
+                        "id": "nm0686607",
+                        "name": "John Plant",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm0691119",
+                        "name": "Gaye Pope",
+                        "description": "unit publicist"
+                    },
+                    {
+                        "id": "nm3601462",
+                        "name": "Robert Price",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1294433",
+                        "name": "Carmela Ramaglia",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm3602636",
+                        "name": "Mike Rosenberg",
+                        "description": "assistant accountant"
+                    },
+                    {
+                        "id": "nm0771027",
+                        "name": "Ken Scherer",
+                        "description": "chief operating officer: Lynch/Frost"
+                    },
+                    {
+                        "id": "nm0778561",
+                        "name": "John Sclimenti",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm3602809",
+                        "name": "Dennis Severse",
+                        "description": "craft service: L.A."
+                    },
+                    {
+                        "id": "nm0795871",
+                        "name": "Nancy Shumovich",
+                        "description": "receptionist"
+                    },
+                    {
+                        "id": "nm3602649",
+                        "name": "Darleene Sinay",
+                        "description": "medic: Seattle"
+                    },
+                    {
+                        "id": "nm3171249",
+                        "name": "Tina Skouras",
+                        "description": "assistant: Ken Scherer"
+                    },
+                    {
+                        "id": "nm0874463",
+                        "name": "Debby Trutnik",
+                        "description": "assistant: David Lynch"
+                    },
+                    {
+                        "id": "nm2596303",
+                        "name": "Lori Tulli-Mitchell",
+                        "description": "assistant: Mark Frost"
+                    },
+                    {
+                        "id": "nm0006831",
+                        "name": "Alex L. Worman",
+                        "description": "publicity team"
+                    },
+                    {
+                        "id": "nm0949777",
+                        "name": "Kevin Young",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm0003692",
+                        "name": "Erik C. Andersen",
+                        "description": "production assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm0108995",
+                        "name": "Ronald C. Briggs Jr.",
+                        "description": "inventory services (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm0248999",
+                        "name": "Pierre Edelman",
+                        "description": "special thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Horror, Mystery, Thriller",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Mystery",
+            "value": "Mystery"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "New Line Cinema, CiBy 2000, Twin Peaks Productions",
+    "companyList": [
+        {
+            "id": "co0046718",
+            "name": "New Line Cinema"
+        },
+        {
+            "id": "co0008195",
+            "name": "CiBy 2000"
+        },
+        {
+            "id": "co0064691",
+            "name": "Twin Peaks Productions"
+        }
+    ],
+    "countries": "France, USA",
+    "countryList": [
+        {
+            "key": "France",
+            "value": "France"
+        },
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "7.3",
+    "imDbRatingVotes": "81416",
+    "metacriticRating": "28",
+    "ratings": {
+        "imDbId": "tt0105665",
+        "title": "Twin Peaks: Fire Walk with Me",
+        "fullTitle": "Twin Peaks: Fire Walk with Me (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "imDb": "7.3",
+        "metacritic": "28",
+        "theMovieDb": "7.3",
+        "rottenTomatoes": "64",
+        "tV_com": "6.1",
+        "filmAffinity": "6.8",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0105665",
+        "title": "Twin Peaks: Fire Walk with Me",
+        "fullTitle": "Twin Peaks: Fire Walk with Me (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "language": "en",
+        "titleInLanguage": "Twin Peaks: Fire Walk with Me",
+        "url": "https://en.wikipedia.org/wiki/Twin_Peaks:_Fire_Walk_with_Me",
+        "plotShort": {
+            "plainText": "Twin Peaks: Fire Walk with Me\r\nTwin Peaks: Fire Walk with Me is a 1992 psychological horror film directed by David Lynch and written by Lynch and Robert Engels. It serves as a prequel & sequel to the television series Twin Peaks (1990\u20131991), created by Mark Frost and Lynch, who were also executive producers. The film revolves around the investigation into the murder of Teresa Banks (Pamela Gidley) and the last seven days in the life of Laura Palmer (Sheryl Lee), a popular high school student in the fictional Washington town of Twin Peaks.\r\nThe title comes from a poem recited by MIKE and Leland Palmer in the television series:\r\nThrough the darkness of future's past, The magician longs to see. One chants out between two worlds... \"Fire... walk with me.\"\r\nMost of the television cast reprised their roles for the film, though the majority of their scenes ended up being cut and were later restored in Twin Peaks: The Missing Pieces. A few notable cast members including Lara Flynn Boyle, Sherilyn Fenn, and Richard Beymer did not reprise their roles due to scheduling conflicts. Boyle's character Donna Hayward was instead recast with Moira Kelly. Kyle MacLachlan, who starred as Special Agent Dale Cooper in the series, was reluctant to return out of fear of getting typecast, which resulted in a smaller presence in the film than originally planned.\r\nFire Walk with Me initially received negative reviews in the United States but has been met with a more positive reception in subsequent years, with some critics viewing it as one of Lynch's major works. Although it has long been reported that Fire Walk with Me was greeted at the 1992 Cannes Film Festival with booing and jeers from the audience, co-writer Robert Engels denies that this event ever happened. The film was a box office bomb in the United States, although it fared much better in Japan.",
+            "html": "<h2>Twin Peaks: Fire Walk with Me</h2><p>Twin Peaks: Fire Walk with Me is a 1992 psychological horror film directed by David Lynch and written by Lynch and Robert Engels. It serves as a prequel & sequel to the television series Twin Peaks (1990\u20131991), created by Mark Frost and Lynch, who were also executive producers. The film revolves around the investigation into the murder of Teresa Banks (Pamela Gidley) and the last seven days in the life of Laura Palmer (Sheryl Lee), a popular high school student in the fictional Washington town of Twin Peaks.</p><p>The title comes from a poem recited by MIKE and Leland Palmer in the television series:</p><blockquote>Through the darkness of future's past, The magician longs to see. One chants out between two worlds... \"Fire... walk with me.\"</blockquote><p>Most of the television cast reprised their roles for the film, though the majority of their scenes ended up being cut and were later restored in Twin Peaks: The Missing Pieces. A few notable cast members including Lara Flynn Boyle, Sherilyn Fenn, and Richard Beymer did not reprise their roles due to scheduling conflicts. Boyle's character Donna Hayward was instead recast with Moira Kelly. Kyle MacLachlan, who starred as Special Agent Dale Cooper in the series, was reluctant to return out of fear of getting typecast, which resulted in a smaller presence in the film than originally planned.</p><p>Fire Walk with Me initially received negative reviews in the United States but has been met with a more positive reception in subsequent years, with some critics viewing it as one of Lynch's major works. Although it has long been reported that Fire Walk with Me was greeted at the 1992 Cannes Film Festival with booing and jeers from the audience, co-writer Robert Engels denies that this event ever happened. The film was a box office bomb in the United States, although it fared much better in Japan.</p>"
+        },
+        "plotFull": {
+            "plainText": "Twin Peaks: Fire Walk with Me\r\nTwin Peaks: Fire Walk with Me is a 1992 psychological horror film directed by David Lynch and written by Lynch and Robert Engels. It serves as a prequel & sequel to the television series Twin Peaks (1990\u20131991), created by Mark Frost and Lynch, who were also executive producers. The film revolves around the investigation into the murder of Teresa Banks (Pamela Gidley) and the last seven days in the life of Laura Palmer (Sheryl Lee), a popular high school student in the fictional Washington town of Twin Peaks.\r\nThe title comes from a poem recited by MIKE and Leland Palmer in the television series:\r\nThrough the darkness of future's past, The magician longs to see. One chants out between two worlds... \"Fire... walk with me.\"\r\nMost of the television cast reprised their roles for the film, though the majority of their scenes ended up being cut and were later restored in Twin Peaks: The Missing Pieces. A few notable cast members including Lara Flynn Boyle, Sherilyn Fenn, and Richard Beymer did not reprise their roles due to scheduling conflicts. Boyle's character Donna Hayward was instead recast with Moira Kelly. Kyle MacLachlan, who starred as Special Agent Dale Cooper in the series, was reluctant to return out of fear of getting typecast, which resulted in a smaller presence in the film than originally planned.\r\nFire Walk with Me initially received negative reviews in the United States but has been met with a more positive reception in subsequent years, with some critics viewing it as one of Lynch's major works. Although it has long been reported that Fire Walk with Me was greeted at the 1992 Cannes Film Festival with booing and jeers from the audience, co-writer Robert Engels denies that this event ever happened. The film was a box office bomb in the United States, although it fared much better in Japan.\r\nPlot\r\nFBI Regional Bureau Chief Gordon Cole sends agents Chester Desmond and Sam Stanley to investigate the murder of teenage drifter and prostitute Teresa Banks in the town of Deer Meadow, Washington. The pair are informed about their new assignment through a woman named Lil, who wears an artificial blue rose on her lapel. Desmond and Stanley view Teresa's body at a morgue. They notice that a ring is missing from her finger and a small piece of paper with the letter \"T\" printed on it has been inserted under one of her fingernails. Later, Desmond finds Teresa's missing ring under a trailer. As he reaches out to it, he is taken by an unseen force.\r\nAt FBI headquarters in Philadelphia, Cole and Agent Dale Cooper experience a brief vision of their long-lost colleague Agent Phillip Jeffries. He tells them about a meeting he witnessed involving several mysterious spirits\u2014The Man from Another Place, Killer BOB, Mrs. Chalfont and her grandson. Agent Cooper is sent to Deer Meadow to investigate Desmond's disappearance, but finds no answers.\r\nOne year later in Twin Peaks, high school homecoming queen Laura Palmer and her best friend Donna Hayward attend school. Laura is addicted to cocaine and is cheating on her boyfriend Bobby Briggs with biker James Hurley. Laura discovers that pages are missing from her secret diary, and gives the rest of the diary to her agoraphobic friend Harold Smith.\r\nMrs. Chalfont and her grandson appear to Laura. They warn her that the \"man behind the mask\" is in her bedroom. Laura runs home, where she sees BOB. She rushes outside in terror and sees her father, Leland, emerge from the house. That evening, Leland's behavior is erratic and abusive\u2014he accusingly asks Laura about her romances, then tells her he loves her. She has a dream about entering the Black Lodge. Cooper and the Man from Another Place appear in her dream. The Man from Another Place says \"I am the arm\", revealing his identity as MIKE's severed arm, and offers Teresa's ring to Laura, but Cooper tells her not to take it. Laura sees Annie Blackburn next to her in bed, covered in blood. Annie tells Laura to write in her diary that \"the good Dale is in the Lodge and cannot leave\". Laura sees the ring in her hand, but when she wakes up, it is gone.\r\nLaura goes to the Roadhouse to meet her drug connections and have sex with men, where she is joined by Donna. Laura discusses Teresa Banks's murder with Ronette Pulaski. When she sees a topless Donna making out with a stranger, a distraught Laura takes her home and begs Donna not to become like her. The next morning, Philip Gerard, the one-armed man possessed by the repentant demon MIKE, in an attempt to warn Laura about her father and BOB, pulls up alongside Leland's car and shows Teresa's ring to Laura. Leland recalls his affair with Teresa. He had asked Teresa to set up a foursome with some of her friends, but fled after discovering Laura was among them. Teresa realized who he was and plotted to blackmail him, and he killed her.\r\nOne night, BOB comes through Laura's window and begins to rape her, only to transform into Leland. Upset, Laura begins using more cocaine. Bobby breaks up with Laura, and she then ends her relationship with James and goes to a cabin in the woods for an orgy with Ronette, Jacques and Leo. Leland follows her there and takes her and Ronette to an abandoned train car. Laura asks Leland if he is going to kill her, and he transforms into BOB, and tells her that he intends to possess her. BOB beats Ronette unconscious. MIKE, who tracked the BOB-possessed Leland to the train, throws Teresa's ring into the train car. Laura puts it on, which prevents BOB from possessing her. Enraged, BOB stabs Laura to death. The BOB-possessed Leland places Laura's body in the lake.\r\nAs her corpse drifts away, the BOB-possessed Leland enters the Red Room, where he encounters MIKE and the Man from Another Place who demand their share of \"garmonbozia (pain and sorrow).\"\r\nAs Laura's body is found by the Sheriff's department, Agent Cooper comforts her spirit in the Lodge. When Laura sees an angel that had previously disappeared from her bedroom painting, she begins to cry and laugh.\r\nCast\r\nSheryl Lee as Laura Palmer\r\nRay Wise as Leland Palmer\r\nKyle MacLachlan as Special Agent Dale Cooper\r\nM\u00e4dchen Amick as Shelly Johnson\r\nDana Ashbrook as Bobby Briggs\r\nPhoebe Augustine as Ronette Pulaski\r\nDavid Bowie as Special Agent Phillip Jeffries\r\nEric Da Re as Leo Johnson\r\nMiguel Ferrer as Special Agent Albert Rosenfield\r\nPamela Gidley as Teresa Banks\r\nHeather Graham as Annie Blackburn\r\nChris Isaak as Special Agent Chester Desmond\r\nMoira Kelly as Donna Hayward\r\nPeggy Lipton as Norma Jennings\r\nDavid Lynch as Bureau Chief Gordon Cole\r\nJames Marshall as James Hurley\r\nJ\u00fcrgen Prochnow as Woodsman\r\nHarry Dean Stanton as Carl Rodd\r\nKiefer Sutherland as Special Agent Sam Stanley\r\nLenny Von Dohlen as Harold Smith\r\nGrace Zabriskie as Sarah Palmer\r\nFrances Bay as Mrs. Tremond / Mrs. Chalfont\r\nCatherine E. Coulson as Margaret Lanterman / \"The Log Lady\"\r\nMichael J. Anderson as The Man from Another Place\r\nFrank Silva as Killer BOB\r\nWalter Olkewicz as Jacques Renault\r\nAl Strobel as Phillip Michael Gerard / MIKE\r\nGary Hershberger as Mike Nelson\r\nMichael Ontkean as Harry S. Truman *\r\nWarren Frost as Will Hayward *\r\nMary Jo Deschanel as Eileen Hayward *\r\nEverett McGill as Ed Hurley *\r\nWendy Robie as Nadine Hurley *\r\nJack Nance as Pete Martell *\r\nJoan Chen as Jocelyn Packard *\r\nKimmy Robertson as Lucy Moran *\r\nHarry Goaz as Andy Brennan *\r\nMichael Horse as Tommy \"Hawk\" Hill *\r\nRuss Tamblyn as Dr. Jacoby *\r\nDon S. Davis as Garland Briggs *\r\nCharlotte Stewart as Betty Briggs *\r\n(The * denotes actors whose scenes were cut from the theatrical version, but later restored in Twin Peaks: The Missing Pieces.)\r\nProduction\r\nLynch wanted to make a Twin Peaks film because, as he claimed in an interview, \"I couldn't get myself to leave the world of Twin Peaks. I was in love with the character of Laura Palmer and her contradictions: radiant on the surface but dying inside. I wanted to see her live, move and talk. I was in love with that world and I hadn't finished with it. But making the movie wasn't just to hold onto it; it seemed that there was more stuff that could be done\", and that he was \"not yet finished with the material\".\r\nActress Sheryl Lee, who played Laura Palmer, echoed these sentiments. \"I never got to be Laura alive, just in flashbacks; it allowed me to come full circle with the character.\" According to Lynch, the movie is about \"the loneliness, shame, guilt, confusion and devastation of the victim of incest. It also dealt with the torment of the father \u2013 the war within him.\"Twin Peaks had been canceled only a month when David Lynch announced he would be making a film with French company CIBY-2000 financing what would be the first film of a three-picture deal. But on July 11, 1991, Ken Scherer, CEO of Lynch/Frost productions, announced that the film was not going to be made because series star Kyle MacLachlan did not want to reprise his role of Special Agent Dale Cooper. A month later, MacLachlan had changed his mind and the film was back on.\r\nThe film was made without Twin Peaks series regulars Lara Flynn Boyle, Sherilyn Fenn, and Richard Beymer. At the time, these absences were attributed to scheduling conflicts, but in a 1995 interview, Fenn said that her real reason was that she \"was extremely disappointed in the way the second season got off track. As far as Fire Walk with Me, it was something that I chose not to be a part of.\" In a 2014 interview, however, Fenn said that it was ultimately a scheduling conflict with Of Mice and Men that prevented her from committing to the film. In a September 2007 interview, Beymer claimed that he did not appear in any scenes shot for the film, although his character, Benjamin Horne, appeared in the script. Fenn's character was cut from the script, Moira Kelly was cast as Donna, and Beymer's scenes were not filmed.\r\nMacLachlan's reluctance was also caused by a decline of quality in the second season of the show. He said \"David and Mark were only around for the first season... I think we all felt a little abandoned. So I was fairly resentful when the film, Fire Walk with Me, came around.\" Although he agreed to be in the film, MacLachlan wanted a smaller role, forcing Lynch and co-writer Robert Engels to rewrite the screenplay so that Teresa Banks's murder was investigated by Agent Chester Desmond and not by Cooper as originally planned. MacLachlan ended up working only five days on the movie.\r\nAnother missing figure from Twin Peaks was co-creator Mark Frost. The relationship between Lynch and Frost had become strained during the second season and after the series ended. Frost went on to direct his own film, Storyville (1992), and was unable to collaborate with Lynch on Fire Walk with Me.\r\nDavid Bowie had this to say about his part of the film: \"They crammed me. I did all my scenes in four or five days, because I was in rehearsals for the 1991 Tin Machine tour. I was there for only a few days.\"\r\nPrincipal photography began on September 5, 1991 in Snoqualmie, Washington and lasted until October of the same year, with four weeks dedicated to locations in Washington and another four weeks of interiors and additional locations in Los Angeles, California. When shooting went over schedule in Seattle, Washington, Laura's death in the train car had to be shot in Los Angeles on soundstage during the last day of shooting, October 31.\r\nSeveral Twin Peaks regulars filmed scenes but were cut from the final version. These actors included Michael Ontkean (Harry S. Truman), Warren Frost (Will Hayward), Mary Jo Deschanel (Eileen Hayward), Everett McGill (Ed Hurley), Wendy Robie (Nadine Hurley), Jack Nance (Pete Martell), Joan Chen (Jocelyn Packard), Kimmy Robertson (Lucy Moran), Harry Goaz (Andy Brennan), Michael Horse (Tommy \"Hawk\" Hill), Russ Tamblyn (Dr. Jacoby), Don S. Davis (Garland Briggs), and Charlotte Stewart (Betty Briggs). Their scenes are among The Missing Pieces, included on the Twin Peaks Blu-ray box set.\r\nRelease\r\nTwin Peaks: Fire Walk with Me received a reaction quite the contrary to the television series. The film was entered into the 1992 Cannes Film Festival, where it was met with almost unanimous negative reviews. There is a persistent story that the film was met with boos and hisses from the Cannes audience, though co-writer Robert Engels denies that this event ever happened and a contemporary news report only says there were some \"hoots and whistles\" during a screening for critics and journalists.\r\nAccording to Roger Ebert from the Chicago Sun-Times, the film was met with two extremes, one side being overall positive, while the other side being the exact opposite. Filmmaker Quentin Tarantino, who was also in attendance, said in a 1992 interview, \"After I saw Twin Peaks: Fire Walk with Me at Cannes, David Lynch had disappeared so far up his own ass that I have no desire to see another David Lynch movie until I hear something different. And you know, I loved him. I loved him.\"\r\nEven the CIBY-2000 party at Cannes did not go well. According to Lynch, Francis Bouygues (then head of CIBY) was not well-liked in France and this only added to the film's demise at the festival. After the Cannes showing, Lynch said \"It was a little bit of a sadness, You'd like to have everybody there, but their characters didn't have a bearing on the life of her\".\r\nU.S. distributor New Line Cinema released the film in America on August 28, 1992. It grossed a total of US$1.8 million in 691 theaters in its opening weekend and went on to gross a total of $4.2 million in North America.\r\nDespite its mixed critical and poor commercial response, Fire Walk with Me gained attention at awards time. The film was nominated for five Saturn Awards and two Independent Spirit Awards, including Sheryl Lee being nominated for Best Actress. The only awards won by the film were for Angelo Badalamenti's musical score, which won a Spirit Award, a Saturn Award and a Brit Award.\r\nCritical reception\r\nUpon its release, the film was largely negatively received by American critics. Among the negative reviews, Janet Maslin from The New York Times wrote, \"Mr. Lynch's taste for brain-dead grotesque has lost its novelty\". Fellow Times film critic Vincent Canby concurred, \"It's not the worst movie ever made; it just seems to be\". In his review for Variety magazine, Todd McCarthy said, \"Laura Palmer, after all the talk, is not a very interesting or compelling character and long before the climax has become a tiresome teenager\". USA Today gave the film one-and-a-half stars out of four, calling it, \"a morbidly joyless affair\". Rolling Stone magazine's Peter Travers wrote, \"though the movie ups the TV ante on nudity, language and violence, Lynch's control falters. But if inspiration is lacking, talent is not. Count Lynch down but never out\". In her review for The Washington Post, Rita Kempley described the film as a \"perversely moving, profoundly self-indulgent prequel\". An exception among American reviews at the time of the film's release came from novelist Steve Erickson, who defended the film in the L.A. Weekly and challenged its negative reception; in 1998, critic Manohla Dargis, writing in the same publication, called it \"one of the bravest pieces of film criticism I've read.\"\r\nMore positive reviews came from British film critics. Kim Newman from the British magazine Sight & Sound stated: \"The film's many moments of horror demonstrate just how tidy, conventional and domesticated the generic horror movie of the 1980s and 1990s has become\". However, not all British film critics were praising. Barry Norman declared it \"a mess\", and \"baffling\", whilst praising Lynch as \"a very original filmmaker, and since there are so few of those about, we ought perhaps to give him the benefit of the doubt, and indulge him a little.\"\r\nLater retrospective analysis of the film has also trended more positive, with critic Mark Kermode writing in 2007 that many have come to consider the film a \"masterpiece\". In a 2002 review, Ed Gonzalez of Slant Magazine gave the film a four out of four stars, and the following year, the publication included it in a list of \"100 essential films.\" Appearing on the podcast The Cinephiliacs in 2015, filmmaker James Gray called it \"an incredible film,\" \"a masterpiece,\" and \"a classic example of how the critics get it wrong.\" Further speaking of the film, he said, \"I've never seen a movie that's been made in the last 30 years in America, which so asks us to understand and be in the shoes of a person suffering so profoundly. It's a thing of beauty.\"\r\nIn the book Lynch on Lynch, Chris Rodley described the film as \"brilliant but excoriating\", writing that \"by the time Lynch unveiled Twin Peaks: Fire Walk With Me in 1992, critical reaction had become hostile, and only now is the movie enjoying a degree of cautious but sympathetic critical re-evaluation. It is, undoubtedly, one of Lynch's cruellest, bleakest neighbourhood visions, and even managed to displease die-hard fans of the series. In exposing the very heart of the TV series, Lynch was forced to accept that he was unlikely to return to the town of Twin Peaks again.\"\r\nThe film holds a 64% rating on review aggregator website Rotten Tomatoes, based on 75 reviews (48 positive) with an average rating of 6.46/10. The website wrote of the critics' consensus: \"For better or worse, Twin Peaks: Fire Walk with Me is every bit as strange and twisted as you'd expect from David Lynch\". Metacritic, which assigns a rating out of 100 to reviews from mainstream film critics, reported that there were \"generally unfavorable reviews\", with an average score of 28 based on 16 reviews.\r\nHome media\r\nLynch originally shot more than five hours of footage that was subsequently cut down to two hours and fourteen minutes. The footage nearly appeared on New Line Cinema's Special Edition DVD in February 2002, but was nixed over budgetary and running-time concerns. The film was released on DVD in several other regions in the early 2000s as well, including the United Kingdom (Region 2) in 2001 and Australia (Region 4) in 2005.\r\nMost of the deleted scenes feature additional characters from the television series who ultimately did not appear in the finished film. Lynch has said that \"I had a limit on the running time of the picture. We shot many scenes that\u2014for a regular feature\u2014were too tangential to keep the main story progressing properly. We thought it might be good sometime to do a longer version with these other things in, because a lot of the characters that are missing in the finished movie had been filmed. They're part of the picture, they're just not necessary for the main story.\" According to Lynch, had the film included these scenes, it \"wouldn't have been quite so dark. To me it obeyed the laws of Twin Peaks. But a little bit of the goofiness had to be removed.\"\r\nIn 2007, DVDrama.com reported that MK2 was in final negotiations with Lynch about a new two-disc special edition that would include seventeen deleted scenes hand-picked by the director himself. It had been tentatively scheduled for release on October 17, 2007, but MK2 subsequently opted instead to re-release a bare-bones edition of Fire Walk with Me, citing a new version including the deleted scenes has been put on hold indefinitely. In November 2008, Lynch said the following regarding the deleted scenes:\r\nTwin Peaks: Fire Walk with Me is owned by a company called MK2 in France. And I spoke to them a couple of months ago. I've spoke to them several times about this. I think it will happen, but maybe the financial crisis is affecting that in some way. I'm not sure what's going on. I'm pretty sure there's seventeen scenes in that at least but it's been a while since we've looked into that.\r\nParamount Pictures, which has DVD distribution rights to the TV series, acquired the rights in Germany and most of the world excluding the US, UK, France and Canada. Paramount released their DVD in 2007. The DVD was a port straight from the MK2 French edition.\r\nFire Walk with Me was released on Blu-ray in France on November 3, 2010 by MK2.\r\nThe film was released on DVD and Blu-ray in Australia by Madman Entertainment on February 8, 2012, marking the 20th anniversary of the film's theatrical release.\r\nThe film was also released on Blu-ray on June 4, 2012 in the UK by Universal UK Home Video, although it has been reported that the release suffers from defects in the audio track. The film has been released on Blu-ray in North America on July 29, 2014, as part of the Twin Peaks entire mystery Blu-ray collection, and contains more than 90 minutes of deleted and extended scenes from the film.\r\nThe film premiered on Showtime on March 1, 2017, in honor of the series continuation.\r\nThis film was released as part of the Criterion Collection (whose parent company, Janus Films, currently owns the North American rights), on both DVD and Blu-Ray Disc, on 17 October 2017.\r\nLegacy and sequel\r\nAccording to cinematographer Ron Garcia, the film was popular in Japan, in particular with women, as Martha Nochimson wrote in her book on Lynch's work, \"he surmises that the enthusiasm of the Japanese women comes from a gratification of seeing in Laura some acknowledgment of their suffering in a repressive society.\" Released under the title Twin Peaks: The Last Seven Days of Laura Palmer, it was greeted with long lines of moviegoers at theaters.\r\nIn retrospect, Lynch has said, \"I feel bad that Fire Walk with Me did no business and that a lot of people hate the film. But I really like the film. But it had a lot of baggage with it. It's as free and as experimental as it could be within the dictates it had to follow.\"\r\nMary Sweeney, the film's editor, said, \"They so badly wanted it to be like the TV show, and it wasn't. It was a David Lynch feature. And people were very angry about it. They felt betrayed.\" Sheryl Lee is very proud of the film, saying, \"I have had many people, victims of incest, approach me since the film was released, so glad that it had been made because it helped them to release a lot.\"\r\nAfter Fire Walk with Me was released, Lynch reportedly planned two more films that would have continued and then concluded the series' narrative. But in a 2001 interview, he said that the Twin Peaks franchise is \"dead as a doornail.\" In 2014, however, it was announced that the series would continue with Lynch involved. Lynch said that Twin Peaks: Fire Walk with Me is very important to understanding what's coming. In 2017, the third season of the TV series was released. It depicts events which happen 25 years after the second season, and uses many elements introduced in Fire Walk with Me.\r\nSoundtrack\r\nThe soundtrack to Twin Peaks: Fire Walk with Me was released on Warner Bros. Records on August 11, 1992. It includes music by Angelo Badalamenti, who had composed and conducted the music on the television series and its original soundtrack.\r\nIn addition to his instrumental compositions, Fire Walk with Me's soundtrack features vocal accompaniment to Badalamenti's songs by jazz vocalist Jimmy Scott and dream pop singer Julee Cruise. Badalamenti performs vocals on \"A Real Indication\" and \"The Black Dog Runs at Night\", two songs by the Thought Gang, a musical project between Badalamenti and David Lynch. Lynch wrote the lyrics for several of the soundtrack's songs, including \"Sycamore Trees\", \"Questions in a World of Blue\", \"A Real Indication\" and \"The Black Dog Runs at Night\", and was the soundtrack's producer alongside Badalamenti.\r\nUpon its release, Fire Walk with Me's soundtrack charted in the United States, peaking at number 173 on the Billboard 200. It was nominated for, and later received, the Best Music at the 1992 Saturn Awards and Best Original Score at the Independent Spirit Awards. In March 2011, British music publication NME placed Twin Peaks: Fire Walk with Me's soundtrack at number 1 on their list of the 50 Best Film soundtracks Ever, describing it as \"combining plangent beauty with a kind of clanking evil jazz, this is one of those endlessly evocative soundtracks that takes up residence in your subconscious and never leaves.\"\r\nAwards and nominations",
+            "html": "<h2>Twin Peaks: Fire Walk with Me</h2><p>Twin Peaks: Fire Walk with Me is a 1992 psychological horror film directed by David Lynch and written by Lynch and Robert Engels. It serves as a prequel & sequel to the television series Twin Peaks (1990\u20131991), created by Mark Frost and Lynch, who were also executive producers. The film revolves around the investigation into the murder of Teresa Banks (Pamela Gidley) and the last seven days in the life of Laura Palmer (Sheryl Lee), a popular high school student in the fictional Washington town of Twin Peaks.</p><p>The title comes from a poem recited by MIKE and Leland Palmer in the television series:</p><blockquote>Through the darkness of future's past, The magician longs to see. One chants out between two worlds... \"Fire... walk with me.\"</blockquote><p>Most of the television cast reprised their roles for the film, though the majority of their scenes ended up being cut and were later restored in Twin Peaks: The Missing Pieces. A few notable cast members including Lara Flynn Boyle, Sherilyn Fenn, and Richard Beymer did not reprise their roles due to scheduling conflicts. Boyle's character Donna Hayward was instead recast with Moira Kelly. Kyle MacLachlan, who starred as Special Agent Dale Cooper in the series, was reluctant to return out of fear of getting typecast, which resulted in a smaller presence in the film than originally planned.</p><p>Fire Walk with Me initially received negative reviews in the United States but has been met with a more positive reception in subsequent years, with some critics viewing it as one of Lynch's major works. Although it has long been reported that Fire Walk with Me was greeted at the 1992 Cannes Film Festival with booing and jeers from the audience, co-writer Robert Engels denies that this event ever happened. The film was a box office bomb in the United States, although it fared much better in Japan.</p><br/><h3>Plot</h3><p>FBI Regional Bureau Chief Gordon Cole sends agents Chester Desmond and Sam Stanley to investigate the murder of teenage drifter and prostitute Teresa Banks in the town of Deer Meadow, Washington. The pair are informed about their new assignment through a woman named Lil, who wears an artificial blue rose on her lapel. Desmond and Stanley view Teresa's body at a morgue. They notice that a ring is missing from her finger and a small piece of paper with the letter \"T\" printed on it has been inserted under one of her fingernails. Later, Desmond finds Teresa's missing ring under a trailer. As he reaches out to it, he is taken by an unseen force.</p><p>At FBI headquarters in Philadelphia, Cole and Agent Dale Cooper experience a brief vision of their long-lost colleague Agent Phillip Jeffries. He tells them about a meeting he witnessed involving several mysterious spirits\u2014The Man from Another Place, Killer BOB, Mrs. Chalfont and her grandson. Agent Cooper is sent to Deer Meadow to investigate Desmond's disappearance, but finds no answers.</p><p>One year later in Twin Peaks, high school homecoming queen Laura Palmer and her best friend Donna Hayward attend school. Laura is addicted to cocaine and is cheating on her boyfriend Bobby Briggs with biker James Hurley. Laura discovers that pages are missing from her secret diary, and gives the rest of the diary to her agoraphobic friend Harold Smith.</p><p>Mrs. Chalfont and her grandson appear to Laura. They warn her that the \"man behind the mask\" is in her bedroom. Laura runs home, where she sees BOB. She rushes outside in terror and sees her father, Leland, emerge from the house. That evening, Leland's behavior is erratic and abusive\u2014he accusingly asks Laura about her romances, then tells her he loves her. She has a dream about entering the Black Lodge. Cooper and the Man from Another Place appear in her dream. The Man from Another Place says \"I am the arm\", revealing his identity as MIKE's severed arm, and offers Teresa's ring to Laura, but Cooper tells her not to take it. Laura sees Annie Blackburn next to her in bed, covered in blood. Annie tells Laura to write in her diary that \"the good Dale is in the Lodge and cannot leave\". Laura sees the ring in her hand, but when she wakes up, it is gone.</p><p>Laura goes to the Roadhouse to meet her drug connections and have sex with men, where she is joined by Donna. Laura discusses Teresa Banks's murder with Ronette Pulaski. When she sees a topless Donna making out with a stranger, a distraught Laura takes her home and begs Donna not to become like her. The next morning, Philip Gerard, the one-armed man possessed by the repentant demon MIKE, in an attempt to warn Laura about her father and BOB, pulls up alongside Leland's car and shows Teresa's ring to Laura. Leland recalls his affair with Teresa. He had asked Teresa to set up a foursome with some of her friends, but fled after discovering Laura was among them. Teresa realized who he was and plotted to blackmail him, and he killed her.</p><p>One night, BOB comes through Laura's window and begins to rape her, only to transform into Leland. Upset, Laura begins using more cocaine. Bobby breaks up with Laura, and she then ends her relationship with James and goes to a cabin in the woods for an orgy with Ronette, Jacques and Leo. Leland follows her there and takes her and Ronette to an abandoned train car. Laura asks Leland if he is going to kill her, and he transforms into BOB, and tells her that he intends to possess her. BOB beats Ronette unconscious. MIKE, who tracked the BOB-possessed Leland to the train, throws Teresa's ring into the train car. Laura puts it on, which prevents BOB from possessing her. Enraged, BOB stabs Laura to death. The BOB-possessed Leland places Laura's body in the lake.</p><p>As her corpse drifts away, the BOB-possessed Leland enters the Red Room, where he encounters MIKE and the Man from Another Place who demand their share of \"garmonbozia (pain and sorrow).\"</p><p>As Laura's body is found by the Sheriff's department, Agent Cooper comforts her spirit in the Lodge. When Laura sees an angel that had previously disappeared from her bedroom painting, she begins to cry and laugh.</p><br/><h3>Cast</h3><ul><li>Sheryl Lee as Laura Palmer</li><li>Ray Wise as Leland Palmer</li><li>Kyle MacLachlan as Special Agent Dale Cooper</li><li>M\u00e4dchen Amick as Shelly Johnson</li><li>Dana Ashbrook as Bobby Briggs</li><li>Phoebe Augustine as Ronette Pulaski</li><li>David Bowie as Special Agent Phillip Jeffries</li><li>Eric Da Re as Leo Johnson</li><li>Miguel Ferrer as Special Agent Albert Rosenfield</li><li>Pamela Gidley as Teresa Banks</li><li>Heather Graham as Annie Blackburn</li><li>Chris Isaak as Special Agent Chester Desmond</li><li>Moira Kelly as Donna Hayward</li><li>Peggy Lipton as Norma Jennings</li><li>David Lynch as Bureau Chief Gordon Cole</li><li>James Marshall as James Hurley</li><li>J\u00fcrgen Prochnow as Woodsman</li><li>Harry Dean Stanton as Carl Rodd</li><li>Kiefer Sutherland as Special Agent Sam Stanley</li><li>Lenny Von Dohlen as Harold Smith</li><li>Grace Zabriskie as Sarah Palmer</li><li>Frances Bay as Mrs. Tremond / Mrs. Chalfont</li><li>Catherine E. Coulson as Margaret Lanterman / \"The Log Lady\"</li><li>Michael J. Anderson as The Man from Another Place</li><li>Frank Silva as Killer BOB</li><li>Walter Olkewicz as Jacques Renault</li><li>Al Strobel as Phillip Michael Gerard / MIKE</li><li>Gary Hershberger as Mike Nelson</li><li>Michael Ontkean as Harry S. Truman *</li><li>Warren Frost as Will Hayward *</li><li>Mary Jo Deschanel as Eileen Hayward *</li><li>Everett McGill as Ed Hurley *</li><li>Wendy Robie as Nadine Hurley *</li><li>Jack Nance as Pete Martell *</li><li>Joan Chen as Jocelyn Packard *</li><li>Kimmy Robertson as Lucy Moran *</li><li>Harry Goaz as Andy Brennan *</li><li>Michael Horse as Tommy \"Hawk\" Hill *</li><li>Russ Tamblyn as Dr. Jacoby *</li><li>Don S. Davis as Garland Briggs *</li><li>Charlotte Stewart as Betty Briggs *</li></ul><p>(The * denotes actors whose scenes were cut from the theatrical version, but later restored in Twin Peaks: The Missing Pieces.)</p><br/><h3>Production</h3><p>Lynch wanted to make a Twin Peaks film because, as he claimed in an interview, \"I couldn't get myself to leave the world of Twin Peaks. I was in love with the character of Laura Palmer and her contradictions: radiant on the surface but dying inside. I wanted to see her live, move and talk. I was in love with that world and I hadn't finished with it. But making the movie wasn't just to hold onto it; it seemed that there was more stuff that could be done\", and that he was \"not yet finished with the material\".</p><p>Actress Sheryl Lee, who played Laura Palmer, echoed these sentiments. \"I never got to be Laura alive, just in flashbacks; it allowed me to come full circle with the character.\" According to Lynch, the movie is about \"the loneliness, shame, guilt, confusion and devastation of the victim of incest. It also dealt with the torment of the father \u2013 the war within him.\"Twin Peaks had been canceled only a month when David Lynch announced he would be making a film with French company CIBY-2000 financing what would be the first film of a three-picture deal. But on July 11, 1991, Ken Scherer, CEO of Lynch/Frost productions, announced that the film was not going to be made because series star Kyle MacLachlan did not want to reprise his role of Special Agent Dale Cooper. A month later, MacLachlan had changed his mind and the film was back on.</p><p>The film was made without Twin Peaks series regulars Lara Flynn Boyle, Sherilyn Fenn, and Richard Beymer. At the time, these absences were attributed to scheduling conflicts, but in a 1995 interview, Fenn said that her real reason was that she \"was extremely disappointed in the way the second season got off track. As far as Fire Walk with Me, it was something that I chose not to be a part of.\" In a 2014 interview, however, Fenn said that it was ultimately a scheduling conflict with Of Mice and Men that prevented her from committing to the film. In a September 2007 interview, Beymer claimed that he did not appear in any scenes shot for the film, although his character, Benjamin Horne, appeared in the script. Fenn's character was cut from the script, Moira Kelly was cast as Donna, and Beymer's scenes were not filmed.</p><p>MacLachlan's reluctance was also caused by a decline of quality in the second season of the show. He said \"David and Mark were only around for the first season... I think we all felt a little abandoned. So I was fairly resentful when the film, Fire Walk with Me, came around.\" Although he agreed to be in the film, MacLachlan wanted a smaller role, forcing Lynch and co-writer Robert Engels to rewrite the screenplay so that Teresa Banks's murder was investigated by Agent Chester Desmond and not by Cooper as originally planned. MacLachlan ended up working only five days on the movie.</p><p>Another missing figure from Twin Peaks was co-creator Mark Frost. The relationship between Lynch and Frost had become strained during the second season and after the series ended. Frost went on to direct his own film, Storyville (1992), and was unable to collaborate with Lynch on Fire Walk with Me.</p><p>David Bowie had this to say about his part of the film: \"They crammed me. I did all my scenes in four or five days, because I was in rehearsals for the 1991 Tin Machine tour. I was there for only a few days.\"</p><p>Principal photography began on September 5, 1991 in Snoqualmie, Washington and lasted until October of the same year, with four weeks dedicated to locations in Washington and another four weeks of interiors and additional locations in Los Angeles, California. When shooting went over schedule in Seattle, Washington, Laura's death in the train car had to be shot in Los Angeles on soundstage during the last day of shooting, October 31.</p><p>Several Twin Peaks regulars filmed scenes but were cut from the final version. These actors included Michael Ontkean (Harry S. Truman), Warren Frost (Will Hayward), Mary Jo Deschanel (Eileen Hayward), Everett McGill (Ed Hurley), Wendy Robie (Nadine Hurley), Jack Nance (Pete Martell), Joan Chen (Jocelyn Packard), Kimmy Robertson (Lucy Moran), Harry Goaz (Andy Brennan), Michael Horse (Tommy \"Hawk\" Hill), Russ Tamblyn (Dr. Jacoby), Don S. Davis (Garland Briggs), and Charlotte Stewart (Betty Briggs). Their scenes are among The Missing Pieces, included on the Twin Peaks Blu-ray box set.</p><br/><h3>Release</h3><p>Twin Peaks: Fire Walk with Me received a reaction quite the contrary to the television series. The film was entered into the 1992 Cannes Film Festival, where it was met with almost unanimous negative reviews. There is a persistent story that the film was met with boos and hisses from the Cannes audience, though co-writer Robert Engels denies that this event ever happened and a contemporary news report only says there were some \"hoots and whistles\" during a screening for critics and journalists.</p><p>According to Roger Ebert from the Chicago Sun-Times, the film was met with two extremes, one side being overall positive, while the other side being the exact opposite. Filmmaker Quentin Tarantino, who was also in attendance, said in a 1992 interview, \"After I saw Twin Peaks: Fire Walk with Me at Cannes, David Lynch had disappeared so far up his own ass that I have no desire to see another David Lynch movie until I hear something different. And you know, I loved him. I loved him.\"</p><p>Even the CIBY-2000 party at Cannes did not go well. According to Lynch, Francis Bouygues (then head of CIBY) was not well-liked in France and this only added to the film's demise at the festival. After the Cannes showing, Lynch said \"It was a little bit of a sadness, You'd like to have everybody there, but their characters didn't have a bearing on the life of her\".</p><p>U.S. distributor New Line Cinema released the film in America on August 28, 1992. It grossed a total of US$1.8 million in 691 theaters in its opening weekend and went on to gross a total of $4.2 million in North America.</p><p>Despite its mixed critical and poor commercial response, Fire Walk with Me gained attention at awards time. The film was nominated for five Saturn Awards and two Independent Spirit Awards, including Sheryl Lee being nominated for Best Actress. The only awards won by the film were for Angelo Badalamenti's musical score, which won a Spirit Award, a Saturn Award and a Brit Award.</p><h4>Critical reception</h4><p>Upon its release, the film was largely negatively received by American critics. Among the negative reviews, Janet Maslin from The New York Times wrote, \"Mr. Lynch's taste for brain-dead grotesque has lost its novelty\". Fellow Times film critic Vincent Canby concurred, \"It's not the worst movie ever made; it just seems to be\". In his review for Variety magazine, Todd McCarthy said, \"Laura Palmer, after all the talk, is not a very interesting or compelling character and long before the climax has become a tiresome teenager\". USA Today gave the film one-and-a-half stars out of four, calling it, \"a morbidly joyless affair\". Rolling Stone magazine's Peter Travers wrote, \"though the movie ups the TV ante on nudity, language and violence, Lynch's control falters. But if inspiration is lacking, talent is not. Count Lynch down but never out\". In her review for The Washington Post, Rita Kempley described the film as a \"perversely moving, profoundly self-indulgent prequel\". An exception among American reviews at the time of the film's release came from novelist Steve Erickson, who defended the film in the L.A. Weekly and challenged its negative reception; in 1998, critic Manohla Dargis, writing in the same publication, called it \"one of the bravest pieces of film criticism I've read.\"</p><p>More positive reviews came from British film critics. Kim Newman from the British magazine Sight & Sound stated: \"The film's many moments of horror demonstrate just how tidy, conventional and domesticated the generic horror movie of the 1980s and 1990s has become\". However, not all British film critics were praising. Barry Norman declared it \"a mess\", and \"baffling\", whilst praising Lynch as \"a very original filmmaker, and since there are so few of those about, we ought perhaps to give him the benefit of the doubt, and indulge him a little.\"</p><p>Later retrospective analysis of the film has also trended more positive, with critic Mark Kermode writing in 2007 that many have come to consider the film a \"masterpiece\". In a 2002 review, Ed Gonzalez of Slant Magazine gave the film a four out of four stars, and the following year, the publication included it in a list of \"100 essential films.\" Appearing on the podcast The Cinephiliacs in 2015, filmmaker James Gray called it \"an incredible film,\" \"a masterpiece,\" and \"a classic example of how the critics get it wrong.\" Further speaking of the film, he said, \"I've never seen a movie that's been made in the last 30 years in America, which so asks us to understand and be in the shoes of a person suffering so profoundly. It's a thing of beauty.\"</p><p>In the book Lynch on Lynch, Chris Rodley described the film as \"brilliant but excoriating\", writing that \"by the time Lynch unveiled Twin Peaks: Fire Walk With Me in 1992, critical reaction had become hostile, and only now is the movie enjoying a degree of cautious but sympathetic critical re-evaluation. It is, undoubtedly, one of Lynch's cruellest, bleakest neighbourhood visions, and even managed to displease die-hard fans of the series. In exposing the very heart of the TV series, Lynch was forced to accept that he was unlikely to return to the town of Twin Peaks again.\"</p><p>The film holds a 64% rating on review aggregator website Rotten Tomatoes, based on 75 reviews (48 positive) with an average rating of 6.46/10. The website wrote of the critics' consensus: \"For better or worse, Twin Peaks: Fire Walk with Me is every bit as strange and twisted as you'd expect from David Lynch\". Metacritic, which assigns a rating out of 100 to reviews from mainstream film critics, reported that there were \"generally unfavorable reviews\", with an average score of 28 based on 16 reviews.</p><br/><h3>Home media</h3><p>Lynch originally shot more than five hours of footage that was subsequently cut down to two hours and fourteen minutes. The footage nearly appeared on New Line Cinema's Special Edition DVD in February 2002, but was nixed over budgetary and running-time concerns. The film was released on DVD in several other regions in the early 2000s as well, including the United Kingdom (Region 2) in 2001 and Australia (Region 4) in 2005.</p><p>Most of the deleted scenes feature additional characters from the television series who ultimately did not appear in the finished film. Lynch has said that \"I had a limit on the running time of the picture. We shot many scenes that\u2014for a regular feature\u2014were too tangential to keep the main story progressing properly. We thought it might be good sometime to do a longer version with these other things in, because a lot of the characters that are missing in the finished movie had been filmed. They're part of the picture, they're just not necessary for the main story.\" According to Lynch, had the film included these scenes, it \"wouldn't have been quite so dark. To me it obeyed the laws of Twin Peaks. But a little bit of the goofiness had to be removed.\"</p><p>In 2007, DVDrama.com reported that MK2 was in final negotiations with Lynch about a new two-disc special edition that would include seventeen deleted scenes hand-picked by the director himself. It had been tentatively scheduled for release on October 17, 2007, but MK2 subsequently opted instead to re-release a bare-bones edition of Fire Walk with Me, citing a new version including the deleted scenes has been put on hold indefinitely. In November 2008, Lynch said the following regarding the deleted scenes:</p><blockquote>Twin Peaks: Fire Walk with Me is owned by a company called MK2 in France. And I spoke to them a couple of months ago. I've spoke to them several times about this. I think it will happen, but maybe the financial crisis is affecting that in some way. I'm not sure what's going on. I'm pretty sure there's seventeen scenes in that at least but it's been a while since we've looked into that.</blockquote><p>Paramount Pictures, which has DVD distribution rights to the TV series, acquired the rights in Germany and most of the world excluding the US, UK, France and Canada. Paramount released their DVD in 2007. The DVD was a port straight from the MK2 French edition.</p><p>Fire Walk with Me was released on Blu-ray in France on November 3, 2010 by MK2.</p><p>The film was released on DVD and Blu-ray in Australia by Madman Entertainment on February 8, 2012, marking the 20th anniversary of the film's theatrical release.</p><p>The film was also released on Blu-ray on June 4, 2012 in the UK by Universal UK Home Video, although it has been reported that the release suffers from defects in the audio track. The film has been released on Blu-ray in North America on July 29, 2014, as part of the Twin Peaks entire mystery Blu-ray collection, and contains more than 90 minutes of deleted and extended scenes from the film.</p><p>The film premiered on Showtime on March 1, 2017, in honor of the series continuation.</p><p>This film was released as part of the Criterion Collection (whose parent company, Janus Films, currently owns the North American rights), on both DVD and Blu-Ray Disc, on 17 October 2017.</p><h4>Legacy and sequel</h4><p>According to cinematographer Ron Garcia, the film was popular in Japan, in particular with women, as Martha Nochimson wrote in her book on Lynch's work, \"he surmises that the enthusiasm of the Japanese women comes from a gratification of seeing in Laura some acknowledgment of their suffering in a repressive society.\" Released under the title Twin Peaks: The Last Seven Days of Laura Palmer, it was greeted with long lines of moviegoers at theaters.</p><p>In retrospect, Lynch has said, \"I feel bad that Fire Walk with Me did no business and that a lot of people hate the film. But I really like the film. But it had a lot of baggage with it. It's as free and as experimental as it could be within the dictates it had to follow.\"</p><p>Mary Sweeney, the film's editor, said, \"They so badly wanted it to be like the TV show, and it wasn't. It was a David Lynch feature. And people were very angry about it. They felt betrayed.\" Sheryl Lee is very proud of the film, saying, \"I have had many people, victims of incest, approach me since the film was released, so glad that it had been made because it helped them to release a lot.\"</p><p>After Fire Walk with Me was released, Lynch reportedly planned two more films that would have continued and then concluded the series' narrative. But in a 2001 interview, he said that the Twin Peaks franchise is \"dead as a doornail.\" In 2014, however, it was announced that the series would continue with Lynch involved. Lynch said that Twin Peaks: Fire Walk with Me is very important to understanding what's coming. In 2017, the third season of the TV series was released. It depicts events which happen 25 years after the second season, and uses many elements introduced in Fire Walk with Me.</p><br/><h3>Soundtrack</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th colspan=\"2\" class=\"summary album\" style=\"text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: gainsboro\">Twin Peaks: Fire Walk with Me</th></tr><tr><th colspan=\"2\" class=\"description\" style=\"text-align:center;background-color: gainsboro\"><span>Soundtrack album</span> by <div class=\"contributor\" style=\"display:inline\"><span>Angelo Badalamenti</span></div></th></tr><tr><th scope=\"row\">Released</th><td class=\"published\">August&nbsp;11,&nbsp;1992</td></tr><tr><th scope=\"row\"><span>Genre</span></th><td class=\"category hlist\"><span>Jazz</span>, <span>ambient</span></td></tr><tr><th scope=\"row\">Length</th><td><span class=\"duration\"><span class=\"min\">57</span>:<span class=\"s\">04</span></span></td></tr><tr><th scope=\"row\"><span>Label</span></th><td class=\"hlist\"><span class=\"mw-redirect\">Warner Bros.</span></td></tr><tr><th scope=\"row\"><span>Producer</span></th><td class=\"hlist\">Angelo Badalamenti, <span>David Lynch</span></td></tr></tbody></table><p>The soundtrack to Twin Peaks: Fire Walk with Me was released on Warner Bros. Records on August 11, 1992. It includes music by Angelo Badalamenti, who had composed and conducted the music on the television series and its original soundtrack.</p><p>In addition to his instrumental compositions, Fire Walk with Me's soundtrack features vocal accompaniment to Badalamenti's songs by jazz vocalist Jimmy Scott and dream pop singer Julee Cruise. Badalamenti performs vocals on \"A Real Indication\" and \"The Black Dog Runs at Night\", two songs by the Thought Gang, a musical project between Badalamenti and David Lynch. Lynch wrote the lyrics for several of the soundtrack's songs, including \"Sycamore Trees\", \"Questions in a World of Blue\", \"A Real Indication\" and \"The Black Dog Runs at Night\", and was the soundtrack's producer alongside Badalamenti.</p><p>Upon its release, Fire Walk with Me's soundtrack charted in the United States, peaking at number 173 on the Billboard 200. It was nominated for, and later received, the Best Music at the 1992 Saturn Awards and Best Original Score at the Independent Spirit Awards. In March 2011, British music publication NME placed Twin Peaks: Fire Walk with Me's soundtrack at number 1 on their list of the 50 Best Film soundtracks Ever, describing it as \"combining plangent beauty with a kind of clanking evil jazz, this is one of those endlessly evocative soundtracks that takes up residence in your subconscious and never leaves.\"</p><table class=\"table table-responsive table-bordered table-hover w-100\"><caption class=\"tlheader mbox-text\" style=\"text-align:left;background-color:#fff;font-weight:700\">Track listing</caption><tbody><tr><th class=\"tlheader\" scope=\"col\" style=\"width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee\"><abbr title=\"Number\">No.</abbr></th><th class=\"tlheader\" scope=\"col\" style=\"width:40%;text-align:left;background-color:#eee\">Title</th><th class=\"tlheader\" scope=\"col\" style=\"width:30%;text-align:left;background-color:#eee\">Lyrics</th><th class=\"tlheader\" scope=\"col\" style=\"width:30%;text-align:left;background-color:#eee\">Music</th><th class=\"tlheader\" scope=\"col\" style=\"width:4em;padding-right:10px;text-align:right;background-color:#eee\">Length</th></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1.</td><td style=\"vertical-align:top\">\"Theme from <i>Twin Peaks: Fire Walk with Me</i>\"</td><td style=\"vertical-align:top\">&nbsp;</td><td style=\"vertical-align:top\"><span>Angelo Badalamenti</span></td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6:40</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2.</td><td style=\"vertical-align:top\">\"The Pine Float\"</td><td style=\"vertical-align:top\">&nbsp;</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:58</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3.</td><td style=\"vertical-align:top\">\"Sycamore Trees\" <span style=\"font-size:85%\">(vocals by <span>Jimmy Scott</span>)</span></td><td style=\"vertical-align:top\"><span>David Lynch</span></td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:52</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4.</td><td style=\"vertical-align:top\">\"Don't Do Anything (I Wouldn't Do)\"</td><td style=\"vertical-align:top\">&nbsp;</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">7:17</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5.</td><td style=\"vertical-align:top\">\"A Real Indication\" <span style=\"font-size:85%\">(by Thought Gang, vocals by Badalamenti)</span></td><td style=\"vertical-align:top\">Lynch</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5:31</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6.</td><td style=\"vertical-align:top\">\"Questions in a World of Blue\" <span style=\"font-size:85%\">(vocals by <span>Julee Cruise</span>)</span></td><td style=\"vertical-align:top\">Lynch</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4:50</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">7.</td><td style=\"vertical-align:top\">\"The Pink Room\"</td><td style=\"vertical-align:top\">&nbsp;</td><td style=\"vertical-align:top\">Lynch</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">4:02</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">8.</td><td style=\"vertical-align:top\">\"The Black Dog Runs at Night\" <span style=\"font-size:85%\">(by Thought Gang, vocals by Badalamenti)</span></td><td style=\"vertical-align:top\">Lynch</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">1:45</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">9.</td><td style=\"vertical-align:top\">\"Best Friends\"</td><td style=\"vertical-align:top\">&nbsp;</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">2:12</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">10.</td><td style=\"vertical-align:top\">\"Moving Through Time\"</td><td style=\"vertical-align:top\">&nbsp;</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">6:41</td></tr><tr style=\"background-color:#fff\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">11.</td><td style=\"vertical-align:top\">\"Montage from <i>Twin Peaks</i>: \"Girl Talk\"/\"Birds in Hell\"/\"Laura Palmer's Theme\"/\"<span>Falling</span>\"</td><td style=\"vertical-align:top\">&nbsp;</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">5:27</td></tr><tr style=\"background-color:#f7f7f7\"><td style=\"padding-right:10px;text-align:right;vertical-align:top\">12.</td><td style=\"vertical-align:top\">\"The Voice of Love\"</td><td style=\"vertical-align:top\">&nbsp;</td><td style=\"vertical-align:top\">Badalamenti</td><td style=\"padding-right:10px;text-align:right;vertical-align:top\">3:55</td></tr><tr><td colspan=\"4\" style=\"padding:0\"><span style=\"width:7.5em;float:right;padding-left:10px;background-color:#eee;margin-right:2px\"><b>Total length:</b></span></td><td style=\"padding:0 10px 0 0;text-align:right;background-color:#eee\"><b>57:04</b></td></tr></tbody></table><br/><h3>Awards and nominations</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th scope=\"col\">Award(s)</th><th scope=\"col\">Category&nbsp;\u2013 Nominee(s)</th><th scope=\"col\">Result</th></tr><tr><td><span>Brit Awards</span></td><td>Best Soundtrack&nbsp;\u2013 <span>Angelo Badalamenti</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Cannes Film Festival</span></td><td><span>Palme d'Or</span>&nbsp;\u2013 David Lynch</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"2\"><span>Independent Spirit Awards</span></td><td>Best Original Score&nbsp;\u2013 Angelo Badalamenti</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Best Female Lead</span>&nbsp;\u2013 <span>Sheryl Lee</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td rowspan=\"5\"><span class=\"mw-redirect\">Saturn Awards</span></td><td><span>Best Music</span>&nbsp;\u2013 Angelo Badalamenti</td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><td><span>Best Actress</span>&nbsp;\u2013 Sheryl Lee</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Horror Film</span>&nbsp;\u2013 <i>Twin Peaks: Fire Walk with Me</i></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Supporting Actor</span>&nbsp;\u2013 <span>Ray Wise</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Writing</span>&nbsp;\u2013 David Lynch and <span>Robert Engels</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0105665",
+        "title": "Twin Peaks: Fire Walk with Me",
+        "fullTitle": "Twin Peaks: Fire Walk with Me (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "posters": [
+            {
+                "id": "Acua5L9cLRCHKL9JsDBJqqlo36m.jpg",
+                "link": "https://imdb-api.com/posters/original/Acua5L9cLRCHKL9JsDBJqqlo36m.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            },
+            {
+                "id": "6WdIRqpHZDq34zJeR08FKM4T4TK.jpg",
+                "link": "https://imdb-api.com/posters/original/6WdIRqpHZDq34zJeR08FKM4T4TK.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 640,
+                "height": 960
+            },
+            {
+                "id": "uR05uzhWoMApjvpjxy1IQj6D4dZ.jpg",
+                "link": "https://imdb-api.com/posters/original/uR05uzhWoMApjvpjxy1IQj6D4dZ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            },
+            {
+                "id": "ip0gPhg98BmhAJ36pVxH1p0WqKl.jpg",
+                "link": "https://imdb-api.com/posters/original/ip0gPhg98BmhAJ36pVxH1p0WqKl.jpg",
+                "aspectRatio": 0.7086666666666667,
+                "language": "en",
+                "width": 1063,
+                "height": 1500
+            },
+            {
+                "id": "mw4mQJirIfi303ca8nF0KSOkaOy.jpg",
+                "link": "https://imdb-api.com/posters/original/mw4mQJirIfi303ca8nF0KSOkaOy.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "c3DBNJeMoaAMNiW3RR6sQA4Uaum.jpg",
+                "link": "https://imdb-api.com/posters/original/c3DBNJeMoaAMNiW3RR6sQA4Uaum.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0105665",
+        "title": "Twin Peaks: Fire Walk with Me",
+        "fullTitle": "Twin Peaks: Fire Walk with Me (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "items": [
+            {
+                "title": "1 sheet",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0MzQ2MzAzNV5BMl5BanBnXkFtZTYwNjE0NDc4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Grande Movie Poster, 47 x 63",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3NDY4MTIzM15BMl5BanBnXkFtZTYwNzE0NDc4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Quad",
+                "image": "https://imdb-api.com/images/original/MV5BNDU4MzkzMjIxMF5BMl5BanBnXkFtZTYwODE0NDc4._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI0MDcxNDgxN15BMl5BanBnXkFtZTYwMTIxMTk5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1NTUyMDcwOF5BMl5BanBnXkFtZTYwMzIxMTk5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kyle MacLachlan, Sheryl Lee, and Frank Silva in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIyNTM0MTYwNV5BMl5BanBnXkFtZTYwNDIxMTk5._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNDg0NzU3NjMzNV5BMl5BanBnXkFtZTYwODAxMTI5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0OTY2ODc2NV5BMl5BanBnXkFtZTYwOTkyMDQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyODM3OTc4OF5BMl5BanBnXkFtZTYwNjQ2MDQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4Mzg2NTAxMF5BMl5BanBnXkFtZTcwMTY0MjkxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNzAwNTQ5MjU2NV5BMl5BanBnXkFtZTcwMjk5NzEyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE5OTQ5ODI2NV5BMl5BanBnXkFtZTcwNDM0ODEyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0NDg5NzMyNl5BMl5BanBnXkFtZTcwNzAyNzkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNDYxMzUzNjk4OV5BMl5BanBnXkFtZTcwMTUxNTEzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BOTgwODIzMzIyN15BMl5BanBnXkFtZTcwNzE3NzY0MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BODEyYzY3NmUtNGM0NC00NzFkLTg5NTYtZTI4ZjFkMWNmZTY1XkEyXkFqcGdeQXVyNzA0MDkzMzg@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Pamela Gidley in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BZjVhNjg1MzgtMWFiZS00YzkyLThkNTEtOWI1M2UxZDg1ZjViXkEyXkFqcGdeQXVyOTk2Mzg0MzE@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Phoebe Augustine, Pamela Gidley, and Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMWM0ZGRiYzUtYTQwMy00ZThhLWI4YTQtNWFiZmFkNWZjODYxXkEyXkFqcGdeQXVyOTk2Mzg0MzE@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Pamela Gidley in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BOTJiMTFhMTYtNjIyMC00MjZhLTg4OTUtYTRhMjIyZjc3NzBkXkEyXkFqcGdeQXVyOTk2Mzg0MzE@._V1_Ratio1.6400_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMmE3ZWI2YjEtMTRiNC00N2RmLWI0NmMtYjVkN2Y3YWI5M2RhXkEyXkFqcGdeQXVyMjgzMTEzNDU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BZjUxYzg5OWMtNjFhMi00OTg3LWI0NmMtZjFhYjFlMmI3NDM0XkEyXkFqcGdeQXVyMjgzMTEzNDU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "James Marshall and Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BOTljNTMzZWMtN2M4Zi00NTZkLWIxYTQtYjllMjgwYTViODFmXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Kyle MacLachlan, Sheryl Lee, and Lorna MacMillan in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNTEwMWJiMDQtNWY1My00ZmFiLWEyNDQtMzEzYWI2YTY0MjlmXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNjc5MGI3NTQtODhjNy00NmRhLThiYzAtNzc1NjE3YTI1NWNkXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNGM5YmIzYTItM2M1NS00MjZmLThmZjktN2M3NGU3MDcyYTNmXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Lorna MacMillan in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNjYzNmJkZjktYjgxZS00ZTFiLWJhOGUtYzY1NGQwNjM0MjZmXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BODAxYTI4ZDgtODRjMy00MzkwLWI3NTItZWIxOWUwZTQzMjgyXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMWIwN2Y3YzItYTYyZS00NmE2LThjNDMtY2UxZTQ4MTY3M2MyXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMmFmYjc4M2YtMDkxZi00YWM4LTkwYTctODk3NjgyMGMxNzc5XkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Frank Silva in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BZWZmNmJjODktNzdmYS00MjM0LWI0MTMtZmExNThmYzg3MTljXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNGFiMDFiM2QtNzY4ZC00YzljLTg4NGYtNDU4OGQ5MGUwYTcyXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Ray Wise in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMjYyMjJkM2UtYTNjYS00ZTk5LThjNGYtYmFhNTdjYmFmYjVlXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Karin Robison in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BYmFjNGQ0ODItMWVkYy00NDU0LWE3YWEtMzA5YjBmOGUwYjg3XkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Ray Wise in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTRiMTQ1YjctYWZlOS00OWE1LTkwMzMtNDJjMTA4ZDQ0NzA5XkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BODM1ZDc2MDctZWQ1ZS00ZDEyLWE5NDAtOWZhZjc4NWIwNWI3XkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BYmE3MDBkN2UtMWNkZS00YjA5LTk4MjMtMWQxODU0Njg5OWFiXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNTVkNzIxZjgtNGJlZC00MzRkLThlZjAtYjUzYThiNTdiODA2XkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Frank Silva in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMDVhM2RkOTItYzYxZS00ZTI2LWI2YmYtYmI4ZTIzYTQzMzZiXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Phoebe Augustine in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMDZkM2JlOGItNTEzZi00NzcyLWFmNDYtYTkwN2FmMmU2NzZkXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BM2ZjNjc3NjEtMmQzYy00OTM5LWJiMTYtZDJmMTQzYmE5NmEwXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BYzNlNzVjMWUtYzA5Ni00N2FjLWEzYjgtN2Y1OTg2MjU5ZDVjXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMTJhN2RmYjQtODAxZC00ODU1LWIwNzAtN2U4ZDAxMDVjMmZkXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Al Strobel in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BZGE3MjlkNTctM2QzYy00Y2Q1LWE0NzQtNGU5MzY2M2VkOGViXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "James Marshall in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BZmY0OTU3ZjItZTcwMS00ZDhmLTg3YzUtM2U2OTU4ODg3YTljXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BMWI1OTMzMTUtMDZiNC00ZTBkLWI2YmEtODIzYmMzMjQ5OGJhXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "James Marshall and Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNzliMzMwMTMtZmVkNC00MDUzLTgwMjItYzEwNmRjMDdmYTUzXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNzc5YWMxZjAtOTRhOS00ODUzLWE2MjgtMDNjY2VkMjkwYzI5XkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "James Marshall and Sheryl Lee in Twin Peaks: Fire Walk with Me (1992)",
+                "image": "https://imdb-api.com/images/original/MV5BNTAxY2Y5YTMtMzYxYS00N2M2LWE2YmItZDQxOGUyNWY1ZWEzXkEyXkFqcGdeQXVyNDU2OTIyMTc@._V1_Ratio1.8400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0105665",
+        "title": "Twin Peaks: Fire Walk with Me",
+        "fullTitle": "Twin Peaks: Fire Walk with Me (1992)",
+        "type": "Movie",
+        "year": "1992",
+        "videoId": "vi1289748761",
+        "videoTitle": "Twin Peaks: Fire Walk With Me",
+        "videoDescription": "Home Video Trailer from New Line Home Entertainment",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODdhMGI2NzktZGMxNC00NTU4LWFiNWEtNTJmMzAxODFmNDZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 17:33:13",
+        "link": "https://www.imdb.com/video/vi1289748761",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1289748761/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$10,000,000 (estimated)",
+        "openingWeekendUSA": "$1,813,559, 30 August 1992",
+        "grossUSA": "$4,160,851",
+        "cumulativeWorldwideGross": "$4,183,547"
+    },
+    "tagline": "In a town like Twin Peaks, no one is innocent.",
+    "keywords": "surrealism,double life,incest,tragic female character,nonlinear timeline",
+    "keywordList": [
+        "surrealism",
+        "double life",
+        "incest",
+        "tragic female character",
+        "nonlinear timeline"
+    ],
+    "similars": [
+        {
+            "id": "tt0098936",
+            "title": "Twin Peaks",
+            "fullTitle": "Twin Peaks (1990\u20131991)",
+            "year": "1990\u20131991",
+            "image": "https://imdb-api.com/images/original/MV5BMTExNzk2NjcxNTNeQTJeQWpwZ15BbWU4MDcxOTczOTIx._V1_Ratio0.7789_AL_.jpg",
+            "plot": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+            "directors": "",
+            "stars": "Kyle MacLachlan, Michael Ontkean, M\u00e4dchen Amick",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.8"
+        },
+        {
+            "id": "tt4093826",
+            "title": "Twin Peaks",
+            "fullTitle": "Twin Peaks (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5MTkzNTY5Ml5BMl5BanBnXkFtZTgwNjU4MzY1MTI@._V1_Ratio0.7368_AL_.jpg",
+            "plot": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered.",
+            "directors": "",
+            "stars": "Kyle MacLachlan, Sheryl Lee, Michael Horse",
+            "genres": "Crime, Drama, Fantasy",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt5334704",
+            "title": "Twin Peaks: The Missing Pieces",
+            "fullTitle": "Twin Peaks: The Missing Pieces (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BM2E4NjgyOWQtMGQyMS00ZWViLTlhNTAtODZjNTliOWM4NzE1XkEyXkFqcGdeQXVyMjc2NTc3NDA@._V1_Ratio0.8632_AL_.jpg",
+            "plot": "Twin Peaks before Twin Peaks (1990) and at the same time not always and entirely in the same place as Twin Peaks: Fire Walk with Me (1992). A feature film which presents deleted scenes from Twin Peaks: Fire Walk with Me (1992) assembled together for the first time in an untold portion of the story's prequel.",
+            "directors": "David Lynch",
+            "stars": "Chris Isaak, Kiefer Sutherland, C.H. Evans",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0090756",
+            "title": "Blue Velvet",
+            "fullTitle": "Blue Velvet (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BMWUwM2I2OTctOTRlNS00ZmRjLWI1NmEtNDc3Mjg0Zjg3Y2FiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+            "directors": "David Lynch",
+            "stars": "Isabella Rossellini, Kyle MacLachlan, Dennis Hopper",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0116922",
+            "title": "Lost Highway",
+            "fullTitle": "Lost Highway (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BYWUxOWY4NDctMDFmMS00ZTQwLWExMGEtODg0ZWNhOTE5NzZmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "After a bizarre encounter at a party, a jazz saxophonist is framed for the murder of his wife and sent to prison, where he inexplicably morphs into a young mechanic and begins leading a new life.",
+            "directors": "David Lynch",
+            "stars": "Bill Pullman, Patricia Arquette, John Roselius",
+            "genres": "Mystery, Thriller",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0100935",
+            "title": "Wild at Heart",
+            "fullTitle": "Wild at Heart (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BMjAxYmJhMTMtNmZlZi00ZWJlLTlmMjctOTg5ZTg4MzZmOWM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.",
+            "directors": "David Lynch",
+            "stars": "Nicolas Cage, Laura Dern, Willem Dafoe",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0460829",
+            "title": "Inland Empire",
+            "fullTitle": "Inland Empire (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BMDUwODA0ZDQtZmNlNS00YTcwLWI0ZTEtMDcwN2E5MWNjOGIxL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "As an actress begins to adopt the persona of her character in a film, her world becomes nightmarish and surreal.",
+            "directors": "David Lynch",
+            "stars": "Karolina Gruszka, Krzysztof Majchrzak, Grace Zabriskie",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt0074486",
+            "title": "Eraserhead",
+            "fullTitle": "Eraserhead (1977)",
+            "year": "1977",
+            "image": "https://imdb-api.com/images/original/MV5BMDExYzg5YjQtMzE0Yy00OWJjLThiZTctMWI5MzhjM2RmNjA4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+            "directors": "David Lynch",
+            "stars": "Jack Nance, Charlotte Stewart, Allen Joseph",
+            "genres": "Horror",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0166924",
+            "title": "Mulholland Drive",
+            "fullTitle": "Mulholland Drive (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BNWM2MDZmMDgtYjViOS00YzBmLWE4YzctMDMyYTQ2YTc4MmVkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+            "directors": "David Lynch",
+            "stars": "Naomi Watts, Laura Harring, Justin Theroux",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0166896",
+            "title": "The Straight Story",
+            "fullTitle": "The Straight Story (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BNmE1MDk4OWEtYjk1NS00MWU2LTk5ZWItYjZhYmRkODRjMDc0XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An old man makes a long journey by lawnmower to mend his relationship with an ill brother.",
+            "directors": "David Lynch",
+            "stars": "Richard Farnsworth, Sissy Spacek, Jane Galloway Heitz",
+            "genres": "Biography, Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0080678",
+            "title": "The Elephant Man",
+            "fullTitle": "The Elephant Man (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of kindness, intelligence and sophistication.",
+            "directors": "David Lynch",
+            "stars": "Anthony Hopkins, John Hurt, Anne Bancroft",
+            "genres": "Biography, Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt1619856",
+            "title": "Mulholland Dr.",
+            "fullTitle": "Mulholland Dr. (TV Movie 1999)",
+            "year": "TV Movie 1999",
+            "image": "https://imdb-api.com/images/original/MV5BZDMwZGFmMjYtOGZlNC00NmFhLTg5OTktMjM1NzA5NDM1ZWE0XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a car wreck, an amnesiac woman sets out to learn what happened to her with the help of a wannabe actress.",
+            "directors": "David Lynch",
+            "stars": "Justin Theroux, Naomi Watts, Laura Harring",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "8.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
