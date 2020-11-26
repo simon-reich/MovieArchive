@@ -1,0 +1,1441 @@
+{
+    "id": "tt2084989",
+    "title": "Upstream Color",
+    "originalTitle": "",
+    "fullTitle": "Upstream Color (2013)",
+    "type": "Movie",
+    "year": "2013",
+    "image": "https://imdb-api.com/images/original/MV5BMTQzMzQ4MDAyNF5BMl5BanBnXkFtZTcwNzE0MDk3OA@@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2013-08-30",
+    "runtimeMins": "96",
+    "runtimeStr": "1h 36mins",
+    "plot": "When a woman's attacked and injured, he's hypnotised, and, using a grub with hypnotic properties. When the worms are extracted, she wakes up to find her life ruined. She's lost her job, her finances are destroyed. Years later, she meets Jeff whom she's a lot in common with.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "5 wins & 35 nominations.",
+    "directors": "Shane Carruth",
+    "directorList": [
+        {
+            "id": "nm1503403",
+            "name": "Shane Carruth"
+        }
+    ],
+    "writers": "Shane Carruth",
+    "writerList": [
+        {
+            "id": "nm1503403",
+            "name": "Shane Carruth"
+        }
+    ],
+    "stars": "Amy Seimetz, Frank Mosley, Shane Carruth, Andrew Sensenig",
+    "starList": [
+        {
+            "id": "nm1541272",
+            "name": "Amy Seimetz"
+        },
+        {
+            "id": "nm1797014",
+            "name": "Frank Mosley"
+        },
+        {
+            "id": "nm1503403",
+            "name": "Shane Carruth"
+        },
+        {
+            "id": "nm2426419",
+            "name": "Andrew Sensenig"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm1541272",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxNzQyNTkyOV5BMl5BanBnXkFtZTgwMTcwMTEyMDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Amy Seimetz",
+            "asCharacter": "Kris"
+        },
+        {
+            "id": "nm1503403",
+            "image": "https://imdb-api.com/images/original/MV5BNzU5MTYwNTg5NV5BMl5BanBnXkFtZTYwMzkxNTUz._V1_Ratio1.0909_AL_.jpg",
+            "name": "Shane Carruth",
+            "asCharacter": "Jeff"
+        },
+        {
+            "id": "nm2426419",
+            "image": "https://imdb-api.com/images/original/MV5BNDZlZjA3YTItOGM0Mi00ODQ5LWJiMTAtNjY4OTJlYmVjOTc1XkEyXkFqcGdeQXVyMTI2NDIwNDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Andrew Sensenig",
+            "asCharacter": "The Sampler"
+        },
+        {
+            "id": "nm4264573",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Thiago Martins",
+            "asCharacter": "Thief"
+        },
+        {
+            "id": "nm1970303",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kathy Carruth",
+            "asCharacter": "Orchid Mother"
+        },
+        {
+            "id": "nm3573550",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Meredith Burke",
+            "asCharacter": "Orchid Daughter"
+        },
+        {
+            "id": "nm5378132",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andreon Watson",
+            "asCharacter": "Peter"
+        },
+        {
+            "id": "nm4988211",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ashton Miramontes",
+            "asCharacter": "Lucas"
+        },
+        {
+            "id": "nm5379821",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Myles McGee",
+            "asCharacter": "Monty"
+        },
+        {
+            "id": "nm1797014",
+            "image": "https://imdb-api.com/images/original/MV5BZDg5NmY3YzAtMzVmZS00NTMwLTk1NzUtODFiNjJjNDk5OWQ4XkEyXkFqcGdeQXVyNDUwOTIzMg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Frank Mosley",
+            "asCharacter": "Husband"
+        },
+        {
+            "id": "nm4374654",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carolyn King",
+            "asCharacter": "Wife"
+        },
+        {
+            "id": "nm3598194",
+            "image": "https://imdb-api.com/images/original/MV5BYTM3NDM4NzItZjcxNS00MTM5LTg3ZDYtMmJjMDM0YjI4MzIzXkEyXkFqcGdeQXVyMjM2NTIwNzU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kerry McCormick",
+            "asCharacter": "OBGYN"
+        },
+        {
+            "id": "nm2649755",
+            "image": "https://imdb-api.com/images/original/MV5BMTU3MTY2Mjg1N15BMl5BanBnXkFtZTgwMTU2MDMzNTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Marco Antonio Rodriguez",
+            "asCharacter": "MRI Tech"
+        },
+        {
+            "id": "nm1754270",
+            "image": "https://imdb-api.com/images/original/MV5BZjM4MGFkYTQtMmZhNC00ZTRlLWIxZDktNmExMTE4NDU5NmJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Brina Palencia",
+            "asCharacter": "Woman in Club"
+        },
+        {
+            "id": "nm3220866",
+            "image": "https://imdb-api.com/images/original/MV5BMWI0MDk2NjItMjkyNi00MTVkLTk3Y2QtMDM4MWU4ZDEwZjljXkEyXkFqcGdeQXVyNjM5NjQyMDY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lynn Blackburn",
+            "asCharacter": "HR Manager"
+        },
+        {
+            "id": "nm0909493",
+            "image": "https://imdb-api.com/images/original/MV5BMmZlYWJkMzMtYzBiYS00MDRhLWE4ODQtYjllZjdlZGVkMmQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "John Walpole",
+            "asCharacter": "Bank Investigator (as Trey Walpole)"
+        },
+        {
+            "id": "nm1853335",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dave Little",
+            "asCharacter": "Veterinarian #1"
+        },
+        {
+            "id": "nm0562641",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julie Mayfield",
+            "asCharacter": "Veterinarian #2"
+        },
+        {
+            "id": "nm1444110",
+            "image": "https://imdb-api.com/images/original/MV5BNWUwMTMwNDItZjM1Yi00YThjLTllMDAtNTY5ZjFhNmY3ZGUwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ben LeClair",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm5378408",
+            "image": "https://imdb-api.com/images/original/MV5BZDhlMDM4MWEtYzI5OS00MGExLTlkMWQtZTg5YjkzMjAyZjk5XkEyXkFqcGdeQXVyMzg0MTUzMjg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gerald Dewey",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm0535714",
+            "image": "https://imdb-api.com/images/original/MV5BMWI4YzM0YTktMmM2ZC00NmI1LTlhN2UtYTNmODJlOTVkYTY4XkEyXkFqcGdeQXVyMjI3NzM0MDQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Leticia Maga\u00f1a",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm5296987",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rebecca Frances",
+            "asCharacter": "The Sampled (as Rebecca Waldon)"
+        },
+        {
+            "id": "nm5183094",
+            "image": "https://imdb-api.com/images/original/MV5BNzE2NTM0OTU0Nl5BMl5BanBnXkFtZTgwODgwNzUyNzE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Lindsey Roberts",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm4808006",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cody Pottkotter",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm5378974",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julie Santosuosso",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm4746349",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Steve Jimenez",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm0914320",
+            "image": "https://imdb-api.com/images/original/MV5BOTE4YTM0NWEtYjczYS00MWNkLWJmYmUtYTBhZTZiYzRhYjYyXkEyXkFqcGdeQXVyMjAwNDcxNg@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jack Watkins",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm2467078",
+            "image": "https://imdb-api.com/images/original/MV5BODdlYzlmZTMtYjlkOC00YWMyLTk4ZDktM2FmNzk4MGEyZmJlXkEyXkFqcGdeQXVyMTMyMDkzMzU@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Ted Ferguson",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm0259074",
+            "image": "https://imdb-api.com/images/original/MV5BMTI2NzkzMjk1OF5BMl5BanBnXkFtZTcwMTgyMDMzMQ@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Juli Erickson",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm2295793",
+            "image": "https://imdb-api.com/images/original/MV5BYTk3ZmM4MDItNzAyNi00MDhhLWI5ZjQtMGVjOWQyMGVhNjliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Karen Jagger",
+            "asCharacter": "The Sampled"
+        },
+        {
+            "id": "nm5378825",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jason Barnes",
+            "asCharacter": "Roth"
+        },
+        {
+            "id": "nm3299636",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wendy Welch",
+            "asCharacter": "Neighbor"
+        },
+        {
+            "id": "nm5393982",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Keith Copeman",
+            "asCharacter": "EMT #1"
+        },
+        {
+            "id": "nm5394924",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nettie Yovanovitch",
+            "asCharacter": "EMT #2"
+        },
+        {
+            "id": "nm4614189",
+            "image": "https://imdb-api.com/images/original/MV5BODUzYWU4ZmItZjc1Yi00ZTc1LWJkMWEtZjZiNWE4MGM5NjU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Driton Tomaj",
+            "asCharacter": "Intern #1 (as Tony Tomaj)"
+        },
+        {
+            "id": "nm4338303",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wheeler Williams",
+            "asCharacter": "Intern #2"
+        },
+        {
+            "id": "nm5393566",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tommy Watson",
+            "asCharacter": "Security Guard"
+        },
+        {
+            "id": "nm5605245",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Cutler",
+            "asCharacter": "Grocery Store Clerk"
+        },
+        {
+            "id": "nm11408027",
+            "image": "https://imdb-api.com/images/original/MV5BMWQyMzk4YzAtNmQ3ZS00MTdlLWE1ODktMDA1ZGU0N2NmZjQ5XkEyXkFqcGdeQXVyMTE0NTAzNjg4._V1_Ratio0.7273_AL_.jpg",
+            "name": "Myles Donte McGee",
+            "asCharacter": "Monty"
+        },
+        {
+            "id": "nm3115195",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Blaine",
+            "asCharacter": "Neighbor (uncredited)"
+        },
+        {
+            "id": "nm4577570",
+            "image": "https://imdb-api.com/images/original/MV5BNDE2Y2U1OTAtMzNlNS00ZDE1LWE4ZmItODdhYThjMDU2MzJkXkEyXkFqcGdeQXVyMTAxNTgzODAx._V1_Ratio1.5000_AL_.jpg",
+            "name": "Joy Leigh",
+            "asCharacter": "Dream Member (uncredited)"
+        },
+        {
+            "id": "nm0589700",
+            "image": "https://imdb-api.com/images/original/MV5BMjlmY2MyYjctMDIwMC00YzI1LTlkZTQtMjhkOThhM2ZhNGU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Mollie Milligan",
+            "asCharacter": "Maggie (uncredited)"
+        },
+        {
+            "id": "nm6956682",
+            "image": "https://imdb-api.com/images/original/MV5BYTEwZWViNTctMjU3Ni00M2ExLTk0OGEtODg5YWE0ZGM2OGVjXkEyXkFqcGdeQXVyNjM4MjQzNjk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gena West",
+            "asCharacter": "Neighbor (uncredited)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt2084989",
+        "title": "Upstream Color",
+        "fullTitle": "Upstream Color (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm1503403",
+                    "name": "Shane Carruth",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm1503403",
+                    "name": "Shane Carruth",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm1541272",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxNzQyNTkyOV5BMl5BanBnXkFtZTgwMTcwMTEyMDE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Amy Seimetz",
+                "asCharacter": "Kris"
+            },
+            {
+                "id": "nm1503403",
+                "image": "https://imdb-api.com/images/original/MV5BNzU5MTYwNTg5NV5BMl5BanBnXkFtZTYwMzkxNTUz._V1_Ratio1.0909_AL_.jpg",
+                "name": "Shane Carruth",
+                "asCharacter": "Jeff"
+            },
+            {
+                "id": "nm2426419",
+                "image": "https://imdb-api.com/images/original/MV5BNDZlZjA3YTItOGM0Mi00ODQ5LWJiMTAtNjY4OTJlYmVjOTc1XkEyXkFqcGdeQXVyMTI2NDIwNDg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Andrew Sensenig",
+                "asCharacter": "The Sampler"
+            },
+            {
+                "id": "nm4264573",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Thiago Martins",
+                "asCharacter": "Thief"
+            },
+            {
+                "id": "nm1970303",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Kathy Carruth",
+                "asCharacter": "Orchid Mother"
+            },
+            {
+                "id": "nm3573550",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Meredith Burke",
+                "asCharacter": "Orchid Daughter"
+            },
+            {
+                "id": "nm5378132",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Andreon Watson",
+                "asCharacter": "Peter"
+            },
+            {
+                "id": "nm4988211",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ashton Miramontes",
+                "asCharacter": "Lucas"
+            },
+            {
+                "id": "nm5379821",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Myles McGee",
+                "asCharacter": "Monty"
+            },
+            {
+                "id": "nm1797014",
+                "image": "https://imdb-api.com/images/original/MV5BZDg5NmY3YzAtMzVmZS00NTMwLTk1NzUtODFiNjJjNDk5OWQ4XkEyXkFqcGdeQXVyNDUwOTIzMg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Frank Mosley",
+                "asCharacter": "Husband"
+            },
+            {
+                "id": "nm4374654",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Carolyn King",
+                "asCharacter": "Wife"
+            },
+            {
+                "id": "nm3598194",
+                "image": "https://imdb-api.com/images/original/MV5BYTM3NDM4NzItZjcxNS00MTM5LTg3ZDYtMmJjMDM0YjI4MzIzXkEyXkFqcGdeQXVyMjM2NTIwNzU@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kerry McCormick",
+                "asCharacter": "OBGYN"
+            },
+            {
+                "id": "nm2649755",
+                "image": "https://imdb-api.com/images/original/MV5BMTU3MTY2Mjg1N15BMl5BanBnXkFtZTgwMTU2MDMzNTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Marco Antonio Rodriguez",
+                "asCharacter": "MRI Tech"
+            },
+            {
+                "id": "nm1754270",
+                "image": "https://imdb-api.com/images/original/MV5BZjM4MGFkYTQtMmZhNC00ZTRlLWIxZDktNmExMTE4NDU5NmJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Brina Palencia",
+                "asCharacter": "Woman in Club"
+            },
+            {
+                "id": "nm3220866",
+                "image": "https://imdb-api.com/images/original/MV5BMWI0MDk2NjItMjkyNi00MTVkLTk3Y2QtMDM4MWU4ZDEwZjljXkEyXkFqcGdeQXVyNjM5NjQyMDY@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Lynn Blackburn",
+                "asCharacter": "HR Manager"
+            },
+            {
+                "id": "nm0909493",
+                "image": "https://imdb-api.com/images/original/MV5BMmZlYWJkMzMtYzBiYS00MDRhLWE4ODQtYjllZjdlZGVkMmQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "John Walpole",
+                "asCharacter": "Bank Investigator (as Trey Walpole)"
+            },
+            {
+                "id": "nm1853335",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Dave Little",
+                "asCharacter": "Veterinarian #1"
+            },
+            {
+                "id": "nm0562641",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Julie Mayfield",
+                "asCharacter": "Veterinarian #2"
+            },
+            {
+                "id": "nm1444110",
+                "image": "https://imdb-api.com/images/original/MV5BNWUwMTMwNDItZjM1Yi00YThjLTllMDAtNTY5ZjFhNmY3ZGUwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ben LeClair",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm5378408",
+                "image": "https://imdb-api.com/images/original/MV5BZDhlMDM4MWEtYzI5OS00MGExLTlkMWQtZTg5YjkzMjAyZjk5XkEyXkFqcGdeQXVyMzg0MTUzMjg@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Gerald Dewey",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm0535714",
+                "image": "https://imdb-api.com/images/original/MV5BMWI4YzM0YTktMmM2ZC00NmI1LTlhN2UtYTNmODJlOTVkYTY4XkEyXkFqcGdeQXVyMjI3NzM0MDQ@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Leticia Maga\u00f1a",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm5296987",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rebecca Frances",
+                "asCharacter": "The Sampled (as Rebecca Waldon)"
+            },
+            {
+                "id": "nm5183094",
+                "image": "https://imdb-api.com/images/original/MV5BNzE2NTM0OTU0Nl5BMl5BanBnXkFtZTgwODgwNzUyNzE@._V1_Ratio1.0000_AL_.jpg",
+                "name": "Lindsey Roberts",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm4808006",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Cody Pottkotter",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm5378974",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Julie Santosuosso",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm4746349",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Steve Jimenez",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm0914320",
+                "image": "https://imdb-api.com/images/original/MV5BOTE4YTM0NWEtYjczYS00MWNkLWJmYmUtYTBhZTZiYzRhYjYyXkEyXkFqcGdeQXVyMjAwNDcxNg@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Jack Watkins",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm2467078",
+                "image": "https://imdb-api.com/images/original/MV5BODdlYzlmZTMtYjlkOC00YWMyLTk4ZDktM2FmNzk4MGEyZmJlXkEyXkFqcGdeQXVyMTMyMDkzMzU@._V1_Ratio1.2273_AL_.jpg",
+                "name": "Ted Ferguson",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm0259074",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2NzkzMjk1OF5BMl5BanBnXkFtZTcwMTgyMDMzMQ@@._V1_Ratio0.8636_AL_.jpg",
+                "name": "Juli Erickson",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm2295793",
+                "image": "https://imdb-api.com/images/original/MV5BYTk3ZmM4MDItNzAyNi00MDhhLWI5ZjQtMGVjOWQyMGVhNjliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Karen Jagger",
+                "asCharacter": "The Sampled"
+            },
+            {
+                "id": "nm5378825",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Jason Barnes",
+                "asCharacter": "Roth"
+            },
+            {
+                "id": "nm3299636",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Wendy Welch",
+                "asCharacter": "Neighbor"
+            },
+            {
+                "id": "nm5393982",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Keith Copeman",
+                "asCharacter": "EMT #1"
+            },
+            {
+                "id": "nm5394924",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Nettie Yovanovitch",
+                "asCharacter": "EMT #2"
+            },
+            {
+                "id": "nm4614189",
+                "image": "https://imdb-api.com/images/original/MV5BODUzYWU4ZmItZjc1Yi00ZTc1LWJkMWEtZjZiNWE4MGM5NjU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Driton Tomaj",
+                "asCharacter": "Intern #1 (as Tony Tomaj)"
+            },
+            {
+                "id": "nm4338303",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Wheeler Williams",
+                "asCharacter": "Intern #2"
+            },
+            {
+                "id": "nm5393566",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Tommy Watson",
+                "asCharacter": "Security Guard"
+            },
+            {
+                "id": "nm5605245",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Joe Cutler",
+                "asCharacter": "Grocery Store Clerk"
+            },
+            {
+                "id": "nm11408027",
+                "image": "https://imdb-api.com/images/original/MV5BMWQyMzk4YzAtNmQ3ZS00MTdlLWE1ODktMDA1ZGU0N2NmZjQ5XkEyXkFqcGdeQXVyMTE0NTAzNjg4._V1_Ratio0.7273_AL_.jpg",
+                "name": "Myles Donte McGee",
+                "asCharacter": "Monty"
+            },
+            {
+                "id": "nm3115195",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "David Blaine",
+                "asCharacter": "Neighbor (uncredited)"
+            },
+            {
+                "id": "nm4577570",
+                "image": "https://imdb-api.com/images/original/MV5BNDE2Y2U1OTAtMzNlNS00ZDE1LWE4ZmItODdhYThjMDU2MzJkXkEyXkFqcGdeQXVyMTAxNTgzODAx._V1_Ratio1.5000_AL_.jpg",
+                "name": "Joy Leigh",
+                "asCharacter": "Dream Member (uncredited)"
+            },
+            {
+                "id": "nm0589700",
+                "image": "https://imdb-api.com/images/original/MV5BMjlmY2MyYjctMDIwMC00YzI1LTlkZTQtMjhkOThhM2ZhNGU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.7727_AL_.jpg",
+                "name": "Mollie Milligan",
+                "asCharacter": "Maggie (uncredited)"
+            },
+            {
+                "id": "nm6956682",
+                "image": "https://imdb-api.com/images/original/MV5BYTEwZWViNTctMjU3Ni00M2ExLTk0OGEtODg5YWE0ZGM2OGVjXkEyXkFqcGdeQXVyNjM4MjQzNjk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Gena West",
+                "asCharacter": "Neighbor (uncredited)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm3573550",
+                        "name": "Meredith Burke",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm1503403",
+                        "name": "Shane Carruth",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm1968523",
+                        "name": "Scott Douglass",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm1503463",
+                        "name": "Casey Gooden",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm5379819",
+                        "name": "Brent Goodman",
+                        "description": "executive producer"
+                    },
+                    {
+                        "id": "nm2021909",
+                        "name": "Toby Halbrooks",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm1444110",
+                        "name": "Ben LeClair",
+                        "description": "producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm1503403",
+                        "name": "Shane Carruth",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1503403",
+                        "name": "Shane Carruth",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm1503403",
+                        "name": "Shane Carruth",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm1108007",
+                        "name": "David Lowery",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm1655560",
+                        "name": "Kina Bale",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm2548464",
+                        "name": "Tom Walker",
+                        "description": "(as Thomas Walker)"
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm5161357",
+                        "name": "Annell Brodeur",
+                        "description": "(Selected Costumes)"
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm1852526",
+                        "name": "Heather Henry",
+                        "description": "special makeup effects artist"
+                    },
+                    {
+                        "id": "nm4542046",
+                        "name": "Jocelyn Lopez",
+                        "description": "additional makeup artist"
+                    },
+                    {
+                        "id": "nm2067164",
+                        "name": "Liz McCracken",
+                        "description": "additional makeup artist"
+                    },
+                    {
+                        "id": "nm5395401",
+                        "name": "Dat Phan",
+                        "description": "hair stylist"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm5380033",
+                        "name": "Darrah Dean Gooden",
+                        "description": "artist: Walden cover art (as Darrah Gooden)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm4052481",
+                        "name": "Chad Chance",
+                        "description": "production sound"
+                    },
+                    {
+                        "id": "nm2425929",
+                        "name": "Mike Gonzalez",
+                        "description": "additional sound"
+                    },
+                    {
+                        "id": "nm0395127",
+                        "name": "Pete Horner",
+                        "description": "sound editor/mixer"
+                    },
+                    {
+                        "id": "nm0550973",
+                        "name": "Johnny Marshall",
+                        "description": "Sound Designer"
+                    },
+                    {
+                        "id": "nm5379953",
+                        "name": "Jon Meyer",
+                        "description": "additional sound"
+                    },
+                    {
+                        "id": "nm5378211",
+                        "name": "Nolan Thies",
+                        "description": "additional sound"
+                    },
+                    {
+                        "id": "nm0395127",
+                        "name": "Pete Horner",
+                        "description": "Re-recording Mixer (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm3277241",
+                        "name": "Bongani Mlambo",
+                        "description": "biological effects"
+                    },
+                    {
+                        "id": "nm4232423",
+                        "name": "Jeff Walker",
+                        "description": "biological effects"
+                    },
+                    {
+                        "id": "nm2548464",
+                        "name": "Tom Walker",
+                        "description": "biological effects supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm4614189",
+                        "name": "Driton Tomaj",
+                        "description": "stunt coordinator (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm1503403",
+                        "name": "Shane Carruth",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm1503463",
+                        "name": "Casey Gooden",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm2622937",
+                        "name": "Hunter Holder",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm3347454",
+                        "name": "Peter Koutsogeorgas",
+                        "description": "camera assistant"
+                    },
+                    {
+                        "id": "nm3277241",
+                        "name": "Bongani Mlambo",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm4232423",
+                        "name": "Jeff Walker",
+                        "description": "camera operator"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm1768992",
+                        "name": "Andrei Constantinescu",
+                        "description": "casting: background talent"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm5378283",
+                        "name": "Lara Gamm",
+                        "description": "post-production assistant (as Lara Christensen)"
+                    },
+                    {
+                        "id": "nm2021909",
+                        "name": "Toby Halbrooks",
+                        "description": "colorist"
+                    },
+                    {
+                        "id": "nm3091070",
+                        "name": "Cameron Bruce Nelson",
+                        "description": "assistant editor"
+                    },
+                    {
+                        "id": "nm3602840",
+                        "name": "Justin Scheidt",
+                        "description": "assistant editor"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm3306616",
+                        "name": "Matthew Aines",
+                        "description": "weapons master (as Matt Aines)"
+                    },
+                    {
+                        "id": "nm5379443",
+                        "name": "Karen Carruth",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm1970303",
+                        "name": "Kathy Carruth",
+                        "description": "craft service"
+                    },
+                    {
+                        "id": "nm3981749",
+                        "name": "Grant Cornelison",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm5378386",
+                        "name": "Arturo Lopez",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm2346080",
+                        "name": "Thomas C. Lumpkin",
+                        "description": "production assistant (as Thomas Lumpkin)"
+                    },
+                    {
+                        "id": "nm3978598",
+                        "name": "Simon N. Pulman",
+                        "description": "distribution legal: Cowan Debaets Abrahams & Sheppard, LLP"
+                    },
+                    {
+                        "id": "nm1946160",
+                        "name": "Dick Saunders",
+                        "description": "weapons master"
+                    },
+                    {
+                        "id": "nm5379947",
+                        "name": "Alex Wilson",
+                        "description": "production assistant"
+                    },
+                    {
+                        "id": "nm1296465",
+                        "name": "Marc H. Simon",
+                        "description": "distribution legal (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Thanks",
+                "items": [
+                    {
+                        "id": "nm1503460",
+                        "name": "John Carruth",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm2831794",
+                        "name": "Erin Gooden",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm5379901",
+                        "name": "Lori Gooden",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm5379068",
+                        "name": "Wayne Gooden",
+                        "description": "very special thanks"
+                    },
+                    {
+                        "id": "nm8062860",
+                        "name": "J Matt Wallace",
+                        "description": "thanks"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama, Sci-Fi",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        },
+        {
+            "key": "Sci-Fi",
+            "value": "Sci-Fi"
+        }
+    ],
+    "companies": "erbp",
+    "companyList": [
+        {
+            "id": "co0403699",
+            "name": "erbp"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "6.7",
+    "imDbRatingVotes": "30043",
+    "metacriticRating": "81",
+    "ratings": {
+        "imDbId": "tt2084989",
+        "title": "Upstream Color",
+        "fullTitle": "Upstream Color (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "imDb": "6.7",
+        "metacritic": "81",
+        "theMovieDb": "6.5",
+        "rottenTomatoes": "86",
+        "tV_com": "",
+        "filmAffinity": "6.2",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt2084989",
+        "title": "Upstream Color",
+        "fullTitle": "Upstream Color (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "language": "en",
+        "titleInLanguage": "Upstream Color",
+        "url": "https://en.wikipedia.org/wiki/Upstream_Color",
+        "plotShort": {
+            "plainText": "Upstream Color\r\nUpstream Color is a 2013 American experimental science fiction film written, directed, produced, and starring Shane Carruth. The film is the second feature directed by Carruth, best known for his 2004 debut Primer. It stars Amy Seimetz, Carruth, Andrew Sensenig, and Thiago Martins.\r\nIn the film, the behaviors of two people are unwittingly affected by a complex parasite that has a three-stage life cycle.",
+            "html": "<h2>Upstream Color</h2><p>Upstream Color is a 2013 American experimental science fiction film written, directed, produced, and starring Shane Carruth. The film is the second feature directed by Carruth, best known for his 2004 debut Primer. It stars Amy Seimetz, Carruth, Andrew Sensenig, and Thiago Martins.</p><p>In the film, the behaviors of two people are unwittingly affected by a complex parasite that has a three-stage life cycle.</p>"
+        },
+        "plotFull": {
+            "plainText": "Upstream Color\r\nUpstream Color is a 2013 American experimental science fiction film written, directed, produced, and starring Shane Carruth. The film is the second feature directed by Carruth, best known for his 2004 debut Primer. It stars Amy Seimetz, Carruth, Andrew Sensenig, and Thiago Martins.\r\nIn the film, the behaviors of two people are unwittingly affected by a complex parasite that has a three-stage life cycle.\r\nPlot\r\nThe film begins with a man (mentioned in the credits as the \"Thief\") who seems to be harvesting a type of larva for the peculiar effects it has on the human mind when ingested.\r\nAt a club, Kris (Amy Seimetz) is tasered and is kidnapped by the Thief. He makes her swallow the larva, which induces a sort of hypnotic susceptibility, which causes an extremely suggestible mental state that the Thief then exploits. He uses an elaborate set of distractions, such as getting her to create a paper chain where each link features a transcription from the book Walden, in order to distract her while performing his mind control. He eventually manipulates her to liquidate her home equity, reveal to him a stash of valuable rare coins and empty her bank account. Through hypnotic suggestion, Kris is prevented from consuming solid foods. She is only allowed to drink small portions of water at regulated intervals, which she is compelled to perceive as extremely refreshing and delicious. Thief eventually releases Kris, who binges ravenously and falls asleep in soiled clothes in her home. She awakens to find several large worms visibly crawling under her skin. She unsuccessfully attempts to remove them by using a kitchen knife.\r\nLater, a pig farmer and avid field recorder\u2014the \"Sampler\"\u2014draws Kris to his farm using infrasonics. The Sampler silently sets up a transfusion through which he transfers a worm from Kris's body into that of a young pig. Kris then awakens in an abandoned SUV on the freeway with no memory of these recent traumatic events. Upon arriving at her disordered house, she quizzically notices blood on her sheets and floors and considers calling the police. She realizes she has no information to tell them and stops dialing. After cleaning up, she heads to work, where she is promptly fired for her unexplained absence. A trip to the grocery store reveals to Kris that her personal funds are gone.\r\nA year later, Kris meets a man named Jeff (Shane Carruth) on a train and connects with him. Kris and Jeff meet several times, before finally spending the night with each other. Afterwards, they realize that they both retain identical stitching scars from the aforementioned, forgotten, transfusions. The two of them soon realize that they both had similar experiences; Jeff lost his job as a broker due to shifting company funds around to cover for money stolen from him and attributed the incident to drug abuse. At the same time, it is made clear to the audience that a parallel exists between the emotions Kris and Jeff have been feeling and two pigs, one of which is the host to Kris's parasite. As an example: Kris mistakenly believes herself to be pregnant at the same time her pig counterpart is actually pregnant. Upon consultation with a doctor, she is diagnosed with having had endometrial cancer that was successfully removed. The supposed cancer, she is told, is no longer a threat to her body, but it has rendered her infertile.\r\nThe Sampler finds that the pig containing Kris's worm has now given birth to piglets. He throws the piglets into a burlap sack and tosses them into a river. This event coincides with Jeff and Kris feeling an extreme sense of loss and frustration, and both act as if something terrible is happening to them; Jeff spontaneously picks a fight with two of his co-workers while Kris frantically searches as if she'd lost something. The two, in their panicked state, reunite and travel to Kris's house, where they gather supplies, including a gun, and make camp in her bathroom's tub, expecting the worst. Meanwhile, the sack of piglets is seen rotting away and a blue substance bursts from the piglets' open wounds, filling the surrounding waters, from which orchids have emerged. The orchids eventually turn the same color blue and are collected by farmers, who sell the plants in the neighborhood where the Thief operates.\r\nThese events seem to mark a change in the state of things. Kris and Jeff begin to remember each other's personal histories as their own. Jeff discovers Kris mumbling the text of Walden while swimming. It is while performing this ritual that Kris comes to sense things that the Sampler has sensed, and it is this moment that the two start to piece together what happened to them both. In a dreamlike sequence, Kris, Jeff, and the Sampler all sit down at the same table in a bare, white room where Kris reveals to the Sampler that she is aware of him; the Sampler collapses from an apparent heart attack. The scene then cuts suddenly to a parallel shot back at the pig farm, where Kris shoots and kills the collapsed Sampler. Kris and Jeff collect a box of written records revealing others who were similarly drugged, and the two summon these other past victims to the farm by sending them copies of Walden. The farm is thereafter remodeled and the pigs are better cared for; as a result, no more pigs are drowned, the orchids in the river no longer turn blue, and the Thief is deprived of the larvae for his drug. The film ends with Kris cradling a baby pig, at peace.\r\nCast\r\nAmy Seimetz as Kris\r\nShane Carruth as Jeff\r\nAndrew Sensenig as Sampler\r\nThiago Martins as Thief\r\nKathy Carruth as Orchid Mother\r\nMeredith Burke as Orchid Daughter\r\nAndreon Watson as Peter\r\nAshton Miramontes as Lucas\r\nMyles McGee as Monty\r\nFrank Mosley as Husband\r\nCarolyn King as Wife\r\nKerry McCormick as OBGYN\r\nMarco Antonio Rodriguez as MRI Tech\r\nBrina Palencia as Woman in Club\r\nLynn Blackburn as HR Manager\r\nJohn Walpole as Bank Investigator\r\nProduction\r\nIn October 2011, it was revealed that Upstream Color would be Carruth's second feature, taking precedence over his science fiction film A Topiary. It was announced that Upstream Color was in the process of casting in Dallas, Texas, in preparation for a forty-day shoot, set to begin in early November 2011 and end in late January 2012.\r\nThemes\r\nIn April 2013, io9.com asked director Shane Carruth if the film's point regarded a return to nature. Carruth replied that the film explored breaking cycles:\r\n\"It's more about what those pigs are now embodying. I mean, there is a break of the cycle. These people that have been affected by this are now taking back ownership of the thing that they\u2019re connected to...I don't believe that narrative works when it's trying to teach a lesson, or speak a factual truth. What it's good for is, an exploration of something that's commonplace and universal \u2014 maybe that's where the truth comes from.\"\r\nRegarding the role of The Sampler, Carruth told io9, \"So the idea that they would find this pig sampler, or this pig-farmer/sampler character, to be the culprit for all of their problems \u2014 when, in reality, we of the audience see, of the three people continuing this life cycle, the thief is definitely malicious, the orchid harvesters are definitely benign. It\u2019s the sampler who is interesting, but not necessarily doing anything wrong. He is an observer. You can make a case for whether or not he's culpable, in being able to benefit from the observation...\" Regarding the peace experienced by Kris at the end of the film, Carruth told io9, \"By that time, we know that she can\u2019t have children. So whatever it is that she is peaceful with there is not going to return the affection she might have for it. It is always going to be that broken state of things, regardless of what that moment is like right then.\"\r\nRelease\r\nThe film premiered on January 21, 2013 at the 2013 Sundance Film Festival, followed by a theatrical release in the United States on April 5, 2013, self-distributed by Carruth. Carruth explained, \"Everything about the choice to do the distribution is about contextualizing\" the movie.\r\nThe film was shown at South by Southwest on March 8, 2013.\r\nReception\r\nCritical response\r\nUpstream Color has received widespread critical acclaim. After its premiere, Keith Kimbell wrote \"most critics couldn't stop talking about it\". Mark Olsen, for the Los Angeles Times, wrote, \"For a time, Upstream Color was trending higher on Twitter than Sundance itself.\" According to Rotten Tomatoes, the film has an 86% approval rating, based on 140 reviews, with an average rating of 7.9/10. The site's critical consensus reads, \"As technically brilliant as it is narratively abstract, Upstream Color represents experimental American cinema at its finest -- and reaffirms Shane Carruth as a talent to watch.\" The film also holds a score of 81 out of 100 on Metacritic, based on 27 reviews, which indicates \"universal acclaim\".\r\nSam Adams of The A.V. Club gave the movie an \"A\" and wrote, \"having the movie wash over me was one of the most transcendent experiences of my moviegoing life\". Adams wrote, \"It's utterly perplexing, and heart-stoppingly beautiful, quite literally overwhelming\", comparing parts of the movie with Terrence Malick's The Tree of Life (2011). That publication later featured a full review by Scott Tobias giving it the same rating, summing up his piece, \"It might be fair to argue that the resonances of Upstream Color are too obscure and internal\u2014many viewers have and will be baffled by it\u2014but it\u2019s the type of art that inspires curiosity and obsession, like some beautiful object whose meaning remains tantalizingly out of reach\". In her review for The New York Times Manohla Dargis also notices Malick's deep influence on Carruth, stating that it is \"evident in Mr. Carruth\u2019s emphasis on the natural world; his use of \"Walden\"; the hushed voices and many images, including some time-lapse photography of a dead pig decaying underwater, which registers as the catastrophic inverse of the time-lapse sequence of a seed sprouting underground in \"Days of Heaven\"\", adding that \"Mr. Malick\u2019s influence also extends to shots of Kris and Jeff walking, whispering and touching that are not moored in a specific time but could be from the past, present or future. In these Malick Moments, time becomes as circular as the rising and setting of the sun.\"\r\nOlsen of the Los Angeles Times wrote, \"With its densely layered, thematically rich storytelling, Upstream Color is in part about the mutual psychosis that can be an essential part of romance, the agreement of a shared madness. It's intense and hypnotically powerful, and a more intimate and moving film than Primer. Color is somehow at once emotionally direct, while narratively abstract.\" A reviewer who enthused about the score wrote that he \"found the film itself to be a messy, story-less, meandering abstract drug trip, but I admire the filmmaker and performances.\"\r\nJeremy Kay of The Guardian thought the film \"a baffling, opaque mess\" and said that it \"contains striking microscopic imagery, cute pigs and alarmingly aggressive foley work. It's meticulous, methodical and educated \u2013 but also extreme, and extremely pretentious\", though his colleague Peter Bradshaw called it a \"flawed, experimental, fascinating film\". Philip French of The Observer said \"The minimal dialogue is gnomic, often inaudible; the settings suddenly change without any apparent consistency of purpose... Upstream Colour has the makings of a cult movie, though it's not a cult I feel inclined to join.\".\r\nWriting for Music Box Theatre 2013 Spring Calendar film critic Mike D'Angelo concludes that \"while Upstream Color has a fair amount of (purely functional) dialogue, it\u2019s essentially a silent film, obsessed not just with color but with texture and movement and rhythm\". He also adds that the \"film is a study of damaged people in which both the damage and the method of recovery has been made productively strange, allowing Carruth to reclaim some potent ideas that have become clich\u00e9s\". D'Angelo further states that the film is \"a dazzling exercise in pure form, with a cinematic syntax that\u2019s confident and exacting yet still feels wildly spontaneous\u2014part Kubrick, part Malick\", concluding that the \"most exciting aspect of Carruth\u2019s movies, though, in the end, may be the immense respect they afford the viewer. Not only does he refuse to spoon-feed, in the tiresome manner of most Hollywood fare (and even a sizable percentage of indie films), but he continually credits you with the intelligence to infer cause from effect, presenting you with B and trusting that you\u2019ll work out A, which remains firmly offscreen, on your own.\"\r\nThe Hollywood Reporter declared that \"Carruth's is a cinema of impressions and technique, not overt meaning\" and gave a positive review: \"The experience of watching the film...is highly visceral and sensuous; the images possess a crystalline clarity that is exquisite, and they're dispersed in rapid rhythmic waves in a way that's especially mesmerizing during this first section.\" In the second third of the film, after Kris and Jeff meet, the film \"veers in the direction of romance in which two people who have presumably been genetically re-engineered attempt to redefine themselves and see what kind of connection they can make with someone else and what that might mean, if anything. They both remember and don't remember things from the past and sometimes argue over whose memory is whose.\"\r\nThe Salt Lake Tribune reviewer wrote that the \"head-scratching science-fiction drama, about people finding themselves connected to each other and a parasite's life cycle, is beautiful to watch and contemplate.\" Reviewer Christopher Kelly, who was among other reviewers reminded of The Tree of Life, described it as \"a puzzlebox narrative involving (among other very strange things) worms that are harvested for psychotropic drugs; a pig farmer who composes music inspired by the emotional anguish of others; and a group of people who have been kidnapped and bilked out of thousands of dollars. All of this unfolds in free-associative fashion, with one scene barely seeming to connect to the next.\" He said that the movie \"floats gorgeously from one passage to the next, building a mounting sense of anxiety and melancholy at each mysterious step along the way.\"\r\nSimilarly, The Miami Herald called it \"a puzzle that may be impossible to solve\", saying that Carruth's \"mesmerizing use of imagery\u2014of textures and sounds, of crisp lighting and radiant natural beauty\u2014has a haunting, lyrical quality reminiscent of Terrence Malick... But he also injects some moments that are so horrific and squirm-inducing, they're downright Cronenbergian. Although its title suggests a sense of direction, Upstream Color defiantly eschews a traditionally linear narrative format; it moves ahead in time but in an elliptical, hypnotic way. And Carruth's rhythmic style of editing draws you in and keeps you hooked even when it may not be entirely clear what you're watching. He's technically meticulous but the results are dreamlike.\"\r\nThe Film School Rejects reviewer gave an A- grade; he praised the film's \"ambitiously big and brave themes\" and the \"finely effective score.\"\r\nThe film review website The Dissolve rated Upstream Color #5 in its list of the top 5 films of 2013.\r\nAwards\r\nAt the 2013 Sundance Film Festival, Upstream Color received the Special Jury Award for Sound Design, which was shared by Carruth, Johnny Marshall, and Pete Horner. The Georgia Film Critics Association nominated Upstream Color for six awards, including Best Picture, Director, Actress, Original Screenplay, Cinematography and Score. In addition to her nomination for Best Actress, Amy Seimetz was also included in the Breakthrough Award category.\r\nMusic\r\nThe soundtrack for the film features music composed by Carruth. It has been described by one reviewer as \"a moving, symphonic and emotional score\".",
+            "html": "<h2>Upstream Color</h2><p>Upstream Color is a 2013 American experimental science fiction film written, directed, produced, and starring Shane Carruth. The film is the second feature directed by Carruth, best known for his 2004 debut Primer. It stars Amy Seimetz, Carruth, Andrew Sensenig, and Thiago Martins.</p><p>In the film, the behaviors of two people are unwittingly affected by a complex parasite that has a three-stage life cycle.</p><br/><h3>Plot</h3><p>The film begins with a man (mentioned in the credits as the \"Thief\") who seems to be harvesting a type of larva for the peculiar effects it has on the human mind when ingested.</p><p>At a club, Kris (Amy Seimetz) is tasered and is kidnapped by the Thief. He makes her swallow the larva, which induces a sort of hypnotic susceptibility, which causes an extremely suggestible mental state that the Thief then exploits. He uses an elaborate set of distractions, such as getting her to create a paper chain where each link features a transcription from the book Walden, in order to distract her while performing his mind control. He eventually manipulates her to liquidate her home equity, reveal to him a stash of valuable rare coins and empty her bank account. Through hypnotic suggestion, Kris is prevented from consuming solid foods. She is only allowed to drink small portions of water at regulated intervals, which she is compelled to perceive as extremely refreshing and delicious. Thief eventually releases Kris, who binges ravenously and falls asleep in soiled clothes in her home. She awakens to find several large worms visibly crawling under her skin. She unsuccessfully attempts to remove them by using a kitchen knife.</p><p>Later, a pig farmer and avid field recorder\u2014the \"Sampler\"\u2014draws Kris to his farm using infrasonics. The Sampler silently sets up a transfusion through which he transfers a worm from Kris's body into that of a young pig. Kris then awakens in an abandoned SUV on the freeway with no memory of these recent traumatic events. Upon arriving at her disordered house, she quizzically notices blood on her sheets and floors and considers calling the police. She realizes she has no information to tell them and stops dialing. After cleaning up, she heads to work, where she is promptly fired for her unexplained absence. A trip to the grocery store reveals to Kris that her personal funds are gone.</p><p>A year later, Kris meets a man named Jeff (Shane Carruth) on a train and connects with him. Kris and Jeff meet several times, before finally spending the night with each other. Afterwards, they realize that they both retain identical stitching scars from the aforementioned, forgotten, transfusions. The two of them soon realize that they both had similar experiences; Jeff lost his job as a broker due to shifting company funds around to cover for money stolen from him and attributed the incident to drug abuse. At the same time, it is made clear to the audience that a parallel exists between the emotions Kris and Jeff have been feeling and two pigs, one of which is the host to Kris's parasite. As an example: Kris mistakenly believes herself to be pregnant at the same time her pig counterpart is actually pregnant. Upon consultation with a doctor, she is diagnosed with having had endometrial cancer that was successfully removed. The supposed cancer, she is told, is no longer a threat to her body, but it has rendered her infertile.</p><p>The Sampler finds that the pig containing Kris's worm has now given birth to piglets. He throws the piglets into a burlap sack and tosses them into a river. This event coincides with Jeff and Kris feeling an extreme sense of loss and frustration, and both act as if something terrible is happening to them; Jeff spontaneously picks a fight with two of his co-workers while Kris frantically searches as if she'd lost something. The two, in their panicked state, reunite and travel to Kris's house, where they gather supplies, including a gun, and make camp in her bathroom's tub, expecting the worst. Meanwhile, the sack of piglets is seen rotting away and a blue substance bursts from the piglets' open wounds, filling the surrounding waters, from which orchids have emerged. The orchids eventually turn the same color blue and are collected by farmers, who sell the plants in the neighborhood where the Thief operates.</p><p>These events seem to mark a change in the state of things. Kris and Jeff begin to remember each other's personal histories as their own. Jeff discovers Kris mumbling the text of Walden while swimming. It is while performing this ritual that Kris comes to sense things that the Sampler has sensed, and it is this moment that the two start to piece together what happened to them both. In a dreamlike sequence, Kris, Jeff, and the Sampler all sit down at the same table in a bare, white room where Kris reveals to the Sampler that she is aware of him; the Sampler collapses from an apparent heart attack. The scene then cuts suddenly to a parallel shot back at the pig farm, where Kris shoots and kills the collapsed Sampler. Kris and Jeff collect a box of written records revealing others who were similarly drugged, and the two summon these other past victims to the farm by sending them copies of Walden. The farm is thereafter remodeled and the pigs are better cared for; as a result, no more pigs are drowned, the orchids in the river no longer turn blue, and the Thief is deprived of the larvae for his drug. The film ends with Kris cradling a baby pig, at peace.</p><br/><h3>Cast</h3><ul><li>Amy Seimetz as Kris</li><li>Shane Carruth as Jeff</li><li>Andrew Sensenig as Sampler</li><li>Thiago Martins as Thief</li><li>Kathy Carruth as Orchid Mother</li><li>Meredith Burke as Orchid Daughter</li><li>Andreon Watson as Peter</li><li>Ashton Miramontes as Lucas</li><li>Myles McGee as Monty</li><li>Frank Mosley as Husband</li><li>Carolyn King as Wife</li><li>Kerry McCormick as OBGYN</li><li>Marco Antonio Rodriguez as MRI Tech</li><li>Brina Palencia as Woman in Club</li><li>Lynn Blackburn as HR Manager</li><li>John Walpole as Bank Investigator</li></ul><br/><h3>Production</h3><p>In October 2011, it was revealed that Upstream Color would be Carruth's second feature, taking precedence over his science fiction film A Topiary. It was announced that Upstream Color was in the process of casting in Dallas, Texas, in preparation for a forty-day shoot, set to begin in early November 2011 and end in late January 2012.</p><br/><h3>Themes</h3><p>In April 2013, io9.com asked director Shane Carruth if the film's point regarded a return to nature. Carruth replied that the film explored breaking cycles:</p><blockquote>\"It's more about what those pigs are now embodying. I mean, there is a break of the cycle. These people that have been affected by this are now taking back ownership of the thing that they\u2019re connected to...I don't believe that narrative works when it's trying to teach a lesson, or speak a factual truth. What it's good for is, an exploration of something that's commonplace and universal \u2014 maybe that's where the truth comes from.\"</blockquote><p>Regarding the role of The Sampler, Carruth told io9, \"So the idea that they would find this pig sampler, or this pig-farmer/sampler character, to be the culprit for all of their problems \u2014 when, in reality, we of the audience see, of the three people continuing this life cycle, the thief is definitely malicious, the orchid harvesters are definitely benign. It\u2019s the sampler who is interesting, but not necessarily doing anything wrong. He is an observer. You can make a case for whether or not he's culpable, in being able to benefit from the observation...\" Regarding the peace experienced by Kris at the end of the film, Carruth told io9, \"By that time, we know that she can\u2019t have children. So whatever it is that she is peaceful with there is not going to return the affection she might have for it. It is always going to be that broken state of things, regardless of what that moment is like right then.\"</p><br/><h3>Release</h3><p>The film premiered on January 21, 2013 at the 2013 Sundance Film Festival, followed by a theatrical release in the United States on April 5, 2013, self-distributed by Carruth. Carruth explained, \"Everything about the choice to do the distribution is about contextualizing\" the movie.</p><p>The film was shown at South by Southwest on March 8, 2013.</p><br/><h3>Reception</h3><h4>Critical response</h4><p>Upstream Color has received widespread critical acclaim. After its premiere, Keith Kimbell wrote \"most critics couldn't stop talking about it\". Mark Olsen, for the Los Angeles Times, wrote, \"For a time, Upstream Color was trending higher on Twitter than Sundance itself.\" According to Rotten Tomatoes, the film has an 86% approval rating, based on 140 reviews, with an average rating of 7.9/10. The site's critical consensus reads, \"As technically brilliant as it is narratively abstract, Upstream Color represents experimental American cinema at its finest -- and reaffirms Shane Carruth as a talent to watch.\" The film also holds a score of 81 out of 100 on Metacritic, based on 27 reviews, which indicates \"universal acclaim\".</p><p>Sam Adams of The A.V. Club gave the movie an \"A\" and wrote, \"having the movie wash over me was one of the most transcendent experiences of my moviegoing life\". Adams wrote, \"It's utterly perplexing, and heart-stoppingly beautiful, quite literally overwhelming\", comparing parts of the movie with Terrence Malick's The Tree of Life (2011). That publication later featured a full review by Scott Tobias giving it the same rating, summing up his piece, \"It might be fair to argue that the resonances of Upstream Color are too obscure and internal\u2014many viewers have and will be baffled by it\u2014but it\u2019s the type of art that inspires curiosity and obsession, like some beautiful object whose meaning remains tantalizingly out of reach\". In her review for The New York Times Manohla Dargis also notices Malick's deep influence on Carruth, stating that it is \"evident in Mr. Carruth\u2019s emphasis on the natural world; his use of \"Walden\"; the hushed voices and many images, including some time-lapse photography of a dead pig decaying underwater, which registers as the catastrophic inverse of the time-lapse sequence of a seed sprouting underground in \"Days of Heaven\"\", adding that \"Mr. Malick\u2019s influence also extends to shots of Kris and Jeff walking, whispering and touching that are not moored in a specific time but could be from the past, present or future. In these Malick Moments, time becomes as circular as the rising and setting of the sun.\"</p><p>Olsen of the Los Angeles Times wrote, \"With its densely layered, thematically rich storytelling, Upstream Color is in part about the mutual psychosis that can be an essential part of romance, the agreement of a shared madness. It's intense and hypnotically powerful, and a more intimate and moving film than Primer. Color is somehow at once emotionally direct, while narratively abstract.\" A reviewer who enthused about the score wrote that he \"found the film itself to be a messy, story-less, meandering abstract drug trip, but I admire the filmmaker and performances.\"</p><p>Jeremy Kay of The Guardian thought the film \"a baffling, opaque mess\" and said that it \"contains striking microscopic imagery, cute pigs and alarmingly aggressive foley work. It's meticulous, methodical and educated \u2013 but also extreme, and extremely pretentious\", though his colleague Peter Bradshaw called it a \"flawed, experimental, fascinating film\". Philip French of The Observer said \"The minimal dialogue is gnomic, often inaudible; the settings suddenly change without any apparent consistency of purpose... Upstream Colour has the makings of a cult movie, though it's not a cult I feel inclined to join.\".</p><p>Writing for Music Box Theatre 2013 Spring Calendar film critic Mike D'Angelo concludes that \"while Upstream Color has a fair amount of (purely functional) dialogue, it\u2019s essentially a silent film, obsessed not just with color but with texture and movement and rhythm\". He also adds that the \"film is a study of damaged people in which both the damage and the method of recovery has been made productively strange, allowing Carruth to reclaim some potent ideas that have become clich\u00e9s\". D'Angelo further states that the film is \"a dazzling exercise in pure form, with a cinematic syntax that\u2019s confident and exacting yet still feels wildly spontaneous\u2014part Kubrick, part Malick\", concluding that the \"most exciting aspect of Carruth\u2019s movies, though, in the end, may be the immense respect they afford the viewer. Not only does he refuse to spoon-feed, in the tiresome manner of most Hollywood fare (and even a sizable percentage of indie films), but he continually credits you with the intelligence to infer cause from effect, presenting you with B and trusting that you\u2019ll work out A, which remains firmly offscreen, on your own.\"</p><p>The Hollywood Reporter declared that \"Carruth's is a cinema of impressions and technique, not overt meaning\" and gave a positive review: \"The experience of watching the film...is highly visceral and sensuous; the images possess a crystalline clarity that is exquisite, and they're dispersed in rapid rhythmic waves in a way that's especially mesmerizing during this first section.\" In the second third of the film, after Kris and Jeff meet, the film \"veers in the direction of romance in which two people who have presumably been genetically re-engineered attempt to redefine themselves and see what kind of connection they can make with someone else and what that might mean, if anything. They both remember and don't remember things from the past and sometimes argue over whose memory is whose.\"</p><p>The Salt Lake Tribune reviewer wrote that the \"head-scratching science-fiction drama, about people finding themselves connected to each other and a parasite's life cycle, is beautiful to watch and contemplate.\" Reviewer Christopher Kelly, who was among other reviewers reminded of The Tree of Life, described it as \"a puzzlebox narrative involving (among other very strange things) worms that are harvested for psychotropic drugs; a pig farmer who composes music inspired by the emotional anguish of others; and a group of people who have been kidnapped and bilked out of thousands of dollars. All of this unfolds in free-associative fashion, with one scene barely seeming to connect to the next.\" He said that the movie \"floats gorgeously from one passage to the next, building a mounting sense of anxiety and melancholy at each mysterious step along the way.\"</p><p>Similarly, The Miami Herald called it \"a puzzle that may be impossible to solve\", saying that Carruth's \"mesmerizing use of imagery\u2014of textures and sounds, of crisp lighting and radiant natural beauty\u2014has a haunting, lyrical quality reminiscent of Terrence Malick... But he also injects some moments that are so horrific and squirm-inducing, they're downright Cronenbergian. Although its title suggests a sense of direction, Upstream Color defiantly eschews a traditionally linear narrative format; it moves ahead in time but in an elliptical, hypnotic way. And Carruth's rhythmic style of editing draws you in and keeps you hooked even when it may not be entirely clear what you're watching. He's technically meticulous but the results are dreamlike.\"</p><p>The Film School Rejects reviewer gave an A- grade; he praised the film's \"ambitiously big and brave themes\" and the \"finely effective score.\"</p><p>The film review website The Dissolve rated Upstream Color #5 in its list of the top 5 films of 2013.</p><h4>Awards</h4><p>At the 2013 Sundance Film Festival, Upstream Color received the Special Jury Award for Sound Design, which was shared by Carruth, Johnny Marshall, and Pete Horner. The Georgia Film Critics Association nominated Upstream Color for six awards, including Best Picture, Director, Actress, Original Screenplay, Cinematography and Score. In addition to her nomination for Best Actress, Amy Seimetz was also included in the Breakthrough Award category.</p><br/><h3>Music</h3><p>The soundtrack for the film features music composed by Carruth. It has been described by one reviewer as \"a moving, symphonic and emotional score\".</p><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt2084989",
+        "title": "Upstream Color",
+        "fullTitle": "Upstream Color (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "posters": [
+            {
+                "id": "ipjuf2iNjMY39aBRh01uRdy3PCR.jpg",
+                "link": "https://imdb-api.com/posters/original/ipjuf2iNjMY39aBRh01uRdy3PCR.jpg",
+                "aspectRatio": 0.6738056013179572,
+                "language": "en",
+                "width": 818,
+                "height": 1214
+            },
+            {
+                "id": "nkUl1D1KbqW5ux9cAbSxU5f7hOy.jpg",
+                "link": "https://imdb-api.com/posters/original/nkUl1D1KbqW5ux9cAbSxU5f7hOy.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2084989",
+        "title": "Upstream Color",
+        "fullTitle": "Upstream Color (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "items": [
+            {
+                "title": "Amy Seimetz in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NDUzODAwN15BMl5BanBnXkFtZTcwNjM1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Shane Carruth in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNTI4MTg3OTM2Nl5BMl5BanBnXkFtZTcwNzM1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNjM4MTAzOTM3Nl5BMl5BanBnXkFtZTcwOTM1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Shane Carruth in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4NjAzODY2Ml5BMl5BanBnXkFtZTcwMDQ1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwOTk0NTk4NV5BMl5BanBnXkFtZTcwMTQ1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4NTU5NTM4NF5BMl5BanBnXkFtZTcwMjQ1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Shane Carruth in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BODA0Mjc1OTE1MV5BMl5BanBnXkFtZTcwMzQ1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Amy Seimetz in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4OTYxMzQxN15BMl5BanBnXkFtZTcwNDQ1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Amy Seimetz in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4MjUxNjUyOV5BMl5BanBnXkFtZTcwNTQ1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Andrew Sensenig in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyNDYwNTMwOV5BMl5BanBnXkFtZTcwNjQ1OTkyOQ@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Shane Carruth and Amy Seimetz in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1MDQ1MzQ0OF5BMl5BanBnXkFtZTcwMzAxMTY4OA@@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2MzQ2MzA2OF5BMl5BanBnXkFtZTcwNDAxMTY4OA@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Shane Carruth and Amy Seimetz in Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkyNDQzMDU2MV5BMl5BanBnXkFtZTcwNTAxMTY4OA@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Shane Carruth and Casey Gooden at an event for Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNzM2MjY5MzQ0M15BMl5BanBnXkFtZTcwNTU2Nzk5OA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzMzQ4MDAyNF5BMl5BanBnXkFtZTcwNzE0MDk3OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyOGU5NmItNGU1MS00ZGI5LWI4NjItOWIxYzdjZGNlYzZiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMDg5ZmFhMTQtYWUwYy00OGFjLTk3MmMtYWY1Y2MxMWY2OGI0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNWRmMjNhZjItZjEyOC00ODkzLWJmMzAtNGViMWU0NGVlNzMxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYjFmMGYyOTUtYzk1Yy00MjRmLWE4NmQtNjZhMjM5Yzk0YTI0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNGY3MzRlYjYtZThhMy00Yzc4LWI0NmQtOTYyODVlYTI3ZGJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMmZkN2U0OGYtMWQ1Mi00MjNkLTgxMzQtYjAzNzU4YmM2ZmUyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZmY4Yzg5ODUtNDNiNi00ZjRiLTkwOGEtNjEzYjY4YTAyNGUzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BOWYxNjRlYmUtOWVlMS00NGFlLTgxYzgtNGU5YWY0MTlmZmFhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNmE3NTg5MWMtYWYyNi00Y2FlLWI0NmEtMDllMTZhNzhhOGY4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzZWI1MzItZjE3OC00OTM2LWJkZGItZDUzYWQ3MWJiZDcwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMGE2NTMyYjYtOWM5Ni00MjAzLWEwYjItMDYyMTAxMTRkNGUzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYTEwMmM5NDktNjI5Mi00NjdhLWE1Y2QtZTc5ZWJiNzc1ODE4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZmYzMDYzNjItNTQxZC00YTM1LTlhZjAtMTliNmEyYTY5MWIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA5ZWRkMjAtNTljMC00NGI3LTgwOTktNzgyMmNhNWJlMTY1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZjMyZDIyNGEtZjljYS00NjA1LTk2ODUtY2IxYzYwZTFmZDVkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMmI0MmNkNGEtZDhhZS00NTU2LWI1NzQtMTA3ZTc2ZWM0MzNjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMWI0NzcwMDUtOGVmMy00MTUwLWJkNzktYTU5ZDk0ZDI1OWI5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZjRiYjJjZDMtOGM4NS00YWE5LTk5N2ItZDQ1YzVkMDA0MmUxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNmZlOGMzZDQtNzhlOS00ODBlLTkzY2UtNTEzMzE1YTM1YzI3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNmYyMTQ2NDktMWYzNy00ZDBjLWJkZTktODZjMDVkMjdiNjE4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BY2QxYjliMDgtZjI5MS00NTcxLTlmMmMtYzFiMTAwYWRmMGUyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BZmZmYzVkYzQtZmU1MC00OGY3LWExNjctOTgyMmZmZTRlYTZmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMDI3MWVkNTMtZTMxZi00MThjLWE3YzMtMmViMWE0NDI0ZTIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMDkwMGNlZGEtNjVlMC00Zjk2LWEzZjQtOWUxZjY0YmNiOWMxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM0MjRmMDctZGMzOS00MGI4LWE2ZmQtYjQ5MDJmN2M4MDRiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMzczNTAyNTQtZjdkMS00ZTZiLWI5NWUtNmE3ZDdmOTFjNzE1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYjhkY2EzZjMtZDZkMi00ZGViLWIyY2ItN2NjZGZiMzZiZDA4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BYTk4ZjA2NjItMDY3MC00MjAwLWFlNGItZWVlY2IwMDdjODUzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNDNhNDI5MjUtNDhhZC00MWY0LWIyOGMtNzRlNDQ3ZWQ0Y2ZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNjllYTg5ZWQtODZiYy00ODYzLWFjZDgtNDY3NGEwMDc0M2ZlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BNmUzZjRlMTctZmVlYi00MTc3LWJlYjItOWY1YTZkNGIyMzZiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMmJkMjU1NDctYWE1MC00MzhlLWFhZWItYjdkNDk1NWFmZjg2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Upstream Color (2013)",
+                "image": "https://imdb-api.com/images/original/MV5BMWQwYjU0NmQtNTBmOC00NzliLTkzOWQtYjY1ZTZlODIyNWQwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.3400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt2084989",
+        "title": "Upstream Color",
+        "fullTitle": "Upstream Color (2013)",
+        "type": "Movie",
+        "year": "2013",
+        "videoId": "vi3090851609",
+        "videoTitle": "U.S. Version #3",
+        "videoDescription": "A man and woman are drawn together, entangled in the life cycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzU2MTE3NTMwNl5BMl5BanBnXkFtZTcwNzY5ODY5OA@@._V1_.jpg",
+        "uploadDate": "01/17/2013 08:28:49",
+        "link": "https://www.imdb.com/video/vi3090851609",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3090851609/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$50,000 (estimated)",
+        "openingWeekendUSA": "$28,649, 7 April 2013",
+        "grossUSA": "$444,098",
+        "cumulativeWorldwideGross": "$587,174"
+    },
+    "tagline": "",
+    "keywords": "underwater scene,blue orchid,psychological thriller,very little dialogue,caterpillar",
+    "keywordList": [
+        "underwater scene",
+        "blue orchid",
+        "psychological thriller",
+        "very little dialogue",
+        "caterpillar"
+    ],
+    "similars": [
+        {
+            "id": "tt0390384",
+            "title": "Primer",
+            "fullTitle": "Primer (2004)",
+            "year": "2004",
+            "image": "https://imdb-api.com/images/original/MV5BNjc3OWVjMTItYjc0Yi00NmFlLTk2YTgtYmU0MzcxMjBkNTYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.",
+            "directors": "Shane Carruth",
+            "stars": "Shane Carruth, David Sullivan, Casey Gooden",
+            "genres": "Drama, Sci-Fi, Thriller",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt1441395",
+            "title": "Under the Skin",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+            "directors": "Jonathan Glazer",
+            "stars": "Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay",
+            "genres": "Drama, Horror, Sci-Fi",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt0383028",
+            "title": "Synecdoche, New York",
+            "fullTitle": "Synecdoche, New York (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A theatre director struggles with his work, and the women in his life, as he creates a life-size replica of New York City inside a warehouse as part of his new play.",
+            "directors": "Charlie Kaufman",
+            "stars": "Philip Seymour Hoffman, Samantha Morton, Michelle Williams",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt2401878",
+            "title": "Anomalisa",
+            "fullTitle": "Anomalisa (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMTkyMzI2MzQ1N15BMl5BanBnXkFtZTgwNDg0MzQxNzE@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A man crippled by the mundanity of his life experiences something out of the ordinary.",
+            "directors": "Directors: Duke Johnson, Charlie Kaufman",
+            "stars": "David Thewlis, Jennifer Jason Leigh, Tom Noonan",
+            "genres": "Animation, Comedy, Drama",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt2866360",
+            "title": "Coherence",
+            "fullTitle": "Coherence (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BNzQ3ODUzNDY2M15BMl5BanBnXkFtZTgwNzg0ODY2MTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.",
+            "directors": "James Ward Byrkit",
+            "stars": "Emily Baldoni, Maury Sterling, Nicholas Brendon",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0480669",
+            "title": "Timecrimes",
+            "fullTitle": "Timecrimes (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMmZjYTYwNzYtNTdhYi00MDQzLTk1NTYtNDlhYzQwYWEzMjk2XkEyXkFqcGdeQXVyNzUzMDExNTI@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.",
+            "directors": "Nacho Vigalondo",
+            "stars": "Karra Elejalde, Candela Fern\u00e1ndez, B\u00e1rbara Goenaga",
+            "genres": "Horror, Mystery, Sci-Fi",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt2076220",
+            "title": "Holy Motors",
+            "fullTitle": "Holy Motors (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "From dawn to dusk, a few hours in the shadowy life of a mystic man named Monsieur Oscar.",
+            "directors": "Leos Carax",
+            "stars": "Denis Lavant, Edith Scob, Eva Mendes",
+            "genres": "Drama, Fantasy",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt1191111",
+            "title": "Enter the Void",
+            "fullTitle": "Enter the Void (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMGQwMWRmODEtYzYwMy00MzFiLWJhYWUtNWNkNWM0NWZhODBiXkEyXkFqcGdeQXVyNjQyMjcwNDM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
+            "directors": "Gaspar No\u00e9",
+            "stars": "Nathaniel Brown, Paz de la Huerta, Cyril Roy",
+            "genres": "Drama, Fantasy",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0138704",
+            "title": "Pi",
+            "fullTitle": "Pi (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BMjYzNTA4YzItYTQ2Yy00NDQwLWI2OGItN2JmMjZhZTVhMzI5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.",
+            "directors": "Darren Aronofsky",
+            "stars": "Sean Gullette, Mark Margolis, Ben Shenkman",
+            "genres": "Drama, Horror, Mystery",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt6788942",
+            "title": "Bad Genius",
+            "fullTitle": "Bad Genius (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMzMxMTFlMDYtNjIyNS00YzQ4LWJlMDAtNGQwY2RlZGJiMmM1XkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "Lynn, a genius high school student who makes money by cheating tests, receives a new task that leads her to set foot on Sydney, Australia. In order to complete the millions-Baht task, Lynn and her classmates have to finish the international STIC(SAT) exam and deliver the answers back to her friends in Thailand before the exam takes place once again in her home country.",
+            "directors": "Nattawut Poonpiriya",
+            "stars": "Chutimon Chuengcharoensukying, Eisaya Hosuwan, Teeradon Supapunpinyo",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt5691670",
+            "title": "Under the Silver Lake",
+            "fullTitle": "Under the Silver Lake (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BYjY0NTA5MGItNDU1Yy00ZmE3LWI5NGItZDY5OGUxZjYzZGQ5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Sam, a disenchanted young man, finds a mysterious woman swimming in his apartment's pool one night. The next morning, she disappears. Sam sets off across LA to find her, and along the way he uncovers a conspiracy far more bizarre.",
+            "directors": "David Robert Mitchell",
+            "stars": "Andrew Garfield, Riley Keough, Topher Grace",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt8652728",
+            "title": "Waves",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMWE2OTdiY2MtM2ViNy00NmExLWIxZjYtYTVkNGJkNzgwYjVmXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Traces the journey of a suburban family - led by a well-intentioned but domineering father - as they navigate love, forgiveness, and coming together in the aftermath of a loss.",
+            "directors": "Trey Edward Shults",
+            "stars": "Taylor Russell, Kelvin Harrison Jr., Alexa Demie",
+            "genres": "Drama, Romance, Sport",
+            "imDbRating": "7.6"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
