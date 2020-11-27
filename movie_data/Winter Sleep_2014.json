@@ -1,0 +1,979 @@
+{
+    "id": "tt2758880",
+    "title": "Winter Sleep",
+    "originalTitle": "Kis Uykusu",
+    "fullTitle": "Winter Sleep (2014)",
+    "type": "Movie",
+    "year": "2014",
+    "image": "https://imdb-api.com/images/original/MV5BNTU1NTY2Mzg5M15BMl5BanBnXkFtZTgwNDcwNjM5MTE@._V1_Ratio0.7313_AL_.jpg",
+    "releaseDate": "2014-06-12",
+    "runtimeMins": "196",
+    "runtimeStr": "3h 16mins",
+    "plot": "Aydin, a former actor, runs a small hotel in central Anatolia with his young wife Nihal with whom he has a stormy relationship and his sister Necla who is suffering from her recent divorce. In winter as the snow begins to fall, the hotel turns into a shelter but also an inescapable place that fuels their animosities...",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #243 | 19 wins & 31 nominations.",
+    "directors": "Nuri Bilge Ceylan",
+    "directorList": [
+        {
+            "id": "nm0149196",
+            "name": "Nuri Bilge Ceylan"
+        }
+    ],
+    "writers": "Ebru Ceylan, Nuri Bilge Ceylan, Anton Chekhov",
+    "writerList": [
+        {
+            "id": "nm0946324",
+            "name": "Ebru Ceylan"
+        },
+        {
+            "id": "nm0149196",
+            "name": "Nuri Bilge Ceylan"
+        },
+        {
+            "id": "nm0155009",
+            "name": "Anton Chekhov"
+        }
+    ],
+    "stars": "Haluk Bilginer, Melisa S\u00f6zen, Demet Akbag, Ayberk Pekcan",
+    "starList": [
+        {
+            "id": "nm0082211",
+            "name": "Haluk Bilginer"
+        },
+        {
+            "id": "nm1489950",
+            "name": "Melisa S\u00f6zen"
+        },
+        {
+            "id": "nm0015130",
+            "name": "Demet Akbag"
+        },
+        {
+            "id": "nm3499207",
+            "name": "Ayberk Pekcan"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0082211",
+            "image": "https://imdb-api.com/images/original/MV5BY2U3NDIwMzUtMDFkNC00ZDM1LWE5ODctMTNhMjMzZjRhNDI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Haluk Bilginer",
+            "asCharacter": "Aydin"
+        },
+        {
+            "id": "nm1489950",
+            "image": "https://imdb-api.com/images/original/MV5BOTZhNDkxNTktYTRlNS00ZGUwLWJlZGEtOWYyNzM1MDIwMmI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Melisa S\u00f6zen",
+            "asCharacter": "Nihal"
+        },
+        {
+            "id": "nm0015130",
+            "image": "https://imdb-api.com/images/original/MV5BMjQ3OTMyNTM2M15BMl5BanBnXkFtZTgwODA1OTE4MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Demet Akbag",
+            "asCharacter": "Necla"
+        },
+        {
+            "id": "nm3499207",
+            "image": "https://imdb-api.com/images/original/MV5BOGRjZmQxMDctNTRmYi00YzJkLTg1MGYtYmVhMzM2YzY2MTVkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Ayberk Pekcan",
+            "asCharacter": "Sofor Hidayet (Hidayet the chauffeur)"
+        },
+        {
+            "id": "nm2565069",
+            "image": "https://imdb-api.com/images/original/MV5BNDBjOTgzZjAtOGQwYi00NTEyLWJlYzMtOGFhMzQ0ZDZhNTc2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Serhat Mustafa Kili\u00e7",
+            "asCharacter": "Hamdi (as Serhat Kili\u00e7)"
+        },
+        {
+            "id": "nm1625479",
+            "image": "https://imdb-api.com/images/original/MV5BMjM0NDEwNTEzM15BMl5BanBnXkFtZTgwNjY4Mjk3MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nejat Isler",
+            "asCharacter": "Ismail"
+        },
+        {
+            "id": "nm2416236",
+            "image": "https://imdb-api.com/images/original/MV5BZDUwYzM1ZjktODQ5ZC00ZjA5LThiZWMtMzg1ZDQ3MjE5YjBiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Tamer Levent",
+            "asCharacter": "Suavi"
+        },
+        {
+            "id": "nm3312754",
+            "image": "https://imdb-api.com/images/original/MV5BZmY1OGM3MTUtYzhjOC00NmE0LThmZWYtMzU1ZjQwZjNmZjU0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nadir Saribacak",
+            "asCharacter": "Ogretmen Levent (Levent the teacher)"
+        },
+        {
+            "id": "nm1734873",
+            "image": "https://imdb-api.com/images/original/MV5BMDExODZkOWItNGQ1MS00MzZjLTk2YzctNGE4ZTYxYTg2YWZhXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mehmet Ali Nuroglu",
+            "asCharacter": "Ogretmen Musterisi Timur (Timur, the teacher guest)"
+        },
+        {
+            "id": "nm6461087",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzMjIxNTMwNl5BMl5BanBnXkFtZTgwMjA0MjU4MzE@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Emirhan Doruktutan",
+            "asCharacter": "Ilyas"
+        },
+        {
+            "id": "nm6461088",
+            "image": "https://imdb-api.com/images/original/MV5BNTZlMmExYTQtYTI0NC00OWNhLWIxYmQtZTM5ZTY0Mzk0MDc1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Ekrem Ilhan",
+            "asCharacter": "Atci Ekrem"
+        },
+        {
+            "id": "nm6461089",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rabia \u00d6zel",
+            "asCharacter": "Fatma"
+        },
+        {
+            "id": "nm6461090",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fatma Deniz Yildiz",
+            "asCharacter": "Sevda"
+        },
+        {
+            "id": "nm7798496",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Masaki Murao",
+            "asCharacter": "Japanese Tourist Erkek"
+        },
+        {
+            "id": "nm7798497",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Junko Yokomizo",
+            "asCharacter": "Japanese Tourist Kadin"
+        },
+        {
+            "id": "nm3328097",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "G\u00fclsen \u00d6zbakan",
+            "asCharacter": "Hamdi Anne (as Gulsen Ozbakan)"
+        },
+        {
+            "id": "nm7175347",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "\u00d6zlem Erol",
+            "asCharacter": "Aydin Hizmetci (Aydin's maid) (as Ozlem Erol)"
+        },
+        {
+            "id": "nm7798499",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "G\u00fcler Kili\u00e7",
+            "asCharacter": "Suavi Hizmetci (as Guler Kilic)"
+        },
+        {
+            "id": "nm7798500",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ali Kocaaslan",
+            "asCharacter": "Istasyon Gorevlisi (Station Officer)"
+        },
+        {
+            "id": "nm7798501",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hidir Kilic",
+            "asCharacter": "Istasyondasi Adam (Adam at the station)"
+        },
+        {
+            "id": "nm7798502",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ali Kemer",
+            "asCharacter": "Inkici Atci"
+        },
+        {
+            "id": "nm7798503",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mehmet T\u00fcrke",
+            "asCharacter": "Konuk 1 (Guest 1) (as Mehmet Turke Sisik)"
+        },
+        {
+            "id": "nm7798504",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "\u00d6zcan G\u00f6r\u00fcrg\u00f6z",
+            "asCharacter": "Konuk 2 (Guest 2) (as Ozcan Gorurgoz)"
+        },
+        {
+            "id": "nm7798505",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Merve Uzul",
+            "asCharacter": "Konuk 3 (Guest 3)"
+        },
+        {
+            "id": "nm7798506",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "\u00d6zge \u00d6nderoglu Akkaya",
+            "asCharacter": "Konuk 4 (Guest 4) (as Ozge Onderoglu Akkaya)"
+        },
+        {
+            "id": "nm7798507",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hasan Kalci",
+            "asCharacter": "Konuk 5 (Guest 5)"
+        },
+        {
+            "id": "nm7798508",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vahdi \u00d6lmez",
+            "asCharacter": "Konuk 6 (Guest 8) (as Vahdi Olmez)"
+        },
+        {
+            "id": "nm3715868",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gamze Kus",
+            "asCharacter": "Konuk 7 (Guest 7)"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt2758880",
+        "title": "Winter Sleep",
+        "fullTitle": "Winter Sleep (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0149196",
+                    "name": "Nuri Bilge Ceylan",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0946324",
+                    "name": "Ebru Ceylan",
+                    "description": ""
+                },
+                {
+                    "id": "nm0149196",
+                    "name": "Nuri Bilge Ceylan",
+                    "description": ""
+                },
+                {
+                    "id": "nm0155009",
+                    "name": "Anton Chekhov",
+                    "description": "(inspired from short stories by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0082211",
+                "image": "https://imdb-api.com/images/original/MV5BY2U3NDIwMzUtMDFkNC00ZDM1LWE5ODctMTNhMjMzZjRhNDI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.3182_AL_.jpg",
+                "name": "Haluk Bilginer",
+                "asCharacter": "Aydin"
+            },
+            {
+                "id": "nm1489950",
+                "image": "https://imdb-api.com/images/original/MV5BOTZhNDkxNTktYTRlNS00ZGUwLWJlZGEtOWYyNzM1MDIwMmI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Melisa S\u00f6zen",
+                "asCharacter": "Nihal"
+            },
+            {
+                "id": "nm0015130",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ3OTMyNTM2M15BMl5BanBnXkFtZTgwODA1OTE4MTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Demet Akbag",
+                "asCharacter": "Necla"
+            },
+            {
+                "id": "nm3499207",
+                "image": "https://imdb-api.com/images/original/MV5BOGRjZmQxMDctNTRmYi00YzJkLTg1MGYtYmVhMzM2YzY2MTVkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Ayberk Pekcan",
+                "asCharacter": "Sofor Hidayet (Hidayet the chauffeur)"
+            },
+            {
+                "id": "nm2565069",
+                "image": "https://imdb-api.com/images/original/MV5BNDBjOTgzZjAtOGQwYi00NTEyLWJlYzMtOGFhMzQ0ZDZhNTc2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Serhat Mustafa Kili\u00e7",
+                "asCharacter": "Hamdi (as Serhat Kili\u00e7)"
+            },
+            {
+                "id": "nm1625479",
+                "image": "https://imdb-api.com/images/original/MV5BMjM0NDEwNTEzM15BMl5BanBnXkFtZTgwNjY4Mjk3MTE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Nejat Isler",
+                "asCharacter": "Ismail"
+            },
+            {
+                "id": "nm2416236",
+                "image": "https://imdb-api.com/images/original/MV5BZDUwYzM1ZjktODQ5ZC00ZjA5LThiZWMtMzg1ZDQ3MjE5YjBiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Tamer Levent",
+                "asCharacter": "Suavi"
+            },
+            {
+                "id": "nm3312754",
+                "image": "https://imdb-api.com/images/original/MV5BZmY1OGM3MTUtYzhjOC00NmE0LThmZWYtMzU1ZjQwZjNmZjU0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Nadir Saribacak",
+                "asCharacter": "Ogretmen Levent (Levent the teacher)"
+            },
+            {
+                "id": "nm1734873",
+                "image": "https://imdb-api.com/images/original/MV5BMDExODZkOWItNGQ1MS00MzZjLTk2YzctNGE4ZTYxYTg2YWZhXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Mehmet Ali Nuroglu",
+                "asCharacter": "Ogretmen Musterisi Timur (Timur, the teacher guest)"
+            },
+            {
+                "id": "nm6461087",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzMjIxNTMwNl5BMl5BanBnXkFtZTgwMjA0MjU4MzE@._V1_Ratio2.3182_AL_.jpg",
+                "name": "Emirhan Doruktutan",
+                "asCharacter": "Ilyas"
+            },
+            {
+                "id": "nm6461088",
+                "image": "https://imdb-api.com/images/original/MV5BNTZlMmExYTQtYTI0NC00OWNhLWIxYmQtZTM5ZTY0Mzk0MDc1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+                "name": "Ekrem Ilhan",
+                "asCharacter": "Atci Ekrem"
+            },
+            {
+                "id": "nm6461089",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Rabia \u00d6zel",
+                "asCharacter": "Fatma"
+            },
+            {
+                "id": "nm6461090",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Fatma Deniz Yildiz",
+                "asCharacter": "Sevda"
+            },
+            {
+                "id": "nm7798496",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Masaki Murao",
+                "asCharacter": "Japanese Tourist Erkek"
+            },
+            {
+                "id": "nm7798497",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Junko Yokomizo",
+                "asCharacter": "Japanese Tourist Kadin"
+            },
+            {
+                "id": "nm3328097",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "G\u00fclsen \u00d6zbakan",
+                "asCharacter": "Hamdi Anne (as Gulsen Ozbakan)"
+            },
+            {
+                "id": "nm7175347",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "\u00d6zlem Erol",
+                "asCharacter": "Aydin Hizmetci (Aydin's maid) (as Ozlem Erol)"
+            },
+            {
+                "id": "nm7798499",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "G\u00fcler Kili\u00e7",
+                "asCharacter": "Suavi Hizmetci (as Guler Kilic)"
+            },
+            {
+                "id": "nm7798500",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ali Kocaaslan",
+                "asCharacter": "Istasyon Gorevlisi (Station Officer)"
+            },
+            {
+                "id": "nm7798501",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hidir Kilic",
+                "asCharacter": "Istasyondasi Adam (Adam at the station)"
+            },
+            {
+                "id": "nm7798502",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Ali Kemer",
+                "asCharacter": "Inkici Atci"
+            },
+            {
+                "id": "nm7798503",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Mehmet T\u00fcrke",
+                "asCharacter": "Konuk 1 (Guest 1) (as Mehmet Turke Sisik)"
+            },
+            {
+                "id": "nm7798504",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "\u00d6zcan G\u00f6r\u00fcrg\u00f6z",
+                "asCharacter": "Konuk 2 (Guest 2) (as Ozcan Gorurgoz)"
+            },
+            {
+                "id": "nm7798505",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Merve Uzul",
+                "asCharacter": "Konuk 3 (Guest 3)"
+            },
+            {
+                "id": "nm7798506",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "\u00d6zge \u00d6nderoglu Akkaya",
+                "asCharacter": "Konuk 4 (Guest 4) (as Ozge Onderoglu Akkaya)"
+            },
+            {
+                "id": "nm7798507",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Hasan Kalci",
+                "asCharacter": "Konuk 5 (Guest 5)"
+            },
+            {
+                "id": "nm7798508",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Vahdi \u00d6lmez",
+                "asCharacter": "Konuk 6 (Guest 8) (as Vahdi Olmez)"
+            },
+            {
+                "id": "nm3715868",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gamze Kus",
+                "asCharacter": "Konuk 7 (Guest 7)"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm1193981",
+                        "name": "R\u00e9mi Burah",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm2492941",
+                        "name": "Mustafa Dok",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm1905834",
+                        "name": "Alexandre Mallet-Guy",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0960222",
+                        "name": "Zeynep Ozbatur Atakan",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm5398118",
+                        "name": "Olivier P\u00e8re",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0947984",
+                        "name": "Muzaffer Yildirim",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm2955066",
+                        "name": "Sezgi \u00dcst\u00fcn",
+                        "description": "executive producer"
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm1780337",
+                        "name": "G\u00f6khan Tiryaki",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0149196",
+                        "name": "Nuri Bilge Ceylan",
+                        "description": ""
+                    },
+                    {
+                        "id": "nm2339418",
+                        "name": "Bora G\u00f6ksing\u00f6l",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm3715868",
+                        "name": "Gamze Kus",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0618420",
+                        "name": "Monika M\u00fcnnich",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm4204946",
+                        "name": "Anke Thot",
+                        "description": "makeup artist"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm6461091",
+                        "name": "Tamer Basaran",
+                        "description": "production manager"
+                    },
+                    {
+                        "id": "nm6133089",
+                        "name": "Ali Imran Kocaaslan",
+                        "description": "production manager"
+                    },
+                    {
+                        "id": "nm1396369",
+                        "name": "Michael Reuter",
+                        "description": "post-production supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm2590834",
+                        "name": "\u00d6zg\u00fcr Sevimli",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm3294211",
+                        "name": "Vural Uzundag",
+                        "description": "second assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm7044801",
+                        "name": "Emel Erden",
+                        "description": "assistant art director"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm1506036",
+                        "name": "Benoit Gargonne",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm1038597",
+                        "name": "Lars Ginzel",
+                        "description": "re-recording mixer"
+                    },
+                    {
+                        "id": "nm0340969",
+                        "name": "Daniel Gries",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm4119961",
+                        "name": "Etienne Haug",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm3640772",
+                        "name": "Jonathan Martins",
+                        "description": "fr dub recordist"
+                    },
+                    {
+                        "id": "nm0610968",
+                        "name": "Andreas M\u00fccke-Niesytka",
+                        "description": "sound recordist / sound"
+                    },
+                    {
+                        "id": "nm0730721",
+                        "name": "Thomas Robert",
+                        "description": "supervising sound editor"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm1485972",
+                        "name": "Jean-Michel Boublil",
+                        "description": "visual effects supervisor"
+                    },
+                    {
+                        "id": "nm2934474",
+                        "name": "Florian Obrecht",
+                        "description": "visual effects artist"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm2648885",
+                        "name": "Mehmet Engin",
+                        "description": "d.i.t"
+                    },
+                    {
+                        "id": "nm7175347",
+                        "name": "\u00d6zlem Erol",
+                        "description": "behind the scenes camera (as Ozlem Erol)"
+                    },
+                    {
+                        "id": "nm3218846",
+                        "name": "Serkan G\u00fclg\u00fcler",
+                        "description": "first assistant camera (as Serkan Gulguler) / focus puller"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm6464605",
+                        "name": "Tilbe Cana Inan",
+                        "description": "post-production assistant"
+                    },
+                    {
+                        "id": "nm1016842",
+                        "name": "Adam Inglis",
+                        "description": "colorist"
+                    },
+                    {
+                        "id": "nm5130284",
+                        "name": "Sinan Kesova",
+                        "description": "post-production assistant"
+                    },
+                    {
+                        "id": "nm4535192",
+                        "name": "Bora Suel",
+                        "description": "dcp mastering"
+                    },
+                    {
+                        "id": "nm7112679",
+                        "name": "Deniz \u00c7izmeci",
+                        "description": "assistant editor"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm5385914",
+                        "name": "Cynthia Pinet",
+                        "description": "financial supervisor"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Drama",
+    "genreList": [
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Zeynofilm, Memento Films Production, Bredok Filmproduction",
+    "companyList": [
+        {
+            "id": "co0238359",
+            "name": "Zeynofilm"
+        },
+        {
+            "id": "co0148146",
+            "name": "Memento Films Production"
+        },
+        {
+            "id": "co0503656",
+            "name": "Bredok Filmproduction"
+        }
+    ],
+    "countries": "Turkey, France, Germany",
+    "countryList": [
+        {
+            "key": "Turkey",
+            "value": "Turkey"
+        },
+        {
+            "key": "France",
+            "value": "France"
+        },
+        {
+            "key": "Germany",
+            "value": "Germany"
+        }
+    ],
+    "languages": "Turkish, English",
+    "languageList": [
+        {
+            "key": "Turkish",
+            "value": "Turkish"
+        },
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "8.2",
+    "imDbRatingVotes": "42541",
+    "metacriticRating": "88",
+    "ratings": {
+        "imDbId": "tt2758880",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "imDb": null,
+        "metacritic": null,
+        "theMovieDb": null,
+        "rottenTomatoes": null,
+        "tV_com": null,
+        "filmAffinity": null,
+        "errorMessage": "Maximum usage (102 of 100 per day)"
+    },
+    "wikipedia": {
+        "imDbId": "tt2758880",
+        "title": "Winter Sleep",
+        "fullTitle": "Winter Sleep (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "language": "en",
+        "titleInLanguage": "Winter Sleep (film)",
+        "url": "https://en.wikipedia.org/wiki/Winter_Sleep_(film)",
+        "plotShort": {
+            "plainText": "Winter Sleep (film)\r\nWinter Sleep (Turkish: K\u0131\u015f Uykusu) is a 2014 Turkish drama film directed by Nuri Bilge Ceylan, adapted from the short story, \"The Wife\" by Anton Chekhov and one subplot of The Brothers Karamazov by Fyodor Dostoyevsky. The story is set in Anatolia and examines the significant divide between the rich and the poor as well as the powerful and the powerless in Turkey. It stars Haluk Bilginer, Demet Akbag and Melisa S\u00f6zen.\r\nCeylan had long wished to adapt \"The Wife\", and shot it in Cappadocia. At the 2014 Cannes Film Festival, the film won the Palme d'Or and the FIPRESCI Prize.",
+            "html": "<h2>Winter Sleep (film)</h2><p>Winter Sleep (Turkish: K\u0131\u015f Uykusu) is a 2014 Turkish drama film directed by Nuri Bilge Ceylan, adapted from the short story, \"The Wife\" by Anton Chekhov and one subplot of The Brothers Karamazov by Fyodor Dostoyevsky. The story is set in Anatolia and examines the significant divide between the rich and the poor as well as the powerful and the powerless in Turkey. It stars Haluk Bilginer, Demet Akbag and Melisa S\u00f6zen.</p><p>Ceylan had long wished to adapt \"The Wife\", and shot it in Cappadocia. At the 2014 Cannes Film Festival, the film won the Palme d'Or and the FIPRESCI Prize.</p>"
+        },
+        "plotFull": {
+            "plainText": "Winter Sleep (film)\r\nWinter Sleep (Turkish: K\u0131\u015f Uykusu) is a 2014 Turkish drama film directed by Nuri Bilge Ceylan, adapted from the short story, \"The Wife\" by Anton Chekhov and one subplot of The Brothers Karamazov by Fyodor Dostoyevsky. The story is set in Anatolia and examines the significant divide between the rich and the poor as well as the powerful and the powerless in Turkey. It stars Haluk Bilginer, Demet Akbag and Melisa S\u00f6zen.\r\nCeylan had long wished to adapt \"The Wife\", and shot it in Cappadocia. At the 2014 Cannes Film Festival, the film won the Palme d'Or and the FIPRESCI Prize.\r\nPlot\r\nAyd\u0131n, a former actor, owns a mountaintop hotel in Cappadocia, as well as several properties which he rents out to local tenants. He leads a more idyllic life than most people around him in the region. Educated and wealthy, he spends his time writing columns for a local newspaper and researching the history of Turkish theater, of which he hopes to write a book someday.\r\nOne day, Ayd\u0131n and his assistant Hidayet are driving down to the village when a stone shatters the window. It was thrown by \u0130lyas, the son of \u0130smail, one of Ayd\u0131n's tenants who is several months behind in the rent. When Hidayet confronts the father, it turns out that Ayd\u0131n's people had already sent a collection agency that took \u0130smail's television and refrigerator, with \u0130smail getting beaten up by the police for resisting. The situation escalates until \u0130smail's brother Hamdi intervenes.\r\nHamdi, the eager-to-please local imam, brings the young \u0130lyas to Ayd\u0131n in an attempt to make amends for the glass-breaking incident. However, this only serves to annoy Aydin, inspiring him to write a column on how an imam should really give a proper example to their community. At first, his sister Necla wonders why Ayd\u0131n does not use his writing talent in a better place than the local newspaper. Later, she reverses her view and tells him that he is just superficially and sentimentally criticising other people from his comfortable armchair. This results in a long chain of snide remarks made back and forth at each other. This reversal occurs after Necla mentions to Ayd\u0131n's wife Nihal that Necla might be better off going back to her ex-husband, after which Nihal tells Necla that she is free to leave even though it is a stupid idea.\r\nNihal is much younger than her husband Ayd\u0131n. She tries to give meaning to her life by fundraising for developing schools, an activity for which Ayd\u0131n has not shown much interest. However, when Nihal organizes a fundraiser event in their home, Ayd\u0131n becomes annoyed and tells her that the fundraiser event will be a guaranteed failure due to her lack of experience and bookkeeping skills. This turns into an emotional argument, where he tells her that she is free to divorce from him if she wishes so. Finally, Ayd\u0131n states that he will leave for Istanbul for several months to make arrangements for his book. He warns her that she should not trust Levent (Nadir Sar\u0131bacak), one of the other people involved in the fundraiser, since Ayd\u0131n considers Levent to lack moral values. Before he leaves, Ayd\u0131n makes a large anonymous donation in cash.\r\nThe next day, Hidayet takes Ayd\u0131n to the train station, carrying all the luggage while Ayd\u0131n comfortably walks empty-handed. Due to heavy snow fall, the train is severely delayed, and Ayd\u0131n decides that they will visit Ayd\u0131n's friend Suavi in a nearby village. Suavi welcomes Ayd\u0131n's visit, but Levent also shows up, as Levent and Suavi had agreed earlier to go out hunting. They spend the evening drinking and talking. There is some tension between Ayd\u0131n and Levent, as Levent makes insinuations that Ayd\u0131n did not do enough to help in the aftermath of an earthquake, six years earlier.\r\nIn the meantime, Nihal visits the house of Hamdi, \u0130smail, \u0130lyas, and the sick grandmother. Nihal learns that \u0130smail was unemployed after a prison sentence for stabbing a lingerie thief and that \u0130lyas had been suffering from pneumonia. Their financial difficulties are due to the fact that Hamdi has to take care of all of them from his modest income as an imam. Nihal offers the money that Ayd\u0131n had donated, around 10,000 lira ($5,900 in 2013), enough to buy a house in the area. \u0130smail is insulted by what he sees as an attempt to pay off her conscience and burns the money in the fireplace, to the horror of Nihal.\r\nThe film ends as Ayd\u0131n returns home the next day. As Nihal stares out of the window, silently, Aydin's voice is heard explaining that he cannot live without Nihal, even if she does not love him anymore. Aydin starts his procrastinated project of writing about the history of Turkish theatre.\r\nCast\r\nHaluk Bilginer as Ayd\u0131n, a former actor who is now a writer, hotel owner, and landlord.\r\nDemet Akba\u011f as Necla, Ayd\u0131n's recently divorced sister.\r\nMelisa S\u00f6zen as Nihal, Ayd\u0131n's young wife.\r\nAyberk Pekcan as Hidayet, Ayd\u0131n's assistant.\r\nTamer Levent as Suavi, Ayd\u0131n's friend.\r\nNejat \u0130\u015fler as \u0130smail, Ayd\u0131n's unemployed tenant.\r\nSerhat K\u0131l\u0131\u00e7 as Hamdi, the local imam and \u0130smail's brother.\r\nNadir Sar\u0131bacak as Levent, a teacher and Nihal's friend.\r\nMehmet Ali Nuro\u011flu as Timur, one of the hotel guests.\r\nEmirhan Doruktutan as Ilyas, \u0130smail's son.\r\nProduction\r\nDirector Nuri Bilge Ceylan co-wrote the screenplay with wife Ebru Ceylan, based on \"The Wife\" by Anton Chekhov, wishing to make an adaptation for 15 years but not feeling ready. He said it was challenging to write, remarking \"You struggle and there are moments you feel you will go nowhere. Some days after the struggle, there is a script, and you forget the process\". Ebru, who often debated with him in their collaborations on screenplays opted to end their writing partnership after Winter Sleep.\r\nThe film was produced through the director's company NBC Film in collaboration with Turkey's Zeynofilm, Germany's Bredok Film Production and France's Memento Films. It received 450,000 euro from Eurimages. Filming took place during two winter months in Cappadocia followed by four weeks in Istanbul for studio scenes. The film was shot with the Sony F65 camera. The final adjustments to the story line took place when Ceylan edited it.\r\nReception\r\nCritical reception\r\nWinter Sleep received universal acclaim. On Rotten Tomatoes, the film has a \"certified fresh\" rating of 88%, based on 75 reviews, with an average rating of 8.4/10. The site's critical consensus reads, \"Epic in length, thrilling to behold, and utterly absorbing, Winter Sleep demands \u2013 and rewards \u2013 viewers' patient attention\". On Metacritic, the film has a score of 88 out of 100, based on 27 critics, indicating \"universal acclaim\".\r\nWriting for The Guardian at the film's Cannes screening, Xan Brooks said that \"in fits and starts, this is a stunning picture. At its best, Winter Sleep shows Ceylan to be as psychologically rigorous, in his way, as Ingmar Bergman before him\". Robbie Collin of The Telegraph said that the film is \"still fiendishly intelligent stuff from the director, nudging back the limits of what we expect of cinema and also what it expects of us: a mighty tale of what becomes of a man when his heart goes into hibernation\".\r\nIndie Wire praised the film and defined it as a \"mesmerizing, superbly acted portrait of a wealthy, self-involved landowner and the various figures impacted by his reign\" while The Telegraph called it a \"bold, beautiful - and very long - film about a failing marriage\" The Guardian also gave the film a glowing review describing it as a harsh \"character study\" and a \"stunning picture\" while praising Haluk Bilginer's \"magnificent performance\". Another positive review came from Variety. Film critic Justin Chang called the film a \"richly engrossing experience\" and asserted that Nuri Bilge Ceylan is at his \"peak\" with Winter Sleep. Another critic, Ben Kenigsberg, noting Winter Sleep was the longest film in the Cannes film competition, pointed out that the film was an awards favorite from the get-go. He also found \"the movie's slow revelation of character detail quietly devastating\".\r\nMore positive reviews followed. Huffington Post reviewer Karin Badt called the film a \"masterpiece\" and noted that there is \"movement and growth and self-realization\" in the characters and none of them are \"black-and-white\". Also, the ending of the film was defined as \"ambiguous\" leaving parts of the movie to the interpretation of the viewer. Way Too Indie awarded the film 9.7 points out of 10, commenting: \"What Bela Tarr did with images, Nuri Bilge Ceylan accomplishes with dialogue; one hundred percent inclusive assimilation. You literally get lost inside this world that seems to balance on the periphery of humanity itself. But, believe it or not, that\u2019s just the surface. If you put your trust in Ceylan and his troupe of brilliant actors, every action will reveal deeper meanings, every frame will contain significant details, and you will leave the theater completely nourished\". TIME Magazine remarked that it was no surprise that Winter Sleep won the award and noted: \"Winter Sleep probes the psychology of a Turkish landowner confronting crises from his young wife, his sister and his aggrieved tenants\". Irish Times called the film \"terrific\" and commented: \"So leisurely is Winter Sleep, it makes Once Upon a Time in Anatolia, his last film, feel like an episode of The A-Team\". Cine Vue noted that while Ceylan's previous film Once upon a Time in Anatolia might have been inspired by Dostoevsky, Winter Sleep took its inspiration from Chekhov. The reviewer added: \"The pacing of Ceylan's latest will inevitably be a hurdle for many viewers, as a slow-burn beginning with numerous scenes of dialogue played out in full gets even more unhurried in a pair of marathon confrontations\".\r\nInterpretation\r\nAccording to reviewer Robbie Collin, Ayd\u0131n sees himself as the region's kind ruler, intervening in the business of the townspeople below the mountain, whereas in reality, almost everyone, including his wife, dislikes Ayd\u0131n.\r\nWhen the snow season approaches and the guests depart, the tension between Ayd\u0131n, his wife, his sister who lives with him, and the village people takes over by long dialogues. Conversations dominate the film as the inner workings of the characters are slowly revealed. Variety reviewer Justin Chang notes that the argument between Hidayet and \u0130smail in the beginning of the film all happens \"while Ayd\u0131n keeps a timid distance just a minor example of his complacency and casual indifference to the suffering around him\".\r\nCollin wrote:\r\nIt turns out that most people have at least one very good reason to dislike Aydin: even his wife, whose charity fundraising efforts he dismisses laughingly, criticising the state of her bookkeeping like a teacher ticking off a particularly slow pupil. Only one man, the obsequious imam, makes a concerted effort to get along with him, although Aydin is annoyed by his flattering talk and insincere, teeth-baring grins, and obliquely insults him in his newspaper column.\r\nAyd\u0131n's comfort is, however, \"challenged by the conversations that ensue between him and the poor family, his wife and his sister on topics ranging from civic responsibility to evil\".\r\nAccolades\r\nThe film won the Palme d'Or at the 67th Cannes Film Festival. The longest film in competition by far, Winter Sleep's Palme d'Or marked the culmination of the career of Nuri Bilge Ceylan, who has twice received the festival's second-place honor, the Grand Prix (for 2002's Uzak and for 2011's Once Upon a Time in Anatolia) and who won a directing prize for 2008's Three Monkeys. Nuri Bilge Ceylan also won the award for Achievement in Directing for the film at the 2014 Asia Pacific Screen Awards.\r\nCeylan said in his acceptance speech that it was \"a great surprise\" when he took the stage, noting that it was perhaps a fitting choice in a year that marked the 100th anniversary of Turkish cinema. Tacitly acknowledging the 2013\u201314 protests in Turkey that led to the deaths of 11 people, the director said, \"I want to dedicate the prize to all the young people of Turkey, including those who lost their lives\". He also mentioned the workers who were killed in the Soma mine disaster, which occurred on the day prior to the commencement of the awards event. Although it divided critics and audiences with its reams of dialogue and challenging 196-minute running time, the film became an early critics\u2019 favorite and Palme d'Or contender when it screened on the festival's third day. The film was selected as the Turkish entry for the Best Foreign Language Film at the 87th Academy Awards, but was not nominated.",
+            "html": "<h2>Winter Sleep (film)</h2><p>Winter Sleep (Turkish: K\u0131\u015f Uykusu) is a 2014 Turkish drama film directed by Nuri Bilge Ceylan, adapted from the short story, \"The Wife\" by Anton Chekhov and one subplot of The Brothers Karamazov by Fyodor Dostoyevsky. The story is set in Anatolia and examines the significant divide between the rich and the poor as well as the powerful and the powerless in Turkey. It stars Haluk Bilginer, Demet Akbag and Melisa S\u00f6zen.</p><p>Ceylan had long wished to adapt \"The Wife\", and shot it in Cappadocia. At the 2014 Cannes Film Festival, the film won the Palme d'Or and the FIPRESCI Prize.</p><br/><h3>Plot</h3><p>Ayd\u0131n, a former actor, owns a mountaintop hotel in Cappadocia, as well as several properties which he rents out to local tenants. He leads a more idyllic life than most people around him in the region. Educated and wealthy, he spends his time writing columns for a local newspaper and researching the history of Turkish theater, of which he hopes to write a book someday.</p><p>One day, Ayd\u0131n and his assistant Hidayet are driving down to the village when a stone shatters the window. It was thrown by \u0130lyas, the son of \u0130smail, one of Ayd\u0131n's tenants who is several months behind in the rent. When Hidayet confronts the father, it turns out that Ayd\u0131n's people had already sent a collection agency that took \u0130smail's television and refrigerator, with \u0130smail getting beaten up by the police for resisting. The situation escalates until \u0130smail's brother Hamdi intervenes.</p><p>Hamdi, the eager-to-please local imam, brings the young \u0130lyas to Ayd\u0131n in an attempt to make amends for the glass-breaking incident. However, this only serves to annoy Aydin, inspiring him to write a column on how an imam should really give a proper example to their community. At first, his sister Necla wonders why Ayd\u0131n does not use his writing talent in a better place than the local newspaper. Later, she reverses her view and tells him that he is just superficially and sentimentally criticising other people from his comfortable armchair. This results in a long chain of snide remarks made back and forth at each other. This reversal occurs after Necla mentions to Ayd\u0131n's wife Nihal that Necla might be better off going back to her ex-husband, after which Nihal tells Necla that she is free to leave even though it is a stupid idea.</p><p>Nihal is much younger than her husband Ayd\u0131n. She tries to give meaning to her life by fundraising for developing schools, an activity for which Ayd\u0131n has not shown much interest. However, when Nihal organizes a fundraiser event in their home, Ayd\u0131n becomes annoyed and tells her that the fundraiser event will be a guaranteed failure due to her lack of experience and bookkeeping skills. This turns into an emotional argument, where he tells her that she is free to divorce from him if she wishes so. Finally, Ayd\u0131n states that he will leave for Istanbul for several months to make arrangements for his book. He warns her that she should not trust Levent (Nadir Sar\u0131bacak), one of the other people involved in the fundraiser, since Ayd\u0131n considers Levent to lack moral values. Before he leaves, Ayd\u0131n makes a large anonymous donation in cash.</p><p>The next day, Hidayet takes Ayd\u0131n to the train station, carrying all the luggage while Ayd\u0131n comfortably walks empty-handed. Due to heavy snow fall, the train is severely delayed, and Ayd\u0131n decides that they will visit Ayd\u0131n's friend Suavi in a nearby village. Suavi welcomes Ayd\u0131n's visit, but Levent also shows up, as Levent and Suavi had agreed earlier to go out hunting. They spend the evening drinking and talking. There is some tension between Ayd\u0131n and Levent, as Levent makes insinuations that Ayd\u0131n did not do enough to help in the aftermath of an earthquake, six years earlier.</p><p>In the meantime, Nihal visits the house of Hamdi, \u0130smail, \u0130lyas, and the sick grandmother. Nihal learns that \u0130smail was unemployed after a prison sentence for stabbing a lingerie thief and that \u0130lyas had been suffering from pneumonia. Their financial difficulties are due to the fact that Hamdi has to take care of all of them from his modest income as an imam. Nihal offers the money that Ayd\u0131n had donated, around 10,000 lira ($5,900 in 2013), enough to buy a house in the area. \u0130smail is insulted by what he sees as an attempt to pay off her conscience and burns the money in the fireplace, to the horror of Nihal.</p><p>The film ends as Ayd\u0131n returns home the next day. As Nihal stares out of the window, silently, Aydin's voice is heard explaining that he cannot live without Nihal, even if she does not love him anymore. Aydin starts his procrastinated project of writing about the history of Turkish theatre.</p><br/><h3>Cast</h3><ul><li>Haluk Bilginer as Ayd\u0131n, a former actor who is now a writer, hotel owner, and landlord.</li><li>Demet Akba\u011f as Necla, Ayd\u0131n's recently divorced sister.</li><li>Melisa S\u00f6zen as Nihal, Ayd\u0131n's young wife.</li><li>Ayberk Pekcan as Hidayet, Ayd\u0131n's assistant.</li><li>Tamer Levent as Suavi, Ayd\u0131n's friend.</li><li>Nejat \u0130\u015fler as \u0130smail, Ayd\u0131n's unemployed tenant.</li><li>Serhat K\u0131l\u0131\u00e7 as Hamdi, the local imam and \u0130smail's brother.</li><li>Nadir Sar\u0131bacak as Levent, a teacher and Nihal's friend.</li><li>Mehmet Ali Nuro\u011flu as Timur, one of the hotel guests.</li><li>Emirhan Doruktutan as Ilyas, \u0130smail's son.</li></ul><br/><h3>Production</h3><p>Director Nuri Bilge Ceylan co-wrote the screenplay with wife Ebru Ceylan, based on \"The Wife\" by Anton Chekhov, wishing to make an adaptation for 15 years but not feeling ready. He said it was challenging to write, remarking \"You struggle and there are moments you feel you will go nowhere. Some days after the struggle, there is a script, and you forget the process\". Ebru, who often debated with him in their collaborations on screenplays opted to end their writing partnership after Winter Sleep.</p><p>The film was produced through the director's company NBC Film in collaboration with Turkey's Zeynofilm, Germany's Bredok Film Production and France's Memento Films. It received 450,000 euro from Eurimages. Filming took place during two winter months in Cappadocia followed by four weeks in Istanbul for studio scenes. The film was shot with the Sony F65 camera. The final adjustments to the story line took place when Ceylan edited it.</p><br/><h3>Reception</h3><h4>Critical reception</h4><p>Winter Sleep received universal acclaim. On Rotten Tomatoes, the film has a \"certified fresh\" rating of 88%, based on 75 reviews, with an average rating of 8.4/10. The site's critical consensus reads, \"Epic in length, thrilling to behold, and utterly absorbing, Winter Sleep demands \u2013 and rewards \u2013 viewers' patient attention\". On Metacritic, the film has a score of 88 out of 100, based on 27 critics, indicating \"universal acclaim\".</p><p>Writing for The Guardian at the film's Cannes screening, Xan Brooks said that \"in fits and starts, this is a stunning picture. At its best, Winter Sleep shows Ceylan to be as psychologically rigorous, in his way, as Ingmar Bergman before him\". Robbie Collin of The Telegraph said that the film is \"still fiendishly intelligent stuff from the director, nudging back the limits of what we expect of cinema and also what it expects of us: a mighty tale of what becomes of a man when his heart goes into hibernation\".</p><p>Indie Wire praised the film and defined it as a \"mesmerizing, superbly acted portrait of a wealthy, self-involved landowner and the various figures impacted by his reign\" while The Telegraph called it a \"bold, beautiful - and very long - film about a failing marriage\" The Guardian also gave the film a glowing review describing it as a harsh \"character study\" and a \"stunning picture\" while praising Haluk Bilginer's \"magnificent performance\". Another positive review came from Variety. Film critic Justin Chang called the film a \"richly engrossing experience\" and asserted that Nuri Bilge Ceylan is at his \"peak\" with Winter Sleep. Another critic, Ben Kenigsberg, noting Winter Sleep was the longest film in the Cannes film competition, pointed out that the film was an awards favorite from the get-go. He also found \"the movie's slow revelation of character detail quietly devastating\".</p><p>More positive reviews followed. Huffington Post reviewer Karin Badt called the film a \"masterpiece\" and noted that there is \"movement and growth and self-realization\" in the characters and none of them are \"black-and-white\". Also, the ending of the film was defined as \"ambiguous\" leaving parts of the movie to the interpretation of the viewer. Way Too Indie awarded the film 9.7 points out of 10, commenting: \"What Bela Tarr did with images, Nuri Bilge Ceylan accomplishes with dialogue; one hundred percent inclusive assimilation. You literally get lost inside this world that seems to balance on the periphery of humanity itself. But, believe it or not, that\u2019s just the surface. If you put your trust in Ceylan and his troupe of brilliant actors, every action will reveal deeper meanings, every frame will contain significant details, and you will leave the theater completely nourished\". TIME Magazine remarked that it was no surprise that Winter Sleep won the award and noted: \"Winter Sleep probes the psychology of a Turkish landowner confronting crises from his young wife, his sister and his aggrieved tenants\". Irish Times called the film \"terrific\" and commented: \"So leisurely is Winter Sleep, it makes Once Upon a Time in Anatolia, his last film, feel like an episode of The A-Team\". Cine Vue noted that while Ceylan's previous film Once upon a Time in Anatolia might have been inspired by Dostoevsky, Winter Sleep took its inspiration from Chekhov. The reviewer added: \"The pacing of Ceylan's latest will inevitably be a hurdle for many viewers, as a slow-burn beginning with numerous scenes of dialogue played out in full gets even more unhurried in a pair of marathon confrontations\".</p><h4>Interpretation</h4><p>According to reviewer Robbie Collin, Ayd\u0131n sees himself as the region's kind ruler, intervening in the business of the townspeople below the mountain, whereas in reality, almost everyone, including his wife, dislikes Ayd\u0131n.</p><p>When the snow season approaches and the guests depart, the tension between Ayd\u0131n, his wife, his sister who lives with him, and the village people takes over by long dialogues. Conversations dominate the film as the inner workings of the characters are slowly revealed. Variety reviewer Justin Chang notes that the argument between Hidayet and \u0130smail in the beginning of the film all happens \"while Ayd\u0131n keeps a timid distance just a minor example of his complacency and casual indifference to the suffering around him\".</p><p>Collin wrote:</p><blockquote>It turns out that most people have at least one very good reason to dislike Aydin: even his wife, whose charity fundraising efforts he dismisses laughingly, criticising the state of her bookkeeping like a teacher ticking off a particularly slow pupil. Only one man, the obsequious imam, makes a concerted effort to get along with him, although Aydin is annoyed by his flattering talk and insincere, teeth-baring grins, and obliquely insults him in his newspaper column.</blockquote><p>Ayd\u0131n's comfort is, however, \"challenged by the conversations that ensue between him and the poor family, his wife and his sister on topics ranging from civic responsibility to evil\".</p><h4>Accolades</h4><p>The film won the Palme d'Or at the 67th Cannes Film Festival. The longest film in competition by far, Winter Sleep's Palme d'Or marked the culmination of the career of Nuri Bilge Ceylan, who has twice received the festival's second-place honor, the Grand Prix (for 2002's Uzak and for 2011's Once Upon a Time in Anatolia) and who won a directing prize for 2008's Three Monkeys. Nuri Bilge Ceylan also won the award for Achievement in Directing for the film at the 2014 Asia Pacific Screen Awards.</p><p>Ceylan said in his acceptance speech that it was \"a great surprise\" when he took the stage, noting that it was perhaps a fitting choice in a year that marked the 100th anniversary of Turkish cinema. Tacitly acknowledging the 2013\u201314 protests in Turkey that led to the deaths of 11 people, the director said, \"I want to dedicate the prize to all the young people of Turkey, including those who lost their lives\". He also mentioned the workers who were killed in the Soma mine disaster, which occurred on the day prior to the commencement of the awards event. Although it divided critics and audiences with its reams of dialogue and challenging 196-minute running time, the film became an early critics\u2019 favorite and Palme d'Or contender when it screened on the festival's third day. The film was selected as the Turkish entry for the Best Foreign Language Film at the 87th Academy Awards, but was not nominated.</p><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th scope=\"col\">Award</th><th scope=\"col\">Date of ceremony</th><th scope=\"col\">Category</th><th scope=\"col\">Recipient(s)</th><th scope=\"col\">Result</th><th scope=\"col\" class=\"unsortable\"><abbr title=\"Reference(s)\">Ref(s)</abbr></th></tr><tr><th scope=\"row\"><span>Asia Pacific Screen Awards</span></th><td rowspan=\"1\"><span>11 December 2014</span></td><td><span>Achievement in Directing</span></td><td rowspan=\"5\"><span>Nuri Bilge Ceylan</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td rowspan=\"1\"></td></tr><tr><th scope=\"row\"><span>Bodil Awards</span></th><td rowspan=\"1\"><span>28 February 2015</span></td><td><span>Best Non-American Film</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"1\"></td></tr><tr><th scope=\"row\" rowspan=\"2\"><span>Cannes Film Festival</span></th><td rowspan=\"2\"><span>14 \u2013 25 May 2014</span></td><td><span>Palme d'Or</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td rowspan=\"2\"></td></tr><tr><td><span>FIPRESCI Prize</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td></tr><tr><th scope=\"row\"><span>C\u00e9sar Awards</span></th><td rowspan=\"1\"><span>20 February 2015</span></td><td><span>Best Foreign Film</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"1\"></td></tr><tr><th scope=\"row\" rowspan=\"3\"><span>European Film Awards</span></th><td rowspan=\"3\"><span>13 December 2014</span></td><td><span>Best Film</span></td><td>Nuri Bilge Ceylan and <span class=\"new\">Zeynep Ozbatur Atakan</span></td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"3\"></td></tr><tr><td><span>Best Director</span></td><td>Nuri Bilge Ceylan</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><td><span>Best Screenwriter</span></td><td><span>Ebru Ceylan</span> and Nuri Bilge Ceylan</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td></tr><tr><th scope=\"row\"><span>London Film Critics' Circle</span></th><td rowspan=\"1\">18 January 2015</td><td><span>Best Foreign Language Film</span></td><td rowspan=\"2\">Nuri Bilge Ceylan</td><td style=\"background: #FDD; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2\">Nominated</td><td rowspan=\"1\"></td></tr><tr><th scope=\"row\"><span>Los Angeles Film Critics Association</span></th><td rowspan=\"1\"><span>7 December 2014</span></td><td><span>Best Foreign Language Film</span></td><td style=\"background:#c5d2ea; color:black; vertical-align:middle; text-align:center;\" class=\"table-draw\">Runner-up</td><td rowspan=\"1\"></td></tr><tr><th scope=\"row\"><span>Palm Springs International Film Festival</span></th><td rowspan=\"1\">January 2015</td><td>Best Actor</td><td><span>Haluk Bilginer</span></td><td style=\"background: #99FF99; color: black; vertical-align: middle; text-align: center;\" class=\"yes table-yes2\">Won</td><td rowspan=\"1\"></td></tr></tbody></table><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt2758880",
+        "title": "Winter Sleep",
+        "fullTitle": "Winter Sleep (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "posters": [
+            {
+                "id": "1pZJrmBX5tG7IHxrVbrDdiAHByd.jpg",
+                "link": "https://imdb-api.com/posters/original/1pZJrmBX5tG7IHxrVbrDdiAHByd.jpg",
+                "aspectRatio": 0.7002540220152413,
+                "language": "bg",
+                "width": 827,
+                "height": 1181
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2758880",
+        "title": null,
+        "fullTitle": null,
+        "type": null,
+        "year": null,
+        "items": null,
+        "errorMessage": "Maximum usage (101 of 100 per day)"
+    },
+    "trailer": {
+        "imDbId": "tt2758880",
+        "title": "Winter Sleep",
+        "fullTitle": "Winter Sleep (2014)",
+        "type": "Movie",
+        "year": "2014",
+        "videoId": "vi1772859161",
+        "videoTitle": "Official Trailer",
+        "videoDescription": "Aydin, a former actor, runs a small hotel in central Anatolia with his young wife Nihal with whom he has a stormy relationship and his sister Necla who is suffering from her recent divorce. In winter as the snow begins to fall, the hotel turns into a shelter but also an inescapable place that fuels their animosities...",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTg4NDcwNzg5NF5BMl5BanBnXkFtZTgwNDUzNTM3MjE@._V1_.jpg",
+        "uploadDate": "09/19/2014 06:18:31",
+        "link": "https://www.imdb.com/video/vi1772859161",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1772859161/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$4,018,705"
+    },
+    "tagline": "",
+    "keywords": "throwing a stone at a car,husband wife relationship,written by director,killing a rabbit,burning money",
+    "keywordList": [
+        "throwing a stone at a car",
+        "husband wife relationship",
+        "written by director",
+        "killing a rabbit",
+        "burning money"
+    ],
+    "similars": [
+        {
+            "id": "tt1827487",
+            "title": "Once Upon a Time in Anatolia",
+            "fullTitle": "Once Upon a Time in Anatolia (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BZmQzOWEwOTMtMTE0Ni00ZTE4LTg4YjQtN2VkZDZjMGZiODIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7368_AL_.jpg",
+            "plot": "A group of men set out in search of a dead body in the Anatolian steppes.",
+            "directors": "Nuri Bilge Ceylan",
+            "stars": "Muhammet Uzuner, Yilmaz Erdogan, Taner Birsel",
+            "genres": "Crime, Drama",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt6628102",
+            "title": "The Wild Pear Tree",
+            "fullTitle": "The Wild Pear Tree (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BZjJmMGZmZTQtOWQ5NS00YjUwLWI4ZjEtZGY5NzBlMmY5ZGZlXkEyXkFqcGdeQXVyMTg5MDEyNw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An unpublished writer returns to his hometown after graduating, where he seeks sponsors to publish his book while dealing with his father's deteriorating indulgence into gambling.",
+            "directors": "Nuri Bilge Ceylan",
+            "stars": "Dogu Demirkol, Murat Cemcir, Bennu Yildirimlar",
+            "genres": "Certificate: Not Rated Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt1233381",
+            "title": "Three Monkeys",
+            "fullTitle": "Three Monkeys (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMTMwNjM3MjkyOV5BMl5BanBnXkFtZTcwMzU5MjQ0Mg@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A family suffers from a major communication breakdown during their struggle to get through their hardships.",
+            "directors": "Nuri Bilge Ceylan",
+            "stars": "Yavuz Bing\u00f6l, Hatice Aslan, Ahmet Rifat Sungar",
+            "genres": "Drama",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0346094",
+            "title": "Uzak",
+            "fullTitle": "Uzak (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BNWI0YmRjODctNDU4My00OWUzLWIzODEtMDVmYWIwNzk0ZjA5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "After his wife leaves him, a photographer has an existential crisis and tries to cope with his cousin's visit.",
+            "directors": "Nuri Bilge Ceylan",
+            "stars": "Muzaffer \u00d6zdemir, Mehmet Emin Toprak, Zuhal Gencer",
+            "genres": "Drama",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0116231",
+            "title": "The Bandit",
+            "fullTitle": "The Bandit (1996)",
+            "year": "1996",
+            "image": "https://imdb-api.com/images/original/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.",
+            "directors": "Yavuz Turgul",
+            "stars": "Sener Sen, Ugur Y\u00fccel, Sermin H\u00fcrmeri\u00e7",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0128332",
+            "title": "Innocence",
+            "fullTitle": "Innocence (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BYzNlNTlmYzAtN2RiOC00NTk5LTkwYzUtYWEwMjk4MGY2ZTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "Yusuf is released from prison after serving a ten-year sentence. He is scared of life outside as he goes to an address given to him by another prisoner.",
+            "directors": "Zeki Demirkubuz",
+            "stars": "G\u00fcven Kira\u00e7, Haluk Bilginer, Derya Alabora",
+            "genres": "Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0498097",
+            "title": "Jahreszeiten",
+            "fullTitle": "Jahreszeiten (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BNDE2ODRhOGMtYjM1My00ODQ2LTg5YmMtZGIxZjAyN2M1OWM5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A dowdy university instructor Isa is an inattentive husband to his younger, TV-business wife Bahar. Self-absorbed and selfish, Isa only communicates in the most rudimentary way, while she, similarly, detaches into crying jags and juvenile behavior.",
+            "directors": "Nuri Bilge Ceylan",
+            "stars": "Ebru Ceylan, Nuri Bilge Ceylan, Nazan Kesal",
+            "genres": "Drama, Romance",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0875595",
+            "title": "Destiny",
+            "fullTitle": "Destiny (2006)",
+            "year": "2006",
+            "image": "https://imdb-api.com/images/original/MV5BNjUzMDE4ODEzM15BMl5BanBnXkFtZTgwMDU0MTA2MDE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Bekir loves Ugur, who loves Zagor, who loves to commit crimes.",
+            "directors": "Zeki Demirkubuz",
+            "stars": "Ufuk Bayraktar, Vildan Atasever, Engin Aky\u00fcrek",
+            "genres": "Drama",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt0234217",
+            "title": "Clouds of May",
+            "fullTitle": "Clouds of May (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BM2UyOTg4YTMtOGRlZC00ZDU5LWFiOGYtZjQ3OTUxZGExMDMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "This is a movie within movie, which is almost recursive, i.e., the movie inside looks like director Ceylan's previous movie, Kasaba. It is about the movie director, Muzaffer, going back to ... See full summary \u00bb",
+            "directors": "Nuri Bilge Ceylan",
+            "stars": "Emin Ceylan, Muzaffer \u00d6zdemir, Fatma Ceylan",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt10688008",
+            "title": "Making of the Wild Pear Tree",
+            "fullTitle": "Making of the Wild Pear Tree (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BMDI1OTFlZDctNjIwMC00ODZlLTlmOGItNDc1MDFlZjI1NTZmXkEyXkFqcGdeQXVyMTA0NTY3NDQx._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Sinai returns from his study in the city of Canakkale to his parents' home in the small rural town of Can. He hopes to publish a book of essays and short stories. But his teacher father ... See full summary \u00bb",
+            "directors": "Nuri Bilge Ceylan",
+            "stars": "Murat Cemcir, Nuri Bilge Ceylan, Dogu Demirkol",
+            "genres": "Documentary",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt1961675",
+            "title": "Inside",
+            "fullTitle": "Inside (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BOGExYmRjYmItMGU3MC00ZmY1LWE5YjMtNmNiNjBlMDM1OGFmXkEyXkFqcGdeQXVyMzM3NDkxMjM@._V1_Ratio0.8947_AL_.jpg",
+            "plot": "A man's life, thoughts, feelings and his very own darkness... Adapted from Dostoevsky's novel \"Notes from Undergroud\", Demirkubuz follows Muharrem as he gets himself invited to a party ... See full summary \u00bb",
+            "directors": "Zeki Demirkubuz",
+            "stars": "Engin G\u00fcnaydin, Serhat Tutumluer, Nihal Yalcin",
+            "genres": "Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0143334",
+            "title": "The Small Town",
+            "fullTitle": "The Small Town (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BOTcwMzFhZjctYjcxZS00YmQ0LTg0ZGItZTMwMzYzMGVlNTg4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "The story of a family living in a small godforsaken town in Turkey seen through the eyes of children and dealing with the growing complexity when one becomes an adult.",
+            "directors": "Nuri Bilge Ceylan",
+            "stars": "Mehmet Emin Toprak, Havva Saglam, Cihat B\u00fct\u00fcn",
+            "genres": "Drama",
+            "imDbRating": "7"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
