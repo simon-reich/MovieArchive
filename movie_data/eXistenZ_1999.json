@@ -1,0 +1,2320 @@
+{
+    "id": "tt0120907",
+    "title": "eXistenZ",
+    "originalTitle": "",
+    "fullTitle": "eXistenZ (1999)",
+    "type": "Movie",
+    "year": "1999",
+    "image": "https://imdb-api.com/images/original/MV5BMmU1MTJkYWItMzM5Ny00NDgxLTgxOGEtNTkzNDdkZjkwNGI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6940_AL_.jpg",
+    "releaseDate": "1999-04-14",
+    "runtimeMins": "97",
+    "runtimeStr": "1h 37mins",
+    "plot": "Allegra Geller, the leading game designer in the world, is testing her new virtual reality game, eXistenZ with a focus group. As they begin, she is attacked by a fanatic assassin employing a bizarre organic gun. She flees with a young marketing trainee, Ted Pikul, who is suddenly assigned as her bodyguard. Unfortunately, her pod, an organic gaming device that contains the only copy of the eXistenZ game program, is damaged. To inspect it, she talks Ted into accepting a gameport in his own body so he can play the game with her. The events leading up to this, and the resulting game lead the pair on a strange adventure where reality and their actions are impossible to determine from either their own or the game's perspective.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "3 wins & 13 nominations.",
+    "directors": "David Cronenberg",
+    "directorList": [
+        {
+            "id": "nm0000343",
+            "name": "David Cronenberg"
+        }
+    ],
+    "writers": "David Cronenberg",
+    "writerList": [
+        {
+            "id": "nm0000343",
+            "name": "David Cronenberg"
+        }
+    ],
+    "stars": "Jude Law, Jennifer Jason Leigh, Ian Holm, Willem Dafoe",
+    "starList": [
+        {
+            "id": "nm0000179",
+            "name": "Jude Law"
+        },
+        {
+            "id": "nm0000492",
+            "name": "Jennifer Jason Leigh"
+        },
+        {
+            "id": "nm0000453",
+            "name": "Ian Holm"
+        },
+        {
+            "id": "nm0000353",
+            "name": "Willem Dafoe"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000492",
+            "image": "https://imdb-api.com/images/original/MV5BMTU1MzU2NTg0Nl5BMl5BanBnXkFtZTcwMjcyNjY0MQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jennifer Jason Leigh",
+            "asCharacter": "Allegra Geller"
+        },
+        {
+            "id": "nm0000179",
+            "image": "https://imdb-api.com/images/original/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jude Law",
+            "asCharacter": "Ted Pikul"
+        },
+        {
+            "id": "nm0000453",
+            "image": "https://imdb-api.com/images/original/MV5BMTI0ODA2MjM2NF5BMl5BanBnXkFtZTYwNDg5NDIz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ian Holm",
+            "asCharacter": "Kiri Vinokur"
+        },
+        {
+            "id": "nm0000353",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyNjU2MTYyM15BMl5BanBnXkFtZTgwMjY5MDY4NDE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Willem Dafoe",
+            "asCharacter": "Gas"
+        },
+        {
+            "id": "nm0001528",
+            "image": "https://imdb-api.com/images/original/MV5BMjQ0Mjc2NDAwOV5BMl5BanBnXkFtZTgwMjQwNTgzODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Don McKellar",
+            "asCharacter": "Yevgeny Nourish"
+        },
+        {
+            "id": "nm0719678",
+            "image": "https://imdb-api.com/images/original/MV5BZWY3NTkxODMtZmQ4YS00MThjLTg1NmQtZjExZGFjOWNkNjA2XkEyXkFqcGdeQXVyMTYxNzA4NjA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Callum Keith Rennie",
+            "asCharacter": "Hugo Carlaw"
+        },
+        {
+            "id": "nm0001172",
+            "image": "https://imdb-api.com/images/original/MV5BNjIyNjNiYjgtNGE1Mi00YmM4LWI3M2YtODlmYjI0NjM3NGRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Christopher Eccleston",
+            "asCharacter": "Seminar Leader"
+        },
+        {
+            "id": "nm0001631",
+            "image": "https://imdb-api.com/images/original/MV5BMTBmOTVkYzMtOGMxNS00NTdjLTk2MTYtN2NmZTVlNDMwOWM1XkEyXkFqcGdeQXVyMTUxNzU2OQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sarah Polley",
+            "asCharacter": "Merle"
+        },
+        {
+            "id": "nm0798887",
+            "image": "https://imdb-api.com/images/original/MV5BZmRjOTExNWEtMzEzZS00NWU0LWIwNjItOTFmYmNhYTUyZjczXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Robert A. Silverman",
+            "asCharacter": "D'Arcy Nader"
+        },
+        {
+            "id": "nm0398842",
+            "image": "https://imdb-api.com/images/original/MV5BMGYzZGFhMTctYWUyNS00MTdhLTgxOTQtZWI2NGU1ZDMzYjZhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Oscar Hsu",
+            "asCharacter": "Chinese Waiter"
+        },
+        {
+            "id": "nm0501210",
+            "image": "https://imdb-api.com/images/original/MV5BMTM2ODE5ODQ3Nl5BMl5BanBnXkFtZTYwNzEyNjM0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kris Lemche",
+            "asCharacter": "Noel Dichter"
+        },
+        {
+            "id": "nm0006710",
+            "image": "https://imdb-api.com/images/original/MV5BMTE2YjgwMDYtMWEzZi00ZThhLTkyNDctNzA5MWQwNTQ5Y2JkXkEyXkFqcGdeQXVyMDY1MTQ0MQ@@._V1_Ratio2.2727_AL_.jpg",
+            "name": "Vik Sahay",
+            "asCharacter": "Male Assistant"
+        },
+        {
+            "id": "nm0005058",
+            "image": "https://imdb-api.com/images/original/MV5BMDRhYjZkMzctMDkzYy00OWRkLWI3MjQtMTFiZDA4MTNkNzg3XkEyXkFqcGdeQXVyMjMwMzM1OTE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Kirsten Johnson",
+            "asCharacter": "Female Assistant"
+        },
+        {
+            "id": "nm0456313",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Kirchner",
+            "asCharacter": "Landry"
+        },
+        {
+            "id": "nm0469066",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bal\u00e1zs Ko\u00f3s",
+            "asCharacter": "Male Volunteer"
+        },
+        {
+            "id": "nm0067697",
+            "image": "https://imdb-api.com/images/original/MV5BNzFkYjJkYmUtOTA5NC00ZTRkLWI4YTItN2ZlZTg2ODgzMzdhXkEyXkFqcGdeQXVyMzI1MTEwNg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Stephanie Belding",
+            "asCharacter": "Female Volunteer"
+        },
+        {
+            "id": "nm0703499",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gerry Quigley",
+            "asCharacter": "Trout Farm Worker"
+        }
+    ],
+    "fullCast": {
+        "imDbId": "tt0120907",
+        "title": "eXistenZ",
+        "fullTitle": "eXistenZ (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "directors": {
+            "job": "Director",
+            "items": [
+                {
+                    "id": "nm0000343",
+                    "name": "David Cronenberg",
+                    "description": ""
+                }
+            ]
+        },
+        "writers": {
+            "job": "Writer",
+            "items": [
+                {
+                    "id": "nm0000343",
+                    "name": "David Cronenberg",
+                    "description": "(written by)"
+                }
+            ]
+        },
+        "actors": [
+            {
+                "id": "nm0000492",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1MzU2NTg0Nl5BMl5BanBnXkFtZTcwMjcyNjY0MQ@@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Jennifer Jason Leigh",
+                "asCharacter": "Allegra Geller"
+            },
+            {
+                "id": "nm0000179",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Jude Law",
+                "asCharacter": "Ted Pikul"
+            },
+            {
+                "id": "nm0000453",
+                "image": "https://imdb-api.com/images/original/MV5BMTI0ODA2MjM2NF5BMl5BanBnXkFtZTYwNDg5NDIz._V1_Ratio0.7273_AL_.jpg",
+                "name": "Ian Holm",
+                "asCharacter": "Kiri Vinokur"
+            },
+            {
+                "id": "nm0000353",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyNjU2MTYyM15BMl5BanBnXkFtZTgwMjY5MDY4NDE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Willem Dafoe",
+                "asCharacter": "Gas"
+            },
+            {
+                "id": "nm0001528",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ0Mjc2NDAwOV5BMl5BanBnXkFtZTgwMjQwNTgzODE@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Don McKellar",
+                "asCharacter": "Yevgeny Nourish"
+            },
+            {
+                "id": "nm0719678",
+                "image": "https://imdb-api.com/images/original/MV5BZWY3NTkxODMtZmQ4YS00MThjLTg1NmQtZjExZGFjOWNkNjA2XkEyXkFqcGdeQXVyMTYxNzA4NjA@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Callum Keith Rennie",
+                "asCharacter": "Hugo Carlaw"
+            },
+            {
+                "id": "nm0001172",
+                "image": "https://imdb-api.com/images/original/MV5BNjIyNjNiYjgtNGE1Mi00YmM4LWI3M2YtODlmYjI0NjM3NGRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg",
+                "name": "Christopher Eccleston",
+                "asCharacter": "Seminar Leader"
+            },
+            {
+                "id": "nm0001631",
+                "image": "https://imdb-api.com/images/original/MV5BMTBmOTVkYzMtOGMxNS00NTdjLTk2MTYtN2NmZTVlNDMwOWM1XkEyXkFqcGdeQXVyMTUxNzU2OQ@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Sarah Polley",
+                "asCharacter": "Merle"
+            },
+            {
+                "id": "nm0798887",
+                "image": "https://imdb-api.com/images/original/MV5BZmRjOTExNWEtMzEzZS00NWU0LWIwNjItOTFmYmNhYTUyZjczXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+                "name": "Robert A. Silverman",
+                "asCharacter": "D'Arcy Nader"
+            },
+            {
+                "id": "nm0398842",
+                "image": "https://imdb-api.com/images/original/MV5BMGYzZGFhMTctYWUyNS00MTdhLTgxOTQtZWI2NGU1ZDMzYjZhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+                "name": "Oscar Hsu",
+                "asCharacter": "Chinese Waiter"
+            },
+            {
+                "id": "nm0501210",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2ODE5ODQ3Nl5BMl5BanBnXkFtZTYwNzEyNjM0._V1_Ratio0.7273_AL_.jpg",
+                "name": "Kris Lemche",
+                "asCharacter": "Noel Dichter"
+            },
+            {
+                "id": "nm0006710",
+                "image": "https://imdb-api.com/images/original/MV5BMTE2YjgwMDYtMWEzZi00ZThhLTkyNDctNzA5MWQwNTQ5Y2JkXkEyXkFqcGdeQXVyMDY1MTQ0MQ@@._V1_Ratio2.2727_AL_.jpg",
+                "name": "Vik Sahay",
+                "asCharacter": "Male Assistant"
+            },
+            {
+                "id": "nm0005058",
+                "image": "https://imdb-api.com/images/original/MV5BMDRhYjZkMzctMDkzYy00OWRkLWI3MjQtMTFiZDA4MTNkNzg3XkEyXkFqcGdeQXVyMjMwMzM1OTE@._V1_Ratio0.7727_AL_.jpg",
+                "name": "Kirsten Johnson",
+                "asCharacter": "Female Assistant"
+            },
+            {
+                "id": "nm0456313",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "James Kirchner",
+                "asCharacter": "Landry"
+            },
+            {
+                "id": "nm0469066",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Bal\u00e1zs Ko\u00f3s",
+                "asCharacter": "Male Volunteer"
+            },
+            {
+                "id": "nm0067697",
+                "image": "https://imdb-api.com/images/original/MV5BNzFkYjJkYmUtOTA5NC00ZTRkLWI4YTItN2ZlZTg2ODgzMzdhXkEyXkFqcGdeQXVyMzI1MTEwNg@@._V1_Ratio0.7273_AL_.jpg",
+                "name": "Stephanie Belding",
+                "asCharacter": "Female Volunteer"
+            },
+            {
+                "id": "nm0703499",
+                "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                "name": "Gerry Quigley",
+                "asCharacter": "Trout Farm Worker"
+            }
+        ],
+        "others": [
+            {
+                "job": "Produced by",
+                "items": [
+                    {
+                        "id": "nm0010780",
+                        "name": "Bradley Adams",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0117081",
+                        "name": "Damon Bryant",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0000343",
+                        "name": "David Cronenberg",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0358877",
+                        "name": "Andras Hamori",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0487190",
+                        "name": "Robert Lantos",
+                        "description": "producer"
+                    },
+                    {
+                        "id": "nm0531848",
+                        "name": "Michael MacDonald",
+                        "description": "co-producer"
+                    },
+                    {
+                        "id": "nm0875998",
+                        "name": "Sandra Tucker",
+                        "description": "associate producer"
+                    }
+                ]
+            },
+            {
+                "job": "Music by",
+                "items": [
+                    {
+                        "id": "nm0006290",
+                        "name": "Howard Shore",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Cinematography by",
+                "items": [
+                    {
+                        "id": "nm0005893",
+                        "name": "Peter Suschitzky",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Film Editing by",
+                "items": [
+                    {
+                        "id": "nm0761697",
+                        "name": "Ronald Sanders",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Casting By",
+                "items": [
+                    {
+                        "id": "nm0100831",
+                        "name": "Deirdre Bowen",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Production Design by",
+                "items": [
+                    {
+                        "id": "nm0818621",
+                        "name": "Carol Spier",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Art Direction by",
+                "items": [
+                    {
+                        "id": "nm0222383",
+                        "name": "Tamara Deverell",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Set Decoration by",
+                "items": [
+                    {
+                        "id": "nm0301759",
+                        "name": "Elinor Rose Galbraith",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Costume Design by",
+                "items": [
+                    {
+                        "id": "nm0188725",
+                        "name": "Denise Cronenberg",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "job": "Makeup Department",
+                "items": [
+                    {
+                        "id": "nm0203259",
+                        "name": "Carol Davidson",
+                        "description": "assistant makeup artist"
+                    },
+                    {
+                        "id": "nm0243518",
+                        "name": "Stephan Dupuis",
+                        "description": "special makeup designer"
+                    },
+                    {
+                        "id": "nm0323929",
+                        "name": "R\u00e9jean Goderre",
+                        "description": "hair stylist: Ms. Leigh (as Rejean Goderre)"
+                    },
+                    {
+                        "id": "nm0338143",
+                        "name": "Mary-Lou Green-Benvenuti",
+                        "description": "hair stylist (as Mary Lou Green)"
+                    },
+                    {
+                        "id": "nm0370027",
+                        "name": "Debra Hawkes",
+                        "description": "assistant hair stylist"
+                    },
+                    {
+                        "id": "nm0413025",
+                        "name": "Shonagh Jabour",
+                        "description": "makeup artist"
+                    },
+                    {
+                        "id": "nm0284002",
+                        "name": "Micheline Tr\u00e9panier",
+                        "description": "makeup artist: Ms. Leigh (as Micheline Trepanier)"
+                    },
+                    {
+                        "id": "nm0607486",
+                        "name": "Doug Morrow",
+                        "description": "special makeup effects lab technician (uncredited)"
+                    },
+                    {
+                        "id": "nm1762097",
+                        "name": "Adrian Stansfield",
+                        "description": "creature effects painter (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Production Management",
+                "items": [
+                    {
+                        "id": "nm0531848",
+                        "name": "Michael MacDonald",
+                        "description": "production manager"
+                    },
+                    {
+                        "id": "nm0704003",
+                        "name": "Tammy Quinn",
+                        "description": "assistant production manager"
+                    },
+                    {
+                        "id": "nm0914127",
+                        "name": "Lori A. Waters",
+                        "description": "post-production supervisor (as Lori Waters)"
+                    }
+                ]
+            },
+            {
+                "job": "Second Unit Director or Assistant Director",
+                "items": [
+                    {
+                        "id": "nm0153543",
+                        "name": "Penny Charter",
+                        "description": "second assistant director"
+                    },
+                    {
+                        "id": "nm0188724",
+                        "name": "Cassandra Cronenberg",
+                        "description": "third assistant director"
+                    },
+                    {
+                        "id": "nm0309246",
+                        "name": "Walter Gasparovic",
+                        "description": "first assistant director"
+                    },
+                    {
+                        "id": "nm0572595",
+                        "name": "Kirsteen McLean",
+                        "description": "third assistant director"
+                    },
+                    {
+                        "id": "nm0771079",
+                        "name": "Leo Scherman",
+                        "description": "trainee assistant director"
+                    }
+                ]
+            },
+            {
+                "job": "Art Department",
+                "items": [
+                    {
+                        "id": "nm0052402",
+                        "name": "John Bannister",
+                        "description": "key scenic artist"
+                    },
+                    {
+                        "id": "nm0064445",
+                        "name": "Jerry Beaudrow",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0065421",
+                        "name": "Gordon Becker",
+                        "description": "assistant head carpenter"
+                    },
+                    {
+                        "id": "nm0093772",
+                        "name": "Dexter Bonaparte",
+                        "description": "set dresser"
+                    },
+                    {
+                        "id": "nm0118913",
+                        "name": "J. Tracy Budd",
+                        "description": "lead man (as Tracy Budd)"
+                    },
+                    {
+                        "id": "nm0119882",
+                        "name": "Flavian Bulfon",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0120103",
+                        "name": "Kerry Bullis",
+                        "description": "laborer"
+                    },
+                    {
+                        "id": "nm0152773",
+                        "name": "Jean-Pierre Charbonneau",
+                        "description": "head carpenter"
+                    },
+                    {
+                        "id": "nm0160665",
+                        "name": "Dan Christov",
+                        "description": "laborer"
+                    },
+                    {
+                        "id": "nm0180002",
+                        "name": "Janet Cormack",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0193202",
+                        "name": "Joe Curtin",
+                        "description": "construction coordinator"
+                    },
+                    {
+                        "id": "nm0193207",
+                        "name": "Kevin Curtin",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0232007",
+                        "name": "Scott Donais",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0282203",
+                        "name": "Danielle Fleury",
+                        "description": "assistant set decorator"
+                    },
+                    {
+                        "id": "nm0311744",
+                        "name": "Christopher Geggie",
+                        "description": "property master (as Chris Geggie)"
+                    },
+                    {
+                        "id": "nm0334101",
+                        "name": "Jason Graham",
+                        "description": "art department trainee"
+                    },
+                    {
+                        "id": "nm0340490",
+                        "name": "Arvinder Grewal",
+                        "description": "first assistant art director"
+                    },
+                    {
+                        "id": "nm0352977",
+                        "name": "Kevin Haeberlin",
+                        "description": "on-set dresser"
+                    },
+                    {
+                        "id": "nm0420220",
+                        "name": "Paul Jefferson",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0474269",
+                        "name": "Marc Kuitenbrouwer",
+                        "description": "assistant head carpenter"
+                    },
+                    {
+                        "id": "nm0482859",
+                        "name": "Jacques Lamarre",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0488155",
+                        "name": "Sabri Lariani",
+                        "description": "lead carpenter"
+                    },
+                    {
+                        "id": "nm0490839",
+                        "name": "Mari Laughlen",
+                        "description": "assistant property master"
+                    },
+                    {
+                        "id": "nm0002952",
+                        "name": "Rupert Lazarus",
+                        "description": "second assistant art director"
+                    },
+                    {
+                        "id": "nm0496592",
+                        "name": "Alois Ledinek",
+                        "description": "on-set carpenter"
+                    },
+                    {
+                        "id": "nm0499232",
+                        "name": "Peter Legault",
+                        "description": "assistant head carpenter"
+                    },
+                    {
+                        "id": "nm0520406",
+                        "name": "Carole Lord",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0534623",
+                        "name": "Michael Madden",
+                        "description": "first assistant art director"
+                    },
+                    {
+                        "id": "nm0536090",
+                        "name": "Stephen Magill",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0570594",
+                        "name": "Bradley McInnis",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0574570",
+                        "name": "Richard McStay",
+                        "description": "assistant head carpenter"
+                    },
+                    {
+                        "id": "nm0604897",
+                        "name": "Melissa Morgan",
+                        "description": "head painter"
+                    },
+                    {
+                        "id": "nm0629965",
+                        "name": "Peter P. Nicolakakos",
+                        "description": "buyer"
+                    },
+                    {
+                        "id": "nm0665820",
+                        "name": "Brian Patrick",
+                        "description": "property assistant"
+                    },
+                    {
+                        "id": "nm0676504",
+                        "name": "Jim Peters",
+                        "description": "greensman"
+                    },
+                    {
+                        "id": "nm0716192",
+                        "name": "Dusty Reeves",
+                        "description": "art department coordinator"
+                    },
+                    {
+                        "id": "nm0719289",
+                        "name": "Paul Renaut",
+                        "description": "lead man"
+                    },
+                    {
+                        "id": "nm0719680",
+                        "name": "Doug Rennie",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0738249",
+                        "name": "Mila Rolicz",
+                        "description": "scenic artist"
+                    },
+                    {
+                        "id": "nm0763931",
+                        "name": "Sam Santoro",
+                        "description": "laborer"
+                    },
+                    {
+                        "id": "nm0810628",
+                        "name": "Michael Smolski",
+                        "description": "carpenter"
+                    },
+                    {
+                        "id": "nm0821322",
+                        "name": "Mark Stafford",
+                        "description": "on-set painter"
+                    },
+                    {
+                        "id": "nm0825996",
+                        "name": "Robert H. Steiner",
+                        "description": "construction cost administrator (as Robert Steiner)"
+                    },
+                    {
+                        "id": "nm0905977",
+                        "name": "Kim Wagner",
+                        "description": "additional food preparation (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Sound Department",
+                "items": [
+                    {
+                        "id": "nm0032486",
+                        "name": "Eric Apps",
+                        "description": "adr recordist"
+                    },
+                    {
+                        "id": "nm0084767",
+                        "name": "Tom Bjelic",
+                        "description": "effects editor"
+                    },
+                    {
+                        "id": "nm0165700",
+                        "name": "Gregory Martin Clayton",
+                        "description": "cable operator (as Greg Clayton)"
+                    },
+                    {
+                        "id": "nm0173487",
+                        "name": "Ed Colyer",
+                        "description": "adr mixer"
+                    },
+                    {
+                        "id": "nm0199636",
+                        "name": "Graham Daniel",
+                        "description": "Re-Recording Mixer"
+                    },
+                    {
+                        "id": "nm0229548",
+                        "name": "Joseph Doane",
+                        "description": "assistant effects editor"
+                    },
+                    {
+                        "id": "nm0262679",
+                        "name": "David Evans",
+                        "description": "supervising effects editor"
+                    },
+                    {
+                        "id": "nm0310266",
+                        "name": "Glen Gauthier",
+                        "description": "sound mixer"
+                    },
+                    {
+                        "id": "nm0314551",
+                        "name": "Paul Germann",
+                        "description": "assistant effects editor"
+                    },
+                    {
+                        "id": "nm0007087",
+                        "name": "Mark Gingras",
+                        "description": "Dialogue/ADR Editor / adr editor"
+                    },
+                    {
+                        "id": "nm0341396",
+                        "name": "Wayne Griffin",
+                        "description": "supervising dialogue editor"
+                    },
+                    {
+                        "id": "nm0451845",
+                        "name": "Punam Khosla",
+                        "description": "assistant effects editor"
+                    },
+                    {
+                        "id": "nm0468704",
+                        "name": "Goro Koyama",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0481911",
+                        "name": "John Laing",
+                        "description": "dialogue editor"
+                    },
+                    {
+                        "id": "nm0490592",
+                        "name": "Mishann Lau",
+                        "description": "assistant dialogue editor"
+                    },
+                    {
+                        "id": "nm0539085",
+                        "name": "Andy Malcolm",
+                        "description": "foley artist"
+                    },
+                    {
+                        "id": "nm0540018",
+                        "name": "Ron Malligers",
+                        "description": "foley mixer (as Ron Mellegers)"
+                    },
+                    {
+                        "id": "nm0581370",
+                        "name": "Ray Merrin",
+                        "description": "Re-Recording Mixer"
+                    },
+                    {
+                        "id": "nm0779933",
+                        "name": "Lyle Scott-Darling",
+                        "description": "Assisted by: Re-Recording Mixers"
+                    },
+                    {
+                        "id": "nm0793424",
+                        "name": "Paul Shikata",
+                        "description": "effects editor"
+                    },
+                    {
+                        "id": "nm0842835",
+                        "name": "Steve Switzer",
+                        "description": "boom operator"
+                    },
+                    {
+                        "id": "nm0878805",
+                        "name": "David Tyler",
+                        "description": "Assisted by: ADR Mixer"
+                    },
+                    {
+                        "id": "nm0886044",
+                        "name": "Tony van den Akker",
+                        "description": "foley mixer"
+                    },
+                    {
+                        "id": "nm0914815",
+                        "name": "Nick Watson",
+                        "description": "consultant: Dolby, UK"
+                    },
+                    {
+                        "id": "nm0942730",
+                        "name": "Rebecca Wright",
+                        "description": "foley assistant"
+                    },
+                    {
+                        "id": "nm0958718",
+                        "name": "Sharon Zupancic",
+                        "description": "foley assistant"
+                    },
+                    {
+                        "id": "nm0959045",
+                        "name": "Gren-Erich Zwicker",
+                        "description": "assistant dialogue editor"
+                    },
+                    {
+                        "id": "nm0003972",
+                        "name": "Ryan Shore",
+                        "description": "sound (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Special Effects by",
+                "items": [
+                    {
+                        "id": "nm0032380",
+                        "name": "Warren Appleby",
+                        "description": "floor effects"
+                    },
+                    {
+                        "id": "nm0084018",
+                        "name": "Damon Bishop",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0111852",
+                        "name": "Alisa Brooks",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0188722",
+                        "name": "Brandon Cronenberg",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0243518",
+                        "name": "Stephan Dupuis",
+                        "description": "creature designer / special makeup"
+                    },
+                    {
+                        "id": "nm0410494",
+                        "name": "James Isaac",
+                        "description": "special effects (as Jim Isaac)"
+                    },
+                    {
+                        "id": "nm0413699",
+                        "name": "John Jackson",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0415169",
+                        "name": "Patrice Jacques",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0416492",
+                        "name": "Frances James",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0442570",
+                        "name": "Michael Kavanagh",
+                        "description": "floor effects"
+                    },
+                    {
+                        "id": "nm0491925",
+                        "name": "Alex Laverick",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0492060",
+                        "name": "Serge Lavigueur",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0503320",
+                        "name": "Kelly Lepkowsky",
+                        "description": "creature effects supervisor"
+                    },
+                    {
+                        "id": "nm0509245",
+                        "name": "Tim Lidstone",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0522458",
+                        "name": "David Loveday",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0565834",
+                        "name": "Jay McClennen",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0629913",
+                        "name": "Ryan Nicholson",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0668038",
+                        "name": "Dennis Pawlik",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0672232",
+                        "name": "Evan Penny",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0718393",
+                        "name": "Jim Reischl",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0728997",
+                        "name": "Dawn Rivard",
+                        "description": "special effects"
+                    },
+                    {
+                        "id": "nm0763062",
+                        "name": "Sean Sansom",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0854878",
+                        "name": "Patrick Tenasco",
+                        "description": "special effects technician"
+                    },
+                    {
+                        "id": "nm0924649",
+                        "name": "Daniel White",
+                        "description": "floor effects"
+                    },
+                    {
+                        "id": "nm0442570",
+                        "name": "Michael Kavanagh",
+                        "description": "mechanical effects coordinator (uncredited)"
+                    },
+                    {
+                        "id": "nm1073247",
+                        "name": "Derek Liscoumb",
+                        "description": "special effects technician (uncredited)"
+                    },
+                    {
+                        "id": "nm0532268",
+                        "name": "John MacGillivray",
+                        "description": "rigging key, special effects technician (uncredited)"
+                    },
+                    {
+                        "id": "nm1638408",
+                        "name": "Scott Maple",
+                        "description": "special effects assistant (uncredited)"
+                    },
+                    {
+                        "id": "nm1343213",
+                        "name": "Jim Peacock",
+                        "description": "special effects prop builder (uncredited)"
+                    },
+                    {
+                        "id": "nm0804514",
+                        "name": "Jeff Skochko",
+                        "description": "special effects assistant (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Visual Effects by",
+                "items": [
+                    {
+                        "id": "nm0028701",
+                        "name": "Jerry Andrews",
+                        "description": "motion control specialist: Toybox"
+                    },
+                    {
+                        "id": "nm0095821",
+                        "name": "Alex Boothby",
+                        "description": "digital effects compositor: Toybox"
+                    },
+                    {
+                        "id": "nm0002476",
+                        "name": "Jeff Campbell",
+                        "description": "digital effects compositor: Toybox"
+                    },
+                    {
+                        "id": "nm0170412",
+                        "name": "John Coldrick",
+                        "description": "compositor: opening titles"
+                    },
+                    {
+                        "id": "nm0254522",
+                        "name": "Kenn Elliott",
+                        "description": "additional scanning: Toybox"
+                    },
+                    {
+                        "id": "nm0254990",
+                        "name": "Mike 'Fuzzy' Ellis",
+                        "description": "digital film supervisor: Toybox (as Mike Ellis)"
+                    },
+                    {
+                        "id": "nm0317386",
+                        "name": "Raymond Gieringer",
+                        "description": "3D animator: Toybox"
+                    },
+                    {
+                        "id": "nm0325259",
+                        "name": "Mark Goldberg",
+                        "description": "digital effects compositor: Toybox"
+                    },
+                    {
+                        "id": "nm0342179",
+                        "name": "Derek Grime",
+                        "description": "3D animator: Toybox"
+                    },
+                    {
+                        "id": "nm0350503",
+                        "name": "Rob Gyorgy",
+                        "description": "digital effects compositor: Toybox"
+                    },
+                    {
+                        "id": "nm0410494",
+                        "name": "James Isaac",
+                        "description": "visual and special effects supervisor (as Jim Isaac)"
+                    },
+                    {
+                        "id": "nm0536884",
+                        "name": "Shawn Maher",
+                        "description": "camera operator: Toybox"
+                    },
+                    {
+                        "id": "nm0544380",
+                        "name": "Michael Manza",
+                        "description": "3D animator: Toybox"
+                    },
+                    {
+                        "id": "nm0615442",
+                        "name": "Jesh Murthy",
+                        "description": "3D animator: Toybox"
+                    },
+                    {
+                        "id": "nm0692178",
+                        "name": "Josa Leah 'SDB' Porter",
+                        "description": "in-house coordinator: Toybox"
+                    },
+                    {
+                        "id": "nm0726629",
+                        "name": "Paul Rigg",
+                        "description": "digital effects compositor: Toybox"
+                    },
+                    {
+                        "id": "nm0751976",
+                        "name": "Jim Rutherford",
+                        "description": "lead 3D creature animator: Toybox"
+                    },
+                    {
+                        "id": "nm0786222",
+                        "name": "Ralph Sevazlian",
+                        "description": "3D animator: Toybox"
+                    },
+                    {
+                        "id": "nm0832982",
+                        "name": "Chris Stoyan",
+                        "description": "motion control grip: Toybox"
+                    },
+                    {
+                        "id": "nm0843037",
+                        "name": "Andy Sykes",
+                        "description": "executive producer: Toybox"
+                    },
+                    {
+                        "id": "nm0932484",
+                        "name": "Tony Willis",
+                        "description": "motion control supervisor: Toybox"
+                    },
+                    {
+                        "id": "nm0939052",
+                        "name": "Emily Wong",
+                        "description": "production coordinator: Toybox"
+                    },
+                    {
+                        "id": "nm0950454",
+                        "name": "Nelson Lik-wai Yu",
+                        "description": "3D technical support: Toybox"
+                    },
+                    {
+                        "id": "nm0254522",
+                        "name": "Kenn Elliott",
+                        "description": "film assistant: Toybox (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Stunts",
+                "items": [
+                    {
+                        "id": "nm0185196",
+                        "name": "Peter Cox",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0428307",
+                        "name": "Jamie Jones",
+                        "description": "stunts"
+                    },
+                    {
+                        "id": "nm0717163",
+                        "name": "Alison Reid",
+                        "description": "stunt coordinator / stunts"
+                    },
+                    {
+                        "id": "nm0601774",
+                        "name": "Regan Moore",
+                        "description": "stunt performer (uncredited)"
+                    },
+                    {
+                        "id": "nm0646781",
+                        "name": "Billy Oliver",
+                        "description": "stunt driver (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Camera and Electrical Department",
+                "items": [
+                    {
+                        "id": "nm0082484",
+                        "name": "Jonathan Billings",
+                        "description": "dolly grip"
+                    },
+                    {
+                        "id": "nm0168234",
+                        "name": "Don Cochrane",
+                        "description": "electrician"
+                    },
+                    {
+                        "id": "nm0212731",
+                        "name": "Christopher Dean",
+                        "description": "key grip"
+                    },
+                    {
+                        "id": "nm0314433",
+                        "name": "Ava Gerlitz",
+                        "description": "still photographer"
+                    },
+                    {
+                        "id": "nm0353276",
+                        "name": "Dianne L. Haggarty",
+                        "description": "grip (as Dianne Haggarty)"
+                    },
+                    {
+                        "id": "nm0355903",
+                        "name": "Michael Hall",
+                        "description": "first assistant camera"
+                    },
+                    {
+                        "id": "nm0374552",
+                        "name": "Jeff Heintzman",
+                        "description": "best boy grip"
+                    },
+                    {
+                        "id": "nm0382952",
+                        "name": "Robert Hicks",
+                        "description": "best boy"
+                    },
+                    {
+                        "id": "nm0409908",
+                        "name": "Vanessa Ireson",
+                        "description": "second assistant camera"
+                    },
+                    {
+                        "id": "nm0418928",
+                        "name": "Delroy P. Jarrett",
+                        "description": "electrician (as Delroy Jarrett)"
+                    },
+                    {
+                        "id": "nm0435598",
+                        "name": "Chris Kalbfleisch",
+                        "description": "camera trainee"
+                    },
+                    {
+                        "id": "nm9039760",
+                        "name": "Martin Lake",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0487161",
+                        "name": "Philip Lanthier",
+                        "description": "grip (as Philip 'Buck' Lanthier)"
+                    },
+                    {
+                        "id": "nm0531420",
+                        "name": "Jim MacCammon",
+                        "description": "electrician (as James MacCammon)"
+                    },
+                    {
+                        "id": "nm0607423",
+                        "name": "Steven Morrisson",
+                        "description": "rigging gaffer (as Steve Morrisson)"
+                    },
+                    {
+                        "id": "nm0610315",
+                        "name": "David Moxness",
+                        "description": "gaffer"
+                    },
+                    {
+                        "id": "nm0669421",
+                        "name": "Andrew W. Peart",
+                        "description": "video playback operator (as Andrew Peart)"
+                    },
+                    {
+                        "id": "nm0683465",
+                        "name": "Adam Pill",
+                        "description": "grip"
+                    },
+                    {
+                        "id": "nm0686612",
+                        "name": "Michael Plant",
+                        "description": "generator operator"
+                    },
+                    {
+                        "id": "nm0005893",
+                        "name": "Peter Suschitzky",
+                        "description": "camera operator"
+                    },
+                    {
+                        "id": "nm0856630",
+                        "name": "Frank Teunissen",
+                        "description": "rigging grip"
+                    },
+                    {
+                        "id": "nm1379093",
+                        "name": "Mark D. Acheson",
+                        "description": "grip (uncredited)"
+                    },
+                    {
+                        "id": "nm0260032",
+                        "name": "Cinar Eryasar",
+                        "description": "electrician (uncredited)"
+                    },
+                    {
+                        "id": "nm1692336",
+                        "name": "Clement Lush",
+                        "description": "tape operator (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Casting Department",
+                "items": [
+                    {
+                        "id": "nm0336604",
+                        "name": "Elizabeth Gray",
+                        "description": "casting assistant"
+                    },
+                    {
+                        "id": "nm0491873",
+                        "name": "Eleanor Lavender",
+                        "description": "extras casting"
+                    }
+                ]
+            },
+            {
+                "job": "Costume and Wardrobe Department",
+                "items": [
+                    {
+                        "id": "nm0146382",
+                        "name": "Christina Cattle",
+                        "description": "assistant costume supervisor"
+                    },
+                    {
+                        "id": "nm0318863",
+                        "name": "Brenda Gilles",
+                        "description": "costume supervisor"
+                    },
+                    {
+                        "id": "nm0362898",
+                        "name": "Christopher Hargadon",
+                        "description": "assistant costume designer (as Chris Hargadon)"
+                    },
+                    {
+                        "id": "nm0498945",
+                        "name": "Lisette Lefevre",
+                        "description": "seamstress"
+                    },
+                    {
+                        "id": "nm0890852",
+                        "name": "Angie Vastagh",
+                        "description": "wardrobe assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Editorial Department",
+                "items": [
+                    {
+                        "id": "nm0232083",
+                        "name": "Christopher Donaldson",
+                        "description": "first assistant editor: film"
+                    },
+                    {
+                        "id": "nm0283370",
+                        "name": "Gary Fluxgold",
+                        "description": "first assistant editor: film"
+                    },
+                    {
+                        "id": "nm0534343",
+                        "name": "Andrew MacRitchie",
+                        "description": "assistant editor: UK"
+                    },
+                    {
+                        "id": "nm0550719",
+                        "name": "Aaron Marshall",
+                        "description": "trainee assistant editor"
+                    },
+                    {
+                        "id": "nm0605332",
+                        "name": "Sean Moriarity",
+                        "description": "post-production assistant"
+                    },
+                    {
+                        "id": "nm0002851",
+                        "name": "Ricardo Olivero",
+                        "description": "color timer"
+                    },
+                    {
+                        "id": "nm0710241",
+                        "name": "Catherine Rankin",
+                        "description": "negative cutter"
+                    },
+                    {
+                        "id": "nm0780382",
+                        "name": "Tad Seaborn",
+                        "description": "first assistant editor: avid"
+                    },
+                    {
+                        "id": "nm0914835",
+                        "name": "Peter Watson",
+                        "description": "first assistant editor: film"
+                    },
+                    {
+                        "id": "nm2331366",
+                        "name": "Pierre Cadieux",
+                        "description": "dailies colorist: second unit (uncredited)"
+                    },
+                    {
+                        "id": "nm0390995",
+                        "name": "Bill Holley",
+                        "description": "colorist (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Location Management",
+                "items": [
+                    {
+                        "id": "nm0066535",
+                        "name": "Debra Beers",
+                        "description": "location manager"
+                    },
+                    {
+                        "id": "nm0463919",
+                        "name": "Beverley Kolbe",
+                        "description": "assistant location manager"
+                    },
+                    {
+                        "id": "nm0517618",
+                        "name": "Mark Logan",
+                        "description": "location scout"
+                    },
+                    {
+                        "id": "nm0828191",
+                        "name": "James Steven",
+                        "description": "location production assistant"
+                    }
+                ]
+            },
+            {
+                "job": "Music Department",
+                "items": [
+                    {
+                        "id": "nm0020853",
+                        "name": "Nancy Allen",
+                        "description": "associate music editor"
+                    },
+                    {
+                        "id": "nm0171961",
+                        "name": "Rowan Collier",
+                        "description": "assistant music recording engineer"
+                    },
+                    {
+                        "id": "nm0182867",
+                        "name": "Robert Cotnoir",
+                        "description": "score mixer"
+                    },
+                    {
+                        "id": "nm0242965",
+                        "name": "Jennifer L. Dunnington",
+                        "description": "assistant music editor (as Jennifer Dunnington)"
+                    },
+                    {
+                        "id": "nm0267559",
+                        "name": "Dan Evans Farkas",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0442656",
+                        "name": "Lydia Kavina",
+                        "description": "musician: theremin"
+                    },
+                    {
+                        "id": "nm0507938",
+                        "name": "Dick Lewzey",
+                        "description": "music recording engineer"
+                    },
+                    {
+                        "id": "nm0537113",
+                        "name": "Kevin Mahonchak",
+                        "description": "music copyist"
+                    },
+                    {
+                        "id": "nm0673726",
+                        "name": "Suzana Peric",
+                        "description": "music editor"
+                    },
+                    {
+                        "id": "nm0006290",
+                        "name": "Howard Shore",
+                        "description": "conductor / music mixer / orchestrator"
+                    },
+                    {
+                        "id": "nm0003972",
+                        "name": "Ryan Shore",
+                        "description": "music copyist"
+                    },
+                    {
+                        "id": "nm0795604",
+                        "name": "Susan Shufro",
+                        "description": "assistant music editor (as Sue Shufro)"
+                    },
+                    {
+                        "id": "nm0180326",
+                        "name": "Ruth Cornes",
+                        "description": "orchestra contractor: LPO (uncredited)"
+                    },
+                    {
+                        "id": "nm0185483",
+                        "name": "Chris Cozens",
+                        "description": "auricle control systems (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Script and Continuity Department",
+                "items": [
+                    {
+                        "id": "nm0745417",
+                        "name": "Dug Rotstein",
+                        "description": "script supervisor"
+                    }
+                ]
+            },
+            {
+                "job": "Transportation Department",
+                "items": [
+                    {
+                        "id": "nm0307552",
+                        "name": "Matthew Garland",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0353215",
+                        "name": "Bill Hagan",
+                        "description": "transportation captain"
+                    },
+                    {
+                        "id": "nm0383476",
+                        "name": "Richard Higgins",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0498636",
+                        "name": "Bill Leeking",
+                        "description": "head driver"
+                    },
+                    {
+                        "id": "nm0605877",
+                        "name": "Don Morley",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0635834",
+                        "name": "Joe Norris",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0699859",
+                        "name": "Dave Puddister",
+                        "description": "driver: construction department"
+                    },
+                    {
+                        "id": "nm0720584",
+                        "name": "Don Retzer",
+                        "description": "transportation coordinator"
+                    },
+                    {
+                        "id": "nm0934515",
+                        "name": "Brad Winans",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0936922",
+                        "name": "Dean Wittaum",
+                        "description": "driver"
+                    },
+                    {
+                        "id": "nm0067394",
+                        "name": "John Bekavac",
+                        "description": "driver (uncredited)"
+                    }
+                ]
+            },
+            {
+                "job": "Other crew",
+                "items": [
+                    {
+                        "id": "nm0074235",
+                        "name": "John 'Frenchie' Berger",
+                        "description": "gun wrangler"
+                    },
+                    {
+                        "id": "nm0093385",
+                        "name": "Deanna Bolton",
+                        "description": "assistant: Mr. Hamori"
+                    },
+                    {
+                        "id": "nm0117980",
+                        "name": "Bruce Buchanan",
+                        "description": "technical advisor"
+                    },
+                    {
+                        "id": "nm0119736",
+                        "name": "Mark Bukator",
+                        "description": "production accountant"
+                    },
+                    {
+                        "id": "nm0132290",
+                        "name": "Cherri Campbell",
+                        "description": "executive assistant to Robert Lantos"
+                    },
+                    {
+                        "id": "nm0176705",
+                        "name": "Jane Conway",
+                        "description": "animal wrangler"
+                    },
+                    {
+                        "id": "nm0182867",
+                        "name": "Robert Cotnoir",
+                        "description": "synclavier programmer"
+                    },
+                    {
+                        "id": "nm0221484",
+                        "name": "Tony Desmond",
+                        "description": "assistant production accountant"
+                    },
+                    {
+                        "id": "nm0236408",
+                        "name": "Katherine Doyle",
+                        "description": "accountant: special effects unit"
+                    },
+                    {
+                        "id": "nm0256335",
+                        "name": "Prudence Emery",
+                        "description": "unit publicist"
+                    },
+                    {
+                        "id": "nm0280392",
+                        "name": "Tammy Fitzgerald",
+                        "description": "stand-in: Ms. Leigh"
+                    },
+                    {
+                        "id": "nm0291632",
+                        "name": "Andrea Franks",
+                        "description": "assistant production coordinator"
+                    },
+                    {
+                        "id": "nm0292254",
+                        "name": "Vic Fraser",
+                        "description": "librarian"
+                    },
+                    {
+                        "id": "nm0307802",
+                        "name": "David Garnett",
+                        "description": "office assistant"
+                    },
+                    {
+                        "id": "nm0325314",
+                        "name": "Simon Goldberg",
+                        "description": "legal services: Natural Nylon, UK"
+                    },
+                    {
+                        "id": "nm0335107",
+                        "name": "Anthony F. Grani",
+                        "description": "office assistant (as Anthony Grani)"
+                    },
+                    {
+                        "id": "nm0355352",
+                        "name": "Bob Hall",
+                        "description": "shop foreman"
+                    },
+                    {
+                        "id": "nm0366789",
+                        "name": "Tomas Hartl",
+                        "description": "purchasing agent"
+                    },
+                    {
+                        "id": "nm2576678",
+                        "name": "Robin Jonas",
+                        "description": "senior executive"
+                    },
+                    {
+                        "id": "nm0437631",
+                        "name": "Linda Kang",
+                        "description": "assistant: Mr. Hamori"
+                    },
+                    {
+                        "id": "nm0466527",
+                        "name": "Lacia Kornylo",
+                        "description": "head of production: Alliance Atlantis"
+                    },
+                    {
+                        "id": "nm0470531",
+                        "name": "Jeff Krebs",
+                        "description": "technical advisor: avid (as Jeffrey Krebs)"
+                    },
+                    {
+                        "id": "nm0474448",
+                        "name": "Jeff Kulbak",
+                        "description": "finance"
+                    },
+                    {
+                        "id": "nm0497812",
+                        "name": "Margaret Lee",
+                        "description": "assistant title designer: opening titles"
+                    },
+                    {
+                        "id": "nm0535776",
+                        "name": "Luz Magcawas",
+                        "description": "payroll clerk"
+                    },
+                    {
+                        "id": "nm0537113",
+                        "name": "Kevin Mahonchak",
+                        "description": "copyist"
+                    },
+                    {
+                        "id": "nm0585338",
+                        "name": "Rafal Mickiewicz",
+                        "description": "stand-in: Mr. Law"
+                    },
+                    {
+                        "id": "nm0601011",
+                        "name": "Cathy Moore",
+                        "description": "studio manager"
+                    },
+                    {
+                        "id": "nm0625054",
+                        "name": "John Nelles",
+                        "description": "dialect coach"
+                    },
+                    {
+                        "id": "nm0683431",
+                        "name": "Robert Pilichowski",
+                        "description": "title designer: opening titles (as Rob Pilichowski)"
+                    },
+                    {
+                        "id": "nm0737231",
+                        "name": "Teresa Rogers",
+                        "description": "production legal affairs"
+                    },
+                    {
+                        "id": "nm0003304",
+                        "name": "Andrew Rosen",
+                        "description": "production assistant: Alliance Atlantis"
+                    },
+                    {
+                        "id": "nm0773105",
+                        "name": "Marlene Schmidt",
+                        "description": "producer: opening titles"
+                    },
+                    {
+                        "id": "nm0784559",
+                        "name": "Elizabeth Senyi",
+                        "description": "production coordinator (as Elizabeth Senyi-Potechin)"
+                    },
+                    {
+                        "id": "nm0786557",
+                        "name": "Tracey Seward",
+                        "description": "head of production: Natural Nylon"
+                    },
+                    {
+                        "id": "nm0787532",
+                        "name": "Adam Shaheen",
+                        "description": "executive producer: opening titles"
+                    },
+                    {
+                        "id": "nm0821975",
+                        "name": "Kitty Stanbrook",
+                        "description": "production coordinator: Natural Nylon"
+                    },
+                    {
+                        "id": "nm0873525",
+                        "name": "Vay Trong",
+                        "description": "post-production accountant"
+                    },
+                    {
+                        "id": "nm1821548",
+                        "name": "Ben Tucker",
+                        "description": "office manager"
+                    },
+                    {
+                        "id": "nm0939535",
+                        "name": "Andrea Wood",
+                        "description": "business and legal affairs: Alliance Atlantis"
+                    },
+                    {
+                        "id": "nm2217321",
+                        "name": "Paul Hili",
+                        "description": "assistant online editor (uncredited)"
+                    },
+                    {
+                        "id": "nm0573312",
+                        "name": "Ray McMillan",
+                        "description": "rear projection supervisor (uncredited)"
+                    },
+                    {
+                        "id": "nm1210995",
+                        "name": "Nick Veziris",
+                        "description": "gun wrangler (uncredited)"
+                    }
+                ]
+            }
+        ],
+        "errorMessage": ""
+    },
+    "genres": "Horror, Sci-Fi, Thriller",
+    "genreList": [
+        {
+            "key": "Horror",
+            "value": "Horror"
+        },
+        {
+            "key": "Sci-Fi",
+            "value": "Sci-Fi"
+        },
+        {
+            "key": "Thriller",
+            "value": "Thriller"
+        }
+    ],
+    "companies": "Dimension Films, Alliance Atlantis Communications, Canadian Television Fund",
+    "companyList": [
+        {
+            "id": "co0019626",
+            "name": "Dimension Films"
+        },
+        {
+            "id": "co0054762",
+            "name": "Alliance Atlantis Communications"
+        },
+        {
+            "id": "co0012357",
+            "name": "Canadian Television Fund"
+        }
+    ],
+    "countries": "UK, France, Canada",
+    "countryList": [
+        {
+            "key": "UK",
+            "value": "UK"
+        },
+        {
+            "key": "France",
+            "value": "France"
+        },
+        {
+            "key": "Canada",
+            "value": "Canada"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "R",
+    "imDbRating": "6.8",
+    "imDbRatingVotes": "90579",
+    "metacriticRating": "68",
+    "ratings": {
+        "imDbId": "tt0120907",
+        "title": "eXistenZ",
+        "fullTitle": "eXistenZ (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "imDb": "6.8",
+        "metacritic": "68",
+        "theMovieDb": "6.9",
+        "rottenTomatoes": "74",
+        "tV_com": "8.8",
+        "filmAffinity": "6.2",
+        "errorMessage": ""
+    },
+    "wikipedia": {
+        "imDbId": "tt0120907",
+        "title": "eXistenZ",
+        "fullTitle": "eXistenZ (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "language": "en",
+        "titleInLanguage": "Existenz",
+        "url": "https://en.wikipedia.org/wiki/Existenz",
+        "plotShort": {
+            "plainText": "Existenz\r\nExistenz (stylized as eXistenZ) is a 1999 science fiction horror film written, produced and directed by David Cronenberg. The plot of the film follows a game designer named Allegra Geller, played by Jennifer Jason Leigh, who finds herself targeted by assassins while playing a virtual reality game of her own creation. An international co-production between Canada, the United Kingdom, and France, it also stars Jude Law, Ian Holm, Don McKellar, Callum Keith Rennie, Sarah Polley, Christopher Eccleston, Willem Dafoe, and Robert A. Silverman.\r\nThe film received mostly positive reviews upon release. Cronenberg was awarded a Silver Bear for Outstanding Artistic Contribution at the 49th Berlin International Film Festival for the film.",
+            "html": "<h2>Existenz</h2><p>Existenz (stylized as eXistenZ) is a 1999 science fiction horror film written, produced and directed by David Cronenberg. The plot of the film follows a game designer named Allegra Geller, played by Jennifer Jason Leigh, who finds herself targeted by assassins while playing a virtual reality game of her own creation. An international co-production between Canada, the United Kingdom, and France, it also stars Jude Law, Ian Holm, Don McKellar, Callum Keith Rennie, Sarah Polley, Christopher Eccleston, Willem Dafoe, and Robert A. Silverman.</p><p>The film received mostly positive reviews upon release. Cronenberg was awarded a Silver Bear for Outstanding Artistic Contribution at the 49th Berlin International Film Festival for the film.</p>"
+        },
+        "plotFull": {
+            "plainText": "Existenz\r\nExistenz (stylized as eXistenZ) is a 1999 science fiction horror film written, produced and directed by David Cronenberg. The plot of the film follows a game designer named Allegra Geller, played by Jennifer Jason Leigh, who finds herself targeted by assassins while playing a virtual reality game of her own creation. An international co-production between Canada, the United Kingdom, and France, it also stars Jude Law, Ian Holm, Don McKellar, Callum Keith Rennie, Sarah Polley, Christopher Eccleston, Willem Dafoe, and Robert A. Silverman.\r\nThe film received mostly positive reviews upon release. Cronenberg was awarded a Silver Bear for Outstanding Artistic Contribution at the 49th Berlin International Film Festival for the film.\r\nPlot\r\nIn the near-future, biotechnological virtual reality game consoles known as \"game pods\" have replaced electronic ones. The pods present \"UmbyCords\" that attach to \"bio-ports\", connectors surgically inserted into players' spines. Two game companies, Antenna Research and Cortical Systematics, compete against each other. In addition, the Realists fight both companies to prevent the \"deforming\" of reality.\r\nAntenna Research's Allegra Geller, a world renowned game designer, is demonstrating her latest virtual reality game, eXistenZ, to a focus group. A Realist named Noel Dichter shoots Allegra in the shoulder with an organic pistol he smuggled past security. As Dichter is gunned down by the security team, security guard and publicist Ted Pikul rushes to Geller and escorts her outside.\r\nGeller discovers that her pod, which contains the only copy of eXistenZ, may have been damaged. Pikul reluctantly agrees to have a bio-port installed in his spine so they can test the integrity of the game together. Allegra takes him to a gas station run by a black-marketeer named Gas, who deliberately installs a faulty bio-port. He reveals his intention to kill Geller for the bounty on her head. Pikul kills Gas, and the two escape to a former ski lodge used by Kiri Vinokur, Geller's mentor. Vinokur and his assistant repair the damaged pod and give Pikul a new bio-port.\r\nGeller and Pikul enter the game, and meet with D'Arcy Nader, a video game shop owner, who provides them with new \"micro pods\". They activate the new pods and enter a deeper layer of virtual reality.\r\nThey assume new identities as workers in a game pod factory. Another worker in the factory, Yevgeny Nourish, claims to be their Realist contact. At a Chinese restaurant near the factory, Nourish recommends that they order the special for lunch. Pikul eats the unappetizing special, and constructs a pistol out of the inedible parts. In jest, he threatens Geller, then shoots the Chinese waiter. When the pair return to the game store, Hugo Carlaw informs them that Nourish is actually a double agent for Cortical Systematics, and the waiter Pikul murdered was the actual contact.\r\nAt the factory, they find a diseased pod. Geller connects it to her bio-port as part of a plan to infect the other pods and sabotage the factory. When Geller quickly becomes ill, Pikul cuts the UmbyCord, but she begins to bleed to death. Nourish appears with a flamethrower and blasts the diseased pod, which bursts into deadly spores.\r\nGeller and Pikul awaken back at the ski lodge, where they discover Geller's game pod is also diseased. Geller surmises that Pikul's new bio-port must have been infected by Vinokur to destroy her game. She inserts a disinfecting device into Pikul's bioport. Unexpectedly, Carlaw reappears as a Realist resistance fighter and escorts Geller and Pikul outside to witness the death of eXistenZ. Before Carlaw can kill Geller, he is shot in the back by Vinokur, who is a double agent for Cortical Systematics. He informs Geller that he copied her game data while he was fixing her pod. In revenge, she kills Vinokur. Pikul then reveals that he himself is a Realist sent to kill her. Geller tells Pikul she had known his intentions since he pointed the gun at her in the Chinese restaurant, and she remotely detonates the disinfecting device in his bioport, killing him.\r\nSuddenly, Pikul and Geller are seated in chairs in a small abandoned church, seeing rows of pews as they come to, together with all of the other members of the cast, all wearing blue electronic virtual reality devices. Nourish explains that the story was all part of a virtual reality game he designed called transCendenZ. He tells his assistant Merle that he feels uneasy, because the anti-game plot elements may have originated from the thoughts of one of the testers. Pikul and Geller approach Nourish and accuse him of distorting reality, before shooting him and Merle to death. As Pikul and Geller leave, they aim their guns at the person who played the Chinese waiter, who first pleads for his life, then asks if they are still in the game. Pikul and Geller stand together in silence, not answering.\r\nCast\r\nJennifer Jason Leigh as Allegra Geller\r\nJude Law as Ted Pikul\r\nIan Holm as Kiri Vinokur\r\nDon McKellar as Yevgeny Nourish\r\nCallum Keith Rennie as Hugo Carlaw\r\nSarah Polley as Merle\r\nChristopher Eccleston as the Seminar Leader\r\nWillem Dafoe as Gas\r\nRobert A. Silverman as D'Arcy Nader\r\nOscar Hsu as Chinese Waiter\r\nKris Lemche as Noel Dichter\r\nVik Sahay as Male Assistant\r\nProduction\r\nThe film's plot came about after Cronenberg conducted an interview with Salman Rushdie for Shift magazine in 1995. At the time, Rushdie was in hiding due to a Fatwa being put on his life by Muslim extremists due to his controversial book The Satanic Verses. Rushdie's dilemma gave Cronenberg an idea of \"a Fatwa against a virtual-reality game designer\". Existenz was originally pitched to Metro-Goldwyn-Mayer, but they did not green-light the film due to its complex structure.\r\nNovelizations\r\nChristopher Priest wrote the tie-in novel to accompany the movie Existenz, the theme of which has much in common with some of Priest's own novels.\r\nIn 1999, a graphic novel credited to David Cronenberg and Sean Scoffield was published.\r\nReception\r\nThe film received generally positive reviews, with a 71% approval rating at Rotten Tomatoes. The site's summary stated of the film: \"Gooey, slimy, grotesque fun.\" Film critic Roger Ebert gave the film three stars in his review of the film. Noting its release after fellow science-fiction film The Matrix, he compared the two, stating that while both have special effects, he stated that Cronenberg's film was stranger along with having his best effects involve \"gooey, indescribable organic things\". Conversely, James Berardinelli gave the film a two star rating in his review. He cites the disjointed feel of the film, calling it a \"missed opportunity\" that suffers from being released near The Matrix and Open Your Eyes, which he states did similar things that were accomplished better in those films.\r\nAccolades\r\n49th Berlin International Film Festival\r\nWon, Silver Bear for outstanding artistic contribution David Cronenberg\r\nNominated, Golden Bear: David Cronenberg\r\nAmsterdam Fantastic Film Festival\r\nWon, Silver Scream: David Cronenberg\r\nGenie Awards\r\nWon, Best Achievement in Editing: Ronald Sanders\r\nNominated, Best Achievement in Art Direction/Production Design: Carol Spier, and Elinor Rose Galbraith\r\nNominated, Best Motion Picture: David Cronenberg, Robert Lantos, and Andras Hamori\r\nGolden Reel Awards\r\nNominated, Best Sound Editing in a Foreign Feature: David Evans, Wayne Griffin, Mark Gingras, John Laing, Tom Bjelic, and Paul Shikata\r\nSaturn Awards\r\nNominated, Best Science Fiction Film (lost to The Matrix)",
+            "html": "<h2>Existenz</h2><p>Existenz (stylized as eXistenZ) is a 1999 science fiction horror film written, produced and directed by David Cronenberg. The plot of the film follows a game designer named Allegra Geller, played by Jennifer Jason Leigh, who finds herself targeted by assassins while playing a virtual reality game of her own creation. An international co-production between Canada, the United Kingdom, and France, it also stars Jude Law, Ian Holm, Don McKellar, Callum Keith Rennie, Sarah Polley, Christopher Eccleston, Willem Dafoe, and Robert A. Silverman.</p><p>The film received mostly positive reviews upon release. Cronenberg was awarded a Silver Bear for Outstanding Artistic Contribution at the 49th Berlin International Film Festival for the film.</p><br/><h3>Plot</h3><p>In the near-future, biotechnological virtual reality game consoles known as \"game pods\" have replaced electronic ones. The pods present \"UmbyCords\" that attach to \"bio-ports\", connectors surgically inserted into players' spines. Two game companies, Antenna Research and Cortical Systematics, compete against each other. In addition, the Realists fight both companies to prevent the \"deforming\" of reality.</p><p>Antenna Research's Allegra Geller, a world renowned game designer, is demonstrating her latest virtual reality game, eXistenZ, to a focus group. A Realist named Noel Dichter shoots Allegra in the shoulder with an organic pistol he smuggled past security. As Dichter is gunned down by the security team, security guard and publicist Ted Pikul rushes to Geller and escorts her outside.</p><p>Geller discovers that her pod, which contains the only copy of eXistenZ, may have been damaged. Pikul reluctantly agrees to have a bio-port installed in his spine so they can test the integrity of the game together. Allegra takes him to a gas station run by a black-marketeer named Gas, who deliberately installs a faulty bio-port. He reveals his intention to kill Geller for the bounty on her head. Pikul kills Gas, and the two escape to a former ski lodge used by Kiri Vinokur, Geller's mentor. Vinokur and his assistant repair the damaged pod and give Pikul a new bio-port.</p><p>Geller and Pikul enter the game, and meet with D'Arcy Nader, a video game shop owner, who provides them with new \"micro pods\". They activate the new pods and enter a deeper layer of virtual reality.</p><p>They assume new identities as workers in a game pod factory. Another worker in the factory, Yevgeny Nourish, claims to be their Realist contact. At a Chinese restaurant near the factory, Nourish recommends that they order the special for lunch. Pikul eats the unappetizing special, and constructs a pistol out of the inedible parts. In jest, he threatens Geller, then shoots the Chinese waiter. When the pair return to the game store, Hugo Carlaw informs them that Nourish is actually a double agent for Cortical Systematics, and the waiter Pikul murdered was the actual contact.</p><p>At the factory, they find a diseased pod. Geller connects it to her bio-port as part of a plan to infect the other pods and sabotage the factory. When Geller quickly becomes ill, Pikul cuts the UmbyCord, but she begins to bleed to death. Nourish appears with a flamethrower and blasts the diseased pod, which bursts into deadly spores.</p><p>Geller and Pikul awaken back at the ski lodge, where they discover Geller's game pod is also diseased. Geller surmises that Pikul's new bio-port must have been infected by Vinokur to destroy her game. She inserts a disinfecting device into Pikul's bioport. Unexpectedly, Carlaw reappears as a Realist resistance fighter and escorts Geller and Pikul outside to witness the death of eXistenZ. Before Carlaw can kill Geller, he is shot in the back by Vinokur, who is a double agent for Cortical Systematics. He informs Geller that he copied her game data while he was fixing her pod. In revenge, she kills Vinokur. Pikul then reveals that he himself is a Realist sent to kill her. Geller tells Pikul she had known his intentions since he pointed the gun at her in the Chinese restaurant, and she remotely detonates the disinfecting device in his bioport, killing him.</p><p>Suddenly, Pikul and Geller are seated in chairs in a small abandoned church, seeing rows of pews as they come to, together with all of the other members of the cast, all wearing blue electronic virtual reality devices. Nourish explains that the story was all part of a virtual reality game he designed called transCendenZ. He tells his assistant Merle that he feels uneasy, because the anti-game plot elements may have originated from the thoughts of one of the testers. Pikul and Geller approach Nourish and accuse him of distorting reality, before shooting him and Merle to death. As Pikul and Geller leave, they aim their guns at the person who played the Chinese waiter, who first pleads for his life, then asks if they are still in the game. Pikul and Geller stand together in silence, not answering.</p><br/><h3>Cast</h3><ul><li>Jennifer Jason Leigh as Allegra Geller</li><li>Jude Law as Ted Pikul</li><li>Ian Holm as Kiri Vinokur</li><li>Don McKellar as Yevgeny Nourish</li><li>Callum Keith Rennie as Hugo Carlaw</li><li>Sarah Polley as Merle</li><li>Christopher Eccleston as the Seminar Leader</li><li>Willem Dafoe as Gas</li><li>Robert A. Silverman as D'Arcy Nader</li><li>Oscar Hsu as Chinese Waiter</li><li>Kris Lemche as Noel Dichter</li><li>Vik Sahay as Male Assistant</li></ul><br/><h3>Production</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><td class=\"mbox-text\"><span class=\"ambox-learn-more\">Learn more</span><div class=\"mw-ui-icon mw-ui-icon-minerva-issue-severity-medium-mediumColor mw-ui-icon-element mw-ui-icon-flush-top mw-ui-icon-small\"></div><div class=\"mbox-text-span\">This section <b>needs expansion</b>. <small>You can help by <span class=\"external text\">adding to it</span>.</small>  <small class=\"date-container\"><i>(<span class=\"date\">November 2017</span>)</i></small></div></td></tr></tbody></table><p>The film's plot came about after Cronenberg conducted an interview with Salman Rushdie for Shift magazine in 1995. At the time, Rushdie was in hiding due to a Fatwa being put on his life by Muslim extremists due to his controversial book The Satanic Verses. Rushdie's dilemma gave Cronenberg an idea of \"a Fatwa against a virtual-reality game designer\". Existenz was originally pitched to Metro-Goldwyn-Mayer, but they did not green-light the film due to its complex structure.</p><br/><h3>Novelizations</h3><ul><li>Christopher Priest wrote the tie-in novel to accompany the movie Existenz, the theme of which has much in common with some of Priest's own novels.</li><li>In 1999, a graphic novel credited to David Cronenberg and Sean Scoffield was published.</li></ul><br/><h3>Reception</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><td class=\"mbox-text\"><span class=\"ambox-learn-more\">Learn more</span><div class=\"mw-ui-icon mw-ui-icon-minerva-issue-severity-medium-mediumColor mw-ui-icon-element mw-ui-icon-flush-top mw-ui-icon-small\"></div><div class=\"mbox-text-span\">This section <b>needs expansion</b>. <small>You can help by <span class=\"external text\">adding to it</span>.</small>  <small class=\"date-container\"><i>(<span class=\"date\">November 2017</span>)</i></small></div></td></tr></tbody></table><p>The film received generally positive reviews, with a 71% approval rating at Rotten Tomatoes. The site's summary stated of the film: \"Gooey, slimy, grotesque fun.\" Film critic Roger Ebert gave the film three stars in his review of the film. Noting its release after fellow science-fiction film The Matrix, he compared the two, stating that while both have special effects, he stated that Cronenberg's film was stranger along with having his best effects involve \"gooey, indescribable organic things\". Conversely, James Berardinelli gave the film a two star rating in his review. He cites the disjointed feel of the film, calling it a \"missed opportunity\" that suffers from being released near The Matrix and Open Your Eyes, which he states did similar things that were accomplished better in those films.</p><br/><h3>Accolades</h3><p>49th Berlin International Film Festival</p><ul><li>Won, Silver Bear for outstanding artistic contribution David Cronenberg</li><li>Nominated, Golden Bear: David Cronenberg</li></ul><p>Amsterdam Fantastic Film Festival</p><ul><li>Won, Silver Scream: David Cronenberg</li></ul><p>Genie Awards</p><ul><li>Won, Best Achievement in Editing: Ronald Sanders</li><li>Nominated, Best Achievement in Art Direction/Production Design: Carol Spier, and Elinor Rose Galbraith</li><li>Nominated, Best Motion Picture: David Cronenberg, Robert Lantos, and Andras Hamori</li></ul><p>Golden Reel Awards</p><ul><li>Nominated, Best Sound Editing in a Foreign Feature: David Evans, Wayne Griffin, Mark Gingras, John Laing, Tom Bjelic, and Paul Shikata</li></ul><p>Saturn Awards</p><ul><li>Nominated, Best Science Fiction Film (lost to The Matrix)</li></ul><br/>"
+        },
+        "errorMessage": ""
+    },
+    "posters": {
+        "imDbId": "tt0120907",
+        "title": "eXistenZ",
+        "fullTitle": "eXistenZ (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "posters": [
+            {
+                "id": "1iJKMe0TxTmaczmczRdqAaP3P7k.jpg",
+                "link": "https://imdb-api.com/posters/original/1iJKMe0TxTmaczmczRdqAaP3P7k.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "xx1s5oKz3LUPKMDKJRxqXnzUIAl.jpg",
+                "link": "https://imdb-api.com/posters/original/xx1s5oKz3LUPKMDKJRxqXnzUIAl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+                "link": "https://imdb-api.com/posters/original/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "qBRFrnCDA3C05XPcGVnBuAWP9nH.jpg",
+                "link": "https://imdb-api.com/posters/original/qBRFrnCDA3C05XPcGVnBuAWP9nH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0120907",
+        "title": "eXistenZ",
+        "fullTitle": "eXistenZ (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "items": [
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwMjc1NDM2N15BMl5BanBnXkFtZTcwMDQ0MTIyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4NzU3NzQ1Nl5BMl5BanBnXkFtZTYwNjU1NDg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzOTE4NjQ1N15BMl5BanBnXkFtZTYwOTA1OTg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgxNTg0Mzg1MV5BMl5BanBnXkFtZTYwNjQwNTM5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxODA1Njc4OF5BMl5BanBnXkFtZTYwMTk5Mjc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxOTAxMjE2M15BMl5BanBnXkFtZTcwNjg3MDEyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwMDMyOTIxNl5BMl5BanBnXkFtZTcwNTcwMTEyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1Njg0NTU5M15BMl5BanBnXkFtZTcwNTgzNTkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BM2I3MTA4YjQtYTgwOC00MzMwLWI1YjAtM2Q1OTlhNDhmZDdlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZTliNjUwMWEtNzgzYS00MDg3LThiODctNDRmZmY1OWUzMzRhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Christopher Eccleston in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNDdlMThmZTItMWE2MS00MTVhLWIzMzItMTBmMDcyYmZmNzU0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Christopher Eccleston in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BOGQwOWIwMjYtMDdjOC00NmRjLWJjYWQtN2QwNDFmYmQ3NDY4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZWJlZjNjOGUtMmU5Ny00YzA3LThlMmMtZGIyNTc2NjA2NzQ3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYmVlMWUzNzEtY2U5OC00ODZlLTk5OTUtMTNjNDBiM2UwZDFkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BY2ZjMjNkYmQtNTFiZS00MTdhLTk5Y2ItM2MzNDc0NDM2ODdmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZmM0ZDE1NTYtODdkYi00NDVjLTlmMzctOTA1NGZlMmI0MzBkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMDY1MjdhMzktODQ0Yy00NzNhLWIwOWYtNTcyOTRlZDIyZTk1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZWFiYTg5ZDktZGFhZi00NDlkLWJiZmMtNjQyOGE2ZmM1ZTg5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNmRlOTRkYzgtZGJiNi00ODI1LWFjZTMtZTYwOGRkNTYzYTMxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU0NzE3ZjUtMWUyMC00MmVkLWJjNjAtYmI0OTAxNzNkNDZmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZjUyNmQyNzctYjUyOS00Y2U1LTlhZTYtMDJjMGFjM2Y4NWE2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMzZmNDE5MzUtNjA0MS00NjczLWE1N2UtYzg3MjY2MWUyNjg4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNjU0MTZhOTUtODg1Yi00MWM4LWI5MWUtYjg5ZDk3OGIyNTQ3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZDVkZWIxYWYtYTM4MS00MGQ5LWIyZWMtYjA4MzZkZWE1YjAxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BMDVmZjJhMGMtNTA1Mi00NTlhLThjZDctNGExZGY1MmRkODg2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Sarah Polley in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BODlmY2ZlOTMtMzk3ZC00MmMyLWE1NzMtNDljNmEwYjk0NmIxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BN2VmMGJlOWYtYTZiMi00OWRjLThjYmYtZGI5MzNjNjIzNjM4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNmM3YmRmZjAtMjcwMS00MzViLWIxZTEtYTFjY2NhYTFhMWM1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZDQwMGJlZTEtMTI5MC00OTcxLWE3NzctODRmNDQ2MmRmNjE2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNGJkMjZlOGUtOGIxOC00OWQ4LWFjZmUtMTdkYWE0OTM4ZTU5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BY2M0MDcyMjktMjRjYS00ZWMyLWE3M2MtZjc2MWQ0M2QyMTgzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYTViNjdhYjktMDRmMC00MzdmLWIyNjQtZjQ2NWY5ZTliYTVmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNGMxMWFmODEtZDk4Ni00ZTEyLTk0ZGQtMmQwY2JiYmIxOWE2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNDY3MTVlMjktMjI3YS00YzQ5LWE3MjctZmNkMzQxZjBjNDU5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BOGM0N2Q0ZWEtMzQ3ZS00ZThhLTlkMzEtNDNiMDJjMWEwOTE0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jude Law in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BODgzMGEzMTItYTUxMi00OGZiLWEwNjktZTg4YTRjZWVmMWFmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZTVkNjQ3NTQtOTkwNy00ZDhjLWI2NzItMTE3YjUzMWI5ZTVmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Willem Dafoe in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNDY2MjZmN2YtNjk0OC00MTc2LWFkN2MtMTg4OGQyNThjMWU4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNTVmYWJmZjAtNWIzYy00ZGRlLWJkNGUtYzYzYTk1M2YzM2ExXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNWE2MmI5MmUtZTQwYy00YmNhLWE5NTctMDY2NDliOTM2NzU1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BM2U2Y2Y3MGQtYTg4Mi00N2RhLWFlZjMtNjY3NDBiMTY3ZGUxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Kris Lemche in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BODM3MjQwNGQtY2NjNi00MGRlLWEzMzAtNTlmODg1ZTExYjczXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BZmFjNTdjNDQtZjYyZS00YTQ2LWFmNDMtNzcyMjBmNDhhMDQ4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BNmE1Y2VjOWUtYTk5Ni00NjU5LWEwM2EtNGU4MTQ3ODNjYmE5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Don McKellar in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BOTEwZjBiYTktMzQ2ZS00OTYwLThjZmYtY2Y4YjlhZTg4MjUwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Ian Holm in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYzc5N2Q0MjEtZmI1Mi00M2E2LWI1OWEtNjRkYzQ1ZGQwZjc2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BY2E3MGVlNDUtZDY5NC00YzRhLTgyOWYtNmY5MTUyZTQ3NWU4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Jason Leigh in eXistenZ (1999)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJlNjgyZTUtMDkxMi00ZDk3LWIyMjUtZGNlZjk0MDRhZjJkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0120907",
+        "title": "eXistenZ",
+        "fullTitle": "eXistenZ (1999)",
+        "type": "Movie",
+        "year": "1999",
+        "videoId": "vi27656473",
+        "videoTitle": "eXistenZ",
+        "videoDescription": "Trailer for eXistenZ",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDc2NjZjZDctNmY2ZS00N2M4LTg0OTctNTE5ZTc1YzJiZjFjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 14:03:21",
+        "link": "https://www.imdb.com/video/vi27656473",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi27656473/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$15,000,000 (estimated)",
+        "openingWeekendUSA": "$810,262, 25 April 1999",
+        "grossUSA": "$2,856,712",
+        "cumulativeWorldwideGross": "$2,856,712"
+    },
+    "tagline": "A game to live or to die for.",
+    "keywords": "game,alternate reality,game designer,body horror,parallel world",
+    "keywordList": [
+        "game",
+        "alternate reality",
+        "game designer",
+        "body horror",
+        "parallel world"
+    ],
+    "similars": [
+        {
+            "id": "tt0102511",
+            "title": "Naked Lunch",
+            "fullTitle": "Naked Lunch (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BMTRiOTQ2ZWQtMmIwYy00Y2Y3LWFmMzgtNzgzZWU1MDhlOGJhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After developing an addiction to the substance he uses to kill bugs, an exterminator accidentally kills his wife, and becomes involved in a secret government plot being orchestrated by giant bugs in a port town in North Africa.",
+            "directors": "David Cronenberg",
+            "stars": "Peter Weller, Judy Davis, Ian Holm",
+            "genres": "Drama",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0115964",
+            "title": "Crash",
+            "fullTitle": "Crash (1996)",
+            "year": "1996",
+            "image": "https://imdb-api.com/images/original/MV5BZjlhMDBlNDQtMjZkZi00NzJmLWI4MTgtZDdkMzZmZDcyZGNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "After getting into a serious car accident, a TV director discovers an underground sub-culture of scarred, omnisexual car-crash victims who use car accidents and the raw sexual energy they produce to try to rejuvenate his sex life with his wife.",
+            "directors": "David Cronenberg",
+            "stars": "James Spader, Holly Hunter, Elias Koteas",
+            "genres": "Drama",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt0086541",
+            "title": "Videodrome",
+            "fullTitle": "Videodrome (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BNzdlNDk0YTMtNWJjOS00NzhlLThiOTAtZDUyOWNkNDQ2NmU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When he acquires a different kind of show for his station, a sleazy cable-TV programmer begins to see his life and the future of media spin out of control in a terrifying new reality.",
+            "directors": "David Cronenberg",
+            "stars": "James Woods, Debbie Harry, Sonja Smits",
+            "genres": "Horror, Sci-Fi, Thriller",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0094964",
+            "title": "Dead Ringers",
+            "fullTitle": "Dead Ringers (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BYTY4MTVhZGEtNGUyMS00Y2ZhLTlmN2EtMWI1YTYxMGYyN2I1XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Twin gynecologists take full advantage of the fact that nobody can tell them apart, until their relationship begins to deteriorate over a woman.",
+            "directors": "David Cronenberg",
+            "stars": "Jeremy Irons, Genevi\u00e8ve Bujold, Heidi von Palleske",
+            "genres": "Drama, Horror, Thriller",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0081455",
+            "title": "Scanners",
+            "fullTitle": "Scanners (1981)",
+            "year": "1981",
+            "image": "https://imdb-api.com/images/original/MV5BMjQwNDE0MDM0NV5BMl5BanBnXkFtZTgwOTU0ODgwNzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A scientist sends a man with extraordinary psychic powers to hunt others like him.",
+            "directors": "David Cronenberg",
+            "stars": "Jennifer O'Neill, Stephen Lack, Patrick McGoohan",
+            "genres": "Horror, Sci-Fi, Thriller",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0278731",
+            "title": "Spider",
+            "fullTitle": "Spider (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BMmY4OGRmNWMtNmIyNS00YWQ5LWJmMGUtMDI3MWRlMmQ0ZDQzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A mentally disturbed man takes residence in a halfway house. His mind gradually slips back into the realm created by his illness, where he replays a key part of his childhood.",
+            "directors": "David Cronenberg",
+            "stars": "Ralph Fiennes, Miranda Richardson, Gabriel Byrne",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0078908",
+            "title": "The Brood",
+            "fullTitle": "The Brood (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMzY0YzY5N2MtZTI2MS00N2E0LWJiYzQtMWU4ZWFkN2MzNjlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man tries to uncover an unconventional psychologist's therapy techniques on his institutionalized wife, amidst a series of brutal murders.",
+            "directors": "David Cronenberg",
+            "stars": "Oliver Reed, Samantha Eggar, Art Hindle",
+            "genres": "Horror, Sci-Fi",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0091064",
+            "title": "The Fly",
+            "fullTitle": "The Fly (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.",
+            "directors": "David Cronenberg",
+            "stars": "Jeff Goldblum, Geena Davis, John Getz",
+            "genres": "Drama, Horror, Sci-Fi",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0085407",
+            "title": "The Dead Zone",
+            "fullTitle": "The Dead Zone (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BMDk2ZGVkY2UtZGE0MS00NTY1LThiZjYtYjQxMTAwMjM5M2VlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man awakens from a coma to discover he has a psychic ability.",
+            "directors": "David Cronenberg",
+            "stars": "Christopher Walken, Brooke Adams, Tom Skerritt",
+            "genres": "Drama, Horror, Sci-Fi",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0399146",
+            "title": "A History of Violence",
+            "fullTitle": "A History of Violence (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mild-mannered man becomes a local hero through an act of violence, which sets off repercussions that will shake his family to its very core in this action thriller.",
+            "directors": "David Cronenberg",
+            "stars": "Viggo Mortensen, Maria Bello, Ed Harris",
+            "genres": "Drama, Thriller",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0107468",
+            "title": "M. Butterfly",
+            "fullTitle": "M. Butterfly (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BODhhMGEwOGEtNDJjMi00OWQ1LThlZjItNTk3Y2IzZThlNjdkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1960s China, French diplomat Rene Gallimard falls in love with an opera singer, Song Liling - but Song is not at all who Gallimard thinks.",
+            "directors": "David Cronenberg",
+            "stars": "Jeremy Irons, John Lone, Barbara Sukowa",
+            "genres": "Drama, Romance",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0765443",
+            "title": "Eastern Promises",
+            "fullTitle": "Eastern Promises (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTcwMzU0OTY3NF5BMl5BanBnXkFtZTYwNzkwNjg2._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Russian teenager living in London who dies during childbirth leaves clues to a midwife in her journal that could tie her child to a rape involving a violent Russian mob family.",
+            "directors": "David Cronenberg",
+            "stars": "Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "7.6"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
